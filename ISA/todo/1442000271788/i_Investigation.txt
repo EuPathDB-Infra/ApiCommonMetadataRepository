@@ -11,7 +11,7 @@ Investigation Submission Date	""
 Investigation Public Release Date	""
 Comment [Created with configuration]	""
 Comment [Last Opened With Configuration]	"isaconfig-eupath_v2015-09-01"
-Comment [Created With Configuration]	"/home/jbrestel/projects/EuPathMetadataRepository/ISA/config/isaconfig-eupath_v2015-09-01"
+Comment [Created With Configuration]	"/home/jbrestel/projects/ApiCommonMetadataRepository/ISA/config/isaconfig-eupath_v2015-09-01"
 INVESTIGATION PUBLICATIONS
 Investigation PubMed ID	""
 Investigation Publication DOI	""

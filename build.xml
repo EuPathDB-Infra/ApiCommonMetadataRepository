@@ -1,4 +1,4 @@
-<project name="EuPathMetadataRepository" default="Installation" basedir=".">
+<project name="ApiCommonMetadataRepository" default="Installation" basedir=".">
 
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
   <!-- oooooooooooooooooooooooooo  Dependencies  oooooooooooooooooooooooooo -->
@@ -9,7 +9,7 @@
   <!-- oooooooooooooooooooooooooo    Checkout    oooooooooooooooooooooooooo -->
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
 
-  <target name="EuPathMetadataRepository-ChildCheckout">
+  <target name="ApiCommonMetadataRepository-ChildCheckout">
     <available file="../ApiCommonWorkflow" type="dir" property="ApiCommonWorkflow.present" />
     <antcall target="ApiCommonWorkflow-Checkout" />
   </target>
@@ -19,7 +19,7 @@
   <!-- oooooooooooooooooooooooooo    Update    oooooooooooooooooooooooooo -->
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
 
-  <target name="EuPathMetadataRepository-ChildUpdate" >
+  <target name="ApiCommonMetadataRepository-ChildUpdate" >
     <ant target="defaultProjectUpdate">
       <property name="project" value="ApiCommonWorkflow"/>
     </ant>
@@ -29,17 +29,17 @@
   <!-- oooooooooooooooooooooooooo  Installation  oooooooooooooooooooooooooo -->
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
 
-  <target name="EuPathMetadataRepository-Installation" depends="EuPathMetadataRepository/ISA-Installation">
+  <target name="ApiCommonMetadataRepository-Installation" depends="ApiCommonMetadataRepository/ISA-Installation">
     <ant target="defaultProjectInstall">
-      <property name="project" value="EuPathMetadataRepository"/>
+      <property name="project" value="ApiCommonMetadataRepository"/>
     </ant>
   </target>  
    
 
   <!-- oooooooooooooooooo  Installation Postprocess  ooooooooooooooooooooo -->
 
-  <target name="EuPathMetadataRepository-Installation-postprocess">
-    <echo message="Postprocessing the EuPathMetadataRepository installation"/>
+  <target name="ApiCommonMetadataRepository-Installation-postprocess">
+    <echo message="Postprocessing the ApiCommonMetadataRepository installation"/>
 
     <replace dir="${targetDir}/bin" 
              propertyFile="${targetDir}/config/replacements.prop" > 
@@ -52,9 +52,9 @@
 
   <!-- ooooooooooooooooooooooo  Install Components  ooooooooooooooooooooooo -->
 
-  <target name="EuPathMetadataRepository/ISA-Installation" depends="ProjectTree">
+  <target name="ApiCommonMetadataRepository/ISA-Installation" depends="ProjectTree">
     <ant target="defaultComponentInstall">
-      <property name="project" value="EuPathMetadataRepository"/>
+      <property name="project" value="ApiCommonMetadataRepository"/>
       <property name="component" value="ISA"/>
     </ant>
 
@@ -66,7 +66,7 @@
   <!-- oooooooooooooooooooooooooo  Distributable  ooooooooooooooooooooooooo -->
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
 
-  <target name="EuPathMetadataRepository-Distributable" depends="ProjectTree">
+  <target name="ApiCommonMetadataRepository-Distributable" depends="ProjectTree">
 
     <copy todir="${targetDir}">
       <fileset dir="${projectsDir}" >
