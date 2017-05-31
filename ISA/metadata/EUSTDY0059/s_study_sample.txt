@@ -4,12 +4,12 @@ Bab02	B. microti 42 global isolates from human, tick and rodent			human		Massach
 Bab03	B. microti 42 global isolates from human, tick and rodent			human		Massachusetts  General Hospital	USA	Topsfield, MA	2014
 Bab04	B. microti 42 global isolates from human, tick and rodent			human		Massachusetts  General Hospital	USA	Bedford, MA	2014
 Bab05	B. microti 42 global isolates from human, tick and rodent			human		Massachusetts  General Hospital	USA	Lyndeborough, NH	2014
-Bab06	B. microti 42 global isolates from human, tick and rodent			human		Brigham and Women’s Hospital			2015
+Bab06	B. microti 42 global isolates from human, tick and rodent			human		Brigham and Women's Hospital			2015
 Bab07	B. microti 42 global isolates from human, tick and rodent			human		Faulkner			2015
-Bab08	B. microti 42 global isolates from human, tick and rodent			human		Brigham and Women’s Hospital			2015
-Bab10	B. microti 42 global isolates from human, tick and rodent			human		Brigham and Women’s Hospital	USA	Stonington, CT	2015
+Bab08	B. microti 42 global isolates from human, tick and rodent			human		Brigham and Women's Hospital			2015
+Bab10	B. microti 42 global isolates from human, tick and rodent			human		Brigham and Women's Hospital	USA	Stonington, CT	2015
 Bab11	B. microti 42 global isolates from human, tick and rodent			human		Massachusetts  General Hospital	USA	Norwell, MA	2015
-Bab12	B. microti 42 global isolates from human, tick and rodent			human		Brigham and Women’s Hospital			2015
+Bab12	B. microti 42 global isolates from human, tick and rodent			human		Brigham and Women's Hospital			2015
 Bab13	B. microti 42 global isolates from human, tick and rodent			human		Massachusetts  General Hospital	USA	Kennebunk, ME	2015
 Bab14	B. microti 42 global isolates from human, tick and rodent			human		Massachusetts  General Hospital	USA	South Dennis, MA	2015
 Bab15	B. microti 42 global isolates from human, tick and rodent			human		Massachusetts  General Hospital	USA	Winchester, MA	2015
@@ -35,8 +35,8 @@ RMNS1997	B. microti 42 global isolates from human, tick and rodent			human	golde
 RMNS2001	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster		USA	Nantucket, MA	2012
 MGH2001	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster	Massachusetts  General Hospital			2001
 MN-1	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster	Minnesota			1995
-BWH2014	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster	Nantucket Cottage Hospital/Brigham and Women’s Hospital			2014
-BWH2003	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster	Brigham and Women’s Hospital			2003
+BWH2014	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster	Nantucket Cottage Hospital/Brigham and Women's Hospital			2014
+BWH2003	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster	Brigham and Women's Hospital			2003
 MORNS2015	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster	Melrose Wakefield Hospital			2015
 PI2000	B. microti 42 global isolates from human, tick and rodent			tick			USA	Prudence Island, RI	2000
 SN1988	B. microti 42 global isolates from human, tick and rodent			tick			USA	Sandy Neck, MA	1998
