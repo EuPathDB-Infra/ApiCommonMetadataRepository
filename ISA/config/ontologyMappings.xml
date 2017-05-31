@@ -501,13 +501,7 @@
   <ontologyTerm source_id="PATO_0000383" type="characteristicValue" parent="characteristicQualifier">
     <name>female</name>
   </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier">
-    <name>GAZ:Puerto Rico</name>
-    <name>Puerto Rico</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00001107" type="characteristicValue" parent="characteristicQualifier">
-    <name>Zambia</name>
-  </ontologyTerm>
+
   <ontologyTerm source_id="NCBITaxon_9606" type="characteristicValue" parent="characteristicQualifier">
     <name>Homo sapien</name>
     <name>Homo sapiens</name>
@@ -527,7 +521,48 @@
   <ontologyTerm source_id="NCBITaxon_10041" type="characteristicValue" parent="characteristicQualifier">
     <name>Peromyscus leucopus</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9989" type="characteristicValue" parent="characteristicQualifier">
+    <name>Rodentia</name>
+    <name>rodent</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_5855" type="characteristicValue" parent="characteristicQualifier">
+    <name>Plasmodium vivax</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9520" type="characteristicValue" parent="characteristicQualifier">
+    <name>squirrel monkey</name>
+    <name>Saimiri</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9527" type="characteristicValue" parent="characteristicQualifier">
+    <name>monkey</name>
+    <name>Cercopithecidae</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9505" type="characteristicValue" parent="characteristicQualifier">
+    <name>Aotus monkey</name>
+    <name>Aotus trivirgatus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_5501" type="characteristicValue" parent="characteristicQualifier">
+    <name>C. immitis</name>
+    <name>Coccidioides immitis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_199306" type="characteristicValue" parent="characteristicQualifier">
+    <name>C. posadasii</name>
+    <name>Coccidioides posadasii</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_5679" type="characteristicValue" parent="characteristicQualifier">
+    <name>Leishmania panamensis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9598" type="characteristicValue" parent="characteristicQualifier">
+    <name>Pan troglodytes</name>
+    <name>Pan troglodytes ellioti</name>
+  </ontologyTerm>
 
+  <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier">
+    <name>GAZ:Puerto Rico</name>
+    <name>Puerto Rico</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001107" type="characteristicValue" parent="characteristicQualifier">
+    <name>Zambia</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002721" type="characteristicValue" parent="characteristicQualifier">
     <name>Russia</name>
   </ontologyTerm>
@@ -557,11 +592,45 @@
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002938" type="characteristicValue" parent="characteristicQualifier">
     <name>Belgium</name>
-  </ontologyTerm>  
-  <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
-    <name>UBERON:multi-cellular organism</name>
-    <name>multi-cellular organism</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001093" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cameroon</name>
+    <name>Cameroon: Centre Region</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001108" type="characteristicValue" parent="characteristicQualifier">
+    <name>Madagascar</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00006888" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cambodia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002828" type="characteristicValue" parent="characteristicQualifier">
+    <name>Brazil</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00003922" type="characteristicValue" parent="characteristicQualifier">
+    <name>Papua New Guinea</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002940" type="characteristicValue" parent="characteristicQualifier">
+    <name>France</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002935" type="characteristicValue" parent="characteristicQualifier">
+    <name>El Salvador</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002928" type="characteristicValue" parent="characteristicQualifier">
+    <name>Argentina</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002936" type="characteristicValue" parent="characteristicQualifier">
+    <name>Guatemala</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002892" type="characteristicValue" parent="characteristicQualifier">
+    <name>Panama</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002852" type="characteristicValue" parent="characteristicQualifier">
+    <name>Mexico</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002933" type="characteristicValue" parent="characteristicQualifier">
+    <name>Paraguay</name>
+  </ontologyTerm>
+
   <ontologyTerm source_id="ENVO_01000246" type="characteristicValue" parent="characteristicQualifier">
     <name>ENVO:village biome</name>
     <name>village biome</name>
@@ -569,6 +638,15 @@
   <ontologyTerm source_id="ENVO_00009004" type="characteristicValue" parent="characteristicQualifier">
     <name>ENVO:insecta-associated habitat</name>
     <name>insecta-associated habitat</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_01000155" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:organic material</name>
+    <name>organic material</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:multi-cellular organism</name>
+    <name>multi-cellular organism</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000479" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:tissue</name>
@@ -594,77 +672,6 @@
     <name>UBERON:hypopharynx</name>
     <name>hypopharynx</name>
   </ontologyTerm>
-  <ontologyTerm source_id="ENVO_01000155" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:organic material</name>
-    <name>organic material</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="NCBITaxon_9598" type="characteristicValue" parent="characteristicQualifier">
-    <name>Pan troglodytes</name>
-    <name>Pan troglodytes ellioti</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00001093" type="characteristicValue" parent="characteristicQualifier">
-    <name>Cameroon</name>
-    <name>Cameroon: Centre Region</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00001108" type="characteristicValue" parent="characteristicQualifier">
-    <name>Madagascar</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00006888" type="characteristicValue" parent="characteristicQualifier">
-    <name>Cambodia</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002828" type="characteristicValue" parent="characteristicQualifier">
-    <name>Brazil</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00003922" type="characteristicValue" parent="characteristicQualifier">
-    <name>Papua New Guinea</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002940" type="characteristicValue" parent="characteristicQualifier">
-    <name>France</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002935" type="characteristicValue" parent="characteristicQualifier">
-    <name>El Salvador</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="NCBITaxon_5855" type="characteristicValue" parent="characteristicQualifier">
-    <name>Plasmodium vivax</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="NCBITaxon_9520" type="characteristicValue" parent="characteristicQualifier">
-    <name>squirrel monkey</name>
-    <name>Saimiri</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="NCBITaxon_9527" type="characteristicValue" parent="characteristicQualifier">
-    <name>monkey</name>
-    <name>Cercopithecidae</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="NCBITaxon_9505" type="characteristicValue" parent="characteristicQualifier">
-    <name>Aotus monkey</name>
-    <name>Aotus trivirgatus</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="NCBITaxon_5501" type="characteristicValue" parent="characteristicQualifier">
-    <name>C. immitis</name>
-    <name>Coccidioides immitis</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="NCBITaxon_199306" type="characteristicValue" parent="characteristicQualifier">
-    <name>C. posadasii</name>
-    <name>Coccidioides posadasii</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="NCBITaxon_5679" type="characteristicValue" parent="characteristicQualifier">
-    <name>Leishmania panamensis</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002928" type="characteristicValue" parent="characteristicQualifier">
-    <name>Argentina</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002936" type="characteristicValue" parent="characteristicQualifier">
-    <name>Guatemala</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002892" type="characteristicValue" parent="characteristicQualifier">
-    <name>Panama</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002852" type="characteristicValue" parent="characteristicQualifier">
-    <name>Mexico</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002933" type="characteristicValue" parent="characteristicQualifier">
-    <name>Paraguay</name>
-  </ontologyTerm>
 
   <ontologyTerm source_id="UO_0000036" type="unit">
     <name>year</name>
@@ -674,8 +681,5 @@
     <name>day</name>
     <name>days</name>
   </ontologyTerm>
-
-
-
 
 </ontologymappings>
