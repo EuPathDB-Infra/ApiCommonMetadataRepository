@@ -33,7 +33,7 @@ GI2004	B. microti 42 global isolates from human, tick and rodent			human	golden 
 GI2014	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster		USA	Nantucket, MA	1988
 RMNS1997	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster		USA	Nantucket, MA	1997
 RMNS2001	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster		USA	Nantucket, MA	2012
-MGH2001	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster	Massachusetts  General Hospital			2001
+MGH2001	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster	Massachusetts  General Hospital			2001
 MN-1	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster	Minnesota			1995
 BWH2014	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster	Nantucket Cottage Hospital/Brigham and Women's Hospital			2014
 BWH2003	B. microti 42 global isolates from human, tick and rodent			human	golden syrian hamster	Brigham and Women's Hospital			2003
