@@ -518,11 +518,22 @@
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_6945" type="characteristicValue" parent="characteristicQualifier">
     <name>Ixodes scapularis</name>
+    <name>tick</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_10053" type="characteristicValue" parent="characteristicQualifier">
+    <name>Microtus</name>
+    <name>vole</name>
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_10041" type="characteristicValue" parent="characteristicQualifier">
     <name>Peromyscus leucopus</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="GAZ_00002721" type="characteristicValue" parent="characteristicQualifier">
+    <name>Russia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002747" type="characteristicValue" parent="characteristicQualifier">
+    <name>Japan</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00001101" type="characteristicValue" parent="characteristicQualifier">
     <name>Kenya</name>
   </ontologyTerm>
