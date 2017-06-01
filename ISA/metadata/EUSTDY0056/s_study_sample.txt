@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOveride	specimen collection year	Characteristics [country]	Characteristics [strain]	Characteristics[organ part]
+Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [country]	Characteristics [strain]	Characteristics[organ part]
 Candida_albicans_TWTC11	drug resistance in clinical isolates of Candida albicans			1991	USA	TWTC11	Oropharanyx
 Candida_albicans_3107	drug resistance in clinical isolates of Candida albicans			1996	USA	3107	Oropharanyx
 Candida_albicans_2307	drug resistance in clinical isolates of Candida albicans			1995	USA	2307	Oropharanyx

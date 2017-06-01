@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOveride	Characteristics [alternative sample ID]	Characteristics [parasite organism]	Characteristics [city]	specimen collection year	Characteristics [country]	Characteristics [organism]	Characteristics [specimen collector]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [alternative sample ID]	Characteristics [parasite organism]	Characteristics [city]	specimen collection year	Characteristics [country]	Characteristics [organism]	Characteristics [specimen collector]
 SJV_1			specimen	TGC0593	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona
 SJV_2			specimen	TGC0595	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona
 SJV_3			specimen	TGC0597	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona

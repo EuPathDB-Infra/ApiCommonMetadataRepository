@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOveride	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [lab host]	Characteristics [host_common_name]	Characteristics [organism]	Characteristics [parasite organism]	Characteristics [Gender]	Characteristics [age]
+Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [lab host]	Characteristics [host_common_name]	Characteristics [organism]	Characteristics [parasite organism]	Characteristics [Gender]	Characteristics [age]
 EBABE_ATCC 30222	Genetic variability in Babesia microti, genome sequencing and assembly			1950	Democratic Republic of the Congo	Congo Kinshasa	Golden Syrian Hamster	Forest mouse 	Thamnomys surdaster	ATCC 30222		
 EBABE_ATCC PRA-99	Genetic variability in Babesia microti, genome sequencing and assembly			1973	USA	Nantucket Island, MA	C3H SCID mouse	Human 	Homo sapiens	ATCC PRA-99	Female	49 years
 EBABE_GI	Genetic variability in Babesia microti, genome sequencing and assembly			1981	USA	Nantucket Island, MA	Golden Syrian Hamster	Human 	Homo sapiens	GI		

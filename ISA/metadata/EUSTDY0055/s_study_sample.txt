@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOveride	Characteristics [country]	Characteristics [organism]	Characteristics [Gender]	Characteristics [parasite organism]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [organism]	Characteristics [Gender]	Characteristics [parasite organism]
 MHOMPA94PSC-1				Panama	human	male	Leishmania panamensis
