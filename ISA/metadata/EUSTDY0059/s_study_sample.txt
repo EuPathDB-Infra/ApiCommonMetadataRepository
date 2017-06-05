@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride 	Characteristics [organism]	Characteristics [lab host]	Characteristics [specimen collector]	Characteristics [GeographicLocation]	Characteristics [city]	specimen collection year
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [organism]	Characteristics [lab host]	Characteristics [specimen collector]	Characteristics [GeographicLocation]	Characteristics [city]	specimen collection year
 Bab01	B. microti 42 global isolates from human, tick and rodent			human		Massachusetts  General Hospital	USA	Natick, MA	2014
 Bab02	B. microti 42 global isolates from human, tick and rodent			human		Massachusetts  General Hospital	USA	Millis, MA	2014
 Bab03	B. microti 42 global isolates from human, tick and rodent			human		Massachusetts  General Hospital	USA	Topsfield, MA	2014
