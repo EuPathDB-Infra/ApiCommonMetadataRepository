@@ -210,6 +210,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000387" type="characteristicQualifier" parent="Source">
     <name>weight_loss_3_month</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000408" type="characteristicQualifier" parent="Source">
     <name>geo_loc_name</name>
@@ -230,6 +231,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000466" type="characteristicQualifier" parent="Source">
     <name>antiexposedall</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000007" type="characteristicQualifier" parent="Source">
     <name>assigned_from_geo</name>
@@ -242,6 +244,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000468" type="characteristicQualifier" parent="Source">
     <name>colony_tetracycline</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000011" type="characteristicQualifier" parent="Sample">
     <name>common_name</name>
@@ -299,6 +302,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000478" type="characteristicQualifier" parent="Source">
     <name>larval_tetracycline</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
  <ontologyTerm source_id="MICRO_0000479" type="characteristicQualifier" parent="Source">
     <name>mom_child</name>
@@ -308,12 +312,14 @@
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000481" type="characteristicQualifier" parent="Source">
     <name>mom_ld_abx</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000482" type="characteristicQualifier" parent="Source">
     <name>mom_pre_post_ld</name>
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000483" type="characteristicQualifier" parent="Source">
     <name>mom_prenatal_abx</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000484" type="characteristicQualifier" parent="Source">
     <name>mom_prenatal_abx_class</name>
@@ -332,6 +338,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000487" type="characteristicQualifier" parent="Source">
     <name>moved</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000488" type="characteristicQualifier" parent="Source">
     <name>notes</name>
