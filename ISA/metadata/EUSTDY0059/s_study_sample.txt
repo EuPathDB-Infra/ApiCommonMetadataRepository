@@ -41,4 +41,3 @@ MORNS2015	B. microti 42 global isolates from human, tick and rodent			human	gold
 PI2000	B. microti 42 global isolates from human, tick and rodent			tick			USA	Prudence Island, RI	2000
 SN1988	B. microti 42 global isolates from human, tick and rodent			tick			USA	Sandy Neck, MA	1998
 Russia	B. microti 42 global isolates from human, tick and rodent			vole			Russia	Ural Mountains, Russia	1998
-Hobetsu	B. microti 42 global isolates from human, tick and rodent			rodent	golden syrian hamster		Japan	Hobetsu, Japan	2001
