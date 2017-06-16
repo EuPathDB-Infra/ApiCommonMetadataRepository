@@ -18,9 +18,14 @@
   
 
   <!-- Protocol Params -->
+
+  <ontologyTerm source_id="MICRO_0000467"  type="protocolParameter" parent="specimen collection">
+    <name>collection_timestamp</name>
+    <function>formatDate</function> 
+  </ontologyTerm>
+
   <ontologyTerm source_id="OBI_0001619" type="protocolParameter" parent="specimen collection">
     <name>Collection date</name>
-    <name>collection_timestamp</name>
     <function>formatDate</function> 
   </ontologyTerm>
   <ontologyTerm source_id="UO_0000036" type="protocolParameter" parent="specimen collection">
@@ -238,9 +243,6 @@
   </ontologyTerm>
     <ontologyTerm source_id="MBIOM_0000008" type="characteristicQualifier" parent="Sample">
     <name>body_site_free_text</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="MICRO_0000467" type="characteristicQualifier" parent="Source">
-    <name>collection_timestamp</name>
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000468" type="characteristicQualifier" parent="Source">
     <name>colony_tetracycline</name>
