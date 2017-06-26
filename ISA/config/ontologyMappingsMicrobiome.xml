@@ -27,6 +27,9 @@
   </ontologyTerm>
 
   <!-- Material Entity Types -->
+  <ontologyTerm source_id="GO_0018995" type="materialType">
+    <name>host</name>
+  </ontologyTerm>
   <ontologyTerm source_id="OBI_0000655" type="materialType">
     <name>blood specimen</name>
   </ontologyTerm>
