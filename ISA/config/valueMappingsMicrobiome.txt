@@ -1,106 +1,106 @@
 Qualifier	Qualifier ID	Values	Mapped Terms
-antibiotic exposure	MICRO_0000466	n	No
-antibiotic exposure	MICRO_0000466	y	Yes
-colony tetracycline	MICRO_0000468	12/30/1899	No
-colony tetracycline	MICRO_0000468	12/31/1899	Yes
-diet	MICRO_0000475	bd	breast milk
-diet	MICRO_0000475	eb	exclusively breast milk
-diet	MICRO_0000475	fd	milk formula
-diet (by month)	MICRO_0000474	bd_0	breast milk - month 0
-diet (by month)	MICRO_0000474	bd_1	breast milk - month 01
-diet (by month)	MICRO_0000474	bd_2	breast milk - month 02
-diet (by month)	MICRO_0000474	bd_3	breast milk - month 03
-diet (by month)	MICRO_0000474	bd_4	breast milk - month 04
-diet (by month)	MICRO_0000474	bd_5	breast milk - month 05
-diet (by month)	MICRO_0000474	bd_6	breast milk - month 06
-diet (by month)	MICRO_0000474	bd_7	breast milk - month 07
-diet (by month)	MICRO_0000474	bd_8	breast milk - month 08
-diet (by month)	MICRO_0000474	bd_9	breast milk - month 09
-diet (by month)	MICRO_0000474	bd_10	breast milk - month 10
-diet (by month)	MICRO_0000474	bd_11	breast milk - month 11
-diet (by month)	MICRO_0000474	bd_12	breast milk - month 12
-diet (by month)	MICRO_0000474	bd_13	breast milk - month 13
-diet (by month)	MICRO_0000474	bd_14	breast milk - month 14
-diet (by month)	MICRO_0000474	bd_15	breast milk - month 15
-diet (by month)	MICRO_0000474	bd_16	breast milk - month 16
-diet (by month)	MICRO_0000474	bd_17	breast milk - month 17
-diet (by month)	MICRO_0000474	bd_18	breast milk - month 18
-diet (by month)	MICRO_0000474	bd_20	breast milk - month 20
-diet (by month)	MICRO_0000474	bd_21	breast milk - month 21
-diet (by month)	MICRO_0000474	bd_22	breast milk - month 22
-diet (by month)	MICRO_0000474	bd_24	breast milk - month 24
-diet (by month)	MICRO_0000474	bd_25	breast milk - month 25
-diet (by month)	MICRO_0000474	bd_26	breast milk - month 26
-diet (by month)	MICRO_0000474	bd_27	breast milk - month 27
-diet (by month)	MICRO_0000474	bd_28	breast milk - month 28
-diet (by month)	MICRO_0000474	bd_29	breast milk - month 29
-diet (by month)	MICRO_0000474	bd_30	breast milk - month 30
-diet (by month)	MICRO_0000474	bd_31	breast milk - month 31
-diet (by month)	MICRO_0000474	bd_32	breast milk - month 32
-diet (by month)	MICRO_0000474	bd_33	breast milk - month 33
-diet (by month)	MICRO_0000474	bd_34	breast milk - month 34
-diet (by month)	MICRO_0000474	fd_0	milk formula - month 0
-diet (by month)	MICRO_0000474	fd_1	milk formula - month 01
-diet (by month)	MICRO_0000474	fd_2	milk formula - month 02
-diet (by month)	MICRO_0000474	fd_3	milk formula - month 03
-diet (by month)	MICRO_0000474	fd_4	milk formula - month 04
-diet (by month)	MICRO_0000474	fd_5	milk formula - month 05
-diet (by month)	MICRO_0000474	fd_6	milk formula - month 06
-diet (by month)	MICRO_0000474	fd_7	milk formula - month 07
-diet (by month)	MICRO_0000474	fd_8	milk formula - month 08
-diet (by month)	MICRO_0000474	fd_9	milk formula - month 09
-diet (by month)	MICRO_0000474	fd_10	milk formula - month 10
-diet (by month)	MICRO_0000474	fd_11	milk formula - month 11
-diet (by month)	MICRO_0000474	fd_12	milk formula - month 12
-diet (by month)	MICRO_0000474	fd_13	milk formula - month 13
-diet (by month)	MICRO_0000474	fd_14	milk formula - month 14
-diet (by month)	MICRO_0000474	fd_15	milk formula - month 15
-diet (by month)	MICRO_0000474	fd_16	milk formula - month 16
-diet (by month)	MICRO_0000474	fd_17	milk formula - month 17
-diet (by month)	MICRO_0000474	fd_18	milk formula - month 18
-diet (by month)	MICRO_0000474	fd_19	milk formula - month 19
-diet (by month)	MICRO_0000474	fd_20	milk formula - month 20
-diet (by month)	MICRO_0000474	fd_22	milk formula - month 22
-diet (by month)	MICRO_0000474	fd_24	milk formula - month 24
-diet (by month)	MICRO_0000474	fd_25	milk formula - month 25
-diet (by month)	MICRO_0000474	fd_26	milk formula - month 26
-diet (by month)	MICRO_0000474	fd_28	milk formula - month 28
-diet (by month)	MICRO_0000474	fd_29	milk formula - month 29
-diet (by month)	MICRO_0000474	fd_30	milk formula - month 30
-diet (by month)	MICRO_0000474	fd_32	milk formula - month 32
-drug usage	MICRO_0000194	none	None
+antibiotic exposure	EUPATH_0000580	n	No
+antibiotic exposure	EUPATH_0000580	y	Yes
+colony tetracycline	EUPATH_0000583	12/30/1899	No
+colony tetracycline	EUPATH_0000583	12/31/1899	Yes
+diet	EUPATH_0000584	bd	breast milk
+diet	EUPATH_0000584	eb	exclusively breast milk
+diet	EUPATH_0000584	fd	milk formula
+diet (by month)	EUPATH_0000585	bd_0	breast milk - month 0
+diet (by month)	EUPATH_0000585	bd_1	breast milk - month 01
+diet (by month)	EUPATH_0000585	bd_2	breast milk - month 02
+diet (by month)	EUPATH_0000585	bd_3	breast milk - month 03
+diet (by month)	EUPATH_0000585	bd_4	breast milk - month 04
+diet (by month)	EUPATH_0000585	bd_5	breast milk - month 05
+diet (by month)	EUPATH_0000585	bd_6	breast milk - month 06
+diet (by month)	EUPATH_0000585	bd_7	breast milk - month 07
+diet (by month)	EUPATH_0000585	bd_8	breast milk - month 08
+diet (by month)	EUPATH_0000585	bd_9	breast milk - month 09
+diet (by month)	EUPATH_0000585	bd_10	breast milk - month 10
+diet (by month)	EUPATH_0000585	bd_11	breast milk - month 11
+diet (by month)	EUPATH_0000585	bd_12	breast milk - month 12
+diet (by month)	EUPATH_0000585	bd_13	breast milk - month 13
+diet (by month)	EUPATH_0000585	bd_14	breast milk - month 14
+diet (by month)	EUPATH_0000585	bd_15	breast milk - month 15
+diet (by month)	EUPATH_0000585	bd_16	breast milk - month 16
+diet (by month)	EUPATH_0000585	bd_17	breast milk - month 17
+diet (by month)	EUPATH_0000585	bd_18	breast milk - month 18
+diet (by month)	EUPATH_0000585	bd_20	breast milk - month 20
+diet (by month)	EUPATH_0000585	bd_21	breast milk - month 21
+diet (by month)	EUPATH_0000585	bd_22	breast milk - month 22
+diet (by month)	EUPATH_0000585	bd_24	breast milk - month 24
+diet (by month)	EUPATH_0000585	bd_25	breast milk - month 25
+diet (by month)	EUPATH_0000585	bd_26	breast milk - month 26
+diet (by month)	EUPATH_0000585	bd_27	breast milk - month 27
+diet (by month)	EUPATH_0000585	bd_28	breast milk - month 28
+diet (by month)	EUPATH_0000585	bd_29	breast milk - month 29
+diet (by month)	EUPATH_0000585	bd_30	breast milk - month 30
+diet (by month)	EUPATH_0000585	bd_31	breast milk - month 31
+diet (by month)	EUPATH_0000585	bd_32	breast milk - month 32
+diet (by month)	EUPATH_0000585	bd_33	breast milk - month 33
+diet (by month)	EUPATH_0000585	bd_34	breast milk - month 34
+diet (by month)	EUPATH_0000585	fd_0	milk formula - month 0
+diet (by month)	EUPATH_0000585	fd_1	milk formula - month 01
+diet (by month)	EUPATH_0000585	fd_2	milk formula - month 02
+diet (by month)	EUPATH_0000585	fd_3	milk formula - month 03
+diet (by month)	EUPATH_0000585	fd_4	milk formula - month 04
+diet (by month)	EUPATH_0000585	fd_5	milk formula - month 05
+diet (by month)	EUPATH_0000585	fd_6	milk formula - month 06
+diet (by month)	EUPATH_0000585	fd_7	milk formula - month 07
+diet (by month)	EUPATH_0000585	fd_8	milk formula - month 08
+diet (by month)	EUPATH_0000585	fd_9	milk formula - month 09
+diet (by month)	EUPATH_0000585	fd_10	milk formula - month 10
+diet (by month)	EUPATH_0000585	fd_11	milk formula - month 11
+diet (by month)	EUPATH_0000585	fd_12	milk formula - month 12
+diet (by month)	EUPATH_0000585	fd_13	milk formula - month 13
+diet (by month)	EUPATH_0000585	fd_14	milk formula - month 14
+diet (by month)	EUPATH_0000585	fd_15	milk formula - month 15
+diet (by month)	EUPATH_0000585	fd_16	milk formula - month 16
+diet (by month)	EUPATH_0000585	fd_17	milk formula - month 17
+diet (by month)	EUPATH_0000585	fd_18	milk formula - month 18
+diet (by month)	EUPATH_0000585	fd_19	milk formula - month 19
+diet (by month)	EUPATH_0000585	fd_20	milk formula - month 20
+diet (by month)	EUPATH_0000585	fd_22	milk formula - month 22
+diet (by month)	EUPATH_0000585	fd_24	milk formula - month 24
+diet (by month)	EUPATH_0000585	fd_25	milk formula - month 25
+diet (by month)	EUPATH_0000585	fd_26	milk formula - month 26
+diet (by month)	EUPATH_0000585	fd_28	milk formula - month 28
+diet (by month)	EUPATH_0000585	fd_29	milk formula - month 29
+diet (by month)	EUPATH_0000585	fd_30	milk formula - month 30
+diet (by month)	EUPATH_0000585	fd_32	milk formula - month 32
+drug usage	EUPATH_0000586	none	None
 env_feature	MiXS_env_feature	ENVO:animal-associated habitat	animal-associated habitat
 env_feature	MiXS_env_feature	ENVO:anthropogenic environmental material	anthropogenic environmental material
 env_feature	MiXS_env_feature	ENVO:human-associated habitat	human-associated habitat
 env_feature	MiXS_env_feature	ENVO:insecta-associated habitat	insecta-associated habitat
-environment (biome)	MICRO_0000400	human dwelling	human dwelling
-environment (biome)	MICRO_0000400	urban biome	urban biome
-environment (biome)	MICRO_0000400	village biome	village biome
-experimenter notes	MICRO_0000488	Still sick.	Still sick
-family move	MICRO_0000487	12/30/1899	No
-family move	MICRO_0000487	12/31/1899	Yes
-host diet	MICRO_0000111	baby.food	baby food
-host diet	MICRO_0000111	bd	breast milk
-host diet	MICRO_0000111	breastmilk	breast milk
-host diet	MICRO_0000111	fd	milk formula
-host diet	MICRO_0000111	formula	milk formula
-host diet	MICRO_0000111	no.gluten	gluten-free
-host diet	MICRO_0000111	regular.diet	regular diet
-host life stage	MICRO_0000123	adult	Adult
-host life stage	MICRO_0000123	child	Child
-larval tetracycline	MICRO_0000478	12/30/1899	No
-larval tetracycline	MICRO_0000478	12/31/1899	Yes
+environment (biome)	ENVO_00000428	human dwelling	human dwelling
+environment (biome)	ENVO_00000428	urban biome	urban biome
+environment (biome)	ENVO_00000428	village biome	village biome
+experimenter notes	OBI_0001898	Still sick.	Still sick
+family move	EUPATH_0000588	12/30/1899	No
+family move	EUPATH_0000588	12/31/1899	Yes
+host diet	EUPATH_0000590	baby.food	baby food
+host diet	EUPATH_0000590	bd	breast milk
+host diet	EUPATH_0000590	breastmilk	breast milk
+host diet	EUPATH_0000590	fd	milk formula
+host diet	EUPATH_0000590	formula	milk formula
+host diet	EUPATH_0000590	no.gluten	gluten-free
+host diet	EUPATH_0000590	regular.diet	regular diet
+host life stage	UBERON_0000105	adult	Adult
+host life stage	UBERON_0000105	child	Child
+larval tetracycline	EUPATH_0000592	12/30/1899	No
+larval tetracycline	EUPATH_0000592	12/31/1899	Yes
 mom_ld_abx	MICRO_0000481	12/30/1899	No
 mom_ld_abx	MICRO_0000481	12/31/1899	Yes
-mother or child	MICRO_0000479	C	Child
-mother or child	MICRO_0000479	M	Mother
-prenatal antibiotics (yes/no)	MICRO_0000483	12/30/1899	No
-prenatal antibiotics (yes/no)	MICRO_0000483	12/31/1899	Yes
-presence of pets or farm animals	MICRO_0000277	Dogs	Dog
-presence of pets or farm animals	MICRO_0000277	dog	Dog
-presence of pets or farm animals	MICRO_0000277	none	None
-region of 16S sequenced	MICRO_0000495	V3-V1	V1-V3
-region of 16S sequenced	MICRO_0000495	V5-V3	V3-V5
+mother or child	EUPATH_0000594	C	Child
+mother or child	EUPATH_0000594	M	Mother
+prenatal antibiotics (yes/no)	EUPATH_0000599	12/30/1899	No
+prenatal antibiotics (yes/no)	EUPATH_0000599	12/31/1899	Yes
+presence of pets or farm animals	EUPATH_0000602	Dogs	Dog
+presence of pets or farm animals	EUPATH_0000602	dog	Dog
+presence of pets or farm animals	EUPATH_0000602	none	None
+region of 16S sequenced	SO_0001000	V3-V1	V1-V3
+region of 16S sequenced	SO_0001000	V5-V3	V3-V5
 specimen	OBI_0100051	Dry_Stool	Dry stool
 specimen	OBI_0100051	Rectal_Swab	Rectal swab
 specimen	OBI_0100051	Stool_Stabilizer	Stool in stabilization buffer
@@ -115,9 +115,9 @@ surface	MICRO_0000502	Front_Door_Knob	Front door knob
 surface	MICRO_0000502	Kitchen_Counter	Kitchen counter
 surface	MICRO_0000502	Kitchen_Floor	Kitchen floor
 surface	MICRO_0000502	Kitchen_Light_Switch	Kitchen light switch
-weight loss in last three months	MICRO_0000387	FALSE	No
-weight loss in last three months	MICRO_0000387	TRUE	Yes
-geographic location (country and/or sea,region)	MICRO_0000408	GAZ:United States of America	United States of America
-geographic location (country and/or sea,region)	MICRO_0000408	USA	United States of America
-geographic location (country and/or sea,region)	MICRO_0000408	USA:NY:NYC	United States of America
-geographic location (country and/or sea,region)	MICRO_0000408	GAZ:Puerto Rico	Puerto Rico
+weight loss in last three months	EUPATH_0000607	FALSE	No
+weight loss in last three months	EUPATH_0000607	TRUE	Yes
+geographic location (country and/or sea,region)	EUPATH_0000542	GAZ:United States of America	United States of America
+geographic location (country and/or sea,region)	EUPATH_0000542	USA	United States of America
+geographic location (country and/or sea,region)	EUPATH_0000542	USA:NY:NYC	United States of America
+geographic location (country and/or sea,region)	EUPATH_0000542	GAZ:Puerto Rico	Puerto Rico
