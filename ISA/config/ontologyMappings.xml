@@ -47,11 +47,13 @@
   <ontologyTerm source_id="OBI_0001876" type="materialType">
     <name>cell culture</name>
   </ontologyTerm>
-
   <ontologyTerm source_id="OBI_0000655" type="materialType">
     <name>blood specimen</name>
     <name>blood</name>
   </ontologyTerm>
+  <ontologyTerm source_id="OBI_0002503" type="materialType">
+    <name>feces</name>
+    <name>feces specimen</name>
   <ontologyTerm source_id="OBI_0000671" type="materialType">
     <name>sample from organism</name>
   </ontologyTerm>
@@ -493,6 +495,13 @@
     <name>host_common_name</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="PATO_0001374" type="characteristicQualifier" parent="Source">
+    <name>ploidy</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000736" type="characteristicQualifier" parent="Source">
+    <name>propagation</name>
+  </ontologyTerm>
+
 
 <!-- characteristicValues -->
   <ontologyTerm source_id="PATO_0000384" type="characteristicValue" parent="characteristicQualifier">
@@ -555,6 +564,15 @@
     <name>Pan troglodytes</name>
     <name>Pan troglodytes ellioti</name>
   </ontologyTerm>
+
+  <ontologyTerm source_id="NCBITaxon_9913" type="characteristicValue" parent="characteristicQualifier">
+    <name>Bos taurus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_89462" type="characteristicValue" parent="characteristicQualifier">
+    <name>Bubalus bubalis</name>
+  </ontologyTerm>
+
+
 
   <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier">
     <name>GAZ:Puerto Rico</name>
@@ -631,6 +649,16 @@
     <name>Paraguay</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="GAZ_000" type="characteristicValue" parent="characteristicQualifier">
+    <name>Egypt</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002845" type="characteristicValue" parent="characteristicQualifier">
+    <name>China</name>
+  </ontologyTerm>
+
+
+
+
   <ontologyTerm source_id="ENVO_01000246" type="characteristicValue" parent="characteristicQualifier">
     <name>ENVO:village biome</name>
     <name>village biome</name>
@@ -677,9 +705,13 @@
     <name>year</name>
     <name>years</name>
   </ontologyTerm>
- <ontologyTerm source_id="UO_0000033" type="unit">
+  <ontologyTerm source_id="UO_0000033" type="unit">
     <name>day</name>
     <name>days</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UO_0000034” type="unit">
+    <name>week</name>
+    <name>weeks</name>
   </ontologyTerm>
 
 </ontologymappings>
