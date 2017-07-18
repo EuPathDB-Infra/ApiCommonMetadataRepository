@@ -102,6 +102,7 @@ presence of pets or farm animals	EUPATH_0000602	none	None
 region of 16S sequenced	SO_0001000	V3-V1	V1-V3
 region of 16S sequenced	SO_0001000	V5-V3	V3-V5
 specimen	OBI_0100051	Dry_Stool	Dry stool
+specimen	OBI_0100051	stool	Stool
 specimen	OBI_0100051	Rectal_Swab	Rectal swab
 specimen	OBI_0100051	Stool_Stabilizer	Stool in stabilization buffer
 specimen	OBI_0100051	Vaginal_Swab	Vaginal swab
