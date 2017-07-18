@@ -54,6 +54,7 @@
   <ontologyTerm source_id="OBI_0002503" type="materialType">
     <name>feces</name>
     <name>feces specimen</name>
+  </ontologyTerm>
   <ontologyTerm source_id="OBI_0000671" type="materialType">
     <name>sample from organism</name>
   </ontologyTerm>
@@ -709,7 +710,7 @@
     <name>day</name>
     <name>days</name>
   </ontologyTerm>
-  <ontologyTerm source_id="UO_0000034” type="unit">
+  <ontologyTerm source_id="UO_0000034" type="unit">
     <name>week</name>
     <name>weeks</name>
   </ontologyTerm>
