@@ -1,0 +1,4 @@
+Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [organism]      	Characteristics [GeographicLocation]    	Characteristics [city]    	Characteristics [disease]       	Characteristics [age]       	Characteristics [parasite organism]      
+IaA15G1R1	CryptoDB Cryptosporidium parvum SNPs 			2011	Bos taurus	Egypt	El Beheira	diarrhea	5 weeks	Cryptosporidium Parvum
+IIdA20G1	CryptoDB Cryptosporidium parvum SNPs 			2011	Bubalus bubalis	Egypt	Kafr El Sheikh	diarrhea	3 weeks	Cryptosporidium Parvum
+IIdA19G1	CryptoDB Cryptosporidium parvum SNPs 			2009	Bos taurus	China	Henan	diarrhea	4 weeks	Cryptosporidium Parvum
