@@ -650,7 +650,7 @@
     <name>Paraguay</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="GAZ_000" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="GAZ_00003934" type="characteristicValue" parent="characteristicQualifier">
     <name>Egypt</name>
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002845" type="characteristicValue" parent="characteristicQualifier">
