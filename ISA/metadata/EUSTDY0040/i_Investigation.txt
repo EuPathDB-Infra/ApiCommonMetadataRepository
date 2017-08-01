@@ -23,7 +23,7 @@ Study File Name	s_study.txt
 STUDY ASSAYS																
 Study Assay File Name	a_RFLP_genotyping.txt
 Study Assay Measurement Type	RFLP assay
-Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/SO_0000193
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/SO:0000193
 Study Assay Measurement Type Term Source REF	SO
 
 Study Assay Technology Type	restriction digest assay
