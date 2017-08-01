@@ -239,7 +239,7 @@
   <ontologyTerm source_id="ICEMR_gametocytes" type="characteristicQualifier" parent="Source">
     <name>gametocytes</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_gametocytes_detection_method" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ICEMR_gcytes_detection_method" type="characteristicQualifier" parent="Source">
     <name>gametocytes_detection_method</name>    
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_gps_latitude" type="characteristicQualifier" parent="Source">
@@ -296,7 +296,7 @@
   <ontologyTerm source_id="ICEMR_ovale" type="characteristicQualifier" parent="Source">
     <name>ovale</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_parasite_density_by_microscope" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ICEMR_parasite_density" type="characteristicQualifier" parent="Source">
     <name>parasite_density_by_microscope</name>    
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_parasite_density_by_pcr" type="characteristicQualifier" parent="Source">
@@ -311,31 +311,31 @@
   <ontologyTerm source_id="ICEMR_pcr_result" type="characteristicQualifier" parent="Source">
     <name>pcr_result</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_falciparum_gametocyte_density_by_microscope" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ICEMR_p_falciparum_gcyte_dens" type="characteristicQualifier" parent="Source">
     <name>P_falciparum_gametocyte_density_by_microscope</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_falciparum_parasite_density_by_microscope" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ICEMR_p_falciparum_para_dens" type="characteristicQualifier" parent="Source">
     <name>P_falciparum_parasite_density_by_microscope</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_falciparum_parasite_density_by_pcr" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ICEMR_p_falciparum_para_pcr" type="characteristicQualifier" parent="Source">
     <name>p_falciparum_parasite_density_by_pcr</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_falciparum_parasite_density_by_rt_pcr" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ICEMR_p_falciparum_para_rt_pcr" type="characteristicQualifier" parent="Source">
     <name>p_falciparum_parasite_density_by_rt_pcr</name>    
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_pregnancy_status" type="characteristicQualifier" parent="Source">
     <name>pregnancy_status</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_vivax_gametocyte_density_by_microscope" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ICEMR_p_vivax_gcyte_density" type="characteristicQualifier" parent="Source">
     <name>P_vivax_gametocyte_density_by_microscope</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_vivax_gametocyte_density_by_rt_pcr" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ICEMR_p_vivax_gcyte_rt_pcr" type="characteristicQualifier" parent="Source">
     <name>p_vivax_gametocyte_density_by_rt_pcr</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_vivax_parasite_density_by_microscope" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ICEMR_p_vivax_parasite_density" type="characteristicQualifier" parent="Source">
     <name>P_vivax_parasite_density_by_microscope</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_vivax_parasite_density_by_pcr" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ICEMR_p_vivax_parasite_pcr" type="characteristicQualifier" parent="Source">
     <name>p_vivax_parasite_density_by_pcr</name>    
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_rdt_result" type="characteristicQualifier" parent="Source">
@@ -371,7 +371,7 @@
   <ontologyTerm source_id="ICEMR_subject" type="characteristicQualifier" parent="Source">
     <name>subject</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_temperature_measurement_method" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ICEMR_temp_measurement_method" type="characteristicQualifier" parent="Source">
     <name>temperature_measurement_method</name>    
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_time_to_reinfection" type="characteristicQualifier" parent="Source">
@@ -380,7 +380,7 @@
   <ontologyTerm source_id="ICEMR_time_to_first_malaria_dx" type="characteristicQualifier" parent="Source">
     <name>time_to_first_malaria_dx</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_end_of_observation_period" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ICEMR_end_of_observation_per" type="characteristicQualifier" parent="Source">
     <name>end_of_observation_period</name>    
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_type_of_rdt" type="characteristicQualifier" parent="Source">
