@@ -495,13 +495,16 @@
   <ontologyTerm source_id="EUPATH_0000512" type="characteristicQualifier" parent="Source">
     <name>host_common_name</name>
   </ontologyTerm>
-
   <ontologyTerm source_id="PATO_0001374" type="characteristicQualifier" parent="Source">
     <name>ploidy</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000736" type="characteristicQualifier" parent="Source">
     <name>propagation</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000752" type="characteristicQualifier" parent="Sample”>
+    <name>GP60 genotype</name>
+  </ontologyTerm>
+
 
 
 <!-- characteristicValues -->
