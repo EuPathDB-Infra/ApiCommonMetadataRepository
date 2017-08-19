@@ -302,7 +302,7 @@
   <ontologyTerm source_id="EUPATH_0000539" type="characteristicQualifier" parent="Source">
     <name>pcr_method</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000540 type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000540" type="characteristicQualifier" parent="Source">
     <name>pcr_result</name>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000546" type="characteristicQualifier" parent="Source">
@@ -469,7 +469,7 @@
   <ontologyTerm source_id="EUPATH_0000291" type="characteristicQualifier" parent="Source">
     <name>treatment outcome information</name>
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_health_status" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="OGMS_0000073" type="characteristicQualifier" parent="Source">
     <name>health_status</name>
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_time_to_onset" type="characteristicQualifier" parent="Source">
