@@ -175,205 +175,205 @@
   <ontologyTerm source_id="OBI_0001901" type="characteristicQualifier" parent="Sample">
     <name>alternative sample ID</name>
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_abnormal_bleeding" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="HP_0001892" type="characteristicQualifier" parent="Source">
     <name>abnormal_bleeding</name>
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_ards" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="DOID_11394" type="characteristicQualifier" parent="Source">
     <name>ards</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_biosourcetype" type="characteristicQualifier" parent="Source">
-    <name>BioSourceType</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_body_temperature" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000110" type="characteristicQualifier" parent="Source">
     <name>body_temperature</name>    
     <name>temperature</name>
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_blood_smear_summary" type="characteristicQualifier" parent="Source">
-    <name>blood_smear_summary</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_cerebral" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="DOID_14069" type="characteristicQualifier" parent="Source">
     <name>cerebral</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_collection_type" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000514" type="characteristicQualifier" parent="Source">
     <name>collection_type</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_coma" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="HP_0001259" type="characteristicQualifier" parent="Source">
     <name>coma</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_comments" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="OBI_0001898" type="characteristicQualifier" parent="Source">
     <name>comments</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_convulsions" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="SYMP_0000596" type="characteristicQualifier" parent="Source">
     <name>convulsions</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_data_consent" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000515" type="characteristicQualifier" parent="Source">
     <name>data_consent</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_date_of_birth" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000032" type="characteristicQualifier" parent="Source">
     <name>date_of_birth</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_electrolyte_disturbances" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000516" type="characteristicQualifier" parent="Source">
     <name>electrolyte_disturbances</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_falciparum" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000518" type="characteristicQualifier" parent="Source">
     <name>falciparum</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_fever" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000097" type="characteristicQualifier" parent="Source">
     <name>fever</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_fever_duration" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000414" type="characteristicQualifier" parent="Source">
     <name>fever_duration</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_follow_up_day" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000525" type="characteristicQualifier" parent="Source">
     <name>follow_up_day</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_future_use_consent" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000553" type="characteristicQualifier" parent="Source">
     <name>future_use_consent</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_gametocyte_density_by_microscope" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000526" type="characteristicQualifier" parent="Source">
     <name>gametocyte_density_by_microscope</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_gametocyte_density_by_rt_pcr" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000527" type="characteristicQualifier" parent="Source">
     <name>gametocyte_density_by_rt_pcr</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_gametocytes" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000519" type="characteristicQualifier" parent="Source">
     <name>gametocytes</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_gcytes_detection_method" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000529" type="characteristicQualifier" parent="Source">
     <name>gametocytes_detection_method</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_gps_latitude" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="OBI_0001620" type="characteristicQualifier" parent="Source">
     <name>gps_latitude</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_gps_location" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000530" type="characteristicQualifier" parent="Source">
     <name>gps_location</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_gps_longitude" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="OBI_0001621" type="characteristicQualifier" parent="Source">
     <name>gps_longitude</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_gps_other" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000530" type="characteristicQualifier" parent="Source">
     <name>gps_other</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_health_status" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="OGMS_0000073" type="characteristicQualifier" parent="Source">
     <name>health_status</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_hemoglobin_level" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000047" type="characteristicQualifier" parent="Source">
     <name>hemoglobin_level</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_hospitalized" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000308" type="characteristicQualifier" parent="Source">
     <name>hospitalized</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_host_genetics" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000531" type="characteristicQualifier" parent="Source">
     <name>host_genetics</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_hypoglycemia" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="DOID_9993" type="characteristicQualifier" parent="Source">
     <name>hypoglycemia</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_immune_responses" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000532" type="characteristicQualifier" parent="Source">
     <name>immune_responses</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_irb_number" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000535" type="characteristicQualifier" parent="Source">
     <name>irb_number</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_jaundice" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="HP_0000952" type="characteristicQualifier" parent="Source">
     <name>jaundice</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_knowlesi" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000520" type="characteristicQualifier" parent="Source">
     <name>knowlesi</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_malariae" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000521" type="characteristicQualifier" parent="Source">
     <name>malariae</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_microscopy_result" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000048" type="characteristicQualifier" parent="Source">
     <name>microscopy_result</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_other_method" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000529" type="characteristicQualifier" parent="Source">
     <name>other_method</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_other_molecular" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000534" type="characteristicQualifier" parent="Source">
     <name>other_molecular</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_ovale" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000522" type="characteristicQualifier" parent="Source">
     <name>ovale</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_parasite_density" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000551" type="characteristicQualifier" parent="Source">
     <name>parasite_density_by_microscope</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_parasite_density_by_pcr" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000536" type="characteristicQualifier" parent="Source">
     <name>parasite_density_by_pcr</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_parasite_genetics" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000533" type="characteristicQualifier" parent="Source">
     <name>parasite_genetics</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_pcr_method" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000539" type="characteristicQualifier" parent="Source">
     <name>pcr_method</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_pcr_result" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000540 type="characteristicQualifier" parent="Source">
     <name>pcr_result</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_falciparum_gcyte_dens" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000546" type="characteristicQualifier" parent="Source">
     <name>P_falciparum_gametocyte_density_by_microscope</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_falciparum_para_dens" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000550" type="characteristicQualifier" parent="Source">
     <name>P_falciparum_parasite_density_by_microscope</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_falciparum_para_pcr" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000552" type="characteristicQualifier" parent="Source">
     <name>p_falciparum_parasite_density_by_pcr</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_falciparum_para_rt_pcr" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000552" type="characteristicQualifier" parent="Source">
     <name>p_falciparum_parasite_density_by_rt_pcr</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_pregnancy_status" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="UBERON_0009097" type="characteristicQualifier" parent="Source">
     <name>pregnancy_status</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_vivax_gcyte_density" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000547" type="characteristicQualifier" parent="Source">
     <name>P_vivax_gametocyte_density_by_microscope</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_vivax_gcyte_rt_pcr" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000548" type="characteristicQualifier" parent="Source">
     <name>p_vivax_gametocyte_density_by_rt_pcr</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_vivax_parasite_density" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000551" type="characteristicQualifier" parent="Source">
     <name>P_vivax_parasite_density_by_microscope</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_p_vivax_parasite_pcr" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000549" type="characteristicQualifier" parent="Source">
     <name>p_vivax_parasite_density_by_pcr</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_rdt_result" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000541" type="characteristicQualifier" parent="Source">
     <name>rdt_result</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_renal_failure" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="HP_0000083" type="characteristicQualifier" parent="Source">
     <name>renal_failure</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_respiratory_distress" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="HP_0002098" type="characteristicQualifier" parent="Source">
     <name>respiratory_distress</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_sample_id" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="OBI_0001616" type="characteristicQualifier" parent="Source">
     <name>sample_id</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_sample_origin" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000543" type="characteristicQualifier" parent="Source">
     <name>sample_origin</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_severe_anemia" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000215" type="characteristicQualifier" parent="Source">
     <name>severe_anemia</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_shock" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="SNOMEDCT_27942005" type="characteristicQualifier" parent="Source">
     <name>shock</name>    
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_StrainOrLine" type="characteristicQualifier" parent="Source">
     <name>StrainOrLine</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_study_other" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="OBI_0500000" type="characteristicQualifier" parent="Source">
     <name>study_other</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_study_type" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="OBI_0500000" type="characteristicQualifier" parent="Source">
     <name>study_type</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_subject" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000095" type="characteristicQualifier" parent="Source">
     <name>subject</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_temp_measurement_method" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000544" type="characteristicQualifier" parent="Source">
     <name>temperature_measurement_method</name>    
   </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_blood_smear_summary" type="characteristicQualifier" parent="Source">
+    <name>blood_smear_summary</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_biosourcetype" type="characteristicQualifier" parent="Source">
+      <name>BioSourceType</name>    
+  </ontologyTerm>  
   <ontologyTerm source_id="ICEMR_time_to_reinfection" type="characteristicQualifier" parent="Source">
     <name>time_to_reinfection</name>    
   </ontologyTerm>
@@ -383,10 +383,10 @@
   <ontologyTerm source_id="ICEMR_end_of_observation_per" type="characteristicQualifier" parent="Source">
     <name>end_of_observation_period</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_type_of_rdt" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000545" type="characteristicQualifier" parent="Source">
     <name>type_of_rdt</name>
   </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_vivax" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000524" type="characteristicQualifier" parent="Source">
     <name>vivax</name>
   </ontologyTerm>
   <ontologyTerm source_id="OGMS_0000031" type="characteristicQualifier" parent="Source">
@@ -501,7 +501,7 @@
   <ontologyTerm source_id="EUPATH_0000736" type="characteristicQualifier" parent="Source">
     <name>propagation</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000752" type="characteristicQualifier" parent="Sampleâ€>
+  <ontologyTerm source_id="EUPATH_0000752" type="characteristicQualifier" parent="Sample">
     <name>GP60 genotype</name>
   </ontologyTerm>
 
