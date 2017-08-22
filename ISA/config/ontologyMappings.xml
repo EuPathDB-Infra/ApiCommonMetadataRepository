@@ -501,7 +501,7 @@
   <ontologyTerm source_id="EUPATH_0000736" type="characteristicQualifier" parent="Source">
     <name>propagation</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000752" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="EUPATH_0000752" type="characteristicQualifier" parent="Sample">
     <name>GP60 genotype</name>
   </ontologyTerm>
 
