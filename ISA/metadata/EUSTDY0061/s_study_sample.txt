@@ -1,2 +1,2 @@
 Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [organism]	Characteristics [GeographicLocation]	Characteristics [city]	Characteristics [disease]	Characteristics [age]	Characteristics [parasite organism]	Characteristics [GP60 genotype]	specimen collection year
-31727	Comparative genomic analysis of the IId subtype family of Cryptosporidium parvum		Bos taurus	China	Henan	diarrhea	4 weeks	Cryptosporidium parvum	IIdA19G1	2009
+31727	Comparative genomic analysis of the IId subtype family of Cryptosporidium parvum			Bos taurus	China	Henan	diarrhea	4 weeks	Cryptosporidium parvum	IIdA19G1	2009
