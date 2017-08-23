@@ -2,8 +2,8 @@
 
 <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
 
-  <dataset>cparIowaII_HTS_SNP_Feng_Comparative_HTS_SNPs_RSRC</dataset>
-  <dataset>cparIowaII_copyNumberVariations_Feng_Comparative_HTS_SNP_RSRC</dataset>
+  <dataset>cparIowaII_HTS_SNP_Feng_Comparative_Single_End_HTS_SNPs_RSRC</dataset>
+  <dataset>cparIowaII_copyNumberVariations_Feng_Comparative_Single_End_HTS_SNP_RSRC</dataset>
 
   <node name="Source" type="host" suffix="Source"/>  
   <node name="Sample" type="sample from organism"/>  
