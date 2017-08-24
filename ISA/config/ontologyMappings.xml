@@ -338,7 +338,7 @@
   <ontologyTerm source_id="HP_0000083" type="characteristicQualifier" parent="Source">
     <name>renal_failure</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="HP_0002098" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="SYMP_0000642" type="characteristicQualifier" parent="Source">
     <name>respiratory_distress</name>    
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001616" type="characteristicQualifier" parent="Source">
