@@ -1,2 +1,2 @@
 Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[GAZ_00000448]	Characteristics[OBI_0100026]	Parameter Value [Year]	Characteristics[OPL_0000232]	Characteristics [GP60 genotype]
-TU114				http://purl.obolibrary.org/obo/GAZ_00001102	NCBITaxon_9606	2003	Cryptosporidium parvum TU114	IIcA5G3b
+TU114	Aligned genomic sequence reads TU114 Strain			http://purl.obolibrary.org/obo/GAZ_00001102	NCBITaxon_9606	2003	Cryptosporidium parvum TU114	IIcA5G3b
