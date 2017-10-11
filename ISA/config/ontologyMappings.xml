@@ -290,8 +290,11 @@
   <ontologyTerm source_id="EUPATH_0000522" type="characteristicQualifier" parent="Source">
     <name>ovale</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000551" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000537" type="characteristicQualifier" parent="Source">
     <name>parasite_density_by_microscope</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000551" type="characteristicQualifier" parent="Source">
+    <name>P_vivax_parasite_density_by_microscope</name>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000536" type="characteristicQualifier" parent="Source">
     <name>parasite_density_by_pcr</name>    
@@ -326,9 +329,6 @@
   <ontologyTerm source_id="EUPATH_0000548" type="characteristicQualifier" parent="Source">
     <name>p_vivax_gametocyte_density_by_rt_pcr</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000551" type="characteristicQualifier" parent="Source">
-    <name>P_vivax_parasite_density_by_microscope</name>    
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000549" type="characteristicQualifier" parent="Source">
     <name>p_vivax_parasite_density_by_pcr</name>    
   </ontologyTerm>
@@ -338,7 +338,7 @@
   <ontologyTerm source_id="HP_0000083" type="characteristicQualifier" parent="Source">
     <name>renal_failure</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="SYMP_0000642" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="HP_0002098" type="characteristicQualifier" parent="Source">
     <name>respiratory_distress</name>    
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001616" type="characteristicQualifier" parent="Source">
@@ -431,6 +431,11 @@
     <name>age</name>
     <name>Characteristics [age]</name>
     <name>PATO_0000011</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="EUPATH_0000113" type="characteristicQualifier" parent="Source">
+    <name>age at visit</name>
     <function>splitUnitFromValue</function>
   </ontologyTerm>
 
