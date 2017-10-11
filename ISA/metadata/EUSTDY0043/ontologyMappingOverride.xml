@@ -1,24 +1,4 @@
-
 <ontologymappings>
-
-  <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
-    <name>age</name>
-    <name>Characteristics [age]</name>
-    <name>PATO_0000011</name>
-  </ontologyTerm>
-
-
-
-  <ontologyTerm source_id="GAZ_00000448" type="characteristicQualifier" parent="Source">
-    <name>geographic location</name>
-    <name>GeographicLocation</name>    
-  </ontologyTerm>
-
-  <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
-   <name>country name</name>
-	<name>country</name>
-  </ontologyTerm>
-
 
 </ontologymappings>
 
