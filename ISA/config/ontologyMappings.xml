@@ -656,6 +656,21 @@
     <name>China</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="GAZ_00001105" type="characteristicValue" parent="characteristicQualifier">
+    <name>Malawi</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002932" type="characteristicValue" parent="characteristicQualifier">
+    <name>Peru</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00005275" type="characteristicValue" parent="characteristicQualifier">
+    <name>Solomon Islands</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00003744" type="characteristicValue" parent="characteristicQualifier">
+    <name>Thailand</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001102" type="characteristicValue" parent="characteristicQualifier">
+    <name>Uganda</name>
+  </ontologyTerm>
 
 
 
