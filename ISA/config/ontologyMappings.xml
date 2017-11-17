@@ -150,6 +150,9 @@
 
   <!-- Characteristics -->
 
+  <ontologyTerm source_id="OBI_0001479" type="characteristicQualifier" parent="Sample">
+    <nameL>specimen from organism</name>
+  </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000105" type="characteristicQualifier" parent="Source">
     <name>LifeCycleStage</name>
   </ontologyTerm>
