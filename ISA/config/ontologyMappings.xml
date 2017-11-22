@@ -683,7 +683,9 @@
   <ontologyTerm source_id="GAZ_00001102" type="characteristicValue" parent="characteristicQualifier">
     <name>Uganda</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="GAZ_00002839" type="characteristicValue" parent="characteristicQualifier">
+    <name>India</name>
+  </ontologyTerm>
 
 
   <ontologyTerm source_id="ENVO_01000246" type="characteristicValue" parent="characteristicQualifier">
