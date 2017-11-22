@@ -61,6 +61,9 @@
   <ontologyTerm source_id="OBI_0001051" type="materialType">
     <name>DNA extract</name>
   </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000894" type="materialType">
+    <name>protein extract</name>
+  </ontologyTerm>
   <ontologyTerm source_id="OBI_0002512" type="materialType">
     <name>Bone marrow</name>
   </ontologyTerm>
@@ -123,6 +126,12 @@
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0000626" type="protocol">
     <name>DNA Sequencing</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0302884" type="protocol">
+    <name>extraction</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000743" type="protocol">
+    <name>immune response assay</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0600013" type="protocol">
     <name>data collection</name>
