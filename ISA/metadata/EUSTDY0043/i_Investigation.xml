@@ -7,7 +7,7 @@
    <dataset>pfal3D7_microarrayAntibody_Southern_Africa_ICEMR_RSRC</dataset>
    <node name="Source" type="host" suffix="Source"/>  
    <node name="Sample" type="sample from organism"/>  
-   <node name="Extract" type="DNA extract" suffix="Extract"/>
+   <node name="Extract" type="protein extract" suffix="Extract"/>
    <node name="Assay" suffix="Assay"/>
    <node name="DataTransformation" suffix="protein_microarray"/>
     
@@ -15,10 +15,10 @@
      <protocol>specimen collection</protocol>
    </edge>
    <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
+      <protocol>extraction</protocol>
    </edge>
    <edge input="Extract" output="Assay">
-     <protocol>DNA sequencing</protocol>
+     <protocol>immune response assay</protocol>
    </edge>
    <edge input="Assay" output="DataTransformation">
      <protocol>data transformation</protocol>
@@ -30,7 +30,7 @@
     
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Extract" type="protein extract" suffix="Extract"/>
     <node name="Assay" suffix="Assay"/>
     <node name="DataTransformation" suffix="protein_microarray"/>
     
@@ -38,10 +38,10 @@
         <protocol>specimen collection</protocol>
     </edge>
     <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
+      <protocol>extraction</protocol>
     </edge>
     <edge input="Extract" output="Assay">
-      <protocol>DNA sequencing</protocol>
+      <protocol>immune response assay</protocol>
     </edge>
     <edge input="Assay" output="DataTransformation">
         <protocol>data transformation</protocol>
@@ -52,7 +52,7 @@
     <dataset>pfal3D7_microarrayAntibody_South_Pacific_PNG_ICEMR_RSRC</dataset>
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Extract" type="protein extract" suffix="Extract"/>
     <node name="Assay" suffix="Assay"/>
     <node name="DataTransformation" suffix="protein_microarray"/>
     
@@ -60,10 +60,10 @@
       <protocol>specimen collection</protocol>
     </edge>
     <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
+      <protocol>extraction</protocol>
     </edge>
     <edge input="Extract" output="Assay">
-      <protocol>DNA sequencing</protocol>
+      <protocol>immune response assay</protocol>
     </edge>
     <edge input="Assay" output="DataTransformation">
       <protocol>data transformation</protocol>
@@ -74,7 +74,7 @@
     <dataset>pfal3D7_microarrayAntibody_Malawi_ICEMR_RSRC</dataset>
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Extract" type="protein extract" suffix="Extract"/>
     <node name="Assay" suffix="Assay"/>
     <node name="DataTransformation" suffix="protein_microarray"/>
     
@@ -82,10 +82,10 @@
       <protocol>specimen collection</protocol>
     </edge>
     <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
+      <protocol>extraction</protocol>
     </edge>
     <edge input="Extract" output="Assay">
-      <protocol>DNA sequencing</protocol>
+      <protocol>immune response assay</protocol>
     </edge>
     <edge input="Assay" output="DataTransformation">
       <protocol>data transformation</protocol>
@@ -96,7 +96,7 @@
     <dataset>pfal3D7_microarrayAntibody_South_Africa_Zambia_Jun_ICEMR_RSRC</dataset>
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Extract" type="protein extract" suffix="Extract"/>
     <node name="Assay" suffix="Assay"/>
     <node name="DataTransformation" suffix="protein_microarray"/>
     
@@ -104,10 +104,10 @@
       <protocol>specimen collection</protocol>
     </edge>
     <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
+      <protocol>extraction</protocol>
     </edge>
     <edge input="Extract" output="Assay">
-      <protocol>DNA sequencing</protocol>
+      <protocol>immune response assay</protocol>
     </edge>
     <edge input="Assay" output="DataTransformation">
         <protocol>data transformation</protocol>
@@ -118,7 +118,7 @@
     <dataset>pfal3D7_microarrayAntibody_Amazonia_Peru_ICEMR_RSRC</dataset>
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Extract" type="protein extract" suffix="Extract"/>
     <node name="Assay" suffix="Assay"/>
     <node name="DataTransformation" suffix="protein_microarray"/>
 
@@ -126,10 +126,10 @@
       <protocol>specimen collection</protocol>
     </edge>
     <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
+      <protocol>extraction</protocol>
     </edge>
     <edge input="Extract" output="Assay">
-      <protocol>DNA sequencing</protocol>
+      <protocol>immune response assay</protocol>
     </edge>
     <edge input="Assay" output="DataTransformation">
       <protocol>data transformation</protocol>
@@ -140,7 +140,7 @@
     <dataset>pfal3D7_microarrayAntibody_Southeast_Asia_ICEMR_RSRC</dataset>
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Extract" type="protein extract" suffix="Extract"/>
     <node name="Assay" suffix="Assay"/>
     <node name="DataTransformation" suffix="protein_microarray"/>
     
@@ -148,10 +148,10 @@
       <protocol>specimen collection</protocol>
     </edge>
     <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
+      <protocol>extraction</protocol>
     </edge>
     <edge input="Extract" output="Assay">
-        <protocol>DNA sequencing</protocol>
+        <protocol>immune response assay</protocol>
     </edge>
     <edge input="Assay" output="DataTransformation">
       <protocol>data transformation</protocol>
@@ -162,7 +162,7 @@
     <dataset>pfal3D7_microarrayAntibody_South_Africa_Zambia_Dec_ICEMR_RSRC</dataset>
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Extract" type="protein extract" suffix="Extract"/>
     <node name="Assay" suffix="Assay"/>
     <node name="DataTransformation" suffix="protein_microarray"/>
 
@@ -170,10 +170,10 @@
       <protocol>specimen collection</protocol>
     </edge>
     <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
+      <protocol>extraction</protocol>
     </edge>
     <edge input="Extract" output="Assay">
-      <protocol>DNA sequencing</protocol>
+      <protocol>immune response assay</protocol>
     </edge>
     <edge input="Assay" output="DataTransformation">
       <protocol>data transformation</protocol>
@@ -184,7 +184,7 @@
 <dataset>pfal3D7_microarrayAntibody_Amazonia_Brazil_ICEMR_RSRC</dataset>
   <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Extract" type="protein extract" suffix="Extract"/>
     <node name="Assay" suffix="Assay"/>
     <node name="DataTransformation" suffix="protein_microarray"/>
 
@@ -192,10 +192,10 @@
         <protocol>specimen collection</protocol>
     </edge>
     <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
+      <protocol>extraction</protocol>
     </edge>
     <edge input="Extract" output="Assay">
-        <protocol>DNA sequencing</protocol>
+        <protocol>immune response assay</protocol>
     </edge>
     <edge input="Assay" output="DataTransformation">
         <protocol>data transformation</protocol>
@@ -207,7 +207,7 @@
     <dataset>pfal3D7_microarrayAntibody_Uganda_East_Africa_ICEMR_RSRC</dataset>
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Extract" type="protein extract" suffix="Extract"/>
     <node name="Assay" suffix="Assay"/>
     <node name="DataTransformation" suffix="protein_microarray"/>
 
@@ -215,10 +215,10 @@
       <protocol>specimen collection</protocol>
     </edge>
     <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
+      <protocol>extraction</protocol>
     </edge>
     <edge input="Extract" output="Assay">
-      <protocol>DNA sequencing</protocol>
+      <protocol>immune response assay</protocol>
     </edge>
     <edge input="Assay" output="DataTransformation">
       <protocol>data transformation</protocol>
@@ -229,7 +229,7 @@
     <dataset>pfal3D7_microarrayAntibody_South_Pacific_ICEMR_RSRC</dataset>
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Extract" type="protein extract" suffix="Extract"/>
     <node name="Assay" suffix="Assay"/>
     <node name="DataTransformation" suffix="protein_microarray"/>
     
@@ -237,10 +237,32 @@
         <protocol>specimen collection</protocol>
     </edge>
     <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
+      <protocol>extraction</protocol>
     </edge>
     <edge input="Extract" output="Assay">
-      <protocol>DNA sequencing</protocol>
+      <protocol>immune response assay</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+      <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_India_Rao" identifierSuffix="-12" sampleRegex="EUSMPL"> 
+    <dataset>pfal3D7_microarrayAntibody_India_ICEMR_RSRC</dataset>
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="protein extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="protein_microarray"/>
+    
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+      <protocol>immune response assay</protocol>
     </edge>
     <edge input="Assay" output="DataTransformation">
       <protocol>data transformation</protocol>
