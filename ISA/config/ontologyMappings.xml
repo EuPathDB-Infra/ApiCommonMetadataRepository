@@ -667,6 +667,9 @@
   <ontologyTerm source_id="GAZ_00002845" type="characteristicValue" parent="characteristicQualifier">
     <name>China</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002637" type="characteristicValue" parent="characteristicQualifier">
+    <name>United Kingdom: England</name>
+  </ontologyTerm>
 
   <ontologyTerm source_id="GAZ_00001105" type="characteristicValue" parent="characteristicQualifier">
     <name>Malawi</name>
