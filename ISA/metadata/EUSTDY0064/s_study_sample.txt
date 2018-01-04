@@ -1,8 +1,8 @@
-Name	Description	SourceMTOverride	SampleMTOverride	specimen collector	specimen collection year	Characteristics [GeographicLocation]	Characteristics[city]	Characteristics [organism]	Characteristics [GP60 genotype]
-UKP2	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2012	United Kingdom	England	Homo sapiens	IIaA19G1R2
-UKP3	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom	Wales	Homo sapiens	IIaA18G2R1
-UKP4	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom	England	Homo sapiens	IIaA15G2R1
-UKP5	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom		Homo sapiens	IIaA15G2R1
-UKP6	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom		Homo sapiens	IIaA15G2R1
-UKP7	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom	England	Homo sapiens	IIaA17G1R1
-UKP8	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom	England	Homo sapiens	IIdA22G1
+Name	Description	SourceMTOverride	SampleMTOverride	specimen collector	specimen collection year	Characteristics [GeographicLocation]	Characteristics[city]	Characteristics [organism]	Characteristics [GP60 genotype]	Characteristics [parasite organism]
+UKP2	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2012	United Kingdom	England	Homo sapiens	IIaA19G1R2	Cryptosporidium parvum UKP2
+UKP3	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom	Wales	Homo sapiens	IIaA18G2R1	Cryptosporidium parvum UKP3
+UKP4	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom	England	Homo sapiens	IIaA15G2R1	Cryptosporidium parvum UKP4
+UKP5	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom		Homo sapiens	IIaA15G2R1	Cryptosporidium parvum UKP5
+UKP6	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom		Homo sapiens	IIaA15G2R1	Cryptosporidium parvum UKP6
+UKP7	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom	England	Homo sapiens	IIaA17G1R1	Cryptosporidium parvum UKP7
+UKP8	Genome sequencing of Cryptosporidium parvum			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom	England	Homo sapiens	IIdA22G1	Cryptosporidium parvum UKP8

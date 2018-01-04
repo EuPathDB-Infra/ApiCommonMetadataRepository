@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	specimen collector	specimen collection year	Characteristics [GeographicLocation]	Characteristics[city]	Characteristics [disease]	Characteristics [organism]	Characteristics [GP60 genotype]	latitude	longitude
-UKH3	Genome sequencing of Cryptosporidium hominis			Cryptosporidium Reference Unit, Public Health Wales	2012	United Kingdom	England	diarrhea	Homo sapiens	IbA10G2	52.4 N	1.9 W
-UKH4	Genome sequencing of Cryptosporidium hominis			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom	England		Homo sapiens	IaA14R3		
-UKH5	Genome sequencing of Cryptosporidium hominis			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom	England		Homo sapiens	IbA10G2		
+Name	Description	SourceMTOverride	SampleMTOverride	specimen collector	specimen collection year	Characteristics [GeographicLocation]	Characteristics[city]	Characteristics [disease]	Characteristics [organism]	Characteristics [GP60 genotype]	latitude	longitude	Characteristics [parasite organism]
+UKH3	Genome sequencing of Cryptosporidium hominis			Cryptosporidium Reference Unit, Public Health Wales	2012	United Kingdom	England	diarrhea	Homo sapiens	IbA10G2	52.4 N	1.9 W	Cryptosporidium hominis UKH3
+UKH4	Genome sequencing of Cryptosporidium hominis			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom	England		Homo sapiens	IaA14R3			Cryptosporidium hominis UKH4
+UKH5	Genome sequencing of Cryptosporidium hominis			Cryptosporidium Reference Unit, Public Health Wales	2013	United Kingdom	England		Homo sapiens	IbA10G2			Cryptosporidium hominis UKH5
