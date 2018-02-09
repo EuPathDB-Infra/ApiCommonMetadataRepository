@@ -87,8 +87,9 @@
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
     <name>age</name>
-	<name>host_age</name>
+    <name>host_age</name>
     <function>splitUnitFromValue</function>
+    <function>setUnitToYear</function>
   </ontologyTerm>
   <ontologyTerm source_id="PATO_0000047" type="characteristicQualifier" parent="Source">
     <name>sex</name>
