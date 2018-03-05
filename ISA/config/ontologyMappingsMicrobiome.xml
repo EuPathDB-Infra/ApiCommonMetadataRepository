@@ -22,16 +22,10 @@
     <name>collection_timestamp</name>
     <function>formatDate</function> 
   </ontologyTerm>
-  <ontologyTerm source_id="UO_0000036" type="protocolParameter" parent="specimen collection">
-    <name>Year</name>
-  </ontologyTerm>
 
   <!-- Material Entity Types -->
   <ontologyTerm source_id="EUPATH_0000591" type="materialType">
     <name>host</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0000655" type="materialType">
-    <name>blood specimen</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0000671" type="materialType">
     <name>sample from organism</name>
@@ -56,34 +50,17 @@
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0200000" type="protocol">
     <name>data transformation</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OGMS_0000090" type="protocol">
-    <name>treatment</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0000995" type="protocol">
-    <name>administration of material to specimen</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="IDO_0000586" type="protocol">
-    <name>infection</name>
-  </ontologyTerm>
- 
+  </ontologyTerm> 
 
   <!-- Characteristics -->
-  <ontologyTerm source_id="GAZ_00000448" type="characteristicQualifier" parent="Source">
-    <name>geographic location</name>
-    <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
   <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
     <name>country name</name>
-	<name>country</name>
+    <name>country</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0100026" type="characteristicQualifier" parent="Source">
-    <name>organism</name>
-    <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="OPL_0000232" type="characteristicQualifier" parent="Source">
-    <name>parasite organism</name>
+  <ontologyTerm source_id="EUPATH_0000452" type="characteristicQualifier" parent="Source">
+    <name>geo_loc_name</name>
+    <name>village</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
     <name>age</name>
@@ -91,72 +68,26 @@
     <function>splitUnitFromValue</function>
     <function>setUnitToYear</function>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000579" type="characteristicQualifier" parent="Source">
+    <name>day_of_life</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000512" type="characteristicQualifier" parent="Source">
+    <name>host_common_name</name>
+  </ontologyTerm>
   <ontologyTerm source_id="PATO_0000047" type="characteristicQualifier" parent="Source">
     <name>sex</name>
-	<name>host_sex</name>
+    <name>host_sex</name>
     <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0000198" type="characteristicQualifier" parent="Sample">
-    <name>biological replicate</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000463" type="characteristicQualifier" parent="Sample">
     <name>host_body_product</name>
-	<name>body_product</name>
-   <function>valueIsOntologyTerm</function>
+    <name>body_product</name>
+    <function>valueIsOntologyTerm</function>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000061" type="characteristicQualifier" parent="Sample">
     <name>host_body_site</name>
     <name>body_site</name>
     <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="ENVO_00010483" type="characteristicQualifier" parent="Sample">
-    <name>env_matter</name>
-   <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="REO_0000699" type="characteristicQualifier" parent="Source">
-    <name>role</name>
-    <name>age_group</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="ENVO_00000176" type="characteristicQualifier" parent="Source">
-    <name>elevation</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000276" type="characteristicQualifier" parent="Source">
-    <name>parasite clearance half life</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000277" type="characteristicQualifier" parent="Source">
-    <name>parasite clearance rate</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000278" type="characteristicQualifier" parent="Source">
-    <name>parasite clearance time</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000290" type="characteristicQualifier" parent="Source">
-    <name>parasitemia start time</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000291" type="characteristicQualifier" parent="Source">
-    <name>treatment outcome information</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_health_status" type="characteristicQualifier" parent="Source">
-    <name>health_status</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_time_to_onset" type="characteristicQualifier" parent="Source">
-    <name>time_to_onset</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001305" type="characteristicQualifier" parent="Extract">
-    <name>genotype information</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001620" type="characteristicQualifier" parent="Source">
-    <name>latitude coordinate measurement datum</name>
-    <name>latitude</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001621" type="characteristicQualifier" parent="Source">
-    <name>longitude coordinate measurement datum</name>
-    <name>longitude</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000578" type="characteristicQualifier" parent="Source">
-    <name>depth</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OGMS_0000027" type="characteristicQualifier" parent="Source">
-    <name>clinical phenotype</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000466" type="characteristicQualifier" parent="Source">
     <name>body_habitat</name>
@@ -170,11 +101,26 @@
     <name>env_feature</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000512" type="characteristicQualifier" parent="Source">
-    <name>host_common_name</name>
+  <ontologyTerm source_id="ENVO_00010483" type="characteristicQualifier" parent="Sample">
+    <name>env_matter</name>
+   <function>valueIsOntologyTerm</function>
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0100026" type="characteristicQualifier" parent="Source">
-    <name>host_taxid</name>
+  <ontologyTerm source_id="REO_0000699" type="characteristicQualifier" parent="Source">
+    <name>role</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_00000176" type="characteristicQualifier" parent="Source">
+    <name>elevation</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001620" type="characteristicQualifier" parent="Source">
+    <name>latitude coordinate measurement datum</name>
+    <name>latitude</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001621" type="characteristicQualifier" parent="Source">
+    <name>longitude coordinate measurement datum</name>
+    <name>longitude</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000578" type="characteristicQualifier" parent="Source">
+    <name>depth</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000590" type="characteristicQualifier" parent="Source">
     <name>diet</name>
@@ -199,10 +145,6 @@
     <name>weight_loss_3_month</name>
     <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000452" type="characteristicQualifier" parent="Source">
-    <name>geo_loc_name</name>
-    <name>village</name>
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000608" type="characteristicQualifier" parent="Sample">
     <name>samp_collect_device</name>
   </ontologyTerm>
@@ -220,14 +162,8 @@
     <name>colony_tetracycline</name>
     <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
-    <name>country</name>
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000492" type="characteristicQualifier" parent="Source">
     <name>course_num</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000579" type="characteristicQualifier" parent="Source">
-    <name>day_of_life</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000581" type="characteristicQualifier" parent="Source">
     <name>delivery</name>
@@ -242,14 +178,14 @@
   <ontologyTerm source_id="EUPATH_0000493" type="characteristicQualifier" parent="Source">
     <name>family</name>
   </ontologyTerm>
-   <ontologyTerm source_id="EUPATH_0000494" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000494" type="characteristicQualifier" parent="Source">
     <name>house</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000592" type="characteristicQualifier" parent="Source">
     <name>larval_tetracycline</name>
     <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
- <ontologyTerm source_id="EUPATH_0000594" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000594" type="characteristicQualifier" parent="Source">
     <name>mom_child</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000497" type="characteristicQualifier" parent="Source">
@@ -328,33 +264,67 @@
   </ontologyTerm>
   
 <!-- characteristicValues -->
-  <ontologyTerm source_id="ENVO_00005803" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:animal-associated habitat</name>
-  </ontologyTerm>
- <ontologyTerm source_id="ENVO_01000744" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:human-associated habitat</name>
-  </ontologyTerm>
+  <!-- PATO terms -->
   <ontologyTerm source_id="PATO_0000384" type="characteristicValue" parent="characteristicQualifier">
     <name>male</name>
   </ontologyTerm>
   <ontologyTerm source_id="PATO_0000383" type="characteristicValue" parent="characteristicQualifier">
     <name>female</name>
   </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier">
-    <name>GAZ:Puerto Rico</name>
-    <name>Puerto Rico</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
-    <name>UBERON:multi-cellular organism</name>
-    <name>multi-cellular organism</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="ENVO_01000246" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:village biome</name>
-    <name>village biome</name>
+
+  <!-- ENVO terms -->
+  <ontologyTerm source_id="ENVO_00005803" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:animal-associated habitat</name>
   </ontologyTerm>
   <ontologyTerm source_id="ENVO_00009004" type="characteristicValue" parent="characteristicQualifier">
     <name>ENVO:insecta-associated habitat</name>
     <name>insecta-associated habitat</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_01000744" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:human-associated habitat</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="ENVO_01000246" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:village biome</name>
+    <name>village biome</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_01000249" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:urban biome</name>
+    <name>urban biome</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="ENVO_01000155" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:organic material</name>
+    <name>organic material</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_00002008" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:dust</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_0010001" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:anthropogenic environmental material</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_01000155" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:organic material</name>
+    <name>organic material</name>
+  </ontologyTerm>
+  
+  <!-- GAZ terms -->
+  <ontologyTerm source_id="GAZ_00002459" type="characteristicValue" parent="characteristicQualifier">
+    <name>GAZ:United States of America</name>
+    <name>USA</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00003147" type="characteristicValue" parent="characteristicQualifier">
+    <name>USA:NY:NYC</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier">
+    <name>GAZ:Puerto Rico</name>
+    <name>Puerto Rico</name>
+  </ontologyTerm>
+  
+  <!-- UBERON terms -->
+  <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:multi-cellular organism</name>
+    <name>multi-cellular organism</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000479" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:tissue</name>
@@ -380,135 +350,116 @@
     <name>UBERON:hypopharynx</name>
     <name>hypopharynx</name>
   </ontologyTerm>
-  <ontologyTerm source_id="ENVO_01000155" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:organic material</name>
-    <name>organic material</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="ENVO_00002008" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:dust</name>
-  </ontologyTerm>
-<ontologyTerm source_id="ENVO_0010001" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:anthropogenic environmental material</name>
-  </ontologyTerm>
-<ontologyTerm source_id="ENVO_01000155" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:organic material</name>
-    <name>organic material</name>
-  </ontologyTerm>
-<ontologyTerm source_id="ENVO_01000249" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:urban biome</name>
-    <name>urban biome</name>
-  </ontologyTerm>
-<ontologyTerm source_id="GAZ_00002459" type="characteristicValue" parent="characteristicQualifier">
-    <name>GAZ:United States of America</name>
-    <name>USA</name>
-  </ontologyTerm>
-<ontologyTerm source_id="GAZ_00003147" type="characteristicValue" parent="characteristicQualifier">
-    <name>USA:NY:NYC</name>
-  </ontologyTerm>
-<ontologyTerm source_id="UBERON_0000166" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0000166" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:mouth</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0000167" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_1000021" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:skin of face</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0001155" type="characteristicValue" parent="characteristicQualifier">
+    <name>colon</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0000167" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:oral cavity</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0000341" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0000341" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:throat</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0000912" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0000912" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:mucus</name>
     <name>ENVO:mucus</name>
     <name>mucus</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0000996" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0000996" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:vagina</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0001003" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0001003" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:skin</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0001084" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0001084" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:skin of head</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0001519" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:skin of hand</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0001091" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0001091" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:tooth</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0001456" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0001456" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:face</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0001459" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0001459" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:skin of external ear</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0001513" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0001513" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:foot skin</name>
     <name>UBERON:skin of foot</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0001517" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0001517" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:skin of elbow</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0001723" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0001723" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:tongue</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0001828" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0001828" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:gingiva</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0001836" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0001836" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:saliva</name>
     <name>ENVO:saliva</name>
     <name>saliva</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0001866" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0001866" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:sebum</name>
     <name>ENVO:sebum</name>
     <name>sebum</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0001988" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0001988" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:feces</name>
     <name>ENVO:feces</name>
     <name>feces</name>
     <name>stool</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0002373" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0002373" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:palatine tonsil</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0003216" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0003216" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:hard palate</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0003729" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0003729" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:buccal mucosa</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0005928" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0005928" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:anterior nares</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0005928" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0005928" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:nostril</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0012317" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0012317" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:vaginal introitus</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0013524" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0013524" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:central vagina</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0015476" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0015476" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:skin of nose</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0016484" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0016484" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:subgingival dental plaque</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0016485" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0016485" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:supragingival dental plaque</name>
   </ontologyTerm>
-<ontologyTerm source_id="UBERON_0016486" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_0016486" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:posterior fornix of vagina</name>
   </ontologyTerm>
 
-   <!--units-->
+  <!--units-->
   <ontologyTerm source_id="UO_0000036" type="unit">
     <name>year</name>
     <name>years</name>
   </ontologyTerm>
- <ontologyTerm source_id="UO_0000033" type="unit">
+  <ontologyTerm source_id="UO_0000033" type="unit">
     <name>day</name>
     <name>days</name>
   </ontologyTerm>
