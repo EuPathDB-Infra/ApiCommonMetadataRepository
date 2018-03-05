@@ -1,0 +1,66 @@
+Notes of changes made in SVN revision 87578
+
+s_study_sample_797.txt
+
+1. For any known host_age with no corresponding host_life_stage, add “Adolescent” since all age < 15 years
+
+2. For ‘feces’ sample, change:
+body_habitat: UBERON:feces -> colon
+body_site: UBERON:feces -> colon
+
+3. For following annotation:
+body_habitat	body_product	body_site
+UBERON:skin	UBERON:sebum	UBERON:face
+change body_site
+UBERON:face -> UBERON:skin of face (so it is consistent with other body_site like skin of hand, foot skin, etc.)
+
+4. remove value ‘ENVO:human-associated habitat’ from column env_biome, consider it as ‘env_feature’.
+
+5. remove value in column env_matter, values are same as body_product. Material collected from host not environment.
+
+6. remove column host_taxid, which is Taxon ID of host, we have host_common_name, we can put ontology term mapping for it if need.
+
+s_study_sample_1064.txt
+
+1. remove UBERON:tissue, UBERON:body in column body_product. It is not fit the variable, which requires to provide the product produced by body. (so, keep UBERON:secretion)
+
+2. remove value ‘ENVO:village biome’ from column env_biome, which cause confusion.
+
+3. remove value in column env_matter. Material collected from host not environment.
+
+4. remove column host_taxid, which is Taxon ID of host, we have host_common_name, we can put ontology term mapping for it if need.
+
+5. column ‘role’ contains value ‘larvae’, ‘pupae’. I think these are lifecycle stage not social role of bee. So, add new column ‘host_life_stage’, and move these values in the new column.
+
+s_study_sample_1927.txt
+1. For ‘feces’ sample, change:
+body_habitat: UBERON:feces -> colon
+body_site: UBERON:feces -> colon
+
+2. remove value in column env_matter. Material collected from host not environment.
+
+3. remove column host_taxid, which is Taxon ID of host, we have host_common_name, we can put ontology term mapping for it if need.
+
+
+s_study_sample_1928.txt
+1. For ‘feces’ sample, change:
+body_habitat: UBERON:feces -> colon
+body_site: UBERON:feces -> colon
+
+2. remove value in column env_matter. Material collected from host not environment.
+
+3. remove column host_taxid, which is Taxon ID of host, we have host_common_name, we can put ontology term mapping for it if need.
+
+s_study_sample_1928.txt
+
+1. remove value in column env_matter when sample collected from host, human or dog. keep ‘dust’
+
+2. removed ‘human’ in host_common_name column for those ‘dust’ sample
+
+3. host_taxid for dust is 1256227, ‘indoor metagenome’ (- unclassified sequences). It is not organism. As what we did before, host_taxid is removed.
+
+s_study_sample_10249.txt
+
+1. column ‘day_of_life’ mapped to ‘age in days’ which is also host_age. Added ‘age’ column and copy values in column ‘day_of_life’. So, people can also search age filter to find the samples only available in ‘age in days’ now.
+
+2. column ‘geo_loc_name’ with value  USA:NY:NYC, add new column ‘country’ to specify the geographic location in country level.
