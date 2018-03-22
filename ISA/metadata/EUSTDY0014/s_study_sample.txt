@@ -1,2 +1,2 @@
-Source Name	Material Type	Term Source REF	Term Accession Number	Characteristics[OBI_0100026]	Term Source REF	Term Accession Number	Characteristics[OPL_0000232]	Protocol REF	Sample Name	Material Type	Term Source REF	Term Accession Number	Description	Protocol REF	Extract Name	Material Type	Term Source REF	Term Accession Number
-Subject 1	host	GO	GO_0018995	human	NCBITaxon	NCBITaxon_9606	Plasmodium vivax IQ07	sample collection	EUSTDY0014-1	sample from organism	OBI	OBI_0000671	Illumina sequencing for Pvivax IQ07	extraction	Extract IQ07	DNA extract	OBI	OBI_0001051
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[organism ID]	Characteristics[parasite organism]	Characteristics[specimen]
+IQ07	Illumina sequencing for Pvivax IQ07			human	EUSTDY0014 Subject 1	Plasmodium vivax IQ07	specimen from organism
