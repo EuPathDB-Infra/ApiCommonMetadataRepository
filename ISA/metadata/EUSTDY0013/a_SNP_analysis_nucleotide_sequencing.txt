@@ -1,2 +1,0 @@
-Extract Name	Protocol REF	Assay Name
-Extract PreichenowiCDC	DNA Sequencing	CDC_reference_reads (DNA Sequencing)
