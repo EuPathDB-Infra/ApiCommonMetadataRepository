@@ -1,0 +1,23 @@
+<investigation identifierRegex="^(EUSTDY)\d+$" identifierIsDirectoryName="true">
+
+  <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>pvivSal1_HTS_SNP_Broad_HTS_Isolates_RSRC</dataset>
+    <dataset>pvivSal1_copyNumberVariations_Broad_HTS_Isolates_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="DNA Sequence variation detection"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA Sequence variation detection</protocol>
+    </edge>
+  </study>
+
+</investigation>

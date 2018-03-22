@@ -1,5 +1,0 @@
-Extract Name	Protocol REF	Assay Name
-Extract NorthKorean	DNA Sequencing	NorthKorean (DNA Sequencing)
-Extract IndiaVII	DNA Sequencing	IndiaVII (DNA Sequencing)
-Extract MauritaniaI	DNA Sequencing	MauritaniaI (DNA Sequencing)
-Extract BrazilI	DNA Sequencing	BrazilI (DNA Sequencing)
