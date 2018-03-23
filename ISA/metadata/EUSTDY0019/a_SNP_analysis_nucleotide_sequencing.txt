@@ -1,2 +1,0 @@
-Sample Name	Protocol REF	Protocol REF	Assay Name	Protocol REF	Protocol REF	Data Transformation Name
-3D7_500_NoPCR_GAII-sc-2011-01-12-1048864	DNA extraction	DNA Sequencing	SAMEA983933 DNASeq Assay	data collection	sequence analysis data transformation	3D7_resequence1 (Sequence Variation)

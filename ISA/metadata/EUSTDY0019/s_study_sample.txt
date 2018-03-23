@@ -1,2 +1,2 @@
-Source Name	Material Type	Term Source REF	Term Accession Number	Characteristics[OBI_0100026]	Term Source REF	Term Accession Number	Characteristics[OPL_0000232]	Protocol REF	Parameter Value[UO_0000036]	Sample Name	Material Type	Term Source REF	Term Accession Number	Description
-Chimp 1	host	GO	GO_0018995	chimp	NCBITaxon	NCBITaxon_36329	Plasmodium falciparum 3D7	sample collection	2011	3D7_500_NoPCR_GAII-sc-2011-01-12-1048864	sample from organism	OBI	OBI_0000671	Illumina sequencing of Plasmodium falciparum 3D7 from Sanger - Source_ID : ERR034295
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[parasite organism]	Parameter Value[collection year]
+3D7_resequence1	Illumina sequencing of Plasmodium falciparum 3D7 from Sanger - Source_ID : ERR034295			chimp	Plasmodium falciparum 3D7	2011
