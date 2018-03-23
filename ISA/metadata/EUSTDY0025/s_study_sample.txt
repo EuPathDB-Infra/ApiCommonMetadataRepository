@@ -1,23 +1,23 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[GAZ_00000448]	Characteristics[OBI_0100026]	Parameter Value [Year]	Characteristics[OPL_0000232]	Characteristics[Environmental Feature]
-AF10				http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_9606	1986	Aspergillus fumigatus AF10	nodular infiltrate in a corticosteroid-treated patient
-AF210				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus AF210	hospital acquired infection
-AF293_resequence1					NCBITaxon_9606		Aspergillus fumigatus AF293	
-F11698				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus F11698	clinical isolate from patient with an atypical mycobacterium infection, COPD, CCPA and aspergilloma
-F14946				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus F14946	clinical isolate from patient with sarcoidosis and bilateral large aspergillomas
-F15861				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus F15861	clinical isolate from a patient with sarcoidosis, CCPA, and bilateral aspergilloma
-F16867				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus F16867	clinical isolate obtained from sputum
-B5852					NCBITaxon_9606		Aspergillus fumigatus B5852	
-B5854					NCBITaxon_9606		Aspergillus fumigatus B5854	
-B5856					NCBITaxon_9606		Aspergillus fumigatus B5856	
-B5859					NCBITaxon_9606		Aspergillus fumigatus B5859	
-B5863					NCBITaxon_9606		Aspergillus fumigatus B5863	
-B5866					NCBITaxon_9606		Aspergillus fumigatus B5866	
-B5868					NCBITaxon_9606		Aspergillus fumigatus B5868	
-B6069					NCBITaxon_9606		Aspergillus fumigatus B6069	
-B6074					NCBITaxon_9606		Aspergillus fumigatus B6074	
-B6078					NCBITaxon_9606		Aspergillus fumigatus B6078	
-B6079					NCBITaxon_9606		Aspergillus fumigatus B6079	
-B6081					NCBITaxon_9606		Aspergillus fumigatus B6081	
-F11628					NCBITaxon_9606		Aspergillus fumigatus F11628	
-F12865					NCBITaxon_9606		Aspergillus fumigatus F12865	
-F15767					NCBITaxon_9606		Aspergillus fumigatus F15767	
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Parameter Value [collection year]	Characteristics[specimen]	Characteristics[parasite organism]	Characteristics[health_status]
+AF10				USA	human	1986	specimen from organism	Aspergillus fumigatus AF10	nodular infiltrate in a corticosteroid-treated patient
+AF210				United Kingdom	human		specimen from organism	Aspergillus fumigatus AF210	hospital acquired infection
+AF293_resequence1					human		specimen from organism	Aspergillus fumigatus AF293
+F11698				United Kingdom	human		specimen from organism	Aspergillus fumigatus F11698	atypical mycobacterium infection, COPD, CCPA and aspergilloma
+F14946				United Kingdom	human		specimen from organism	Aspergillus fumigatus F14946	sarcoidosis and bilateral large aspergillomas
+F15861				United Kingdom	human		specimen from organism	Aspergillus fumigatus F15861	sarcoidosis, CCPA, and bilateral aspergilloma
+F16867				United Kingdom	human		sputum specimen	Aspergillus fumigatus F16867
+B5852					human		specimen from organism	Aspergillus fumigatus B5852
+B5854					human		specimen from organism	Aspergillus fumigatus B5854
+B5856					human		specimen from organism	Aspergillus fumigatus B5856
+B5859					human		specimen from organism	Aspergillus fumigatus B5859
+B5863					human		specimen from organism	Aspergillus fumigatus B5863
+B5866					human		specimen from organism	Aspergillus fumigatus B5866
+B5868					human		specimen from organism	Aspergillus fumigatus B5868
+B6069					human		specimen from organism	Aspergillus fumigatus B6069
+B6074					human		specimen from organism	Aspergillus fumigatus B6074
+B6078					human		specimen from organism	Aspergillus fumigatus B6078
+B6079					human		specimen from organism	Aspergillus fumigatus B6079
+B6081					human		specimen from organism	Aspergillus fumigatus B6081
+F11628					human		specimen from organism	Aspergillus fumigatus F11628
+F12865					human		specimen from organism	Aspergillus fumigatus F12865
+F15767					human		specimen from organism	Aspergillus fumigatus F15767
