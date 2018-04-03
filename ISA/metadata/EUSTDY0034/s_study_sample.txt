@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[OPL_0000232]
-STIB805_reference1	Illumina sequencing of Trypanosoma evansi Trypanosoma_evansi-sc-STiB805-1 library			Trypanosoma evansi STIB805
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]
+STIB805_reference1	Illumina sequencing of Trypanosoma evansi Trypanosoma_evansi-sc-STiB805-1 library			Trypanosoma evansi STIB805	specimen from organism
