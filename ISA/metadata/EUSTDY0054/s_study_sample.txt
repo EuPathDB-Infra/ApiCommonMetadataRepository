@@ -1,68 +1,68 @@
-Name	Description	SourceMTOverride	specimen from organism	Characteristics [alternative sample ID]	Characteristics [parasite organism]	Characteristics [city]	specimen collection year	Characteristics [country]	Characteristics [organism]	Characteristics [specimen collector]
-SJV_1			specimen	TGC0593	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_2			specimen	TGC0595	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_3			specimen	TGC0597	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_4			specimen	TGC0598	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_5			specimen	TGC0599	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_6			specimen	TGC0600	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_7			specimen	TGC0601	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_8			specimen	TGC0604	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_9			specimen	TGC0605	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_10			specimen	TGC0606	C. immitis	San Joaquin Valley, California		USA		University of Arizona
-SJV_11			specimen	TGC0607	C. immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-Tucson_1			Lymph node	TGC0609	C. posadasii	Tucson, Arizona		USA	Human	University of Arizona
-Tucson_2			specimen	TGC0611	C. posadasii	Tucson, Arizona		USA	Human	University of Arizona
-Tucson_3			Sputum	TGC0613	C. posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
-Tucson_4			specimen	TGC0614	C. posadasii	Tucson, Arizona		USA	Human	University of Arizona
-Tucson_5			Bronchoalveolar lavage	TGC0615	C. posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
-Tucson_6			Pleural fluid	TGC0618	C. posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
-Tucson_7			Sputum	TGC0619	C. posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
-Tucson_8			specimen	TGC0620	C. posadasii	Tucson, Arizona		USA	Human	University of Arizona
-Tucson_9			TGH mold iso	TGC0621	C. posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_10			TGH	TGC0622	C. posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_11			Lung nodule	TGC0623	C. posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_12			Bronchoalveolar lavage	TGC0625	C. posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_13			Lung mold bronch	TGC0626	C. posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_14			Blood	TGC0627	C. posadasii	Tucson, Arizona	1989	USA	Human	University of Arizona
-Tucson_15			Sputum	TGC0629	C. posadasii	Tucson, Arizona	1989	USA	Human	University of Arizona
-Tucson_16			Lung	TGC0630	C. posadasii	Tucson, Arizona	1989	USA	Human	University of Arizona
-Tucson_17			Sputum	TGC0632	C. posadasii	Tucson, Arizona	1986	USA	Human	University of Arizona
-Tucson_18			Sputum	TGC0633	C. posadasii	Tucson, Arizona	1987	USA	Human	University of Arizona
-Tucson_19			Lung aspirate	TGC0634	C. posadasii	Tucson, Arizona	1987	USA	Human	University of Arizona
-Tucson_20			Lung aspirate	TGC0635	C. posadasii	Tucson, Arizona	1987	USA	Human	University of Arizona
-Tucson_21				TGC0637	C. posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_22			Bronchoalveolar lavage	TGC0639	C. posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_23			Lung lesion	TGC0640	C. posadasii	Tucson, Arizona	1976	USA	Human	University of Arizona
-Michoacan_2			specimen	TGC0642	C. immitis	Michoacan, South Mexico		Mexico		University of Arizona
-Guerrero_1			specimen	TGC0643	C. immitis	Guerrero		Mexico	Human	University of Arizona
-San_Diego_1			specimen	TGC0645	C. immitis	San Diego, California		USA	Human	University of Arizona
-San_Antonio_1			specimen	TGC0646	C. posadasii	San Antonio, Texas		USA		
-Colorado_Springs_1			Cerebral spinal fluid	TGC0647	C. posadasii	Colorado Springs, Colorado	1997	USA	Human	University of Arizona
-Nuevo_Leon_1			specimen	TGC0648	C. posadasii	Nuevo Leon , Central Mexico		Mexico		University of Arizona
-Nuevo_Leon_2			specimen	TGC0649	C. posadasii	Nuevo Leon , Central Mexico		Mexico		University of Arizona
-Michoacan_1			specimen	TGC0650	C. posadasii	Michoacan, South Mexico		Mexico		University of Arizona
-Sonora_1			specimen	TGC0651	C. posadasii	Sonora, North Mexico		Mexico		University of Arizona
-Sonora_2			specimen	TGC0652	C. posadasii	Sonora, North Mexico		Mexico		University of Arizona
-Tucson_24			Lung	TGC0653	C. posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
-Coahuila_1			specimen	TGC0654	C. posadasii	Coahuila, North Mexico		Mexico		
-Coahuila_2			specimen	TGC0655	C. posadasii	Coahuila, North Mexico		Mexico		University of Arizona
-Phoenix_1			Bronchial wash	TGC0656	C. posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-Phoenix_2			Bronchial wash	TGC0657	C. posadasii	Maricopa, Arizona	2003	USA	Human	University of Arizona
-Phoenix_3			Sputum	TGC0658	C. posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-Phoenix_4			Bronchial wash	TGC0659	C. posadasii	Maricopa, Arizona	2003	USA	Human	University of Arizona
-Phoenix_5			Pleural fluid	TGC0660	C. posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-Phoenix_6			Bone marrow	TGC0661	C. posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-Phoenix_7			Sputum	TGC0662	C. posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-Phoenix_8			Bronchial wash	TGC0663	C. posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-Phoenix_9			Bronchial wash	TGC0664	C. posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-B0727_Argentina			specimen		C. immitis			Argentina		CDC
-B0858_Guatemala			specimen		C. posadasii			Guatemala		CDC
-B10757_Nevada			specimen		C. posadasii	Nevada		USA		CDC
-B10813_Texas			specimen		C. posadasii	Texas		USA		CDC
-B1249_Guatemala			specimen		C. posadasii			Guatemala		CDC
-B5773_Brazil			specimen		C. posadasii			Brazil		CDC
-GT017_Paraguay			specimen		C. posadasii			Paraguay		University of California, Irvine
-GT002_Texas			specimen		C. posadasii	Texas		USA		University of California, Irvine
-730332_Guatemala			specimen		C. posadasii			Guatemala		CDC
-730333_Guatelama			specimen		C. posadasii			Guatemala		CDC
-730334_Guatemala			specimen		C. posadasii			Guatemala		CDC
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [specimen]	Characteristics [alternative sample ID]	Characteristics [fungus organism]	Characteristics [city]	specimen collection year	Characteristics [country]	Characteristics [organism]	Characteristics [specimen collector]
+SJV_1				specimen from organism	TGC0593	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona
+SJV_2				specimen from organism	TGC0595	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona
+SJV_3				specimen from organism	TGC0597	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona
+SJV_4				specimen from organism	TGC0598	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona
+SJV_5				specimen from organism	TGC0599	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona
+SJV_6				specimen from organism	TGC0600	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona
+SJV_7				specimen from organism	TGC0601	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona
+SJV_8				specimen from organism	TGC0604	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona
+SJV_9				specimen from organism	TGC0605	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona
+SJV_10				specimen from organism	TGC0606	C. immitis	"San Joaquin Valley, California"		USA		University of Arizona
+SJV_11				specimen from organism	TGC0607	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona
+Tucson_1				lymph node	TGC0609	C. posadasii	"Tucson, Arizona"		USA	Human	University of Arizona
+Tucson_2				specimen from organism	TGC0611	C. posadasii	"Tucson, Arizona"		USA	Human	University of Arizona
+Tucson_3				sputum	TGC0613	C. posadasii	"Tucson, Arizona"	1991	USA	Human	University of Arizona
+Tucson_4				specimen from organism	TGC0614	C. posadasii	"Tucson, Arizona"		USA	Human	University of Arizona
+Tucson_5				bronchoalveolar lavage	TGC0615	C. posadasii	"Tucson, Arizona"	1991	USA	Human	University of Arizona
+Tucson_6				pleural fluid	TGC0618	C. posadasii	"Tucson, Arizona"	1991	USA	Human	University of Arizona
+Tucson_7				lputum	TGC0619	C. posadasii	"Tucson, Arizona"	1991	USA	Human	University of Arizona
+Tucson_8				specimen from organism	TGC0620	C. posadasii	"Tucson, Arizona"		USA	Human	University of Arizona
+Tucson_9				TGH mold iso	TGC0621	C. posadasii	"Tucson, Arizona"	1988	USA	Human	University of Arizona
+Tucson_10				TGH	TGC0622	C. posadasii	"Tucson, Arizona"	1988	USA	Human	University of Arizona
+Tucson_11				lung nodule	TGC0623	C. posadasii	"Tucson, Arizona"	1988	USA	Human	University of Arizona
+Tucson_12				bronchoalveolar lavage	TGC0625	C. posadasii	"Tucson, Arizona"	1988	USA	Human	University of Arizona
+Tucson_13				lung mold bronch	TGC0626	C. posadasii	"Tucson, Arizona"	1988	USA	Human	University of Arizona
+Tucson_14				blood	TGC0627	C. posadasii	"Tucson, Arizona"	1989	USA	Human	University of Arizona
+Tucson_15				sputum	TGC0629	C. posadasii	"Tucson, Arizona"	1989	USA	Human	University of Arizona
+Tucson_16				lung	TGC0630	C. posadasii	"Tucson, Arizona"	1989	USA	Human	University of Arizona
+Tucson_17				sputum	TGC0632	C. posadasii	"Tucson, Arizona"	1986	USA	Human	University of Arizona
+Tucson_18				sputum	TGC0633	C. posadasii	"Tucson, Arizona"	1987	USA	Human	University of Arizona
+Tucson_19				lung aspirate	TGC0634	C. posadasii	"Tucson, Arizona"	1987	USA	Human	University of Arizona
+Tucson_20				lung aspirate	TGC0635	C. posadasii	"Tucson, Arizona"	1987	USA	Human	University of Arizona
+Tucson_21				specimen from organism	TGC0637	C. posadasii	"Tucson, Arizona"	1988	USA	Human	University of Arizona
+Tucson_22				bronchoalveolar lavage	TGC0639	C. posadasii	"Tucson, Arizona"	1988	USA	Human	University of Arizona
+Tucson_23				lung lesion	TGC0640	C. posadasii	"Tucson, Arizona"	1976	USA	Human	University of Arizona
+Michoacan_2				specimen from organism	TGC0642	C. immitis	"Michoacan, South Mexico"		Mexico		University of Arizona
+Guerrero_1				specimen from organism	TGC0643	C. immitis	Guerrero		Mexico	Human	University of Arizona
+San_Diego_1				specimen from organism	TGC0645	C. immitis	"San Diego, California"		USA	Human	University of Arizona
+San_Antonio_1				specimen from organism	TGC0646	C. posadasii	"San Antonio, Texas"		USA		
+Colorado_Springs_1				cerebral spinal fluid	TGC0647	C. posadasii	"Colorado Springs, Colorado"	1997	USA	Human	University of Arizona
+Nuevo_Leon_1				specimen from organism	TGC0648	C. posadasii	"Nuevo Leon , Central Mexico"		Mexico		University of Arizona
+Nuevo_Leon_2				specimen from organism	TGC0649	C. posadasii	"Nuevo Leon , Central Mexico"		Mexico		University of Arizona
+Michoacan_1				specimen from organism	TGC0650	C. posadasii	"Michoacan, South Mexico"		Mexico		University of Arizona
+Sonora_1				specimen from organism	TGC0651	C. posadasii	"Sonora, North Mexico"		Mexico		University of Arizona
+Sonora_2				specimen from organism	TGC0652	C. posadasii	"Sonora, North Mexico"		Mexico		University of Arizona
+Tucson_24				lung	TGC0653	C. posadasii	"Tucson, Arizona"	1991	USA	Human	University of Arizona
+Coahuila_1				specimen from organism	TGC0654	C. posadasii	"Coahuila, North Mexico"		Mexico		
+Coahuila_2				specimen from organism	TGC0655	C. posadasii	"Coahuila, North Mexico"		Mexico		University of Arizona
+Phoenix_1				bronchial wash	TGC0656	C. posadasii	"Maricopa, Arizona"	2002	USA	Human	University of Arizona
+Phoenix_2				bronchial wash	TGC0657	C. posadasii	"Maricopa, Arizona"	2003	USA	Human	University of Arizona
+Phoenix_3				sputum	TGC0658	C. posadasii	"Maricopa, Arizona"	2002	USA	Human	University of Arizona
+Phoenix_4				bronchial wash	TGC0659	C. posadasii	"Maricopa, Arizona"	2003	USA	Human	University of Arizona
+Phoenix_5				pleural fluid	TGC0660	C. posadasii	"Maricopa, Arizona"	2002	USA	Human	University of Arizona
+Phoenix_6				bone marrow	TGC0661	C. posadasii	"Maricopa, Arizona"	2002	USA	Human	University of Arizona
+Phoenix_7				sputum	TGC0662	C. posadasii	"Maricopa, Arizona"	2002	USA	Human	University of Arizona
+Phoenix_8				bronchial wash	TGC0663	C. posadasii	"Maricopa, Arizona"	2002	USA	Human	University of Arizona
+Phoenix_9				bronchial wash	TGC0664	C. posadasii	"Maricopa, Arizona"	2002	USA	Human	University of Arizona
+B0727_Argentina				specimen from organism		C. immitis			Argentina		CDC
+B0858_Guatemala				specimen from organism		C. posadasii			Guatemala		CDC
+B10757_Nevada				specimen from organism		C. posadasii	Nevada		USA		CDC
+B10813_Texas				specimen from organism		C. posadasii	Texas		USA		CDC
+B1249_Guatemala				specimen from organism		C. posadasii			Guatemala		CDC
+B5773_Brazil				specimen from organism		C. posadasii			Brazil		CDC
+GT017_Paraguay				specimen from organism		C. posadasii			Paraguay		"University of California, Irvine"
+GT002_Texas				specimen from organism		C. posadasii	Texas		USA		"University of California, Irvine"
+730332_Guatemala				specimen from organism		C. posadasii			Guatemala		CDC
+730333_Guatelama				specimen from organism		C. posadasii			Guatemala		CDC
+730334_Guatemala				specimen from organism		C. posadasii			Guatemala		CDC
