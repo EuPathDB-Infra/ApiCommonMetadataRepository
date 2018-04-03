@@ -5,7 +5,7 @@
   <dataset>lpanMHOMCOL81L13_HTS_SNP_LpanMHOMPA94PSC-1_RSRC</dataset>
 
   <node name="Source" type="host" suffix="Source"/>  
-  <node name="Sample" type="lesion on arm specimen"/>  
+  <node name="Sample" type="sample from organism"/>  
   <node name="Extract" type="DNA extract" suffix="Extract"/>
   <node name="Assay" suffix="DNA Sequencing"/>
 
