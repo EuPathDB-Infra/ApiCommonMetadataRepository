@@ -1,5 +1,5 @@
-Name	Description	SourceMTOverride	SampleMTOverride	LifeCycleStage	Antibody	Genotype	Replicate	Strain	Treatment	CellType
-cenH3_H3K9me2_filtered					CenH3_H3K9me2		1			
-CenH3_H3K9me2_r_filtered					CenH3_H3K9me2		2			
-cenH3_o_filtered					CenH3		1			
-CenH3_r_filtered					CenH3		2			
+Name	Description	SourceMTOverride	SampleMTOverride	Antibody	Characteristics[Replicate]	Characteristics[parasite organism]	Characteristics[specimen]
+cenH3_H3K9me2_filtered				CenH3_H3K9me2	Replicate 1	Toxoplasma gondii	cell specimen
+CenH3_H3K9me2_r_filtered				CenH3_H3K9me2	Replicate 2	Toxoplasma gondii	cell specimen
+cenH3_o_filtered				CenH3	Replicate 1	Toxoplasma gondii	cell specimen
+CenH3_r_filtered				CenH3	Replicate 2	Toxoplasma gondii	cell specimen
