@@ -1,11 +1,11 @@
-Name	Description	SourceMTOverride	SampleMTOverride	LifeCycleStage	Antibody	Genotype	Replicate	Strain	Treatment	CellType
-H3K4me3_PLK					H3K4me3		1	PLK		
-H3K9ac_PLK					H3K9ac		1	PLK		
-H3K4me3_RH_1					H3K4me3		1	RH		
-H3K4me3_RH_2					H3K4me3		2	RH		
-H3K9ac_RH_1					H3K9ac		1	RH		
-H3K9ac_RH_2					H3K9ac		2	RH		
-H3K4me3_TypeIII_1					H3K4me3		1	CTG		
-H3K4me3_TypeIII_2					H3K4me3		2	CTG		
-H3K9ac_TypeIII_1					H3K9ac		1	CTG		
-H3K9ac_TypeIII_2					H3K9ac		2	CTG		
+Name	Description	SourceMTOverride	SampleMTOverride	Antibody	Characteristics[Replicate]	Characteristics[parasite organism]	Characteristics[specimen]
+H3K4me3_PLK				H3K4me3	Replicate 1	Toxoplasma gondii PLK	cell specimen
+H3K9ac_PLK				H3K9ac	Replicate 1	Toxoplasma gondii PLK	cell specimen
+H3K4me3_RH_1				H3K4me3	Replicate 1	Toxoplasma gondii RH	cell specimen
+H3K4me3_RH_2				H3K4me3	Replicate 2	Toxoplasma gondii RH	cell specimen
+H3K9ac_RH_1				H3K9ac	Replicate 1	Toxoplasma gondii RH	cell specimen
+H3K9ac_RH_2				H3K9ac	Replicate 2	Toxoplasma gondii RH	cell specimen
+H3K4me3_TypeIII_1				H3K4me3	Replicate 1	Toxoplasma gondii CTG	cell specimen
+H3K4me3_TypeIII_2				H3K4me3	Replicate 2	Toxoplasma gondii CTG	cell specimen
+H3K9ac_TypeIII_1				H3K9ac	Replicate 1	Toxoplasma gondii CTG	cell specimen
+H3K9ac_TypeIII_2				H3K9ac	Replicate 2	Toxoplasma gondii CTG	cell specimen
