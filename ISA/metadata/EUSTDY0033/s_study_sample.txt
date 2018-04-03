@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[GAZ_00000448]	Characteristics[OBI_0100026]	Characteristics[Source Disease]	Parameter Value [Specimen Collection Year]	Characteristics[OPL_0000232]	Characteristics[Environmental Feature]
-BHU-1095	AB SOLiD run for BHU-1095			http://purl.obolibrary.org/obo/GAZ_00002839	NCBITaxon_9606	Visceral leishmaniasis	1993-1994	Leishmania donovani BHU-1095	splenic aspirate
-39	AB SOLiD run for Isolate 39			http://purl.obolibrary.org/obo/GAZ_00002839	NCBITaxon_9606	not responsive to SAG therapy	1998-2000	Leishmania donovani Strain39	splenic aspirate
-2001	AB SOLiD run for Isolate 2001			http://purl.obolibrary.org/obo/GAZ_00002839	NCBITaxon_9606	Sensitive to SAG	1998-2000	Leishmania donovani Strain2001	
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Characteristics[health_status]	Characteristics[treatment outcome]	Parameter Value [Specimen Collection Year]	Characteristics[parasite organism]	Characteristics[specimen]
+BHU-1095	AB SOLiD run for BHU-1095			India	human	Visceral leishmaniasis		1993-1994	Leishmania donovani BHU-1095	splenic aspirate
+39	AB SOLiD run for Isolate 39			India	human		not responsive to SAG therapy	1998-2000	Leishmania donovani Strain39	splenic aspirate
+2001	AB SOLiD run for Isolate 2001			India	human		Sensitive to SAG	1998-2000	Leishmania donovani Strain2001	specimen from organism
