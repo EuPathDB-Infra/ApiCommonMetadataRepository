@@ -1,8 +1,8 @@
-Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [lab host]	Characteristics [host_common_name]	Characteristics [organism]	Characteristics [parasite organism]	Characteristics [Gender]	Characteristics [age]
-EBABE_ATCC 30222	Genetic variability in Babesia microti, genome sequencing and assembly			1950	Democratic Republic of the Congo	Congo Kinshasa	Golden Syrian Hamster	Forest mouse 	Thamnomys surdaster	ATCC 30222		
-EBABE_ATCC PRA-99	Genetic variability in Babesia microti, genome sequencing and assembly			1973	USA	Nantucket Island, MA	C3H SCID mouse	Human 	Homo sapiens	ATCC PRA-99	Female	49 years
-EBABE_GI	Genetic variability in Babesia microti, genome sequencing and assembly			1981	USA	Nantucket Island, MA	Golden Syrian Hamster	Human 	Homo sapiens	GI		
-EBABE_Naushon	Genetic variability in Babesia microti, genome sequencing and assembly			1986	USA	Naushon Island, MA	Golden Syrian Hamster	Black- legged deer tick 	Ixodes scapularis	Naushon		
-EBABE_GreenwichYale_Lab_Strain_1	Genetic variability in Babesia microti, genome sequencing and assembly			2002	USA	Greenwich, CT	C3H SCID mouse	White-footed mouse 	Peromyscus leucopus	GreenwichYale_Lab_strain_1 		
-EBABE_Nan_Hs_2011_N11-50	Genetic variability in Babesia microti, genome sequencing and assembly			2011	USA	Nantucket Island, MA	Golden Syrian Hamster	Human 	Homo sapiens	Nan_Hs_2011_N11-50	Male	
-RI	Genetic variability in Babesia microti, genome sequencing and assembly			2002	France	Rennes, France	Gerbil	Human	Homo sapiens	RI		
+Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [lab host]	Characteristics [host_common_name]	Characteristics [organism]	Characteristics [parasite organism]	Characteristics [Gender]	Characteristics [age]	Characteristics [specimen]
+EBABE_ATCC 30222	Genetic variability in Babesia microti, genome sequencing and assembly			1950	Democratic Republic of the Congo	Congo Kinshasa	Golden Syrian Hamster	Forest mouse	Thamnomys surdaster	ATCC 30222			blood
+EBABE_ATCC PRA-99	Genetic variability in Babesia microti, genome sequencing and assembly			1973	USA	Nantucket Island, MA	C3H SCID mouse	Human	Homo sapiens	ATCC PRA-99	Female	49 years	blood
+EBABE_GI	Genetic variability in Babesia microti, genome sequencing and assembly			1981	USA	Nantucket Island, MA	Golden Syrian Hamster	Human	Homo sapiens	GI			blood
+EBABE_Naushon	Genetic variability in Babesia microti, genome sequencing and assembly			1986	USA	Naushon Island, MA	Golden Syrian Hamster	Black- legged deer tick	Ixodes scapularis	Naushon			blood
+EBABE_GreenwichYale_Lab_Strain_1	Genetic variability in Babesia microti, genome sequencing and assembly			2002	USA	Greenwich, CT	C3H SCID mouse	White-footed mouse	Peromyscus leucopus	GreenwichYale_Lab_strain_1			blood
+EBABE_Nan_Hs_2011_N11-50	Genetic variability in Babesia microti, genome sequencing and assembly			2011	USA	Nantucket Island, MA	Golden Syrian Hamster	Human	Homo sapiens	Nan_Hs_2011_N11-50	Male		blood
+RI	Genetic variability in Babesia microti, genome sequencing and assembly			2002	France	Rennes, France	Gerbil	Human	Homo sapiens	RI			blood
