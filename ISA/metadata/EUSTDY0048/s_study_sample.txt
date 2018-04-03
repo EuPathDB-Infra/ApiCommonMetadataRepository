@@ -1,9 +1,9 @@
-Name	Description	SourceMTOverride	SampleMTOverride	LifeCycleStage	Antibody	Genotype	Replicate	Strain	Treatment	CellType
-RPB9_RNA_pol_II_2691502_ratio					RPB9_RNA_pol_II		1	RH		
-RPB9_RNA_pol_II_2696302_ratio					RPB9_RNA_pol_II		2	RH		
-SET8_89193_ratio					SET8		1	RH		
-SET8_89420_ratio					SET8		2	RH		
-TBP1_89169_ratio					TBP1		1	RH		
-TBP1_95391_ratio					TBP1		2	RH		
-TBP2_2696202_ratio					TBP2		1	RH		
-TBP2_2736002_ratio					TBP2		2	RH		
+Name	Description	SourceMTOverride	SampleMTOverride	Antibody	Characteristics[Replicate]	Characteristics[parasite organism]	Characteristics[specimen]
+RPB9_RNA_pol_II_2691502_ratio				RPB9_RNA_pol_II	Replicate 1	Toxoplasma gondii RH	cell specimen
+RPB9_RNA_pol_II_2696302_ratio				RPB9_RNA_pol_II	Replicate 2	Toxoplasma gondii RH	cell specimen
+SET8_89193_ratio				SET8	Replicate 1	Toxoplasma gondii RH	cell specimen
+SET8_89420_ratio				SET8	Replicate 2	Toxoplasma gondii RH	cell specimen
+TBP1_89169_ratio				TBP1	Replicate 1	Toxoplasma gondii RH	cell specimen
+TBP1_95391_ratio				TBP1	Replicate 2	Toxoplasma gondii RH	cell specimen
+TBP2_2696202_ratio				TBP2	Replicate 1	Toxoplasma gondii RH	cell specimen
+TBP2_2736002_ratio				TBP2	Replicate 2	Toxoplasma gondii RH	cell specimen
