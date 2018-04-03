@@ -1,43 +1,43 @@
-Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [country]	Characteristics [strain]	Characteristics[organ part]
-Candida_albicans_TWTC11	drug resistance in clinical isolates of Candida albicans			1991	USA	TWTC11	Oropharanyx
-Candida_albicans_3107	drug resistance in clinical isolates of Candida albicans			1996	USA	3107	Oropharanyx
-Candida_albicans_2307	drug resistance in clinical isolates of Candida albicans			1995	USA	2307	Oropharanyx
-Candida_albicans_580	drug resistance in clinical isolates of Candida albicans			1995	USA	580	Oropharanyx
-Candida_albicans_3795	drug resistance in clinical isolates of Candida albicans			1997	USA	3795	Oropharanyx
-Candida_albicans_TWTC1	drug resistance in clinical isolates of Candida albicans			1990	USA	TWTC1	Oropharanyx
-Candida_albicans_TWTC14	drug resistance in clinical isolates of Candida albicans			1992	USA	TWTC14	Oropharanyx
-Candida_albicans_3281	drug resistance in clinical isolates of Candida albicans			1996	USA	3281	Oropharanyx
-Candida_albicans_3733	drug resistance in clinical isolates of Candida albicans			1996	USA	3733	Oropharanyx
-Candida_albicans_TWTC6	drug resistance in clinical isolates of Candida albicans			1991	USA	TWTC6	Oropharanyx
-Candida_albicans_3184	drug resistance in clinical isolates of Candida albicans			1996	USA	3184	Oropharanyx
-Candida_albicans_5106	drug resistance in clinical isolates of Candida albicans			1998	USA	5106	Oropharanyx
-Candida_albicans_2440	drug resistance in clinical isolates of Candida albicans			1996	USA	2440	Oropharanyx
-Candida_albicans_5108	drug resistance in clinical isolates of Candida albicans			1998	USA	5108	Oropharanyx
-Candida_albicans_412	drug resistance in clinical isolates of Candida albicans			1995	USA	412	Oropharanyx
-Candida_albicans_4639	drug resistance in clinical isolates of Candida albicans			1997	USA	4639	Oropharanyx
-Candida_albicans_2501	drug resistance in clinical isolates of Candida albicans			1996	USA	2501	Oropharanyx
-Candida_albicans_3119	drug resistance in clinical isolates of Candida albicans			1996	USA	3119	Oropharanyx
-Candida_albicans_TWTC13	drug resistance in clinical isolates of Candida albicans			1991	USA	TWTC13	Oropharanyx
-Candida_albicans_TWTC17	drug resistance in clinical isolates of Candida albicans			1992	USA	TWTC17	Oropharanyx
-Candida_albicans_TWTC7	drug resistance in clinical isolates of Candida albicans			1991	USA	TWTC7	Oropharanyx
-Candida_albicans_TWTC8	drug resistance in clinical isolates of Candida albicans			1991	USA	TWTC8	Oropharanyx
-Candida_albicans_4018	drug resistance in clinical isolates of Candida albicans			1997	USA	4018	Oropharanyx
-Candida_albicans_TWTC9	drug resistance in clinical isolates of Candida albicans			1991	USA	TWTC9	Oropharanyx
-Candida_albicans_1002	drug resistance in clinical isolates of Candida albicans			1995	USA	1002	Oropharanyx
-Candida_albicans_3917	drug resistance in clinical isolates of Candida albicans			1997	USA	3917	Oropharanyx
-Candida_albicans_1619	drug resistance in clinical isolates of Candida albicans			1995	USA	1619	Oropharanyx
-Candida_albicans_2823	drug resistance in clinical isolates of Candida albicans			1996	USA	2823	Oropharanyx
-Candida_albicans_TWTC5	drug resistance in clinical isolates of Candida albicans			1991	USA	TWTC5	Oropharanyx
-Candida_albicans_3120	drug resistance in clinical isolates of Candida albicans			1996	USA	3120	Oropharanyx
-Candida_albicans_TWTC2	drug resistance in clinical isolates of Candida albicans			1990	USA	TWTC2	Oropharanyx
-Candida_albicans_1649	drug resistance in clinical isolates of Candida albicans			1995	USA	1649	Oropharanyx
-Candida_albicans_1691	drug resistance in clinical isolates of Candida albicans			1995	USA	1691	Oropharanyx
-Candida_albicans_4617	drug resistance in clinical isolates of Candida albicans			1997	USA	4617	Oropharanyx
-Candida_albicans_TWTC15	drug resistance in clinical isolates of Candida albicans			1992	USA	TWTC15	Oropharanyx
-Candida_albicans_3731	drug resistance in clinical isolates of Candida albicans			1996	USA	3731	Oropharanyx
-Candida_albicans_945	drug resistance in clinical isolates of Candida albicans			1995	USA	945	Oropharanyx
-Candida_albicans_3034	drug resistance in clinical isolates of Candida albicans			1996	USA	3034	Oropharanyx
-Candida_albicans_TWTC3	drug resistance in clinical isolates of Candida albicans			1990	USA	TWTC3	Oropharanyx
-Candida_albicans_TWTC16	drug resistance in clinical isolates of Candida albicans			1992	USA	TWTC16	Oropharanyx
-Candida_albicans_TWTC12	drug resistance in clinical isolates of Candida albicans			1991	USA	TWTC12	Oropharanyx
-Candida_albicans_TWTC4	drug resistance in clinical isolates of Candida albicans			1990	USA	TWTC4	Oropharanyx
+Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [country]	Characteristics [fungus organism]	Characteristics[specimen]
+Candida_albicans_TWTC11	drug resistance in clinical isolates of Candida albicans			1991	USA	Candida albicans TWTC11	oropharynx
+Candida_albicans_3107	drug resistance in clinical isolates of Candida albicans			1996	USA	Candida albicans 3107	oropharynx
+Candida_albicans_2307	drug resistance in clinical isolates of Candida albicans			1995	USA	Candida albicans 2307	oropharynx
+Candida_albicans_580	drug resistance in clinical isolates of Candida albicans			1995	USA	Candida albicans 580	oropharynx
+Candida_albicans_3795	drug resistance in clinical isolates of Candida albicans			1997	USA	Candida albicans 3795	oropharynx
+Candida_albicans_TWTC1	drug resistance in clinical isolates of Candida albicans			1990	USA	Candida albicans TWTC1	oropharynx
+Candida_albicans_TWTC14	drug resistance in clinical isolates of Candida albicans			1992	USA	Candida albicans TWTC14	oropharynx
+Candida_albicans_3281	drug resistance in clinical isolates of Candida albicans			1996	USA	Candida albicans 3281	oropharynx
+Candida_albicans_3733	drug resistance in clinical isolates of Candida albicans			1996	USA	Candida albicans 3733	oropharynx
+Candida_albicans_TWTC6	drug resistance in clinical isolates of Candida albicans			1991	USA	Candida albicans TWTC6	oropharynx
+Candida_albicans_3184	drug resistance in clinical isolates of Candida albicans			1996	USA	Candida albicans 3184	oropharynx
+Candida_albicans_5106	drug resistance in clinical isolates of Candida albicans			1998	USA	Candida albicans 5106	oropharynx
+Candida_albicans_2440	drug resistance in clinical isolates of Candida albicans			1996	USA	Candida albicans 2440	oropharynx
+Candida_albicans_5108	drug resistance in clinical isolates of Candida albicans			1998	USA	Candida albicans 5108	oropharynx
+Candida_albicans_412	drug resistance in clinical isolates of Candida albicans			1995	USA	Candida albicans 412	oropharynx
+Candida_albicans_4639	drug resistance in clinical isolates of Candida albicans			1997	USA	Candida albicans 4639	oropharynx
+Candida_albicans_2501	drug resistance in clinical isolates of Candida albicans			1996	USA	Candida albicans 2501	oropharynx
+Candida_albicans_3119	drug resistance in clinical isolates of Candida albicans			1996	USA	Candida albicans 3119	oropharynx
+Candida_albicans_TWTC13	drug resistance in clinical isolates of Candida albicans			1991	USA	Candida albicans TWTC13	oropharynx
+Candida_albicans_TWTC17	drug resistance in clinical isolates of Candida albicans			1992	USA	Candida albicans TWTC17	oropharynx
+Candida_albicans_TWTC7	drug resistance in clinical isolates of Candida albicans			1991	USA	Candida albicans TWTC7	oropharynx
+Candida_albicans_TWTC8	drug resistance in clinical isolates of Candida albicans			1991	USA	Candida albicans TWTC8	oropharynx
+Candida_albicans_4018	drug resistance in clinical isolates of Candida albicans			1997	USA	Candida albicans 4018	oropharynx
+Candida_albicans_TWTC9	drug resistance in clinical isolates of Candida albicans			1991	USA	Candida albicans TWTC9	oropharynx
+Candida_albicans_1002	drug resistance in clinical isolates of Candida albicans			1995	USA	Candida albicans 1002	oropharynx
+Candida_albicans_3917	drug resistance in clinical isolates of Candida albicans			1997	USA	Candida albicans 3917	oropharynx
+Candida_albicans_1619	drug resistance in clinical isolates of Candida albicans			1995	USA	Candida albicans 1619	oropharynx
+Candida_albicans_2823	drug resistance in clinical isolates of Candida albicans			1996	USA	Candida albicans 2823	oropharynx
+Candida_albicans_TWTC5	drug resistance in clinical isolates of Candida albicans			1991	USA	Candida albicans TWTC5	oropharynx
+Candida_albicans_3120	drug resistance in clinical isolates of Candida albicans			1996	USA	Candida albicans 3120	oropharynx
+Candida_albicans_TWTC2	drug resistance in clinical isolates of Candida albicans			1990	USA	Candida albicans TWTC2	oropharynx
+Candida_albicans_1649	drug resistance in clinical isolates of Candida albicans			1995	USA	Candida albicans 1649	oropharynx
+Candida_albicans_1691	drug resistance in clinical isolates of Candida albicans			1995	USA	Candida albicans 1691	oropharynx
+Candida_albicans_4617	drug resistance in clinical isolates of Candida albicans			1997	USA	Candida albicans 4617	oropharynx
+Candida_albicans_TWTC15	drug resistance in clinical isolates of Candida albicans			1992	USA	Candida albicans TWTC15	oropharynx
+Candida_albicans_3731	drug resistance in clinical isolates of Candida albicans			1996	USA	Candida albicans 3731	oropharynx
+Candida_albicans_945	drug resistance in clinical isolates of Candida albicans			1995	USA	Candida albicans 945	oropharynx
+Candida_albicans_3034	drug resistance in clinical isolates of Candida albicans			1996	USA	Candida albicans 3034	oropharynx
+Candida_albicans_TWTC3	drug resistance in clinical isolates of Candida albicans			1990	USA	Candida albicans TWTC3	oropharynx
+Candida_albicans_TWTC16	drug resistance in clinical isolates of Candida albicans			1992	USA	Candida albicans TWTC16	oropharynx
+Candida_albicans_TWTC12	drug resistance in clinical isolates of Candida albicans			1991	USA	Candida albicans TWTC12	oropharynx
+Candida_albicans_TWTC4	drug resistance in clinical isolates of Candida albicans			1990	USA	Candida albicans TWTC4	oropharynx
