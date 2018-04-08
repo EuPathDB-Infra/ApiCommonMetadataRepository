@@ -1,4 +1,4 @@
-Sample Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Characteristics[organism ID]	Characteristics[age]	Characteristics[sex]	Characteristics[health_status]	Characteristics[specimen]	Characteristics[parasite organism]	Parameter Value[collection year]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Characteristics[organism ID]	Characteristics[age]	Characteristics[sex]	Characteristics[health_status]	Characteristics[specimen]	Characteristics[parasite organism]	Parameter Value[collection year]
 58.1	Sample 58.1:  Illumina sequencing of Plasmodium falciparum 58.1			Mali	human	EUSTDY0011 Subject 1	2 years	female	Symptomatic episode	blood	Plasmodium falciparum 58.1	2010
 303.1	Sample 303.1:  Illumina sequencing of Plasmodium falciparum 303.1			Mali	human	EUSTDY0011 Subject 2	6 years	female	Symptomatic episode	blood	Plasmodium falciparum 303.1	2010
 309.1	Sample 309.1:  Illumina sequencing of Plasmodium falciparum 309.1			Mali	human	EUSTDY0011 Subject 3	2 years	male	Symptomatic episode	blood	Plasmodium falciparum 309.1	2010

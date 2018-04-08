@@ -1,2 +1,2 @@
-Sample Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[organism ID]	Characteristics[parasite organism]	Characteristics[specimen]	Parameter Value[collection year]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[organism ID]	Characteristics[parasite organism]	Characteristics[specimen]	Parameter Value[collection year]
 CDC_reference_reads	Illumina sequencing of P.reichenowi Dennis strain from Sanger			chimp	EUSTDY0013 Chimp 1	Plasmodium reichenowi CDC	specimen from organism	2010

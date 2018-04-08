@@ -1,4 +1,4 @@
-Sample Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[city]	Characteristics[organism]	Characteristics[organism ID]	Characteristics[parasite organism]	Characteristics[specimen]	Parameter Value[collection date]	Parameter Value[collection year]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[city]	Characteristics[organism]	Characteristics[organism ID]	Characteristics[parasite organism]	Characteristics[specimen]	Parameter Value[collection date]	Parameter Value[collection year]
 Columbia_30101099036	SAMN02677138:  Broad White Paper sequencing on Plasmodium_vivax_Columbia_30101099036			Columbia		human	EUSTDY0009 Subject 1	Plasmodium_vivax_Columbia_30101099036	blood	5/19/12	2012
 Columbia_30101099038	SAMN02677139:  Broad White Paper sequencing on Plasmodium_vivax_Columbia_30101099038			Columbia		human	EUSTDY0009 Subject 2	Plasmodium_vivax_Columbia_30101099038	blood	6/30/12	2012
 Columbia_30101099040	SAMN02677140:  Broad White Paper sequencing on Plasmodium_vivax_Columbia_30101099040			Columbia		human	EUSTDY0009 Subject 3	Plasmodium_vivax_Columbia_30101099040	blood	9/29/12	2012
