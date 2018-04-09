@@ -1,2 +1,2 @@
 Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[specimen]	Characteristics[parasite organism]
-7821202_ChIP-005HA-ab9110_smoothed	Sample 7821202_ChIP-005HA-ab9110			cell specimen	P. falciparum�3D7
+7821202_ChIP-005HA-ab9110_smoothed	Sample 7821202_ChIP-005HA-ab9110			cell specimen	P. falciparum 3D7

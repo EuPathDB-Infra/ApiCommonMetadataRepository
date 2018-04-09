@@ -1,14 +1,14 @@
 Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [specimen]	Characteristics [parasite organism]	Characteristics [Replicate]	Characteristics [parasite genotype]
-14070B_3D7_H3K9Ac_sir2KO_smoothed	14070B_3D7_H3K9Ac_sir2KO			cell specimen	P. falciparum�3D7	Replicate 2	sir2KO
-14070B_3D7_H3K9me3_sir2KO_smoothed	14070B_3D7_H3K9me3_sir2KO			cell specimen	P. falciparum�3D7	Replicate 2	sir2KO
-9435A_3D7_H3K4me3_wt_smoothed	9435A_3D7_H3K4me3_wt			cell specimen	P. falciparum�3D7	Replicate 2	wild type
-9435A_3D7_H3K9Ac_sir2KO_smoothed	9435A_3D7_H3K9Ac_sir2KO			cell specimen	P. falciparum�3D7	Replicate 1	sir2KO
-9435A_3D7_H3K9Ac_wt_smoothed	9435A_3D7_H3K9Ac_wt			cell specimen	P. falciparum�3D7	Replicate 2	wild type
-9435A_3D7_H3K9me3_sir2KO_smoothed	9435A_3D7_H3K9me3_sir2KO			cell specimen	P. falciparum�3D7	Replicate 1	sir2KO
-9435B_3D7_H3K4me3_wt_smoothed	9435B_3D7_H3K4me3_wt			cell specimen	P. falciparum�3D7	Replicate 1	wild type
-9435B_3D7_H3K9Ac_wt_smoothed	9435B_3D7_H3K9Ac_wt			cell specimen	P. falciparum�3D7	Replicate 1	wild type
-9435B_3D7_H3K9me3_wt_smoothed	9435B_3D7_H3K9me3_wt			cell specimen	P. falciparum�3D7	Replicate 3	wild type
-9435B_3D7_H4K20me3_wt_smoothed	9435B_3D7_H4K20me3_wt			cell specimen	P. falciparum�3D7	Replicate 2	wild type
-9981A_3D7_H3K9me3_wt_smoothed	9981A_3D7_H3K9me3_wt			cell specimen	P. falciparum�3D7	Replicate 1	wild type
-9981A_3D7_H4K20me3_wt_smoothed	9981A_3D7_H4K20me3_wt			cell specimen	P. falciparum�3D7	Replicate 1	wild type
-9981_3D7_H3K9me3_wt_smoothed	9981_3D7_H3K9me3_wt			cell specimen	P. falciparum�3D7	Replicate 2	wild type
+14070B_3D7_H3K9Ac_sir2KO_smoothed	14070B_3D7_H3K9Ac_sir2KO			cell specimen	P. falciparum 3D7	Replicate 2	sir2KO
+14070B_3D7_H3K9me3_sir2KO_smoothed	14070B_3D7_H3K9me3_sir2KO			cell specimen	P. falciparum 3D7	Replicate 2	sir2KO
+9435A_3D7_H3K4me3_wt_smoothed	9435A_3D7_H3K4me3_wt			cell specimen	P. falciparum 3D7	Replicate 2	wild type
+9435A_3D7_H3K9Ac_sir2KO_smoothed	9435A_3D7_H3K9Ac_sir2KO			cell specimen	P. falciparum 3D7	Replicate 1	sir2KO
+9435A_3D7_H3K9Ac_wt_smoothed	9435A_3D7_H3K9Ac_wt			cell specimen	P. falciparum 3D7	Replicate 2	wild type
+9435A_3D7_H3K9me3_sir2KO_smoothed	9435A_3D7_H3K9me3_sir2KO			cell specimen	P. falciparum 3D7	Replicate 1	sir2KO
+9435B_3D7_H3K4me3_wt_smoothed	9435B_3D7_H3K4me3_wt			cell specimen	P. falciparum 3D7	Replicate 1	wild type
+9435B_3D7_H3K9Ac_wt_smoothed	9435B_3D7_H3K9Ac_wt			cell specimen	P. falciparum 3D7	Replicate 1	wild type
+9435B_3D7_H3K9me3_wt_smoothed	9435B_3D7_H3K9me3_wt			cell specimen	P. falciparum 3D7	Replicate 3	wild type
+9435B_3D7_H4K20me3_wt_smoothed	9435B_3D7_H4K20me3_wt			cell specimen	P. falciparum 3D7	Replicate 2	wild type
+9981A_3D7_H3K9me3_wt_smoothed	9981A_3D7_H3K9me3_wt			cell specimen	P. falciparum 3D7	Replicate 1	wild type
+9981A_3D7_H4K20me3_wt_smoothed	9981A_3D7_H4K20me3_wt			cell specimen	P. falciparum 3D7	Replicate 1	wild type
+9981_3D7_H3K9me3_wt_smoothed	9981_3D7_H3K9me3_wt			cell specimen	P. falciparum 3D7	Replicate 2	wild type

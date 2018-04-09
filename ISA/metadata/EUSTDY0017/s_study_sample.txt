@@ -1,5 +1,5 @@
 Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [specimen]	Characteristics [parasite organism]	Characteristics [parasite lifecycle stage]
-H3K9ac_troph_smoothed	H3K9ac_troph			cell specimen	P. falciparum�3D7	trophozoite
-H4_ring_smoothed	H4_ring			cell specimen	P. falciparum�3D7	ring
-H4_schizont_smoothed	H4_schizont			cell specimen	P. falciparum�3D7	schizont
-H4_trophozoite_smoothed	H4_trophozoite			cell specimen	P. falciparum�3D7	trophozoite
+H3K9ac_troph_smoothed	H3K9ac_troph			cell specimen	P. falciparum 3D7	trophozoite
+H4_ring_smoothed	H4_ring			cell specimen	P. falciparum 3D7	ring
+H4_schizont_smoothed	H4_schizont			cell specimen	P. falciparum 3D7	schizont
+H4_trophozoite_smoothed	H4_trophozoite			cell specimen	P. falciparum 3D7	trophozoite
