@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Parameter Value [collection year]	Characteristics[specimen]	Characteristics[parasite organism]	Characteristics[health_status]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Parameter Value [collection year]	Characteristics[specimen]	Characteristics[fungus organism]	Characteristics[health_status]
 AF10				USA	human	1986	specimen from organism	Aspergillus fumigatus AF10	nodular infiltrate in a corticosteroid-treated patient
 AF210				United Kingdom	human		specimen from organism	Aspergillus fumigatus AF210	hospital acquired infection
 AF293_resequence1					human		specimen from organism	Aspergillus fumigatus AF293
