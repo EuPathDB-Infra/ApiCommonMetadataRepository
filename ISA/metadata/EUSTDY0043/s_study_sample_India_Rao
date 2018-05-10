@@ -1,353 +1,707 @@
 Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [sample_origin]	Characteristics [irb_number]	Characteristics [subject]	Characteristics [date_of_birth]	Characteristics [age at visit]	Characteristics [sex]	Characteristics [date_sample_collected]	Characteristics [country]	Characteristics [city]	Characteristics [gps_longitude]	Characteristics [gps_latitude]	Characteristics [gps_location]	Characteristics [gps_other]	Characteristics [study_type]	Characteristics [study_other]	Characteristics [collection_type]	Characteristics [follow_up_day]	Characteristics [health_status]	Characteristics [pregnancy_status]	Characteristics [hospitalized]	Characteristics [fever]	Characteristics [fever_duration]	Characteristics [Temperature]	Characteristics [temperature_measurement_method]	Characteristics [severe_anemia]	Characteristics [cerebral]	Characteristics [respiratory_distress]	Characteristics [ards]	Characteristics [jaundice]	Characteristics [convulsions]	Characteristics [hypoglycemia]	Characteristics [renal_failure]	Characteristics [abnormal_bleeding]	Characteristics [shock]	Characteristics [coma]	Characteristics [electrolyte_disturbances]	Characteristics [rdt_result]	Characteristics [type_of_rdt]	Characteristics [microscopy_result]	Characteristics [parasite_density_by_microscope]	Characteristics [pcr_result]	Characteristics [parasite_density_by_pcr]	Characteristics [pcr_method]	Characteristics [gametocytes]	Characteristics [gametocyte_density_by_microscope]	Characteristics [gametocyte_density_by_rt_pcr]	Characteristics [gametocytes_detection_method]	Characteristics [other_method]	Characteristics [falciparum]	Characteristics [malariae]	Characteristics [ovale]	Characteristics [vivax]	Characteristics [knowlesi]	Characteristics [hemoglobin_level]	Characteristics [comments]	Characteristics [host_genetics]	Characteristics [parasite_genetics]	Characteristics [immune_responses]	Characteristics [other_molecular]	Characteristics [data_consent]	Characteristics [future_use_consent]	Characteristics [Organism]
+
 India_C0916__				India		C0916		23 years	male	1/21/13	India	Chennai					health facility		original		symptomatic			No		36.72	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	12.5				Yes		yes, signed consent	yes, signed consent	
+
 India_C0917__				India		C0917		29 years	female	1/22/13	India	Chennai					health facility		original		symptomatic			No		36.61	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	12.7				Yes		yes, signed consent	yes, signed consent	
+
 India_C0924__				India		C0924		59 years	male	1/22/13	India	Chennai					health facility		original		symptomatic			No		37.11	oral													Positive	Falcivax	Positive	12800	Positive			Positive	3000		microscopy		Negative	Negative	Negative	Positive	Not done	13.3				Yes		yes, signed consent	yes, signed consent	
+
 India_C0929__				India		C0929		32 years	male	1/23/13	India	Chennai					health facility		original		uninfected with malaria			No		38.67	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15.9				Yes		yes, signed consent	yes, signed consent	
+
 India_C0974__				India		C0974		20 years	male	4/1/13	India	Chennai					health facility		original		uninfected with malaria			No		36.67	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15.1				Yes		yes, signed consent	yes, signed consent	
+
 India_C0982__				India		C0982		19 years	male	4/8/13	India	Chennai					health facility		original		uninfected with malaria			Yes		39.39	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	10.6				Yes		yes, signed consent	yes, signed consent	
+
 India_C0984__				India		C0984		23 years	male	4/8/13	India	Chennai					health facility		original		uninfected with malaria			No		38.06	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	17.1				Yes		yes, signed consent	yes, signed consent	
+
 India_C0989__				India		C0989		55 years	male	4/15/13	India	Chennai					health facility		original		uninfected with malaria			No		37.06	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	14.1				Yes		yes, signed consent	yes, signed consent	
+
 India_C0998__				India		C0998		26 years	male	4/22/13	India	Chennai					health facility		original		symptomatic			Yes		37.67	oral													Positive	Falcivax	Positive	200	Positive			Positive	320		microscopy		Positive	Negative	Negative	Negative	Not done	12.9				Yes		yes, signed consent	yes, signed consent	
+
 India_C1002__				India		C1002		30 years	male	4/22/13	India	Chennai					health facility		original		uninfected with malaria			Yes		39.33	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15.2				Yes		yes, signed consent	yes, signed consent	
+
 India_C1004__				India		C1004		23 years	male	4/29/13	India	Chennai					health facility		original		uninfected with malaria			No		36.44	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	17				Yes		yes, signed consent	yes, signed consent	
+
 India_C1005__				India		C1005		26 years	male	4/29/13	India	Chennai					health facility		original		uninfected with malaria			No		37.06	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	17.2				Yes		yes, signed consent	yes, signed consent	
+
 India_C1011__				India		C1011		59 years	male	4/29/13	India	Chennai					health facility		original		uninfected with malaria			No		36.72	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.1				Yes		yes, signed consent	yes, signed consent	
+
 India_C1036__				India		C1036		55 years	male	5/20/13	India	Chennai					health facility		original		symptomatic			No		37.06	oral													Negative	Falcivax	Positive	4000	Positive			Positive	2800		microscopy		Negative	Negative	Negative	Positive	Not done	9.4				Yes		yes, signed consent	yes, signed consent	
-India_C1041__				India		C1041		55 years	female	5/20/13	India	Chennai					health facility		original		uninfected with malaria			No		37.00	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.2				Yes		yes, signed consent	yes, signed consent	
+
+India_C1041__				India		C1041		55 years	female	5/20/13	India	Chennai					health facility		original		uninfected with malaria			No		37	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.2				Yes		yes, signed consent	yes, signed consent	
+
 India_C1046__				India		C1046		23 years	male	5/20/13	India	Chennai					health facility		original		symptomatic			Yes		38.39	oral													Positive	Falcivax	Positive	2400	Positive			Positive	15400		microscopy		Negative	Negative	Negative	Positive	Not done	14.6				Yes		yes, signed consent	yes, signed consent	
+
 India_C1050__				India		C1050		58 years	male	5/27/13	India	Chennai					health facility		original		symptomatic			Yes		37.56	oral													Positive	Falcivax	Positive	24000	Positive			Positive	11200		microscopy		Negative	Negative	Negative	Positive	Not done	15.7				Yes		yes, signed consent	yes, signed consent	
-India_C1051__				India		C1051		16 years	female	5/27/13	India	Chennai					health facility		original		uninfected with malaria			Yes		37.50	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.5				Yes		yes, signed consent	yes, signed consent	
+
+India_C1051__				India		C1051		16 years	female	5/27/13	India	Chennai					health facility		original		uninfected with malaria			Yes		37.5	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.5				Yes		yes, signed consent	yes, signed consent	
+
 India_C1055__				India		C1055		29 years	female	5/27/13	India	Chennai					health facility		original		uninfected with malaria			Yes		39.39	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.2				Yes		yes, signed consent	yes, signed consent	
+
 India_C1058__				India		C1058		55 years	female	6/3/13	India	Chennai					health facility		original		symptomatic			Yes		40.17	oral													Positive	Falcivax	Positive	4000	Positive			Positive	12000		microscopy		Negative	Negative	Negative	Positive	Not done	15.2				Yes		yes, signed consent	yes, signed consent	
+
 India_C1060__				India		C1060		32 years	male	6/3/13	India	Chennai					health facility		original		symptomatic			Yes		38.06	oral													Positive	Falcivax	Positive	6800	Positive			Positive	12000		microscopy		Negative	Negative	Negative	Positive	Not done	12.7				Yes		yes, signed consent	yes, signed consent	
+
 India_C1062__				India		C1062		33 years	female	6/3/13	India	Chennai					health facility		original		symptomatic			No		36.67	oral													Positive	Falcivax	Positive	400	Positive			Positive	1040		microscopy		Negative	Negative	Negative	Positive	Not done	11.7				Yes		yes, signed consent	yes, signed consent	
+
 India_C1066__				India		C1066		53 years	female	6/3/13	India	Chennai					health facility		original		symptomatic			No		35.78	oral													Positive	Falcivax	Positive	2800	Positive			Positive	9200		microscopy		Negative	Negative	Negative	Positive	Not done	11.3				Yes		yes, signed consent	yes, signed consent	
+
 India_C1069__				India		C1069		48 years	male	6/10/13	India	Chennai					health facility		original		asymptomatic			No		36.06	oral													Positive	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	10.1				Yes		yes, signed consent	yes, signed consent	
+
 India_C1072__				India		C1072		38 years	male	6/10/13	India	Chennai					health facility		original		uninfected with malaria			No		36.28	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15.8				Yes		yes, signed consent	yes, signed consent	
-India_C1077__				India		C1077		38 years	male	6/17/13	India	Chennai					health facility		original		symptomatic			No		37.00	oral													Positive	Falcivax	Positive	3600	Positive			Positive	1200		microscopy		Positive	Negative	Negative	Positive	Not done	9.3				Yes		yes, signed consent	yes, signed consent	
+
+India_C1077__				India		C1077		38 years	male	6/17/13	India	Chennai					health facility		original		symptomatic			No		37	oral													Positive	Falcivax	Positive	3600	Positive			Positive	1200		microscopy		Positive	Negative	Negative	Positive	Not done	9.3				Yes		yes, signed consent	yes, signed consent	
+
 India_C1079__				India		C1079		22 years	male	6/17/13	India	Chennai					health facility		original		uninfected with malaria			Yes		38.78	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15.7				Yes		yes, signed consent	yes, signed consent	
+
 India_C1081__				India		C1081		48 years	female	6/24/13	India	Chennai					health facility		original		symptomatic			No		36.72	oral													Positive	Falcivax	Positive	200	Positive			Positive	320		microscopy		Negative	Negative	Negative	Positive	Not done	9.3				Yes		yes, signed consent	yes, signed consent	
+
 India_C1085__				India		C1085		22 years	male	6/24/13	India	Chennai					health facility		original		symptomatic			No		36.78	oral													Positive	Falcivax	Positive	500	Positive			Positive	4000		microscopy		Negative	Negative	Negative	Positive	Not done	16.2				Yes		yes, signed consent	yes, signed consent	
+
 India_C1088__				India		C1088		20 years	male	7/1/13	India	Chennai					health facility		original		symptomatic			No		36.44	oral													Positive	Falcivax	Positive	80	Positive			Positive	320		microscopy		Negative	Negative	Negative	Positive	Not done	11.8				Yes		yes, signed consent	yes, signed consent	
+
 India_C1089__				India		C1089		19 years	male	7/1/13	India	Chennai					health facility		original		symptomatic			No		36.44	oral															Positive	1000	Positive			Positive	1300		microscopy		Negative	Negative	Negative	Positive	Not done	11.2				Yes		yes, signed consent	yes, signed consent	
+
 India_C1093__				India		C1093		20 years	male	7/8/13	India	Chennai					health facility		original		symptomatic			No		36.39	oral													Positive	Falcivax	Positive	3400	Positive			Positive	1200		microscopy		Negative	Negative	Negative	Positive	Not done	15.6				Yes		yes, signed consent	yes, signed consent	
+
 India_C1095__				India		C1095		35 years	male	7/8/13	India	Chennai					health facility		original		symptomatic			Yes		39.78	oral													Positive	Falcivax	Positive	3200	Positive			Positive	1100		microscopy		Negative	Negative	Negative	Positive	Not done	14.6				Yes		yes, signed consent	yes, signed consent	
+
 India_C1097__				India		C1097		35 years	male	7/8/13	India	Chennai					health facility		original		uninfected with malaria			No		36.61	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	19.4				Yes		yes, signed consent	yes, signed consent	
+
 India_C1098__				India		C1098		55 years	male	7/8/13	India	Chennai					health facility		original		symptomatic			No		37.22	oral													Positive	Falcivax	Positive	300	Positive			Positive	600		microscopy		Negative	Negative	Negative	Positive	Not done	14.5				Yes		yes, signed consent	yes, signed consent	
+
 India_C1103__				India		C1103		42 years	female	7/15/13	India	Chennai					health facility		original		symptomatic			No		37.17	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	13.5				Yes		yes, signed consent	yes, signed consent	
+
 India_C1104__				India		C1104		25 years	female	7/15/13	India	Chennai					health facility		original		symptomatic			Yes		37.72	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	12.9				Yes		yes, signed consent	yes, signed consent	
+
 India_C1107__				India		C1107		29 years	male	7/15/13	India	Chennai					health facility		original		symptomatic			No		36.83	oral													Positive	Falcivax	Positive	1800	Positive			Positive	300		microscopy		Negative	Negative	Negative	Positive	Not done	14.1				Yes		yes, signed consent	yes, signed consent	
+
 India_C1109__				India		C1109		22 years	female	7/15/13	India	Chennai					health facility		original		symptomatic			No		35.78	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	11.8				Yes		yes, signed consent	yes, signed consent	
+
 India_C1190__				India		C1190		41 years	female	10/15/13	India	Chennai					health facility		original		uninfected with malaria			No		36.22	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.7				Yes		yes, signed consent	yes, signed consent	
+
 India_C1211__				India		C1211		25 years	female	11/4/13	India	Chennai					health facility		original		uninfected with malaria			No		36.72	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15.3				Yes		yes, signed consent	yes, signed consent	
+
 India_C1278__				India		C1278		37 years	male	1/27/14	India	Chennai					health facility		original		symptomatic			No		36.72	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	14.4				Yes		yes, signed consent	yes, signed consent	
-India_C1290__				India		C1290		23 years	male	2/3/14	India	Chennai					health facility		original		symptomatic			No		37.00	oral													Positive	Falcivax	Positive	3440	Positive			Positive	1240		microscopy		Negative	Negative	Negative	Positive	Not done	14.2				Yes		yes, signed consent	yes, signed consent	
+
+India_C1290__				India		C1290		23 years	male	2/3/14	India	Chennai					health facility		original		symptomatic			No		37	oral													Positive	Falcivax	Positive	3440	Positive			Positive	1240		microscopy		Negative	Negative	Negative	Positive	Not done	14.2				Yes		yes, signed consent	yes, signed consent	
+
 India_C1293__				India		C1293		30 years	male	2/3/14	India	Chennai					health facility		original		symptomatic			Yes		37.94	oral													Positive	Falcivax	Positive	14240	Positive			Positive	1000		microscopy		Negative	Negative	Negative	Positive	Not done	10.1				Yes		yes, signed consent	yes, signed consent	
+
 India_C1295__				India		C1295		48 years	male	2/10/14	India	Chennai					health facility		original		symptomatic			No		36.94	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	11.9				Yes		yes, signed consent	yes, signed consent	
+
 India_C1305__				India		C1305		15 years	female	2/24/14	India	Chennai					health facility		original		symptomatic			No		36.33	oral													Positive	Falcivax	Positive	400	Positive			Positive	520		microscopy		Negative	Negative	Negative	Positive	Not done	12				Yes		yes, signed consent	yes, signed consent	
-India_C1313__				India		C1313		35 years	female	3/3/14	India	Chennai					health facility		original		uninfected with malaria			No		37.00	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.8				Yes		yes, signed consent	yes, signed consent	
+
+India_C1313__				India		C1313		35 years	female	3/3/14	India	Chennai					health facility		original		uninfected with malaria			No		37	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.8				Yes		yes, signed consent	yes, signed consent	
+
 India_C1319__				India		C1319		45 years	female	3/10/14	India	Chennai					health facility		original		symptomatic			No		37.44	oral													Positive	Falcivax	Positive	480	Positive			Positive	240		microscopy		Negative	Negative	Negative	Positive	Not done	6.7				Yes		yes, signed consent	yes, signed consent	
+
 India_C1321__				India		C1321		57 years	female	3/10/14	India	Chennai					health facility		original		symptomatic			No		36.61	oral													Positive	Falcivax	Positive	400	Positive			Positive	240		microscopy		Negative	Negative	Negative	Positive	Not done	12.4				Yes		yes, signed consent	yes, signed consent	
+
 India_C1322__				India		C1322		24 years	male	3/10/14	India	Chennai					health facility		original		symptomatic			No		37.17	oral													Positive	Falcivax	Positive	120	Positive			Positive	360		microscopy		Negative	Negative	Negative	Positive	Not done	11.2				Yes		yes, signed consent	yes, signed consent	
+
 India_C1344__				India		C1344		25 years	male	4/9/14	India	Chennai					health facility		original		symptomatic			No		36.61	oral													Negative	Falcivax	Positive	4320	Positive			Positive	1680		microscopy		Negative	Negative	Negative	Positive	Not done	15.8				Yes		yes, signed consent	yes, signed consent	
+
 India_C1350__				India		C1350		34 years	female	4/15/14	India	Chennai					health facility		original		symptomatic			No		36.61	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	12.6				Yes		yes, signed consent	yes, signed consent	
+
 India_C1362__				India		C1362		53 years	male	4/23/14	India	Chennai					health facility		original		symptomatic			Yes		38.39	oral													Positive	Falcivax	Positive	2640	Positive			Positive	1080		microscopy		Negative	Negative	Negative	Positive	Not done	17.2				Yes		yes, signed consent	yes, signed consent	
+
 India_C1367__				India		C1367		18 years	male	4/23/14	India	Chennai					health facility		original		symptomatic			No		37.39	oral													Positive	Falcivax	Positive	320	Positive			Positive	680		microscopy		Positive	Negative	Negative	Negative	Not done	9.2				Yes		yes, signed consent	yes, signed consent	
+
 India_C1373__				India		C1373		31 years	male	4/28/14	India	Chennai					health facility		original		symptomatic			No		36.67	oral													Positive	Falcivax	Positive	240	Positive			Positive	640		microscopy		Negative	Negative	Negative	Positive	Not done	13.9				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0024__				India		CCX0024		30 years	male	12/26/12	India	Chennai					cross-sectional  survey		original		asymptomatic			No		37.22	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	14.2				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0183__				India		CCX0183		60 years	female	2/1/13	India	Chennai					cross-sectional  survey		original		uninfected with malaria			No		37.22	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0230__				India		CCX0230		32 years	female	4/3/13	India	Chennai					cross-sectional  survey		original		uninfected with malaria			No		36.56	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.3				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0240__				India		CCX0240		30 years	male	4/9/13	India	Chennai					cross-sectional  survey		original		uninfected with malaria			No		36.28	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	14.5				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0368__				India		CCX0368		26 years	male	5/13/13	India	Chennai					cross-sectional  survey		original		uninfected with malaria			No		36.44	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	14.3				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0452__				India		CCX0452		60 years	female	7/2/13	India	Chennai					cross-sectional  survey		original		symptomatic			No		37.61	oral													Negative	Falcivax	Positive	80	Positive			Positive	40		microscopy		Negative	Negative	Negative	Positive	Not done	9.2				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0469__				India		CCX0469		50 years	male	7/9/13	India	Chennai					cross-sectional  survey		original		uninfected with malaria			No		36.33	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	14.3				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0482__				India		CCX0482		36 years	male	7/11/13	India	Chennai					cross-sectional  survey		original		uninfected with malaria			No		36.39	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15.4				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0496__				India		CCX0496		30 years	male	7/17/13	India	Chennai					cross-sectional  survey		original		asymptomatic			No		36.44	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	15.1				Yes		yes, signed consent	yes, signed consent	
-India_CCX0509__				India		CCX0509		36 years	male	7/23/13	India	Chennai					cross-sectional  survey		original		asymptomatic			No		37.00	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	18.5				Yes		yes, signed consent	yes, signed consent	
+
+India_CCX0509__				India		CCX0509		36 years	male	7/23/13	India	Chennai					cross-sectional  survey		original		asymptomatic			No		37	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	18.5				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0526__				India		CCX0526		32 years	female	8/1/13	India	Chennai					cross-sectional  survey		original		symptomatic			No		36.44	oral													Positive	Falcivax	Positive	400	Positive			Positive	300		microscopy		Negative	Negative	Negative	Positive	Not done	10.3				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0535__				India		CCX0535		26 years	male	8/6/13	India	Chennai					cross-sectional  survey		original		symptomatic			Yes		39.39	oral													Positive	Falcivax	Positive	7000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	15.3				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0536__				India		CCX0536		50 years	male	8/6/13	India	Chennai					cross-sectional  survey		original		asymptomatic			No		36.72	oral													Positive	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	11.1				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0550__				India		CCX0550		36 years	female	8/8/13	India	Chennai					cross-sectional  survey		original		asymptomatic			No		37.06	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	9.7				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0570__				India		CCX0570		36 years	female	8/21/13	India	Chennai					cross-sectional  survey		original		uninfected with malaria			No		36.28	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.2				Yes		yes, signed consent	yes, signed consent	
+
 India_CCX0706__				India		CCX0706		30 years	male	11/13/13	India	Chennai					cross-sectional  survey		original		asymptomatic			No		36.56	oral													Positive	Falcivax	Positive		Positive			Positive	120		microscopy		Negative	Negative	Negative	Positive	Not done	15.1				Yes		yes, signed consent	yes, signed consent	
+
 India_N0301__				India		N0301		45 years	male	8/12/13	India	Nadiad					health facility		original		uninfected with malaria			No		37.11	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.7				Yes		yes, signed consent	yes, signed consent	
+
 India_N0306__				India		N0306		11 years	female	8/26/13	India	Nadiad					health facility		original		symptomatic			Yes		37.94	oral													Positive	Falcivax	Positive	2160	Positive			Positive	640		microscopy		Negative	Negative	Negative	Positive	Not done	8.3				Yes		yes, signed consent	yes, signed consent	
-India_N0307__				India		N0307		25 years	male	8/26/13	India	Nadiad					health facility		original		symptomatic			No		37.00	oral													Positive	Falcivax	Positive	11040	Positive			Positive	5760		microscopy		Negative	Negative	Negative	Positive	Not done	15.2				Yes		yes, signed consent	yes, signed consent	
-India_N0308__				India		N0308		48 years	male	8/26/13	India	Nadiad					health facility		original		symptomatic			No		37.00	oral													Positive	Falcivax	Positive	6360	Positive			Positive	1280		microscopy		Negative	Negative	Negative	Positive	Not done	15.9				Yes		yes, signed consent	yes, signed consent	
+
+India_N0307__				India		N0307		25 years	male	8/26/13	India	Nadiad					health facility		original		symptomatic			No		37	oral													Positive	Falcivax	Positive	11040	Positive			Positive	5760		microscopy		Negative	Negative	Negative	Positive	Not done	15.2				Yes		yes, signed consent	yes, signed consent	
+
+India_N0308__				India		N0308		48 years	male	8/26/13	India	Nadiad					health facility		original		symptomatic			No		37	oral													Positive	Falcivax	Positive	6360	Positive			Positive	1280		microscopy		Negative	Negative	Negative	Positive	Not done	15.9				Yes		yes, signed consent	yes, signed consent	
+
 India_N0314__				India		N0314		16 years	male	9/4/13	India	Nadiad					health facility		original		symptomatic			Yes		37.94	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	12.3				Yes		yes, signed consent	yes, signed consent	
+
 India_N0319__				India		N0319		32 years	male	9/16/13	India	Nadiad					health facility		original		symptomatic			No		36.83	oral													Positive	Falcivax	Positive	480	Positive			Positive	1000		microscopy		Positive	Negative	Negative	Negative	Not done	12.2				Yes		yes, signed consent	yes, signed consent	
+
 India_N0322__				India		N0322		68 years	male	9/18/13	India	Nadiad					health facility		original		symptomatic			Yes		38.06	oral													Positive	Falcivax	Positive	1120	Positive			Positive	640		microscopy		Negative	Negative	Negative	Positive	Not done	14.7				Yes		yes, signed consent	yes, signed consent	
+
 India_N0323__				India		N0323		50 years	male	9/25/13	India	Nadiad					health facility		original		uninfected with malaria			Yes		37.61	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	14.1				Yes		yes, signed consent	yes, signed consent	
+
 India_N0326__				India		N0326		50 years	male	9/30/13	India	Nadiad					health facility		original		symptomatic			No		36.44	oral													Positive	Falcivax	Positive	4200	Positive			Positive	2800		microscopy		Negative	Negative	Negative	Positive	Not done	16.8				Yes		yes, signed consent	yes, signed consent	
-India_N0335__				India		N0335		30 years	male	10/7/13	India	Nadiad					health facility		original		symptomatic			No		37.00	oral													Positive	Falcivax	Positive	19160	Positive			Positive	160		microscopy		Positive	Negative	Negative	Negative	Not done	9.9				Yes		yes, signed consent	yes, signed consent	
+
+India_N0335__				India		N0335		30 years	male	10/7/13	India	Nadiad					health facility		original		symptomatic			No		37	oral													Positive	Falcivax	Positive	19160	Positive			Positive	160		microscopy		Positive	Negative	Negative	Negative	Not done	9.9				Yes		yes, signed consent	yes, signed consent	
+
 India_N0338__				India		N0338		7 years	female	10/9/13	India	Nadiad					health facility		original		uninfected with malaria			No		36.83	oral													Negative	Optimal	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	7.8				Yes		yes, signed consent	yes, signed consent	
+
 India_N0341__				India		N0341		20 years	male	10/14/13	India	Nadiad					health facility		original		uninfected with malaria			No		37.44	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15.7				Yes		yes, signed consent	yes, signed consent	
+
 India_N0342__				India		N0342		54 years	male	10/14/13	India	Nadiad					health facility		original		uninfected with malaria			No		36.72	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	14.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0350__				India		N0350		12 years	female	10/23/13	India	Nadiad					health facility		original		uninfected with malaria			No		36.39	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15.6				Yes		yes, signed consent	yes, signed consent	
+
 India_N0381__				India		N0381		7 years	female	11/20/13	India	Nadiad					health facility		original		symptomatic			No		36.22	oral													Positive	Falcivax	Positive	3120	Positive			Positive	1440		microscopy		Negative	Negative	Negative	Positive	Not done	8.4				Yes		yes, signed consent	yes, signed consent	
+
 India_N0383__				India		N0383		12 years	female	11/21/13	India	Nadiad					health facility		original		symptomatic			Yes		39.06	oral													Positive	Falcivax	Positive	640	Positive			Positive	160		microscopy		Negative	Negative	Negative	Positive	Not done	10.2				Yes		yes, signed consent	yes, signed consent	
+
 India_N0387__				India		N0387		14 years	female	11/25/13	India	Nadiad					health facility		original		uninfected with malaria			No		37.44	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.7				Yes		yes, signed consent	yes, signed consent	
+
 India_N0401__				India		N0401		32 years	male	12/11/13	India	Nadiad					health facility		original		uninfected with malaria			No		37.06	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.8				Yes		yes, signed consent	yes, signed consent	
+
 India_N0402__				India		N0402		23 years	male	12/13/13	India	Nadiad					health facility		original		asymptomatic			No		36.89	oral													Positive	Falcivax	Positive	2720	Positive			Positive	400		microscopy		Positive	Negative	Negative	Negative	Not done	10.1				Yes		yes, signed consent	yes, signed consent	
+
 India_N0411__				India		N0411		47 years	male	12/27/13	India	Nadiad					health facility		original		uninfected with malaria			No		37.11	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.7				Yes		yes, signed consent	yes, signed consent	
-India_N0416__				India		N0416		16 years	male	1/1/14	India	Nadiad					health facility		original		uninfected with malaria			No		37.00	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	14.5				Yes		yes, signed consent	yes, signed consent	
-India_N0417__				India		N0417		30 years	female	1/1/14	India	Nadiad					health facility		original		uninfected with malaria			No		37.00	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	10.8				Yes		yes, signed consent	yes, signed consent	
+
+India_N0416__				India		N0416		16 years	male	1/1/14	India	Nadiad					health facility		original		uninfected with malaria			No		37	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	14.5				Yes		yes, signed consent	yes, signed consent	
+
+India_N0417__				India		N0417		30 years	female	1/1/14	India	Nadiad					health facility		original		uninfected with malaria			No		37	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	10.8				Yes		yes, signed consent	yes, signed consent	
+
 India_N0424__				India		N0424		57 years	male	1/13/14	India	Nadiad					health facility		original		symptomatic			Yes		37.83	oral													Positive	Falcivax	Positive	7720	Positive			Positive	600		microscopy		Positive	Negative	Negative	Negative	Not done	10.7				Yes		yes, signed consent	yes, signed consent	
+
 India_N0439__				India		N0439		23 years	male	1/28/14	India	Nadiad					health facility		original		uninfected with malaria			No		36.39	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	14.1				Yes		yes, signed consent	yes, signed consent	
+
 India_N0458__				India		N0458		42 years	male	2/13/14	India	Nadiad					health facility		original		uninfected with malaria			No		37.17	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.8				Yes		yes, signed consent	yes, signed consent	
+
 India_N0459__				India		N0459		9 years	male	2/17/14	India	Nadiad					health facility		original		uninfected with malaria			Yes		38.56	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.3				Yes		yes, signed consent	yes, signed consent	
+
 India_N0468__				India		N0468		27 years	male	2/26/14	India	Nadiad					health facility		original		asymptomatic			No		36.17	oral													Positive	Falcivax	Positive	17400	Positive			Positive	12480		microscopy		Negative	Negative	Negative	Positive	Not done	11.9				Yes		yes, signed consent	yes, signed consent	
+
 India_N0469__				India		N0469		35 years	male	2/26/14	India	Nadiad					health facility		original		asymptomatic			No		37.06	oral													Positive	Falcivax	Positive	2360	Positive			Positive	560		microscopy		Negative	Negative	Negative	Positive	Not done	14.1				Yes		yes, signed consent	yes, signed consent	
+
+India_N0486__				India		N0486		18 years	male	3/13/14	India	Nadiad					health facility		original		symptomatic			No		37.06	oral													Positive	Falcivax	Positive		Positive								Positive	Negative	Negative	Negative	Not done	9.0				Yes		yes, signed consent	yes, signed consent	
+
 India_N0488__				India		N0488		70 years	male	3/18/14	India	Nadiad					health facility		original		uninfected with malaria			Yes		40.44	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.6				Yes		yes, signed consent	yes, signed consent	
+
 India_N0489__				India		N0489		20 years	male	3/18/14	India	Nadiad					health facility		original		asymptomatic			No		36.39	oral													Positive	Falcivax	Positive	3160	Positive			Positive	520		microscopy		Positive	Negative	Negative	Negative	Not done	10.5				Yes		yes, signed consent	yes, signed consent	
-India_N0495__				India		N0495		54 years	male	3/21/14	India	Nadiad					health facility		original		asymptomatic			No		37.50	oral													Positive	Falcivax	Positive	3560	Positive			Positive	1120		microscopy		Negative	Negative	Negative	Positive	Not done	12.2				Yes		yes, signed consent	yes, signed consent	
+
+India_N0495__				India		N0495		54 years	male	3/21/14	India	Nadiad					health facility		original		asymptomatic			No		37.5	oral													Positive	Falcivax	Positive	3560	Positive			Positive	1120		microscopy		Negative	Negative	Negative	Positive	Not done	12.2				Yes		yes, signed consent	yes, signed consent	
+
 India_N0497__				India		N0497		7 years	male	3/25/14	India	Nadiad					health facility		original		symptomatic			Yes		38.33	oral													Positive	Falcivax	Positive	18760	Positive			Positive	14200		microscopy		Negative	Negative	Negative	Positive	Not done	11.3				Yes		yes, signed consent	yes, signed consent	
+
 India_N0509__				India		N0509		45 years	male	4/9/14	India	Nadiad					health facility		original		symptomatic			No		37.67	oral													Positive	Falcivax	Positive	29280	Positive			Positive	4440		microscopy		Negative	Negative	Negative	Positive	Not done	15.2				Yes		yes, signed consent	yes, signed consent	
+
 India_N0515__				India		N0515		44 years	male	4/17/14	India	Nadiad					health facility		original		symptomatic			Yes		37.94	oral													Positive	Falcivax	Positive	3560	Positive			Positive	2480		microscopy		Negative	Negative	Negative	Positive	Not done	14.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0523__				India		N0523		28 years	male	4/25/14	India	Nadiad					health facility		original		uninfected with malaria			No		36.78	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15.6				Yes		yes, signed consent	yes, signed consent	
+
 India_N0533__				India		N0533		22 years	male	5/16/14	India	Nadiad					health facility		original		uninfected with malaria			No		36.78	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15.1				Yes		yes, signed consent	yes, signed consent	
+
 India_N0535__				India		N0535		52 years	male	5/19/14	India	Nadiad					health facility		original		symptomatic			Yes		39.89	oral													Positive	Falcivax	Positive	4120	Positive			Positive	3560		microscopy		Negative	Negative	Negative	Positive	Not done	13				Yes		yes, signed consent	yes, signed consent	
+
 India_N0536__				India		N0536		30 years	female	5/19/14	India	Nadiad					health facility		original		symptomatic			Yes		37.67	oral													Positive	Falcivax	Positive	3840	Positive			Positive	2160		microscopy		Negative	Negative	Negative	Positive	Not done	11.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0538__				India		N0538		16 years	male	5/20/14	India	Nadiad					health facility		original		asymptomatic			No		36.67	oral													Positive	Falcivax	Positive	7320	Positive			Positive	3120		microscopy		Negative	Negative	Negative	Positive	Not done	13				Yes		yes, signed consent	yes, signed consent	
+
 India_N0553__				India		N0553		40 years	male	6/10/14	India	Nadiad					health facility		original		uninfected with malaria			No		36.67	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	14				Yes		yes, signed consent	yes, signed consent	
+
 India_N0557__				India		N0557		40 years	female	6/11/14	India	Nadiad					health facility		original		symptomatic			Yes		37.67	oral													Positive	Falcivax	Positive	3320	Positive			Positive	3000		microscopy		Negative	Negative	Negative	Positive	Not done	8.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0563__				India		N0563		40 years	female	6/17/14	India	Nadiad					health facility		original		uninfected with malaria			No		36.78	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12				Yes		yes, signed consent	yes, signed consent	
+
 India_N0571__				India		N0571		61 years	female	6/23/14	India	Nadiad					health facility		original		uninfected with malaria			No		36.72	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11				Yes		yes, signed consent	yes, signed consent	
+
 India_N0580__				India		N0580		18 years	male	6/30/14	India	Nadiad					health facility		original		uninfected with malaria			No		37.17	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.4				Yes		yes, signed consent	yes, signed consent	
+
 India_N0594__				India		N0594		56 years	male	7/9/14	India	Nadiad					health facility		original		symptomatic			No		37.39	oral													Positive	Falcivax	Positive	1560	Positive			Positive	240		microscopy		Negative	Negative	Negative	Positive	Not done	12				Yes		yes, signed consent	yes, signed consent	
+
 India_N0601__				India		N0601		35 years	female	7/18/14	India	Nadiad					health facility		original		uninfected with malaria			Yes		37.67	oral													Not done	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	10				Yes		yes, signed consent	yes, signed consent	
+
 India_N0607__				India		N0607		18 years	male	7/28/14	India	Nadiad					health facility		original		symptomatic			Yes		39.06	oral													Positive	Falcivax	Positive	8080	Positive			Positive	640		microscopy		Negative	Negative	Negative	Positive	Not done	11				Yes		yes, signed consent	yes, signed consent	
-India_N0609__				India		N0609		28 years	male	8/1/14	India	Nadiad					health facility		original		symptomatic			Yes		41.50	oral													Positive	Falcivax	Positive	176	Positive			Positive	112		microscopy		Negative	Negative	Negative	Positive	Not done	10.5				Yes		yes, signed consent	yes, signed consent	
+
+India_N0609__				India		N0609		28 years	male	8/1/14	India	Nadiad					health facility		original		symptomatic			Yes		41.5	oral													Positive	Falcivax	Positive	176	Positive			Positive	112		microscopy		Negative	Negative	Negative	Positive	Not done	10.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0618__				India		N0618		6 years	female	8/11/14	India	Nadiad					health facility		original		symptomatic			No		35.83	oral													Positive	Falcivax	Positive	3960	Positive			Positive	1120		microscopy		Negative	Negative	Negative	Positive	Not done	7				Yes		yes, signed consent	yes, signed consent	
+
 India_N0625__				India		N0625		32 years	male	8/14/14	India	Nadiad					health facility		original		symptomatic			No		36.67	oral													Positive	Falcivax	Positive	2360	Positive			Positive	680		microscopy		Negative	Negative	Negative	Positive	Not done	10				Yes		yes, signed consent	yes, signed consent	
+
 India_N0637__				India		N0637		9 years	male	8/28/14	India	Nadiad					health facility		original		symptomatic			Yes		39.89	oral													Positive	Falcivax	Positive	4160	Positive			Positive	3600		microscopy		Negative	Negative	Negative	Positive	Not done	6.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0640__				India		N0640		14 years	male	9/2/14	India	Nadiad					health facility		original		uninfected with malaria			No		37.22	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	8				Yes		yes, signed consent	yes, signed consent	
-India_N0645__				India		N0645		30 years	male	9/5/14	India	Nadiad					health facility		original		uninfected with malaria			Yes		37.50	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.5				Yes		yes, signed consent	yes, signed consent	
+
+India_N0645__				India		N0645		30 years	male	9/5/14	India	Nadiad					health facility		original		uninfected with malaria			Yes		37.5	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0646__				India		N0646		30 years	female	9/8/14	India	Nadiad					health facility		original		symptomatic			Yes		40.17	oral													Positive	Falcivax	Positive	4200	Positive			Positive	3560		microscopy		Negative	Negative	Negative	Positive	Not done	10.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0653__				India		N0653		40 years	male	9/15/14	India	Nadiad					health facility		original		symptomatic			No		37.39	oral													Positive	Falcivax	Positive	1800	Positive			Positive	1320		microscopy		Negative	Negative	Negative	Positive	Not done	13				Yes		yes, signed consent	yes, signed consent	
+
 India_N0661__				India		N0661		32 years	female	9/8/14	India	Nadiad					health facility		original		symptomatic			No		37.33	oral													Positive	Falcivax	Positive	5280	Positive			Positive	3120		microscopy		Negative	Negative	Negative	Positive	Not done	11.2				Yes		yes, signed consent	yes, signed consent	
+
 India_N0662__				India		N0662		62 years	female	9/8/14	India	Nadiad					health facility		original		symptomatic			Yes		37.67	oral													Positive	Falcivax	Positive	5120	Positive			Positive	2800		microscopy		Negative	Negative	Negative	Positive	Not done	14.2				Yes		yes, signed consent	yes, signed consent	
+
 India_N0664__				India		N0664		13 years	female	9/11/14	India	Nadiad					health facility		original		symptomatic			No		36.11	oral													Positive	Falcivax	Positive	5400	Positive			Positive	480		microscopy		Positive	Negative	Negative	Negative	Not done	9.4				Yes		yes, signed consent	yes, signed consent	
+
 India_N0667__				India		N0667		32 years	male	9/12/14	India	Nadiad					health facility		original		asymptomatic			No		37.22	oral													Positive	Falcivax	Positive	1680	Positive			Positive	1080		microscopy		Negative	Negative	Negative	Positive	Not done	13.2				Yes		yes, signed consent	yes, signed consent	
+
 India_N0669__				India		N0669		14 years	male	9/15/14	India	Nadiad					health facility		original		symptomatic			No		36.83	oral													Positive	Falcivax	Positive	4320	Positive			Positive	1920		microscopy		Negative	Negative	Negative	Positive	Not done	14.4				Yes		yes, signed consent	yes, signed consent	
+
 India_N0670__				India		N0670		22 years	male	9/13/14	India	Nadiad					health facility		original		symptomatic			No		36.72	oral													Positive	Falcivax	Positive	1480	Positive			Positive	840		microscopy		Negative	Negative	Negative	Positive	Not done	12				Yes		yes, signed consent	yes, signed consent	
+
 India_N0671__				India		N0671		15 years	female	9/13/14	India	Nadiad					health facility		original		symptomatic			Yes		39.06	oral													Positive	Falcivax	Positive	1280	Positive			Positive	680		microscopy		Negative	Negative	Negative	Positive	Not done	10				Yes		yes, signed consent	yes, signed consent	
+
 India_N0674__				India		N0674		35 years	female	9/16/14	India	Nadiad					health facility		original		symptomatic			Yes		39.17	oral													Positive	Falcivax	Positive	6160	Positive			Positive	2680		microscopy		Negative	Negative	Negative	Positive	Not done	10.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0679__				India		N0679		27 years	male	9/29/14	India	Nadiad					health facility		original		symptomatic			Yes		43.78	oral													Positive	Falcivax	Positive	5280	Positive			Positive	480		microscopy		Positive	Negative	Negative	Positive	Not done	10.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0680__				India		N0680		35 years	male	10/1/14	India	Nadiad					health facility		original		symptomatic			Yes		37.72	oral													Positive	Falcivax	Positive	760	Positive			Positive	520		microscopy		Negative	Negative	Negative	Positive	Not done	15.4				Yes		yes, signed consent	yes, signed consent	
+
 India_N0681__				India		N0681		25 years	male	9/30/14	India	Nadiad					health facility		original		symptomatic			No		36.83	oral													Positive	Falcivax	Positive	35000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	12.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0683__				India		N0683		35 years	male	9/29/14	India	Nadiad					health facility		original		uninfected with malaria			No		37.39	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0684__				India		N0684		50 years	male	10/1/14	India	Nadiad					health facility		original		symptomatic			No		37.44	oral													Not done		Positive	600	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	12.3				Yes		yes, signed consent	yes, signed consent	
+
 India_N0688__				India		N0688		42 years	male	10/10/14	India	Nadiad					health facility		original		asymptomatic			No		36.83	oral													Positive	Falcivax	Positive	5680	Positive			Positive	4120		microscopy		Negative	Negative	Negative	Positive	Not done	16.8				Yes		yes, signed consent	yes, signed consent	
+
 India_N0691__				India		N0691		10 years	female	10/1/14	India	Nadiad					health facility		original		asymptomatic			No		37.06	oral													Positive	Falcivax	Positive	2120	Positive			Positive	1480		microscopy		Negative	Negative	Negative	Positive	Not done	10.5				Yes		yes, signed consent	yes, signed consent	
+
 India_N0693__				India		N0693		32 years	male	10/10/14	India	Nadiad					health facility		original		symptomatic			Yes		37.78	oral													Positive	Falcivax	Positive	16200	Positive			Positive	800		microscopy		Positive	Negative	Negative	Negative	Not done	9.9				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0044__				India		NCX0044		12 years	male	5/22/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			Yes		38.33	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	10.9				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0081__				India		NCX0081		47 years	female	6/3/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		37.11	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.3				Yes		yes, signed consent	yes, signed consent	
-India_NCX0098__				India		NCX0098		36 years	female	6/5/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		37.00	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	10.4				Yes		yes, signed consent	yes, signed consent	
+
+India_NCX0098__				India		NCX0098		36 years	female	6/5/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		37	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	10.4				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0153__				India		NCX0153		11 years	male	6/13/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		36.28	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	10.7				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0182__				India		NCX0182		15 years	male	6/17/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		36.39	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.6				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0225__				India		NCX0225		48 years	female	6/27/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		37.22	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	7.3				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0277__				India		NCX0277		34 years	male	7/17/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		35.83	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13				Yes		yes, signed consent	yes, signed consent	
-India_NCX0279__				India		NCX0279		40 years	female	7/17/13	India	Nadiad					cross-sectional  survey		original		asymptomatic			No		37.00	oral													Negative	Falcivax	Positive	80	Positive			Positive	1320		microscopy		Negative	Negative	Negative	Positive	Not done	11.5				Yes		yes, signed consent	yes, signed consent	
+
+India_NCX0279__				India		NCX0279		40 years	female	7/17/13	India	Nadiad					cross-sectional  survey		original		asymptomatic			No		37	oral													Negative	Falcivax	Positive	80	Positive			Positive	1320		microscopy		Negative	Negative	Negative	Positive	Not done	11.5				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0308__				India		NCX0308		12 years	male	8/22/13	India	Nadiad					cross-sectional  survey		original		symptomatic			No		36.94	oral													Positive	Falcivax	Positive	4200	Positive			Positive	2280		microscopy		Negative	Negative	Negative	Positive	Not done	10.7				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0309__				India		NCX0309		15 years	male	8/22/13	India	Nadiad					cross-sectional  survey		original		symptomatic			No		34.61	oral													Positive	Falcivax	Positive	1040	Positive			Positive	840		microscopy		Negative	Negative	Negative	Positive	Not done	10.6				Yes		yes, signed consent	yes, signed consent	
-India_NCX0313__				India		NCX0313		30 years	male	8/30/13	India	Nadiad					cross-sectional  survey		original		symptomatic			No		37.00	oral													Positive	Falcivax	Positive	560	Positive			Positive	400		microscopy		Negative	Negative	Negative	Positive	Not done	13.5				Yes		yes, signed consent	yes, signed consent	
+
+India_NCX0313__				India		NCX0313		30 years	male	8/30/13	India	Nadiad					cross-sectional  survey		original		symptomatic			No		37	oral													Positive	Falcivax	Positive	560	Positive			Positive	400		microscopy		Negative	Negative	Negative	Positive	Not done	13.5				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0316__				India		NCX0316		48 years	female	8/30/13	India	Nadiad					cross-sectional  survey		original		asymptomatic			No		36.83	oral													Positive	Falcivax	Positive	288	Positive			Positive	160		microscopy		Negative	Negative	Negative	Positive	Not done	9.2				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0334__				India		NCX0334		46 years	female	9/2/13	India	Nadiad					cross-sectional  survey		original		asymptomatic			No		36.72	oral													Negative	Falcivax	Positive	11000	Positive			Positive	3200		microscopy		Negative	Negative	Negative	Positive	Not done	8.9				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0338__				India		NCX0338		16 years	male	9/10/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		37.17	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.3				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0340__				India		NCX0340		36 years	female	9/12/13	India	Nadiad					cross-sectional  survey		original		symptomatic			No		36.22	oral													Positive	Falcivax	Positive	4640	Positive			Positive	2240		microscopy		Negative	Negative	Negative	Positive	Not done	13.4				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0341__				India		NCX0341		25 years	male	9/6/13	India	Nadiad					cross-sectional  survey		original		symptomatic			Yes		37.61	oral													Positive	Falcivax	Positive	5680	Positive			Positive	2440		microscopy		Negative	Negative	Negative	Positive	Not done	11.9				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0342__				India		NCX0342		17 years	male	9/17/13	India	Nadiad					cross-sectional  survey		original		asymptomatic			No		36.39	oral													Positive	Falcivax	Positive	2640	Positive			Positive	600		microscopy		Negative	Negative	Negative	Positive	Not done	12.2				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0345__				India		NCX0345		20 years	female	9/12/13	India	Nadiad					cross-sectional  survey		original		symptomatic			Yes		37.61	oral													Positive	Falcivax	Positive	3680	Positive			Positive	2280		microscopy		Negative	Negative	Negative	Positive	Not done	9.8				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0350__				India		NCX0350		14 years	female	9/20/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		36.78	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	10.6				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0359__				India		NCX0359		16 years	male	9/19/13	India	Nadiad					cross-sectional  survey		original		symptomatic			Yes		38.28	oral													Positive	Falcivax	Positive	3800	Positive			Positive	680		microscopy		Positive	Negative	Negative	Negative	Not done	8.2				Yes		yes, signed consent	yes, signed consent	
-India_NCX0368__				India		NCX0368		11 years	male	9/24/13	India	Nadiad					cross-sectional  survey		original		symptomatic			Yes		40.00	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	11.2				Yes		yes, signed consent	yes, signed consent	
+
+India_NCX0368__				India		NCX0368		11 years	male	9/24/13	India	Nadiad					cross-sectional  survey		original		symptomatic			Yes		40	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	11.2				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0370__				India		NCX0370		10 years	female	9/24/13	India	Nadiad					cross-sectional  survey		original		symptomatic			Yes		38.33	oral													Positive	Falcivax	Positive	3280	Positive			Positive	2240		microscopy		Negative	Negative	Negative	Positive	Not done	10.5				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0375__				India		NCX0375		25 years	male	9/26/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		35.94	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.6				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0386__				India		NCX0386		20 years	female	10/8/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		36.61	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.7				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0389__				India		NCX0389		30 years	male	10/1/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			Yes		38.44	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.7				Yes		yes, signed consent	yes, signed consent	
-India_NCX0405__				India		NCX0405		27 years	male	10/8/13	India	Nadiad					cross-sectional  survey		original		symptomatic			No		37.50	oral													Positive	Falcivax	Positive	7200	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	11.1				Yes		yes, signed consent	yes, signed consent	
+
+India_NCX0405__				India		NCX0405		27 years	male	10/8/13	India	Nadiad					cross-sectional  survey		original		symptomatic			No		37.5	oral													Positive	Falcivax	Positive	7200	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	11.1				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0412__				India		NCX0412		10 years	female	10/11/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			Yes		37.72	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.4				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0418__				India		NCX0418		17 years	male	10/14/13	India	Nadiad					cross-sectional  survey		original		symptomatic			Yes		37.72	oral													Not done		Positive	1040	Positive			Positive	640		microscopy		Negative	Negative	Negative	Positive	Not done	12.2				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0425__				India		NCX0425		47 years	female	10/15/13	India	Nadiad					cross-sectional  survey		original		symptomatic			Yes		39.72	oral													Positive	Falcivax	Positive	2600	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	10.9				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0438__				India		NCX0438		17 years	male	10/24/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		36.83	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	10.5				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0459__				India		NCX0459		45 years	female	11/1/13	India	Nadiad					cross-sectional  survey		original		symptomatic			No		36.72	oral													Positive	Falcivax	Positive	307120	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	9.5				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0468__				India		NCX0468		46 years	female	11/7/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		36.39	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	14.4				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0486__				India		NCX0486		18 years	male	11/21/13	India	Nadiad					cross-sectional  survey		original		symptomatic			No		36.44	oral													Positive	Falcivax	Positive	13120	Positive			Positive	1520		microscopy		Positive	Negative	Negative	Negative	Not done	7.9				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0488__				India		NCX0488		34 years	male	11/4/13	India	Nadiad					cross-sectional  survey		original		symptomatic			Yes		37.56	oral													Positive	Falcivax	Positive	3920	Positive			Positive	1840		microscopy		Positive	Negative	Negative	Positive	Not done	11.2				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0498__				India		NCX0498		40 years	female	11/25/13	India	Nadiad					cross-sectional  survey		original		symptomatic			Yes		37.67	oral													Positive	Falcivax	Positive		Positive			Positive	960		microscopy		Positive	Negative	Negative	Negative	Not done	7				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0507__				India		NCX0507		27 years	male	12/3/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		36.22	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.6				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0513__				India		NCX0513		14 years	female	12/5/13	India	Nadiad					cross-sectional  survey		original		asymptomatic			No		36.22	oral													Not done		Positive	2600	Positive			Positive	3800		microscopy		Positive	Negative	Negative	Positive	Not done	7.2				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0515__				India		NCX0515		23 years	male	12/3/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		36.28	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	10.3				Yes		yes, signed consent	yes, signed consent	
-India_NCX0522__				India		NCX0522		60 years	male	12/5/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		36.50	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.8				Yes		yes, signed consent	yes, signed consent	
+
+India_NCX0522__				India		NCX0522		60 years	male	12/5/13	India	Nadiad					cross-sectional  survey		original		uninfected with malaria			No		36.5	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.8				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0525__				India		NCX0525		60 years	male	12/5/13	India	Nadiad					cross-sectional  survey		original		symptomatic			No		35.83	oral													Positive	Falcivax	Positive	320	Positive			Positive	520		microscopy		Negative	Negative	Negative	Positive	Not done	11				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0551__				India		NCX0551		18 years	male	12/24/13	India	Nadiad					cross-sectional  survey		original		symptomatic			No		36.94	oral													Positive	Falcivax	Positive	240	Positive			Positive	120		microscopy		Positive	Negative	Negative	Negative	Not done	10.6				Yes		yes, signed consent	yes, signed consent	
+
 India_NCX0562__				India		NCX0562		23 years	male	12/24/13	India	Nadiad					cross-sectional  survey		original		symptomatic			No		35.61	oral													Positive	Falcivax	Positive	560	Positive			Positive	400		microscopy		Positive	Negative	Negative	Negative	Not done	12.4				Yes		yes, signed consent	yes, signed consent	
+
 India_R4626__				India		R4626		19 years	male	5/15/13	India	Raurkela					health facility		original		symptomatic			Yes		41.11	oral													Positive	Optimal	Positive	256000	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	12.1				Yes		yes, signed consent	yes, signed consent	
+
 India_R4755__				India		R4755		49 years	female	7/16/13	India	Raurkela					health facility		original		uninfected with malaria			No		37.06	oral													Negative	Optimal	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	9.7				Yes		yes, signed consent	yes, signed consent	
+
 India_R4788__				India		R4788		53 years	male	7/29/13	India	Raurkela					health facility		original		symptomatic			No		37.06	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	12.8				Yes		yes, signed consent	yes, signed consent	
+
 India_R4796__				India		R4796		49 years	female	8/2/13	India	Raurkela					health facility		original		asymptomatic			No		36.83	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	9.6				Yes		yes, signed consent	yes, signed consent	
+
 India_R4815__				India		R4815		19 years	male	8/8/13	India	Raurkela					health facility		original		uninfected with malaria			No		36.56	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.3				Yes		yes, signed consent	yes, signed consent	
+
 India_R4983__				India		R4983		22 years	male	11/18/13	India	Raurkela					health facility		original		symptomatic			Yes		38.28	oral													Positive	Falcivax	Positive	6640	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	10.1				Yes		yes, signed consent	yes, signed consent	
+
 India_R4993__				India		R4993		24 years	male	11/22/13	India	Raurkela					health facility		original		symptomatic			No		36.83	oral													Positive	Falcivax	Positive	7440	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	13				Yes		yes, signed consent	yes, signed consent	
+
 India_R5049__				India		R5049		24 years	male	1/10/14	India	Raurkela					health facility		original		uninfected with malaria			No		36.56	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	13.5				Yes		yes, signed consent	yes, signed consent	
+
 India_R5203__				India		R5203		7 years	male	5/7/14	India	Raurkela					health facility		original		symptomatic			No		37.28	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	11.2				Yes		yes, signed consent	yes, signed consent	
-India_R5231__				India		R5231		29 years	male	6/5/14	India	Raurkela					health facility		original		uninfected with malaria			No		37.00	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	17.1				Yes		yes, signed consent	yes, signed consent	
+
+India_R5231__				India		R5231		29 years	male	6/5/14	India	Raurkela					health facility		original		uninfected with malaria			No		37	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	17.1				Yes		yes, signed consent	yes, signed consent	
+
 India_R5235__				India		R5235		14 years	male	6/9/14	India	Raurkela					health facility		original		symptomatic			Yes		38.28	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	14.9				Yes		yes, signed consent	yes, signed consent	
+
 India_R5237__				India		R5237		64 years	female	6/9/14	India	Raurkela					health facility		original		symptomatic			Yes		37.78	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	8.2				Yes		yes, signed consent	yes, signed consent	
+
 India_R5243__				India		R5243		45 years	female	6/16/14	India	Raurkela					health facility		original		symptomatic			No		36.67	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	9.9				Yes		yes, signed consent	yes, signed consent	
+
 India_R5244__				India		R5244		25 years	female	6/16/14	India	Raurkela					health facility		original		symptomatic			No		37.39	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	12.1				Yes		yes, signed consent	yes, signed consent	
+
 India_R5287__				India		R5287		23 years	female	7/8/14	India	Raurkela					health facility		original		uninfected with malaria			No		37.44	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.3				Yes		yes, signed consent	yes, signed consent	
+
 India_R5306__				India		R5306		35 years	female	7/14/14	India	Raurkela					health facility		original		symptomatic			No		36.67	oral													Positive	Falcivax	Positive	18000	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	9.7				Yes		yes, signed consent	yes, signed consent	
+
 India_R5307__				India		R5307		20 years	male	7/14/14	India	Raurkela					health facility		original		symptomatic			Yes		38.89	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	15.8				Yes		yes, signed consent	yes, signed consent	
+
 India_R5329__				India		R5329		45 years	female	7/18/14	India	Raurkela					health facility		original		uninfected with malaria			No		37.17	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.6				Yes		yes, signed consent	yes, signed consent	
+
 India_R5345__				India		R5345		64 years	female	7/22/14	India	Raurkela					health facility		original		uninfected with malaria			No		36.17	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	10.4				Yes		yes, signed consent	yes, signed consent	
+
 India_R5408__				India		R5408		26 years	male	8/7/14	India	Raurkela					health facility		original		symptomatic			No		36.17	oral													Positive	Falcivax	Positive	79600	Positive			Negative			microscopy		Positive	Negative	Negative	Positive	Not done	17.1				Yes		yes, signed consent	yes, signed consent	
+
 India_R5465__				India		R5465		13 years	male	8/26/14	India	Raurkela					health facility		original		uninfected with malaria			No		37.39	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.9				Yes		yes, signed consent	yes, signed consent	
+
 India_R5505__				India		R5505		35 years	male	9/8/14	India	Raurkela					health facility		original		symptomatic			No		35.78	oral													Not done		Positive	2800	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	14.7				Yes		yes, signed consent	yes, signed consent	
+
 India_R5539__				India		R5539		20 years	male	9/18/14	India	Raurkela					health facility		original		symptomatic			Yes		40.39	oral													Positive	Falcivax	Positive	17200	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	11.8				Yes		yes, signed consent	yes, signed consent	
+
 India_R5571__				India		R5571		11 years	male	9/29/14	India	Raurkela					health facility		original		uninfected with malaria			No		37.89	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.4				Yes		yes, signed consent	yes, signed consent	
+
 India_R5572__				India		R5572		11 years	male	9/30/14	India	Raurkela					health facility		original		symptomatic			Yes		38.78	oral													Positive	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	13.6				Yes		yes, signed consent	yes, signed consent	
+
 India_R5573__				India		R5573		54 years	male	9/30/14	India	Raurkela					health facility		original		asymptomatic			No		37.33	oral													Not done		Positive	960	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	12.2				Yes		yes, signed consent	yes, signed consent	
+
 India_R5574__				India		R5574		35 years	female	9/30/14	India	Raurkela					health facility		original		uninfected with malaria			No		37.44	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.4				Yes		yes, signed consent	yes, signed consent	
+
 India_R5602__				India		R5602		64 years	male	10/13/14	India	Raurkela					health facility		original		symptomatic			No		36.61	oral													Not done		Positive	1840	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	10.6				Yes		yes, signed consent	yes, signed consent	
+
 India_R5613__				India		R5613		8 years	male	10/20/14	India	Raurkela					health facility		original		uninfected with malaria			No		38.72	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.2				Yes		yes, signed consent	yes, signed consent	
+
 India_R5616__				India		R5616		13 years	male	10/20/14	India	Raurkela					health facility		original		symptomatic			Yes		38.72	oral													Not done		Positive	1200	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	9.9				Yes		yes, signed consent	yes, signed consent	
+
 India_R5636__				India		R5636		47 years	female	10/29/14	India	Raurkela					health facility		original		symptomatic			No		37.22	oral													Not done		Positive	2160	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	12.7				Yes		yes, signed consent	yes, signed consent	
+
 India_R5643__				India		R5643		8 years	male	10/30/14	India	Raurkela					health facility		original		symptomatic			No		37.44	oral													Not done		Positive	32000	Positive			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.1				Yes		yes, signed consent	yes, signed consent	
+
 India_R5646__				India		R5646		37 years	male	10/31/14	India	Raurkela					health facility		original		symptomatic			Yes		39.06	oral													Not done		Positive	1840	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	15.5				Yes		yes, signed consent	yes, signed consent	
+
 India_R5656__				India		R5656		22 years	male	11/7/14	India	Raurkela					health facility		original		symptomatic			Yes		38.39	oral													Not done		Positive	104000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	12.3				Yes		yes, signed consent	yes, signed consent	
-India_R5660__				India		R5660		37 years	male	11/7/14	India	Raurkela					health facility		original		uninfected with malaria			No		38.00	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15				Yes		yes, signed consent	yes, signed consent	
+
+India_R5660__				India		R5660		37 years	male	11/7/14	India	Raurkela					health facility		original		uninfected with malaria			No		38	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	15				Yes		yes, signed consent	yes, signed consent	
+
 India_R5666__				India		R5666		34 years	male	11/11/14	India	Raurkela					health facility		original		symptomatic			Yes		38.94	oral													Not done		Positive	752000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	16.3				Yes		yes, signed consent	yes, signed consent	
+
 India_R5691__				India		R5691		34 years	male	11/24/14	India	Raurkela					health facility		original		uninfected with malaria			No		36.56	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	11.4				Yes		yes, signed consent	yes, signed consent	
+
 India_R5697__				India		R5697		26 years	female	11/28/14	India	Raurkela					health facility		original		uninfected with malaria			No		36.44	oral													Not done		Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	12.8				Yes		yes, signed consent	yes, signed consent	
-India_R5714__				India		R5714		26 years	female	12/5/14	India	Raurkela					health facility		original		symptomatic			No		37.00	oral													Positive	Falcivax	Positive	3200	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	12.2				Yes		yes, signed consent	yes, signed consent	
+
+India_R5714__				India		R5714		26 years	female	12/5/14	India	Raurkela					health facility		original		symptomatic			No		37	oral													Positive	Falcivax	Positive	3200	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	12.2				Yes		yes, signed consent	yes, signed consent	
+
 India_R5926__				India		R5926		23 years	female	4/8/15	India	Raurkela					health facility		original		symptomatic			No		36.67	oral													Not done		Positive	1800	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	11				Yes		yes, signed consent	yes, signed consent	
+
 India_R5927__				India		R5927		24 years	female	4/9/15	India	Raurkela					health facility		original		symptomatic			Yes		38.83	oral													Not done		Positive	16080	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	11.5				Yes		yes, signed consent	yes, signed consent	
+
 India_R5935__				India		R5935		23 years	female	4/13/15	India	Raurkela					health facility		original		symptomatic			Yes		39.72	oral													Positive	Falcivax	Positive	81600	Positive			Negative			microscopy		Negative	Negative	Negative	Negative	Not done					Yes		yes, signed consent	yes, signed consent	
-India_R5944__				India		R5944		23 years	male	4/17/15	India	Raurkela					health facility		original		symptomatic			Yes		38.00	oral													Positive	Falcivax	Positive	6960	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	13.6				Yes		yes, signed consent	yes, signed consent	
+
+India_R5944__				India		R5944		23 years	male	4/17/15	India	Raurkela					health facility		original		symptomatic			Yes		38	oral													Positive	Falcivax	Positive	6960	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	13.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0157__				India		RCX0157		8 years	female	2/8/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.67	oral													Negative	Optimal	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0176__				India		RCX0176		7 years	male	2/8/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.78	oral													Positive	Optimal	Positive	2400	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	98.2				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0235__				India		RCX0235		61 years	female	2/13/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37.44	oral													Negative	Optimal	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	99.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0289__				India		RCX0289		8 years	female	3/5/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.39	oral													Negative	Optimal	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	99.3				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0290__				India		RCX0290		3 years	female	3/5/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.44	oral													Positive	Optimal	Positive	6800	Positive			Negative			microscopy		Positive	Negative	Negative	Positive	Not done	97.6				Yes		yes, signed consent	yes, signed consent	
-India_RCX0291__				India		RCX0291		7 years	male	3/5/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37.00	oral													Negative	Optimal	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
-India_RCX0452__				India		RCX0452		11 years	male	3/20/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37.40	oral													Negative	Optimal	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	37.4				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX0291__				India		RCX0291		7 years	male	3/5/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37	oral													Negative	Optimal	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX0452__				India		RCX0452		11 years	male	3/20/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37.4	oral													Negative	Optimal	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	37.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0455__				India		RCX0455		63 years	male	4/3/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.72	oral													Negative	Optimal	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.1				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0509__				India		RCX0509		13 years	female	4/3/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.22	oral													Negative	Optimal	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	99				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0521__				India		RCX0521		2 years	male	7/1/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		37.78	oral													Positive	Optimal	Positive	80000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	100				Yes		yes, signed consent	yes, signed consent	
-India_RCX0522__				India		RCX0522		40 years	female	7/1/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		38.00	oral													Negative	Optimal	Positive	36000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	100.4				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX0522__				India		RCX0522		40 years	female	7/1/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		38	oral													Negative	Optimal	Positive	36000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	100.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0523__				India		RCX0523		18 years	male	7/1/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		39.72	oral													Negative	Optimal	Positive	20000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	103.5				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0540__				India		RCX0540		7 years	female	7/4/13	India	Raurkela					cross-sectional  survey		original		symptomatic			No		36.56	oral													Positive	Optimal	Positive	10000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.8				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0548__				India		RCX0548		14 years	female	7/4/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.89	oral													Negative	Optimal	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	98.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0555__				India		RCX0555		28 years	male	7/5/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.67	oral													Negative	Optimal	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0559__				India		RCX0559		63 years	male	7/5/13	India	Raurkela					cross-sectional  survey		original		symptomatic			No		36.67	oral													Negative	Optimal	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	98				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0560__				India		RCX0560		34 years	female	7/5/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		38.11	oral													Negative	Optimal	Positive	28000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	100.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0563__				India		RCX0563		14 years	male	7/5/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.22	oral													Negative	Optimal	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	99				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0566__				India		RCX0566		18 years	female	7/9/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.78	oral													Negative	Optimal	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.2				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0567__				India		RCX0567		13 years	male	7/11/13	India	Raurkela					cross-sectional  survey		original		symptomatic			No		37.22	oral													Negative	Optimal	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	99				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0570__				India		RCX0570		11 years	male	7/11/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		38.06	oral													Negative	Optimal	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	100.5				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0571__				India		RCX0571		18 years	female	7/11/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.33	oral													Negative	Optimal	Positive	16400	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0572__				India		RCX0572		28 years	male	7/11/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.72	oral													Negative	Optimal	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	98.1				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0573__				India		RCX0573		7 years	male	7/11/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		37.94	oral													Negative	Optimal	Positive	48000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	100.3				Yes		yes, signed consent	yes, signed consent	
-India_RCX0577__				India		RCX0577		15 years	male	7/11/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		38.50	oral													Negative	Optimal	Positive	24800	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	101.3				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX0577__				India		RCX0577		15 years	male	7/11/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		38.5	oral													Negative	Optimal	Positive	24800	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	101.3				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0581__				India		RCX0581		15 years	male	7/11/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37.33	oral													Negative	Optimal	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	99.2				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0591__				India		RCX0591		35 years	female	7/13/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		38.17	oral													Positive	Optimal	Positive	16400	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	100.7				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0592__				India		RCX0592		61 years	female	7/15/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		39.39	oral													Negative	Optimal	Positive	12000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	102.9				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0636__				India		RCX0636		22 years	female	7/25/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37.06	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.7				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0663__				India		RCX0663		5 years	male	8/1/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		39.17	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	102.5				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0673__				India		RCX0673		18 years	male	8/13/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.83	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.3				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0699__				India		RCX0699		45 years	female	8/14/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.56	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	97.8				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0711__				India		RCX0711		27 years	female	8/29/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.78	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.2				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0725__				India		RCX0725		5 years	male	9/3/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.78	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	98.2				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0729__				India		RCX0729		37 years	female	9/3/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.17	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	98.9				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0732__				India		RCX0732		27 years	female	9/3/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.06	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	98.7				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0736__				India		RCX0736		45 years	female	9/3/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.44	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	97.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0737__				India		RCX0737		22 years	female	9/4/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.67	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	98				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0778__				India		RCX0778		5 years	female	9/18/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37.11	oral													Positive	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.8				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0811__				India		RCX0811		23 years	male	9/30/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.83	oral													Not done		Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	98.3				Yes		yes, signed consent	yes, signed consent	
-India_RCX0876__				India		RCX0876		23 years	male	10/8/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37.00	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
-India_RCX0909__				India		RCX0909		3 years	male	10/31/13	India	Raurkela					cross-sectional  survey		original		symptomatic			No		37.00	oral													Positive	Falcivax	Positive	23160	Positive			Positive	200		microscopy		Positive	Negative	Negative	Negative	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX0876__				India		RCX0876		23 years	male	10/8/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX0909__				India		RCX0909		3 years	male	10/31/13	India	Raurkela					cross-sectional  survey		original		symptomatic			No		37	oral													Positive	Falcivax	Positive	23160	Positive			Positive	200		microscopy		Positive	Negative	Negative	Negative	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0910__				India		RCX0910		4 years	female	10/31/13	India	Raurkela					cross-sectional  survey		original		symptomatic			No		37.44	oral													Positive	Falcivax	Positive	9120	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	99.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX0912__				India		RCX0912		4 years	female	10/31/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.33	oral													Negative	Falcivax	Positive	640	Positive			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	97.4				Yes		yes, signed consent	yes, signed consent	
-India_RCX1056__				India		RCX1056		31 years	female	12/4/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.00	oral													Positive	Falcivax	Positive	640	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
-India_RCX1133__				India		RCX1133		15 years	female	12/10/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37.00	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1056__				India		RCX1056		31 years	female	12/4/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37	oral													Positive	Falcivax	Positive	640	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1133__				India		RCX1133		15 years	female	12/10/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1140__				India		RCX1140		11 years	male	12/10/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		38.06	oral													Positive	Falcivax	Positive	528	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	100.5				Yes		yes, signed consent	yes, signed consent	
-India_RCX1148__				India		RCX1148		7 years	female	12/12/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37.00	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1148__				India		RCX1148		7 years	female	12/12/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		37	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1198__				India		RCX1198		3 years	female	12/16/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.17	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	97.1				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1223__				India		RCX1223		52 years	female	12/20/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		37.94	oral													Positive	Falcivax	Positive	5160	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	100.3				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1243__				India		RCX1243		20 years	male	12/21/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.94	oral													Positive	Falcivax	Positive	6720	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	98.5				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1244__				India		RCX1244		6 years	male	12/21/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.11	oral													Positive	Falcivax	Positive	320	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	98.8				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1245__				India		RCX1245		53 years	male	12/21/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.11	oral													Positive	Falcivax	Positive	1320	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	98.8				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1253__				India		RCX1253		35 years	male	12/21/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.89	oral													Negative	Falcivax	Positive	400	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	98.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1261__				India		RCX1261		3 years	female	12/21/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.56	oral													Positive	Falcivax	Positive	18000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.8				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1262__				India		RCX1262		29 years	male	12/21/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.56	oral													Negative	Falcivax	Positive	880	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	97.8				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1274__				India		RCX1274		3 years	male	12/21/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.06	oral													Positive	Falcivax	Positive	1440	Positive			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.7				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1292__				India		RCX1292		7 years	female	12/26/13	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		37.89	oral													Positive	Falcivax	Positive	7200	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	100.2				Yes		yes, signed consent	yes, signed consent	
-India_RCX1293__				India		RCX1293		8 years	male	12/26/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.00	oral													Negative	Falcivax	Positive		Positive			Negative			microscopy		Positive	Negative	Negative	Positive	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
-India_RCX1299__				India		RCX1299		13 years	male	12/26/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.50	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	97.7				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1293__				India		RCX1293		8 years	male	12/26/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37	oral													Negative	Falcivax	Positive		Positive			Negative			microscopy		Positive	Negative	Negative	Positive	Not done	98.6				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1299__				India		RCX1299		13 years	male	12/26/13	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.5	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	97.7				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1304__				India		RCX1304		15 years	female	12/27/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.44	oral													Positive	Falcivax	Positive	4800	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	99.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1323__				India		RCX1323		13 years	male	12/27/13	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.89	oral													Positive	Falcivax	Positive	2080	Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	98.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1330__				India		RCX1330		48 years	male	8/20/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		35.89	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	96.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1346__				India		RCX1346		40 years	male	8/20/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		35.94	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	96.7				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1359__				India		RCX1359		38 years	male	8/20/14	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		37.56	oral													Positive	Falcivax	Positive	1000	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	99.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1385__				India		RCX1385		38 years	male	8/22/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.83	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.3				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1418__				India		RCX1418		19 years	male	8/25/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.44	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	97.6				Yes		yes, signed consent	yes, signed consent	
-India_RCX1422__				India		RCX1422		69 years	male	8/27/14	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		38.00	oral													Positive	Falcivax	Positive	18	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	100.4				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1422__				India		RCX1422		69 years	male	8/27/14	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		38	oral													Positive	Falcivax	Positive	18	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	100.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1425__				India		RCX1425		5 years	male	8/27/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.44	oral													Positive	Falcivax	Positive	840	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1427__				India		RCX1427		35 years	male	8/27/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.94	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	98.5				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1429__				India		RCX1429		35 years	female	8/27/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		35.39	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	95.7				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1432__				India		RCX1432		35 years	female	8/27/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		35.72	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	96.3				Yes		yes, signed consent	yes, signed consent	
-India_RCX1437__				India		RCX1437		4 years	female	8/27/14	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		39.00	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	102.2				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1437__				India		RCX1437		4 years	female	8/27/14	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		39	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Positive	Not done	102.2				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1439__				India		RCX1439		61 years	male	8/27/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.61	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.9				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1440__				India		RCX1440		48 years	male	8/27/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		35.78	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	96.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1445__				India		RCX1445		3 years	male	8/27/14	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		39.06	oral													Positive	Falcivax	Positive	360	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	102.3				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1446__				India		RCX1446		35 years	female	8/27/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		35.06	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	95.1				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1450__				India		RCX1450		12 years	male	8/27/14	India	Raurkela					cross-sectional  survey		original		symptomatic			No		36.22	oral													Positive	Falcivax	Positive	340	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.2				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1466__				India		RCX1466		14 years	female	9/1/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		34.61	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	94.3				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1474__				India		RCX1474		35 years	male	9/1/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.83	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	98.3				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1480__				India		RCX1480		69 years	male	9/1/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.39	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	97.5				Yes		yes, signed consent	yes, signed consent	
-India_RCX1484__				India		RCX1484		46 years	male	9/3/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.50	oral													Positive	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.7				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1484__				India		RCX1484		46 years	male	9/3/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.5	oral													Positive	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.7				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1485__				India		RCX1485		15 years	male	9/3/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.11	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	98.8				Yes		yes, signed consent	yes, signed consent	
-India_RCX1486__				India		RCX1486		29 years	male	9/3/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.00	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	96.8				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1486__				India		RCX1486		29 years	male	9/3/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	96.8				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1487__				India		RCX1487		25 years	male	9/3/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		35.89	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	96.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1491__				India		RCX1491		20 years	male	9/3/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.06	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	96.9				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1496__				India		RCX1496		60 years	female	9/3/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.28	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.3				Yes		yes, signed consent	yes, signed consent	
-India_RCX1503__				India		RCX1503		51 years	female	9/3/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.50	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	97.7				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1503__				India		RCX1503		51 years	female	9/3/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.5	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	97.7				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1508__				India		RCX1508		52 years	male	9/3/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		33.94	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	93.1				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1521__				India		RCX1521		41 years	male	9/4/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.28	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	97.3				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1527__				India		RCX1527		39 years	female	9/4/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		34.89	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	94.8				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1544__				India		RCX1544		20 years	male	9/10/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		35.83	oral													Negative	Falcivax	Positive		Positive			Positive	2480		microscopy		Positive	Negative	Negative	Negative	Not done	96.5				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1548__				India		RCX1548		29 years	male	9/10/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.11	oral													Negative	Falcivax	Positive		Positive			Positive	1920		microscopy		Positive	Negative	Negative	Negative	Not done	97				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1555__				India		RCX1555		31 years	female	9/10/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.44	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	97.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1584__				India		RCX1584		2 years	male	9/11/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		35.61	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	96.1				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1598__				India		RCX1598		11 years	female	9/11/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		35.56	oral													Negative	Falcivax	Positive	560	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	96				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1601__				India		RCX1601		26 years	male	9/11/14	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		37.56	oral													Positive	Falcivax	Negative		Negative			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	99.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1610__				India		RCX1610		51 years	female	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		35.61	oral													Positive	Falcivax	Positive	320	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	96.1				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1611__				India		RCX1611		51 years	female	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		34.11	oral													Negative	Falcivax	Positive	2240	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	93.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1614__				India		RCX1614		8 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.11	oral													Negative	Falcivax	Positive	160	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1615__				India		RCX1615		4 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.22	oral													Positive	Falcivax	Positive	18400	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.2				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1616__				India		RCX1616		41 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		35.94	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	96.7				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1618__				India		RCX1618		4 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.78	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	98.2				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1619__				India		RCX1619		8 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		uninfected with malaria			No		36.61	oral													Negative	Falcivax	Negative		Negative			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	97.9				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1620__				India		RCX1620		14 years	female	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.94	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	98.5				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1621__				India		RCX1621		25 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.06	oral													Negative	Falcivax	Positive	720	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	96.9				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1622__				India		RCX1622		46 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.44	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1626__				India		RCX1626		30 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		35.17	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	95.3				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1627__				India		RCX1627		6 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		symptomatic			Yes		41.89	oral													Positive	Falcivax	Positive	640	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	107.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1629__				India		RCX1629		41 years	female	9/18/14	India	Raurkela					cross-sectional  survey		original		symptomatic			No		34.89	oral													Positive	Falcivax	Positive	320	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	94.8				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1631__				India		RCX1631		3 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.78	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	98.2				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1632__				India		RCX1632		4 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.44	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.6				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1633__				India		RCX1633		36 years	female	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		35.72	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	96.3				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1634__				India		RCX1634		19 years	female	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.33	oral													Negative	Falcivax	Positive	80	Positive			Positive	40		microscopy		Positive	Negative	Negative	Negative	Not done	97.4				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1635__				India		RCX1635		37 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.11	oral													Negative	Falcivax	Positive	3120	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97				Yes		yes, signed consent	yes, signed consent	
-India_RCX1636__				India		RCX1636		52 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.50	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.7				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1636__				India		RCX1636		52 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.5	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	97.7				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1637__				India		RCX1637		39 years	female	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		34.56	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	94.2				Yes		yes, signed consent	yes, signed consent	
-India_RCX1638__				India		RCX1638		36 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		34.00	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	93.2				Yes		yes, signed consent	yes, signed consent	
-India_RCX1639__				India		RCX1639		14 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.00	oral													Negative	Falcivax	Positive	80	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	96.8				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1638__				India		RCX1638		36 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		34	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	93.2				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1639__				India		RCX1639		14 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36	oral													Negative	Falcivax	Positive	80	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	96.8				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1640__				India		RCX1640		5 years	female	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		37.44	oral													Positive	Falcivax	Positive	80	Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	99.4				Yes		yes, signed consent	yes, signed consent	
-India_RCX1641__				India		RCX1641		29 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.00	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	96.8				Yes		yes, signed consent	yes, signed consent	
+
+India_RCX1641__				India		RCX1641		29 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	96.8				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1642__				India		RCX1642		4 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.83	oral													Positive	Falcivax	Positive	14720	Positive			Negative			microscopy		Positive	Negative	Negative	Positive	Not done	98.3				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1643__				India		RCX1643		2 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.61	oral													Positive	Falcivax	Positive	7600	Positive			Negative			microscopy		Positive	Negative	Negative	Positive	Not done	97.9				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1644__				India		RCX1644		56 years	female	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.06	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Negative	Negative	Negative	Negative	Not done	96.9				Yes		yes, signed consent	yes, signed consent	
+
 India_RCX1645__				India		RCX1645		16 years	male	9/18/14	India	Raurkela					cross-sectional  survey		original		asymptomatic			No		36.67	oral													Negative	Falcivax	Negative		Positive			Negative			microscopy		Positive	Negative	Negative	Negative	Not done	98				Yes		yes, signed consent	yes, signed consent	
