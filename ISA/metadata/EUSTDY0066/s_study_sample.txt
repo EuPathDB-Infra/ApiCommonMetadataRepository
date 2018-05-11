@@ -1,0 +1,33 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [disease]	Characteristics [GP60 genotype]
+icddr-b_3	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IdA15G1
+icddr-b_4	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IdA15G1
+icddr-b_8	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IaA25R3
+icddr-b_12	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IaA25R3
+icddr-b_13	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IaA18R3
+icddr-b_14	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IbA9G3b
+icddr-b_16	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IbA9G3
+icddr-b_17	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IaA18R3
+icddr-b_19	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IaA18R3
+icddr-b_20	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IaA18R3
+icddr-b_21	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IfA16G1
+icddr-b_22	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IbA9G3b
+icddr-b_23	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IbA9G3
+icddr-b_24	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IbA9G3b
+icddr-b_26	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IaA18R3
+icddr-b_27	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IbA9G3
+icddr-b_30	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IfA13G1
+icddr-b_31	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IaA18R3
+icddr-b_32	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IaA26R3
+icddr-b_33	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IaA25R3
+icddr-b_34	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IeA11G3T3
+icddr-b_35	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IeA11G3T3
+icddr-b_36	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IaA19R3
+icddr-b_37	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IaA18R3
+icddr-b_38	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IbA9G3
+icddr-b_39	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IbA9G3
+icddr-b_41	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IaA27R3
+icddr-b_42	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IaA27R3
+icddr-b_49	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IdA14
+icddr-b_50	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IaA19R3
+icddr-b_51	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		diarrheal	gp60_IbA9G3b
+icddr-b_54	Cryptosporidium hominis genetic diversity in isolates from Bangladesh		clinic visit	gp60_IaA27R3
