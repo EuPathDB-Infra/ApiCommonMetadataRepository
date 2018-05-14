@@ -1,25 +1,25 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	specimen collection year	antimicrobial agent resistance phenotype	Characteristics [specimen]
-12-7505446	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2012	Triazole resistant	Clinical
-12-7505220	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2012	Triazole resistant	Clinical
-09-7500806	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2009	Triazole susceptible	Clinical
-12-7504652	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2012	Triazole susceptible	Clinical
-12-7504462	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2012	Triazole susceptible	Clinical
-12-7505054	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2012	Triazole susceptible	Clinical
-08-12-12-13	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Nijmegen	2003	Triazole resistant	Clinical
-08-36-03-25	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Nijmegen	2005	Triazole resistant	Clinical
-08-31-08-91	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Nijmegen	2004	Triazole resistant	Clinical
-08-19-02-61	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Berghem	2008	Triazole resistant	Environmental
-08-19-02-30	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Berghem	2008	Triazole susceptible	Environmental
-10-01-02-27	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Nijmegen	2010	Triazole resistant	Clinical
-08-19-02-46	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Nijmegen	2008	Triazole resistant	Environmental
-08-19-02-10	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Nijmegen	2008	Triazole resistant	Environmental
-Afu_942-09	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2009	Triazole resistant	Clinical
-Afu_1042-09	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2009	Triazole resistant	Clinical
-Afu_343-P-11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2011	Triazole resistant	Clinical
-Afu_591-12	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2012	Triazole resistant	Clinical
-Afu_124-E11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2011	Triazole resistant	Environmental
-Afu_166-E11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Bihar	2011	Triazole resistant	Environmental
-Afu_257-E11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Bihar	2011	Triazole resistant	Environmental
-Afu_218-E11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2011	Triazole resistant	Environmental
-AF65	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK		1997	Triazole susceptible	Clinical
-AF293	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK		1993	Triazole susceptible	Clinical
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	specimen collection year	antimicrobial agent resistance phenotype	Characteristics [specimen]	Characteristics [fungus organism]
+12-7505446	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2012	Triazole resistant	Clinical	Aspergillus fumigatus
+12-7505220	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2012	Triazole resistant	Clinical	Aspergillus fumigatus
+09-7500806	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2009	Triazole susceptible	Clinical	Aspergillus fumigatus
+12-7504652	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2012	Triazole susceptible	Clinical	Aspergillus fumigatus
+12-7504462	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2012	Triazole susceptible	Clinical	Aspergillus fumigatus
+12-7505054	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2012	Triazole susceptible	Clinical	Aspergillus fumigatus
+08-12-12-13	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Nijmegen	2003	Triazole resistant	Clinical	Aspergillus fumigatus
+08-36-03-25	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Nijmegen	2005	Triazole resistant	Clinical	Aspergillus fumigatus
+08-31-08-91	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Nijmegen	2004	Triazole resistant	Clinical	Aspergillus fumigatus
+08-19-02-61	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Berghem	2008	Triazole resistant	Environmental	Aspergillus fumigatus
+08-19-02-30	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Berghem	2008	Triazole susceptible	Environmental	Aspergillus fumigatus
+10-01-02-27	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Nijmegen	2010	Triazole resistant	Clinical	Aspergillus fumigatus
+08-19-02-46	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Nijmegen	2008	Triazole resistant	Environmental	Aspergillus fumigatus
+08-19-02-10	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			Netherlands	 Nijmegen	2008	Triazole resistant	Environmental	Aspergillus fumigatus
+Afu_942-09	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2009	Triazole resistant	Clinical	Aspergillus fumigatus
+Afu_1042-09	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2009	Triazole resistant	Clinical	Aspergillus fumigatus
+Afu_343-P-11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2011	Triazole resistant	Clinical	Aspergillus fumigatus
+Afu_591-12	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2012	Triazole resistant	Clinical	Aspergillus fumigatus
+Afu_124-E11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2011	Triazole resistant	Environmental	Aspergillus fumigatus
+Afu_166-E11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Bihar	2011	Triazole resistant	Environmental	Aspergillus fumigatus
+Afu_257-E11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Bihar	2011	Triazole resistant	Environmental	Aspergillus fumigatus
+Afu_218-E11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2011	Triazole resistant	Environmental	Aspergillus fumigatus
+AF65	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK		1997	Triazole susceptible	Clinical	Aspergillus fumigatus
+AF293	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK		1993	Triazole susceptible	Clinical	Aspergillus fumigatus
