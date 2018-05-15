@@ -1,7 +1,7 @@
 <ontologymappings>
 
   <ontologySource>OBI</ontologySource>
-  <ontologySource>ICEMR</ontologySource>
+  <ontologySource>OMP</ontologySource>
   <ontologySource>EuPath</ontologySource>
   <ontologySource>GAZ</ontologySource>
   <ontologySource>ECO</ontologySource>
@@ -402,7 +402,9 @@
   <ontologyTerm source_id="EUPATH_0000524" type="characteristicQualifier" parent="Source">
     <name>vivax</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="OMP_0000274" type="characteristicQualifier" parent="Source">
+    <name>antimicrobial agent resistance phenotype</name>
+  </ontologyTerm>
 
 <!-- Characteristics of Sample -->
 
