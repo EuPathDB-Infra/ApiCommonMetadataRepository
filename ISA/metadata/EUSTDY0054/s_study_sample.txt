@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [specimen]	Characteristics [alternative sample ID]	Characteristics [fungus organism]	Characteristics [city]	specimen collection year	Characteristics [country]	Characteristics [organism]	Characteristics [specimen collector]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [specimen]	Characteristics [alternative sample ID]	Characteristics [fungus organism]	Characteristics [city]	specimen collection year	Characteristics [country]	Characteristics [organism]	specimen collector
 SJV_1				specimen from organism	TGC0593	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona
 SJV_2				specimen from organism	TGC0595	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona
 SJV_3				specimen from organism	TGC0597	C. immitis	"San Joaquin Valley, California"		USA	Human	University of Arizona

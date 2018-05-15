@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [organism]	Characteristics [health_status]	Characteristics [age]	Characteristics [Gender]	Characteristics [body_temperature]	Characteristics [parasite organism]	Characteristics [parasite_density_by_microscope]	Characteristics [lab host]	Characteristics [specimen collector]	Characteristics [specimen]
+Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [organism]	Characteristics [health_status]	Characteristics [age]	Characteristics [Gender]	Characteristics [body_temperature]	Characteristics [parasite organism]	Characteristics [parasite_density_by_microscope]	Characteristics [lab host]	specimen collector	Characteristics [specimen]
 M15				2010	Madagascar		human	malaria				Plasmodium vivax			Didier Menard et al.	blood
 M08				2010	Madagascar	Ampasimpotsy	human	malaria	3 years	Female	37.6	Plasmodium vivax	18,000			blood
 M19				2010	Madagascar	Ampasimpotsy	human	malaria	3 years	Female	37.7	Plasmodium vivax	8,000			blood
