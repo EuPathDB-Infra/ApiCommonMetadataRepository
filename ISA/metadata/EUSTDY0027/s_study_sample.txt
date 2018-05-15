@@ -1,41 +1,41 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[GAZ_00000448]	Characteristics[OBI_0100026]	Parameter Value [Specimen Collection Year]	Parameter Value [Specimen Collection Date]	Characteristics[OPL_0000232]
-g33	NGS SNPs on Giardia assemblageE g33			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9913	1993	93-06-08	Giardia Assemblage E g33
-C4	NGS SNPs on Giardia assemblageA C4			http://purl.obolibrary.org/obo/GAZ_00006882	NCBITaxon_9606			Giardia Assemblage A C4
-C6	NGS SNPs on Giardia assemblageA C6			http://purl.obolibrary.org/obo/GAZ_00006882	NCBITaxon_9606			Giardia Assemblage A C6
-g2	NGS SNPs on Giardia assemblageA g2			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1994	94-10-10	Giardia Assemblage A g2
-g3	NGS SNPs on Giardia assemblageA g3			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1994	94-8-25	Giardia Assemblage A g3
-g4	NGS SNPs on Giardia assemblageA g4			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	2000	00-01-26	Giardia Assemblage A g4
-g5	NGS SNPs on Giardia assemblageA g5				NCBITaxon_9685	1991	91-08-29	Giardia Assemblage A g5
-g6	NGS SNPs on Giardia assemblageA g6				NCBITaxon_9685	1991	91-04-01	Giardia Assemblage A g6
-g7	NGS SNPs on Giardia assemblageA g7			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1992	92-03-11	Giardia Assemblage A g7
-g8	NGS SNPs on Giardia assemblageA g8			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1992	92-04-01	Giardia Assemblage A g8
-g9	NGS SNPs on Giardia assemblageA g9			http://purl.obolibrary.org/obo/GAZ_00002560	NCBITaxon_9940	1991	91-09-02	Giardia Assemblage A g9
-g10	NGS SNPs on Giardia assemblageA g10			http://purl.obolibrary.org/obo/GAZ_00002560	NCBITaxon_9940	1991	91-08-13	Giardia Assemblage A g10
-g11	NGS SNPs on Giardia assemblageA g11			http://purl.obolibrary.org/obo/GAZ_00006882	NCBITaxon_9606	1992	92-03-11	Giardia Assemblage A g11
-g12	NGS SNPs on Giardia assemblageA g12			http://purl.obolibrary.org/obo/GAZ_00006882	NCBITaxon_9606	1994	94-08-30	Giardia Assemblage A g12
-g13	NGS SNPs on Giardia assemblageA g13			http://purl.obolibrary.org/obo/GAZ_00006882	NCBITaxon_9606	1997	97-09-19	Giardia Assemblage A g13
-g14	NGS SNPs on Giardia assemblageA g14			http://purl.obolibrary.org/obo/GAZ_00006882	NCBITaxon_9606	1999	99-03-22	Giardia Assemblage A g14
-g15	NGS SNPs on Giardia assemblageA g15			http://purl.obolibrary.org/obo/GAZ_00006882	NCBITaxon_9606	2001	01/06/2014	Giardia Assemblage A g15
-g16	NGS SNPs on Giardia assemblageA g16			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1991	91-09-17	Giardia Assemblage A g16
-g17	NGS SNPs on Giardia assemblageA g17			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1992	92-03-03	Giardia Assemblage A g17
-g20	NGS SNPs on Giardia assemblageA g20			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1992	92-02-05	Giardia Assemblage A g20
-g23	NGS SNPs on Giardia assemblageA g23			http://purl.obolibrary.org/obo/GAZ_00003902	NCBITaxon_9606	1995	95-06-05	Giardia Assemblage A g23
-g24	NGS SNPs on Giardia assemblageA g24			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1992	92-04-14	Giardia Assemblage A g24
-g26	NGS SNPs on Giardia assemblageA g26			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1992	92-08-21	Giardia Assemblage A g26
-g27	NGS SNPs on Giardia assemblageA g27			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1998	98-02-09	Giardia Assemblage A g27
-g31	NGS SNPs on Giardia assemblageA g31			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1993	93-06-22	Giardia Assemblage A g31
-g37	NGS SNPs on Giardia assemblageA g37			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_35549	1998	98-05-26	Giardia Assemblage A g37
-g40	NGS SNPs on Giardia assemblageA g40			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1998	98-02-06	Giardia Assemblage A g40
-g41	NGS SNPs on Giardia assemblageA g41			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1991	91-09-12	Giardia Assemblage A g41
-g43	NGS SNPs on Giardia assemblageA g43			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1991	91-12-13	Giardia Assemblage A g43
-g18	NGS SNPs on Giardia assemblageB g18			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1992	92-05-27	Giardia Assemblage B g18
-g19	NGS SNPs on Giardia assemblageB g19			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1991	91-11-25	Giardia Assemblage B g19
-g22	NGS SNPs on Giardia assemblageB g22			http://purl.obolibrary.org/obo/GAZ_00003922	NCBITaxon_9606	1992	92-07-01	Giardia Assemblage B g22
-g25	NGS SNPs on Giardia assemblageB g25			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1991	91-11-15	Giardia Assemblage B g25
-g28	NGS SNPs on Giardia assemblageB g28			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1993	93-02-19	Giardia Assemblage B g28
-g29	NGS SNPs on Giardia assemblageB g29			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1993	93-03-30	Giardia Assemblage B g29
-g30	NGS SNPs on Giardia assemblageB g30			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1993	93-05-29	Giardia Assemblage B g30
-g34	NGS SNPs on Giardia assemblageB g34			http://purl.obolibrary.org/obo/GAZ_00000463		1993	93-06-25	Giardia Assemblage B g34
-g35	NGS SNPs on Giardia assemblageB g35			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1995	95-11-21	Giardia Assemblage B g35
-g39	NGS SNPs on Giardia assemblageB g39			http://purl.obolibrary.org/obo/GAZ_00000463	NCBITaxon_9606	1997	97-05-26	Giardia Assemblage B g39
-g42	NGS SNPs on Giardia assemblageB g42			http://purl.obolibrary.org/obo/GAZ_00002560	NCBITaxon_9606	2001	01/08/2007	Giardia Assemblage B g42
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Parameter Value [Specimen Collection Year]	Parameter Value [Specimen Collection Date]	Characteristics[parasite organism]		Characteristics[specimen]
+g33	NGS SNPs on Giardia assemblageE g33			Australia	Bos taurus	1993	93-06-08	Giardia Assemblage E g33		specimen from organism
+C4	NGS SNPs on Giardia assemblageA C4			Afghanistan	Homo sapiens			Giardia Assemblage A C4		specimen from organism
+C6	NGS SNPs on Giardia assemblageA C6			Afghanistan	Homo sapiens			Giardia Assemblage A C6		specimen from organism
+g2	NGS SNPs on Giardia assemblageA g2			Australia	Homo sapiens	1994	94-10-10	Giardia Assemblage A g2		specimen from organism
+g3	NGS SNPs on Giardia assemblageA g3			Australia	Homo sapiens	1994	94-8-25	Giardia Assemblage A g3		specimen from organism
+g4	NGS SNPs on Giardia assemblageA g4			Australia	Homo sapiens	2000	00-01-26	Giardia Assemblage A g4		specimen from organism
+g5	NGS SNPs on Giardia assemblageA g5				Felis catus	1991	91-08-29	Giardia Assemblage A g5		specimen from organism
+g6	NGS SNPs on Giardia assemblageA g6				Felis catus	1991	91-04-01	Giardia Assemblage A g6		specimen from organism
+g7	NGS SNPs on Giardia assemblageA g7			Australia	Homo sapiens	1992	92-03-11	Giardia Assemblage A g7		specimen from organism
+g8	NGS SNPs on Giardia assemblageA g8			Australia	Homo sapiens	1992	92-04-01	Giardia Assemblage A g8		specimen from organism
+g9	NGS SNPs on Giardia assemblageA g9			Canada	Ovis aries	1991	91-09-02	Giardia Assemblage A g9		specimen from organism
+g10	NGS SNPs on Giardia assemblageA g10			Canada	Ovis aries	1991	91-08-13	Giardia Assemblage A g10		specimen from organism
+g11	NGS SNPs on Giardia assemblageA g11			Afghanistan	Homo sapiens	1992	92-03-11	Giardia Assemblage A g11		specimen from organism
+g12	NGS SNPs on Giardia assemblageA g12			Afghanistan	Homo sapiens	1994	94-08-30	Giardia Assemblage A g12		specimen from organism
+g13	NGS SNPs on Giardia assemblageA g13			Afghanistan	Homo sapiens	1997	97-09-19	Giardia Assemblage A g13		specimen from organism
+g14	NGS SNPs on Giardia assemblageA g14			Afghanistan	Homo sapiens	1999	99-03-22	Giardia Assemblage A g14		specimen from organism
+g15	NGS SNPs on Giardia assemblageA g15			Afghanistan	Homo sapiens	2014	1/6/14	Giardia Assemblage A g15		specimen from organism
+g16	NGS SNPs on Giardia assemblageA g16			Australia	Homo sapiens	1991	91-09-17	Giardia Assemblage A g16		specimen from organism
+g17	NGS SNPs on Giardia assemblageA g17			Australia	Homo sapiens	1992	92-03-03	Giardia Assemblage A g17		specimen from organism
+g20	NGS SNPs on Giardia assemblageA g20			Australia	Homo sapiens	1992	92-02-05	Giardia Assemblage A g20		specimen from organism
+g23	NGS SNPs on Giardia assemblageA g23			Malaysia	Homo sapiens	1995	95-06-05	Giardia Assemblage A g23		specimen from organism
+g24	NGS SNPs on Giardia assemblageA g24			Australia	Homo sapiens	1992	92-04-14	Giardia Assemblage A g24		specimen from organism
+g26	NGS SNPs on Giardia assemblageA g26			Australia	Homo sapiens	1992	92-08-21	Giardia Assemblage A g26		specimen from organism
+g27	NGS SNPs on Giardia assemblageA g27			Australia	Homo sapiens	1998	98-02-09	Giardia Assemblage A g27		specimen from organism
+g31	NGS SNPs on Giardia assemblageA g31			Australia	Homo sapiens	1993	93-06-22	Giardia Assemblage A g31		specimen from organism
+g37	NGS SNPs on Giardia assemblageA g37			Australia	Cacatuidae	1998	98-05-26	Giardia Assemblage A g37		specimen from organism
+g40	NGS SNPs on Giardia assemblageA g40			Australia	Homo sapiens	1998	98-02-06	Giardia Assemblage A g40		specimen from organism
+g41	NGS SNPs on Giardia assemblageA g41			Australia	Homo sapiens	1991	91-09-12	Giardia Assemblage A g41		specimen from organism
+g43	NGS SNPs on Giardia assemblageA g43			Australia	Homo sapiens	1991	91-12-13	Giardia Assemblage A g43		specimen from organism
+g18	NGS SNPs on Giardia assemblageB g18			Australia	Homo sapiens	1992	92-05-27	Giardia Assemblage B g18		specimen from organism
+g19	NGS SNPs on Giardia assemblageB g19			Australia	Homo sapiens	1991	91-11-25	Giardia Assemblage B g19		specimen from organism
+g22	NGS SNPs on Giardia assemblageB g22			Papua New Guinea	Homo sapiens	1992	92-07-01	Giardia Assemblage B g22		specimen from organism
+g25	NGS SNPs on Giardia assemblageB g25			Australia	Homo sapiens	1991	91-11-15	Giardia Assemblage B g25		specimen from organism
+g28	NGS SNPs on Giardia assemblageB g28			Australia	Homo sapiens	1993	93-02-19	Giardia Assemblage B g28		specimen from organism
+g29	NGS SNPs on Giardia assemblageB g29			Australia	Homo sapiens	1993	93-03-30	Giardia Assemblage B g29		specimen from organism
+g30	NGS SNPs on Giardia assemblageB g30			Australia	Homo sapiens	1993	93-05-29	Giardia Assemblage B g30		specimen from organism
+g34	NGS SNPs on Giardia assemblageB g34			Australia		1993	93-06-25	Giardia Assemblage B g34		specimen from organism
+g35	NGS SNPs on Giardia assemblageB g35			Australia	Homo sapiens	1995	95-11-21	Giardia Assemblage B g35		specimen from organism
+g39	NGS SNPs on Giardia assemblageB g39			Australia	Homo sapiens	1997	97-05-26	Giardia Assemblage B g39		specimen from organism
+g42	NGS SNPs on Giardia assemblageB g42			Canada	Homo sapiens	2007	1/8/07	Giardia Assemblage B g42		specimen from organism

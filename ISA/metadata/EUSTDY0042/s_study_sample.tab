@@ -1,9 +1,0 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[GAZ_00000448]	Characteristics[OBI_0100026]	Characteristics[Source Disease]	Parameter Value [Year]	Characteristics[OPL_0000232]
-HK9				http://purl.obolibrary.org/obo/GAZ_00002802	NCBITaxon_9606	IDO_0000649	1951	Entamoeba histolytica HK9
-IULA				http://purl.obolibrary.org/obo/GAZ_00002931	NCBITaxon_9606	IDO_0000649	1992	Entamoeba histolytica IULA
-MS27				http://purl.obolibrary.org/obo/GAZ_00003750	NCBITaxon_9606	IDO_0000569	2006	Entamoeba histolytica MS27
-MS84				http://purl.obolibrary.org/obo/GAZ_00003750	NCBITaxon_9606	IDO_0000569	2006	Entamoeba histolytica MS84
-PVB				http://purl.obolibrary.org/obo/GAZ_00002650	NCBITaxon_9606	IDO_0000649	2007	Entamoeba histolytica PVB
-PVF				http://purl.obolibrary.org/obo/GAZ_00002650	NCBITaxon_9606	IDO_0000649	2007	Entamoeba histolytica PVF
-Rahman				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606	IDO_0000569	1964	Entamoeba histolytica Rahman
-2592100				http://purl.obolibrary.org/obo/GAZ_00003750	NCBITaxon_9606	IDO_0000649	2005	Entamoeba histolytica Strain2592100

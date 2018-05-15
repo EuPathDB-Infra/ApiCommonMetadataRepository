@@ -1,0 +1,1456 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism ID]	Characteristics[country]	Characteristics[city]	Characteristics[organism]	Characteristics[specimen]	Characteristics[parasite organism]
+TgCatEg_55	TgCatEg_55 (DNA extract)			Subject 1	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_55
+TgCatEg_115	TgCatEg_115 (DNA extract)			Subject 2	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_115
+TgCatEg6	TgCatEg6 (DNA extract)			Subject 3	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg6
+TgCatEg11	TgCatEg11 (DNA extract)			Subject 4	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg11
+TgCatEg13	TgCatEg13 (DNA extract)			Subject 5	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg13
+TgCatEg15	TgCatEg15 (DNA extract)			Subject 6	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg15
+TgCatEg17	TgCatEg17 (DNA extract)			Subject 7	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg17
+TgCatEg19	TgCatEg19 (DNA extract)			Subject 8	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg19
+TgCatEg22	TgCatEg22 (DNA extract)			Subject 9	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg22
+TgCatEg24	TgCatEg24 (DNA extract)			Subject 10	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg24
+TgCatEg35	TgCatEg35 (DNA extract)			Subject 11	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg35
+TgCatEg36	TgCatEg36 (DNA extract)			Subject 12	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg36
+TgCatEg37	TgCatEg37 (DNA extract)			Subject 13	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg37
+TgCatEg43	TgCatEg43 (DNA extract)			Subject 14	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg43
+TgCatEg47	TgCatEg47 (DNA extract)			Subject 15	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg47
+TgCatEg48	TgCatEg48 (DNA extract)			Subject 16	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg48
+TgCatEg50	TgCatEg50 (DNA extract)			Subject 17	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg50
+TgCatEg58	TgCatEg58 (DNA extract)			Subject 18	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg58
+TgCatEg61	TgCatEg61 (DNA extract)			Subject 19	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg61
+TgCatEg62	TgCatEg62 (DNA extract)			Subject 20	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg62
+TgCatEg66	TgCatEg66 (DNA extract)			Subject 21	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg66
+TgCatEg69	TgCatEg69 (DNA extract)			Subject 22	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg69
+TgCatEg70	TgCatEg70 (DNA extract)			Subject 23	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg70
+TgCatEg71	TgCatEg71 (DNA extract)			Subject 24	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg71
+TgCatEg72	TgCatEg72 (DNA extract)			Subject 25	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg72
+TgCatEg73	TgCatEg73 (DNA extract)			Subject 26	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg73
+TgCatEg74	TgCatEg74 (DNA extract)			Subject 27	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg74
+TgCatEg80	TgCatEg80 (DNA extract)			Subject 28	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg80
+TgCatEg82	TgCatEg82 (DNA extract)			Subject 29	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg82
+TgCatEg83	TgCatEg83 (DNA extract)			Subject 30	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg83
+TgCatEg84	TgCatEg84 (DNA extract)			Subject 31	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg84
+TgCatEg86	TgCatEg86 (DNA extract)			Subject 32	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg86
+TgCatEg87	TgCatEg87 (DNA extract)			Subject 33	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg87
+TgCatEg92	TgCatEg92 (DNA extract)			Subject 34	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg92
+TgCatEg93	TgCatEg93 (DNA extract)			Subject 35	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg93
+TgCatEg95	TgCatEg95 (DNA extract)			Subject 36	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg95
+TgCatEg100	TgCatEg100 (DNA extract)			Subject 37	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg100
+TgCatEg102	TgCatEg102 (DNA extract)			Subject 38	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg102
+TgCatEg105	TgCatEg105 (DNA extract)			Subject 39	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg105
+TgCatEg108	TgCatEg108 (DNA extract)			Subject 40	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg108
+TgCatEg110	TgCatEg110 (DNA extract)			Subject 41	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg110
+TgCatEg111	TgCatEg111 (DNA extract)			Subject 42	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg111
+TgCatEg114	TgCatEg114 (DNA extract)			Subject 43	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg114
+TgCatEg_94	TgCatEg_94 (DNA extract)			Subject 44	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_94
+TgCatEg_1	TgCatEg_1 (DNA extract)			Subject 45	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_1
+TgCatEg_2	TgCatEg_2 (DNA extract)			Subject 46	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_2
+TgCatEg_3	TgCatEg_3 (DNA extract)			Subject 47	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_3
+TgCatEg_4	TgCatEg_4 (DNA extract)			Subject 48	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_4
+TgCatEg_5	TgCatEg_5 (DNA extract)			Subject 49	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_5
+TgCatEg_8	TgCatEg_8 (DNA extract)			Subject 50	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_8
+TgCatEg_9	TgCatEg_9 (DNA extract)			Subject 51	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_9
+TgCatEg_10	TgCatEg_10 (DNA extract)			Subject 52	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_10
+TgCatEg_12	TgCatEg_12 (DNA extract)			Subject 53	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_12
+TgCatEg_14	TgCatEg_14 (DNA extract)			Subject 54	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_14
+TgCatEg_16	TgCatEg_16 (DNA extract)			Subject 55	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_16
+TgCatEg_20	TgCatEg_20 (DNA extract)			Subject 56	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_20
+TgCatEg_21	TgCatEg_21 (DNA extract)			Subject 57	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_21
+TgCatEg_23	TgCatEg_23 (DNA extract)			Subject 58	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_23
+TgCatEg_25	TgCatEg_25 (DNA extract)			Subject 59	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_25
+TgCatEg_26	TgCatEg_26 (DNA extract)			Subject 60	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_26
+TgCatEg_28	TgCatEg_28 (DNA extract)			Subject 61	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_28
+TgCatEg_29	TgCatEg_29 (DNA extract)			Subject 62	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_29
+TgCatEg_30	TgCatEg_30 (DNA extract)			Subject 63	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_30
+TgCatEg_31	TgCatEg_31 (DNA extract)			Subject 64	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_31
+TgCatEg_32	TgCatEg_32 (DNA extract)			Subject 65	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_32
+TgCatEg_33	TgCatEg_33 (DNA extract)			Subject 66	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_33
+TgCatEg_38	TgCatEg_38 (DNA extract)			Subject 67	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_38
+TgCatEg_39	TgCatEg_39 (DNA extract)			Subject 68	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_39
+TgCatEg_41	TgCatEg_41 (DNA extract)			Subject 69	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_41
+TgCatEg_42	TgCatEg_42 (DNA extract)			Subject 70	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_42
+TgCatEg_44	TgCatEg_44 (DNA extract)			Subject 71	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_44
+TgCatEg_45	TgCatEg_45 (DNA extract)			Subject 72	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_45
+TgCatEg_46	TgCatEg_46 (DNA extract)			Subject 73	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_46
+TgCatEg_49	TgCatEg_49 (DNA extract)			Subject 74	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_49
+TgCatEg_51	TgCatEg_51 (DNA extract)			Subject 75	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_51
+TgCatEg_52	TgCatEg_52 (DNA extract)			Subject 76	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_52
+TgCatEg_54	TgCatEg_54 (DNA extract)			Subject 77	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_54
+TgCatEg_56	TgCatEg_56 (DNA extract)			Subject 78	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_56
+TgCatEg_59	TgCatEg_59 (DNA extract)			Subject 79	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_59
+TgCatEg_60	TgCatEg_60 (DNA extract)			Subject 80	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_60
+TgCatEg_63	TgCatEg_63 (DNA extract)			Subject 81	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_63
+TgCatEg_64	TgCatEg_64 (DNA extract)			Subject 82	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_64
+TgCatEg_68	TgCatEg_68 (DNA extract)			Subject 83	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_68
+TgCatEg_75	TgCatEg_75 (DNA extract)			Subject 84	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_75
+TgCatEg_76	TgCatEg_76 (DNA extract)			Subject 85	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_76
+TgCatEg_77	TgCatEg_77 (DNA extract)			Subject 86	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_77
+TgCatEg_78	TgCatEg_78 (DNA extract)			Subject 87	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_78
+TgCatEg_79	TgCatEg_79 (DNA extract)			Subject 88	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_79
+TgCatEg_81	TgCatEg_81 (DNA extract)			Subject 89	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_81
+TgCatEg_85	TgCatEg_85 (DNA extract)			Subject 90	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_85
+TgCatEg_90	TgCatEg_90 (DNA extract)			Subject 91	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_90
+TgCatEg_91	TgCatEg_91 (DNA extract)			Subject 92	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_91
+TgCatEg_96	TgCatEg_96 (DNA extract)			Subject 93	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_96
+TgCatEg_97	TgCatEg_97 (DNA extract)			Subject 94	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_97
+TgCatEg_98	TgCatEg_98 (DNA extract)			Subject 95	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_98
+TgCatEg_99	TgCatEg_99 (DNA extract)			Subject 96	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_99
+TgCatEg_101	TgCatEg_101 (DNA extract)			Subject 97	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_101
+TgCatEg_103	TgCatEg_103 (DNA extract)			Subject 98	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_103
+TgCatEg_104	TgCatEg_104 (DNA extract)			Subject 99	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_104
+TgCatEg_107	TgCatEg_107 (DNA extract)			Subject 100	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_107
+TgCatEg_109	TgCatEg_109 (DNA extract)			Subject 101	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_109
+TgCatEg_112	TgCatEg_112 (DNA extract)			Subject 102	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_112
+TgCatEg_113	TgCatEg_113 (DNA extract)			Subject 103	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_113
+TgCatEg_7	TgCatEg_7 (DNA extract)			Subject 104	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_7
+TgCatEg_18	TgCatEg_18 (DNA extract)			Subject 105	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_18
+TgCatEg_34	TgCatEg_34 (DNA extract)			Subject 106	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_34
+TgCatEg_65	TgCatEg_65 (DNA extract)			Subject 107	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_65
+TgCatEg_57	TgCatEg_57 (DNA extract)			Subject 108	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_57
+TgCatEg_53	TgCatEg_53 (DNA extract)			Subject 109	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_53
+TgCatEg_67	TgCatEg_67 (DNA extract)			Subject 110	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_67
+TgCatEg_88	TgCatEg_88 (DNA extract)			Subject 111	Egypt		Felis catus	blood	Toxoplasma gondii TgCatEg_88
+TgCkBF-1	TgCkBF-1 (DNA extract)			Subject 112	Burkina Faso		Gallus gallus	blood	Toxoplasma gondii TgCkBF-1
+TgCkDROC-3	TgCkDROC-3 (DNA extract)			Subject 113	Democratic Republic of the Congo		Gallus gallus	blood	Toxoplasma gondii TgCkDROC-3
+TgCkDROC-6	TgCkDROC-6 (DNA extract)			Subject 114	Democratic Republic of the Congo		Gallus gallus	blood	Toxoplasma gondii TgCkDROC-6
+TgCkDROC-8	TgCkDROC-8 (DNA extract)			Subject 115	Democratic Republic of the Congo		Gallus gallus	blood	Toxoplasma gondii TgCkDROC-8
+TgCkDROC-9	TgCkDROC-9 (DNA extract)			Subject 116	Democratic Republic of the Congo		Gallus gallus	blood	Toxoplasma gondii TgCkDROC-9
+TgCkEg12	TgCkEg12 (DNA extract)			Subject 117	Egypt		Gallus gallus	blood	Toxoplasma gondii TgCkEg12
+TgCkEg13	TgCkEg13 (DNA extract)			Subject 118	Egypt		Gallus gallus	blood	Toxoplasma gondii TgCkEg13
+TgCkEg14	TgCkEg14 (DNA extract)			Subject 119	Egypt		Gallus gallus	blood	Toxoplasma gondii TgCkEg14
+TgCkEg16	TgCkEg16 (DNA extract)			Subject 120	Egypt		Gallus gallus	blood	Toxoplasma gondii TgCkEg16
+TgCkEg17	TgCkEg17 (DNA extract)			Subject 121	Egypt		Gallus gallus	blood	Toxoplasma gondii TgCkEg17
+TgCkMal-2	TgCkMal-2 (DNA extract)			Subject 122	Mali		Gallus gallus	blood	Toxoplasma gondii TgCkMal-2
+TgCkMal-3	TgCkMal-3 (DNA extract)			Subject 123	Mali		Gallus gallus	blood	Toxoplasma gondii TgCkMal-3
+TgCkMal-4	TgCkMal-4 (DNA extract)			Subject 124	Mali		Gallus gallus	blood	Toxoplasma gondii TgCkMal-4
+TgCkEg15	TgCkEg15 (DNA extract)			Subject 125	Egypt		Gallus gallus	blood	Toxoplasma gondii TgCkEg15
+TgCkEg19	TgCkEg19 (DNA extract)			Subject 126	Egypt		Gallus gallus	blood	Toxoplasma gondii TgCkEg19
+TgCkKen-1	TgCkKen-1 (DNA extract)			Subject 127	Kenya		Gallus gallus	blood	Toxoplasma gondii TgCkKen-1
+TgCkMal-5	TgCkMal-5 (DNA extract)			Subject 128	Mali		Gallus gallus	blood	Toxoplasma gondii TgCkMal-5
+PL8	PL8 (DNA extract)			Subject 129	Gabon		Gallus gallus	blood	Toxoplasma gondii PL8
+S1PF2	S1PF2 (DNA extract)			Subject 130	Gabon		Gallus gallus	blood	Toxoplasma gondii S1PF2
+TgCkNg1	TgCkNg1 (DNA extract)			Subject 131	Nigeria		Gallus gallus	blood	Toxoplasma gondii TgCkNg1
+TgCkGh2	TgCkGh2 (DNA extract)			Subject 132	Ghana		Gallus gallus	blood	Toxoplasma gondii TgCkGh2
+TgCkGh1	TgCkGh1 (DNA extract)			Subject 133	Ghana		Gallus gallus	blood	Toxoplasma gondii TgCkGh1
+P24	P24 (DNA extract)			Subject 134	Gabon		Gallus gallus	blood	Toxoplasma gondii P24
+PF26	PF26 (DNA extract)			Subject 135	Gabon		Gallus gallus	blood	Toxoplasma gondii PF26
+PL15	PL15 (DNA extract)			Subject 136	Gabon		Gallus gallus	blood	Toxoplasma gondii PL15
+PM2	PM2 (DNA extract)			Subject 137	Gabon		Gallus gallus	blood	Toxoplasma gondii PM2
+GANGI	GANGI (DNA extract)			Subject 138	Africa		Homo sapienss	blood	Toxoplasma gondii GANGI
+WIK	WIK (DNA extract)			Subject 139	Africa		Homo sapienss	blood	Toxoplasma gondii WIK
+PSP-KOM	PSP-KOM (DNA extract)			Subject 140	Cameroon		Homo sapienss	blood	Toxoplasma gondii PSP-KOM
+TOU-ALI_WGA	TOU-ALI_WGA (DNA extract)			Subject 141	Reunion Island		Homo sapienss	blood	Toxoplasma gondii TOU-ALI_WGA
+TgCtPRC2	TgCtPRC2 (DNA extract)			Subject 142	China		Felis catus	blood	Toxoplasma gondii TgCtPRC2
+TgCtPRC4	TgCtPRC4 (DNA extract)			Subject 143	China		Felis catus	blood	Toxoplasma gondii TgCtPRC4
+TgCtPRC5	TgCtPRC5 (DNA extract)			Subject 144	China		Felis catus	blood	Toxoplasma gondii TgCtPRC5
+TgCtPRC6	TgCtPRC6 (DNA extract)			Subject 145	China		Felis catus	blood	Toxoplasma gondii TgCtPRC6
+TgCtPRC7	TgCtPRC7 (DNA extract)			Subject 146	China		Felis catus	blood	Toxoplasma gondii TgCtPRC7
+TgCtPRC8	TgCtPRC8 (DNA extract)			Subject 147	China		Felis catus	blood	Toxoplasma gondii TgCtPRC8
+TgCtPRC9	TgCtPRC9 (DNA extract)			Subject 148	China		Felis catus	blood	Toxoplasma gondii TgCtPRC9
+TgCtPRC10	TgCtPRC10 (DNA extract)			Subject 149	China		Felis catus	blood	Toxoplasma gondii TgCtPRC10
+TgCtPRC11	TgCtPRC11 (DNA extract)			Subject 150	China		Felis catus	blood	Toxoplasma gondii TgCtPRC11
+TgCtPRC12	TgCtPRC12 (DNA extract)			Subject 151	China		Felis catus	blood	Toxoplasma gondii TgCtPRC12
+TgCtPRC13	TgCtPRC13 (DNA extract)			Subject 152	China		Felis catus	blood	Toxoplasma gondii TgCtPRC13
+TgCtPRC14	TgCtPRC14 (DNA extract)			Subject 153	China		Felis catus	blood	Toxoplasma gondii TgCtPRC14
+TgCtPRC15	TgCtPRC15 (DNA extract)			Subject 154	China		Felis catus	blood	Toxoplasma gondii TgCtPRC15
+TgCtPRC16	TgCtPRC16 (DNA extract)			Subject 155	China		Felis catus	blood	Toxoplasma gondii TgCtPRC16
+TgCtPRC17	TgCtPRC17 (DNA extract)			Subject 156	China		Felis catus	blood	Toxoplasma gondii TgCtPRC17
+TgCatBj1	TgCatBj1 (DNA extract)			Subject 157	China		Felis catus	blood	Toxoplasma gondii TgCatBj1
+TgCatBj2	TgCatBj2 (DNA extract)			Subject 158	China		Felis catus	blood	Toxoplasma gondii TgCatBj2
+TgCatBj3	TgCatBj3 (DNA extract)			Subject 159	China		Felis catus	blood	Toxoplasma gondii TgCatBj3
+TgCatBj4	TgCatBj4 (DNA extract)			Subject 160	China		Felis catus	blood	Toxoplasma gondii TgCatBj4
+TgCatBj5	TgCatBj5 (DNA extract)			Subject 161	China		Felis catus	blood	Toxoplasma gondii TgCatBj5
+TgCatBj6	TgCatBj6 (DNA extract)			Subject 162	China		Felis catus	blood	Toxoplasma gondii TgCatBj6
+TgCatBj7	TgCatBj7 (DNA extract)			Subject 163	China		Felis catus	blood	Toxoplasma gondii TgCatBj7
+TgCatBj8	TgCatBj8 (DNA extract)			Subject 164	China		Felis catus	blood	Toxoplasma gondii TgCatBj8
+TgCatBj9	TgCatBj9 (DNA extract)			Subject 165	China		Felis catus	blood	Toxoplasma gondii TgCatBj9
+TgCatBj10	TgCatBj10 (DNA extract)			Subject 166	China		Felis catus	blood	Toxoplasma gondii TgCatBj10
+TgCatBj11	TgCatBj11 (DNA extract)			Subject 167	China		Felis catus	blood	Toxoplasma gondii TgCatBj11
+TgC1	TgC1 (DNA extract)			Subject 168	China		Felis catus	blood	Toxoplasma gondii TgC1
+TgC2	TgC2 (DNA extract)			Subject 169	China		Felis catus	blood	Toxoplasma gondii TgC2
+TgC3	TgC3 (DNA extract)			Subject 170	China		Felis catus	blood	Toxoplasma gondii TgC3
+TgC4	TgC4 (DNA extract)			Subject 171	China		Felis catus	blood	Toxoplasma gondii TgC4
+TgC5	TgC5 (DNA extract)			Subject 172	China		Felis catus	blood	Toxoplasma gondii TgC5
+TgC6	TgC6 (DNA extract)			Subject 173	China		Felis catus	blood	Toxoplasma gondii TgC6
+TgC7	TgC7 (DNA extract)			Subject 174	China		Felis catus	blood	Toxoplasma gondii TgC7
+TgC8	TgC8 (DNA extract)			Subject 175	China		Felis catus	blood	Toxoplasma gondii TgC8
+TgCtPRC1	TgCtPRC1 (DNA extract)			Subject 176	China		Felis catus	blood	Toxoplasma gondii TgCtPRC1
+TgCtPRC3	TgCtPRC3 (DNA extract)			Subject 177	China		Felis catus	blood	Toxoplasma gondii TgCtPRC3
+TgCkId1	TgCkId1 (DNA extract)			Subject 178	Indonesia		Gallus gallus	blood	Toxoplasma gondii TgCkId1
+TgDgSl_5	TgDgSl_5 (DNA extract)			Subject 179	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_5
+TgDgSl_6	TgDgSl_6 (DNA extract)			Subject 180	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_6
+TgDgSl_10	TgDgSl_10 (DNA extract)			Subject 181	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_10
+TgDgSl1	TgDgSl1 (DNA extract)			Subject 182	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl1
+TgDgSl2	TgDgSl2 (DNA extract)			Subject 183	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl2
+TgDgSl3	TgDgSl3 (DNA extract)			Subject 184	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl3
+TgDgSl7	TgDgSl7 (DNA extract)			Subject 185	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl7
+TgDgSl8	TgDgSl8 (DNA extract)			Subject 186	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl8
+TgDgSl9	TgDgSl9 (DNA extract)			Subject 187	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl9
+TgDgSl15	TgDgSl15 (DNA extract)			Subject 188	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl15
+TgDgSl17	TgDgSl17 (DNA extract)			Subject 189	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl17
+TgDgSl19	TgDgSl19 (DNA extract)			Subject 190	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl19
+TgDgSl20	TgDgSl20 (DNA extract)			Subject 191	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl20
+TgDgSl24	TgDgSl24 (DNA extract)			Subject 192	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl24
+TgDgVi5	TgDgVi5 (DNA extract)			Subject 193	Viet Nam		Canis lupus familiaris	blood	Toxoplasma gondii TgDgVi5
+TgDgVi6	TgDgVi6 (DNA extract)			Subject 194	Viet Nam		Canis lupus familiaris	blood	Toxoplasma gondii TgDgVi6
+TgDgVi7	TgDgVi7 (DNA extract)			Subject 195	Viet Nam		Canis lupus familiaris	blood	Toxoplasma gondii TgDgVi7
+TgDgVi8	TgDgVi8 (DNA extract)			Subject 196	Viet Nam		Canis lupus familiaris	blood	Toxoplasma gondii TgDgVi8
+TgDgSl_21	TgDgSl_21 (DNA extract)			Subject 197	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_21
+TgDgVi1	TgDgVi1 (DNA extract)			Subject 198	Viet Nam		Canis lupus familiaris	blood	Toxoplasma gondii TgDgVi1
+TgDgVi2	TgDgVi2 (DNA extract)			Subject 199	Viet Nam		Canis lupus familiaris	blood	Toxoplasma gondii TgDgVi2
+TgDgVi3	TgDgVi3 (DNA extract)			Subject 200	Viet Nam		Canis lupus familiaris	blood	Toxoplasma gondii TgDgVi3
+TgDgVi4	TgDgVi4 (DNA extract)			Subject 201	Viet Nam		Canis lupus familiaris	blood	Toxoplasma gondii TgDgVi4
+TgDgSl_4	TgDgSl_4 (DNA extract)			Subject 202	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_4
+TgDgSl_11	TgDgSl_11 (DNA extract)			Subject 203	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_11
+TgDgSl_12	TgDgSl_12 (DNA extract)			Subject 204	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_12
+TgDgSl_13	TgDgSl_13 (DNA extract)			Subject 205	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_13
+TgDgSl_14	TgDgSl_14 (DNA extract)			Subject 206	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_14
+TgDgSl_16	TgDgSl_16 (DNA extract)			Subject 207	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_16
+TgDgSl_18	TgDgSl_18 (DNA extract)			Subject 208	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_18
+TgDgSl_22	TgDgSl_22 (DNA extract)			Subject 209	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_22
+TgDgSl_23	TgDgSl_23 (DNA extract)			Subject 210	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_23
+FUK	FUK (DNA extract)			Subject 211	Japan		Homo sapienss	blood	Toxoplasma gondii FUK
+Tg132	Tg132 (DNA extract)			Subject 212	Japan		Homo sapienss	blood	Toxoplasma gondii Tg132
+TRK1	TRK1 (DNA extract)			Subject 213	Turkey		Homo sapienss	blood	Toxoplasma gondii TRK1
+ZS	ZS (DNA extract)			Subject 214	China		Homo sapienss	blood	Toxoplasma gondii ZS
+SH	SH (DNA extract)			Subject 215	China		Homo sapienss	blood	Toxoplasma gondii SH
+Tg17	Tg17 (DNA extract)			Subject 216	Japan		Sus scrofa	blood	Toxoplasma gondii Tg17
+NY5	NY5 (DNA extract)			Subject 217	China		Sus scrofa	blood	Toxoplasma gondii NY5
+NY19	NY19 (DNA extract)			Subject 218	China		Sus scrofa	blood	Toxoplasma gondii NY19
+NY11	NY11 (DNA extract)			Subject 219	China		Sus scrofa	blood	Toxoplasma gondii NY11
+NY8	NY8 (DNA extract)			Subject 220	China		Sus scrofa	blood	Toxoplasma gondii NY8
+NY13	NY13 (DNA extract)			Subject 221	China		Sus scrofa	blood	Toxoplasma gondii NY13
+GYS	GYS (DNA extract)			Subject 222	China		Sus scrofa	blood	Toxoplasma gondii GYS
+PYS	PYS (DNA extract)			Subject 223	China		Sus scrofa	blood	Toxoplasma gondii PYS
+ZC	ZC (DNA extract)			Subject 224	China		Sus scrofa	blood	Toxoplasma gondii ZC
+FS	FS (DNA extract)			Subject 225	China		Sus scrofa	blood	Toxoplasma gondii FS
+TgPxda	TgPxda (DNA extract)			Subject 226	China		Sus scrofa	blood	Toxoplasma gondii TgPxda
+TgPxdaTgPxdb1	TgPxdaTgPxdb1 (DNA extract)			Subject 227	China		Sus scrofa	blood	Toxoplasma gondii TgPxdaTgPxdb1
+CN	CN (DNA extract)			Subject 228	China		Sus scrofa	blood	Toxoplasma gondii CN
+NT	NT (DNA extract)			Subject 229	China		Sus scrofa	blood	Toxoplasma gondii NT
+TgPHs1	TgPHs1 (DNA extract)			Subject 230	China		Sus scrofa	blood	Toxoplasma gondii TgPHs1
+TgPXx	TgPXx (DNA extract)			Subject 231	China		Sus scrofa	blood	Toxoplasma gondii TgPXx
+TgPXd	TgPXd (DNA extract)			Subject 232	China		Sus scrofa	blood	Toxoplasma gondii TgPXd
+TgpNx	TgpNx (DNA extract)			Subject 233	China		Sus scrofa	blood	Toxoplasma gondii TgpNx
+TgPLh	TgPLh (DNA extract)			Subject 234	China		Sus scrofa	blood	Toxoplasma gondii TgPLh
+Tgpyh	Tgpyh (DNA extract)			Subject 235	China		Sus scrofa	blood	Toxoplasma gondii Tgpyh
+TgPNY	TgPNY (DNA extract)			Subject 236	China		Sus scrofa	blood	Toxoplasma gondii TgPNY
+TgPGZ	TgPGZ (DNA extract)			Subject 237	China		Sus scrofa	blood	Toxoplasma gondii TgPGZ
+TgSandcatQA1	TgSandcatQA1 (DNA extract)			Subject 238	Qatar		Felis margarita	blood	Toxoplasma gondii TgSandcatQA1
+TgSandcatUAE1	TgSandcatUAE1 (DNA extract)			Subject 239	United Arab Emirates		Felis margarita	blood	Toxoplasma gondii TgSandcatUAE1
+TgSandcatUAE3	TgSandcatUAE3 (DNA extract)			Subject 240	United Arab Emirates		Felis margarita	blood	Toxoplasma gondii TgSandcatUAE3
+QHO	QHO (DNA extract)			Subject 241	China		Ovis aries	blood	Toxoplasma gondii QHO
+S10	S10 (DNA extract)			Subject 242	China		Passer montanus	blood	Toxoplasma gondii S10
+TgDgAu3	TgDgAu3 (DNA extract)			Subject 243	Australia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgAu3
+Tg96	Tg96 (DNA extract)			Subject 244	Australia		Homo sapienss	blood	Toxoplasma gondii Tg96
+FR-93	FR-93 (DNA extract)			Subject 245	Australia		Homo sapienss	blood	Toxoplasma gondii FR-93
+TgCkIt3	TgCkIt3 (DNA extract)			Subject 246	Italy		Gallus gallus	blood	Toxoplasma gondii TgCkIt3
+TgCkIt1	TgCkIt1 (DNA extract)			Subject 247	Italy		Gallus gallus	blood	Toxoplasma gondii TgCkIt1
+TgCkIt2	TgCkIt2 (DNA extract)			Subject 248	Italy		Gallus gallus	blood	Toxoplasma gondii TgCkIt2
+TgCkPl1	TgCkPl1 (DNA extract)			Subject 249	Poland		Gallus gallus	blood	Toxoplasma gondii TgCkPl1
+TgCkPl2	TgCkPl2 (DNA extract)			Subject 250	Poland		Gallus gallus	blood	Toxoplasma gondii TgCkPl2
+TgFxSv13	TgFxSv13 (DNA extract)			Subject 251	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv13
+TgFxSv38	TgFxSv38 (DNA extract)			Subject 252	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv38
+TgFxSv62	TgFxSv62 (DNA extract)			Subject 253	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv62
+TgFxSv70	TgFxSv70 (DNA extract)			Subject 254	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv70
+TgFxSv93	TgFxSv93 (DNA extract)			Subject 255	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv93
+TgFxSv105	TgFxSv105 (DNA extract)			Subject 256	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv105
+TgFxSv107	TgFxSv107 (DNA extract)			Subject 257	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv107
+TgFxSv114	TgFxSv114 (DNA extract)			Subject 258	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv114
+TgFxSv169	TgFxSv169 (DNA extract)			Subject 259	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv169
+TgFxSv176	TgFxSv176 (DNA extract)			Subject 260	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv176
+TgFox	TgFox (DNA extract)			Subject 261	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFox
+TgFxSv81	TgFxSv81 (DNA extract)			Subject 262	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv81
+TgFxSv83	TgFxSv83 (DNA extract)			Subject 263	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv83
+TgFxSv121	TgFxSv121 (DNA extract)			Subject 264	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv121
+TgFxSv144	TgFxSv144 (DNA extract)			Subject 265	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv144
+TgFxSv19	TgFxSv19 (DNA extract)			Subject 266	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv19
+TgFxSv27	TgFxSv27 (DNA extract)			Subject 267	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv27
+TgFxSv42	TgFxSv42 (DNA extract)			Subject 268	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv42
+TgFxSv43	TgFxSv43 (DNA extract)			Subject 269	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv43
+TgFxSv48	TgFxSv48 (DNA extract)			Subject 270	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv48
+TgFxSv50	TgFxSv50 (DNA extract)			Subject 271	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv50
+TgFxSv61	TgFxSv61 (DNA extract)			Subject 272	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv61
+TgFxSv64	TgFxSv64 (DNA extract)			Subject 273	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv64
+TgFxSv87	TgFxSv87 (DNA extract)			Subject 274	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv87
+TgFxSv106	TgFxSv106 (DNA extract)			Subject 275	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv106
+TgFxSv120	TgFxSv120 (DNA extract)			Subject 276	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv120
+TgFxSv136	TgFxSv136 (DNA extract)			Subject 277	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv136
+TgFxSv140	TgFxSv140 (DNA extract)			Subject 278	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv140
+TgFxSv148	TgFxSv148 (DNA extract)			Subject 279	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv148
+TgFxSv175	TgFxSv175 (DNA extract)			Subject 280	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv175
+TgFxSv177	TgFxSv177 (DNA extract)			Subject 281	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv177
+TgFxSv178	TgFxSv178 (DNA extract)			Subject 282	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv178
+MUC	MUC (DNA extract)			Subject 283	Belgium		Homo sapienss	blood	Toxoplasma gondii MUC
+PSC	PSC (DNA extract)			Subject 284	Germany		Homo sapienss	blood	Toxoplasma gondii PSC
+3440	3440 (DNA extract)			Subject 285	Germany		Homo sapienss	blood	Toxoplasma gondii 3440
+GJL	GJL (DNA extract)			Subject 286	[Former] Yugoslavia		Homo sapienss	blood	Toxoplasma gondii GJL
+COR	COR (DNA extract)			Subject 287	French Republic		Homo sapienss	blood	Toxoplasma gondii COR
+LEG-NJA	LEG-NJA (DNA extract)			Subject 288	French Republic		Homo sapienss	blood	Toxoplasma gondii LEG-NJA
+LGE97-3	LGE97-3 (DNA extract)			Subject 289	French Republic		Homo sapienss	blood	Toxoplasma gondii LGE97-3
+AFI	AFI (DNA extract)			Subject 290	Germany		Homo sapienss	blood	Toxoplasma gondii AFI
+CHA	CHA (DNA extract)			Subject 291	Belgium		Homo sapienss	blood	Toxoplasma gondii CHA
+FUN	FUN (DNA extract)			Subject 292	Belgium		Homo sapienss	blood	Toxoplasma gondii FUN
+DEG	DEG (DNA extract)			Subject 293	French Republic		Homo sapienss	blood	Toxoplasma gondii DEG
+Tg51	Tg51 (DNA extract)			Subject 294	French Republic		Homo sapienss	blood	Toxoplasma gondii Tg51
+PRU	PRU (DNA extract)			Subject 295	French Republic		Homo sapienss	blood	Toxoplasma gondii PRU
+RMS-MAU	RMS-MAU (DNA extract)			Subject 296	French Republic		Homo sapienss	blood	Toxoplasma gondii RMS-MAU
+BOF	BOF (DNA extract)			Subject 297	Belgium		Homo sapienss	blood	Toxoplasma gondii BOF
+GPHT	GPHT (DNA extract)			Subject 298	French Republic		Homo sapienss	blood	Toxoplasma gondii GPHT
+FOU	FOU (DNA extract)			Subject 299	French Republic		Homo sapienss	blood	Toxoplasma gondii FOU
+ENT	ENT (DNA extract)			Subject 300	French Republic		Homo sapienss	blood	Toxoplasma gondii ENT
+MOR	MOR (DNA extract)			Subject 301	French Republic		Homo sapienss	blood	Toxoplasma gondii MOR
+BK	BK (DNA extract)			Subject 302	Kingdom of the Netherlands		Homo sapienss	blood	Toxoplasma gondii BK
+P	P (DNA extract)			Subject 303	French Republic		Homo sapienss	blood	Toxoplasma gondii P
+PiL	PiL (DNA extract)			Subject 304	French Republic		Homo sapienss	blood	Toxoplasma gondii PiL
+GiL	GiL (DNA extract)			Subject 305	French Republic		Homo sapienss	blood	Toxoplasma gondii GiL
+MAS	MAS (DNA extract)			Subject 306	French Republic		Homo sapienss	blood	Toxoplasma gondii MAS
+IPP-URB	IPP-URB (DNA extract)			Subject 307	French Republic		Homo sapienss	blood	Toxoplasma gondii IPP-URB
+LGE-2007-CUV	LGE-2007-CUV (DNA extract)			Subject 308	French Republic		Homo sapienss	blood	Toxoplasma gondii LGE-2007-CUV
+BEV	BEV (DNA extract)			Subject 309	United Kingdom		Oryctolagus cuniculus	blood	Toxoplasma gondii BEV
+B70	B70 (DNA extract)			Subject 310	United States of America		Ursus sp.	blood	Toxoplasma gondii B70
+TgBbPa3	TgBbPa3 (DNA extract)			Subject 311	United States of America		Ursus americanus	blood	Toxoplasma gondii TgBbPa3
+TgBbPa5	TgBbPa5 (DNA extract)			Subject 312	United States of America		Ursus americanus	blood	Toxoplasma gondii TgBbPa5
+B74	B74 (DNA extract)			Subject 313	United States of America		Ursus sp.	blood	Toxoplasma gondii B74
+TgBbPa1	TgBbPa1 (DNA extract)			Subject 314	United States of America		Ursus americanus	blood	Toxoplasma gondii TgBbPa1
+TgBbPa4	TgBbPa4 (DNA extract)			Subject 315	United States of America		Ursus americanus	blood	Toxoplasma gondii TgBbPa4
+B41	B41 (DNA extract)			Subject 316	United States of America		Ursus sp.	blood	Toxoplasma gondii B41
+TgBbPa2	TgBbPa2 (DNA extract)			Subject 317	United States of America		Ursus americanus	blood	Toxoplasma gondii TgBbPa2
+TgBbAk1	TgBbAk1 (DNA extract)			Subject 318	United States of America		Ursus arctos	blood	Toxoplasma gondii TgBbAk1
+TgBBeCa1	TgBBeCa1 (DNA extract)			Subject 319	Canada		Ursus americanus	blood	Toxoplasma gondii TgBBeCa1
+B73	B73 (DNA extract)			Subject 320	United States of America		Ursus sp.	blood	Toxoplasma gondii B73
+TgBbUS1	TgBbUS1 (DNA extract)			Subject 321	United States of America		Ursus americanus	blood	Toxoplasma gondii TgBbUS1
+TgCatGa1	TgCatGa1 (DNA extract)			Subject 322	United States of America		Lynx rufus	blood	Toxoplasma gondii TgCatGa1
+TgCatGa2	TgCatGa2 (DNA extract)			Subject 323	United States of America		Lynx rufus	blood	Toxoplasma gondii TgCatGa2
+TgCatGa3	TgCatGa3 (DNA extract)			Subject 324	United States of America		Lynx rufus	blood	Toxoplasma gondii TgCatGa3
+TgCatGa4	TgCatGa4 (DNA extract)			Subject 325	United States of America		Lynx rufus	blood	Toxoplasma gondii TgCatGa4
+C980	C980 (DNA extract)			Subject 326	United States of America		Felis catus	blood	Toxoplasma gondii C980
+TgCatUs1	TgCatUs1 (DNA extract)			Subject 327	United States of America		Felis catus	blood	Toxoplasma gondii TgCatUs1
+CTG	CTG (DNA extract)			Subject 328	United States of America		Felis catus	blood	Toxoplasma gondii CTG
+F958	F958 (DNA extract)			Subject 329	United States of America		Felis catus	blood	Toxoplasma gondii F958
+TgCatUs8	TgCatUs8 (DNA extract)			Subject 330	United States of America		Felis catus	blood	Toxoplasma gondii TgCatUs8
+TgCatUs2	TgCatUs2 (DNA extract)			Subject 331	United States of America		Felis catus	blood	Toxoplasma gondii TgCatUs2
+TgCatUs3	TgCatUs3 (DNA extract)			Subject 332	United States of America		Felis catus	blood	Toxoplasma gondii TgCatUs3
+TgCatUs4	TgCatUs4 (DNA extract)			Subject 333	United States of America		Felis catus	blood	Toxoplasma gondii TgCatUs4
+TgCatUs5	TgCatUs5 (DNA extract)			Subject 334	United States of America		Felis catus	blood	Toxoplasma gondii TgCatUs5
+TgCatUs6	TgCatUs6 (DNA extract)			Subject 335	United States of America		Felis catus	blood	Toxoplasma gondii TgCatUs6
+TgCatCa2	TgCatCa2 (DNA extract)			Subject 336	Canada		Felis catus	blood	Toxoplasma gondii TgCatCa2
+TgCatMs1	TgCatMs1 (DNA extract)			Subject 337	United States of America		Felis catus	blood	Toxoplasma gondii TgCatMs1
+TgCatUs7	TgCatUs7 (DNA extract)			Subject 338	United States of America		Felis catus	blood	Toxoplasma gondii TgCatUs7
+TgCatCa1	TgCatCa1 (DNA extract)			Subject 339	Canada		Felis catus	blood	Toxoplasma gondii TgCatCa1
+TgCkUsIL1	TgCkUsIL1 (DNA extract)			Subject 340	United States of America		Gallus gallus	blood	Toxoplasma gondii TgCkUsIL1
+TgCkUsIL2	TgCkUsIL2 (DNA extract)			Subject 341	United States of America		Gallus gallus	blood	Toxoplasma gondii TgCkUsIL2
+TgCkUsIL3	TgCkUsIL3 (DNA extract)			Subject 342	United States of America		Gallus gallus	blood	Toxoplasma gondii TgCkUsIL3
+TgCkUsIL4	TgCkUsIL4 (DNA extract)			Subject 343	United States of America		Gallus gallus	blood	Toxoplasma gondii TgCkUsIL4
+TgCkUsIL5	TgCkUsIL5 (DNA extract)			Subject 344	United States of America		Gallus gallus	blood	Toxoplasma gondii TgCkUsIL5
+TgCkUsIL6	TgCkUsIL6 (DNA extract)			Subject 345	United States of America		Gallus gallus	blood	Toxoplasma gondii TgCkUsIL6
+TgCkUsIL7	TgCkUsIL7 (DNA extract)			Subject 346	United States of America		Gallus gallus	blood	Toxoplasma gondii TgCkUsIL7
+TgCkUsIL8	TgCkUsIL8 (DNA extract)			Subject 347	United States of America		Gallus gallus	blood	Toxoplasma gondii TgCkUsIL8
+TgCkUsIL9	TgCkUsIL9 (DNA extract)			Subject 348	United States of America		Gallus gallus	blood	Toxoplasma gondii TgCkUsIL9
+TgCkUsIL10	TgCkUsIL10 (DNA extract)			Subject 349	United States of America		Gallus gallus	blood	Toxoplasma gondii TgCkUsIL10
+TgCkUsIL11	TgCkUsIL11 (DNA extract)			Subject 350	United States of America		Gallus gallus	blood	Toxoplasma gondii TgCkUsIL11
+C37	C37 (DNA extract)			Subject 351	United States of America		Gallus gallus	blood	Toxoplasma gondii C37
+C56	C56 (DNA extract)			Subject 352	United States of America		Gallus gallus	blood	Toxoplasma gondii C56
+TgCgCa1	TgCgCa1 (DNA extract)			Subject 353	Canada		Puma concolor	blood	Toxoplasma gondii TgCgCa1
+TgCgCa2	TgCgCa2 (DNA extract)			Subject 354	Canada		Puma concolor	blood	Toxoplasma gondii TgCgCa2
+CT-1	CT-1 (DNA extract)			Subject 355	United States of America		Bos taurus	blood	Toxoplasma gondii CT-1
+TgCyW4	TgCyW4 (DNA extract)			Subject 356	United States of America		Canis latrans	blood	Toxoplasma gondii TgCyW4
+TgCyW5	TgCyW5 (DNA extract)			Subject 357	United States of America		Canis latrans	blood	Toxoplasma gondii TgCyW5
+TgCoGa1	TgCoGa1 (DNA extract)			Subject 358	United States of America		Canis latrans	blood	Toxoplasma gondii TgCoGa1
+TgCoWI1	TgCoWI1 (DNA extract)			Subject 359	United States of America		Canis latrans	blood	Toxoplasma gondii TgCoWI1
+TgCyW3	TgCyW3 (DNA extract)			Subject 360	United States of America		Canis latrans	blood	Toxoplasma gondii TgCyW3
+TgCyW1	TgCyW1 (DNA extract)			Subject 361	United States of America		Canis latrans	blood	Toxoplasma gondii TgCyW1
+TgCyW2	TgCyW2 (DNA extract)			Subject 362	United States of America		Canis latrans	blood	Toxoplasma gondii TgCyW2
+TgCyW6	TgCyW6 (DNA extract)			Subject 363	United States of America		Canis latrans	blood	Toxoplasma gondii TgCyW6
+TgHcUS1	TgHcUS1 (DNA extract)			Subject 364	United States of America		Corvus hawaiiensis	blood	Toxoplasma gondii TgHcUS1
+TgHcUS2	TgHcUS2 (DNA extract)			Subject 365	United States of America		Corvus hawaiiensis	blood	Toxoplasma gondii TgHcUS2
+TgWtdUs1	TgWtdUs1 (DNA extract)			Subject 366	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs1
+TgWtdUs3	TgWtdUs3 (DNA extract)			Subject 367	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs3
+TgWtdUs4	TgWtdUs4 (DNA extract)			Subject 368	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs4
+TgWtdUs5	TgWtdUs5 (DNA extract)			Subject 369	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs5
+TgWtdUs13	TgWtdUs13 (DNA extract)			Subject 370	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs13
+TgWtdUs15	TgWtdUs15 (DNA extract)			Subject 371	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs15
+TgWtdUs32	TgWtdUs32 (DNA extract)			Subject 372	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs32
+TgWtdUs7	TgWtdUs7 (DNA extract)			Subject 373	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs7
+TgWtdUs9	TgWtdUs9 (DNA extract)			Subject 374	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs9
+TgWtdUs11	TgWtdUs11 (DNA extract)			Subject 375	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs11
+TgWtdUs12	TgWtdUs12 (DNA extract)			Subject 376	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs12
+TgWtdUs14	TgWtdUs14 (DNA extract)			Subject 377	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs14
+TgWtdUs2	TgWtdUs2 (DNA extract)			Subject 378	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs2
+TgWtdUs6	TgWtdUs6 (DNA extract)			Subject 379	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs6
+TgWtdUs16	TgWtdUs16 (DNA extract)			Subject 380	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs16
+TgWtdUs17	TgWtdUs17 (DNA extract)			Subject 381	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs17
+TgWtdUs18	TgWtdUs18 (DNA extract)			Subject 382	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs18
+TgWtdUs19	TgWtdUs19 (DNA extract)			Subject 383	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs19
+TgWtdUs20	TgWtdUs20 (DNA extract)			Subject 384	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs20
+TgWtdUs22	TgWtdUs22 (DNA extract)			Subject 385	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs22
+TgWtdUs23	TgWtdUs23 (DNA extract)			Subject 386	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs23
+TgWtdUs24	TgWtdUs24 (DNA extract)			Subject 387	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs24
+TgWtdUs26	TgWtdUs26 (DNA extract)			Subject 388	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs26
+TgWtdUs27	TgWtdUs27 (DNA extract)			Subject 389	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs27
+TgWtdUs28	TgWtdUs28 (DNA extract)			Subject 390	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs28
+TgWtdUs29	TgWtdUs29 (DNA extract)			Subject 391	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs29
+TgWtdUs30	TgWtdUs30 (DNA extract)			Subject 392	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs30
+TgWtdUs31	TgWtdUs31 (DNA extract)			Subject 393	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs31
+TgWtdUs33	TgWtdUs33 (DNA extract)			Subject 394	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs33
+TgWtdUs34	TgWtdUs34 (DNA extract)			Subject 395	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs34
+TgWtdUs35	TgWtdUs35 (DNA extract)			Subject 396	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs35
+TgWtdUs36	TgWtdUs36 (DNA extract)			Subject 397	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs36
+WTD-1	WTD-1 (DNA extract)			Subject 398	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii WTD-1
+WTD-3	WTD-3 (DNA extract)			Subject 399	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii WTD-3
+TgWtdUs10	TgWtdUs10 (DNA extract)			Subject 400	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs10
+TgWtdUs8	TgWtdUs8 (DNA extract)			Subject 401	United States of America		Odocoileus virginianus	blood	Toxoplasma gondii TgWtdUs8
+TgDoUs2	TgDoUs2 (DNA extract)			Subject 402	United States of America		Tursiops truncatus	blood	Toxoplasma gondii TgDoUs2
+TgDoUs3	TgDoUs3 (DNA extract)			Subject 403	United States of America		Tursiops truncatus	blood	Toxoplasma gondii TgDoUs3
+TgDoUS5	TgDoUS5 (DNA extract)			Subject 404	United States of America		Tursiops truncatus	blood	Toxoplasma gondii TgDoUS5
+TgDoCA1	TgDoCA1 (DNA extract)			Subject 405	United States of America		Tursiops truncatus	blood	Toxoplasma gondii TgDoCA1
+TgDoUS4	TgDoUS4 (DNA extract)			Subject 406	United States of America		Tursiops truncatus	blood	Toxoplasma gondii TgDoUS4
+TgDoUS6	TgDoUS6 (DNA extract)			Subject 407	United States of America		Tursiops truncatus	blood	Toxoplasma gondii TgDoUS6
+TgDoUs1	TgDoUs1 (DNA extract)			Subject 408	United States of America		Tursiops truncatus	blood	Toxoplasma gondii TgDoUs1
+TgHlUs1	TgHlUs1 (DNA extract)			Subject 409	United States of America		Haliaeetus leucocephalus	blood	Toxoplasma gondii TgHlUs1
+TgVaUS2	TgVaUS2 (DNA extract)			Subject 410	United States of America		Vulpes lagopus	blood	Toxoplasma gondii TgVaUS2
+TgVaUS4	TgVaUS4 (DNA extract)			Subject 411	United States of America		Vulpes lagopus	blood	Toxoplasma gondii TgVaUS4
+TgVaUS6	TgVaUS6 (DNA extract)			Subject 412	United States of America		Vulpes lagopus	blood	Toxoplasma gondii TgVaUS6
+TgVvUS1	TgVvUS1 (DNA extract)			Subject 413	United States of America		Vulpes vulpes	blood	Toxoplasma gondii TgVvUS1
+TgVaUS3	TgVaUS3 (DNA extract)			Subject 414	United States of America		Vulpes lagopus	blood	Toxoplasma gondii TgVaUS3
+TgVaUS5	TgVaUS5 (DNA extract)			Subject 415	United States of America		Vulpes lagopus	blood	Toxoplasma gondii TgVaUS5
+TgVaUS1	TgVaUS1 (DNA extract)			Subject 416	United States of America		Vulpes lagopus	blood	Toxoplasma gondii TgVaUS1
+TgGoatUS1	TgGoatUS1 (DNA extract)			Subject 417	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS1
+TgGoatUS11	TgGoatUS11 (DNA extract)			Subject 418	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS11
+TgGoatUS12	TgGoatUS12 (DNA extract)			Subject 419	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS12
+TgGoatUS14	TgGoatUS14 (DNA extract)			Subject 420	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS14
+TgGoatUS15	TgGoatUS15 (DNA extract)			Subject 421	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS15
+TgGoatUS16	TgGoatUS16 (DNA extract)			Subject 422	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS16
+TgGoatUS18	TgGoatUS18 (DNA extract)			Subject 423	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS18
+TgGoatUS19	TgGoatUS19 (DNA extract)			Subject 424	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS19
+TgGoatUS21	TgGoatUS21 (DNA extract)			Subject 425	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS21
+TgGoatUS4	TgGoatUS4 (DNA extract)			Subject 426	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS4
+TgGoatUS10	TgGoatUS10 (DNA extract)			Subject 427	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS10
+TgGoatUS23	TgGoatUS23 (DNA extract)			Subject 428	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS23
+TgGoatUS29	TgGoatUS29 (DNA extract)			Subject 429	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS29
+TgGoatUS2	TgGoatUS2 (DNA extract)			Subject 430	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS2
+TgGoatUS9	TgGoatUS9 (DNA extract)			Subject 431	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS9
+TgGoatUS22	TgGoatUS22 (DNA extract)			Subject 432	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS22
+TgGoatUS27	TgGoatUS27 (DNA extract)			Subject 433	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS27
+TgGoatUS13	TgGoatUS13 (DNA extract)			Subject 434	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS13
+TgGoatUS17	TgGoatUS17 (DNA extract)			Subject 435	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS17
+TgGoatUS24	TgGoatUS24 (DNA extract)			Subject 436	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS24
+TgGoatUS25	TgGoatUS25 (DNA extract)			Subject 437	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS25
+TgGoatUS28	TgGoatUS28 (DNA extract)			Subject 438	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS28
+GT1	GT1 (DNA extract)			Subject 439	United States of America		Capra hircus	blood	Toxoplasma gondii GT1
+TgGoatUS7	TgGoatUS7 (DNA extract)			Subject 440	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS7
+TgGoatUS6	TgGoatUS6 (DNA extract)			Subject 441	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS6
+TgGoatUS5	TgGoatUS5 (DNA extract)			Subject 442	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS5
+TgGoatUS20	TgGoatUS20 (DNA extract)			Subject 443	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS20
+TgGoatUS3	TgGoatUS3 (DNA extract)			Subject 444	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS3
+TgGoatUS26	TgGoatUS26 (DNA extract)			Subject 445	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS26
+TgGoatUS8	TgGoatUS8 (DNA extract)			Subject 446	United States of America		Capra hircus	blood	Toxoplasma gondii TgGoatUS8
+TgGoUs1	TgGoUs1 (DNA extract)			Subject 447	United States of America		Anser sp.	blood	Toxoplasma gondii TgGoUs1
+TgGoMs1	TgGoMs1 (DNA extract)			Subject 448	United States of America		Anser sp.	blood	Toxoplasma gondii TgGoMs1
+TgBrCoUS1	TgBrCoUS1 (DNA extract)			Subject 449	United States of America		Buteo regalis	blood	Toxoplasma gondii TgBrCoUS1
+TgBjCoUS3	TgBjCoUS3 (DNA extract)			Subject 450	United States of America		Buteo jamaicensis	blood	Toxoplasma gondii TgBjCoUS3
+TgBsCoUS2	TgBsCoUS2 (DNA extract)			Subject 451	United States of America		Buteo swainsoni	blood	Toxoplasma gondii TgBsCoUS2
+TgBsCoUS3	TgBsCoUS3 (DNA extract)			Subject 452	United States of America		Buteo swainsoni	blood	Toxoplasma gondii TgBsCoUS3
+TgBlUS1	TgBlUS1 (DNA extract)			Subject 453	United States of America		Buteo lagopus	blood	Toxoplasma gondii TgBlUS1
+TgBjUS1	TgBjUS1 (DNA extract)			Subject 454	United States of America		Buteo jamaicensis	blood	Toxoplasma gondii TgBjUS1
+TgBsCoUS1	TgBsCoUS1 (DNA extract)			Subject 455	United States of America		Buteo swainsoni	blood	Toxoplasma gondii TgBsCoUS1
+PE	PE (DNA extract)			Subject 456	United States of America		Homo sapienss	blood	Toxoplasma gondii PE
+PIH	PIH (DNA extract)			Subject 457	United States of America		Homo sapienss	blood	Toxoplasma gondii PIH
+VEG	VEG (DNA extract)			Subject 458	United States of America		Homo sapienss	blood	Toxoplasma gondii VEG
+EDZ	EDZ (DNA extract)			Subject 459	United States of America		Homo sapienss	blood	Toxoplasma gondii EDZ
+STRL	STRL (DNA extract)			Subject 460	United States of America		Homo sapienss	blood	Toxoplasma gondii STRL
+ASH	ASH (DNA extract)			Subject 461	United States of America		Homo sapienss	blood	Toxoplasma gondii ASH
+ARI	ARI (DNA extract)			Subject 462	United States of America		Homo sapienss	blood	Toxoplasma gondii ARI
+RAY	RAY (DNA extract)			Subject 463	United States of America		Homo sapienss	blood	Toxoplasma gondii RAY
+RH88	RH88 (DNA extract)			Subject 464	United States of America		Homo sapienss	blood	Toxoplasma gondii RH88
+VEL	VEL (DNA extract)			Subject 465	United States of America		Homo sapienss	blood	Toxoplasma gondii VEL
+CAST	CAST (DNA extract)			Subject 466	United States of America		Homo sapienss	blood	Toxoplasma gondii CAST
+ROD	ROD (DNA extract)			Subject 467	United States of America		Homo sapienss	blood	Toxoplasma gondii ROD
+SOU	SOU (DNA extract)			Subject 468	United States of America		Homo sapienss	blood	Toxoplasma gondii SOU
+TgFsUS1	TgFsUS1 (DNA extract)			Subject 469	United States of America		Falco sparverius	blood	Toxoplasma gondii TgFsUS1
+TgMmUs2	TgMmUs2 (DNA extract)			Subject 470	United States of America		Mus	blood	Toxoplasma gondii TgMmUs2
+TgWfmMt1	TgWfmMt1 (DNA extract)			Subject 471	United States of America		Peromyscus leucopus	blood	Toxoplasma gondii TgWfmMt1
+TgWfmMt2	TgWfmMt2 (DNA extract)			Subject 472	United States of America		Peromyscus leucopus	blood	Toxoplasma gondii TgWfmMt2
+TgMmUs6	TgMmUs6 (DNA extract)			Subject 473	United States of America		Mus	blood	Toxoplasma gondii TgMmUs6
+TgMmUs1	TgMmUs1 (DNA extract)			Subject 474	United States of America		Mus	blood	Toxoplasma gondii TgMmUs1
+TgMmUs3	TgMmUs3 (DNA extract)			Subject 475	United States of America		Mus	blood	Toxoplasma gondii TgMmUs3
+TgMmUs4	TgMmUs4 (DNA extract)			Subject 476	United States of America		Mus	blood	Toxoplasma gondii TgMmUs4
+TgMmUs5	TgMmUs5 (DNA extract)			Subject 477	United States of America		Mus	blood	Toxoplasma gondii TgMmUs5
+TgOpGa1	TgOpGa1 (DNA extract)			Subject 478	United States of America		Didelphidae	blood	Toxoplasma gondii TgOpGa1
+TgTaUS1	TgTaUS1 (DNA extract)			Subject 479	United States of America		Tyto alba	blood	Toxoplasma gondii TgTaUS1
+TgPgUs17	TgPgUs17 (DNA extract)			Subject 480	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs17
+TgPgUs19	TgPgUs19 (DNA extract)			Subject 481	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs19
+TgPgUs21	TgPgUs21 (DNA extract)			Subject 482	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs21
+TgPgUs22	TgPgUs22 (DNA extract)			Subject 483	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs22
+TgPgUs23	TgPgUs23 (DNA extract)			Subject 484	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs23
+TgPgUs24	TgPgUs24 (DNA extract)			Subject 485	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs24
+TgPgUs28	TgPgUs28 (DNA extract)			Subject 486	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs28
+TgPgUs29	TgPgUs29 (DNA extract)			Subject 487	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs29
+TgPgUs30	TgPgUs30 (DNA extract)			Subject 488	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs30
+TgPgUs31	TgPgUs31 (DNA extract)			Subject 489	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs31
+TgPgUs33	TgPgUs33 (DNA extract)			Subject 490	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs33
+TgPgUs34	TgPgUs34 (DNA extract)			Subject 491	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs34
+TgPgUs35	TgPgUs35 (DNA extract)			Subject 492	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs35
+TgPgUs38	TgPgUs38 (DNA extract)			Subject 493	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs38
+TgPgUs43	TgPgUs43 (DNA extract)			Subject 494	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs43
+TgPgUs50	TgPgUs50 (DNA extract)			Subject 495	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs50
+TgPgUs51	TgPgUs51 (DNA extract)			Subject 496	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs51
+TgPgUs52	TgPgUs52 (DNA extract)			Subject 497	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs52
+TgPgUs53	TgPgUs53 (DNA extract)			Subject 498	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs53
+TgPgUs54	TgPgUs54 (DNA extract)			Subject 499	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs54
+TgPgUs56	TgPgUs56 (DNA extract)			Subject 500	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs56
+TgPgUs62	TgPgUs62 (DNA extract)			Subject 501	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs62
+TgPgUs63	TgPgUs63 (DNA extract)			Subject 502	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs63
+TgPgUs64	TgPgUs64 (DNA extract)			Subject 503	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs64
+TgPgUs66	TgPgUs66 (DNA extract)			Subject 504	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs66
+TgPgUs67	TgPgUs67 (DNA extract)			Subject 505	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs67
+TgPgUs68	TgPgUs68 (DNA extract)			Subject 506	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs68
+TgPgUs72	TgPgUs72 (DNA extract)			Subject 507	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs72
+TgPgUs73	TgPgUs73 (DNA extract)			Subject 508	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs73
+TgPgUs74	TgPgUs74 (DNA extract)			Subject 509	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs74
+TgPgUs77	TgPgUs77 (DNA extract)			Subject 510	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs77
+TgPgUs81	TgPgUs81 (DNA extract)			Subject 511	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs81
+TgPgUs83	TgPgUs83 (DNA extract)			Subject 512	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs83
+TgPgUs85	TgPgUs85 (DNA extract)			Subject 513	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs85
+TgPgUs86	TgPgUs86 (DNA extract)			Subject 514	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs86
+TgPgUs88	TgPgUs88 (DNA extract)			Subject 515	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs88
+TgPgUs91	TgPgUs91 (DNA extract)			Subject 516	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs91
+TgPgUs94	TgPgUs94 (DNA extract)			Subject 517	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs94
+TgPgUs95	TgPgUs95 (DNA extract)			Subject 518	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs95
+TgPgUs98	TgPgUs98 (DNA extract)			Subject 519	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs98
+TgPgUs99	TgPgUs99 (DNA extract)			Subject 520	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs99
+TgPgUs129	TgPgUs129 (DNA extract)			Subject 521	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs129
+TgPgUs137	TgPgUs137 (DNA extract)			Subject 522	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs137
+TgPgUs160	TgPgUs160 (DNA extract)			Subject 523	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs160
+TgPgUs161	TgPgUs161 (DNA extract)			Subject 524	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs161
+TgPgUs163	TgPgUs163 (DNA extract)			Subject 525	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs163
+TgPgUs165	TgPgUs165 (DNA extract)			Subject 526	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs165
+TgPgUs169	TgPgUs169 (DNA extract)			Subject 527	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs169
+TgPgUs170	TgPgUs170 (DNA extract)			Subject 528	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs170
+TgPgUs172	TgPgUs172 (DNA extract)			Subject 529	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs172
+TgPgUs178	TgPgUs178 (DNA extract)			Subject 530	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs178
+TgPigUS183	TgPigUS183 (DNA extract)			Subject 531	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS183
+TgPigUS184	TgPigUS184 (DNA extract)			Subject 532	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS184
+TgPigUS185	TgPigUS185 (DNA extract)			Subject 533	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS185
+TgPigUS186	TgPigUS186 (DNA extract)			Subject 534	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS186
+TgPigUS187	TgPigUS187 (DNA extract)			Subject 535	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS187
+TgPigUS188	TgPigUS188 (DNA extract)			Subject 536	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS188
+TgPigUS189	TgPigUS189 (DNA extract)			Subject 537	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS189
+TgPigUS190	TgPigUS190 (DNA extract)			Subject 538	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS190
+TgPigUS191	TgPigUS191 (DNA extract)			Subject 539	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS191
+TgPigUS193	TgPigUS193 (DNA extract)			Subject 540	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS193
+TgPigUS194	TgPigUS194 (DNA extract)			Subject 541	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS194
+TgPgUs1	TgPgUs1 (DNA extract)			Subject 542	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs1
+TgPgUs2	TgPgUs2 (DNA extract)			Subject 543	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs2
+TgPgUs3	TgPgUs3 (DNA extract)			Subject 544	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs3
+TgPgUs4	TgPgUs4 (DNA extract)			Subject 545	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs4
+TgPgUs6	TgPgUs6 (DNA extract)			Subject 546	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs6
+TgPgUs7	TgPgUs7 (DNA extract)			Subject 547	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs7
+TgPgUs8	TgPgUs8 (DNA extract)			Subject 548	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs8
+TgPgUs9	TgPgUs9 (DNA extract)			Subject 549	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs9
+TgPgUs12	TgPgUs12 (DNA extract)			Subject 550	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs12
+TgPgUs13	TgPgUs13 (DNA extract)			Subject 551	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs13
+TgPgUs112	TgPgUs112 (DNA extract)			Subject 552	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs112
+TgPgUs113	TgPgUs113 (DNA extract)			Subject 553	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs113
+TgPgUs180	TgPgUs180 (DNA extract)			Subject 554	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs180
+TgPgUs181	TgPgUs181 (DNA extract)			Subject 555	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs181
+TgPgUs130	TgPgUs130 (DNA extract)			Subject 556	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs130
+TgPgUs132	TgPgUs132 (DNA extract)			Subject 557	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs132
+TgPgUs133	TgPgUs133 (DNA extract)			Subject 558	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs133
+TgPgUs134	TgPgUs134 (DNA extract)			Subject 559	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs134
+TgPgUs135	TgPgUs135 (DNA extract)			Subject 560	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs135
+TgPgUs136	TgPgUs136 (DNA extract)			Subject 561	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs136
+TgPgUs138	TgPgUs138 (DNA extract)			Subject 562	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs138
+TgPgUs139	TgPgUs139 (DNA extract)			Subject 563	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs139
+TgPgUs140	TgPgUs140 (DNA extract)			Subject 564	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs140
+TgPgUs141	TgPgUs141 (DNA extract)			Subject 565	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs141
+TgPgUs142	TgPgUs142 (DNA extract)			Subject 566	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs142
+TgPgUs143	TgPgUs143 (DNA extract)			Subject 567	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs143
+TgPgUs144	TgPgUs144 (DNA extract)			Subject 568	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs144
+TgPgUs145	TgPgUs145 (DNA extract)			Subject 569	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs145
+TgPgUs146	TgPgUs146 (DNA extract)			Subject 570	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs146
+TgPgUs147	TgPgUs147 (DNA extract)			Subject 571	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs147
+TgPgUs148	TgPgUs148 (DNA extract)			Subject 572	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs148
+TgPgUs149	TgPgUs149 (DNA extract)			Subject 573	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs149
+TgPgUs150	TgPgUs150 (DNA extract)			Subject 574	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs150
+TgPgUs151	TgPgUs151 (DNA extract)			Subject 575	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs151
+TgPgUs152	TgPgUs152 (DNA extract)			Subject 576	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs152
+TgPgUs153	TgPgUs153 (DNA extract)			Subject 577	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs153
+TgPgUs154	TgPgUs154 (DNA extract)			Subject 578	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs154
+TgPgUs155	TgPgUs155 (DNA extract)			Subject 579	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs155
+TgPgUs156	TgPgUs156 (DNA extract)			Subject 580	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs156
+TgPgUs157	TgPgUs157 (DNA extract)			Subject 581	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs157
+TgPgUs158	TgPgUs158 (DNA extract)			Subject 582	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs158
+TgPgUs159	TgPgUs159 (DNA extract)			Subject 583	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs159
+TgPgUs162	TgPgUs162 (DNA extract)			Subject 584	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs162
+TgPgUs164	TgPgUs164 (DNA extract)			Subject 585	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs164
+TgPgUs166	TgPgUs166 (DNA extract)			Subject 586	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs166
+TgPgUs167	TgPgUs167 (DNA extract)			Subject 587	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs167
+TgPgUs168	TgPgUs168 (DNA extract)			Subject 588	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs168
+TgPgUs171	TgPgUs171 (DNA extract)			Subject 589	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs171
+TgPgUs173	TgPgUs173 (DNA extract)			Subject 590	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs173
+TgPgUs174	TgPgUs174 (DNA extract)			Subject 591	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs174
+TgPgUs175	TgPgUs175 (DNA extract)			Subject 592	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs175
+TgPgUs176	TgPgUs176 (DNA extract)			Subject 593	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs176
+TgPgUs177	TgPgUs177 (DNA extract)			Subject 594	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs177
+TgPgUs179	TgPgUs179 (DNA extract)			Subject 595	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs179
+TgPgUs18	TgPgUs18 (DNA extract)			Subject 596	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs18
+TgPgUs41	TgPgUs41 (DNA extract)			Subject 597	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs41
+TgPgUs61	TgPgUs61 (DNA extract)			Subject 598	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs61
+TgPgUs70	TgPgUs70 (DNA extract)			Subject 599	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs70
+TgPgUs71	TgPgUs71 (DNA extract)			Subject 600	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs71
+TgPgUs87	TgPgUs87 (DNA extract)			Subject 601	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs87
+TgPigUS195	TgPigUS195 (DNA extract)			Subject 602	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS195
+TgPigUS196	TgPigUS196 (DNA extract)			Subject 603	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS196
+TgPigUS198	TgPigUS198 (DNA extract)			Subject 604	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS198
+TgPigUS199	TgPigUS199 (DNA extract)			Subject 605	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPigUS199
+TgPgUs109	TgPgUs109 (DNA extract)			Subject 606	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs109
+TgPgUs110	TgPgUs110 (DNA extract)			Subject 607	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs110
+TgPgUs111	TgPgUs111 (DNA extract)			Subject 608	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs111
+P51	P51 (DNA extract)			Subject 609	United States of America		Sus scrofa	blood	Toxoplasma gondii P51
+TgPgUs_100	TgPgUs_100 (DNA extract)			Subject 610	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_100
+TgPgUs_101	TgPgUs_101 (DNA extract)			Subject 611	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_101
+TgPgUs_102	TgPgUs_102 (DNA extract)			Subject 612	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_102
+TgPgUs_103	TgPgUs_103 (DNA extract)			Subject 613	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_103
+TgPgUs_104	TgPgUs_104 (DNA extract)			Subject 614	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_104
+TgPgUs_105	TgPgUs_105 (DNA extract)			Subject 615	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_105
+TgPgUs_106	TgPgUs_106 (DNA extract)			Subject 616	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_106
+TgPgUs_107	TgPgUs_107 (DNA extract)			Subject 617	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_107
+TgPgUs_108	TgPgUs_108 (DNA extract)			Subject 618	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_108
+TgPgUs_114	TgPgUs_114 (DNA extract)			Subject 619	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_114
+TgPgUs_115	TgPgUs_115 (DNA extract)			Subject 620	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_115
+TgPgUs_116	TgPgUs_116 (DNA extract)			Subject 621	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_116
+TgPgUs_117	TgPgUs_117 (DNA extract)			Subject 622	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_117
+TgPgUs_118	TgPgUs_118 (DNA extract)			Subject 623	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_118
+TgPgUs_119	TgPgUs_119 (DNA extract)			Subject 624	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_119
+TgPgUs_120	TgPgUs_120 (DNA extract)			Subject 625	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_120
+TgPgUs_121	TgPgUs_121 (DNA extract)			Subject 626	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_121
+TgPgUs_122	TgPgUs_122 (DNA extract)			Subject 627	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_122
+TgPgUs_123	TgPgUs_123 (DNA extract)			Subject 628	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_123
+TgPgUs_124	TgPgUs_124 (DNA extract)			Subject 629	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_124
+TgPgUs_125	TgPgUs_125 (DNA extract)			Subject 630	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_125
+TgPgUs_126	TgPgUs_126 (DNA extract)			Subject 631	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_126
+TgPgUs_127	TgPgUs_127 (DNA extract)			Subject 632	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_127
+TgPgUs_128	TgPgUs_128 (DNA extract)			Subject 633	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_128
+TgPgUs27	TgPgUs27 (DNA extract)			Subject 634	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs27
+TgPgUs32	TgPgUs32 (DNA extract)			Subject 635	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs32
+TgPgUs36	TgPgUs36 (DNA extract)			Subject 636	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs36
+TgPgUs37	TgPgUs37 (DNA extract)			Subject 637	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs37
+TgPgUs39	TgPgUs39 (DNA extract)			Subject 638	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs39
+TgPgUs44	TgPgUs44 (DNA extract)			Subject 639	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs44
+TgPgUs48	TgPgUs48 (DNA extract)			Subject 640	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs48
+TgPgUs49	TgPgUs49 (DNA extract)			Subject 641	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs49
+TgPgUs59	TgPgUs59 (DNA extract)			Subject 642	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs59
+TgPgUs69	TgPgUs69 (DNA extract)			Subject 643	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs69
+TgPgUs93	TgPgUs93 (DNA extract)			Subject 644	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs93
+TgPgUs97	TgPgUs97 (DNA extract)			Subject 645	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs97
+TgPgUs_16	TgPgUs_16 (DNA extract)			Subject 646	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_16
+TgPgUs_20	TgPgUs_20 (DNA extract)			Subject 647	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_20
+TgPgUs_25	TgPgUs_25 (DNA extract)			Subject 648	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_25
+TgPgUs_26	TgPgUs_26 (DNA extract)			Subject 649	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_26
+TgPgUs_40	TgPgUs_40 (DNA extract)			Subject 650	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_40
+TgPgUs_42	TgPgUs_42 (DNA extract)			Subject 651	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_42
+TgPgUs_47	TgPgUs_47 (DNA extract)			Subject 652	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_47
+TgPgUs_60	TgPgUs_60 (DNA extract)			Subject 653	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_60
+TgPgUs_65	TgPgUs_65 (DNA extract)			Subject 654	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_65
+TgPgUs_75	TgPgUs_75 (DNA extract)			Subject 655	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_75
+TgPgUs_78	TgPgUs_78 (DNA extract)			Subject 656	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_78
+TgPgUs_79	TgPgUs_79 (DNA extract)			Subject 657	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_79
+TgPgUs_80	TgPgUs_80 (DNA extract)			Subject 658	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_80
+TgPgUs_82	TgPgUs_82 (DNA extract)			Subject 659	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_82
+TgPgUs_84	TgPgUs_84 (DNA extract)			Subject 660	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_84
+TgPgUs_90	TgPgUs_90 (DNA extract)			Subject 661	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_90
+TgPgUs_96	TgPgUs_96 (DNA extract)			Subject 662	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs_96
+P10	P10 (DNA extract)			Subject 663	United States of America		Sus scrofa	blood	Toxoplasma gondii P10
+TgPgUs89	TgPgUs89 (DNA extract)			Subject 664	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs89
+TgPgUs5	TgPgUs5 (DNA extract)			Subject 665	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs5
+TgPgUs10	TgPgUs10 (DNA extract)			Subject 666	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs10
+TgPgUs14	TgPgUs14 (DNA extract)			Subject 667	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs14
+TgPgUs15-a.k.a.P89	TgPgUs15-a.k.a.P89 (DNA extract)			Subject 668	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs15-a.k.a.P89
+TgPgUs15-a.k.a.P45	TgPgUs15-a.k.a.P45 (DNA extract)			Subject 669	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs15-a.k.a.P45
+TgPgUs15-a.k.a.P46	TgPgUs15-a.k.a.P46 (DNA extract)			Subject 670	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs15-a.k.a.P46
+TgPgUs15-a.k.a.P55	TgPgUs15-a.k.a.P55 (DNA extract)			Subject 671	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs15-a.k.a.P55
+TgPgUs15-a.k.a.P57	TgPgUs15-a.k.a.P57 (DNA extract)			Subject 672	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs15-a.k.a.P57
+TgPgUs15-a.k.a.P58	TgPgUs15-a.k.a.P58 (DNA extract)			Subject 673	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs15-a.k.a.P58
+TgPgUs15-a.k.a.P76	TgPgUs15-a.k.a.P76 (DNA extract)			Subject 674	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs15-a.k.a.P76
+TgPgUs15-a.k.a.P92	TgPgUs15-a.k.a.P92 (DNA extract)			Subject 675	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs15-a.k.a.P92
+TgPgUs11	TgPgUs11 (DNA extract)			Subject 676	United States of America		Sus scrofa	blood	Toxoplasma gondii TgPgUs11
+P105_WGA	P105_WGA (DNA extract)			Subject 677	United States of America		Sus scrofa	blood	Toxoplasma gondii P105_WGA
+TgRaW1	TgRaW1 (DNA extract)			Subject 678	United States of America		Procyon lotor	blood	Toxoplasma gondii TgRaW1
+TgRaGa1	TgRaGa1 (DNA extract)			Subject 679	United States of America		Procyon lotor	blood	Toxoplasma gondii TgRaGa1
+TgRaW5	TgRaW5 (DNA extract)			Subject 680	United States of America		Procyon lotor	blood	Toxoplasma gondii TgRaW5
+TgRaCa2	TgRaCa2 (DNA extract)			Subject 681	Canada		Procyon lotor	blood	Toxoplasma gondii TgRaCa2
+TgRaTx1	TgRaTx1 (DNA extract)			Subject 682	United States of America		Procyon lotor	blood	Toxoplasma gondii TgRaTx1
+TgRaGa8	TgRaGa8 (DNA extract)			Subject 683	United States of America		Procyon lotor	blood	Toxoplasma gondii TgRaGa8
+TgRaW4	TgRaW4 (DNA extract)			Subject 684	United States of America		Procyon lotor	blood	Toxoplasma gondii TgRaW4
+TgRaGa2	TgRaGa2 (DNA extract)			Subject 685	United States of America		Procyon lotor	blood	Toxoplasma gondii TgRaGa2
+TgRaW2	TgRaW2 (DNA extract)			Subject 686	United States of America		Procyon lotor	blood	Toxoplasma gondii TgRaW2
+TgRaW3	TgRaW3 (DNA extract)			Subject 687	United States of America		Procyon lotor	blood	Toxoplasma gondii TgRaW3
+TgNlTX1	TgNlTX1 (DNA extract)			Subject 688	United States of America		Neotoma	blood	Toxoplasma gondii TgNlTX1
+R18	R18 (DNA extract)			Subject 689	United States of America		Rodentia	blood	Toxoplasma gondii R18
+R961	R961 (DNA extract)			Subject 690	United States of America		Rodentia	blood	Toxoplasma gondii R961
+TgSoUs_5	TgSoUs_5 (DNA extract)			Subject 691	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs_5
+TgSoUs_20	TgSoUs_20 (DNA extract)			Subject 692	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs_20
+TgSoUs27	TgSoUs27 (DNA extract)			Subject 693	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs27
+TgSoUs36	TgSoUs36 (DNA extract)			Subject 694	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs36
+761	761 (DNA extract)			Subject 695	United States of America		Enhydra lutris	blood	Toxoplasma gondii 761
+TgSoUS41	TgSoUS41 (DNA extract)			Subject 696	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUS41
+TgSoUs_3	TgSoUs_3 (DNA extract)			Subject 697	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs_3
+TgSoUs_4	TgSoUs_4 (DNA extract)			Subject 698	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs_4
+TgSoUs_18	TgSoUs_18 (DNA extract)			Subject 699	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs_18
+TgSoUs_19	TgSoUs_19 (DNA extract)			Subject 700	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs_19
+TgSoUs_21	TgSoUs_21 (DNA extract)			Subject 701	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs_21
+TgSoUs26	TgSoUs26 (DNA extract)			Subject 702	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs26
+TgSoUs29	TgSoUs29 (DNA extract)			Subject 703	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs29
+TgSoUs30	TgSoUs30 (DNA extract)			Subject 704	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs30
+TgSoUs37	TgSoUs37 (DNA extract)			Subject 705	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs37
+TgSoUS42	TgSoUS42 (DNA extract)			Subject 706	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUS42
+TgSoUS43	TgSoUS43 (DNA extract)			Subject 707	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUS43
+790	790 (DNA extract)			Subject 708	United States of America		Enhydra lutris	blood	Toxoplasma gondii 790
+TgSoUs35	TgSoUs35 (DNA extract)			Subject 709	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs35
+Type_A:_TgSoUs6	Type_A:_TgSoUs6 (DNA extract)			Subject 710	United States of America		Enhydra lutris	blood	Toxoplasma gondii Type_A:_TgSoUs6
+7	7 (DNA extract)			Subject 711	United States of America		Enhydra lutris	blood	Toxoplasma gondii 7
+9	9 (DNA extract)			Subject 712	United States of America		Enhydra lutris	blood	Toxoplasma gondii 9
+10	10 (DNA extract)			Subject 713	United States of America		Enhydra lutris	blood	Toxoplasma gondii 10
+12	12 (DNA extract)			Subject 714	United States of America		Enhydra lutris	blood	Toxoplasma gondii 12
+13	13 (DNA extract)			Subject 715	United States of America		Enhydra lutris	blood	Toxoplasma gondii 13
+14	14 (DNA extract)			Subject 716	United States of America		Enhydra lutris	blood	Toxoplasma gondii 14
+22	22 (DNA extract)			Subject 717	United States of America		Enhydra lutris	blood	Toxoplasma gondii 22
+23	23 (DNA extract)			Subject 718	United States of America		Enhydra lutris	blood	Toxoplasma gondii 23
+24	24 (DNA extract)			Subject 719	United States of America		Enhydra lutris	blood	Toxoplasma gondii 24
+25	25 (DNA extract)			Subject 720	United States of America		Enhydra lutris	blood	Toxoplasma gondii 25
+Type_X:_TgSoUs8	Type_X:_TgSoUs8 (DNA extract)			Subject 721	United States of America		Enhydra lutris	blood	Toxoplasma gondii Type_X:_TgSoUs8
+11	11 (DNA extract)			Subject 722	United States of America		Enhydra lutris	blood	Toxoplasma gondii 11
+15	15 (DNA extract)			Subject 723	United States of America		Enhydra lutris	blood	Toxoplasma gondii 15
+Type_A:_TgSoUs32	Type_A:_TgSoUs32 (DNA extract)			Subject 724	United States of America		Enhydra lutris	blood	Toxoplasma gondii Type_A:_TgSoUs32
+33	33 (DNA extract)			Subject 725	United States of America		Enhydra lutris	blood	Toxoplasma gondii 33
+34	34 (DNA extract)			Subject 726	United States of America		Enhydra lutris	blood	Toxoplasma gondii 34
+729	0729 (DNA extract)			Subject 727	United States of America		Enhydra lutris	blood	Toxoplasma gondii 729
+791	0791 (DNA extract)			Subject 728	United States of America		Enhydra lutris	blood	Toxoplasma gondii 791
+Unknown:_TgSoUs16	Unknown:_TgSoUs16 (DNA extract)			Subject 729	United States of America		Enhydra lutris	blood	Toxoplasma gondii Unknown:_TgSoUs16
+17	17 (DNA extract)			Subject 730	United States of America		Enhydra lutris	blood	Toxoplasma gondii 17
+TgSoUS40	TgSoUS40 (DNA extract)			Subject 731	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUS40
+TgSoUS44	TgSoUS44 (DNA extract)			Subject 732	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUS44
+Type_X:_TgSoUs31	Type_X:_TgSoUs31 (DNA extract)			Subject 733	United States of America		Enhydra lutris	blood	Toxoplasma gondii Type_X:_TgSoUs31
+Unknown:_TgSoUs38	Unknown:_TgSoUs38 (DNA extract)			Subject 734	United States of America		Enhydra lutris	blood	Toxoplasma gondii Unknown:_TgSoUs38
+TgSoUs1	TgSoUs1 (DNA extract)			Subject 735	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs1
+TgSoUs2	TgSoUs2 (DNA extract)			Subject 736	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs2
+TgSoUs39	TgSoUs39 (DNA extract)			Subject 737	United States of America		Enhydra lutris	blood	Toxoplasma gondii TgSoUs39
+TgShUs6	TgShUs6 (DNA extract)			Subject 738	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs6
+TgShUs7	TgShUs7 (DNA extract)			Subject 739	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs7
+TgShUs15	TgShUs15 (DNA extract)			Subject 740	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs15
+TgShUs16	TgShUs16 (DNA extract)			Subject 741	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs16
+TgShUs18	TgShUs18 (DNA extract)			Subject 742	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs18
+TgShUs19	TgShUs19 (DNA extract)			Subject 743	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs19
+TgShUs20	TgShUs20 (DNA extract)			Subject 744	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs20
+TgShUs33	TgShUs33 (DNA extract)			Subject 745	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs33
+TgShUs41a	TgShUs41a (DNA extract)			Subject 746	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs41a
+TgShUs42b	TgShUs42b (DNA extract)			Subject 747	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs42b
+TgShUs44	TgShUs44 (DNA extract)			Subject 748	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs44
+TgShUs46	TgShUs46 (DNA extract)			Subject 749	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs46
+TgShUs48	TgShUs48 (DNA extract)			Subject 750	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs48
+TgShUs49b	TgShUs49b (DNA extract)			Subject 751	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs49b
+TgShUs50	TgShUs50 (DNA extract)			Subject 752	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs50
+TgShUs51	TgShUs51 (DNA extract)			Subject 753	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs51
+TgShUs53	TgShUs53 (DNA extract)			Subject 754	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs53
+PTG	PTG (DNA extract)			Subject 755	United States of America		Ovis aries	blood	Toxoplasma gondii PTG
+TgShUs13	TgShUs13 (DNA extract)			Subject 756	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs13
+TgShUs17	TgShUs17 (DNA extract)			Subject 757	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs17
+TgShUs21	TgShUs21 (DNA extract)			Subject 758	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs21
+TgShUs36	TgShUs36 (DNA extract)			Subject 759	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs36
+TgShUs40b	TgShUs40b (DNA extract)			Subject 760	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs40b
+TgShUs41b	TgShUs41b (DNA extract)			Subject 761	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs41b
+TgShUs42a	TgShUs42a (DNA extract)			Subject 762	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs42a
+TgShUs43	TgShUs43 (DNA extract)			Subject 763	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs43
+TgShUs4	TgShUs4 (DNA extract)			Subject 764	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs4
+TgShUs9	TgShUs9 (DNA extract)			Subject 765	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs9
+TgShUs10	TgShUs10 (DNA extract)			Subject 766	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs10
+TgShUs12	TgShUs12 (DNA extract)			Subject 767	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs12
+TgShUs14	TgShUs14 (DNA extract)			Subject 768	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs14
+TgShUs23	TgShUs23 (DNA extract)			Subject 769	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs23
+TgShUs24	TgShUs24 (DNA extract)			Subject 770	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs24
+TgShUs25	TgShUs25 (DNA extract)			Subject 771	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs25
+TgShUs26	TgShUs26 (DNA extract)			Subject 772	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs26
+TgShUs3	TgShUs3 (DNA extract)			Subject 773	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs3
+TgShUs8	TgShUs8 (DNA extract)			Subject 774	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs8
+TgShUs11	TgShUs11 (DNA extract)			Subject 775	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs11
+TgShUs29	TgShUs29 (DNA extract)			Subject 776	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs29
+TgShUs30	TgShUs30 (DNA extract)			Subject 777	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs30
+TgShUs31	TgShUs31 (DNA extract)			Subject 778	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs31
+TgShUs34	TgShUs34 (DNA extract)			Subject 779	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs34
+TgShUs38	TgShUs38 (DNA extract)			Subject 780	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs38
+TgShUs45	TgShUs45 (DNA extract)			Subject 781	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs45
+TgShUs37	TgShUs37 (DNA extract)			Subject 782	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs37
+TgShUs40a	TgShUs40a (DNA extract)			Subject 783	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs40a
+TgShUs1	TgShUs1 (DNA extract)			Subject 784	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs1
+TgShUs47	TgShUs47 (DNA extract)			Subject 785	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs47
+TgShUs52	TgShUs52 (DNA extract)			Subject 786	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs52
+TgShUs2	TgShUs2 (DNA extract)			Subject 787	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs2
+TgShUs5	TgShUs5 (DNA extract)			Subject 788	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs5
+TgShUs22	TgShUs22 (DNA extract)			Subject 789	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs22
+TgShUs28	TgShUs28 (DNA extract)			Subject 790	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs28
+TgShUs39	TgShUs39 (DNA extract)			Subject 791	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs39
+TgShUs49a	TgShUs49a (DNA extract)			Subject 792	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs49a
+TgShUs32	TgShUs32 (DNA extract)			Subject 793	United States of America		Ovis aries	blood	Toxoplasma gondii TgShUs32
+M7741	M7741 (DNA extract)			Subject 794	United States of America		Ovis aries	blood	Toxoplasma gondii M7741
+TgSkW1	TgSkW1 (DNA extract)			Subject 795	United States of America		Mephitidae	blood	Toxoplasma gondii TgSkW1
+TgSkCa1	TgSkCa1 (DNA extract)			Subject 796	Canada		Mephitidae	blood	Toxoplasma gondii TgSkCa1
+TgSkMs1	TgSkMs1 (DNA extract)			Subject 797	United States of America		Mephitis mephitis	blood	Toxoplasma gondii TgSkMs1
+TgSKMs3	TgSKMs3 (DNA extract)			Subject 798	United States of America		Mephitis mephitis	blood	Toxoplasma gondii TgSKMs3
+TgEsMt1	TgEsMt1 (DNA extract)			Subject 799	United States of America		Sturnus vulgaris	blood	Toxoplasma gondii TgEsMt1
+Tg61	Tg61 (DNA extract)			Subject 800	United States of America		Meleagris gallopavo	blood	Toxoplasma gondii Tg61
+TgWyUs1	TgWyUs1 (DNA extract)			Subject 801	United States of America		Macropus	blood	Toxoplasma gondii TgWyUs1
+TgWyUs2	TgWyUs2 (DNA extract)			Subject 802	United States of America		Macropus	blood	Toxoplasma gondii TgWyUs2
+TgWyUs3	TgWyUs3 (DNA extract)			Subject 803	United States of America		Macropus	blood	Toxoplasma gondii TgWyUs3
+TgWyUs4	TgWyUs4 (DNA extract)			Subject 804	United States of America		Macropus	blood	Toxoplasma gondii TgWyUs4
+TgWolfMN1	TgWolfMN1 (DNA extract)			Subject 805	United States of America		Canis lupus	blood	Toxoplasma gondii TgWolfMN1
+TgWolfMN3	TgWolfMN3 (DNA extract)			Subject 806	United States of America		Canis lupus	blood	Toxoplasma gondii TgWolfMN3
+TgWolfMN4	TgWolfMN4 (DNA extract)			Subject 807	United States of America		Canis lupus	blood	Toxoplasma gondii TgWolfMN4
+TgWolfWI1	TgWolfWI1 (DNA extract)			Subject 808	United States of America		Canis lupus	blood	Toxoplasma gondii TgWolfWI1
+TgWolfAK1	TgWolfAK1 (DNA extract)			Subject 809	United States of America		Canis lupus	blood	Toxoplasma gondii TgWolfAK1
+TgCpBr2	TgCpBr2 (DNA extract)			Subject 810	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr2
+TgCpBrTgCpBr4	TgCpBrTgCpBr4 (DNA extract)			Subject 811	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr4
+TgCpBrTgCpBr5	TgCpBrTgCpBr5 (DNA extract)			Subject 812	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr5
+TgCpBrTgCpBr6	TgCpBrTgCpBr6 (DNA extract)			Subject 813	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr6
+TgCpBrTgCpBr7	TgCpBrTgCpBr7 (DNA extract)			Subject 814	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr7
+TgBrCp_14	TgBrCp_14 (DNA extract)			Subject 815	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgBrCp_14
+TgCpBr36	TgCpBr36 (DNA extract)			Subject 816	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr36
+TgCpBrTgCpBr17	TgCpBrTgCpBr17 (DNA extract)			Subject 817	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr17
+TgCpBrTgCpBr18	TgCpBrTgCpBr18 (DNA extract)			Subject 818	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr18
+TgCpBrTgCpBr20	TgCpBrTgCpBr20 (DNA extract)			Subject 819	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr20
+TgCpBr11	TgCpBr11 (DNA extract)			Subject 820	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr11
+TgCpBrTgCpBr23	TgCpBrTgCpBr23 (DNA extract)			Subject 821	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr23
+TgCpBrTgCpBr24	TgCpBrTgCpBr24 (DNA extract)			Subject 822	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr24
+TgCpBr10	TgCpBr10 (DNA extract)			Subject 823	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr10
+TgCpBrTgCpBr31	TgCpBrTgCpBr31 (DNA extract)			Subject 824	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr31
+TgCpBr_29	TgCpBr_29 (DNA extract)			Subject 825	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr_29
+TgCpBr34	TgCpBr34 (DNA extract)			Subject 826	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr34
+TgCpBrTgCpBr35	TgCpBrTgCpBr35 (DNA extract)			Subject 827	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr35
+TgCpBr8	TgCpBr8 (DNA extract)			Subject 828	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr8
+TgCpBr13	TgCpBr13 (DNA extract)			Subject 829	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr13
+TgCpBr15	TgCpBr15 (DNA extract)			Subject 830	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr15
+TgCpBr9	TgCpBr9 (DNA extract)			Subject 831	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr9
+TgCpBrTgCpBr12	TgCpBrTgCpBr12 (DNA extract)			Subject 832	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr12
+TgCpBr19	TgCpBr19 (DNA extract)			Subject 833	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr19
+TgCpBrTgCpBr21	TgCpBrTgCpBr21 (DNA extract)			Subject 834	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr21
+TgCpBrTgCpBr22	TgCpBrTgCpBr22 (DNA extract)			Subject 835	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr22
+TgCpBr33	TgCpBr33 (DNA extract)			Subject 836	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr33
+TgCpBr26	TgCpBr26 (DNA extract)			Subject 837	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr26
+TgCpBr1	TgCpBr1 (DNA extract)			Subject 838	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr1
+TgCpBr27	TgCpBr27 (DNA extract)			Subject 839	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr27
+TgCpBr3	TgCpBr3 (DNA extract)			Subject 840	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr3
+TgCpBr25	TgCpBr25 (DNA extract)			Subject 841	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBr25
+TgCpBrTgCpBr30	TgCpBrTgCpBr30 (DNA extract)			Subject 842	Brazil		Hydrochoerus hydrochaeris	blood	Toxoplasma gondii TgCpBrTgCpBr30
+TgCatStK3a	TgCatStK3a (DNA extract)			Subject 843	Saint Kitts		Felis catus	blood	Toxoplasma gondii TgCatStK3a
+K117C	K117C (DNA extract)			Subject 844	Panama		Felis catus	blood	Toxoplasma gondii K117C
+K125B	K125B (DNA extract)			Subject 845	Panama		Felis catus	blood	Toxoplasma gondii K125B
+TgCatStK2	TgCatStK2 (DNA extract)			Subject 846	Saint Kitts		Felis catus	blood	Toxoplasma gondii TgCatStK2
+TgCatStK3b	TgCatStK3b (DNA extract)			Subject 847	Saint Kitts		Felis catus	blood	Toxoplasma gondii TgCatStK3b
+TgCatStK4	TgCatStK4 (DNA extract)			Subject 848	Saint Kitts		Felis catus	blood	Toxoplasma gondii TgCatStK4
+TgCatStK6	TgCatStK6 (DNA extract)			Subject 849	Saint Kitts		Felis catus	blood	Toxoplasma gondii TgCatStK6
+TgCatBr42	TgCatBr42 (DNA extract)			Subject 850	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr42
+TgCatBr47	TgCatBr47 (DNA extract)			Subject 851	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr47
+TgCatBr53	TgCatBr53 (DNA extract)			Subject 852	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr53
+TgCatBr54	TgCatBr54 (DNA extract)			Subject 853	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr54
+TgCatBr55	TgCatBr55 (DNA extract)			Subject 854	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr55
+TgCatBr62	TgCatBr62 (DNA extract)			Subject 855	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr62
+TgCatBr71	TgCatBr71 (DNA extract)			Subject 856	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr71
+TgCatBr75	TgCatBr75 (DNA extract)			Subject 857	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr75
+TgCatBr2	TgCatBr2 (DNA extract)			Subject 858	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr2
+TgCatBr12	TgCatBr12 (DNA extract)			Subject 859	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr12
+TgCatBr17	TgCatBr17 (DNA extract)			Subject 860	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr17
+TgCatBr21	TgCatBr21 (DNA extract)			Subject 861	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr21
+TgCatBr30	TgCatBr30 (DNA extract)			Subject 862	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr30
+TgCatBr58	TgCatBr58 (DNA extract)			Subject 863	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr58
+TgCatBr59	TgCatBr59 (DNA extract)			Subject 864	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr59
+TgCatBr60	TgCatBr60 (DNA extract)			Subject 865	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr60
+TgCatBr73	TgCatBr73 (DNA extract)			Subject 866	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr73
+TgCatBr74	TgCatBr74 (DNA extract)			Subject 867	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr74
+TgCatBr3	TgCatBr3 (DNA extract)			Subject 868	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr3
+TgCatBr4	TgCatBr4 (DNA extract)			Subject 869	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr4
+TgCatMx2	TgCatMx2 (DNA extract)			Subject 870	Mexico		Felis catus	blood	Toxoplasma gondii TgCatMx2
+TgCatMxTgCatMx5	TgCatMxTgCatMx5 (DNA extract)			Subject 871	Mexico		Felis catus	blood	Toxoplasma gondii TgCatMxTgCatMx5
+TgCtCo2	TgCtCo2 (DNA extract)			Subject 872	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo2
+TgCtCo7	TgCtCo7 (DNA extract)			Subject 873	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo7
+TgCatBr39	TgCatBr39 (DNA extract)			Subject 874	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr39
+TgCatBr51	TgCatBr51 (DNA extract)			Subject 875	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr51
+TgCatBr52	TgCatBr52 (DNA extract)			Subject 876	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr52
+TgCatBr56	TgCatBr56 (DNA extract)			Subject 877	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr56
+TgCatBr61	TgCatBr61 (DNA extract)			Subject 878	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr61
+TgCatBr68	TgCatBr68 (DNA extract)			Subject 879	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr68
+TgCatBr77	TgCatBr77 (DNA extract)			Subject 880	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr77
+TgCatBr78	TgCatBr78 (DNA extract)			Subject 881	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr78
+TgCatBr1	TgCatBr1 (DNA extract)			Subject 882	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr1
+TgCatBr7	TgCatBr7 (DNA extract)			Subject 883	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr7
+TgCatStK7	TgCatStK7 (DNA extract)			Subject 884	Saint Kitts		Felis catus	blood	Toxoplasma gondii TgCatStK7
+TgCatBr15	TgCatBr15 (DNA extract)			Subject 885	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr15
+TgCtCo14	TgCtCo14 (DNA extract)			Subject 886	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo14
+TgCtCo12	TgCtCo12 (DNA extract)			Subject 887	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo12
+TgCtCo13	TgCtCo13 (DNA extract)			Subject 888	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo13
+TgCatBr5	TgCatBr5 (DNA extract)			Subject 889	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr5
+TgCatBr11	TgCatBr11 (DNA extract)			Subject 890	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr11
+TgCatBr16	TgCatBr16 (DNA extract)			Subject 891	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr16
+TgCatBr84	TgCatBr84 (DNA extract)			Subject 892	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr84
+TgCatBr10	TgCatBr10 (DNA extract)			Subject 893	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr10
+TgCatBr22	TgCatBr22 (DNA extract)			Subject 894	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr22
+TgCatBr23	TgCatBr23 (DNA extract)			Subject 895	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr23
+TgCatBr28	TgCatBr28 (DNA extract)			Subject 896	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr28
+TgCatBr31	TgCatBr31 (DNA extract)			Subject 897	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr31
+TgCatBr32	TgCatBr32 (DNA extract)			Subject 898	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr32
+TgCatBr37	TgCatBr37 (DNA extract)			Subject 899	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr37
+TgCatBr65	TgCatBr65 (DNA extract)			Subject 900	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr65
+TgCatBr66	TgCatBr66 (DNA extract)			Subject 901	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr66
+TgCtCo1	TgCtCo1 (DNA extract)			Subject 902	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo1
+TgCatBr44	TgCatBr44 (DNA extract)			Subject 903	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr44
+TgCatBr48	TgCatBr48 (DNA extract)			Subject 904	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr48
+TgCatBr69	TgCatBr69 (DNA extract)			Subject 905	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr69
+TgCatBr70	TgCatBr70 (DNA extract)			Subject 906	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr70
+TgCtCo4	TgCtCo4 (DNA extract)			Subject 907	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo4
+TgCtCo10	TgCtCo10 (DNA extract)			Subject 908	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo10
+TgCtCo11	TgCtCo11 (DNA extract)			Subject 909	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo11
+TgCtCo5x	TgCtCo5x (DNA extract)			Subject 910	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo5x
+TgCatBr9	TgCatBr9 (DNA extract)			Subject 911	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr9
+TgCatBr19	TgCatBr19 (DNA extract)			Subject 912	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr19
+TgCatBr25	TgCatBr25 (DNA extract)			Subject 913	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr25
+TgCatPr5	TgCatPr5 (DNA extract)			Subject 914	Puerto Rico		Felis catus	blood	Toxoplasma gondii TgCatPr5
+TgCatPr7	TgCatPr7 (DNA extract)			Subject 915	Puerto Rico		Felis catus	blood	Toxoplasma gondii TgCatPr7
+TgCatPr11	TgCatPr11 (DNA extract)			Subject 916	Puerto Rico		Felis catus	blood	Toxoplasma gondii TgCatPr11
+TgCatBr79	TgCatBr79 (DNA extract)			Subject 917	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr79
+TgCatBr80	TgCatBr80 (DNA extract)			Subject 918	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr80
+TgCatBr45	TgCatBr45 (DNA extract)			Subject 919	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr45
+TgCatBr46	TgCatBr46 (DNA extract)			Subject 920	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr46
+TgCatBr83	TgCatBr83 (DNA extract)			Subject 921	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr83
+TgCtCo5	TgCtCo5 (DNA extract)			Subject 922	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo5
+TgCtCo6	TgCtCo6 (DNA extract)			Subject 923	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo6
+TgCtCo3	TgCtCo3 (DNA extract)			Subject 924	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo3
+TgCtCo9	TgCtCo9 (DNA extract)			Subject 925	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo9
+TgCatBr82	TgCatBr82 (DNA extract)			Subject 926	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr82
+TgCatBr76	TgCatBr76 (DNA extract)			Subject 927	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr76
+TgCatMx1	TgCatMx1 (DNA extract)			Subject 928	Mexico		Felis catus	blood	Toxoplasma gondii TgCatMx1
+TgCatBr26	TgCatBr26 (DNA extract)			Subject 929	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr26
+TgCatBr72	TgCatBr72 (DNA extract)			Subject 930	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr72
+TgCatBr50	TgCatBr50 (DNA extract)			Subject 931	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr50
+TgCatBr40	TgCatBr40 (DNA extract)			Subject 932	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr40
+TgCtCo15)	TgCtCo15) (DNA extract)			Subject 933	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo15)
+TgCatBr34	TgCatBr34 (DNA extract)			Subject 934	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr34
+TgCatBr57	TgCatBr57 (DNA extract)			Subject 935	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr57
+TgCatBr64	TgCatBr64 (DNA extract)			Subject 936	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr64
+TgCatPr6	TgCatPr6 (DNA extract)			Subject 937	Puerto Rico		Felis catus	blood	Toxoplasma gondii TgCatPr6
+TgCatPr9	TgCatPr9 (DNA extract)			Subject 938	Puerto Rico		Felis catus	blood	Toxoplasma gondii TgCatPr9
+TgCatBr41	TgCatBr41 (DNA extract)			Subject 939	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr41
+TgCatPr8	TgCatPr8 (DNA extract)			Subject 940	Puerto Rico		Felis catus	blood	Toxoplasma gondii TgCatPr8
+TgCatBr18	TgCatBr18 (DNA extract)			Subject 941	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr18
+TgCatBr20	TgCatBr20 (DNA extract)			Subject 942	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr20
+TgCatBr67	TgCatBr67 (DNA extract)			Subject 943	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr67
+TgCatBr81	TgCatBr81 (DNA extract)			Subject 944	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr81
+TgCatBr6-20	TgCatBr6-20 (DNA extract)			Subject 945	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr6-20
+TgCtCo8	TgCtCo8 (DNA extract)			Subject 946	Colombia		Felis catus	blood	Toxoplasma gondii TgCtCo8
+TgCatBr38	TgCatBr38 (DNA extract)			Subject 947	Brazil		Felis catus	blood	Toxoplasma gondii TgCatBr38
+TgCatStK1	TgCatStK1 (DNA extract)			Subject 948	Saint Kitts		Felis catus	blood	Toxoplasma gondii TgCatStK1
+TgCatMx1b	TgCatMx1b (DNA extract)			Subject 949	Mexico		Felis catus	blood	Toxoplasma gondii TgCatMx1b
+TgCkCh6	TgCkCh6 (DNA extract)			Subject 950	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh6
+TgCkCh10	TgCkCh10 (DNA extract)			Subject 951	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh10
+TgCkCh11	TgCkCh11 (DNA extract)			Subject 952	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh11
+TgCkCh16	TgCkCh16 (DNA extract)			Subject 953	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh16
+TgCkAr2	TgCkAr2 (DNA extract)			Subject 954	Argentina		Gallus gallus	blood	Toxoplasma gondii TgCkAr2
+TgCkAr6	TgCkAr6 (DNA extract)			Subject 955	Argentina		Gallus gallus	blood	Toxoplasma gondii TgCkAr6
+TgCkAr24	TgCkAr24 (DNA extract)			Subject 956	Argentina		Gallus gallus	blood	Toxoplasma gondii TgCkAr24
+TgCkBr158	TgCkBr158 (DNA extract)			Subject 957	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr158
+TgCkBr161	TgCkBr161 (DNA extract)			Subject 958	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr161
+TgCkBr164	TgCkBr164 (DNA extract)			Subject 959	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr164
+TgCkBr31	TgCkBr31 (DNA extract)			Subject 960	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr31
+TgCkBr56	TgCkBr56 (DNA extract)			Subject 961	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr56
+TgCkBr231	TgCkBr231 (DNA extract)			Subject 962	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr231
+TgCkCh3	TgCkCh3 (DNA extract)			Subject 963	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh3
+TgCkCh15	TgCkCh15 (DNA extract)			Subject 964	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh15
+TgCkCh18	TgCkCh18 (DNA extract)			Subject 965	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh18
+TgCkCh20	TgCkCh20 (DNA extract)			Subject 966	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh20
+TgCkCr11	TgCkCr11 (DNA extract)			Subject 967	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr11
+TgCkGr12	TgCkGr12 (DNA extract)			Subject 968	Grenada		Gallus gallus	blood	Toxoplasma gondii TgCkGr12
+TgCkGr16	TgCkGr16 (DNA extract)			Subject 969	Grenada		Gallus gallus	blood	Toxoplasma gondii TgCkGr16
+TgCkGr23	TgCkGr23 (DNA extract)			Subject 970	Grenada		Gallus gallus	blood	Toxoplasma gondii TgCkGr23
+TgCkGr24	TgCkGr24 (DNA extract)			Subject 971	Grenada		Gallus gallus	blood	Toxoplasma gondii TgCkGr24
+TgCkGr29	TgCkGr29 (DNA extract)			Subject 972	Grenada		Gallus gallus	blood	Toxoplasma gondii TgCkGr29
+TgCkGy26	TgCkGy26 (DNA extract)			Subject 973	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy26
+TgCkGy27	TgCkGy27 (DNA extract)			Subject 974	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy27
+TgCkMx1	TgCkMx1 (DNA extract)			Subject 975	Mexico		Gallus gallus	blood	Toxoplasma gondii TgCkMx1
+TgCkMxTgCkMx2	TgCkMxTgCkMx2 (DNA extract)			Subject 976	Mexico		Gallus gallus	blood	Toxoplasma gondii TgCkMxTgCkMx2
+TgCkMxTgCkMx3	TgCkMxTgCkMx3 (DNA extract)			Subject 977	Mexico		Gallus gallus	blood	Toxoplasma gondii TgCkMxTgCkMx3
+TgCkMxTgCkMx4	TgCkMxTgCkMx4 (DNA extract)			Subject 978	Mexico		Gallus gallus	blood	Toxoplasma gondii TgCkMxTgCkMx4
+TgCkNi3	TgCkNi3 (DNA extract)			Subject 979	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi3
+TgCkNi8	TgCkNi8 (DNA extract)			Subject 980	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi8
+TgCkNi13	TgCkNi13 (DNA extract)			Subject 981	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi13
+TgCkNi44	TgCkNi44 (DNA extract)			Subject 982	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi44
+TgCkNi48	TgCkNi48 (DNA extract)			Subject 983	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi48
+TgCkNi2x	TgCkNi2x (DNA extract)			Subject 984	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi2x
+TgCkPe2	TgCkPe2 (DNA extract)			Subject 985	Peru		Gallus gallus	blood	Toxoplasma gondii TgCkPe2
+TgCkBr221	TgCkBr221 (DNA extract)			Subject 986	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr221
+TgCkBr225	TgCkBr225 (DNA extract)			Subject 987	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr225
+TgCkBr226	TgCkBr226 (DNA extract)			Subject 988	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr226
+TgCkBr228	TgCkBr228 (DNA extract)			Subject 989	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr228
+TgCkBr230	TgCkBr230 (DNA extract)			Subject 990	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr230
+TgCkCh2	TgCkCh2 (DNA extract)			Subject 991	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh2
+TgCkCh4	TgCkCh4 (DNA extract)			Subject 992	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh4
+TgCkCh5	TgCkCh5 (DNA extract)			Subject 993	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh5
+TgCkCh7	TgCkCh7 (DNA extract)			Subject 994	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh7
+TgCkCh8	TgCkCh8 (DNA extract)			Subject 995	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh8
+TgCkCh9	TgCkCh9 (DNA extract)			Subject 996	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh9
+TgCkCh12	TgCkCh12 (DNA extract)			Subject 997	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh12
+TgCkCh13	TgCkCh13 (DNA extract)			Subject 998	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh13
+TgCkCh14	TgCkCh14 (DNA extract)			Subject 999	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh14
+TgCkCh17	TgCkCh17 (DNA extract)			Subject 1000	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh17
+TgCkCh19	TgCkCh19 (DNA extract)			Subject 1001	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh19
+TgCkCh21	TgCkCh21 (DNA extract)			Subject 1002	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh21
+TgCkCh22	TgCkCh22 (DNA extract)			Subject 1003	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh22
+TgCkNi18	TgCkNi18 (DNA extract)			Subject 1004	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi18
+TgCkNi39	TgCkNi39 (DNA extract)			Subject 1005	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi39
+TgCkNi42	TgCkNi42 (DNA extract)			Subject 1006	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi42
+TgCkBr98	TgCkBr98 (DNA extract)			Subject 1007	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr98
+TgCkBr101	TgCkBr101 (DNA extract)			Subject 1008	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr101
+TgCkBr102	TgCkBr102 (DNA extract)			Subject 1009	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr102
+TgCkBr104	TgCkBr104 (DNA extract)			Subject 1010	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr104
+TgCkBr55	TgCkBr55 (DNA extract)			Subject 1011	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr55
+TgCkBr79	TgCkBr79 (DNA extract)			Subject 1012	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr79
+TgCkBr86	TgCkBr86 (DNA extract)			Subject 1013	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr86
+TgCkBr87	TgCkBr87 (DNA extract)			Subject 1014	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr87
+TgCkBr201	TgCkBr201 (DNA extract)			Subject 1015	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr201
+TgCkBr203	TgCkBr203 (DNA extract)			Subject 1016	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr203
+TgCkBr207	TgCkBr207 (DNA extract)			Subject 1017	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr207
+TgCkBr123	TgCkBr123 (DNA extract)			Subject 1018	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr123
+TgCkBr124	TgCkBr124 (DNA extract)			Subject 1019	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr124
+TgCkBr144	TgCkBr144 (DNA extract)			Subject 1020	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr144
+TgCkBr10	TgCkBr10 (DNA extract)			Subject 1021	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr10
+TgCkAr16	TgCkAr16 (DNA extract)			Subject 1022	Argentina		Gallus gallus	blood	Toxoplasma gondii TgCkAr16
+TgCkAr18	TgCkAr18 (DNA extract)			Subject 1023	Argentina		Gallus gallus	blood	Toxoplasma gondii TgCkAr18
+TgCkBr111	TgCkBr111 (DNA extract)			Subject 1024	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr111
+TgCkBr112	TgCkBr112 (DNA extract)			Subject 1025	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr112
+TgCkBr182	TgCkBr182 (DNA extract)			Subject 1026	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr182
+TgCkBr196	TgCkBr196 (DNA extract)			Subject 1027	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr196
+TgCkCr8	TgCkCr8 (DNA extract)			Subject 1028	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr8
+TgCkCr12	TgCkCr12 (DNA extract)			Subject 1029	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr12
+TgCkCr13	TgCkCr13 (DNA extract)			Subject 1030	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr13
+TgCkCr14	TgCkCr14 (DNA extract)			Subject 1031	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr14
+TgCkCr15	TgCkCr15 (DNA extract)			Subject 1032	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr15
+TgCkCr16	TgCkCr16 (DNA extract)			Subject 1033	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr16
+TgCkCr17	TgCkCr17 (DNA extract)			Subject 1034	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr17
+TgCkCr18	TgCkCr18 (DNA extract)			Subject 1035	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr18
+TgCkCr19	TgCkCr19 (DNA extract)			Subject 1036	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr19
+TgCkCr20	TgCkCr20 (DNA extract)			Subject 1037	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr20
+TgCkCr21	TgCkCr21 (DNA extract)			Subject 1038	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr21
+TgCkCr22	TgCkCr22 (DNA extract)			Subject 1039	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr22
+TgCkCr23	TgCkCr23 (DNA extract)			Subject 1040	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr23
+TgCkCr24	TgCkCr24 (DNA extract)			Subject 1041	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr24
+TgCkCr25	TgCkCr25 (DNA extract)			Subject 1042	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr25
+TgCkCr26	TgCkCr26 (DNA extract)			Subject 1043	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr26
+TgCkCr27	TgCkCr27 (DNA extract)			Subject 1044	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr27
+TgCkGa6	TgCkGa6 (DNA extract)			Subject 1045	Guatemala		Gallus gallus	blood	Toxoplasma gondii TgCkGa6
+TgCkGy23	TgCkGy23 (DNA extract)			Subject 1046	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy23
+TgCkGy24	TgCkGy24 (DNA extract)			Subject 1047	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy24
+TgCkNi14	TgCkNi14 (DNA extract)			Subject 1048	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi14
+TgCkNi15	TgCkNi15 (DNA extract)			Subject 1049	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi15
+TgCkNi20	TgCkNi20 (DNA extract)			Subject 1050	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi20
+TgCkNi25	TgCkNi25 (DNA extract)			Subject 1051	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi25
+TgCkNi30	TgCkNi30 (DNA extract)			Subject 1052	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi30
+TgCkBr131	TgCkBr131 (DNA extract)			Subject 1053	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr131
+TgCkBr132	TgCkBr132 (DNA extract)			Subject 1054	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr132
+TgCkBr133	TgCkBr133 (DNA extract)			Subject 1055	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr133
+TgCkBr134	TgCkBr134 (DNA extract)			Subject 1056	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr134
+TgCkBr11	TgCkBr11 (DNA extract)			Subject 1057	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr11
+TgCkBr7	TgCkBr7 (DNA extract)			Subject 1058	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr7
+TgCkBr17	TgCkBr17 (DNA extract)			Subject 1059	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr17
+TgCkBr194	TgCkBr194 (DNA extract)			Subject 1060	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr194
+TgCkBr195	TgCkBr195 (DNA extract)			Subject 1061	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr195
+TgCkVe1	TgCkVe1 (DNA extract)			Subject 1062	Venezuela		Gallus gallus	blood	Toxoplasma gondii TgCkVe1
+TgCkBr146	TgCkBr146 (DNA extract)			Subject 1063	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr146
+TgCkAr1	TgCkAr1 (DNA extract)			Subject 1064	Argentina		Gallus gallus	blood	Toxoplasma gondii TgCkAr1
+TgCkBr57	TgCkBr57 (DNA extract)			Subject 1065	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr57
+TgCkBr64	TgCkBr64 (DNA extract)			Subject 1066	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr64
+TgCkBr97	TgCkBr97 (DNA extract)			Subject 1067	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr97
+TgCkGy2	TgCkGy2 (DNA extract)			Subject 1068	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy2
+TgCkGy3	TgCkGy3 (DNA extract)			Subject 1069	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy3
+TgCkGy5	TgCkGy5 (DNA extract)			Subject 1070	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy5
+TgCkGy6	TgCkGy6 (DNA extract)			Subject 1071	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy6
+TgCkGy9	TgCkGy9 (DNA extract)			Subject 1072	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy9
+TgCkGy12	TgCkGy12 (DNA extract)			Subject 1073	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy12
+TgCkGy16	TgCkGy16 (DNA extract)			Subject 1074	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy16
+TgCkGy19	TgCkGy19 (DNA extract)			Subject 1075	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy19
+TgCkGy20	TgCkGy20 (DNA extract)			Subject 1076	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy20
+TgCkGy25	TgCkGy25 (DNA extract)			Subject 1077	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy25
+TgCkGy28	TgCkGy28 (DNA extract)			Subject 1078	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy28
+TgCkGy32	TgCkGy32 (DNA extract)			Subject 1079	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy32
+TgCkBr167	TgCkBr167 (DNA extract)			Subject 1080	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr167
+TgCkBr170	TgCkBr170 (DNA extract)			Subject 1081	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr170
+TgCkBr174	TgCkBr174 (DNA extract)			Subject 1082	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr174
+TgCkBr176	TgCkBr176 (DNA extract)			Subject 1083	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr176
+TgCkBr179	TgCkBr179 (DNA extract)			Subject 1084	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr179
+TgCkBr180	TgCkBr180 (DNA extract)			Subject 1085	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr180
+TgCkBr184	TgCkBr184 (DNA extract)			Subject 1086	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr184
+TgCkBr185	TgCkBr185 (DNA extract)			Subject 1087	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr185
+TgCkBr165	TgCkBr165 (DNA extract)			Subject 1088	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr165
+TgCkBr183	TgCkBr183 (DNA extract)			Subject 1089	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr183
+TgCkGr25	TgCkGr25 (DNA extract)			Subject 1090	Grenada		Gallus gallus	blood	Toxoplasma gondii TgCkGr25
+TgCkGr26	TgCkGr26 (DNA extract)			Subject 1091	Grenada		Gallus gallus	blood	Toxoplasma gondii TgCkGr26
+TgCkBr82	TgCkBr82 (DNA extract)			Subject 1092	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr82
+TgCkBr90	TgCkBr90 (DNA extract)			Subject 1093	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr90
+TgCkBr153	TgCkBr153 (DNA extract)			Subject 1094	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr153
+TgCkCh1	TgCkCh1 (DNA extract)			Subject 1095	Chile		Gallus gallus	blood	Toxoplasma gondii TgCkCh1
+TgCkCo2	TgCkCo2 (DNA extract)			Subject 1096	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo2
+TgCkVe3	TgCkVe3 (DNA extract)			Subject 1097	Venezuela		Gallus gallus	blood	Toxoplasma gondii TgCkVe3
+TgCkAr25	TgCkAr25 (DNA extract)			Subject 1098	Argentina		Gallus gallus	blood	Toxoplasma gondii TgCkAr25
+TgCkBr119	TgCkBr119 (DNA extract)			Subject 1099	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr119
+TgCkBr120	TgCkBr120 (DNA extract)			Subject 1100	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr120
+TgCkBr122	TgCkBr122 (DNA extract)			Subject 1101	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr122
+TgCkBr129	TgCkBr129 (DNA extract)			Subject 1102	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr129
+TgCkBr135	TgCkBr135 (DNA extract)			Subject 1103	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr135
+TgCkBr137	TgCkBr137 (DNA extract)			Subject 1104	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr137
+TgCkBr140	TgCkBr140 (DNA extract)			Subject 1105	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr140
+TgCkNi1	TgCkNi1 (DNA extract)			Subject 1106	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi1
+TgCkNi11	TgCkNi11 (DNA extract)			Subject 1107	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi11
+TgCkNi22	TgCkNi22 (DNA extract)			Subject 1108	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi22
+TgCkNi23	TgCkNi23 (DNA extract)			Subject 1109	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi23
+TgCkNi26	TgCkNi26 (DNA extract)			Subject 1110	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi26
+TgCkNi29	TgCkNi29 (DNA extract)			Subject 1111	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi29
+TgCkNi33	TgCkNi33 (DNA extract)			Subject 1112	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi33
+TgCkNi36	TgCkNi36 (DNA extract)			Subject 1113	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi36
+TgCkNi38	TgCkNi38 (DNA extract)			Subject 1114	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi38
+TgCkNi46	TgCkNi46 (DNA extract)			Subject 1115	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi46
+TgCkNi47y	TgCkNi47y (DNA extract)			Subject 1116	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi47y
+TgCkAr27	TgCkAr27 (DNA extract)			Subject 1117	Argentina		Gallus gallus	blood	Toxoplasma gondii TgCkAr27
+TgCkAr28	TgCkAr28 (DNA extract)			Subject 1118	Argentina		Gallus gallus	blood	Toxoplasma gondii TgCkAr28
+TgCkBr147	TgCkBr147 (DNA extract)			Subject 1119	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr147
+TgCkBr148	TgCkBr148 (DNA extract)			Subject 1120	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr148
+TgCkBr151	TgCkBr151 (DNA extract)			Subject 1121	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr151
+TgCkBr154	TgCkBr154 (DNA extract)			Subject 1122	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr154
+TgCkBr160	TgCkBr160 (DNA extract)			Subject 1123	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr160
+TgCkBr162	TgCkBr162 (DNA extract)			Subject 1124	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr162
+TgCkBr163	TgCkBr163 (DNA extract)			Subject 1125	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr163
+TgCkBr81	TgCkBr81 (DNA extract)			Subject 1126	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr81
+TgCkPe4	TgCkPe4 (DNA extract)			Subject 1127	Peru		Gallus gallus	blood	Toxoplasma gondii TgCkPe4
+TgCkPe6	TgCkPe6 (DNA extract)			Subject 1128	Peru		Gallus gallus	blood	Toxoplasma gondii TgCkPe6
+TgCkBr28	TgCkBr28 (DNA extract)			Subject 1129	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr28
+TgCkBr33	TgCkBr33 (DNA extract)			Subject 1130	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr33
+TgCkBr50	TgCkBr50 (DNA extract)			Subject 1131	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr50
+TgCkBr52	TgCkBr52 (DNA extract)			Subject 1132	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr52
+TgCkBr58	TgCkBr58 (DNA extract)			Subject 1133	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr58
+TgCkBr205	TgCkBr205 (DNA extract)			Subject 1134	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr205
+TgCkBr209	TgCkBr209 (DNA extract)			Subject 1135	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr209
+TgCkBr95	TgCkBr95 (DNA extract)			Subject 1136	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr95
+TgCkBr38	TgCkBr38 (DNA extract)			Subject 1137	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr38
+TgCkBr27	TgCkBr27 (DNA extract)			Subject 1138	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr27
+TgCkBr44	TgCkBr44 (DNA extract)			Subject 1139	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr44
+TgCkBr51	TgCkBr51 (DNA extract)			Subject 1140	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr51
+TgCkBr65	TgCkBr65 (DNA extract)			Subject 1141	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr65
+TgCkBr66	TgCkBr66 (DNA extract)			Subject 1142	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr66
+TgCkBr78	TgCkBr78 (DNA extract)			Subject 1143	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr78
+TgCkBr80	TgCkBr80 (DNA extract)			Subject 1144	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr80
+TgCkNi4	TgCkNi4 (DNA extract)			Subject 1145	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi4
+TgCkNi6	TgCkNi6 (DNA extract)			Subject 1146	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi6
+TgCkNi10	TgCkNi10 (DNA extract)			Subject 1147	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi10
+TgCkNi17	TgCkNi17 (DNA extract)			Subject 1148	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi17
+TgCkNi21	TgCkNi21 (DNA extract)			Subject 1149	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi21
+TgCkNi34	TgCkNi34 (DNA extract)			Subject 1150	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi34
+TgCkNi37	TgCkNi37 (DNA extract)			Subject 1151	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi37
+TgCkCr2	TgCkCr2 (DNA extract)			Subject 1152	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr2
+TgCkCr28	TgCkCr28 (DNA extract)			Subject 1153	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr28
+TgCkCr29	TgCkCr29 (DNA extract)			Subject 1154	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr29
+TgCkCr30	TgCkCr30 (DNA extract)			Subject 1155	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr30
+TgCkCr31	TgCkCr31 (DNA extract)			Subject 1156	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr31
+TgCkCr32	TgCkCr32 (DNA extract)			Subject 1157	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr32
+TgCkBr110	TgCkBr110 (DNA extract)			Subject 1158	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr110
+TgCkGy8	TgCkGy8 (DNA extract)			Subject 1159	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy8
+TgCkGy10	TgCkGy10 (DNA extract)			Subject 1160	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy10
+TgCkGy14	TgCkGy14 (DNA extract)			Subject 1161	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy14
+TgCkGy15	TgCkGy15 (DNA extract)			Subject 1162	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy15
+TgCkGy35	TgCkGy35 (DNA extract)			Subject 1163	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy35
+TgCkBr149	TgCkBr149 (DNA extract)			Subject 1164	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr149
+TgCkBr150	TgCkBr150 (DNA extract)			Subject 1165	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr150
+TgCkBr152	TgCkBr152 (DNA extract)			Subject 1166	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr152
+TgCkBr157	TgCkBr157 (DNA extract)			Subject 1167	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr157
+TgCkNi7	TgCkNi7 (DNA extract)			Subject 1168	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi7
+TgCkNi9	TgCkNi9 (DNA extract)			Subject 1169	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi9
+TgCkNi40	TgCkNi40 (DNA extract)			Subject 1170	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi40
+TgCkNi41	TgCkNi41 (DNA extract)			Subject 1171	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi41
+TgCkNi43	TgCkNi43 (DNA extract)			Subject 1172	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi43
+TgCkBr115	TgCkBr115 (DNA extract)			Subject 1173	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr115
+TgCkBr142	TgCkBr142 (DNA extract)			Subject 1174	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr142
+TgCkBr145	TgCkBr145 (DNA extract)			Subject 1175	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr145
+TgCkCo5	TgCkCo5 (DNA extract)			Subject 1176	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo5
+TgCkBr114	TgCkBr114 (DNA extract)			Subject 1177	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr114
+TgCkCo20	TgCkCo20 (DNA extract)			Subject 1178	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo20
+TgCkBr113	TgCkBr113 (DNA extract)			Subject 1179	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr113
+TgCkGy7	TgCkGy7 (DNA extract)			Subject 1180	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy7
+TgCkGy11	TgCkGy11 (DNA extract)			Subject 1181	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy11
+TgCkGy13	TgCkGy13 (DNA extract)			Subject 1182	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy13
+TgCkGy31	TgCkGy31 (DNA extract)			Subject 1183	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy31
+TgCkGy1	TgCkGy1 (DNA extract)			Subject 1184	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy1
+TgCkGy4	TgCkGy4 (DNA extract)			Subject 1185	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy4
+TgCkGy29	TgCkGy29 (DNA extract)			Subject 1186	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy29
+TgCkGy30	TgCkGy30 (DNA extract)			Subject 1187	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy30
+TgCkGy33	TgCkGy33 (DNA extract)			Subject 1188	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy33
+TgCkBr41	TgCkBr41 (DNA extract)			Subject 1189	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr41
+TgCkBr42	TgCkBr42 (DNA extract)			Subject 1190	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr42
+TgCkBr49	TgCkBr49 (DNA extract)			Subject 1191	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr49
+TgCkBr60	TgCkBr60 (DNA extract)			Subject 1192	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr60
+TgCkBr62	TgCkBr62 (DNA extract)			Subject 1193	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr62
+TgCkCr3	TgCkCr3 (DNA extract)			Subject 1194	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr3
+TgCkCr4	TgCkCr4 (DNA extract)			Subject 1195	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr4
+TgCkCr5	TgCkCr5 (DNA extract)			Subject 1196	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr5
+TgCkCr6	TgCkCr6 (DNA extract)			Subject 1197	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr6
+TgCkBr59	TgCkBr59 (DNA extract)			Subject 1198	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr59
+TgCkBr30	TgCkBr30 (DNA extract)			Subject 1199	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr30
+TgCkBr34	TgCkBr34 (DNA extract)			Subject 1200	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr34
+TgCkBr67	TgCkBr67 (DNA extract)			Subject 1201	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr67
+TgCkBr36	TgCkBr36 (DNA extract)			Subject 1202	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr36
+TgCkBr32	TgCkBr32 (DNA extract)			Subject 1203	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr32
+TgCkBr84	TgCkBr84 (DNA extract)			Subject 1204	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr84
+TgCkBr85	TgCkBr85 (DNA extract)			Subject 1205	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr85
+TgCkCo6	TgCkCo6 (DNA extract)			Subject 1206	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo6
+TgCkCo10	TgCkCo10 (DNA extract)			Subject 1207	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo10
+TgCkCo12	TgCkCo12 (DNA extract)			Subject 1208	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo12
+TgCkCo13	TgCkCo13 (DNA extract)			Subject 1209	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo13
+TgCkCo21	TgCkCo21 (DNA extract)			Subject 1210	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo21
+TgCkCo23	TgCkCo23 (DNA extract)			Subject 1211	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo23
+TgCkCo24	TgCkCo24 (DNA extract)			Subject 1212	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo24
+TgCkCo8	TgCkCo8 (DNA extract)			Subject 1213	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo8
+TgCkCo15	TgCkCo15 (DNA extract)			Subject 1214	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo15
+TgCkBr75	TgCkBr75 (DNA extract)			Subject 1215	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr75
+TgCkBr76	TgCkBr76 (DNA extract)			Subject 1216	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr76
+TgCkBr92	TgCkBr92 (DNA extract)			Subject 1217	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr92
+TgCkBr136	TgCkBr136 (DNA extract)			Subject 1218	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr136
+TgCkBr138	TgCkBr138 (DNA extract)			Subject 1219	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr138
+TgCkBr139	TgCkBr139 (DNA extract)			Subject 1220	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr139
+TgCkCr7	TgCkCr7 (DNA extract)			Subject 1221	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr7
+TgCkCr9	TgCkCr9 (DNA extract)			Subject 1222	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr9
+TgCkCr10	TgCkCr10 (DNA extract)			Subject 1223	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr10
+TgCkBr126	TgCkBr126 (DNA extract)			Subject 1224	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr126
+TgCkBr127	TgCkBr127 (DNA extract)			Subject 1225	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr127
+TgCkBr117	TgCkBr117 (DNA extract)			Subject 1226	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr117
+TgCkBr99	TgCkBr99 (DNA extract)			Subject 1227	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr99
+TgCkBr100	TgCkBr100 (DNA extract)			Subject 1228	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr100
+TgCkAr7	TgCkAr7 (DNA extract)			Subject 1229	Argentina		Gallus gallus	blood	Toxoplasma gondii TgCkAr7
+TgCkBr181	TgCkBr181 (DNA extract)			Subject 1230	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr181
+TgCkGy21	TgCkGy21 (DNA extract)			Subject 1231	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy21
+TgCkGy22	TgCkGy22 (DNA extract)			Subject 1232	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy22
+TgCkVe_4	TgCkVe_4 (DNA extract)			Subject 1233	Venezuela		Gallus gallus	blood	Toxoplasma gondii TgCkVe_4
+TgCkVe_5	TgCkVe_5 (DNA extract)			Subject 1234	Venezuela		Gallus gallus	blood	Toxoplasma gondii TgCkVe_5
+TgCkVe_10	TgCkVe_10 (DNA extract)			Subject 1235	Venezuela		Gallus gallus	blood	Toxoplasma gondii TgCkVe_10
+TgCkNi16	TgCkNi16 (DNA extract)			Subject 1236	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi16
+TgCkNi45	TgCkNi45 (DNA extract)			Subject 1237	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi45
+TgCkNi7x	TgCkNi7x (DNA extract)			Subject 1238	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi7x
+TgCkBr46	TgCkBr46 (DNA extract)			Subject 1239	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr46
+TgCkNi12	TgCkNi12 (DNA extract)			Subject 1240	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi12
+TgCkNi32	TgCkNi32 (DNA extract)			Subject 1241	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi32
+TgCkBr96	TgCkBr96 (DNA extract)			Subject 1242	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr96
+TgCkBr171	TgCkBr171 (DNA extract)			Subject 1243	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr171
+TgCkBr172	TgCkBr172 (DNA extract)			Subject 1244	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr172
+TgCkBr40	TgCkBr40 (DNA extract)			Subject 1245	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr40
+TgCkBr47	TgCkBr47 (DNA extract)			Subject 1246	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr47
+TgCkBr13	TgCkBr13 (DNA extract)			Subject 1247	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr13
+TgCkBr23	TgCkBr23 (DNA extract)			Subject 1248	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr23
+TgCkBr19	TgCkBr19 (DNA extract)			Subject 1249	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr19
+TgCkBr24	TgCkBr24 (DNA extract)			Subject 1250	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr24
+TgCkBr89	TgCkBr89 (DNA extract)			Subject 1251	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr89
+TgCkGy17	TgCkGy17 (DNA extract)			Subject 1252	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy17
+TgCkGy18	TgCkGy18 (DNA extract)			Subject 1253	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy18
+TgCkBr93	TgCkBr93 (DNA extract)			Subject 1254	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr93
+TgCkBr94	TgCkBr94 (DNA extract)			Subject 1255	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr94
+TgCkBr107	TgCkBr107 (DNA extract)			Subject 1256	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr107
+TgCkBr108	TgCkBr108 (DNA extract)			Subject 1257	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr108
+TgCkBr26	TgCkBr26 (DNA extract)			Subject 1258	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr26
+TgCkBr69	TgCkBr69 (DNA extract)			Subject 1259	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr69
+TgCkBr48	TgCkBr48 (DNA extract)			Subject 1260	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr48
+TgCkBr88	TgCkBr88 (DNA extract)			Subject 1261	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr88
+TgCkBr155	TgCkBr155 (DNA extract)			Subject 1262	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr155
+TgCkBr159	TgCkBr159 (DNA extract)			Subject 1263	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr159
+TgCkBr141	TgCkBr141 (DNA extract)			Subject 1264	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr141
+TgCkBr169	TgCkBr169 (DNA extract)			Subject 1265	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr169
+TgCkBr173	TgCkBr173 (DNA extract)			Subject 1266	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr173
+TgCkBr54	TgCkBr54 (DNA extract)			Subject 1267	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr54
+TgCkBr156	TgCkBr156 (DNA extract)			Subject 1268	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr156
+TgCkBr186	TgCkBr186 (DNA extract)			Subject 1269	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr186
+TgCkCr1	TgCkCr1 (DNA extract)			Subject 1270	Costa Rica		Gallus gallus	blood	Toxoplasma gondii TgCkCr1
+TgCkBr61	TgCkBr61 (DNA extract)			Subject 1271	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr61
+TgCkBr16	TgCkBr16 (DNA extract)			Subject 1272	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr16
+TgCkBr109	TgCkBr109 (DNA extract)			Subject 1273	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr109
+TgCkNi35	TgCkNi35 (DNA extract)			Subject 1274	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi35
+TgCkBr143	TgCkBr143 (DNA extract)			Subject 1275	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr143
+TgCkBr37	TgCkBr37 (DNA extract)			Subject 1276	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr37
+TgCkBr177	TgCkBr177 (DNA extract)			Subject 1277	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr177
+TgCkBr166	TgCkBr166 (DNA extract)			Subject 1278	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr166
+TgCkBr130	TgCkBr130 (DNA extract)			Subject 1279	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr130
+TgCkPe3	TgCkPe3 (DNA extract)			Subject 1280	Peru		Gallus gallus	blood	Toxoplasma gondii TgCkPe3
+TgCkVe11	TgCkVe11 (DNA extract)			Subject 1281	Venezuela		Gallus gallus	blood	Toxoplasma gondii TgCkVe11
+TgCkGy34	TgCkGy34 (DNA extract)			Subject 1282	Guyana		Gallus gallus	blood	Toxoplasma gondii TgCkGy34
+TgCkBr8	TgCkBr8 (DNA extract)			Subject 1283	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr8
+TgCkBr168	TgCkBr168 (DNA extract)			Subject 1284	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr168
+TgCkBr178	TgCkBr178 (DNA extract)			Subject 1285	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr178
+TgCkBr45	TgCkBr45 (DNA extract)			Subject 1286	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr45
+TgCkBr74	TgCkBr74 (DNA extract)			Subject 1287	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr74
+TgCkNi27	TgCkNi27 (DNA extract)			Subject 1288	Nicaragua		Gallus gallus	blood	Toxoplasma gondii TgCkNi27
+TgCkBr222	TgCkBr222 (DNA extract)			Subject 1289	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr222
+TgCkBr210	TgCkBr210 (DNA extract)			Subject 1290	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr210
+TgCkBr211	TgCkBr211 (DNA extract)			Subject 1291	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr211
+TgCkBr212	TgCkBr212 (DNA extract)			Subject 1292	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr212
+TgCkBr213	TgCkBr213 (DNA extract)			Subject 1293	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr213
+TgCkBr214	TgCkBr214 (DNA extract)			Subject 1294	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr214
+TgCkBr215	TgCkBr215 (DNA extract)			Subject 1295	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr215
+TgCkBr216	TgCkBr216 (DNA extract)			Subject 1296	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr216
+TgCkBr217	TgCkBr217 (DNA extract)			Subject 1297	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr217
+TgCkBr218	TgCkBr218 (DNA extract)			Subject 1298	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr218
+TgCkBr219	TgCkBr219 (DNA extract)			Subject 1299	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr219
+TgCkBr223	TgCkBr223 (DNA extract)			Subject 1300	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr223
+TgCkBr224	TgCkBr224 (DNA extract)			Subject 1301	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr224
+TgCkBr227	TgCkBr227 (DNA extract)			Subject 1302	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr227
+TgCkBr229	TgCkBr229 (DNA extract)			Subject 1303	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr229
+TgCkBr233	TgCkBr233 (DNA extract)			Subject 1304	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr233
+TgCkBr232	TgCkBr232 (DNA extract)			Subject 1305	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr232
+TgCkBr202	TgCkBr202 (DNA extract)			Subject 1306	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr202
+TgCkBr204	TgCkBr204 (DNA extract)			Subject 1307	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr204
+TgCkBr206	TgCkBr206 (DNA extract)			Subject 1308	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr206
+TgCkBr200	TgCkBr200 (DNA extract)			Subject 1309	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr200
+TgCkBr199	TgCkBr199 (DNA extract)			Subject 1310	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr199
+TgCkBr220	TgCkBr220 (DNA extract)			Subject 1311	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr220
+TgCkBr208	TgCkBr208 (DNA extract)			Subject 1312	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr208
+TgCkBr188	TgCkBr188 (DNA extract)			Subject 1313	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr188
+TgCkBr189	TgCkBr189 (DNA extract)			Subject 1314	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr189
+TgCkBr190	TgCkBr190 (DNA extract)			Subject 1315	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr190
+TgCkBr191	TgCkBr191 (DNA extract)			Subject 1316	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr191
+TgCkBr192	TgCkBr192 (DNA extract)			Subject 1317	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr192
+TgCkBr193	TgCkBr193 (DNA extract)			Subject 1318	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr193
+TgCkBr197	TgCkBr197 (DNA extract)			Subject 1319	Brazil		Gallus gallus	blood	Toxoplasma gondii TgCkBr197
+TgCkCo4	TgCkCo4 (DNA extract)			Subject 1320	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo4
+TgCkCo17	TgCkCo17 (DNA extract)			Subject 1321	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo17
+TgCkCo22	TgCkCo22 (DNA extract)			Subject 1322	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo22
+TgCkVe6	TgCkVe6 (DNA extract)			Subject 1323	Venezuela		Gallus gallus	blood	Toxoplasma gondii TgCkVe6
+TgCkGr17	TgCkGr17 (DNA extract)			Subject 1324	Grenada		Gallus gallus	blood	Toxoplasma gondii TgCkGr17
+TgCkGr18	TgCkGr18 (DNA extract)			Subject 1325	Grenada		Gallus gallus	blood	Toxoplasma gondii TgCkGr18
+TgCkCo9	TgCkCo9 (DNA extract)			Subject 1326	Colombia		Gallus gallus	blood	Toxoplasma gondii TgCkCo9
+TgCkPe5	TgCkPe5 (DNA extract)			Subject 1327	Peru		Gallus gallus	blood	Toxoplasma gondii TgCkPe5
+TgCkGa01	TgCkGa01 (DNA extract)			Subject 1328	Guatemala		Gallus gallus	blood	Toxoplasma gondii TgCkGa01
+TgCkGa04	TgCkGa04 (DNA extract)			Subject 1329	Guatemala		Gallus gallus	blood	Toxoplasma gondii TgCkGa04
+TgDgBr11	TgDgBr11 (DNA extract)			Subject 1330	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr11
+TgDgBr3	TgDgBr3 (DNA extract)			Subject 1331	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr3
+TgDgBr7	TgDgBr7 (DNA extract)			Subject 1332	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr7
+TgDgBr4	TgDgBr4 (DNA extract)			Subject 1333	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr4
+TgDgBr12	TgDgBr12 (DNA extract)			Subject 1334	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr12
+TgDgCo4	TgDgCo4 (DNA extract)			Subject 1335	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo4
+TgDgBr1	TgDgBr1 (DNA extract)			Subject 1336	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr1
+TgDgBr13	TgDgBr13 (DNA extract)			Subject 1337	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr13
+TgDgBr19	TgDgBr19 (DNA extract)			Subject 1338	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr19
+TgDgCo9	TgDgCo9 (DNA extract)			Subject 1339	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo9
+TgDgCo12	TgDgCo12 (DNA extract)			Subject 1340	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo12
+TgDgCo15	TgDgCo15 (DNA extract)			Subject 1341	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo15
+TgDgCo18	TgDgCo18 (DNA extract)			Subject 1342	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo18
+TgDgCo3	TgDgCo3 (DNA extract)			Subject 1343	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo3
+TgDgCo19	TgDgCo19 (DNA extract)			Subject 1344	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo19
+TgDgCo1	TgDgCo1 (DNA extract)			Subject 1345	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo1
+TgDgCo2	TgDgCo2 (DNA extract)			Subject 1346	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo2
+TgDgCo10	TgDgCo10 (DNA extract)			Subject 1347	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo10
+TgDgCo20	TgDgCo20 (DNA extract)			Subject 1348	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo20
+TgDgBr8	TgDgBr8 (DNA extract)			Subject 1349	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr8
+TgDgBr9	TgDgBr9 (DNA extract)			Subject 1350	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr9
+TgDgBr10	TgDgBr10 (DNA extract)			Subject 1351	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr10
+TgDgBr5	TgDgBr5 (DNA extract)			Subject 1352	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr5
+TgDgCo17	TgDgCo17 (DNA extract)			Subject 1353	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo17
+TgDgCo5	TgDgCo5 (DNA extract)			Subject 1354	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo5
+TgDgCo6	TgDgCo6 (DNA extract)			Subject 1355	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo6
+TgDgCo11	TgDgCo11 (DNA extract)			Subject 1356	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo11
+TgDgCo8	TgDgCo8 (DNA extract)			Subject 1357	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo8
+TgDgCo14	TgDgCo14 (DNA extract)			Subject 1358	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo14
+TgDgCo16	TgDgCo16 (DNA extract)			Subject 1359	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo16
+TgDgBr6	TgDgBr6 (DNA extract)			Subject 1360	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr6
+TgDgBr17	TgDgBr17 (DNA extract)			Subject 1361	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr17
+TgDgBr14	TgDgBr14 (DNA extract)			Subject 1362	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr14
+TgDgBr15	TgDgBr15 (DNA extract)			Subject 1363	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr15
+TgDgBr2	TgDgBr2 (DNA extract)			Subject 1364	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr2
+TgDgBr16	TgDgBr16 (DNA extract)			Subject 1365	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr16
+TgDgMx2	TgDgMx2 (DNA extract)			Subject 1366	Mexico		Canis lupus familiaris	blood	Toxoplasma gondii TgDgMx2
+TgDgMx1	TgDgMx1 (DNA extract)			Subject 1367	Mexico		Canis lupus familiaris	blood	Toxoplasma gondii TgDgMx1
+TgDgMxTgDgMx3	TgDgMxTgDgMx3 (DNA extract)			Subject 1368	Mexico		Canis lupus familiaris	blood	Toxoplasma gondii TgDgMxTgDgMx3
+TgDgCo13	TgDgCo13 (DNA extract)			Subject 1369	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo13
+PBr	PBr (DNA extract)			Subject 1370	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii PBr
+TgDgBr18	TgDgBr18 (DNA extract)			Subject 1371	Brazil		Canis lupus familiaris	blood	Toxoplasma gondii TgDgBr18
+TgDgCo7	TgDgCo7 (DNA extract)			Subject 1372	Colombia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgCo7
+TgSdCr1	TgSdCr1 (DNA extract)			Subject 1373	Costa Rica		Stenella coeruleoalba	blood	Toxoplasma gondii TgSdCr1
+G622M	G622M (DNA extract)			Subject 1374	Panama		Columbidae	blood	Toxoplasma gondii G622M
+TgGtBr2	TgGtBr2 (DNA extract)			Subject 1375	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr2
+TgGtBr3	TgGtBr3 (DNA extract)			Subject 1376	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr3
+TgGtBr4	TgGtBr4 (DNA extract)			Subject 1377	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr4
+TgGtBr9	TgGtBr9 (DNA extract)			Subject 1378	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr9
+TgGtBr10	TgGtBr10 (DNA extract)			Subject 1379	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr10
+TgGtBr8	TgGtBr8 (DNA extract)			Subject 1380	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr8
+TgGtBr1	TgGtBr1 (DNA extract)			Subject 1381	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr1
+TgGtBr6	TgGtBr6 (DNA extract)			Subject 1382	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr6
+TgGtBr7	TgGtBr7 (DNA extract)			Subject 1383	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr7
+TgGtBr12	TgGtBr12 (DNA extract)			Subject 1384	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr12
+TgGtBr5	TgGtBr5 (DNA extract)			Subject 1385	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr5
+TgNmBr1	TgNmBr1 (DNA extract)			Subject 1386	Brazil		Numididae	blood	Toxoplasma gondii TgNmBr1
+534N	534N (DNA extract)			Subject 1387	Brazil		Homo sapienss	blood	Toxoplasma gondii 534N
+OH3	OH3 (DNA extract)			Subject 1388	Brazil		Homo sapienss	blood	Toxoplasma gondii OH3
+ATIH	ATIH (DNA extract)			Subject 1389	Uruguay		Homo sapienss	blood	Toxoplasma gondii ATIH
+IPP-BAT	IPP-BAT (DNA extract)			Subject 1390	Canada	French river	Homo sapienss	blood	Toxoplasma gondii IPP-BAT
+PSP-ERO_WGA	PSP-ERO_WGA (DNA extract)			Subject 1391	Guadeloupe Archipelago		Homo sapienss	blood	Toxoplasma gondii PSP-ERO_WGA
+GUY-KOE	GUY-KOE (DNA extract)			Subject 1392	Canada	French river	Homo sapienss	blood	Toxoplasma gondii GUY-KOE
+VAND	VAND (DNA extract)			Subject 1393	Canada	French river	Homo sapienss	blood	Toxoplasma gondii VAND
+477Co	477Co (DNA extract)			Subject 1394	Brazil		Homo sapienss	blood	Toxoplasma gondii 477Co
+244N	244N (DNA extract)			Subject 1395	Brazil		Homo sapienss	blood	Toxoplasma gondii 244N
+262N	262N (DNA extract)			Subject 1396	Brazil		Homo sapienss	blood	Toxoplasma gondii 262N
+331N	331N (DNA extract)			Subject 1397	Brazil		Homo sapienss	blood	Toxoplasma gondii 331N
+384N	384N (DNA extract)			Subject 1398	Brazil		Homo sapienss	blood	Toxoplasma gondii 384N
+581N	581N (DNA extract)			Subject 1399	Brazil		Homo sapienss	blood	Toxoplasma gondii 581N
+692N	692N (DNA extract)			Subject 1400	Brazil		Homo sapienss	blood	Toxoplasma gondii 692N
+704N	704N (DNA extract)			Subject 1401	Brazil		Homo sapienss	blood	Toxoplasma gondii 704N
+527N	527N (DNA extract)			Subject 1402	Brazil		Homo sapienss	blood	Toxoplasma gondii 527N
+176Co	176Co (DNA extract)			Subject 1403	Brazil		Homo sapienss	blood	Toxoplasma gondii 176Co
+539O	539O (DNA extract)			Subject 1404	Brazil		Homo sapienss	blood	Toxoplasma gondii 539O
+571O	571O (DNA extract)			Subject 1405	Brazil		Homo sapienss	blood	Toxoplasma gondii 571O
+441N	441N (DNA extract)			Subject 1406	Brazil		Homo sapienss	blood	Toxoplasma gondii 441N
+508N	508N (DNA extract)			Subject 1407	Brazil		Homo sapienss	blood	Toxoplasma gondii 508N
+358N	358N (DNA extract)			Subject 1408	Brazil		Homo sapienss	blood	Toxoplasma gondii 358N
+607O	607O (DNA extract)			Subject 1409	Brazil		Homo sapienss	blood	Toxoplasma gondii 607O
+616O	616O (DNA extract)			Subject 1410	Brazil		Homo sapienss	blood	Toxoplasma gondii 616O
+622O	622O (DNA extract)			Subject 1411	Brazil		Homo sapienss	blood	Toxoplasma gondii 622O
+180N	180N (DNA extract)			Subject 1412	Brazil		Homo sapienss	blood	Toxoplasma gondii 180N
+GUY-MAT	GUY-MAT (DNA extract)			Subject 1413	Canada	French river	Homo sapienss	blood	Toxoplasma gondii GUY-MAT
+GUY-DOS	GUY-DOS (DNA extract)			Subject 1414	Canada	French river	Homo sapienss	blood	Toxoplasma gondii GUY-DOS
+RUB	RUB (DNA extract)			Subject 1415	Canada	French river	Homo sapienss	blood	Toxoplasma gondii RUB
+GUY-BAS1	GUY-BAS1 (DNA extract)			Subject 1416	Canada	French river	Homo sapienss	blood	Toxoplasma gondii GUY-BAS1
+GUY-2004-JAG1	GUY-2004-JAG1 (DNA extract)			Subject 1417	Canada	French river	Panthera onca	blood	Toxoplasma gondii GUY-2004-JAG1
+TgJagBr1	TgJagBr1 (DNA extract)			Subject 1418	Brazil		Puma yagouaroundi	blood	Toxoplasma gondii TgJagBr1
+TgRhHmBr1	TgRhHmBr1 (DNA extract)			Subject 1419	Brazil		Alouatta belcebul	blood	Toxoplasma gondii TgRhHmBr1
+ENVL-MAC	ENVL-MAC (DNA extract)			Subject 1420	Barbados		Platyrrhini	blood	Toxoplasma gondii ENVL-MAC
+TgMmBr03	TgMmBr03 (DNA extract)			Subject 1421	Brazil		Mus	blood	Toxoplasma gondii TgMmBr03
+TgOpBr1	TgOpBr1 (DNA extract)			Subject 1422	Brazil		Didelphis marsupialis	blood	Toxoplasma gondii TgOpBr1
+S11	S11 (DNA extract)			Subject 1423	Brazil		Sus scrofa	blood	Toxoplasma gondii S11
+TgPigeonMx1	TgPigeonMx1 (DNA extract)			Subject 1424	Mexico		Columbidae	blood	Toxoplasma gondii TgPigeonMx1
+TgRabbitBr2	TgRabbitBr2 (DNA extract)			Subject 1425	Brazil		Oryctolagus cuniculus	blood	Toxoplasma gondii TgRabbitBr2
+TgRabbitBr1	TgRabbitBr1 (DNA extract)			Subject 1426	Brazil		Oryctolagus cuniculus	blood	Toxoplasma gondii TgRabbitBr1
+TgRrBr09	TgRrBr09 (DNA extract)			Subject 1427	Brazil		Rattus	blood	Toxoplasma gondii TgRrBr09
+TgRtBr1	TgRtBr1 (DNA extract)			Subject 1428	Brazil		Rattus	blood	Toxoplasma gondii TgRtBr1
+TgOvBr2	TgOvBr2 (DNA extract)			Subject 1429	Brazil		Ovis aries	blood	Toxoplasma gondii TgOvBr2
+TgOvBr5	TgOvBr5 (DNA extract)			Subject 1430	Brazil		Ovis aries	blood	Toxoplasma gondii TgOvBr5
+TgShBr8	TgShBr8 (DNA extract)			Subject 1431	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr8
+TgShBr9	TgShBr9 (DNA extract)			Subject 1432	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr9
+TgShBr10	TgShBr10 (DNA extract)			Subject 1433	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr10
+TgShBr11	TgShBr11 (DNA extract)			Subject 1434	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr11
+TgShBr15	TgShBr15 (DNA extract)			Subject 1435	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr15
+TgOvBr3	TgOvBr3 (DNA extract)			Subject 1436	Brazil		Ovis aries	blood	Toxoplasma gondii TgOvBr3
+CASTELLS	CASTELLS (DNA extract)			Subject 1437	Uruguay		Ovis aries	blood	Toxoplasma gondii CASTELLS
+TgOvBr1	TgOvBr1 (DNA extract)			Subject 1438	Brazil		Ovis aries	blood	Toxoplasma gondii TgOvBr1
+TgOvBr6	TgOvBr6 (DNA extract)			Subject 1439	Brazil		Ovis aries	blood	Toxoplasma gondii TgOvBr6
+TgOvBr4	TgOvBr4 (DNA extract)			Subject 1440	Brazil		Ovis aries	blood	Toxoplasma gondii TgOvBr4
+TgShBr6	TgShBr6 (DNA extract)			Subject 1441	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr6
+TgShBr7	TgShBr7 (DNA extract)			Subject 1442	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr7
+TgShBr16	TgShBr16 (DNA extract)			Subject 1443	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr16
+TgOvBr12	TgOvBr12 (DNA extract)			Subject 1444	Brazil		Ovis aries	blood	Toxoplasma gondii TgOvBr12
+TgShBr1	TgShBr1 (DNA extract)			Subject 1445	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr1
+TgShBr2	TgShBr2 (DNA extract)			Subject 1446	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr2
+TgShBr3	TgShBr3 (DNA extract)			Subject 1447	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr3
+TgShBr4	TgShBr4 (DNA extract)			Subject 1448	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr4
+TgShBr12	TgShBr12 (DNA extract)			Subject 1449	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr12
+TgShBr13	TgShBr13 (DNA extract)			Subject 1450	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr13
+TgShBr14	TgShBr14 (DNA extract)			Subject 1451	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr14
+TgShBr5	TgShBr5 (DNA extract)			Subject 1452	Brazil		Ovis aries	blood	Toxoplasma gondii TgShBr5
+TgOvBr7	TgOvBr7 (DNA extract)			Subject 1453	Brazil		Ovis aries	blood	Toxoplasma gondii TgOvBr7
+TgOvBr8	TgOvBr8 (DNA extract)			Subject 1454	Brazil		Ovis aries	blood	Toxoplasma gondii TgOvBr8
+TgRsCr1	TgRsCr1 (DNA extract)			Subject 1455	Costa Rica		Ramphastidae	blood	Toxoplasma gondii TgRsCr1

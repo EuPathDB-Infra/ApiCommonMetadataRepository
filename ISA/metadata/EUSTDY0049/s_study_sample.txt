@@ -1,13 +1,13 @@
-Name	Description	SourceMTOverride	SampleMTOverride	LifeCycleStage	Antibody	Genotype	Replicate	Strain	Treatment	CellType
-GSM338429-TBP-replicate1				promastigotes	TBP		replicate1			
-GSM338430-SNAP50-replicate1				promastigotes	SNAP50		replicate1			
-GSM338431-acetylH3-replicate1				promastigotes	acetylH3		replicate1			
-GSM338432-acetylH3-replicate2				promastigotes	acetylH3		replicate2			
-GSM338433-acetylH3-early_log_promastigotes				early-log promastigotes	acetylH3					
-GSM338434-acetylH3-stationary_promastigotes				stationary promastigotes	acetylH3					
-GSM338435-SNAP50-replicate2				promastigotes	SNAP50		replicate2			
-GSM338436-SNAP50-replicate3				promastigotes	SNAP50		replicate3			
-GSM338437-TBP-replicate2				promastigotes	TBP		replicate2			
-GSM338438-TBP-replicate3				promastigotes	TBP		replicate3			
-GSM338439-TBP-early_log_promastigotes				early-log promastigotes	TBP					
-GSM338440-TBP-stationary_promastigotes				stationary promastigotes	TBP					
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite lifecycle stage]	Antibody	Characteristics[Replicate]	Characteristics[specimen]
+GSM338429-TBP-replicate1				promastigotes	TBP	Replicate 1	cell specimen
+GSM338430-SNAP50-replicate1				promastigotes	SNAP50	Replicate 1	cell specimen
+GSM338431-acetylH3-replicate1				promastigotes	acetylH3	Replicate 1	cell specimen
+GSM338432-acetylH3-replicate2				promastigotes	acetylH3	Replicate 2	cell specimen
+GSM338433-acetylH3-early_log_promastigotes				early-log promastigotes	acetylH3		cell specimen
+GSM338434-acetylH3-stationary_promastigotes				stationary promastigotes	acetylH3		cell specimen
+GSM338435-SNAP50-replicate2				promastigotes	SNAP50	Replicate 2	cell specimen
+GSM338436-SNAP50-replicate3				promastigotes	SNAP50	Replicate 3	cell specimen
+GSM338437-TBP-replicate2				promastigotes	TBP	Replicate 2	cell specimen
+GSM338438-TBP-replicate3				promastigotes	TBP	Replicate 3	cell specimen
+GSM338439-TBP-early_log_promastigotes				early-log promastigotes	TBP		cell specimen
+GSM338440-TBP-stationary_promastigotes				stationary promastigotes	TBP		cell specimen

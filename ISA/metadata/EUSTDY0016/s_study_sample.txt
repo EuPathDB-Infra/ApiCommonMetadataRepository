@@ -1,2 +1,2 @@
-Sample Name	Description	Material Type	Term Source REF	Term Accession Number	Protocol REF	Extract Name	Material Type	Term Source REF	Term Accession Number
-EUSTDY0016-1.1	Sample 7821202_ChIP-005HA-ab9110	sample from organism	OBI	OBI_0000671	extraction	7821202_ChIP-005HA-ab9110	DNA extract	OBI	OBI_0001051
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[specimen]	Characteristics[parasite organism]
+7821202_ChIP-005HA-ab9110_smoothed	Sample 7821202_ChIP-005HA-ab9110			cell specimen	P. falciparum 3D7

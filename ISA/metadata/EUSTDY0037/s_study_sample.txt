@@ -1,3 +1,3 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[PATO_0000011]	Characteristics[GAZ_00000448]	Characteristics[OBI_0100026]	Characteristics[PATO_0000047]	Characteristics[Source Disease]	Characteristics[OPL_0000232]	Characteristics[Environmental Feature]
-MON-37CL	Sri Lankan Leishmania donovani causing cutaneous leishmaniasis			28 year	http://purl.obolibrary.org/obo/GAZ_00003924	NCBITaxon_9606	http://data.bioontology.org/ontologies/PATO_0000384	DOID_9111	Leishmania donovani MON-37CL	Skin lesion on nose
-MON-37VL	Sri Lankan Leishmania donovani causing visceral leishmaniasis			53 year	http://purl.obolibrary.org/obo/GAZ_00003924	NCBITaxon_9606	http://data.bioontology.org/ontologies/PATO_0000384	DOID_9146	Leishmania donovani MON-37VL	Bone marrow
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[age]	Characteristics[country]	Characteristics[organism]	Characteristics[sex]	Characteristics[health_status]	Characteristics[parasite organism]	Characteristics[specimen]
+MON-37CL	Sri Lankan Leishmania donovani causing cutaneous leishmaniasis			28 year	Sri Lanka	human	male	cutaneous leishmaniasis	Leishmania donovani MON-37CL	skin lesion on nose
+MON-37VL	Sri Lankan Leishmania donovani causing visceral leishmaniasis			53 year	Sri Lanka	human	male	visceral leishmaniasis	Leishmania donovani MON-37VL	bone marrow

@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[GAZ_00000448]	Characteristics[OBI_0100026]	Characteristics[OPL_0000232]
-HhCatGer041	Illumina genome sequence Hammondia hammondi isolate HhCatGer041, submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002646	NCBITaxon_9685	Hammondia hammondi HhCatGer041
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Characteristics[parasite organism]	Characteristics[specimen]
+HhCatGer041	Illumina genome sequence Hammondia hammondi isolate HhCatGer041, submitted to SRA			Germany	Felis catus	Hammondia hammondi HhCatGer041	specimen from organism

@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[OPL_0000232]
-V1	Illumina Genome paired end sequencing of Leishmania major strain Friedlin isolate V1			Leishmania major Friedlin
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]
+V1	Illumina Genome paired end sequencing of Leishmania major strain Friedlin isolate V1			Leishmania major Friedlin	specimen from organism

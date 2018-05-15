@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[OPL_0000232]
-gambiense	SNPs based on the Tbgambiense sequence from George Cross.			Trypanosoma brucei gambiense
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]
+gambiense	SNPs based on the Tbgambiense sequence from George Cross.			Trypanosoma brucei gambiense	specimen from organism

@@ -1,2 +1,0 @@
-Extract Name	Protocol Ref	Protocol Ref	Assay Name	Protocol Ref	Raw Data File	Protocol Ref	Normalization Name	Protocol Ref	Data Transformation Name
-7821202_ChIP-005HA-ab9110	labeling	nucleic acid hybridization	7821202_ChIP-005HA-ab9110 ChIP-chip Assay	data collection	7821202_ChIP-005HA-ab9110 (Raw data)	data transformation	7821202_ChIP-005HA-ab9110_smoothed (ChIP-chip)	data transformation	7821202_ChIP-005HA-ab9110_peaks (ChIP-chip)

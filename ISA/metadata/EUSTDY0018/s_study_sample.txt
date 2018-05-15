@@ -1,14 +1,14 @@
-Sample Name	Description	Material Type	Term Source REF	Term Accession Number	Characteristics [EFO_0000683]	Characteristics [OBI_0001305]	Protocol REF	Extract Name	Material Type	Term Source REF	Term Accession Number
-EUSTDY0018-1.1	14070B_3D7_H3K9Ac_sir2KO	sample from organism	OBI	OBI_0000671	2	sir2KO	extraction	14070B_3D7_H3K9Ac_sir2KO	DNA extract	OBI	OBI_0001051
-EUSTDY0018-1.2	14070B_3D7_H3K9me3_sir2KO	sample from organism	OBI	OBI_0000671	2	sir2KO	extraction	14070B_3D7_H3K9me3_sir2KO	DNA extract	OBI	OBI_0001051
-EUSTDY0018-1.3	9435A_3D7_H3K4me3_wt	sample from organism	OBI	OBI_0000671	2	wild_type	extraction	9435A_3D7_H3K4me3_wt	DNA extract	OBI	OBI_0001051
-EUSTDY0018-1.4	9435A_3D7_H3K9Ac_sir2KO	sample from organism	OBI	OBI_0000671	1	sir2KO	extraction	9435A_3D7_H3K9Ac_sir2KO	DNA extract	OBI	OBI_0001051
-EUSTDY0018-1.5	9435A_3D7_H3K9Ac_wt	sample from organism	OBI	OBI_0000671	2	wild_type	extraction	9435A_3D7_H3K9Ac_wt	DNA extract	OBI	OBI_0001051
-EUSTDY0018-1.6	9435A_3D7_H3K9me3_sir2KO	sample from organism	OBI	OBI_0000671	1	sir2KO	extraction	9435A_3D7_H3K9me3_sir2KO	DNA extract	OBI	OBI_0001051
-EUSTDY0018-1.7	9435B_3D7_H3K4me3_wt	sample from organism	OBI	OBI_0000671	1	wild_type	extraction	9435B_3D7_H3K4me3_wt	DNA extract	OBI	OBI_0001051
-EUSTDY0018-1.8	9435B_3D7_H3K9Ac_wt	sample from organism	OBI	OBI_0000671	1	wild_type	extraction	9435B_3D7_H3K9Ac_wt	DNA extract	OBI	OBI_0001051
-EUSTDY0018-1.9	9435B_3D7_H3K9me3_wt	sample from organism	OBI	OBI_0000671	3	wild_type	extraction	9435B_3D7_H3K9me3_wt	DNA extract	OBI	OBI_0001051
-EUSTDY0018-1.10	9435B_3D7_H4K20me3_wt	sample from organism	OBI	OBI_0000671	2	wild_type	extraction	9435B_3D7_H4K20me3_wt	DNA extract	OBI	OBI_0001051
-EUSTDY0018-1.11	9981A_3D7_H3K9me3_wt	sample from organism	OBI	OBI_0000671	1	wild_type	extraction	9981A_3D7_H3K9me3_wt	DNA extract	OBI	OBI_0001051
-EUSTDY0018-1.12	9981A_3D7_H4K20me3_wt	sample from organism	OBI	OBI_0000671	1	wild_type	extraction	9981A_3D7_H4K20me3_wt	DNA extract	OBI	OBI_0001051
-EUSTDY0018-1.13	9981_3D7_H3K9me3_wt	sample from organism	OBI	OBI_0000671	2	wild_type	extraction	9981_3D7_H3K9me3_wt	DNA extract	OBI	OBI_0001051
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [specimen]	Characteristics [parasite organism]	Characteristics [Replicate]	Characteristics [parasite genotype]
+14070B_3D7_H3K9Ac_sir2KO_smoothed	14070B_3D7_H3K9Ac_sir2KO			cell specimen	P. falciparum 3D7	Replicate 2	sir2KO
+14070B_3D7_H3K9me3_sir2KO_smoothed	14070B_3D7_H3K9me3_sir2KO			cell specimen	P. falciparum 3D7	Replicate 2	sir2KO
+9435A_3D7_H3K4me3_wt_smoothed	9435A_3D7_H3K4me3_wt			cell specimen	P. falciparum 3D7	Replicate 2	wild type
+9435A_3D7_H3K9Ac_sir2KO_smoothed	9435A_3D7_H3K9Ac_sir2KO			cell specimen	P. falciparum 3D7	Replicate 1	sir2KO
+9435A_3D7_H3K9Ac_wt_smoothed	9435A_3D7_H3K9Ac_wt			cell specimen	P. falciparum 3D7	Replicate 2	wild type
+9435A_3D7_H3K9me3_sir2KO_smoothed	9435A_3D7_H3K9me3_sir2KO			cell specimen	P. falciparum 3D7	Replicate 1	sir2KO
+9435B_3D7_H3K4me3_wt_smoothed	9435B_3D7_H3K4me3_wt			cell specimen	P. falciparum 3D7	Replicate 1	wild type
+9435B_3D7_H3K9Ac_wt_smoothed	9435B_3D7_H3K9Ac_wt			cell specimen	P. falciparum 3D7	Replicate 1	wild type
+9435B_3D7_H3K9me3_wt_smoothed	9435B_3D7_H3K9me3_wt			cell specimen	P. falciparum 3D7	Replicate 3	wild type
+9435B_3D7_H4K20me3_wt_smoothed	9435B_3D7_H4K20me3_wt			cell specimen	P. falciparum 3D7	Replicate 2	wild type
+9981A_3D7_H3K9me3_wt_smoothed	9981A_3D7_H3K9me3_wt			cell specimen	P. falciparum 3D7	Replicate 1	wild type
+9981A_3D7_H4K20me3_wt_smoothed	9981A_3D7_H4K20me3_wt			cell specimen	P. falciparum 3D7	Replicate 1	wild type
+9981_3D7_H3K9me3_wt_smoothed	9981_3D7_H3K9me3_wt			cell specimen	P. falciparum 3D7	Replicate 2	wild type

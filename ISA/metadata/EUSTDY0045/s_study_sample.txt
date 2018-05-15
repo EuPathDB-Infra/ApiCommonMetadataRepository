@@ -1,3 +1,3 @@
-Name	Description	SourceMTOverride	SampleMTOverride	LifeCycleStage	Antibody	Genotype	Replicate	Strain	Treatment	CellType
-RH_H3K4me1_Rep1					H3K4me1		1	RH		
-RH_H3K4me1_Rep2					H3K4me1		2	RH		
+Name	Description	SourceMTOverride	SampleMTOverride	Antibody	Characteristics[Replicate]	Characteristics[parasite organism]	Characteristics[specimen]
+RH_H3K4me1_Rep1				H3K4me1	Replicate 1	Toxoplasma gondii RH	cell specimen
+RH_H3K4me1_Rep2				H3K4me1	Replicate 2	Toxoplasma gondii RH	cell specimen

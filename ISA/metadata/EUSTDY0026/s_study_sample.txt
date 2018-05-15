@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[OBI_0100026]	Characteristics[OPL_0000232]
-A1163				NCBITaxon_9606	Aspergillus fumigatus A1163
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[fungus organism]	Characteristics[specimen]
+A1163				human	Aspergillus fumigatus A1163	specimen from organism

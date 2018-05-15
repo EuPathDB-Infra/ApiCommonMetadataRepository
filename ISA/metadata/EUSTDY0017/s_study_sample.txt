@@ -1,5 +1,5 @@
-Sample Name	Description	Material Type	Term Source REF	Term Accession Number	Characteristics [UBERON_0000105]	Term Source REF	Term Accession Number	Protocol REF	Extract Name	Material Type	Term Source REF	Term Accession Number
-EUSTDY0017-1.1	H3K9ac_troph	sample from organism	OBI	OBI_0000671	trophozoite	OPL	OPL_0000057	extraction	H3K9ac_troph	DNA extract	OBI	OBI_0001051
-EUSTDY0017-1.2	H4_ring	sample from organism	OBI	OBI_0000671	ring	OPL	OPL_0000140	extraction	H4_ring	DNA extract	OBI	OBI_0001051
-EUSTDY0017-1.3	H4_schizont	sample from organism	OBI	OBI_0000671	schizont	OPL	OPL_0000084	extraction	H4_schizont	DNA extract	OBI	OBI_0001051
-EUSTDY0017-1.4	H4_trophozoite	sample from organism	OBI	OBI_0000671	trophozoite	OPL	OPL_0000057	extraction	H4_trophozoite	DNA extract	OBI	OBI_0001051
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [specimen]	Characteristics [parasite organism]	Characteristics [parasite lifecycle stage]
+H3K9ac_troph_smoothed	H3K9ac_troph			cell specimen	P. falciparum 3D7	trophozoite
+H4_ring_smoothed	H4_ring			cell specimen	P. falciparum 3D7	ring
+H4_schizont_smoothed	H4_schizont			cell specimen	P. falciparum 3D7	schizont
+H4_trophozoite_smoothed	H4_trophozoite			cell specimen	P. falciparum 3D7	trophozoite

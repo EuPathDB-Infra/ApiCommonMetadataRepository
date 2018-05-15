@@ -1,7 +1,7 @@
 <ontologymappings>
 
   <ontologySource>OBI</ontologySource>
-  <ontologySource>ICEMR</ontologySource>
+  <ontologySource>OMP</ontologySource>
   <ontologySource>EuPath</ontologySource>
   <ontologySource>GAZ</ontologySource>
   <ontologySource>ECO</ontologySource>
@@ -14,46 +14,13 @@
   <ontologySource>EFO</ontologySource>
   <ontologySource>UO</ontologySource>
 
+<!-- Material Entity Types -->
 
-  <!-- Protocol Params -->
-  <ontologyTerm source_id="OBI_0001619" type="protocolParameter" parent="specimen collection">
-    <name>date_sample_collected</name>
-    <name>Collection date</name>
-    <name>collection_timestamp</name>
-    <name>Specimen Collection Date</name>
-    <name>Characteristics [date_sample_collected]</name>
-    <function>formatDate</function> 
-  </ontologyTerm>
-  <ontologyTerm source_id="UO_0000036" type="protocolParameter" parent="specimen collection">
-    <name>Year</name>
-    <name>Specimen Collection Year</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001895" type="protocolParameter" parent="specimen collection">
-    <name>specimen collector</name>
-    <name>Characteristics [specimen collector]</name>
-  </ontologyTerm>
-
-  <ontologyTerm source_id="EFO_0000264" type="protocolParameter" parent="sample preparation for assay">
-    <name>Antibody</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="CHEBI_23888" type="protocolParameter" parent="administration of material to specimen">
-        <name>Treatment</name>
-  </ontologyTerm>
-
-  <!-- Material Entity Types -->
   <ontologyTerm source_id="GO_0018995" type="materialType">
     <name>host</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001876" type="materialType">
     <name>cell culture</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0000655" type="materialType">
-    <name>blood specimen</name>
-    <name>blood</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0002503" type="materialType">
-    <name>feces</name>
-    <name>feces specimen</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0000671" type="materialType">
     <name>sample from organism</name>
@@ -64,138 +31,208 @@
   <ontologyTerm source_id="OBI_0000894" type="materialType">
     <name>protein extract</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0002512" type="materialType">
-    <name>Bone marrow</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000500" type="materialType">
-    <name>Bronchial wash</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000501" type="materialType">
-    <name>Bronchoalveolar lavage</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0002502" type="materialType">
-    <name>Cerebral spinal fluid</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0002534" type="materialType">
-    <name>Lung</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000502" type="materialType">
-    <name>Lung aspirate</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000503" type="materialType">
-    <name>Lung lesion</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000504" type="materialType">
-    <name>Lung mold bronch</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000505" type="materialType">
-    <name>Lung nodule</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_1110041" type="materialType">
-    <name>Lymph node</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0002515" type="materialType">
-    <name>Pleural fluid</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0002508" type="materialType">
-    <name>Sputum</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000506" type="materialType">
-    <name>TGH</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000507" type="materialType">
-    <name>TGH mold iso</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000511" type="materialType">
-    <name>lesion on arm specimen</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0100051" type="materialType">
-    <name>specimen</name>
+
+<!-- Protocols -->
+
+  <ontologyTerm source_id="OBI_0000995" type="protocol">
+    <name>administration of material to specimen</name>
   </ontologyTerm>
 
-  <!-- Protocols -->
-
-  <ontologyTerm source_id="OBI_0000073" type="protocol">
-    <name>sample preparation for assay</name>
+  <ontologyTerm source_id="OBI_1110021" type="protocol">
+    <name>infection process</name>
   </ontologyTerm>
+
   <ontologyTerm source_id="OBI_0000659" type="protocol">
     <name>specimen collection</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="OBI_0302884" type="protocol">
+    <name>extraction</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0000257" type="protocol">
     <name>DNA extraction</name>
   </ontologyTerm>
+
+  <ontologyTerm source_id="OBI_0000073" type="protocol">
+    <name>sample preparation for assay</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0600038" type="protocol">
+    <name>labeling</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="OBI_0302903" type="protocol">
+    <name>nucleic acid hybridization</name>
+  </ontologyTerm>
   <ontologyTerm source_id="OBI_0000626" type="protocol">
     <name>DNA Sequencing</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0302884" type="protocol">
-    <name>extraction</name>
+  <ontologyTerm source_id="OBI_0000661" type="protocol">
+    <name>enzyme-linked immunosorbent assay</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0000743" type="protocol">
     <name>immune response assay</name>
   </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000438" type="protocol">
+    <name>DNA Sequence variation detection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001248" type="protocol">
+    <name>ChIP-chip assay</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0600055" type="protocol">
+    <name>RFLP assay</name>
+  </ontologyTerm>
+
   <ontologyTerm source_id="OBI_0600013" type="protocol">
     <name>data collection</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0200000" type="protocol">
     <name>data transformation</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OGMS_0000090" type="protocol">
-    <name>treatment</name>
+
+<!-- Protocol Params -->
+  <ontologyTerm source_id="OBI_0001619" type="protocolParameter" parent="specimen collection">
+    <name>Collection date</name>
+    <name>Specimen Collection Date</name>
+    <function>formatDate</function> 
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0000995" type="protocol">
-    <name>administration of material to specimen</name>
+  <ontologyTerm source_id="EUPATH_0000753" type="protocolParameter" parent="specimen collection">
+    <name>Collection Year</name>
+    <name>Specimen Collection Year</name>
   </ontologyTerm>
-  <ontologyTerm source_id="IDO_0000586" type="protocol">
-    <name>infection</name>
+  <ontologyTerm source_id="OBI_0001895" type="protocolParameter" parent="specimen collection">
+    <name>specimen collector</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0600038" type="protocol">
-    <name>labeling</name>
+
+  <ontologyTerm source_id="EFO_0000264" type="protocolParameter" parent="sample preparation for assay">
+    <name>Antibody</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0302903" type="protocol">
-    <name>nucleic acid hybridization</name>
+
+  <ontologyTerm source_id="CHEBI_23888" type="protocolParameter" parent="administration of material to specimen">
+        <name>Compound</name>
   </ontologyTerm>
 
 
+<!-- Characteristics of Source-->
 
-  <!-- Characteristics -->
-
-  <ontologyTerm source_id="OBI_0001479" type="characteristicQualifier" parent="Sample">
-    <name>specimen from organism</name>
+  <ontologyTerm source_id="OBI_0001141" type="characteristicQualifier" parent="Source">
+    <name>Organism ID</name>
   </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0000105" type="characteristicQualifier" parent="Source">
-    <name>LifeCycleStage</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EFO_0000513" type="characteristicQualifier" parent="Source">
-    <name>Genotype</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EFO_0000683" type="characteristicQualifier" parent="Source">
-    <name>Replicate</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="PATO_0001034" type="characteristicQualifier" parent="Source">
-    <name>Strain</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EFO_0000324" type="characteristicQualifier" parent="Source">
-    <name>CellType</name>
+  <ontologyTerm source_id="OBI_0100026" type="characteristicQualifier" parent="Source">
+    <name>organism</name>
+    <function>valueIsOntologyTerm</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000499" type="characteristicQualifier" parent="Source">
     <name>lab host</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000512" type="characteristicQualifier" parent="Source">
+    <name>host_common_name</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="PATO_0000047" type="characteristicQualifier" parent="Source">
+    <name>sex</name>
+    <name>gender</name>
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
+    <name>age</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000113" type="characteristicQualifier" parent="Source">
+    <name>age at visit</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="PATO_0001415" type="characteristicQualifier" parent="Source">
+    <name>morbidity</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OGMS_0000073" type="characteristicQualifier" parent="Source">
+    <name>health_status</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000110" type="characteristicQualifier" parent="Source">
+    <name>body_temperature</name>    
+    <name>temperature</name>
+  </ontologyTerm>
+
   <ontologyTerm source_id="FLU_0001025" type="characteristicQualifier" parent="Source">
     <name>passage history</name>
     <name>passage history record</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001901" type="characteristicQualifier" parent="Sample">
-    <name>alternative sample ID</name>
+
+  <ontologyTerm source_id="OGMS_0000090" type="characteristicQualifier" parent="Source">
+    <name>treatment</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000291" type="characteristicQualifier" parent="Source">
+    <name>treatment outcome</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="IDO_0000586" type="characteristicQualifier" parent="Source">
+    <name>infection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000751" type="characteristicQualifier" parent="Source">
+    <name>time_to_reinfection</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000750" type="characteristicQualifier" parent="Source">
+    <name>time_to_first_malaria_dx</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000749" type="characteristicQualifier" parent="Source">
+    <name>end_of_observation_period</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000276" type="characteristicQualifier" parent="Source">
+    <name>parasite clearance half life</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000277" type="characteristicQualifier" parent="Source">
+    <name>parasite clearance rate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000278" type="characteristicQualifier" parent="Source">
+    <name>parasite clearance time</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000290" type="characteristicQualifier" parent="Source">
+    <name>parasitemia start time</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000745" type="characteristicQualifier" parent="Source">
+    <name>time_to_onset</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000048" type="characteristicQualifier" parent="Source">
+    <name>microscopy_result</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000537" type="characteristicQualifier" parent="Source">
+    <name>parasite_density_by_microscope</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000754" type="characteristicQualifier" parent="Source">
+    <name>blood_smear_summary</name>    
+  </ontologyTerm>
+
+  <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
+    <name>country</name>
+    <name>geographic location</name>
+    <name>GeographicLocation</name>    
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_00000856" type="characteristicQualifier" parent="Source">
+    <name>city</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001620" type="characteristicQualifier" parent="Source">
+    <name>latitude coordinate measurement datum</name>
+    <name>latitude</name>
+    <name>gps_latitude</name> 
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001621" type="characteristicQualifier" parent="Source">
+    <name>longitude coordinate measurement datum</name>
+    <name>longitude</name>
+    <name>gps_longitude</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_00000176" type="characteristicQualifier" parent="Source">
+    <name>elevation</name>
+  </ontologyTerm>
+
+<!-- only used in ICEMR protein array -->
   <ontologyTerm source_id="HP_0001892" type="characteristicQualifier" parent="Source">
     <name>abnormal_bleeding</name>
   </ontologyTerm>
   <ontologyTerm source_id="DOID_11394" type="characteristicQualifier" parent="Source">
     <name>ards</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000110" type="characteristicQualifier" parent="Source">
-    <name>body_temperature</name>    
-    <name>temperature</name>
   </ontologyTerm>
   <ontologyTerm source_id="DOID_14069" type="characteristicQualifier" parent="Source">
     <name>cerebral</name>    
@@ -248,20 +285,11 @@
   <ontologyTerm source_id="EUPATH_0000529" type="characteristicQualifier" parent="Source">
     <name>gametocytes_detection_method</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001620" type="characteristicQualifier" parent="Source">
-    <name>gps_latitude</name>    
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000530" type="characteristicQualifier" parent="Source">
     <name>gps_location</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001621" type="characteristicQualifier" parent="Source">
-    <name>gps_longitude</name>    
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000530" type="characteristicQualifier" parent="Source">
     <name>gps_other</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="OGMS_0000073" type="characteristicQualifier" parent="Source">
-    <name>health_status</name>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000047" type="characteristicQualifier" parent="Source">
     <name>hemoglobin_level</name>    
@@ -290,9 +318,6 @@
   <ontologyTerm source_id="EUPATH_0000521" type="characteristicQualifier" parent="Source">
     <name>malariae</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000048" type="characteristicQualifier" parent="Source">
-    <name>microscopy_result</name>    
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000529" type="characteristicQualifier" parent="Source">
     <name>other_method</name>    
   </ontologyTerm>
@@ -301,9 +326,6 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000522" type="characteristicQualifier" parent="Source">
     <name>ovale</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000537" type="characteristicQualifier" parent="Source">
-    <name>parasite_density_by_microscope</name>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000551" type="characteristicQualifier" parent="Source">
     <name>P_vivax_parasite_density_by_microscope</name>    
@@ -353,9 +375,6 @@
   <ontologyTerm source_id="HP_0002098" type="characteristicQualifier" parent="Source">
     <name>respiratory_distress</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001616" type="characteristicQualifier" parent="Source">
-    <name>sample_id</name>    
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000543" type="characteristicQualifier" parent="Source">
     <name>sample_origin</name>    
   </ontologyTerm>
@@ -377,145 +396,85 @@
   <ontologyTerm source_id="EUPATH_0000544" type="characteristicQualifier" parent="Source">
     <name>temperature_measurement_method</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000754" type="characteristicQualifier" parent="Source">
-    <name>blood_smear_summary</name>    
-  </ontologyTerm> 
-  <ontologyTerm source_id="EUPATH_0000751" type="characteristicQualifier" parent="Source">
-    <name>time_to_reinfection</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000750" type="characteristicQualifier" parent="Source">
-    <name>time_to_first_malaria_dx</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000749" type="characteristicQualifier" parent="Source">
-    <name>end_of_observation_period</name>    
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000545" type="characteristicQualifier" parent="Source">
     <name>type_of_rdt</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000524" type="characteristicQualifier" parent="Source">
     <name>vivax</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OGMS_0000031" type="characteristicQualifier" parent="Source">
-    <name>Source Disease</name>
-    <name>Disease</name>  <!-- this is the term name -->
+  <ontologyTerm source_id="OMP_0000274" type="characteristicQualifier" parent="Source">
+    <name>antimicrobial agent resistance phenotype</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="ENVO_00010483" type="characteristicQualifier" parent="Source">
-    <name>Environmental Feature</name>
-    <name>environmental material</name> <!-- this is the term name -->
+<!-- Characteristics of Sample -->
+
+  <ontologyTerm source_id="OBI_0100051" type="characteristicQualifier" parent="Sample">
+    <name>specimen</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="EUPATH_0000289" type="characteristicQualifier" parent="Extract">
+  <ontologyTerm source_id="OBI_0001901" type="characteristicQualifier" parent="Sample">
+    <name>alternative sample ID</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="NCIT_C14209" type="characteristicQualifier" parent="Sample">
+    <name>fungus organism</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OPL_0000232" type="characteristicQualifier" parent="Sample">
+    <name>parasite organism</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OPL_0000181" type="characteristicQualifier" parent="Sample">
+    <name>parasite lifecycle stage</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000752" type="characteristicQualifier" parent="Sample">
+    <name>GP60 genotype</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000572" type="characteristicQualifier" parent="Sample">
+    <name>parasite genotype</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000758" type="characteristicQualifier" parent="Sample">
+    <name>fungal genotype</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000757" type="characteristicQualifier" parent="Sample">
+    <name>parasite phenotype</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="EUPATH_0000289" type="characteristicQualifier" parent="Sample">
     <name>haplogroup</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="GAZ_00000448" type="characteristicQualifier" parent="Source">
-    <name>geographic location</name>
-    <name>GeographicLocation</name>    
-    <name>country</name>
-    <function>valueIsOntologyTerm</function>
+  <ontologyTerm source_id="EUPATH_0000748" type="characteristicQualifier" parent="Sample">
+    <name>iPCR result</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="ENVO_00000856" type="characteristicQualifier" parent="Source">
-    <name>city</name>
-  </ontologyTerm>
-
-  <ontologyTerm source_id="UBERON_0001062" type="characteristicQualifier" parent="Source">
-    <name>organ part</name>
-  </ontologyTerm>
-
-<!--
-  <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
-   <name>country name</name>
-
-    <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
--->
-  <ontologyTerm source_id="OBI_0100026" type="characteristicQualifier" parent="Source">
-    <name>organism</name>
-    <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="OPL_0000232" type="characteristicQualifier" parent="Source">
-    <name>parasite organism</name>
-  </ontologyTerm>
-
-  <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
-    <name>age</name>
-    <name>Characteristics [age]</name>
-    <name>PATO_0000011</name>
-    <function>splitUnitFromValue</function>
-  </ontologyTerm>
-
-  <ontologyTerm source_id="EUPATH_0000113" type="characteristicQualifier" parent="Source">
-    <name>age at visit</name>
-    <function>splitUnitFromValue</function>
-  </ontologyTerm>
-
-  <ontologyTerm source_id="PATO_0000047" type="characteristicQualifier" parent="Source">
-    <name>sex</name>
-    <name>gender</name>
-    <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
   <ontologyTerm source_id="OBI_0000198" type="characteristicQualifier" parent="Sample">
     <name>biological replicate</name>
   </ontologyTerm>
-  <ontologyTerm source_id="BFO_0000023" type="characteristicQualifier" parent="Source">
-    <name>role</name>
+  <ontologyTerm source_id="EFO_0000683" type="characteristicQualifier" parent="Sample">
+    <name>Replicate</name>
   </ontologyTerm>
-  <ontologyTerm source_id="ENVO_00000176" type="characteristicQualifier" parent="Source">
-    <name>elevation</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000276" type="characteristicQualifier" parent="Source">
-    <name>parasite clearance half life</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000277" type="characteristicQualifier" parent="Source">
-    <name>parasite clearance rate</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000278" type="characteristicQualifier" parent="Source">
-    <name>parasite clearance time</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000290" type="characteristicQualifier" parent="Source">
-    <name>parasitemia start time</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000291" type="characteristicQualifier" parent="Source">
-    <name>treatment outcome information</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OGMS_0000073" type="characteristicQualifier" parent="Source">
-    <name>health_status</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000745" type="characteristicQualifier" parent="Source">
-    <name>time_to_onset</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001305" type="characteristicQualifier" parent="Extract">
-    <name>genotype information</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001620" type="characteristicQualifier" parent="Source">
-    <name>latitude coordinate measurement datum</name>
-    <name>latitude</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001621" type="characteristicQualifier" parent="Source">
-    <name>longitude coordinate measurement datum</name>
-	<name>longitude</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OGMS_0000027" type="characteristicQualifier" parent="Source">
-    <name>clinical phenotype</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000512" type="characteristicQualifier" parent="Source">
-    <name>host_common_name</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="PATO_0001374" type="characteristicQualifier" parent="Source">
-    <name>ploidy</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000736" type="characteristicQualifier" parent="Source">
-    <name>propagation</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000752" type="characteristicQualifier" parent="Source">
-    <name>GP60 genotype</name>
+  <ontologyTerm source_id="OBI_0000249" type="characteristicQualifier" parent="Sample">
+    <name>technical replicate</name>
   </ontologyTerm>
 
-
+  <ontologyTerm source_id="EUPATH_0000573" type="characteristicQualifier" parent="Sample">
+    <name>Fingerprint Clade</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000574" type="characteristicQualifier" parent="Sample">
+    <name>NLST Clade</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000575" type="characteristicQualifier" parent="Sample">
+    <name>Virulence Score (LDt50)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000576" type="characteristicQualifier" parent="Sample">
+    <name>Virulence Score (slope)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000577" type="characteristicQualifier" parent="Sample">
+    <name>Repository ID</name>
+  </ontologyTerm>
 
 <!-- characteristicValues -->
+
+<!-- PATO sex values -->
   <ontologyTerm source_id="PATO_0000384" type="characteristicValue" parent="characteristicQualifier">
     <name>male</name>
   </ontologyTerm>
@@ -523,10 +482,14 @@
     <name>female</name>
   </ontologyTerm>
 
+
+<!-- NCBITaxon organism values -->
   <ontologyTerm source_id="NCBITaxon_9606" type="characteristicValue" parent="characteristicQualifier">
-    <name>Homo sapien</name>
     <name>Homo sapiens</name>
     <name>human</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_538690" type="characteristicValue" parent="characteristicQualifier">
+    <name>Chimp</name>
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_491861" type="characteristicValue" parent="characteristicQualifier">
     <name>Thamnomys surdaster</name>
@@ -576,16 +539,173 @@
     <name>Pan troglodytes</name>
     <name>Pan troglodytes ellioti</name>
   </ontologyTerm>
-
   <ontologyTerm source_id="NCBITaxon_9913" type="characteristicValue" parent="characteristicQualifier">
     <name>Bos taurus</name>
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_89462" type="characteristicValue" parent="characteristicQualifier">
     <name>Bubalus bubalis</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_10114" type="characteristicValue" parent="characteristicQualifier">
+    <name>Rattus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_10149" type="characteristicValue" parent="characteristicQualifier">
+    <name>Hydrochoerus hydrochaeris</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_115229" type="characteristicValue" parent="characteristicQualifier">
+    <name>Buteo lagopus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_119825" type="characteristicValue" parent="characteristicQualifier">
+    <name>Mephitidae</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_134902" type="characteristicValue" parent="characteristicQualifier">
+    <name>Corvus hawaiiensis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_156757" type="characteristicValue" parent="characteristicQualifier">
+    <name>Buteo swainsoni</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_1608482" type="characteristicValue" parent="characteristicQualifier">
+    <name>Puma yagouaroundi</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="NCBITaxon_223441" type="characteristicValue" parent="characteristicQualifier">
+    <name>Buteo regalis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_30548" type="characteristicValue" parent="characteristicQualifier">
+    <name>Mephitis mephitis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_30590" type="characteristicValue" parent="characteristicQualifier">
+    <name>Alouatta belcebul</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_34882" type="characteristicValue" parent="characteristicQualifier">
+    <name>Enhydra lutris</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_42407" type="characteristicValue" parent="characteristicQualifier">
+    <name>Neotoma</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_494514" type="characteristicValue" parent="characteristicQualifier">
+    <name>Vulpes lagopus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_52644" type="characteristicValue" parent="characteristicQualifier">
+    <name>Haliaeetus leucocephalus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_56263" type="characteristicValue" parent="characteristicQualifier">
+    <name>Buteo jamaicensis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_56313" type="characteristicValue" parent="characteristicQualifier">
+    <name>Tyto alba</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_56350" type="characteristicValue" parent="characteristicQualifier">
+    <name>Falco sparverius</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_57381" type="characteristicValue" parent="characteristicQualifier">
+    <name>Ramphastidae</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_61378" type="characteristicValue" parent="characteristicQualifier">
+    <name>Felis margarita</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_61384" type="characteristicValue" parent="characteristicQualifier">
+    <name>Lynx rufus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_862507" type="characteristicValue" parent="characteristicQualifier">
+    <name>Mus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_8847" type="characteristicValue" parent="characteristicQualifier">
+    <name>Anser sp.</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_8930" type="characteristicValue" parent="characteristicQualifier">
+    <name>Columbidae</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_8990" type="characteristicValue" parent="characteristicQualifier">
+    <name>Numididae</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9031" type="characteristicValue" parent="characteristicQualifier">
+    <name>Gallus gallus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9103" type="characteristicValue" parent="characteristicQualifier">
+    <name>Meleagris gallopavo</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9160" type="characteristicValue" parent="characteristicQualifier">
+    <name>Passer montanus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9172" type="characteristicValue" parent="characteristicQualifier">
+    <name>Sturnus vulgaris</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9265" type="characteristicValue" parent="characteristicQualifier">
+    <name>Didelphidae</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9268" type="characteristicValue" parent="characteristicQualifier">
+    <name>Didelphis marsupialis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9312" type="characteristicValue" parent="characteristicQualifier">
+    <name>Macropus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9479" type="characteristicValue" parent="characteristicQualifier">
+    <name>Platyrrhini</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9612" type="characteristicValue" parent="characteristicQualifier">
+    <name>Canis lupus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9614" type="characteristicValue" parent="characteristicQualifier">
+    <name>Canis latrans</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9615" type="characteristicValue" parent="characteristicQualifier">
+    <name>Canis lupus familiaris</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9627" type="characteristicValue" parent="characteristicQualifier">
+    <name>Vulpes vulpes</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9641" type="characteristicValue" parent="characteristicQualifier">
+    <name>Ursus sp.</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9643" type="characteristicValue" parent="characteristicQualifier">
+    <name>Ursus americanus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9644" type="characteristicValue" parent="characteristicQualifier">
+    <name>Ursus arctos</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9654" type="characteristicValue" parent="characteristicQualifier">
+    <name>Procyon lotor</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="NCBITaxon_9685" type="characteristicValue" parent="characteristicQualifier">
+    <name>Felis catus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9690" type="characteristicValue" parent="characteristicQualifier">
+    <name>Panthera onca</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9696" type="characteristicValue" parent="characteristicQualifier">
+    <name>Puma concolor</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9737" type="characteristicValue" parent="characteristicQualifier">
+    <name>Stenella coeruleoalba</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="NCBITaxon_9739" type="characteristicValue" parent="characteristicQualifier">
+    <name>Tursiops truncatus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9823" type="characteristicValue" parent="characteristicQualifier">
+    <name>Sus scrofa</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9874" type="characteristicValue" parent="characteristicQualifier">
+    <name>Odocoileus virginianus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9925" type="characteristicValue" parent="characteristicQualifier">
+    <name>Capra hircus</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="NCBITaxon_9940" type="characteristicValue" parent="characteristicQualifier">
+    <name>Ovis aries</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9986" type="characteristicValue" parent="characteristicQualifier">
+    <name>Oryctolagus cuniculus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9031" type="characteristicValue" parent="characteristicQualifier">
+    <name>Gallus gallus domesticus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_694476" type="characteristicValue" parent="characteristicQualifier">
+    <name>Puma concolor couguar</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_35549" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cacatuidae</name>
+  </ontologyTerm>
 
-
-
+<!-- GAZ country values  -->
   <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier">
     <name>GAZ:Puerto Rico</name>
     <name>Puerto Rico</name>
@@ -607,6 +727,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002459" type="characteristicValue" parent="characteristicQualifier">
     <name>USA</name>
+    <name>United States of America</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002560" type="characteristicValue" parent="characteristicQualifier">
     <name>Canada</name>
@@ -660,7 +781,6 @@
   <ontologyTerm source_id="GAZ_00002933" type="characteristicValue" parent="characteristicQualifier">
     <name>Paraguay</name>
   </ontologyTerm>
-
   <ontologyTerm source_id="GAZ_00003934" type="characteristicValue" parent="characteristicQualifier">
     <name>Egypt</name>
   </ontologyTerm>
@@ -670,7 +790,6 @@
   <ontologyTerm source_id="GAZ_00002637" type="characteristicValue" parent="characteristicQualifier">
     <name>United Kingdom</name>
   </ontologyTerm>
-
   <ontologyTerm source_id="GAZ_00001105" type="characteristicValue" parent="characteristicQualifier">
     <name>Malawi</name>
   </ontologyTerm>
@@ -689,50 +808,232 @@
   <ontologyTerm source_id="GAZ_00002839" type="characteristicValue" parent="characteristicQualifier">
     <name>India</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000584" type="characteristicValue" parent="characteristicQualifier">
+    <name>Mali</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000908" type="characteristicValue" parent="characteristicQualifier">
+    <name>Ghana</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000913" type="characteristicValue" parent="characteristicQualifier">
+    <name>Senegal</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000914" type="characteristicValue" parent="characteristicQualifier">
+    <name>Sierra Leone</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001549" type="characteristicValue" parent="characteristicQualifier">
+    <name>Netherlands</name>
+    <name>Kingdom of the Netherlands</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002894" type="characteristicValue" parent="characteristicQualifier">
+    <name>Honduras</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00003756" type="characteristicValue" parent="characteristicQualifier">
+    <name>Vietnam</name>
+    <name>Viet Nam</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00003902" type="characteristicValue" parent="characteristicQualifier">
+    <name>Malaysia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00006889" type="characteristicValue" parent="characteristicQualifier">
+    <name>Laos</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000912" type="characteristicValue" parent="characteristicQualifier">
+    <name>Nigeria</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000907" type="characteristicValue" parent="characteristicQualifier">
+    <name>Gambia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000859" type="characteristicValue" parent="characteristicQualifier">
+    <name>Indochina</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000559" type="characteristicValue" parent="characteristicQualifier">
+    <name>Southeast Asia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000560" type="characteristicValue" parent="characteristicQualifier">
+    <name>Sudan</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00003750" type="characteristicValue" parent="characteristicQualifier">
+    <name>Bangladesh</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00067144" type="characteristicValue" parent="characteristicQualifier">
+    <name>French Guiana</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001100" type="characteristicValue" parent="characteristicQualifier">
+    <name>Mozambique</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000583" type="characteristicValue" parent="characteristicQualifier">
+    <name>Mauritania</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002801" type="characteristicValue" parent="characteristicQualifier">
+    <name>North Korea</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002929" type="characteristicValue" parent="characteristicQualifier">
+    <name>Columbia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002978" type="characteristicValue" parent="characteristicQualifier">
+    <name>Nicaragua</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001092" type="characteristicValue" parent="characteristicQualifier">
+    <name>Gabon</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002901" type="characteristicValue" parent="characteristicQualifier">
+    <name>Costa Rica</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002825" type="characteristicValue" parent="characteristicQualifier">
+    <name>Chile</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002646" type="characteristicValue" parent="characteristicQualifier">
+    <name>Germany</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_02000573" type="characteristicValue" parent="characteristicQualifier">
+    <name>Grenada</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="GAZ_00003946" type="characteristicValue" parent="characteristicQualifier">
+    <name>Guadeloupe Archipelago</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="GAZ_00002522" type="characteristicValue" parent="characteristicQualifier">
+    <name>Guyana</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000905" type="characteristicValue" parent="characteristicQualifier">
+    <name>Burkina Faso</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001251" type="characteristicValue" parent="characteristicQualifier">
+    <name>Barbados</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000463" type="characteristicValue" parent="characteristicQualifier">
+    <name>Australia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000457" type="characteristicValue" parent="characteristicQualifier">
+    <name>Africa</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00052663" type="characteristicValue" parent="characteristicQualifier">
+    <name>[Former] Yugoslavia</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="GAZ_00002930" type="characteristicValue" parent="characteristicQualifier">
+    <name>Uruguay</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00005282" type="characteristicValue" parent="characteristicQualifier">
+    <name>United Arab Emirates</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00005396" type="characteristicValue" parent="characteristicQualifier">
+    <name>Svalbard Archipelago</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00003924" type="characteristicValue" parent="characteristicQualifier">
+    <name>Sri Lanka</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002931" type="characteristicValue" parent="characteristicQualifier">
+    <name>Venezuela</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00003945" type="characteristicValue" parent="characteristicQualifier">
+    <name>Reunion Island</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00005286" type="characteristicValue" parent="characteristicQualifier">
+    <name>Qatar</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002939" type="characteristicValue" parent="characteristicQualifier">
+    <name>Poland</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002650" type="characteristicValue" parent="characteristicQualifier">
+    <name>Italy</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00006882" type="characteristicValue" parent="characteristicQualifier">
+    <name>Afghanistan</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00004399" type="characteristicValue" parent="characteristicQualifier">
+    <name>Nepal</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002802" type="characteristicValue" parent="characteristicQualifier">
+    <name>South Korea</name>
+  </ontologyTerm>
 
-
-  <ontologyTerm source_id="ENVO_01000246" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:village biome</name>
-    <name>village biome</name>
+<!-- parasite lifecycle stage -->
+  <ontologyTerm source_id="OPL_0000057" type="characteristicValue" parent="characteristicQualifier">
+    <name>trophozoite</name>
   </ontologyTerm>
-  <ontologyTerm source_id="ENVO_00009004" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:insecta-associated habitat</name>
-    <name>insecta-associated habitat</name>
+  <ontologyTerm source_id="OPL_0000140" type="characteristicValue" parent="characteristicQualifier">
+    <name>ring</name>
   </ontologyTerm>
-  <ontologyTerm source_id="ENVO_01000155" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:organic material</name>
-    <name>organic material</name>
+  <ontologyTerm source_id="OPL_0000084" type="characteristicValue" parent="characteristicQualifier">
+    <name>schizont</name>
   </ontologyTerm>
-
-  <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
-    <name>UBERON:multi-cellular organism</name>
-    <name>multi-cellular organism</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0000479" type="characteristicValue" parent="characteristicQualifier">
-    <name>UBERON:tissue</name>
-    <name>tissue</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
-    <name>UBERON:body</name>
-    <name>body</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0000456" type="characteristicValue" parent="characteristicQualifier">
-    <name>UBERON:secretion</name>
-    <name>secretion</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0000160" type="characteristicValue" parent="characteristicQualifier">
-    <name>UBERON:intestine</name>
-    <name>intestine</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0000033" type="characteristicValue" parent="characteristicQualifier">
-    <name>UBERON:head</name>
-    <name>head</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0001051" type="characteristicValue" parent="characteristicQualifier">
-    <name>UBERON:hypopharynx</name>
-    <name>hypopharynx</name>
+  <ontologyTerm source_id="OPL_0000057" type="characteristicValue" parent="characteristicQualifier">
+    <name>trophozoite</name>
   </ontologyTerm>
 
+<!-- specimen type -->
+  <ontologyTerm source_id="OBI_0000671" type="characteristicValue" parent="characteristicQualifier">
+    <name>specimen from organism</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000655" type="characteristicValue" parent="characteristicQualifier">
+    <name>blood</name>
+    <name>blood specimen</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001468" type="characteristicValue" parent="characteristicQualifier">
+    <name>cell specimen</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0002534" type="characteristicValue" parent="characteristicQualifier">
+    <name>Lung</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0002516" type="characteristicValue" parent="characteristicQualifier">
+    <name>Brain</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0002508" type="characteristicValue" parent="characteristicQualifier">
+    <name>sputum specimen</name>
+    <name>Sputum</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0002503" type="characteristicValue" parent="characteristicQualifier">
+    <name>feces</name>
+    <name>feces specimen</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0002512" type="characteristicValue" parent="characteristicQualifier">
+    <name>Bone marrow</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000500" type="characteristicValue" parent="characteristicQualifier">
+    <name>Bronchial wash</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000501" type="characteristicValue" parent="characteristicQualifier">
+    <name>Bronchoalveolar lavage</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0002502" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cerebral spinal fluid</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000502" type="characteristicValue" parent="characteristicQualifier">
+    <name>Lung aspirate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000503" type="characteristicValue" parent="characteristicQualifier">
+    <name>Lung lesion</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000504" type="characteristicValue" parent="characteristicQualifier">
+    <name>Lung mold bronch</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000505" type="characteristicValue" parent="characteristicQualifier">
+    <name>Lung nodule</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_1110041" type="characteristicValue" parent="characteristicQualifier">
+    <name>Lymph node</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0002515" type="characteristicValue" parent="characteristicQualifier">
+    <name>Pleural fluid</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000506" type="characteristicValue" parent="characteristicQualifier">
+    <name>TGH</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000507" type="characteristicValue" parent="characteristicQualifier">
+    <name>TGH mold iso</name>
+  </ontologyTerm>
+
+<!-- disease -->
+  <ontologyTerm source_id="DOID_9111" type="characteristicValue" parent="characteristicQualifier">
+    <name>cutaneous leishmaniasis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="DOID_9146" type="characteristicValue" parent="characteristicQualifier">
+    <name>visceral leishmaniasis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="DOID_9181" type="characteristicValue" parent="characteristicQualifier">
+    <name>amebiasis</name>
+  </ontologyTerm>
+
+<!-- unit -->
   <ontologyTerm source_id="UO_0000036" type="unit">
     <name>year</name>
     <name>years</name>
@@ -744,6 +1045,24 @@
   <ontologyTerm source_id="UO_0000034" type="unit">
     <name>week</name>
     <name>weeks</name>
+  </ontologyTerm>
+
+
+<!-- miscellaneous type values -->
+  <ontologyTerm source_id="EUPATH_0000279" type="characteristicValue" parent="characteristicQualifier">
+    <name>Symptomatic episode</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000280" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cloroquine resistant</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000281" type="characteristicValue" parent="characteristicQualifier">
+    <name>Pyrimethamine and Cloroquine resistant</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000283" type="characteristicValue" parent="characteristicQualifier">
+    <name>Pyrimethamine resistant, Cloroquine sensitive</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000282" type="characteristicValue" parent="characteristicQualifier">
+    <name>Pyrimethamine, Mefloquine and Cloroquine resistant</name>
   </ontologyTerm>
 
 </ontologymappings>

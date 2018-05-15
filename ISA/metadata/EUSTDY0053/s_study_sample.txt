@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [organism]	Specimen Collection Date	Characteristics [geographic location]	Characteristics [passage history]
-SY57				Pan troglodytes ellioti	13-Feb-13	Cameroon: Centre Region	Unpassaged
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [organism]	Specimen Collection Date	Characteristics [geographic location]	Characteristics [passage history]	Characteristics [specimen]
+SY57				Pan troglodytes ellioti	13-Feb-13	Cameroon: Centre Region	Unpassaged	blood

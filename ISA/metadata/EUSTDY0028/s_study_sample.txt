@@ -1,7 +1,7 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[PATO_0000011]	Characteristics[GAZ_00000448]	Characteristics[OBI_0100026]	Characteristics[PATO_0000047]	Parameter Value [Specimen Collection Year]	Characteristics[OPL_0000232]	Characteristics[Environmental Feature]
-ATCC30222	Whole Genome Sequencing of Babesia microti ATCC30222				http://purl.obolibrary.org/obo/GAZ_00001086	NCBITaxon_491861		1950	Babesia microti ATCC30222	passaged through Golden Syrian Hamster; blood
-ATCCPRA-99	Whole Genome Sequencing of Babesia microti ATCCPRA-99			49 year	http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_9606	http://purl.obolibrary.org/obo/PATO_0000383	1973	Babesia microti ATCCPRA-99	passaged through C3H SCID mouse; blood
-GI	Whole Genome Sequencing of Babesia microti GI				http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_9606		1981	Babesia microti GI	passaged through Golden Syrian Hamster; blood
-Naushon	Whole Genome Sequencing of Babesia microti Naushon				http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_6945		1986	Babesia microti Naushon	passaged through Golden Syrian Hamster; blood
-GreenwhichYale_Lab_strain_1	Whole Genome Sequencing of Babesia microti GreenwhichYale_Lab_strain_1				http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_10041			Babesia microti GreenwhichYale_Lab_strain_1	passaged through C3H SCID mouse; blood
-Nan_Hs_2011_N11-50	Whole Genome Sequencing of Babesia microti Nan_Hs_2011_N11-50				http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_9606	http://data.bioontology.org/ontologies/PATO_0000384	2011	Babesia microti Nan_Hs_2011_N11-50	passaged through Golden Syrian Hamster; blood
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[age]	Characteristics[country]	Characteristics[organism]	Characteristics[sex]	Parameter Value [Specimen Collection Year]	Characteristics[parasite organism]	Characteristics[lab host]	Characteristics[specimen]
+ATCC30222	Whole Genome Sequencing of Babesia microti ATCC30222				Democratic Republic of the Congo	Thamnomys surdaster		1950	Babesia microti ATCC30222	Golden Syrian Hamster	blood
+ATCCPRA-99	Whole Genome Sequencing of Babesia microti ATCCPRA-99			49 year	USA	Homo sapiens	female	1973	Babesia microti ATCCPRA-99	C3H SCID mouse	blood
+GI	Whole Genome Sequencing of Babesia microti GI				USA	Homo sapiens		1981	Babesia microti GI	Golden Syrian Hamster	blood
+Naushon	Whole Genome Sequencing of Babesia microti Naushon				USA	Ixodes scapularis		1986	Babesia microti Naushon	Golden Syrian Hamster	blood
+GreenwhichYale_Lab_strain_1	Whole Genome Sequencing of Babesia microti GreenwhichYale_Lab_strain_1				USA	Peromyscus leucopus			Babesia microti GreenwhichYale_Lab_strain_1	C3H SCID mouse	blood
+Nan_Hs_2011_N11-50	Whole Genome Sequencing of Babesia microti Nan_Hs_2011_N11-50				USA	Homo sapiens	male	2011	Babesia microti Nan_Hs_2011_N11-50	Golden Syrian Hamster	blood

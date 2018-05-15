@@ -1,22 +1,22 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [strain]	characteristics [pathogen genotype]	characteristics [organism]	characteristics [organ part]	characteristics [disease]	characteristics [city]	characteristics [country]	characteristics [Fingerprint Clade]	characteristics [NLST Clade]	characteristics [Virulence Score (LDt50)]	characteristics [Virulence Score (slope)]	characteristics [Repository ID]
-12C	Genetic and phenotypic intra-species variation in Candida albicans			12C	a/a	human	mouth	vaginitis	Michigan	USA	I	1	22	1.2	NR-29444
-L26	Genetic and phenotypic intra-species variation in Candida albicans			L26	a/a	human	vagina	vaginitis	Iowa	USA	I	1	4	9.3	NR-29445
-P37005	Genetic and phenotypic intra-species variation in Candida albicans			P37005	a/a	human	mouth	healthy	Florida	USA	I	1	6.5	4.1	NR-29447
-19F	Genetic and phenotypic intra-species variation in Candida albicans			19F	alpha/alpha	human	vagina	vaginitis	Michigan	USA	I	1	21.5	1.7	NR-29449
-P78048	Genetic and phenotypic intra-species variation in Candida albicans			P78048	alpha/alpha	human	blood	bloodstream infection	Manitoba	Canada	I	1	22	1.2	NR-29434
-P37037	Genetic and phenotypic intra-species variation in Candida albicans			P37037	a/alpha	human	mouth	healthy	Wisconsin	USA	I	1	10	5.9	NR-29450
-P37039	Genetic and phenotypic intra-species variation in Candida albicans			P37039	a/alpha	human	mouth	healthy	New Jersy	USA	I	1	3	9.1	NR-29451
-SC5314_resequence1	Genetic and phenotypic intra-species variation in Candida albicans			SC5314	a/alpha	human	blood	bloodstream infection			na	1	N/A	N/A	
-P57072	Genetic and phenotypic intra-species variation in Candida albicans			P57072	alpha/alpha	human	blood	bloodstream infection	Iowa	USA	II	2	11	2.4	NR-29435
-P76055	Genetic and phenotypic intra-species variation in Candida albicans			P76055	a/alpha	human	blood	bloodstream infection	Iowa	USA	II	2	18	4.5	NR-29441
-P76067	Genetic and phenotypic intra-species variation in Candida albicans			P76067	a/alpha	human	blood	bloodstream infection	Ontario	Canada	na	2	3	7.2	NR-29442
-P57055	Genetic and phenotypic intra-species variation in Candida albicans			P57055	a/alpha	human	blood	bloodstream infection	Nebraska	USA	III	3	13	7.7	NR-29439
-P78042	Genetic and phenotypic intra-species variation in Candida albicans			P78042	a/alpha	human	blood	bloodstream infection	Indianapolis	USA	III	3	10	3.2	NR-29443
-P34048	Genetic and phenotypic intra-species variation in Candida albicans			P34048	a/alpha	human	blood	bloodstream infection		Turkey	na	3	6	6.3	NR-29436
-P87	Genetic and phenotypic intra-species variation in Candida albicans			P87	a/alpha	human	mouth	HIV infected		South Africa	SA	4	22	0.5	NR-29453
-GC75	Genetic and phenotypic intra-species variation in Candida albicans			GC75	alpha/alpha	human	mouth	healthy		South Africa	SA	4	2	18	NR-29452
-P75016	Genetic and phenotypic intra-species variation in Candida albicans			P75016	a/alpha	human	blood	bloodstream infection		Israel	SA	4	17	4.8	NR-29438
-P75063	Genetic and phenotypic intra-species variation in Candida albicans			P75063	a/alpha	human	blood	bloodstream infection		France	SA	4	2	25	NR-29440
-P94015	Genetic and phenotypic intra-species variation in Candida albicans			P94015	a/a	human	blood	bloodstream infection	Utah	USA	I	6	22	0.7	NR-29446
-P60002	Genetic and phenotypic intra-species variation in Candida albicans			P60002	a/a	human	blood	bloodstream infection	Arizona	USA	SA	8	20	3.3	NR-29448
-P75010	Genetic and phenotypic intra-species variation in Candida albicans			P75010	a/alpha	human	blood	bloodstream infection		Belgium	E	11	17	4.1	NR-29437
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [fungus organism]	characteristics [fungal genotype]	characteristics [organism]	characteristics [specimen]	characteristics [health_status]	characteristics [city]	characteristics [country]	characteristics [Fingerprint Clade]	characteristics [NLST Clade]	characteristics [Virulence Score (LDt50)]	characteristics [Virulence Score (slope)]	characteristics [Repository ID]
+12C	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans 12C	a/a	human	mouth	vaginitis	Michigan	USA	I	1	22	1.2	NR-29444
+L26	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans L26	a/a	human	vagina	vaginitis	Iowa	USA	I	1	4	9.3	NR-29445
+P37005	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P37005	a/a	human	mouth	healthy	Florida	USA	I	1	6.5	4.1	NR-29447
+19F	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans 19F	alpha/alpha	human	vagina	vaginitis	Michigan	USA	I	1	21.5	1.7	NR-29449
+P78048	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P78048	alpha/alpha	human	blood	bloodstream infection	Manitoba	Canada	I	1	22	1.2	NR-29434
+P37037	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P37037	a/alpha	human	mouth	healthy	Wisconsin	USA	I	1	10	5.9	NR-29450
+P37039	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P37039	a/alpha	human	mouth	healthy	New Jersy	USA	I	1	3	9.1	NR-29451
+SC5314_resequence1	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans SC5314	a/alpha	human	blood	bloodstream infection			na	1	N/A	N/A	
+P57072	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P57072	alpha/alpha	human	blood	bloodstream infection	Iowa	USA	II	2	11	2.4	NR-29435
+P76055	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P76055	a/alpha	human	blood	bloodstream infection	Iowa	USA	II	2	18	4.5	NR-29441
+P76067	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P76067	a/alpha	human	blood	bloodstream infection	Ontario	Canada	na	2	3	7.2	NR-29442
+P57055	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P57055	a/alpha	human	blood	bloodstream infection	Nebraska	USA	III	3	13	7.7	NR-29439
+P78042	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P78042	a/alpha	human	blood	bloodstream infection	Indianapolis	USA	III	3	10	3.2	NR-29443
+P34048	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P34048	a/alpha	human	blood	bloodstream infection		Turkey	na	3	6	6.3	NR-29436
+P87	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P87	a/alpha	human	mouth	HIV infected		South Africa	SA	4	22	0.5	NR-29453
+GC75	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans GC75	alpha/alpha	human	mouth	healthy		South Africa	SA	4	2	18	NR-29452
+P75016	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P75016	a/alpha	human	blood	bloodstream infection		Israel	SA	4	17	4.8	NR-29438
+P75063	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P75063	a/alpha	human	blood	bloodstream infection		France	SA	4	2	25	NR-29440
+P94015	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P94015	a/a	human	blood	bloodstream infection	Utah	USA	I	6	22	0.7	NR-29446
+P60002	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P60002	a/a	human	blood	bloodstream infection	Arizona	USA	SA	8	20	3.3	NR-29448
+P75010	Genetic and phenotypic intra-species variation in Candida albicans			Candida albicans P75010	a/alpha	human	blood	bloodstream infection		Belgium	E	11	17	4.1	NR-29437
