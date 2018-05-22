@@ -1,0 +1,8 @@
+<ontologymappings>
+  <ontologyTerm source_id="OBI_0001619" type="protocolParameter" parent="specimen collection">
+    <name>Collection date</name>
+    <name>Specimen Collection Date</name>
+    <name>Characteristics [date_sample_collected]</name>
+    <function>formatEuroDate</function> 
+  </ontologyTerm>
+</ontologymappings>
