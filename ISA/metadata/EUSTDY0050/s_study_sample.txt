@@ -1,4 +1,4 @@
-Name	Description	sourcemtoverride	samplemtoverride	Characteristics [country]	Characteristics [age]	Characteristics [Specimen collection date]	Characteristics [microscopy_result]	Characteristics [parasite_density_by_microscope]	Characteristics [blood_smear_summary]	Characteristics [time_to_reinfection]	Characteristics [time_to_first_malaria_dx]	Characteristics [end_of_observation_period]	Characteristics [specimen]
+Name	Description	sourcemtoverride	samplemtoverride	Characteristics [country]	Characteristics [age]	Specimen collection date	Characteristics [microscopy_result]	Characteristics [parasite_density_by_microscope]	Characteristics [blood_smear_summary]	Characteristics [time_to_reinfection]	Characteristics [time_to_first_malaria_dx]	Characteristics [end_of_observation_period]	Characteristics [specimen]
 11003402				Kenya	34 years	20030611	positive	2	1.22E+11	week 7	week 11+	week 12	blood
 11003406				Kenya	2 years	20030611	positive	277	1.22E+11	week 4	week 8	week 12	blood
 11004703				Kenya	18 years	20030611	negative	0	2.93E+11	week 11	week 11+	week 12	blood
