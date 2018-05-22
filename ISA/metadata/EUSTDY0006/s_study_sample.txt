@@ -1,48 +1,95 @@
 Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism ID]	Characteristics[country]	Characteristics[city]	Characteristics[organism]	Characteristics[specimen]	Characteristics[parasite organism]	Parameter Value[collection year]	Parameter Value[collection date]
+
 7G8_2	SAMN01086197:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum 5.1			EUSTDY0006 Subject 1	Uganda	Tororo	human	specimen from organism	Plasmodium falciparum 5.1		
+
 SantaLucia_SalvadorI	SAMN00765682:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum 7G8			EUSTDY0006 Subject 2	Brazil		human	specimen from organism	Plasmodium falciparum 7G8		
+
 G224	SAMN01087918:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum G224			EUSTDY0006 Subject 3	French Guiana		human	specimen from organism	Plasmodium falciparum G224		
+
 H209	SAMN01087919:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum H209			EUSTDY0006 Subject 4	French Guiana		human	specimen from organism	Plasmodium falciparum  H209		
+
 M271-D	SAMN00998670:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum M113-A			EUSTDY0006 Subject 5	French Guiana	Saint-Georges	human	specimen from organism	Plasmodium falciparum M113-A	2009	23/3/2009
+
 M312-D	SAMN00998715:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum M219-D			EUSTDY0006 Subject 6	French Guiana	Saint Laurent du Maroni	human	specimen from organism	Plasmodium falciparum M219-D	2009	1/6/09
+
 N011-A	SAMN00998705:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum M271-D			EUSTDY0006 Subject 7	French Guiana	Saul	human	specimen from organism	Plasmodium falciparum M271-D	2009	26/6/2009
+
 N023-A	SAMN00998682:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum M312-D			EUSTDY0006 Subject 8	French Guiana	Cayenne	human	specimen from organism	Plasmodium falciparum M312-D	2009	11/7/09
+
 N071-I	SAMN00998685:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum N011-A			EUSTDY0006 Subject 9	French Guiana	Saul	human	specimen from organism	Plasmodium falciparum N011-A	2010	5/1/10
+
 N164-A	SAMN00998672:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum N023-A			EUSTDY0006 Subject 10	French Guiana	Camopi	human	specimen from organism	Plasmodium falciparum N023-A	2010	10/1/10
+
 N497-C	SAMN00998687:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum N071-I			EUSTDY0006 Subject 11	French Guiana	Camopi	human	specimen from organism	Plasmodium falciparum N071-I	2010	9/2/10
+
 N579-A	SAMN00998699:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum N164-A			EUSTDY0006 Subject 12	French Guiana	Camopi	human	specimen from organism	Plasmodium falciparum N164-A	2010	14/3/2010
+
 O079-B	SAMN00998692:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum N497-C			EUSTDY0006 Subject 13	French Guiana	Cayenne	human	specimen from organism	Plasmodium falciparum N497-C	2010	19/11/2010
+
 O141-A	SAMN00998723:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum N579-A			EUSTDY0006 Subject 14	French Guiana	Cayenne	human	specimen from organism	Plasmodium falciparum N579-A	2010	23/12/2010
+
 O222-A	SAMN00998689:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum O079-B			EUSTDY0006 Subject 15	French Guiana	Cayenne	human	specimen from organism	Plasmodium falciparum O079-B	2011	4/2/11
+
 O306-A	SAMN00998691:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum O141-A			EUSTDY0006 Subject 16	French Guiana	Cayenne	human	specimen from organism	Plasmodium falciparum O141-A	2011	7/4/11
+
 O314	SAMN00998669:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum O222-A			EUSTDY0006 Subject 17	French Guiana	Cayenne	human	specimen from organism	Plasmodium falciparum O222-A	2011	1/6/11
+
 P164-C	SAMN00998713:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum O306-A			EUSTDY0006 Subject 18	French Guiana	Cayenne	human	specimen from organism	Plasmodium falciparum O306-A	2011	20/9/2011
+
 P167-B	SAMN00998695:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum O314			EUSTDY0006 Subject 19	French Guiana	Cayenne	human	specimen from organism	Plasmodium falciparum O314	2011	27/9/2011
+
 P237-C	SAMN00998676:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum P164-C			EUSTDY0006 Subject 20	French Guiana	Cayenne	human	specimen from organism	Plasmodium falciparum P164-C	2012	1/8/12
+
 P241-D	SAMN00998674:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum P167-B			EUSTDY0006 Subject 21	French Guiana	Cayenne	human	specimen from organism	Plasmodium falciparum P167-B	2012	2/8/12
+
 PS097	SAMN00998718:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum P196J3-C			EUSTDY0006 Subject 22	French Guiana	Saint Laurent du Maroni	human	specimen from organism	Plasmodium falciparum P196J3-C	2012	4/9/12
+
 PS103	SAMN00998697:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum P237-C			EUSTDY0006 Subject 23	French Guiana	Cayenne	human	specimen from organism	Plasmodium falciparum P237-C	2012	30/9/2012
+
 PS122_G11	SAMN00998732:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum P241-D			EUSTDY0006 Subject 24	French Guiana	Cayenne	human	specimen from organism	Plasmodium falciparum P241-D	2012	2/10/12
+
 PS149	SAMN00779270:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum PS097			EUSTDY0006 Subject 25	Mali	Bandiagara	human	specimen from organism	Plasmodium falciparum PS097	1999-2002	
+
 PS170	SAMN00779269:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum PS103			EUSTDY0006 Subject 26	Mali	Bandiagara	human	specimen from organism	Plasmodium falciparum PS103	1999-2002	
+
 PS183	SAMN00779267:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum PS122_G11			EUSTDY0006 Subject 27	Mali	Bandiagara	human	specimen from organism	Plasmodium falciparum PS122_G11	1999-2002	
+
 PS186	SAMN00779268:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum PS149			EUSTDY0006 Subject 28	Mali	Bandiagara	human	specimen from organism	Plasmodium falciparum PS149	1999-2002	
+
 PS189	SAMN00779272:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum PS170			EUSTDY0006 Subject 29	Mali	Bandiagara	human	specimen from organism	Plasmodium falciparum PS170	1999-2002	
+
 PS206_E11	SAMN00779271:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum PS183			EUSTDY0006 Subject 30	Mali	Bandiagara	human	specimen from organism	Plasmodium falciparum PS183	1999-2002	
+
 PS250	SAMN00779273:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum PS186			EUSTDY0006 Subject 31	Mali	Bandiagara	human	specimen from organism	Plasmodium falciparum PS186	1999-2002	
+
 SEV2_H5	SAMN00779266:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum PS189			EUSTDY0006 Subject 32	Mali	Bandiagara	human	specimen from organism	Plasmodium falciparum PS189	1999-2002	
+
 M113-A	SAMN00779265:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum PS206_E11			EUSTDY0006 Subject 33	Mali	Bandiagara	human	specimen from organism	Plasmodium falciparum PS206_E11	1999-2002	
+
 M219-D	SAMN00779274:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum PS250			EUSTDY0006 Subject 34	Mali	Bandiagara	human	specimen from organism	Plasmodium falciparum PS250	1999-2002	
+
 P196J3-C	SAMN00761786:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum SantaLucia_SalvadorI			EUSTDY0006 Subject 35	El Salvador		human	specimen from organism	Plasmodium  falciparum  Santa Lucia (Salvador I)		
+
 5.1	SAMN00998725:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum SEV2_H5			EUSTDY0006 Subject 36	Mozambique		human	specimen from organism	Plasmodium falciparum SEV2_H5		
+
 UGK_396.1	SAMN00714544:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum UGK_396.1			EUSTDY0006 Subject 37	Uganda	Kampala	human	specimen from organism	Plasmodium falciparum UGK_396.1	2010	
+
 UGK_815.1	SAMN00714546:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum UGK_815.1			EUSTDY0006 Subject 38	Uganda	Kampala	human	specimen from organism	Plasmodium falciparum UGK_815.1	2010	
+
 UGK_443.2	SAMN00714547:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum UGK_443.2			EUSTDY0006 Subject 39	Uganda	Kampala	human	specimen from organism	Plasmodium falciparum UGK_443.2	2010	
+
 UGK_408.2	SAMN00714545:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum UGK_408.2			EUSTDY0006 Subject 40	Uganda	Kampala	human	specimen from organism	Plasmodium falciparum UGK_408.2	2010	
+
 UGK_432.4	SAMN00714539:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum UGK_432.4			EUSTDY0006 Subject 41	Uganda	Kampala	human	specimen from organism	Plasmodium falciparum UGK_432.4	2010	
+
 UGK_659.1	SAMN00714538:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum UGK_659.1			EUSTDY0006 Subject 42	Uganda	Kampala	human	specimen from organism	Plasmodium falciparum UGK_659.1	2010	
+
 UGK_661.1	SAMN00714541:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum UGK_661.1			EUSTDY0006 Subject 43	Uganda	Kampala	human	specimen from organism	Plasmodium falciparum UGK_661.1	2010	
+
 UGK_674.4	SAMN00714540:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum UGK_674.4			EUSTDY0006 Subject 44	Uganda	Kampala	human	specimen from organism	Plasmodium falciparum UGK_674.4	2010	
+
 UGK_707.3	SAMN00714543:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum UGK_707.3			EUSTDY0006 Subject 45	Uganda	Kampala	human	specimen from organism	Plasmodium falciparum UGK_707.3	2010	
+
 UGK_730.2	SAMN00714542:  Broad 100 genomes project on Illumina sequencing of Plasmodium falciparum UGK_730.2			EUSTDY0006 Subject 46	Uganda	Kampala	human	specimen from organism	Plasmodium falciparum UGK_730.2	2010	
+
 17X_resequence1	SAMN00974094:  Broad 100 genomes project on Illumina sequencing of Plasmodium yoelii 17X_resequence1			EUSTDY0006 Subject 47		Lowlands West and Central Africa	rodent	specimen from organism	Plasmodium yoelii 17X		
