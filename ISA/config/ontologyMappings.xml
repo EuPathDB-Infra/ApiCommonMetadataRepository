@@ -148,7 +148,8 @@
     <name>morbidity</name>
   </ontologyTerm>
   <ontologyTerm source_id="OGMS_0000073" type="characteristicQualifier" parent="Source">
-    <name>health_status</name>    
+    <name>health_status</name>
+    <name>health status</name>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000110" type="characteristicQualifier" parent="Source">
     <name>body_temperature</name>    
