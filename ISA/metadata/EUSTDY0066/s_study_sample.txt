@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [Health status]	Characteristics [GP60 genotype]	Characteristics[country]	Characteristics[parasite organism]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [Health status]	Characteristics [GP60 genotype]	Characteristics [country]	Characteristics [parasite organism]
 icddr-b_3	Cryptosporidium hominis genetic diversity in isolates from Bangladesh			clinic visit	gp60_IdA15G1	Bangladesh	Cryptosporidium hominis
 icddr-b_4	Cryptosporidium hominis genetic diversity in isolates from Bangladesh			clinic visit	gp60_IdA15G1	Bangladesh	Cryptosporidium hominis
 icddr-b_8	Cryptosporidium hominis genetic diversity in isolates from Bangladesh			diarrheal	gp60_IaA25R3	Bangladesh	Cryptosporidium hominis
