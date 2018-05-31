@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	specimen collection year	antimicrobial agent resistance phenotype	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [strain]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	specimen collection year	antimicrobial agent resistance phenotype	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
 12-7505446	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2012	Triazole resistant	Clinical	Aspergillus fumigatus	12-7505446
 12-7505220	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2012	Triazole resistant	Clinical	Aspergillus fumigatus	12-7505220
 09-7500806	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK	 Leeds	2009	Triazole susceptible	Clinical	Aspergillus fumigatus	09-7500806
