@@ -418,11 +418,17 @@
     <name>alternative sample ID</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="NCIT_C14209" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="NCBITaxon_4751" type="characteristicQualifier" parent="Sample">
     <name>fungus organism</name>
   </ontologyTerm>
   <ontologyTerm source_id="OPL_0000232" type="characteristicQualifier" parent="Sample">
     <name>parasite organism</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000759" type="characteristicQualifier" parent="Sample">
+    <name>fungal strain</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000761" type="characteristicQualifier" parent="Sample">
+    <name>parasite strain</name>
   </ontologyTerm>
   <ontologyTerm source_id="OPL_0000181" type="characteristicQualifier" parent="Sample">
     <name>parasite lifecycle stage</name>
