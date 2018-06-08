@@ -7,7 +7,7 @@
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
     <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="DNA Sequence variation detection"/>
+    <node name="Assay" suffix="DNA Sequencing"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
