@@ -418,7 +418,7 @@
     <name>alternative sample ID</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="NCBITaxon_4751" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="NCIT_C14209" type="characteristicQualifier" parent="Sample">
     <name>fungus organism</name>
   </ontologyTerm>
   <ontologyTerm source_id="OPL_0000232" type="characteristicQualifier" parent="Sample">
