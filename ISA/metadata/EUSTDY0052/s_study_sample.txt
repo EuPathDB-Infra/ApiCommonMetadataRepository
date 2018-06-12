@@ -6,5 +6,5 @@ C15				2011	Cambodia	Takavit	human	malaria	20 years	male	39	Plasmodium vivax	50,
 C08				2011	Cambodia	Pailin	human	malaria	20 years	male	37.2	Plasmodium vivax	20,000			blood
 C127				2011	Cambodia	Takavit	human	malaria	14 years	male	40	Plasmodium vivax	20,000			blood
 Belem				1980	Brazil	Belem, Brazil	human	malaria				Plasmodium vivax		squirrel monkey	Mercia de Arruda	blood
-Sal1_resequence1				1971	El Salvador	San Salvador	human	malaria				Plasmodium vivax		monkey	Central America Malaria Research Station	blood
+Sal1				1971	El Salvador	San Salvador	human	malaria				Plasmodium vivax		monkey	Central America Malaria Research Station	blood
 Chesson				1944	Papua New Guinea	New Guinea	human	malaria				Plasmodium vivax		Aotus monkey	Ehrman et al.	blood
