@@ -1,8 +1,8 @@
 <investigation identifierRegex="^(EUSTDY)\d+$" identifierIsDirectoryName="true">
 
   <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
-    <dataset>pvivSal1_HTS_SNP_Broad_HTS_Isolates_RSRC</dataset>
-    <dataset>pvivSal1_copyNumberVariations_Broad_HTS_Isolates_RSRC</dataset>
+    <dataset>pvivP01_HTS_SNP_Broad_HTS_Isolates_RSRC</dataset>
+    <dataset>pvivP01_copyNumberVariations_Broad_HTS_Isolates_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
