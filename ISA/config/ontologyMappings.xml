@@ -652,6 +652,9 @@
   <ontologyTerm source_id="NCBITaxon_9612" type="characteristicValue" parent="characteristicQualifier">
     <name>Canis lupus</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_33402" type="characteristicValue" parent="characteristicQualifier">
+    <name>Phlebotomus tobbi</name>
+  </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_9614" type="characteristicValue" parent="characteristicQualifier">
     <name>Canis latrans</name>
   </ontologyTerm>
