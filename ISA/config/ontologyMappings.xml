@@ -724,6 +724,15 @@
   <ontologyTerm source_id="GAZ_00001107" type="characteristicValue" parent="characteristicQualifier">
     <name>Zambia</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002929" type="characteristicValue" parent="characteristicQualifier">
+    <name>Colombia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00006908" type="characteristicValue" parent="characteristicQualifier">
+    <name>Saint kitts</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00003727" type="characteristicValue" parent="characteristicQualifier">
+    <name>Indonesia</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002721" type="characteristicValue" parent="characteristicQualifier">
     <name>Russia</name>
   </ontologyTerm>
