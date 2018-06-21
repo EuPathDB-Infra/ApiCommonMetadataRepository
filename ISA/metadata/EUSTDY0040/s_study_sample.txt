@@ -136,10 +136,10 @@ P24	P24 (DNA extract)			Subject 134	Gabon		Gallus gallus	blood	Toxoplasma gondii
 PF26	PF26 (DNA extract)			Subject 135	Gabon		Gallus gallus	blood	Toxoplasma gondii PF26
 PL15	PL15 (DNA extract)			Subject 136	Gabon		Gallus gallus	blood	Toxoplasma gondii PL15
 PM2	PM2 (DNA extract)			Subject 137	Gabon		Gallus gallus	blood	Toxoplasma gondii PM2
-GANGI	GANGI (DNA extract)			Subject 138	Africa		Homo sapienss	blood	Toxoplasma gondii GANGI
-WIK	WIK (DNA extract)			Subject 139	Africa		Homo sapienss	blood	Toxoplasma gondii WIK
-PSP-KOM	PSP-KOM (DNA extract)			Subject 140	Cameroon		Homo sapienss	blood	Toxoplasma gondii PSP-KOM
-TOU-ALI_WGA	TOU-ALI_WGA (DNA extract)			Subject 141	Reunion Island		Homo sapienss	blood	Toxoplasma gondii TOU-ALI_WGA
+GANGI	GANGI (DNA extract)			Subject 138	Africa		Homo sapiens	blood	Toxoplasma gondii GANGI
+WIK	WIK (DNA extract)			Subject 139	Africa		Homo sapiens	blood	Toxoplasma gondii WIK
+PSP-KOM	PSP-KOM (DNA extract)			Subject 140	Cameroon		Homo sapiens	blood	Toxoplasma gondii PSP-KOM
+TOU-ALI_WGA	TOU-ALI_WGA (DNA extract)			Subject 141	Reunion Island		Homo sapiens	blood	Toxoplasma gondii TOU-ALI_WGA
 TgCtPRC2	TgCtPRC2 (DNA extract)			Subject 142	China		Felis catus	blood	Toxoplasma gondii TgCtPRC2
 TgCtPRC4	TgCtPRC4 (DNA extract)			Subject 143	China		Felis catus	blood	Toxoplasma gondii TgCtPRC4
 TgCtPRC5	TgCtPRC5 (DNA extract)			Subject 144	China		Felis catus	blood	Toxoplasma gondii TgCtPRC5
@@ -209,11 +209,11 @@ TgDgSl_16	TgDgSl_16 (DNA extract)			Subject 207	Sri Lanka		Canis lupus familiari
 TgDgSl_18	TgDgSl_18 (DNA extract)			Subject 208	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_18
 TgDgSl_22	TgDgSl_22 (DNA extract)			Subject 209	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_22
 TgDgSl_23	TgDgSl_23 (DNA extract)			Subject 210	Sri Lanka		Canis lupus familiaris	blood	Toxoplasma gondii TgDgSl_23
-FUK	FUK (DNA extract)			Subject 211	Japan		Homo sapienss	blood	Toxoplasma gondii FUK
-Tg132	Tg132 (DNA extract)			Subject 212	Japan		Homo sapienss	blood	Toxoplasma gondii Tg132
-TRK1	TRK1 (DNA extract)			Subject 213	Turkey		Homo sapienss	blood	Toxoplasma gondii TRK1
-ZS	ZS (DNA extract)			Subject 214	China		Homo sapienss	blood	Toxoplasma gondii ZS
-SH	SH (DNA extract)			Subject 215	China		Homo sapienss	blood	Toxoplasma gondii SH
+FUK	FUK (DNA extract)			Subject 211	Japan		Homo sapiens	blood	Toxoplasma gondii FUK
+Tg132	Tg132 (DNA extract)			Subject 212	Japan		Homo sapiens	blood	Toxoplasma gondii Tg132
+TRK1	TRK1 (DNA extract)			Subject 213	Turkey		Homo sapiens	blood	Toxoplasma gondii TRK1
+ZS	ZS (DNA extract)			Subject 214	China		Homo sapiens	blood	Toxoplasma gondii ZS
+SH	SH (DNA extract)			Subject 215	China		Homo sapiens	blood	Toxoplasma gondii SH
 Tg17	Tg17 (DNA extract)			Subject 216	Japan		Sus scrofa	blood	Toxoplasma gondii Tg17
 NY5	NY5 (DNA extract)			Subject 217	China		Sus scrofa	blood	Toxoplasma gondii NY5
 NY19	NY19 (DNA extract)			Subject 218	China		Sus scrofa	blood	Toxoplasma gondii NY19
@@ -242,8 +242,8 @@ TgSandcatUAE3	TgSandcatUAE3 (DNA extract)			Subject 240	United Arab Emirates		Fe
 QHO	QHO (DNA extract)			Subject 241	China		Ovis aries	blood	Toxoplasma gondii QHO
 S10	S10 (DNA extract)			Subject 242	China		Passer montanus	blood	Toxoplasma gondii S10
 TgDgAu3	TgDgAu3 (DNA extract)			Subject 243	Australia		Canis lupus familiaris	blood	Toxoplasma gondii TgDgAu3
-Tg96	Tg96 (DNA extract)			Subject 244	Australia		Homo sapienss	blood	Toxoplasma gondii Tg96
-FR-93	FR-93 (DNA extract)			Subject 245	Australia		Homo sapienss	blood	Toxoplasma gondii FR-93
+Tg96	Tg96 (DNA extract)			Subject 244	Australia		Homo sapiens	blood	Toxoplasma gondii Tg96
+FR-93	FR-93 (DNA extract)			Subject 245	Australia		Homo sapiens	blood	Toxoplasma gondii FR-93
 TgCkIt3	TgCkIt3 (DNA extract)			Subject 246	Italy		Gallus gallus	blood	Toxoplasma gondii TgCkIt3
 TgCkIt1	TgCkIt1 (DNA extract)			Subject 247	Italy		Gallus gallus	blood	Toxoplasma gondii TgCkIt1
 TgCkIt2	TgCkIt2 (DNA extract)			Subject 248	Italy		Gallus gallus	blood	Toxoplasma gondii TgCkIt2
@@ -281,32 +281,32 @@ TgFxSv148	TgFxSv148 (DNA extract)			Subject 279	Svalbard Archipelago		Vulpes lag
 TgFxSv175	TgFxSv175 (DNA extract)			Subject 280	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv175
 TgFxSv177	TgFxSv177 (DNA extract)			Subject 281	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv177
 TgFxSv178	TgFxSv178 (DNA extract)			Subject 282	Svalbard Archipelago		Vulpes lagopus	blood	Toxoplasma gondii TgFxSv178
-MUC	MUC (DNA extract)			Subject 283	Belgium		Homo sapienss	blood	Toxoplasma gondii MUC
-PSC	PSC (DNA extract)			Subject 284	Germany		Homo sapienss	blood	Toxoplasma gondii PSC
-3440	3440 (DNA extract)			Subject 285	Germany		Homo sapienss	blood	Toxoplasma gondii 3440
-GJL	GJL (DNA extract)			Subject 286	[Former] Yugoslavia		Homo sapienss	blood	Toxoplasma gondii GJL
-COR	COR (DNA extract)			Subject 287	French Republic		Homo sapienss	blood	Toxoplasma gondii COR
-LEG-NJA	LEG-NJA (DNA extract)			Subject 288	French Republic		Homo sapienss	blood	Toxoplasma gondii LEG-NJA
-LGE97-3	LGE97-3 (DNA extract)			Subject 289	French Republic		Homo sapienss	blood	Toxoplasma gondii LGE97-3
-AFI	AFI (DNA extract)			Subject 290	Germany		Homo sapienss	blood	Toxoplasma gondii AFI
-CHA	CHA (DNA extract)			Subject 291	Belgium		Homo sapienss	blood	Toxoplasma gondii CHA
-FUN	FUN (DNA extract)			Subject 292	Belgium		Homo sapienss	blood	Toxoplasma gondii FUN
-DEG	DEG (DNA extract)			Subject 293	French Republic		Homo sapienss	blood	Toxoplasma gondii DEG
-Tg51	Tg51 (DNA extract)			Subject 294	French Republic		Homo sapienss	blood	Toxoplasma gondii Tg51
-PRU	PRU (DNA extract)			Subject 295	French Republic		Homo sapienss	blood	Toxoplasma gondii PRU
-RMS-MAU	RMS-MAU (DNA extract)			Subject 296	French Republic		Homo sapienss	blood	Toxoplasma gondii RMS-MAU
-BOF	BOF (DNA extract)			Subject 297	Belgium		Homo sapienss	blood	Toxoplasma gondii BOF
-GPHT	GPHT (DNA extract)			Subject 298	French Republic		Homo sapienss	blood	Toxoplasma gondii GPHT
-FOU	FOU (DNA extract)			Subject 299	French Republic		Homo sapienss	blood	Toxoplasma gondii FOU
-ENT	ENT (DNA extract)			Subject 300	French Republic		Homo sapienss	blood	Toxoplasma gondii ENT
-MOR	MOR (DNA extract)			Subject 301	French Republic		Homo sapienss	blood	Toxoplasma gondii MOR
-BK	BK (DNA extract)			Subject 302	Kingdom of the Netherlands		Homo sapienss	blood	Toxoplasma gondii BK
-P	P (DNA extract)			Subject 303	French Republic		Homo sapienss	blood	Toxoplasma gondii P
-PiL	PiL (DNA extract)			Subject 304	French Republic		Homo sapienss	blood	Toxoplasma gondii PiL
-GiL	GiL (DNA extract)			Subject 305	French Republic		Homo sapienss	blood	Toxoplasma gondii GiL
-MAS	MAS (DNA extract)			Subject 306	French Republic		Homo sapienss	blood	Toxoplasma gondii MAS
-IPP-URB	IPP-URB (DNA extract)			Subject 307	French Republic		Homo sapienss	blood	Toxoplasma gondii IPP-URB
-LGE-2007-CUV	LGE-2007-CUV (DNA extract)			Subject 308	French Republic		Homo sapienss	blood	Toxoplasma gondii LGE-2007-CUV
+MUC	MUC (DNA extract)			Subject 283	Belgium		Homo sapiens	blood	Toxoplasma gondii MUC
+PSC	PSC (DNA extract)			Subject 284	Germany		Homo sapiens	blood	Toxoplasma gondii PSC
+3440	3440 (DNA extract)			Subject 285	Germany		Homo sapiens	blood	Toxoplasma gondii 3440
+GJL	GJL (DNA extract)			Subject 286	[Former] Yugoslavia		Homo sapiens	blood	Toxoplasma gondii GJL
+COR	COR (DNA extract)			Subject 287	French Republic		Homo sapiens	blood	Toxoplasma gondii COR
+LEG-NJA	LEG-NJA (DNA extract)			Subject 288	French Republic		Homo sapiens	blood	Toxoplasma gondii LEG-NJA
+LGE97-3	LGE97-3 (DNA extract)			Subject 289	French Republic		Homo sapiens	blood	Toxoplasma gondii LGE97-3
+AFI	AFI (DNA extract)			Subject 290	Germany		Homo sapiens	blood	Toxoplasma gondii AFI
+CHA	CHA (DNA extract)			Subject 291	Belgium		Homo sapiens	blood	Toxoplasma gondii CHA
+FUN	FUN (DNA extract)			Subject 292	Belgium		Homo sapiens	blood	Toxoplasma gondii FUN
+DEG	DEG (DNA extract)			Subject 293	French Republic		Homo sapiens	blood	Toxoplasma gondii DEG
+Tg51	Tg51 (DNA extract)			Subject 294	French Republic		Homo sapiens	blood	Toxoplasma gondii Tg51
+PRU	PRU (DNA extract)			Subject 295	French Republic		Homo sapiens	blood	Toxoplasma gondii PRU
+RMS-MAU	RMS-MAU (DNA extract)			Subject 296	French Republic		Homo sapiens	blood	Toxoplasma gondii RMS-MAU
+BOF	BOF (DNA extract)			Subject 297	Belgium		Homo sapiens	blood	Toxoplasma gondii BOF
+GPHT	GPHT (DNA extract)			Subject 298	French Republic		Homo sapiens	blood	Toxoplasma gondii GPHT
+FOU	FOU (DNA extract)			Subject 299	French Republic		Homo sapiens	blood	Toxoplasma gondii FOU
+ENT	ENT (DNA extract)			Subject 300	French Republic		Homo sapiens	blood	Toxoplasma gondii ENT
+MOR	MOR (DNA extract)			Subject 301	French Republic		Homo sapiens	blood	Toxoplasma gondii MOR
+BK	BK (DNA extract)			Subject 302	Kingdom of the Netherlands		Homo sapiens	blood	Toxoplasma gondii BK
+P	P (DNA extract)			Subject 303	French Republic		Homo sapiens	blood	Toxoplasma gondii P
+PiL	PiL (DNA extract)			Subject 304	French Republic		Homo sapiens	blood	Toxoplasma gondii PiL
+GiL	GiL (DNA extract)			Subject 305	French Republic		Homo sapiens	blood	Toxoplasma gondii GiL
+MAS	MAS (DNA extract)			Subject 306	French Republic		Homo sapiens	blood	Toxoplasma gondii MAS
+IPP-URB	IPP-URB (DNA extract)			Subject 307	French Republic		Homo sapiens	blood	Toxoplasma gondii IPP-URB
+LGE-2007-CUV	LGE-2007-CUV (DNA extract)			Subject 308	French Republic		Homo sapiens	blood	Toxoplasma gondii LGE-2007-CUV
 BEV	BEV (DNA extract)			Subject 309	United Kingdom		Oryctolagus cuniculus	blood	Toxoplasma gondii BEV
 B70	B70 (DNA extract)			Subject 310	United States of America		Ursus sp.	blood	Toxoplasma gondii B70
 TgBbPa3	TgBbPa3 (DNA extract)			Subject 311	United States of America		Ursus americanus	blood	Toxoplasma gondii TgBbPa3
@@ -454,19 +454,19 @@ TgBsCoUS3	TgBsCoUS3 (DNA extract)			Subject 452	United States of America		Buteo 
 TgBlUS1	TgBlUS1 (DNA extract)			Subject 453	United States of America		Buteo lagopus	blood	Toxoplasma gondii TgBlUS1
 TgBjUS1	TgBjUS1 (DNA extract)			Subject 454	United States of America		Buteo jamaicensis	blood	Toxoplasma gondii TgBjUS1
 TgBsCoUS1	TgBsCoUS1 (DNA extract)			Subject 455	United States of America		Buteo swainsoni	blood	Toxoplasma gondii TgBsCoUS1
-PE	PE (DNA extract)			Subject 456	United States of America		Homo sapienss	blood	Toxoplasma gondii PE
-PIH	PIH (DNA extract)			Subject 457	United States of America		Homo sapienss	blood	Toxoplasma gondii PIH
-VEG	VEG (DNA extract)			Subject 458	United States of America		Homo sapienss	blood	Toxoplasma gondii VEG
-EDZ	EDZ (DNA extract)			Subject 459	United States of America		Homo sapienss	blood	Toxoplasma gondii EDZ
-STRL	STRL (DNA extract)			Subject 460	United States of America		Homo sapienss	blood	Toxoplasma gondii STRL
-ASH	ASH (DNA extract)			Subject 461	United States of America		Homo sapienss	blood	Toxoplasma gondii ASH
-ARI	ARI (DNA extract)			Subject 462	United States of America		Homo sapienss	blood	Toxoplasma gondii ARI
-RAY	RAY (DNA extract)			Subject 463	United States of America		Homo sapienss	blood	Toxoplasma gondii RAY
-RH88	RH88 (DNA extract)			Subject 464	United States of America		Homo sapienss	blood	Toxoplasma gondii RH88
-VEL	VEL (DNA extract)			Subject 465	United States of America		Homo sapienss	blood	Toxoplasma gondii VEL
-CAST	CAST (DNA extract)			Subject 466	United States of America		Homo sapienss	blood	Toxoplasma gondii CAST
-ROD	ROD (DNA extract)			Subject 467	United States of America		Homo sapienss	blood	Toxoplasma gondii ROD
-SOU	SOU (DNA extract)			Subject 468	United States of America		Homo sapienss	blood	Toxoplasma gondii SOU
+PE	PE (DNA extract)			Subject 456	United States of America		Homo sapiens	blood	Toxoplasma gondii PE
+PIH	PIH (DNA extract)			Subject 457	United States of America		Homo sapiens	blood	Toxoplasma gondii PIH
+VEG	VEG (DNA extract)			Subject 458	United States of America		Homo sapiens	blood	Toxoplasma gondii VEG
+EDZ	EDZ (DNA extract)			Subject 459	United States of America		Homo sapiens	blood	Toxoplasma gondii EDZ
+STRL	STRL (DNA extract)			Subject 460	United States of America		Homo sapiens	blood	Toxoplasma gondii STRL
+ASH	ASH (DNA extract)			Subject 461	United States of America		Homo sapiens	blood	Toxoplasma gondii ASH
+ARI	ARI (DNA extract)			Subject 462	United States of America		Homo sapiens	blood	Toxoplasma gondii ARI
+RAY	RAY (DNA extract)			Subject 463	United States of America		Homo sapiens	blood	Toxoplasma gondii RAY
+RH88	RH88 (DNA extract)			Subject 464	United States of America		Homo sapiens	blood	Toxoplasma gondii RH88
+VEL	VEL (DNA extract)			Subject 465	United States of America		Homo sapiens	blood	Toxoplasma gondii VEL
+CAST	CAST (DNA extract)			Subject 466	United States of America		Homo sapiens	blood	Toxoplasma gondii CAST
+ROD	ROD (DNA extract)			Subject 467	United States of America		Homo sapiens	blood	Toxoplasma gondii ROD
+SOU	SOU (DNA extract)			Subject 468	United States of America		Homo sapiens	blood	Toxoplasma gondii SOU
 TgFsUS1	TgFsUS1 (DNA extract)			Subject 469	United States of America		Falco sparverius	blood	Toxoplasma gondii TgFsUS1
 TgMmUs2	TgMmUs2 (DNA extract)			Subject 470	United States of America		Mus	blood	Toxoplasma gondii TgMmUs2
 TgWfmMt1	TgWfmMt1 (DNA extract)			Subject 471	United States of America		Peromyscus leucopus	blood	Toxoplasma gondii TgWfmMt1
@@ -1385,36 +1385,36 @@ TgGtBr7	TgGtBr7 (DNA extract)			Subject 1383	Brazil		Capra hircus	blood	Toxoplas
 TgGtBr12	TgGtBr12 (DNA extract)			Subject 1384	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr12
 TgGtBr5	TgGtBr5 (DNA extract)			Subject 1385	Brazil		Capra hircus	blood	Toxoplasma gondii TgGtBr5
 TgNmBr1	TgNmBr1 (DNA extract)			Subject 1386	Brazil		Numididae	blood	Toxoplasma gondii TgNmBr1
-534N	534N (DNA extract)			Subject 1387	Brazil		Homo sapienss	blood	Toxoplasma gondii 534N
-OH3	OH3 (DNA extract)			Subject 1388	Brazil		Homo sapienss	blood	Toxoplasma gondii OH3
-ATIH	ATIH (DNA extract)			Subject 1389	Uruguay		Homo sapienss	blood	Toxoplasma gondii ATIH
-IPP-BAT	IPP-BAT (DNA extract)			Subject 1390	Canada	French river	Homo sapienss	blood	Toxoplasma gondii IPP-BAT
-PSP-ERO_WGA	PSP-ERO_WGA (DNA extract)			Subject 1391	Guadeloupe Archipelago		Homo sapienss	blood	Toxoplasma gondii PSP-ERO_WGA
-GUY-KOE	GUY-KOE (DNA extract)			Subject 1392	Canada	French river	Homo sapienss	blood	Toxoplasma gondii GUY-KOE
-VAND	VAND (DNA extract)			Subject 1393	Canada	French river	Homo sapienss	blood	Toxoplasma gondii VAND
-477Co	477Co (DNA extract)			Subject 1394	Brazil		Homo sapienss	blood	Toxoplasma gondii 477Co
-244N	244N (DNA extract)			Subject 1395	Brazil		Homo sapienss	blood	Toxoplasma gondii 244N
-262N	262N (DNA extract)			Subject 1396	Brazil		Homo sapienss	blood	Toxoplasma gondii 262N
-331N	331N (DNA extract)			Subject 1397	Brazil		Homo sapienss	blood	Toxoplasma gondii 331N
-384N	384N (DNA extract)			Subject 1398	Brazil		Homo sapienss	blood	Toxoplasma gondii 384N
-581N	581N (DNA extract)			Subject 1399	Brazil		Homo sapienss	blood	Toxoplasma gondii 581N
-692N	692N (DNA extract)			Subject 1400	Brazil		Homo sapienss	blood	Toxoplasma gondii 692N
-704N	704N (DNA extract)			Subject 1401	Brazil		Homo sapienss	blood	Toxoplasma gondii 704N
-527N	527N (DNA extract)			Subject 1402	Brazil		Homo sapienss	blood	Toxoplasma gondii 527N
-176Co	176Co (DNA extract)			Subject 1403	Brazil		Homo sapienss	blood	Toxoplasma gondii 176Co
-539O	539O (DNA extract)			Subject 1404	Brazil		Homo sapienss	blood	Toxoplasma gondii 539O
-571O	571O (DNA extract)			Subject 1405	Brazil		Homo sapienss	blood	Toxoplasma gondii 571O
-441N	441N (DNA extract)			Subject 1406	Brazil		Homo sapienss	blood	Toxoplasma gondii 441N
-508N	508N (DNA extract)			Subject 1407	Brazil		Homo sapienss	blood	Toxoplasma gondii 508N
-358N	358N (DNA extract)			Subject 1408	Brazil		Homo sapienss	blood	Toxoplasma gondii 358N
-607O	607O (DNA extract)			Subject 1409	Brazil		Homo sapienss	blood	Toxoplasma gondii 607O
-616O	616O (DNA extract)			Subject 1410	Brazil		Homo sapienss	blood	Toxoplasma gondii 616O
-622O	622O (DNA extract)			Subject 1411	Brazil		Homo sapienss	blood	Toxoplasma gondii 622O
-180N	180N (DNA extract)			Subject 1412	Brazil		Homo sapienss	blood	Toxoplasma gondii 180N
-GUY-MAT	GUY-MAT (DNA extract)			Subject 1413	Canada	French river	Homo sapienss	blood	Toxoplasma gondii GUY-MAT
-GUY-DOS	GUY-DOS (DNA extract)			Subject 1414	Canada	French river	Homo sapienss	blood	Toxoplasma gondii GUY-DOS
-RUB	RUB (DNA extract)			Subject 1415	Canada	French river	Homo sapienss	blood	Toxoplasma gondii RUB
-GUY-BAS1	GUY-BAS1 (DNA extract)			Subject 1416	Canada	French river	Homo sapienss	blood	Toxoplasma gondii GUY-BAS1
+534N	534N (DNA extract)			Subject 1387	Brazil		Homo sapiens	blood	Toxoplasma gondii 534N
+OH3	OH3 (DNA extract)			Subject 1388	Brazil		Homo sapiens	blood	Toxoplasma gondii OH3
+ATIH	ATIH (DNA extract)			Subject 1389	Uruguay		Homo sapiens	blood	Toxoplasma gondii ATIH
+IPP-BAT	IPP-BAT (DNA extract)			Subject 1390	Canada	French river	Homo sapiens	blood	Toxoplasma gondii IPP-BAT
+PSP-ERO_WGA	PSP-ERO_WGA (DNA extract)			Subject 1391	Guadeloupe Archipelago		Homo sapiens	blood	Toxoplasma gondii PSP-ERO_WGA
+GUY-KOE	GUY-KOE (DNA extract)			Subject 1392	Canada	French river	Homo sapiens	blood	Toxoplasma gondii GUY-KOE
+VAND	VAND (DNA extract)			Subject 1393	Canada	French river	Homo sapiens	blood	Toxoplasma gondii VAND
+477Co	477Co (DNA extract)			Subject 1394	Brazil		Homo sapiens	blood	Toxoplasma gondii 477Co
+244N	244N (DNA extract)			Subject 1395	Brazil		Homo sapiens	blood	Toxoplasma gondii 244N
+262N	262N (DNA extract)			Subject 1396	Brazil		Homo sapiens	blood	Toxoplasma gondii 262N
+331N	331N (DNA extract)			Subject 1397	Brazil		Homo sapiens	blood	Toxoplasma gondii 331N
+384N	384N (DNA extract)			Subject 1398	Brazil		Homo sapiens	blood	Toxoplasma gondii 384N
+581N	581N (DNA extract)			Subject 1399	Brazil		Homo sapiens	blood	Toxoplasma gondii 581N
+692N	692N (DNA extract)			Subject 1400	Brazil		Homo sapiens	blood	Toxoplasma gondii 692N
+704N	704N (DNA extract)			Subject 1401	Brazil		Homo sapiens	blood	Toxoplasma gondii 704N
+527N	527N (DNA extract)			Subject 1402	Brazil		Homo sapiens	blood	Toxoplasma gondii 527N
+176Co	176Co (DNA extract)			Subject 1403	Brazil		Homo sapiens	blood	Toxoplasma gondii 176Co
+539O	539O (DNA extract)			Subject 1404	Brazil		Homo sapiens	blood	Toxoplasma gondii 539O
+571O	571O (DNA extract)			Subject 1405	Brazil		Homo sapiens	blood	Toxoplasma gondii 571O
+441N	441N (DNA extract)			Subject 1406	Brazil		Homo sapiens	blood	Toxoplasma gondii 441N
+508N	508N (DNA extract)			Subject 1407	Brazil		Homo sapiens	blood	Toxoplasma gondii 508N
+358N	358N (DNA extract)			Subject 1408	Brazil		Homo sapiens	blood	Toxoplasma gondii 358N
+607O	607O (DNA extract)			Subject 1409	Brazil		Homo sapiens	blood	Toxoplasma gondii 607O
+616O	616O (DNA extract)			Subject 1410	Brazil		Homo sapiens	blood	Toxoplasma gondii 616O
+622O	622O (DNA extract)			Subject 1411	Brazil		Homo sapiens	blood	Toxoplasma gondii 622O
+180N	180N (DNA extract)			Subject 1412	Brazil		Homo sapiens	blood	Toxoplasma gondii 180N
+GUY-MAT	GUY-MAT (DNA extract)			Subject 1413	Canada	French river	Homo sapiens	blood	Toxoplasma gondii GUY-MAT
+GUY-DOS	GUY-DOS (DNA extract)			Subject 1414	Canada	French river	Homo sapiens	blood	Toxoplasma gondii GUY-DOS
+RUB	RUB (DNA extract)			Subject 1415	Canada	French river	Homo sapiens	blood	Toxoplasma gondii RUB
+GUY-BAS1	GUY-BAS1 (DNA extract)			Subject 1416	Canada	French river	Homo sapiens	blood	Toxoplasma gondii GUY-BAS1
 GUY-2004-JAG1	GUY-2004-JAG1 (DNA extract)			Subject 1417	Canada	French river	Panthera onca	blood	Toxoplasma gondii GUY-2004-JAG1
 TgJagBr1	TgJagBr1 (DNA extract)			Subject 1418	Brazil		Puma yagouaroundi	blood	Toxoplasma gondii TgJagBr1
 TgRhHmBr1	TgRhHmBr1 (DNA extract)			Subject 1419	Brazil		Alouatta belcebul	blood	Toxoplasma gondii TgRhHmBr1
