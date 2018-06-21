@@ -143,6 +143,9 @@
     <name>age at visit</name>
     <function>splitUnitFromValue</function>
   </ontologyTerm>
+  <ontologyTerm source_id="EFO_0005056" type="characteristicQualifier" parent="Source">
+    <name>age at death</name>
+  </ontologyTerm>
 
   <ontologyTerm source_id="PATO_0001415" type="characteristicQualifier" parent="Source">
     <name>morbidity</name>
