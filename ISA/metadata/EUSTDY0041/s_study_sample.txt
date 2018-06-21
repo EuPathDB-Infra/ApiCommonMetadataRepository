@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism ID]	Characteristics[organism]	Characteristics[specimen]	Characteristics[lab host]	Characteristics[morbidity]	Characteristic [age at death]	Characteristics[parasite organism]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism ID]	Characteristics[organism]	Characteristics[specimen]	Characteristics[lab host]	Characteristics[morbidity]	Characteristics[age at death]	Characteristics[parasite organism]
 TgCkBrRj2	TgCkBrRj2			Brazil	Chicken 1	Gallus gallus domesticus	Lung	Mus musculus	100	13 days	Toxoplasma gondii TgCkBrRj2
 TgCkBrRj3	TgCkBrRj3			Brazil	Chicken 2	Gallus gallus domesticus	Lung	Mus musculus	100	8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 21, 24, 29, 45, 48 days	Toxoplasma gondii TgCkBrRj3
 TgCkBrRj4	TgCkBrRj4			Brazil	Chicken 3	Gallus gallus domesticus	Lung	Mus musculus	100	12, 13, 14, 19 days	Toxoplasma gondii TgCkBrRj4
