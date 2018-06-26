@@ -21,5 +21,5 @@ Afu_124-E11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigat
 Afu_166-E11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Bihar	2011	Triazole resistant	Environmental	Aspergillus fumigatus	Afu 166/E11
 Afu_257-E11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Bihar	2011	Triazole resistant	Environmental	Aspergillus fumigatus	Afu 257/E11
 Afu_218-E11	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			India	 Delhi	2011	Triazole resistant	Environmental	Aspergillus fumigatus	Afu 218/E11
-AF65	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK		1997	Triazole susceptible	Clinical	Aspergillus fumigatus	AF65 (NCPF 7097)
-AF293	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK		1993	Triazole susceptible	Clinical	Aspergillus fumigatus	AF293 (NCPF 7367)
+Af65	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK		1997	Triazole susceptible	Clinical	Aspergillus fumigatus	AF65 (NCPF 7097)
+Af293_resequence2	Genomic Context of Azole-Resistance Mutations in Aspergillus fumigatus			UK		1993	Triazole susceptible	Clinical	Aspergillus fumigatus	AF293 (NCPF 7367)
