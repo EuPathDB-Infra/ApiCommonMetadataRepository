@@ -1,7 +1,7 @@
 <investigation identifierRegex="^(MBSTDY)\d+$" identifierIsDirectoryName="true">
 
   <study fileName="s_study_sample_1064.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
-    <dataset>otu_EMP_1064_Bee_Microbiome_RSRC</dataset>
+    <dataset>otuDADA2_EMP_1064_Bee_Microbiome_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
@@ -70,7 +70,7 @@
   </study>
 
   <study fileName="s_study_sample_1928.txt" identifierSuffix="-4" sampleRegex="MBSMPL">
-    <dataset>otu_EMP_1928_HMP_V35_RSRC</dataset>
+    <dataset>otuDADA2_EMP_1928_HMP_V35_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
