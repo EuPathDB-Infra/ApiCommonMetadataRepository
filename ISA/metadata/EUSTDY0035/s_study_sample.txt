@@ -1,13 +1,13 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Parameter Value [Specimen Collection Date]	Parameter Value [Specimen Collection Year]	Characteristics[parasite organism]	Characteristics[specimen]
-CUK1	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK1			Turkey	human	20050923	2005	Leishmania infantum CUK1	specimen from organism
-CUK2	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK2			Turkey	Phlebotomus tobbi	20050923	2005	Leishmania infantum CUK2	specimen from organism
-CUK3	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK3			Turkey	Phlebotomus tobbi	20050926	2005	Leishmania infantum CUK3	specimen from organism
-CUK4	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK4			Turkey	Phlebotomus tobbi	20060919	2006	Leishmania infantum CUK4	specimen from organism
-CUK5	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK5			Turkey	Phlebotomus tobbi	20060919	2006	Leishmania infantum CUK5	specimen from organism
-CUK6	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK6			Turkey	Phlebotomus tobbi	20060919	2006	Leishmania infantum CUK6	specimen from organism
-CUK7	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK7			Turkey	Phlebotomus tobbi	20060919	2006	Leishmania infantum CUK7	specimen from organism
-CUK8	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK8			Turkey	Phlebotomus tobbi	20060916	2006	Leishmania infantum CUK8	specimen from organism
-CUK9	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK9			Turkey	Phlebotomus tobbi	20070925	2007	Leishmania infantum CUK9	specimen from organism
-CUK10	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK10			Turkey	Phlebotomus tobbi	20070925	2007	Leishmania infantum CUK10	specimen from organism
-CUK11	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK11			Turkey	Phlebotomus tobbi	20070925	2007	Leishmania infantum CUK11	specimen from organism
-CUK12	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK12			Turkey	Phlebotomus tobbi	20070925	2007	Leishmania infantum CUK12	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Parameter Value [Specimen Collection Date]	Parameter Value [Specimen Collection Year]	Characteristics[parasite organism]	Characteristics[specimen]	Characteristics[parasite strain]
+CUK1	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK1			Turkey	human	20050923	2005	Leishmania infantum	specimen from organism	Leishmania infantum CUK1
+CUK2	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK2			Turkey	Phlebotomus tobbi	20050923	2005	Leishmania infantum	specimen from organism	Leishmania infantum CUK2
+CUK3	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK3			Turkey	Phlebotomus tobbi	20050926	2005	Leishmania infantum	specimen from organism	Leishmania infantum CUK3
+CUK4	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK4			Turkey	Phlebotomus tobbi	20060919	2006	Leishmania infantum	specimen from organism	Leishmania infantum CUK4
+CUK5	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK5			Turkey	Phlebotomus tobbi	20060919	2006	Leishmania infantum	specimen from organism	Leishmania infantum CUK5
+CUK6	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK6			Turkey	Phlebotomus tobbi	20060919	2006	Leishmania infantum	specimen from organism	Leishmania infantum CUK6
+CUK7	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK7			Turkey	Phlebotomus tobbi	20060919	2006	Leishmania infantum	specimen from organism	Leishmania infantum CUK7
+CUK8	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK8			Turkey	Phlebotomus tobbi	20060916	2006	Leishmania infantum	specimen from organism	Leishmania infantum CUK8
+CUK9	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK9			Turkey	Phlebotomus tobbi	20070925	2007	Leishmania infantum	specimen from organism	Leishmania infantum CUK9
+CUK10	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK10			Turkey	Phlebotomus tobbi	20070925	2007	Leishmania infantum	specimen from organism	Leishmania infantum CUK10
+CUK11	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK11			Turkey	Phlebotomus tobbi	20070925	2007	Leishmania infantum	specimen from organism	Leishmania infantum CUK11
+CUK12	Illumina HiSeq 2000 paired end sequencing of Leishmania infantum strain CUK12			Turkey	Phlebotomus tobbi	20070925	2007	Leishmania infantum	specimen from organism	Leishmania infantum CUK12

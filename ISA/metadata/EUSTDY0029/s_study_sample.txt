@@ -1,8 +1,8 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]
-MHOMBR75M2904	Illumina Genome Analyzer II paired end sequencing of Leishmania braziliensis strain M2904			Leishmania braziliensis M2904	specimen from organism
-BPK206	Illumina Genome Analyzer II paired end sequencing of Leishmania donovani strain BPK206			Leishmania donovani BPK206	specimen from organism
-LV9	Illumina Genome Analyzer II paired end sequencing of Leishmania donovani strain LV9			Leishmani donovani LV9	specimen from organism
-JPCM5	Illumina Genome Analyzer II paired end sequencing of Leishmania infantum strain JPCM5			Leishmania infantum JPCM5	specimen from organism
-Friedlin	Illumina Genome Analyzer II paired end sequencing of Leishmania major strain Friedlin			Leishmania major Friedlin	specimen from organism
-LV39	Illumina Genome Analyzer II paired end sequencing of Leishmania major strain LV39			Leishmani major LV39	specimen from organism
-MHOMGT2001U1103	Illumina Genome Analyzer II paired end sequencing of Leishmania mexicana strain U1103			Leishmania mexicana MHOMGT2001U1103	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]	Characteristics[parasite strain]
+MHOMBR75M2904	Illumina Genome Analyzer II paired end sequencing of Leishmania braziliensis strain M2904			Leishmania braziliensis	specimen from organism	Leishmania braziliensis M2904
+BPK206	Illumina Genome Analyzer II paired end sequencing of Leishmania donovani strain BPK206			Leishmania donovani	specimen from organism	Leishmania donovani BPK206
+LV9	Illumina Genome Analyzer II paired end sequencing of Leishmania donovani strain LV9			Leishmania donovani	specimen from organism	Leishmania donovani LV9
+JPCM5	Illumina Genome Analyzer II paired end sequencing of Leishmania infantum strain JPCM5			Leishmania infantum	specimen from organism	Leishmania infantum JPCM5
+Friedlin	Illumina Genome Analyzer II paired end sequencing of Leishmania major strain Friedlin			Leishmania major	specimen from organism	Leishmania major Friedlin
+LV39	Illumina Genome Analyzer II paired end sequencing of Leishmania major strain LV39			Leishmania major	specimen from organism	Leishmania major LV39
+MHOMGT2001U1103	Illumina Genome Analyzer II paired end sequencing of Leishmania mexicana strain U1103			Leishmania mexicana	specimen from organism	Leishmania mexicana MHOMGT2001U1103

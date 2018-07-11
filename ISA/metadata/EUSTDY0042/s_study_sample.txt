@@ -1,9 +1,9 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Characteristics[health_status]	Parameter Value [collection Year]	Characteristics[parasite organism]
-HK9				South Korea	human	amebiasis	1951	Entamoeba histolytica HK9
-IULA				Venezuela	human	amebiasis	1992	Entamoeba histolytica IULA
-MS27				Bangladesh	human	asymptomatic	2006	Entamoeba histolytica MS27
-MS84				Bangladesh	human	asymptomatic	2006	Entamoeba histolytica MS84
-PVB				Italy	human	amebiasis	2007	Entamoeba histolytica PVB
-PVF				Italy	human	amebiasis	2007	Entamoeba histolytica PVF
-Rahman				United Kingdom	human	asymptomatic	1964	Entamoeba histolytica Rahman
-2592100				Bangladesh	human	amebiasis	2005	Entamoeba histolytica Strain2592100
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Characteristics[health_status]	Parameter Value [collection Year]	Characteristics[parasite organism]	Characteristics[parasite strain]
+HK9				South Korea	human	amebiasis	1951	Entamoeba histolytica	Entamoeba histolytica HK9
+IULA				Venezuela	human	amebiasis	1992	Entamoeba histolytica	Entamoeba histolytica IULA
+MS27				Bangladesh	human	asymptomatic	2006	Entamoeba histolytica	Entamoeba histolytica MS27
+MS84				Bangladesh	human	asymptomatic	2006	Entamoeba histolytica	Entamoeba histolytica MS84
+PVB				Italy	human	amebiasis	2007	Entamoeba histolytica	Entamoeba histolytica PVB
+PVF				Italy	human	amebiasis	2007	Entamoeba histolytica	Entamoeba histolytica PVF
+Rahman				United Kingdom	human	asymptomatic	1964	Entamoeba histolytica	Entamoeba histolytica Rahman
+2592100				Bangladesh	human	amebiasis	2005	Entamoeba histolytica	Entamoeba histolytica Strain 2592100

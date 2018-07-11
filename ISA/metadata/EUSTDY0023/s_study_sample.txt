@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]
-RH				Toxoplasma gondii RH	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]	Characteristics[parasite strain]
+RH				Toxoplasma gondii	specimen from organism	Toxoplasma gondii RH

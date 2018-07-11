@@ -1,9 +1,9 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Antibody	Characteristics[Replicate]	Characteristics[parasite organism]	Characteristics[specimen]
-RPB9_RNA_pol_II_2691502_ratio				RPB9_RNA_pol_II	Replicate 1	Toxoplasma gondii RH	cell specimen
-RPB9_RNA_pol_II_2696302_ratio				RPB9_RNA_pol_II	Replicate 2	Toxoplasma gondii RH	cell specimen
-SET8_89193_ratio				SET8	Replicate 1	Toxoplasma gondii RH	cell specimen
-SET8_89420_ratio				SET8	Replicate 2	Toxoplasma gondii RH	cell specimen
-TBP1_89169_ratio				TBP1	Replicate 1	Toxoplasma gondii RH	cell specimen
-TBP1_95391_ratio				TBP1	Replicate 2	Toxoplasma gondii RH	cell specimen
-TBP2_2696202_ratio				TBP2	Replicate 1	Toxoplasma gondii RH	cell specimen
-TBP2_2736002_ratio				TBP2	Replicate 2	Toxoplasma gondii RH	cell specimen
+Name	Description	SourceMTOverride	SampleMTOverride	Antibody	Characteristics[Replicate]	Characteristics[parasite organism]	Characteristics[specimen]	Characteristics[parasite strain]
+RPB9_RNA_pol_II_2691502_ratio				RPB9_RNA_pol_II	Replicate 1	Toxoplasma gondii	cell specimen	Toxoplasma gondii RH
+RPB9_RNA_pol_II_2696302_ratio				RPB9_RNA_pol_II	Replicate 2	Toxoplasma gondii	cell specimen	Toxoplasma gondii RH
+SET8_89193_ratio				SET8	Replicate 1	Toxoplasma gondii	cell specimen	Toxoplasma gondii RH
+SET8_89420_ratio				SET8	Replicate 2	Toxoplasma gondii	cell specimen	Toxoplasma gondii RH
+TBP1_89169_ratio				TBP1	Replicate 1	Toxoplasma gondii	cell specimen	Toxoplasma gondii RH
+TBP1_95391_ratio				TBP1	Replicate 2	Toxoplasma gondii	cell specimen	Toxoplasma gondii RH
+TBP2_2696202_ratio				TBP2	Replicate 1	Toxoplasma gondii	cell specimen	Toxoplasma gondii RH
+TBP2_2736002_ratio				TBP2	Replicate 2	Toxoplasma gondii	cell specimen	Toxoplasma gondii RH

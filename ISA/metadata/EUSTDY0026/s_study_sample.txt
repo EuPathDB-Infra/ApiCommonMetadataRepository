@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[fungus organism]	Characteristics[specimen]
-A1163				human	Aspergillus fumigatus A1163	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[fungus organism]	Characteristics[specimen]	Characteristics[fungal strain]
+A1163				human	Aspergillus fumigatus	specimen from organism	Aspergillus fumigatus A1163

@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[parasite organism]	Parameter Value[collection year]
-3D7_resequence1	Illumina sequencing of Plasmodium falciparum 3D7 from Sanger - Source_ID : ERR034295			chimp	Plasmodium falciparum 3D7	2011
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[parasite organism]	Parameter Value[collection year]	Characteristics[parasite strain]
+3D7_resequence1	Illumina sequencing of Plasmodium falciparum 3D7 from Sanger - Source_ID : ERR034295			chimp	Plasmodium falciparum	2011	Plasmodium falciparum 3D7

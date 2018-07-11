@@ -1,10 +1,10 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism ID]	Characteristics[organism]	Characteristics[specimen]	Characteristics[lab host]	Characteristics[morbidity]	Characteristics[age at death]	Characteristics[parasite organism]
-TgCkBrRj2	TgCkBrRj2			Brazil	Chicken 1	Gallus gallus domesticus	Lung	Mus musculus	100	13 days	Toxoplasma gondii TgCkBrRj2
-TgCkBrRj3	TgCkBrRj3			Brazil	Chicken 2	Gallus gallus domesticus	Lung	Mus musculus	100	8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 21, 24, 29, 45, 48 days	Toxoplasma gondii TgCkBrRj3
-TgCkBrRj4	TgCkBrRj4			Brazil	Chicken 3	Gallus gallus domesticus	Lung	Mus musculus	100	12, 13, 14, 19 days	Toxoplasma gondii TgCkBrRj4
-TgCkBrRj6	TgCkBrRj6			Brazil	Chicken 4	Gallus gallus domesticus	Lung	Mus musculus	100	9, 11, 13 days	Toxoplasma gondii TgCkBrRj6
-TgCkBrRj9	TgCkBrRj9			Brazil	Chicken 5	Gallus gallus domesticus	Lung	Mus musculus	80	10 days	Toxoplasma gondii TgCkBrRj9
-TgCkBrRj15	TgCkBrRj15			Brazil	Chicken 6	Gallus gallus domesticus	Lung	Mus musculus	100	8, 9 days	Toxoplasma gondii TgCkBrRj15
-TgCkBrRj21	TgCkBrRj21			Brazil	Chicken 7	Gallus gallus domesticus	Lung	Mus musculus	100	11, 12, 17 days	Toxoplasma gondii TgCkBrRj21
-TgCkBrRj22	TgCkBrRj22			Brazil	Chicken 8	Gallus gallus domesticus	Lung	Mus musculus	100	9, 10 days	Toxoplasma gondii TgCkBrRj22
-TgCkBrRj28	TgCkBrRj28			Brazil	Chicken 9	Gallus gallus domesticus	Brain	Mus musculus	100	8, 11 days	Toxoplasma gondii TgCkBrRj28
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism ID]	Characteristics[organism]	Characteristics[specimen]	Characteristics[lab host]	Characteristics[morbidity]	Characteristics[age at death]	Characteristics[parasite organism]	Characteristics[parasite strain]
+TgCkBrRj2	TgCkBrRj2			Brazil	Chicken 1	Gallus gallus domesticus	Lung	Mus musculus	100	13 days	Toxoplasma gondii	Toxoplasma gondii TgCkBrRj2
+TgCkBrRj3	TgCkBrRj3			Brazil	Chicken 2	Gallus gallus domesticus	Lung	Mus musculus	100	8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 21, 24, 29, 45, 48 days	Toxoplasma gondii	Toxoplasma gondii TgCkBrRj3
+TgCkBrRj4	TgCkBrRj4			Brazil	Chicken 3	Gallus gallus domesticus	Lung	Mus musculus	100	12, 13, 14, 19 days	Toxoplasma gondii	Toxoplasma gondii TgCkBrRj4
+TgCkBrRj6	TgCkBrRj6			Brazil	Chicken 4	Gallus gallus domesticus	Lung	Mus musculus	100	9, 11, 13 days	Toxoplasma gondii	Toxoplasma gondii TgCkBrRj6
+TgCkBrRj9	TgCkBrRj9			Brazil	Chicken 5	Gallus gallus domesticus	Lung	Mus musculus	80	10 days	Toxoplasma gondii	Toxoplasma gondii TgCkBrRj9
+TgCkBrRj15	TgCkBrRj15			Brazil	Chicken 6	Gallus gallus domesticus	Lung	Mus musculus	100	8, 9 days	Toxoplasma gondii	Toxoplasma gondii TgCkBrRj15
+TgCkBrRj21	TgCkBrRj21			Brazil	Chicken 7	Gallus gallus domesticus	Lung	Mus musculus	100	11, 12, 17 days	Toxoplasma gondii	Toxoplasma gondii TgCkBrRj21
+TgCkBrRj22	TgCkBrRj22			Brazil	Chicken 8	Gallus gallus domesticus	Lung	Mus musculus	100	9, 10 days	Toxoplasma gondii	Toxoplasma gondii TgCkBrRj22
+TgCkBrRj28	TgCkBrRj28			Brazil	Chicken 9	Gallus gallus domesticus	Brain	Mus musculus	100	8, 11 days	Toxoplasma gondii	Toxoplasma gondii TgCkBrRj28

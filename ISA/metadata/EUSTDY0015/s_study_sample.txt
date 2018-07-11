@@ -1,3 +1,3 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[organism ID]	Characteristics[country]	Characteristics[city]	Characteristics[parasite phenotype]	Characteristics[parasite organism]	Characteristics[specimen]
-Dd2-1	Illumina sequencing for Pfalciparum Dd2			human	EUSTDY0015 Subject 1	Laos	Indochina	Pyrimethamine, Mefloquine and Cloroquine resistant	Plasmodium falciparum Dd2-1	specimen from organism
-707A	Illumina sequencing for Pfalciparum 707A			human	EUSTDY0015 Subject 2				Plasmodium falciparum 707A	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[organism ID]	Characteristics[country]	Characteristics[city]	Characteristics[parasite phenotype]	Characteristics[parasite organism]	Characteristics[specimen]	Characteristics[parasite strain]
+Dd2-1	Illumina sequencing for Pfalciparum Dd2			human	EUSTDY0015 Subject 1	Laos	Indochina	Pyrimethamine, Mefloquine and Cloroquine resistant	Plasmodium falciparum	specimen from organism	Plasmodium falciparum Dd2-1
+707A	Illumina sequencing for Pfalciparum 707A			human	EUSTDY0015 Subject 2				Plasmodium falciparum	specimen from organism	Plasmodium falciparum 707A

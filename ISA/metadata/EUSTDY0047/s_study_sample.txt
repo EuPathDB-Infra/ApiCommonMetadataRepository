@@ -1,5 +1,5 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Antibody	Compound	Characteristics[parasite organism]	Characteristics[specimen]
-7924102_ratio				H4(K5-K8-K12-K16)ac	DMSO control	Toxoplasma gondii RH	cell specimen
-7924502_ratio				H4(K5-K8-K12-K16)ac	FR2352222 (Drug A)	Toxoplasma gondii RH	cell specimen
-7924902_ratio				H4(K5-K8-K12-K16)ac	DMSO control	Toxoplasma gondii RH	cell specimen
-7926902_ratio				H4(K5-K8-K12-K16)ac	FR2352222 (Drug A)	Toxoplasma gondii RH	cell specimen
+Name	Description	SourceMTOverride	SampleMTOverride	Antibody	Compound	Characteristics[parasite organism]	Characteristics[specimen]	Characteristics[parasite strain]
+7924102_ratio				H4(K5-K8-K12-K16)ac	DMSO control	Toxoplasma gondii	cell specimen	Toxoplasma gondii RH
+7924502_ratio				H4(K5-K8-K12-K16)ac	FR2352222 (Drug A)	Toxoplasma gondii	cell specimen	Toxoplasma gondii RH
+7924902_ratio				H4(K5-K8-K12-K16)ac	DMSO control	Toxoplasma gondii	cell specimen	Toxoplasma gondii RH
+7926902_ratio				H4(K5-K8-K12-K16)ac	FR2352222 (Drug A)	Toxoplasma gondii	cell specimen	Toxoplasma gondii RH

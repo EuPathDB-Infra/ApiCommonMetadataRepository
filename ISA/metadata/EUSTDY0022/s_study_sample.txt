@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Characteristics[parasite organism]	Characteristics[specimen]
-HhCatGer041	Illumina genome sequence Hammondia hammondi isolate HhCatGer041, submitted to SRA			Germany	Felis catus	Hammondia hammondi HhCatGer041	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Characteristics[parasite organism]	Characteristics[specimen]	Characteristics[parasite strain]
+HhCatGer041	Illumina genome sequence Hammondia hammondi isolate HhCatGer041, submitted to SRA			Germany	Felis catus	Hammondia hammondi	specimen from organism	Hammondia hammondi HhCatGer041

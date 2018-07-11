@@ -1,63 +1,63 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Parameter Value [collection year]	Characteristics[parasite organism]	Characteristics[haplogroup]	Characteristics[specimen]
-ARI	Toxoplasma gondii ARI whole genome,Human(transplant), Illumina reads submitted to SRA			USA	Homo sapiens	1992	Toxoplasma gondii ARI	12	cell specimen
-CAST	Toxoplasma gondii CAST whole genome,Human(AIDS), Illumina reads submitted to SRA			USA	Homo sapiens	1988	Toxoplasma gondii CAST	7	cell specimen
-COUG	Toxoplasma gondii COUG whole genome, Illumina reads submitted to SRA			Canada	Puma concolor couguar	1996	Toxoplasma gondii COUG	11	cell specimen
-FOU	Toxoplasma gondii FOU whole genome,Human(transplant), Illumina reads submitted to SRA			France	Homo sapiens	1992	Toxoplasma gondii FOU	6a	cell specimen
-GAB2-2007-GAL-DOM2	Toxoplasma gondii GAB2-2007-GAL-DOM2 whole genome, Illumina reads submitted to SRA			Gabon	Gallus gallus	2007	Toxoplasma gondii GAB2-2007-GAL-DOM2	14	cell specimen
-GT1	Toxoplasma gondii GT1 whole genome, Illumina reads submitted to SRA			USA	Ovis aries	1980	Toxoplasma gondii GT1	1	cell specimen
-MAS	Toxoplasma gondii MAS whole genome,Human(congenital,) Illumina reads submitted to SRA			France	Homo sapiens	1991	Toxoplasma gondii MAS	4	cell specimen
-p89	Toxoplasma gondii p89 whole genome, Illumina reads submitted to SRA			USA	Sus scrofa	1991	Toxoplasma gondii p89	9	cell specimen
-RUB	Toxoplasma gondii RUB whole genome,Human(adult), Illumina reads submitted to SRA			French Guiana	Homo sapiens	1992	Toxoplasma gondii RUB	5	cell specimen
-TgCat_PRC2	Toxoplasma gondii wTgCat PRC2 hole genome, Illumina reads submitted to SRA			China	Felis catus	2007	Toxoplasma gondii TgCat PRC2	13	cell specimen
-TgCATBr5	Toxoplasma gondii TgCATBr5 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii TgCATBr5	8	cell specimen
-TgCATBr9	Toxoplasma gondii TgCATBr5 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii TgCATBr9	6b	cell specimen
-TgCtCo5	Toxoplasma gondii TgCtCo5 whole genome, Illumina reads submitted to SRA			Columbia	Felis catus	2006	Toxoplasma gondii TgCtCo5	15	cell specimen
-VAND	Toxoplasma gondii VAND whole genome,Human(adult) Illumina reads submitted to SRA			French Guiana	Homo sapiens	1996	Toxoplasma gondii VAND	10	cell specimen
-VEG	Toxoplasma gondii VEG whole genome, Illumina reads submitted to SRA			USA	Capra hircus	1988	Toxoplasma gondii VEG	3	cell specimen
-B41	Toxoplasma gondii B41 whole genome, Illumina reads submitted to SRA			USA	Ursus sp.	1994	Toxoplasma gondii B41	12	cell specimen
-B73	Toxoplasma gondii B73 whole genome, Illumina reads submitted to SRA				Ursus sp.	1994	Toxoplasma gondii B73	2	cell specimen
-BOF	Toxoplasma gondii BOF whole genome, Illumina reads submitted to SRA				Homo sapiens	1993	Toxoplasma gondii BOF	6a	cell specimen
-BRC_TgH_18001_GUY-DOS	Toxoplasma gondii BRC TgH 18001 GUY-DOS whole genome,Human(adult) Illumina reads submitted to SRA				Homo sapiens	1997	Toxoplasma gondii BRC TgH 18001 GUY-DOS	10	cell specimen
-BRC_TgH_18002_GUY-KOE	Toxoplasma gondii BRC TgH 18002 GUY-KOE whole genome,Human(adult), Illumina reads submitted to SRA				Homo sapiens	2002	Toxoplasma gondii BRC TgH 18002 GUY-KOE	5	cell specimen
-BRC_TgH_18003_GUY-MAT	Toxoplasma gondii BRC TgH 18003 GUY-MAT whole genome,Human(adult), Illumina reads submitted to SRA				Homo sapiens	2002	Toxoplasma gondii BRC TgH 18003 GUY-MAT	5	cell specimen
-BRC_TgH_18009	Toxoplasma gondii BRC TgH 18009 whole genome,Human(adult), Illumina reads submitted to SRA			French Guiana	Homo sapiens	2004	Toxoplasma gondii BRC TgH 18009	10	cell specimen
-BRC_TgH_18021	Toxoplasma gondii BRC TgH 18021 whole genome, Illumina reads submitted to SRA			French Guiana	Homo sapiens	2006	Toxoplasma gondii BRC TgH 18021	10	cell specimen
-BRC_TgH_20005	Toxoplasma gondii BRC TgH 20005 whole genome,Human(congenital), Illumina reads submitted to SRA				Homo sapiens	2002	Toxoplasma gondii BRC TgH 20005	4	cell specimen
-BRC_TgH_21016	Toxoplasma gondii BRC TgH 21016 whole genome,Human(congenital), Illumina reads submitted to SRA				Homo sapiens	2007	Toxoplasma gondii BRC TgH 21016	4	cell specimen
-CASTELLS	Toxoplasma gondii CASTELLS whole genome, Illumina reads submitted to SRA			Uruguay	Ovis aries	1993	Toxoplasma gondii CASTELLS	4	cell specimen
-G662M	Toxoplasma gondii G662M whole genome, Illumina reads submitted to SRA					1992	Toxoplasma gondii G662M	3	cell specimen
-GAB1-2007-GAL-DOM10	Toxoplasma gondii GAB1-2007-GAL-DOM10 whole genome, Illumina reads submitted to SRA			Gabon	Gallus gallus	2007	Toxoplasma gondii GAB1-2007-GAL-DOM10	14	cell specimen
-GAB3-2007-GAL-DOM2	Toxoplasma gondii GAB3-2007-GAL-DOM2 whole genome, Illumina reads submitted to SRA					2007	Toxoplasma gondii GAB3-2007-GAL-DOM2	6a	cell specimen
-GAB3-2007-GAL-DOM9	Toxoplasma gondii GAB3-2007-GAL-DOM9 whole genome, Illumina reads submitted to SRA			Gabon	Gallus gallus	2007	Toxoplasma gondii GAB3-2007-GAL-DOM9	14	cell specimen
-GAB5-2007-GAL-DOM1	Toxoplasma gondii GAB5-2007-GAL-DOM1 whole genome, Illumina reads submitted to SRA			Gabon	Gallus gallus	2007	Toxoplasma gondii GAB5-2007-GAL-DOM1	6a	cell specimen
-GAB5-2007-GAL-DOM6	Toxoplasma gondii GAB5-2007-GAL-DOM6 whole genome, Illumina reads submitted to SRA			Gabon	Gallus gallus	2007	Toxoplasma gondii GAB5-2007-GAL-DOM6	14	cell specimen
-GUY-2003-MEL	Toxoplasma gondii GUY-2003-MEL whole genome, Illumina reads submitted to SRA			French Guiana	Homo sapiens	2004	Toxoplasma gondii GUY-2003-MEL	5	cell specimen
-GUY-2004-JAG1	Toxoplasma gondii GUY-2004-JAG1 whole genome, Illumina reads submitted to SRA			French Guiana	Panthera onca	2004	Toxoplasma gondii GUY-2004-JAG1	11	cell specimen
-GUY-2004-ABE	Toxoplasma gondii wGUY-2004-ABE hole genome, Illumina reads submitted to SRA			French Guiana	Homo sapiens	2004	Toxoplasma gondii GUY-2004-ABE	5	cell specimen
-M7741	Toxoplasma gondii M7741 whole genome, Illumina reads submitted to SRA			USA	Ovis aries	1958	Toxoplasma gondii M7741	3	cell specimen
-PRU	Toxoplasma gondii PRU whole genome,Human(congenital), Illumina reads submitted to SRA			France	Homo sapiens	1964	Toxoplasma gondii PRU	2	cell specimen
-RAY	Toxoplasma gondii RAY whole genome,,Human(congenital), Illumina reads submitted to SRA				Homo sapiens	1993	Toxoplasma gondii RAY	12	cell specimen
-RH-88	Toxoplasma gondii RH-88 whole genome,Human(adolescent), Illumina reads submitted to SRA			USA	Homo sapiens	1939	Toxoplasma gondii RH-88	1	cell specimen
-RH-JSR	Toxoplasma gondii RH-JSR whole genome,Human(adolescent), Illumina reads submitted to SRA			USA	Homo sapiens	1939	Toxoplasma gondii RH-JSR	1	cell specimen
-ROD	Toxoplasma gondii ROD whole genome,Human(transplant), Illumina reads submitted to SRA			USA	Homo sapiens	1993	Toxoplasma gondii ROD	3	cell specimen
-SOU	Toxoplasma gondii SOU whole genome,Human(AIDS), Illumina reads submitted to SRA			USA	Homo sapiens	1985	Toxoplasma gondii SOU	3	cell specimen
-TgCatBr1	Toxoplasma gondii TgCatBr1 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii TgCatBr1	4	cell specimen
-TgCatBr10	Toxoplasma gondii TgCatBr10 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii TgCatBr10	9	cell specimen
-TgCatBr15	Toxoplasma gondii TgCatBr15 whole genome, Illumina reads submitted to SRA			USA	Sus scrofa	2006	Toxoplasma gondii TgCatBr15	9	cell specimen
-TgCatBr18	Toxoplasma gondii TgCatBr18 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii TgCatBr18	4	cell specimen
-TgCatBr25	Toxoplasma gondii TgCatBr25 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii TgCatBr25	8	cell specimen
-TgCatBr26	Toxoplasma gondii TgCatBr26 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii TgCatBr26	6b	cell specimen
-TgCatBr3	Toxoplasma gondii TgCatBr3 whole genome, Illumina reads submitted to SRA					2003	Toxoplasma gondii TgCatBr3	9	cell specimen
-TgCatBr34	Toxoplasma gondii TgCatBr34 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii TgCatBr34	4	cell specimen
-TgCatBr44	Toxoplasma gondii TgCatBr44 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2008	Toxoplasma gondii TgCatBr44	10	cell specimen
-TgCatBr64	Toxoplasma gondii TgCatBr64 whole genome, Illumina reads submitted to SRA			Brazil	Gallus gallus	2006	Toxoplasma gondii TgCatBr64	8	cell specimen
-TgCatBr72	Toxoplasma gondii TgCatBr72 whole genome, Illumina reads submitted to SRA			Brazil	Gallus gallus	2003	Toxoplasma gondii TgCatBr72	6b	cell specimen
-TgCatPRC3	Toxoplasma gondii TgCatPRC3 whole genome, Illumina reads submitted to SRA			China	Felis catus	1985	Toxoplasma gondii TgCatPRC3	3	cell specimen
-TgCkBr141	Toxoplasma gondii TgCkBr141 whole genome, Illumina reads submitted to SRA			Brazil	Gallus gallus	2006	Toxoplasma gondii TgCkBr141	7	cell specimen
-TgCkCr1	Toxoplasma gondii TgCkCr1 whole genome, Illumina reads submitted to SRA			Costa Rica	Gallus gallus	2005	Toxoplasma gondii TgCkCr1	1	cell specimen
-TgCkCr10	Toxoplasma gondii TgCkCr10 whole genome, Illumina reads submitted to SRA			Costa Rica	Gallus gallus	2006	Toxoplasma gondii TgCkCr10	10	cell specimen
-TgCkGy2	Toxoplasma gondii TgCkGy2 whole genome, Illumina reads submitted to SRA			Guyana	Gallus gallus	2007	Toxoplasma gondii TgCkGy2	3	cell specimen
-TgDogCo17	Toxoplasma gondii TgDogCo17 whole genome, Illumina reads submitted to SRA			Columbia	Canis lupus familiaris	2006	Toxoplasma gondii TgDogCo17	1	cell specimen
-TgH26044	Toxoplasma gondii TgH26044 whole genome, Illumina reads submitted to SRA					2007	Toxoplasma gondii TgH26044	4	cell specimen
-TgRsCr1	Toxoplasma gondii TgRsCr1 whole genome, Illumina reads submitted to SRA			Costa Rica	Ramphastidae	2006	Toxoplasma gondii TgRsCr1	5	cell specimen
-TgShUS28	Toxoplasma gondii TgShUS28 whole genome, Illumina reads submitted to SRA			USA	Ovis aries	2008	Toxoplasma gondii TgShUS28	3	cell specimen
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Parameter Value [collection year]	Characteristics[parasite organism]	Characteristics[parasite strain]	Characteristics[haplogroup]	Characteristics[specimen]
+ARI	Toxoplasma gondii ARI whole genome,Human(transplant), Illumina reads submitted to SRA			USA	Homo sapiens	1992	Toxoplasma gondii	Toxoplasma gondii ARI	12	cell specimen
+CAST	Toxoplasma gondii CAST whole genome,Human(AIDS), Illumina reads submitted to SRA			USA	Homo sapiens	1988	Toxoplasma gondii	Toxoplasma gondii CAST	7	cell specimen
+COUG	Toxoplasma gondii COUG whole genome, Illumina reads submitted to SRA			Canada	Puma concolor couguar	1996	Toxoplasma gondii	Toxoplasma gondii COUG	11	cell specimen
+FOU	Toxoplasma gondii FOU whole genome,Human(transplant), Illumina reads submitted to SRA			France	Homo sapiens	1992	Toxoplasma gondii	Toxoplasma gondii FOU	6a	cell specimen
+GAB2-2007-GAL-DOM2	Toxoplasma gondii GAB2-2007-GAL-DOM2 whole genome, Illumina reads submitted to SRA			Gabon	Gallus gallus	2007	Toxoplasma gondii	Toxoplasma gondii GAB2-2007-GAL-DOM2	14	cell specimen
+GT1	Toxoplasma gondii GT1 whole genome, Illumina reads submitted to SRA			USA	Ovis aries	1980	Toxoplasma gondii	Toxoplasma gondii GT1	1	cell specimen
+MAS	Toxoplasma gondii MAS whole genome,Human(congenital,) Illumina reads submitted to SRA			France	Homo sapiens	1991	Toxoplasma gondii	Toxoplasma gondii MAS	4	cell specimen
+p89	Toxoplasma gondii p89 whole genome, Illumina reads submitted to SRA			USA	Sus scrofa	1991	Toxoplasma gondii	Toxoplasma gondii p89	9	cell specimen
+RUB	Toxoplasma gondii RUB whole genome,Human(adult), Illumina reads submitted to SRA			French Guiana	Homo sapiens	1992	Toxoplasma gondii	Toxoplasma gondii RUB	5	cell specimen
+TgCat_PRC2	Toxoplasma gondii wTgCat PRC2 hole genome, Illumina reads submitted to SRA			China	Felis catus	2007	Toxoplasma gondii	Toxoplasma gondii TgCat PRC2	13	cell specimen
+TgCATBr5	Toxoplasma gondii TgCATBr5 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii	Toxoplasma gondii TgCATBr5	8	cell specimen
+TgCATBr9	Toxoplasma gondii TgCATBr5 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii	Toxoplasma gondii TgCATBr9	6b	cell specimen
+TgCtCo5	Toxoplasma gondii TgCtCo5 whole genome, Illumina reads submitted to SRA			Columbia	Felis catus	2006	Toxoplasma gondii	Toxoplasma gondii TgCtCo5	15	cell specimen
+VAND	Toxoplasma gondii VAND whole genome,Human(adult) Illumina reads submitted to SRA			French Guiana	Homo sapiens	1996	Toxoplasma gondii	Toxoplasma gondii VAND	10	cell specimen
+VEG	Toxoplasma gondii VEG whole genome, Illumina reads submitted to SRA			USA	Capra hircus	1988	Toxoplasma gondii	Toxoplasma gondii VEG	3	cell specimen
+B41	Toxoplasma gondii B41 whole genome, Illumina reads submitted to SRA			USA	Ursus sp.	1994	Toxoplasma gondii	Toxoplasma gondii B41	12	cell specimen
+B73	Toxoplasma gondii B73 whole genome, Illumina reads submitted to SRA				Ursus sp.	1994	Toxoplasma gondii	Toxoplasma gondii B73	2	cell specimen
+BOF	Toxoplasma gondii BOF whole genome, Illumina reads submitted to SRA				Homo sapiens	1993	Toxoplasma gondii	Toxoplasma gondii BOF	6a	cell specimen
+BRC_TgH_18001_GUY-DOS	Toxoplasma gondii BRC TgH 18001 GUY-DOS whole genome,Human(adult) Illumina reads submitted to SRA				Homo sapiens	1997	Toxoplasma gondii	Toxoplasma gondii BRC TgH 18001 GUY-DOS	10	cell specimen
+BRC_TgH_18002_GUY-KOE	Toxoplasma gondii BRC TgH 18002 GUY-KOE whole genome,Human(adult), Illumina reads submitted to SRA				Homo sapiens	2002	Toxoplasma gondii	Toxoplasma gondii BRC TgH 18002 GUY-KOE	5	cell specimen
+BRC_TgH_18003_GUY-MAT	Toxoplasma gondii BRC TgH 18003 GUY-MAT whole genome,Human(adult), Illumina reads submitted to SRA				Homo sapiens	2002	Toxoplasma gondii	Toxoplasma gondii BRC TgH 18003 GUY-MAT	5	cell specimen
+BRC_TgH_18009	Toxoplasma gondii BRC TgH 18009 whole genome,Human(adult), Illumina reads submitted to SRA			French Guiana	Homo sapiens	2004	Toxoplasma gondii	Toxoplasma gondii BRC TgH 18009	10	cell specimen
+BRC_TgH_18021	Toxoplasma gondii BRC TgH 18021 whole genome, Illumina reads submitted to SRA			French Guiana	Homo sapiens	2006	Toxoplasma gondii	Toxoplasma gondii BRC TgH 18021	10	cell specimen
+BRC_TgH_20005	Toxoplasma gondii BRC TgH 20005 whole genome,Human(congenital), Illumina reads submitted to SRA				Homo sapiens	2002	Toxoplasma gondii	Toxoplasma gondii BRC TgH 20005	4	cell specimen
+BRC_TgH_21016	Toxoplasma gondii BRC TgH 21016 whole genome,Human(congenital), Illumina reads submitted to SRA				Homo sapiens	2007	Toxoplasma gondii	Toxoplasma gondii BRC TgH 21016	4	cell specimen
+CASTELLS	Toxoplasma gondii CASTELLS whole genome, Illumina reads submitted to SRA			Uruguay	Ovis aries	1993	Toxoplasma gondii	Toxoplasma gondii CASTELLS	4	cell specimen
+G662M	Toxoplasma gondii G662M whole genome, Illumina reads submitted to SRA					1992	Toxoplasma gondii	Toxoplasma gondii G662M	3	cell specimen
+GAB1-2007-GAL-DOM10	Toxoplasma gondii GAB1-2007-GAL-DOM10 whole genome, Illumina reads submitted to SRA			Gabon	Gallus gallus	2007	Toxoplasma gondii	Toxoplasma gondii GAB1-2007-GAL-DOM10	14	cell specimen
+GAB3-2007-GAL-DOM2	Toxoplasma gondii GAB3-2007-GAL-DOM2 whole genome, Illumina reads submitted to SRA					2007	Toxoplasma gondii	Toxoplasma gondii GAB3-2007-GAL-DOM2	6a	cell specimen
+GAB3-2007-GAL-DOM9	Toxoplasma gondii GAB3-2007-GAL-DOM9 whole genome, Illumina reads submitted to SRA			Gabon	Gallus gallus	2007	Toxoplasma gondii	Toxoplasma gondii GAB3-2007-GAL-DOM9	14	cell specimen
+GAB5-2007-GAL-DOM1	Toxoplasma gondii GAB5-2007-GAL-DOM1 whole genome, Illumina reads submitted to SRA			Gabon	Gallus gallus	2007	Toxoplasma gondii	Toxoplasma gondii GAB5-2007-GAL-DOM1	6a	cell specimen
+GAB5-2007-GAL-DOM6	Toxoplasma gondii GAB5-2007-GAL-DOM6 whole genome, Illumina reads submitted to SRA			Gabon	Gallus gallus	2007	Toxoplasma gondii	Toxoplasma gondii GAB5-2007-GAL-DOM6	14	cell specimen
+GUY-2003-MEL	Toxoplasma gondii GUY-2003-MEL whole genome, Illumina reads submitted to SRA			French Guiana	Homo sapiens	2004	Toxoplasma gondii	Toxoplasma gondii GUY-2003-MEL	5	cell specimen
+GUY-2004-JAG1	Toxoplasma gondii GUY-2004-JAG1 whole genome, Illumina reads submitted to SRA			French Guiana	Panthera onca	2004	Toxoplasma gondii	Toxoplasma gondii GUY-2004-JAG1	11	cell specimen
+GUY-2004-ABE	Toxoplasma gondii wGUY-2004-ABE hole genome, Illumina reads submitted to SRA			French Guiana	Homo sapiens	2004	Toxoplasma gondii	Toxoplasma gondii GUY-2004-ABE	5	cell specimen
+M7741	Toxoplasma gondii M7741 whole genome, Illumina reads submitted to SRA			USA	Ovis aries	1958	Toxoplasma gondii	Toxoplasma gondii M7741	3	cell specimen
+PRU	Toxoplasma gondii PRU whole genome,Human(congenital), Illumina reads submitted to SRA			France	Homo sapiens	1964	Toxoplasma gondii	Toxoplasma gondii PRU	2	cell specimen
+RAY	Toxoplasma gondii RAY whole genome,,Human(congenital), Illumina reads submitted to SRA				Homo sapiens	1993	Toxoplasma gondii	Toxoplasma gondii RAY	12	cell specimen
+RH-88	Toxoplasma gondii RH-88 whole genome,Human(adolescent), Illumina reads submitted to SRA			USA	Homo sapiens	1939	Toxoplasma gondii	Toxoplasma gondii RH-88	1	cell specimen
+RH-JSR	Toxoplasma gondii RH-JSR whole genome,Human(adolescent), Illumina reads submitted to SRA			USA	Homo sapiens	1939	Toxoplasma gondii	Toxoplasma gondii RH-JSR	1	cell specimen
+ROD	Toxoplasma gondii ROD whole genome,Human(transplant), Illumina reads submitted to SRA			USA	Homo sapiens	1993	Toxoplasma gondii	Toxoplasma gondii ROD	3	cell specimen
+SOU	Toxoplasma gondii SOU whole genome,Human(AIDS), Illumina reads submitted to SRA			USA	Homo sapiens	1985	Toxoplasma gondii	Toxoplasma gondii SOU	3	cell specimen
+TgCatBr1	Toxoplasma gondii TgCatBr1 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii	Toxoplasma gondii TgCatBr1	4	cell specimen
+TgCatBr10	Toxoplasma gondii TgCatBr10 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii	Toxoplasma gondii TgCatBr10	9	cell specimen
+TgCatBr15	Toxoplasma gondii TgCatBr15 whole genome, Illumina reads submitted to SRA			USA	Sus scrofa	2006	Toxoplasma gondii	Toxoplasma gondii TgCatBr15	9	cell specimen
+TgCatBr18	Toxoplasma gondii TgCatBr18 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii	Toxoplasma gondii TgCatBr18	4	cell specimen
+TgCatBr25	Toxoplasma gondii TgCatBr25 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii	Toxoplasma gondii TgCatBr25	8	cell specimen
+TgCatBr26	Toxoplasma gondii TgCatBr26 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii	Toxoplasma gondii TgCatBr26	6b	cell specimen
+TgCatBr3	Toxoplasma gondii TgCatBr3 whole genome, Illumina reads submitted to SRA					2003	Toxoplasma gondii	Toxoplasma gondii TgCatBr3	9	cell specimen
+TgCatBr34	Toxoplasma gondii TgCatBr34 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2006	Toxoplasma gondii	Toxoplasma gondii TgCatBr34	4	cell specimen
+TgCatBr44	Toxoplasma gondii TgCatBr44 whole genome, Illumina reads submitted to SRA			Brazil	Felis catus	2008	Toxoplasma gondii	Toxoplasma gondii TgCatBr44	10	cell specimen
+TgCatBr64	Toxoplasma gondii TgCatBr64 whole genome, Illumina reads submitted to SRA			Brazil	Gallus gallus	2006	Toxoplasma gondii	Toxoplasma gondii TgCatBr64	8	cell specimen
+TgCatBr72	Toxoplasma gondii TgCatBr72 whole genome, Illumina reads submitted to SRA			Brazil	Gallus gallus	2003	Toxoplasma gondii	Toxoplasma gondii TgCatBr72	6b	cell specimen
+TgCatPRC3	Toxoplasma gondii TgCatPRC3 whole genome, Illumina reads submitted to SRA			China	Felis catus	1985	Toxoplasma gondii	Toxoplasma gondii TgCatPRC3	3	cell specimen
+TgCkBr141	Toxoplasma gondii TgCkBr141 whole genome, Illumina reads submitted to SRA			Brazil	Gallus gallus	2006	Toxoplasma gondii	Toxoplasma gondii TgCkBr141	7	cell specimen
+TgCkCr1	Toxoplasma gondii TgCkCr1 whole genome, Illumina reads submitted to SRA			Costa Rica	Gallus gallus	2005	Toxoplasma gondii	Toxoplasma gondii TgCkCr1	1	cell specimen
+TgCkCr10	Toxoplasma gondii TgCkCr10 whole genome, Illumina reads submitted to SRA			Costa Rica	Gallus gallus	2006	Toxoplasma gondii	Toxoplasma gondii TgCkCr10	10	cell specimen
+TgCkGy2	Toxoplasma gondii TgCkGy2 whole genome, Illumina reads submitted to SRA			Guyana	Gallus gallus	2007	Toxoplasma gondii	Toxoplasma gondii TgCkGy2	3	cell specimen
+TgDogCo17	Toxoplasma gondii TgDogCo17 whole genome, Illumina reads submitted to SRA			Columbia	Canis lupus familiaris	2006	Toxoplasma gondii	Toxoplasma gondii TgDogCo17	1	cell specimen
+TgH26044	Toxoplasma gondii TgH26044 whole genome, Illumina reads submitted to SRA					2007	Toxoplasma gondii	Toxoplasma gondii TgH26044	4	cell specimen
+TgRsCr1	Toxoplasma gondii TgRsCr1 whole genome, Illumina reads submitted to SRA			Costa Rica	Ramphastidae	2006	Toxoplasma gondii	Toxoplasma gondii TgRsCr1	5	cell specimen
+TgShUS28	Toxoplasma gondii TgShUS28 whole genome, Illumina reads submitted to SRA			USA	Ovis aries	2008	Toxoplasma gondii	Toxoplasma gondii TgShUS28	3	cell specimen

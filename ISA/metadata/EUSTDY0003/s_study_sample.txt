@@ -1,61 +1,61 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism ID]	Characteristics[country]	Characteristics[city]	Characteristics[organism]	Characteristics[parasite organism]	Characteristics[specimen]
-RO33	Sample RO33			EUSTDY0003 Subject 1	Ghana		human	Plasmodium falciparum RO33	specimen from organism
-M24	Sample M24			EUSTDY0003 Subject 2	Kenya		human	Plasmodium falciparum M24	specimen from organism
-CF04.008_12G	Sample CF04.008_12G:  Originally labelled CF04.008_12B, but is probably 12G			EUSTDY0003 Subject 3	Malawi		human	Plasmodium falciparum CF04.008_12G	specimen from organism
-CF04.008_1F	Sample CF04.008_1F:  Sibling to CF04.008_12G (and other subclones), but has a distinct barcode.			EUSTDY0003 Subject 4	Malawi		human	Plasmodium falciparum CF04.008_1F	specimen from organism
-CF04.009	Sample CF04.009:  All Malawi CF04.009 subclones are single and match the parent, CF04.009. 'a0Use CF04.009 for analysis. 'a0Until otherwise determined, do not use other CF04.009 subclones for analysis.			EUSTDY0003 Subject 5	Malawi		human	Plasmodium falciparum CF04.009	specimen from organism
-CF04.010	Sample CF04.010:  FIND BARCODE, Probably Mixed.			EUSTDY0003 Subject 6	Malawi		human	Plasmodium falciparum CF04.010	specimen from organism
-PS189	Sample PS189			EUSTDY0003 Subject 7	Mali		human	Plasmodium falciparum PS189	specimen from organism
-APO41	Sample APO41			EUSTDY0003 Subject 8	Nigeria		human	Plasmodium falciparum APO41	specimen from organism
-SenP05.02	Sample SenP05.02			EUSTDY0003 Subject 9	Senegal	Pikine	human	Plasmodium falciparum SenP05.02	specimen from organism
-SenP08.04	Sample SenP08.04			EUSTDY0003 Subject 10	Senegal	Pikine	human	Plasmodium falciparum SenP08.04	specimen from organism
-SenP09.04	Sample SenP09.04			EUSTDY0003 Subject 11	Senegal	Pikine	human	Plasmodium falciparum SenP09.04	specimen from organism
-SenP11.02	Sample SenP11.02			EUSTDY0003 Subject 12	Senegal	Pikine	human	Plasmodium falciparum SenP11.02	specimen from organism
-SenP19.04	Sample SenP19.04			EUSTDY0003 Subject 13	Senegal	Pikine	human	Plasmodium falciparum SenP19.04	specimen from organism
-SenP26.04	Sample SenP26.04			EUSTDY0003 Subject 14	Senegal	Pikine	human	Plasmodium falciparum SenP26.04	specimen from organism
-SenP27.02	Sample SenP27.02			EUSTDY0003 Subject 15	Senegal	Pikine	human	Plasmodium falciparum SenP27.02	specimen from organism
-SenP31.01	Sample SenP31.01			EUSTDY0003 Subject 16	Senegal	Pikine	human	Plasmodium falciparum SenP31.01	specimen from organism
-SenP51.02	Sample SenP51.02			EUSTDY0003 Subject 17	Senegal	Pikine	human	Plasmodium falciparum SenP51.02	specimen from organism
-SenP60.02	Sample SenP60.02			EUSTDY0003 Subject 18	Senegal	Pikine	human	Plasmodium falciparum SenP60.02	specimen from organism
-SenT10.04	Sample SenT10.04:  Mixed sample that may be useful for population studies (Fst) but not LD, GWAS etc			EUSTDY0003 Subject 19	Senegal	Thiess	human	Plasmodium falciparum SenT10.04	specimen from organism
-SenT15.04	Sample SenT15.04			EUSTDY0003 Subject 20	Senegal	Thiess	human	Plasmodium falciparum SenT15.04	specimen from organism
-SenT26.04	Sample SenT26.04			EUSTDY0003 Subject 21	Senegal	Thiess	human	Plasmodium falciparum SenT26.04	specimen from organism
-SenT28.04	Sample SenT28.04			EUSTDY0003 Subject 22	Senegal	Thiess	human	Plasmodium falciparum SenT28.04	specimen from organism
-SenV34.04	Sample SenV34.04			EUSTDY0003 Subject 23	Senegal	Vellingara	human	Plasmodium falciparum SenV34.04	specimen from organism
-SenV35.04	Sample SenV35.04			EUSTDY0003 Subject 24	Senegal	Vellingara	human	Plasmodium falciparum SenV35.04	specimen from organism
-SenV42.05	Sample SenV42.05			EUSTDY0003 Subject 25	Senegal	Vellingara	human	Plasmodium falciparum SenV42.05	specimen from organism
-D6	Sample D6			EUSTDY0003 Subject 26	Sierra Leone	GAZ	human	Plasmodium falciparum D6	specimen from organism
-51	Sample 51			EUSTDY0003 Subject 27	Brazil	GAZ	human	Plasmodium falciparum 51	specimen from organism
-608	Sample 608:  608 is a distinct parasite from 608_89, which is MIXED.			EUSTDY0003 Subject 28	Brazil	GAZ	human	Plasmodium falciparum 608	specimen from organism
-10_54	Sample 10_54			EUSTDY0003 Subject 29	Brazil	GAZ	human	Plasmodium falciparum 10_54	specimen from organism
-365_89	Sample 365_89			EUSTDY0003 Subject 30	Brazil	GAZ	human	Plasmodium falciparum 365_89	specimen from organism
-36_89	Sample 36_89:  36_89 matches 207_89. 'a0Use 36_89 as representative parasite.			EUSTDY0003 Subject 31	Brazil	GAZ	human	Plasmodium falciparum 36_89	specimen from organism
-7G8	Sample 7G8:  Parent of Genetic Cross: GB4 X 7G8 that has differential pathogenesis in Aotus.			EUSTDY0003 Subject 32	Brazil	GAZ	human	Plasmodium falciparum 7G8	specimen from organism
-9_411	Sample 9_411			EUSTDY0003 Subject 33	Brazil	GAZ	human	Plasmodium falciparum 9_411	specimen from organism
-A4	Sample A4:  A4 is a subclone of the IT parasite sequenced by WTSI obtained from Joe Smith. 'a0It should be equivalent to IT for the purposes of sequence and genotype according to Chris Newbold.			EUSTDY0003 Subject 34	Brazil	GAZ	human	Plasmodium falciparum A4	specimen from organism
-JST	Sample JST:  Previously this was identified as IST. 'a0JST is the proper name and all previous uses of IST should be changed to JST. 'a0This parasite matches ADA2. 'a0Use JST as representative parasite.			EUSTDY0003 Subject 35	Brazil	GAZ	human	Plasmodium falciparum JST	specimen from organism
-Santa_Lucia	Sample Santa_Lucia			EUSTDY0003 Subject 36	El Salvador	GAZ	human	Plasmodium falciparum Santa_Lucia	specimen from organism
-HB3	Sample HB3			EUSTDY0003 Subject 37	Honduras	GAZ	human	Plasmodium falciparum HB3	specimen from organism
-FCC2	Sample FCC2			EUSTDY0003 Subject 38	China	GAZ	human	Plasmodium falciparum FCC2	specimen from organism
-IGHCR14	Sample IGHCR14:  Sequenced to 8X			EUSTDY0003 Subject 39	India	GAZ	human	Plasmodium falciparum IGHCR14	specimen from organism
-RAJ116	Sample RAJ116:  Sequenced to 4X			EUSTDY0003 Subject 40	India	GAZ	human	Plasmodium falciparum RAJ116	specimen from organism
-Dd2	Sample Dd2:  Dd2 is a subclone of W2mef. W2 was put under mefloquine pressure to derive W2mef. It is expected that all three barcodes should match. 'a0JDP8 (Old) is a contaminant and should not be used for analysis. 'a0A new JDP8 (New) has been obtained and barcode is pending.			EUSTDY0003 Subject 41	Laos	Indochina	human	Plasmodium falciparum Dd2	specimen from organism
-Indochina_I	Sample Indochina_I			EUSTDY0003 Subject 42	Laos	Indochina	human	Plasmodium falciparum Indochina_I	specimen from organism
-Malayan	Sample Malayan:  This looks African on 3K			EUSTDY0003 Subject 43	Malaysia	GAZ	human	Plasmodium falciparum Malayan	specimen from organism
-D10	Sample D10:  human			EUSTDY0003 Subject 44	Papua New Guinea	GAZ	human	Plasmodium falciparum D10	specimen from organism
-Muz51.1	Sample Muz51.1:  human			EUSTDY0003 Subject 45	Papua New Guinea	GAZ	human	Plasmodium falciparum Muz51.1	specimen from organism
-GH2	Sample GH2:  Derived from patient before and after atovoquone treatment. 'a0Sibling is GA3, which has the same barcode as expected.			EUSTDY0003 Subject 46	Thailand	GAZ	human	Plasmodium falciparum GH2	specimen from organism
-K1	Sample K1			EUSTDY0003 Subject 47	Thailand	GAZ	human	Plasmodium falciparum K1	specimen from organism
-PR145	Sample PR145			EUSTDY0003 Subject 48	Thailand	GAZ	human	Plasmodium falciparum PR145	specimen from organism
-T2_C6	Sample T2_C6:  This looks African on 3K			EUSTDY0003 Subject 49	Thailand	GAZ	human	Plasmodium falciparum T2_C6	specimen from organism
-TD203	Sample TD203			EUSTDY0003 Subject 50	Thailand	GAZ	human	Plasmodium falciparum TD203	specimen from organism
-TD257	Sample TD257			EUSTDY0003 Subject 51	Thailand	GAZ	human	Plasmodium falciparum TD257	specimen from organism
-TM327	Sample TM327			EUSTDY0003 Subject 52	Thailand	GAZ	human	Plasmodium falciparum TM327	specimen from organism
-TM345	Sample TM345			EUSTDY0003 Subject 53	Thailand	GAZ	human	Plasmodium falciparum TM345	specimen from organism
-TM90C2A	Sample TM90C2A			EUSTDY0003 Subject 54	Thailand	GAZ	human	Plasmodium falciparum TM90C2A	specimen from organism
-TM91C235	Sample TM91C235			EUSTDY0003 Subject 55	Thailand	GAZ	human	Plasmodium falciparum TM91C235	specimen from organism
-TM90C6A_unknown	Sample TM90C6A_unknown:  Both TM90C6A and TM93C1088 have the same barcode. 'a0Both are supposedly from Thailand, but questionable provenance, since contamination occured in culture. 'a0Repeat samples requested from MR4 to make sure that we did not swap samples.			EUSTDY0003 Subject 56	Thailand	GAZ	human	Plasmodium falciparum TM90C6A_unknown	specimen from organism
-VS_1	Sample VS_1			EUSTDY0003 Subject 57	Vietnam	GAZ	human	Plasmodium falciparum VS_1	specimen from organism
-WR87	Sample WR87:  Matches the barcode from MT/s1, so questionable provenance. 'a0MT/s1 is from Mali and WR87 is from Vietnam.			EUSTDY0003 Subject 58	Vietnam	GAZ	human	Plasmodium falciparum WR87	specimen from organism
-3D7	Sample 3D7:  Reference Strain, Sequenced to ~18X, Parent of genetic cross between 3D7 and HB3 that has differential gametocyte phenotypes in mosquito stages. 'a0Isolated from airport traveler in Netherlands.			EUSTDY0003 Subject 59	Netherlands	GAZ	human	Plasmodium falciparum 3D7	specimen from organism
-Preichenowi	Sample Preichenowi			EUSTDY0003 Subject 60			human	Plasmodium falciparum Preichenowi	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism ID]	Characteristics[country]	Characteristics[city]	Characteristics[organism]	Characteristics[parasite organism]	Characteristics[parasite strain]	Characteristics[specimen]
+RO33	Sample RO33			EUSTDY0003 Subject 1	Ghana		human	Plasmodium falciparum	Plasmodium falciparum RO33	specimen from organism
+M24	Sample M24			EUSTDY0003 Subject 2	Kenya		human	Plasmodium falciparum	Plasmodium falciparum M24	specimen from organism
+CF04.008_12G	Sample CF04.008_12G:  Originally labelled CF04.008_12B, but is probably 12G			EUSTDY0003 Subject 3	Malawi		human	Plasmodium falciparum	Plasmodium falciparum CF04.008_12G	specimen from organism
+CF04.008_1F	Sample CF04.008_1F:  Sibling to CF04.008_12G (and other subclones), but has a distinct barcode.			EUSTDY0003 Subject 4	Malawi		human	Plasmodium falciparum	Plasmodium falciparum CF04.008_1F	specimen from organism
+CF04.009	Sample CF04.009:  All Malawi CF04.009 subclones are single and match the parent, CF04.009. 'a0Use CF04.009 for analysis. 'a0Until otherwise determined, do not use other CF04.009 subclones for analysis.			EUSTDY0003 Subject 5	Malawi		human	Plasmodium falciparum	Plasmodium falciparum CF04.009	specimen from organism
+CF04.010	Sample CF04.010:  FIND BARCODE, Probably Mixed.			EUSTDY0003 Subject 6	Malawi		human	Plasmodium falciparum	Plasmodium falciparum CF04.010	specimen from organism
+PS189	Sample PS189			EUSTDY0003 Subject 7	Mali		human	Plasmodium falciparum	Plasmodium falciparum PS189	specimen from organism
+APO41	Sample APO41			EUSTDY0003 Subject 8	Nigeria		human	Plasmodium falciparum	Plasmodium falciparum APO41	specimen from organism
+SenP05.02	Sample SenP05.02			EUSTDY0003 Subject 9	Senegal	Pikine	human	Plasmodium falciparum	Plasmodium falciparum SenP05.02	specimen from organism
+SenP08.04	Sample SenP08.04			EUSTDY0003 Subject 10	Senegal	Pikine	human	Plasmodium falciparum	Plasmodium falciparum SenP08.04	specimen from organism
+SenP09.04	Sample SenP09.04			EUSTDY0003 Subject 11	Senegal	Pikine	human	Plasmodium falciparum	Plasmodium falciparum SenP09.04	specimen from organism
+SenP11.02	Sample SenP11.02			EUSTDY0003 Subject 12	Senegal	Pikine	human	Plasmodium falciparum	Plasmodium falciparum SenP11.02	specimen from organism
+SenP19.04	Sample SenP19.04			EUSTDY0003 Subject 13	Senegal	Pikine	human	Plasmodium falciparum	Plasmodium falciparum SenP19.04	specimen from organism
+SenP26.04	Sample SenP26.04			EUSTDY0003 Subject 14	Senegal	Pikine	human	Plasmodium falciparum	Plasmodium falciparum SenP26.04	specimen from organism
+SenP27.02	Sample SenP27.02			EUSTDY0003 Subject 15	Senegal	Pikine	human	Plasmodium falciparum	Plasmodium falciparum SenP27.02	specimen from organism
+SenP31.01	Sample SenP31.01			EUSTDY0003 Subject 16	Senegal	Pikine	human	Plasmodium falciparum	Plasmodium falciparum SenP31.01	specimen from organism
+SenP51.02	Sample SenP51.02			EUSTDY0003 Subject 17	Senegal	Pikine	human	Plasmodium falciparum	Plasmodium falciparum SenP51.02	specimen from organism
+SenP60.02	Sample SenP60.02			EUSTDY0003 Subject 18	Senegal	Pikine	human	Plasmodium falciparum	Plasmodium falciparum SenP60.02	specimen from organism
+SenT10.04	Sample SenT10.04:  Mixed sample that may be useful for population studies (Fst) but not LD, GWAS etc			EUSTDY0003 Subject 19	Senegal	Thiess	human	Plasmodium falciparum	Plasmodium falciparum SenT10.04	specimen from organism
+SenT15.04	Sample SenT15.04			EUSTDY0003 Subject 20	Senegal	Thiess	human	Plasmodium falciparum	Plasmodium falciparum SenT15.04	specimen from organism
+SenT26.04	Sample SenT26.04			EUSTDY0003 Subject 21	Senegal	Thiess	human	Plasmodium falciparum	Plasmodium falciparum SenT26.04	specimen from organism
+SenT28.04	Sample SenT28.04			EUSTDY0003 Subject 22	Senegal	Thiess	human	Plasmodium falciparum	Plasmodium falciparum SenT28.04	specimen from organism
+SenV34.04	Sample SenV34.04			EUSTDY0003 Subject 23	Senegal	Vellingara	human	Plasmodium falciparum	Plasmodium falciparum SenV34.04	specimen from organism
+SenV35.04	Sample SenV35.04			EUSTDY0003 Subject 24	Senegal	Vellingara	human	Plasmodium falciparum	Plasmodium falciparum SenV35.04	specimen from organism
+SenV42.05	Sample SenV42.05			EUSTDY0003 Subject 25	Senegal	Vellingara	human	Plasmodium falciparum	Plasmodium falciparum SenV42.05	specimen from organism
+D6	Sample D6			EUSTDY0003 Subject 26	Sierra Leone	GAZ	human	Plasmodium falciparum	Plasmodium falciparum D6	specimen from organism
+51	Sample 51			EUSTDY0003 Subject 27	Brazil	GAZ	human	Plasmodium falciparum	Plasmodium falciparum 51	specimen from organism
+608	Sample 608:  608 is a distinct parasite from 608_89, which is MIXED.			EUSTDY0003 Subject 28	Brazil	GAZ	human	Plasmodium falciparum	Plasmodium falciparum 608	specimen from organism
+10_54	Sample 10_54			EUSTDY0003 Subject 29	Brazil	GAZ	human	Plasmodium falciparum	Plasmodium falciparum 10_54	specimen from organism
+365_89	Sample 365_89			EUSTDY0003 Subject 30	Brazil	GAZ	human	Plasmodium falciparum	Plasmodium falciparum 365_89	specimen from organism
+36_89	Sample 36_89:  36_89 matches 207_89. 'a0Use 36_89 as representative parasite.			EUSTDY0003 Subject 31	Brazil	GAZ	human	Plasmodium falciparum	Plasmodium falciparum 36_89	specimen from organism
+7G8	Sample 7G8:  Parent of Genetic Cross: GB4 X 7G8 that has differential pathogenesis in Aotus.			EUSTDY0003 Subject 32	Brazil	GAZ	human	Plasmodium falciparum	Plasmodium falciparum 7G8	specimen from organism
+9_411	Sample 9_411			EUSTDY0003 Subject 33	Brazil	GAZ	human	Plasmodium falciparum	Plasmodium falciparum 9_411	specimen from organism
+A4	Sample A4:  A4 is a subclone of the IT parasite sequenced by WTSI obtained from Joe Smith. 'a0It should be equivalent to IT for the purposes of sequence and genotype according to Chris Newbold.			EUSTDY0003 Subject 34	Brazil	GAZ	human	Plasmodium falciparum	Plasmodium falciparum A4	specimen from organism
+JST	Sample JST:  Previously this was identified as IST. 'a0JST is the proper name and all previous uses of IST should be changed to JST. 'a0This parasite matches ADA2. 'a0Use JST as representative parasite.			EUSTDY0003 Subject 35	Brazil	GAZ	human	Plasmodium falciparum	Plasmodium falciparum JST	specimen from organism
+Santa_Lucia	Sample Santa_Lucia			EUSTDY0003 Subject 36	El Salvador	GAZ	human	Plasmodium falciparum	Plasmodium falciparum Santa_Lucia	specimen from organism
+HB3	Sample HB3			EUSTDY0003 Subject 37	Honduras	GAZ	human	Plasmodium falciparum	Plasmodium falciparum HB3	specimen from organism
+FCC2	Sample FCC2			EUSTDY0003 Subject 38	China	GAZ	human	Plasmodium falciparum	Plasmodium falciparum FCC2	specimen from organism
+IGHCR14	Sample IGHCR14:  Sequenced to 8X			EUSTDY0003 Subject 39	India	GAZ	human	Plasmodium falciparum	Plasmodium falciparum IGHCR14	specimen from organism
+RAJ116	Sample RAJ116:  Sequenced to 4X			EUSTDY0003 Subject 40	India	GAZ	human	Plasmodium falciparum	Plasmodium falciparum RAJ116	specimen from organism
+Dd2	Sample Dd2:  Dd2 is a subclone of W2mef. W2 was put under mefloquine pressure to derive W2mef. It is expected that all three barcodes should match. 'a0JDP8 (Old) is a contaminant and should not be used for analysis. 'a0A new JDP8 (New) has been obtained and barcode is pending.			EUSTDY0003 Subject 41	Laos	Indochina	human	Plasmodium falciparum	Plasmodium falciparum Dd2	specimen from organism
+Indochina_I	Sample Indochina_I			EUSTDY0003 Subject 42	Laos	Indochina	human	Plasmodium falciparum	Plasmodium falciparum Indochina_I	specimen from organism
+Malayan	Sample Malayan:  This looks African on 3K			EUSTDY0003 Subject 43	Malaysia	GAZ	human	Plasmodium falciparum	Plasmodium falciparum Malayan	specimen from organism
+D10	Sample D10:  human			EUSTDY0003 Subject 44	Papua New Guinea	GAZ	human	Plasmodium falciparum	Plasmodium falciparum D10	specimen from organism
+Muz51.1	Sample Muz51.1:  human			EUSTDY0003 Subject 45	Papua New Guinea	GAZ	human	Plasmodium falciparum	Plasmodium falciparum Muz51.1	specimen from organism
+GH2	Sample GH2:  Derived from patient before and after atovoquone treatment. 'a0Sibling is GA3, which has the same barcode as expected.			EUSTDY0003 Subject 46	Thailand	GAZ	human	Plasmodium falciparum	Plasmodium falciparum GH2	specimen from organism
+K1	Sample K1			EUSTDY0003 Subject 47	Thailand	GAZ	human	Plasmodium falciparum	Plasmodium falciparum K1	specimen from organism
+PR145	Sample PR145			EUSTDY0003 Subject 48	Thailand	GAZ	human	Plasmodium falciparum	Plasmodium falciparum PR145	specimen from organism
+T2_C6	Sample T2_C6:  This looks African on 3K			EUSTDY0003 Subject 49	Thailand	GAZ	human	Plasmodium falciparum	Plasmodium falciparum T2_C6	specimen from organism
+TD203	Sample TD203			EUSTDY0003 Subject 50	Thailand	GAZ	human	Plasmodium falciparum	Plasmodium falciparum TD203	specimen from organism
+TD257	Sample TD257			EUSTDY0003 Subject 51	Thailand	GAZ	human	Plasmodium falciparum	Plasmodium falciparum TD257	specimen from organism
+TM327	Sample TM327			EUSTDY0003 Subject 52	Thailand	GAZ	human	Plasmodium falciparum	Plasmodium falciparum TM327	specimen from organism
+TM345	Sample TM345			EUSTDY0003 Subject 53	Thailand	GAZ	human	Plasmodium falciparum	Plasmodium falciparum TM345	specimen from organism
+TM90C2A	Sample TM90C2A			EUSTDY0003 Subject 54	Thailand	GAZ	human	Plasmodium falciparum	Plasmodium falciparum TM90C2A	specimen from organism
+TM91C235	Sample TM91C235			EUSTDY0003 Subject 55	Thailand	GAZ	human	Plasmodium falciparum	Plasmodium falciparum TM91C235	specimen from organism
+TM90C6A_unknown	Sample TM90C6A_unknown:  Both TM90C6A and TM93C1088 have the same barcode. 'a0Both are supposedly from Thailand, but questionable provenance, since contamination occured in culture. 'a0Repeat samples requested from MR4 to make sure that we did not swap samples.			EUSTDY0003 Subject 56	Thailand	GAZ	human	Plasmodium falciparum	Plasmodium falciparum TM90C6A_unknown	specimen from organism
+VS_1	Sample VS_1			EUSTDY0003 Subject 57	Vietnam	GAZ	human	Plasmodium falciparum	Plasmodium falciparum VS_1	specimen from organism
+WR87	Sample WR87:  Matches the barcode from MT/s1, so questionable provenance. 'a0MT/s1 is from Mali and WR87 is from Vietnam.			EUSTDY0003 Subject 58	Vietnam	GAZ	human	Plasmodium falciparum	Plasmodium falciparum WR87	specimen from organism
+3D7	Sample 3D7:  Reference Strain, Sequenced to ~18X, Parent of genetic cross between 3D7 and HB3 that has differential gametocyte phenotypes in mosquito stages. 'a0Isolated from airport traveler in Netherlands.			EUSTDY0003 Subject 59	Netherlands	GAZ	human	Plasmodium falciparum	Plasmodium falciparum 3D7	specimen from organism
+Preichenowi	Sample Preichenowi			EUSTDY0003 Subject 60			human	Plasmodium falciparum	Plasmodium falciparum Preichenowi	specimen from organism

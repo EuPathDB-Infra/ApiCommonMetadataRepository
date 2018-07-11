@@ -1,86 +1,86 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism ID]	Characteristics[country]	Characteristics[city]	Characteristics[organism]	Characteristics[parasite organism]	Characteristics[specimen]
-HB3	Sample HB3			EUSTDY0002 Subject 1	Honduras		Homo sapiens	Plasmodium falciparum HB3	specimen from organism
-HB3_repeat	Sample HB3_repeat			EUSTDY0002 Subject 2	Honduras		Homo sapiens	Plasmodium falciparum HB3	specimen from organism
-3D7_1	Sample 3D7_1			EUSTDY0002 Subject 3	Netherlands		Homo sapiens	Plasmodium falciparum 3D7	specimen from organism
-Dd2	Sample Dd2			EUSTDY0002 Subject 4	Laos	Indochina	Homo sapiens	Plasmodium falciparum Dd2	specimen from organism
-K1	Sample K1			EUSTDY0002 Subject 5	Thailand		Homo sapiens	Plasmodium falciparum K1	specimen from organism
-7G8	Sample 7G8			EUSTDY0002 Subject 6	Brazil		Homo sapiens	Plasmodium falciparum 7G8	specimen from organism
-V1_S	Sample V1_S			EUSTDY0002 Subject 7	Vietnam		Homo sapiens	Plasmodium falciparum V1_S	specimen from organism
-D10	Sample D10			EUSTDY0002 Subject 8	Papua New Guinea		Homo sapiens	Plasmodium falciparum D10	specimen from organism
-Malayan	Sample Malayan			EUSTDY0002 Subject 9	Malaysia		Homo sapiens	Plasmodium falciparum Malayan	specimen from organism
-SantaLucia	Sample SantaLucia			EUSTDY0002 Subject 10	El Salvador		Homo sapiens	Plasmodium falciparum SantaLucia	specimen from organism
-SenP31.01	Sample SenP31.01			EUSTDY0002 Subject 11	Senegal		Homo sapiens	Plasmodium falciparum SenP31.01	specimen from organism
-SenV34.04	Sample SenV34.04			EUSTDY0002 Subject 12	Senegal		Homo sapiens	Plasmodium falciparum SenV34.04	specimen from organism
-SenV35.04	Sample SenV35.04			EUSTDY0002 Subject 13	Senegal		Homo sapiens	Plasmodium falciparum SenV35.04	specimen from organism
-SenP51.02	Sample SenP51.02			EUSTDY0002 Subject 14	Senegal		Homo sapiens	Plasmodium falciparum SenP51.02	specimen from organism
-SenV56.04	Sample SenV56.04			EUSTDY0002 Subject 15	Senegal		Homo sapiens	Plasmodium falciparum SenV56.04	specimen from organism
-P_reichenowi	Sample P_reichenowi			EUSTDY0002 Subject 16			Homo sapiens	Plasmodium falciparum P_reichenowi	specimen from organism
-SenThi10.04	Sample SenThi10.04			EUSTDY0002 Subject 17	Senegal		Homo sapiens	Plasmodium falciparum SenThi10.04	specimen from organism
-CF08.008	Sample CF08.008			EUSTDY0002 Subject 18	Malawi		Homo sapiens	Plasmodium falciparum CF08.008	specimen from organism
-D6	Sample D6			EUSTDY0002 Subject 19	Sierra Leone		Homo sapiens	Plasmodium falciparum D6	specimen from organism
-SenP05.02	Sample SenP05.02			EUSTDY0002 Subject 20	Senegal		Homo sapiens	Plasmodium falciparum SenP05.02	specimen from organism
-SenP06.02	Sample SenP06.02			EUSTDY0002 Subject 21	Senegal		Homo sapiens	Plasmodium falciparum SenP06.02	specimen from organism
-SenP08.04	Sample SenP08.04			EUSTDY0002 Subject 22	Senegal		Homo sapiens	Plasmodium falciparum SenP08.04	specimen from organism
-SenP09.04	Sample SenP09.04			EUSTDY0002 Subject 23	Senegal		Homo sapiens	Plasmodium falciparum SenP09.04	specimen from organism
-SenP11.02	Sample SenP11.02			EUSTDY0002 Subject 24	Senegal		Homo sapiens	Plasmodium falciparum SenP11.02	specimen from organism
-SenP18.02	Sample SenP18.02			EUSTDY0002 Subject 25	Senegal		Homo sapiens	Plasmodium falciparum SenP18.02	specimen from organism
-SenP19.04	Sample SenP19.04			EUSTDY0002 Subject 26	Senegal		Homo sapiens	Plasmodium falciparum SenP19.04	specimen from organism
-SenP26.04	Sample SenP26.04			EUSTDY0002 Subject 27	Senegal		Homo sapiens	Plasmodium falciparum SenP26.04	specimen from organism
-SenP27.02	Sample SenP27.02			EUSTDY0002 Subject 28	Senegal		Homo sapiens	Plasmodium falciparum SenP27.02	specimen from organism
-SenP60.02	Sample SenP60.02			EUSTDY0002 Subject 29	Senegal		Homo sapiens	Plasmodium falciparum SenP60.02	specimen from organism
-Thi10.04	Sample Thi10.04			EUSTDY0002 Subject 30	Senegal		Homo sapiens	Plasmodium falciparum Thi10.04	specimen from organism
-Thi15.04	Sample Thi15.04			EUSTDY0002 Subject 31	Senegal		Homo sapiens	Plasmodium falciparum Thi15.04	specimen from organism
-Thi26.04	Sample Thi26.04			EUSTDY0002 Subject 32	Senegal		Homo sapiens	Plasmodium falciparum Thi26.04	specimen from organism
-Thi28.04	Sample Thi28.04			EUSTDY0002 Subject 33	Senegal		Homo sapiens	Plasmodium falciparum Thi28.04	specimen from organism
-TD194	Sample TD194			EUSTDY0002 Subject 34	Thailand		Homo sapiens	Plasmodium falciparum TD194	specimen from organism
-TD203	Sample TD203			EUSTDY0002 Subject 35	Thailand		Homo sapiens	Plasmodium falciparum TD203	specimen from organism
-TD257	Sample TD257			EUSTDY0002 Subject 36	Thailand		Homo sapiens	Plasmodium falciparum TD257	specimen from organism
-TM327	Sample TM327			EUSTDY0002 Subject 37	Thailand		Homo sapiens	Plasmodium falciparum TM327	specimen from organism
-TM335	Sample TM335			EUSTDY0002 Subject 38	Thailand		Homo sapiens	Plasmodium falciparum TM335	specimen from organism
-TM336	Sample TM336			EUSTDY0002 Subject 39	Thailand		Homo sapiens	Plasmodium falciparum TM336	specimen from organism
-TM343	Sample TM343			EUSTDY0002 Subject 40	Thailand		Homo sapiens	Plasmodium falciparum TM343	specimen from organism
-TM345	Sample TM345			EUSTDY0002 Subject 41	Thailand		Homo sapiens	Plasmodium falciparum TM345	specimen from organism
-TM346	Sample TM346			EUSTDY0002 Subject 42	Thailand		Homo sapiens	Plasmodium falciparum TM346	specimen from organism
-TM347	Sample TM347			EUSTDY0002 Subject 43	Thailand		Homo sapiens	Plasmodium falciparum TM347	specimen from organism
-TM-4C8-2	Sample TM-4C8-2			EUSTDY0002 Subject 44	Thailand		Homo sapiens	Plasmodium falciparum TM-4C8-2	specimen from organism
-TM93C1088	Sample TM93C1088			EUSTDY0002 Subject 45	Thailand		Homo sapiens	Plasmodium falciparum TM93C1088	specimen from organism
-T116	Sample T116			EUSTDY0002 Subject 46	Thailand		Homo sapiens	Plasmodium falciparum T116	specimen from organism
-GA3	Sample GA3			EUSTDY0002 Subject 47	Thailand		Homo sapiens	Plasmodium falciparum GA3	specimen from organism
-GH2	Sample GH2			EUSTDY0002 Subject 48	Thailand		Homo sapiens	Plasmodium falciparum GH2	specimen from organism
-PR145	Sample PR145			EUSTDY0002 Subject 49	Thailand		Homo sapiens	Plasmodium falciparum PR145	specimen from organism
-V5.42.05	Sample V5.42.05			EUSTDY0002 Subject 50	Senegal		Homo sapiens	Plasmodium falciparum V5.42.05	specimen from organism
-RO-33	Sample RO-33			EUSTDY0002 Subject 51	Ghana		Homo sapiens	Plasmodium falciparum RO-33	specimen from organism
-FCC-2	Sample FCC-2			EUSTDY0002 Subject 52	China		Homo sapiens	Plasmodium falciparum FCC-2	specimen from organism
-HB3_1_batch2	Sample HB3_1_batch2			EUSTDY0002 Subject 53	Honduras		Homo sapiens	Plasmodium falciparum HB3_1_batch2	specimen from organism
-HB3_2_batch2	Sample HB3_2_batch2			EUSTDY0002 Subject 54	Honduras		Homo sapiens	Plasmodium falciparum HB3_2_batch2	specimen from organism
-CF04.008_10B	Sample CF04.008_10B			EUSTDY0002 Subject 55	Malawi		Homo sapiens	Plasmodium falciparum CF04.008_10B	specimen from organism
-CF04.008_1F	Sample CF04.008_1F			EUSTDY0002 Subject 56	Malawi		Homo sapiens	Plasmodium falciparum CF04.008_1F	specimen from organism
-CF04.008_2G	Sample CF04.008_2G			EUSTDY0002 Subject 57	Malawi		Homo sapiens	Plasmodium falciparum CF04.008_2G	specimen from organism
-CF04.008_12G	Sample CF04.008_12G			EUSTDY0002 Subject 58	Malawi		Homo sapiens	Plasmodium falciparum CF04.008_12G	specimen from organism
-CF04.008_7H	Sample CF04.008_7H			EUSTDY0002 Subject 59	Malawi		Homo sapiens	Plasmodium falciparum CF04.008_7H	specimen from organism
-CF04.009_6D	Sample CF04.009_6D			EUSTDY0002 Subject 60	Malawi		Homo sapiens	Plasmodium falciparum CF04.009_6D	specimen from organism
-CF04.010_10B	Sample CF04.010_10B			EUSTDY0002 Subject 61	Malawi		Homo sapiens	Plasmodium falciparum CF04.010_10B	specimen from organism
-T9-94	Sample T9-94			EUSTDY0002 Subject 62	Thailand		Homo sapiens	Plasmodium falciparum T9-94	specimen from organism
-TM90C2A	Sample TM90C2A			EUSTDY0002 Subject 63	Thailand		Homo sapiens	Plasmodium falciparum TM90C2A	specimen from organism
-TM90C6A	Sample TM90C6A			EUSTDY0002 Subject 64	Thailand		Homo sapiens	Plasmodium falciparum TM90C6A	specimen from organism
-TM90C6B	Sample TM90C6B			EUSTDY0002 Subject 65	Thailand		Homo sapiens	Plasmodium falciparum TM90C6B	specimen from organism
-TM91C235	Sample TM91C235			EUSTDY0002 Subject 66	Thailand		Homo sapiens	Plasmodium falciparum TM91C235	specimen from organism
-36-89	Sample 36-89			EUSTDY0002 Subject 67	Brazil		Homo sapiens	Plasmodium falciparum 36-89	specimen from organism
-KMWII	Sample KMWII			EUSTDY0002 Subject 68	Kenya		Homo sapiens	Plasmodium falciparum KMWII	specimen from organism
-330-89	Sample 330-89			EUSTDY0002 Subject 69	Brazil		Homo sapiens	Plasmodium falciparum 330-89	specimen from organism
-207-89	Sample 207-89			EUSTDY0002 Subject 70	Brazil		Homo sapiens	Plasmodium falciparum 207-89	specimen from organism
-MT_S1	Sample MT_S1			EUSTDY0002 Subject 71	Mali		Homo sapiens	Plasmodium falciparum MT_S1	specimen from organism
-1054	Sample 1054			EUSTDY0002 Subject 72	Brazil		Homo sapiens	Plasmodium falciparum 1054	specimen from organism
-51	Sample 51			EUSTDY0002 Subject 73	Brazil		Homo sapiens	Plasmodium falciparum 51	specimen from organism
-9-411	Sample 9-411			EUSTDY0002 Subject 74	Brazil		Homo sapiens	Plasmodium falciparum 9-411	specimen from organism
-365_89	Sample 365_89			EUSTDY0002 Subject 75	Brazil		Homo sapiens	Plasmodium falciparum 365_89	specimen from organism
-608	Sample 608			EUSTDY0002 Subject 76	Brazil		Homo sapiens	Plasmodium falciparum 608	specimen from organism
-60888	Sample 60888			EUSTDY0002 Subject 77	Brazil		Homo sapiens	Plasmodium falciparum 60888	specimen from organism
-T2_C6	Sample T2_C6			EUSTDY0002 Subject 78	Thailand		Homo sapiens	Plasmodium falciparum T2_C6	specimen from organism
-JST	Sample JST			EUSTDY0002 Subject 79	Brazil		Homo sapiens	Plasmodium falciparum JST	specimen from organism
-ADA2	Sample ADA2			EUSTDY0002 Subject 80	Brazil		Homo sapiens	Plasmodium falciparum ADA2	specimen from organism
-RAJ116	Sample RAJ116			EUSTDY0002 Subject 81	India		Homo sapiens	Plasmodium falciparum RAJ116	specimen from organism
-87-239	Sample 87-239			EUSTDY0002 Subject 82	India		Homo sapiens	Plasmodium falciparum 87-239	specimen from organism
-JDP8	Sample JDP8			EUSTDY0002 Subject 83	Laos	Indochina	Homo sapiens	Plasmodium falciparum JDP8	specimen from organism
-IGHCR14	Sample IGHCR14			EUSTDY0002 Subject 84	India		Homo sapiens	Plasmodium falciparum IGHCR14	specimen from organism
-3D7	Sample 3D7			EUSTDY0002 3D7 Reference			Homo sapiens	Plasmodium falciparum 3D7	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism ID]	Characteristics[country]	Characteristics[city]	Characteristics[organism]	Characteristics[parasite organism]	Characteristics[parasite strain]	Characteristics[specimen]
+HB3	Sample HB3			EUSTDY0002 Subject 1	Honduras		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum HB3	specimen from organism
+HB3_repeat	Sample HB3_repeat			EUSTDY0002 Subject 2	Honduras		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum HB3	specimen from organism
+3D7_1	Sample 3D7_1			EUSTDY0002 Subject 3	Netherlands		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 3D7	specimen from organism
+Dd2	Sample Dd2			EUSTDY0002 Subject 4	Laos	Indochina	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum Dd2	specimen from organism
+K1	Sample K1			EUSTDY0002 Subject 5	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum K1	specimen from organism
+7G8	Sample 7G8			EUSTDY0002 Subject 6	Brazil		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 7G8	specimen from organism
+V1_S	Sample V1_S			EUSTDY0002 Subject 7	Vietnam		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum V1_S	specimen from organism
+D10	Sample D10			EUSTDY0002 Subject 8	Papua New Guinea		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D10	specimen from organism
+Malayan	Sample Malayan			EUSTDY0002 Subject 9	Malaysia		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum Malayan	specimen from organism
+SantaLucia	Sample SantaLucia			EUSTDY0002 Subject 10	El Salvador		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SantaLucia	specimen from organism
+SenP31.01	Sample SenP31.01			EUSTDY0002 Subject 11	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenP31.01	specimen from organism
+SenV34.04	Sample SenV34.04			EUSTDY0002 Subject 12	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenV34.04	specimen from organism
+SenV35.04	Sample SenV35.04			EUSTDY0002 Subject 13	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenV35.04	specimen from organism
+SenP51.02	Sample SenP51.02			EUSTDY0002 Subject 14	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenP51.02	specimen from organism
+SenV56.04	Sample SenV56.04			EUSTDY0002 Subject 15	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenV56.04	specimen from organism
+P_reichenowi	Sample P_reichenowi			EUSTDY0002 Subject 16			Homo sapiens	Plasmodium falciparum	Plasmodium falciparum P_reichenowi	specimen from organism
+SenThi10.04	Sample SenThi10.04			EUSTDY0002 Subject 17	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenThi10.04	specimen from organism
+CF08.008	Sample CF08.008			EUSTDY0002 Subject 18	Malawi		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum CF08.008	specimen from organism
+D6	Sample D6			EUSTDY0002 Subject 19	Sierra Leone		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D6	specimen from organism
+SenP05.02	Sample SenP05.02			EUSTDY0002 Subject 20	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenP05.02	specimen from organism
+SenP06.02	Sample SenP06.02			EUSTDY0002 Subject 21	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenP06.02	specimen from organism
+SenP08.04	Sample SenP08.04			EUSTDY0002 Subject 22	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenP08.04	specimen from organism
+SenP09.04	Sample SenP09.04			EUSTDY0002 Subject 23	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenP09.04	specimen from organism
+SenP11.02	Sample SenP11.02			EUSTDY0002 Subject 24	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenP11.02	specimen from organism
+SenP18.02	Sample SenP18.02			EUSTDY0002 Subject 25	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenP18.02	specimen from organism
+SenP19.04	Sample SenP19.04			EUSTDY0002 Subject 26	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenP19.04	specimen from organism
+SenP26.04	Sample SenP26.04			EUSTDY0002 Subject 27	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenP26.04	specimen from organism
+SenP27.02	Sample SenP27.02			EUSTDY0002 Subject 28	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenP27.02	specimen from organism
+SenP60.02	Sample SenP60.02			EUSTDY0002 Subject 29	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum SenP60.02	specimen from organism
+Thi10.04	Sample Thi10.04			EUSTDY0002 Subject 30	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum Thi10.04	specimen from organism
+Thi15.04	Sample Thi15.04			EUSTDY0002 Subject 31	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum Thi15.04	specimen from organism
+Thi26.04	Sample Thi26.04			EUSTDY0002 Subject 32	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum Thi26.04	specimen from organism
+Thi28.04	Sample Thi28.04			EUSTDY0002 Subject 33	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum Thi28.04	specimen from organism
+TD194	Sample TD194			EUSTDY0002 Subject 34	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TD194	specimen from organism
+TD203	Sample TD203			EUSTDY0002 Subject 35	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TD203	specimen from organism
+TD257	Sample TD257			EUSTDY0002 Subject 36	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TD257	specimen from organism
+TM327	Sample TM327			EUSTDY0002 Subject 37	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM327	specimen from organism
+TM335	Sample TM335			EUSTDY0002 Subject 38	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM335	specimen from organism
+TM336	Sample TM336			EUSTDY0002 Subject 39	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM336	specimen from organism
+TM343	Sample TM343			EUSTDY0002 Subject 40	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM343	specimen from organism
+TM345	Sample TM345			EUSTDY0002 Subject 41	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM345	specimen from organism
+TM346	Sample TM346			EUSTDY0002 Subject 42	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM346	specimen from organism
+TM347	Sample TM347			EUSTDY0002 Subject 43	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM347	specimen from organism
+TM-4C8-2	Sample TM-4C8-2			EUSTDY0002 Subject 44	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM-4C8-2	specimen from organism
+TM93C1088	Sample TM93C1088			EUSTDY0002 Subject 45	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM93C1088	specimen from organism
+T116	Sample T116			EUSTDY0002 Subject 46	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum T116	specimen from organism
+GA3	Sample GA3			EUSTDY0002 Subject 47	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum GA3	specimen from organism
+GH2	Sample GH2			EUSTDY0002 Subject 48	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum GH2	specimen from organism
+PR145	Sample PR145			EUSTDY0002 Subject 49	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum PR145	specimen from organism
+V5.42.05	Sample V5.42.05			EUSTDY0002 Subject 50	Senegal		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum V5.42.05	specimen from organism
+RO-33	Sample RO-33			EUSTDY0002 Subject 51	Ghana		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum RO-33	specimen from organism
+FCC-2	Sample FCC-2			EUSTDY0002 Subject 52	China		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum FCC-2	specimen from organism
+HB3_1_batch2	Sample HB3_1_batch2			EUSTDY0002 Subject 53	Honduras		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum HB3_1_batch2	specimen from organism
+HB3_2_batch2	Sample HB3_2_batch2			EUSTDY0002 Subject 54	Honduras		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum HB3_2_batch2	specimen from organism
+CF04.008_10B	Sample CF04.008_10B			EUSTDY0002 Subject 55	Malawi		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum CF04.008_10B	specimen from organism
+CF04.008_1F	Sample CF04.008_1F			EUSTDY0002 Subject 56	Malawi		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum CF04.008_1F	specimen from organism
+CF04.008_2G	Sample CF04.008_2G			EUSTDY0002 Subject 57	Malawi		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum CF04.008_2G	specimen from organism
+CF04.008_12G	Sample CF04.008_12G			EUSTDY0002 Subject 58	Malawi		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum CF04.008_12G	specimen from organism
+CF04.008_7H	Sample CF04.008_7H			EUSTDY0002 Subject 59	Malawi		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum CF04.008_7H	specimen from organism
+CF04.009_6D	Sample CF04.009_6D			EUSTDY0002 Subject 60	Malawi		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum CF04.009_6D	specimen from organism
+CF04.010_10B	Sample CF04.010_10B			EUSTDY0002 Subject 61	Malawi		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum CF04.010_10B	specimen from organism
+T9-94	Sample T9-94			EUSTDY0002 Subject 62	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum T9-94	specimen from organism
+TM90C2A	Sample TM90C2A			EUSTDY0002 Subject 63	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM90C2A	specimen from organism
+TM90C6A	Sample TM90C6A			EUSTDY0002 Subject 64	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM90C6A	specimen from organism
+TM90C6B	Sample TM90C6B			EUSTDY0002 Subject 65	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM90C6B	specimen from organism
+TM91C235	Sample TM91C235			EUSTDY0002 Subject 66	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum TM91C235	specimen from organism
+36-89	Sample 36-89			EUSTDY0002 Subject 67	Brazil		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 36-89	specimen from organism
+KMWII	Sample KMWII			EUSTDY0002 Subject 68	Kenya		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum KMWII	specimen from organism
+330-89	Sample 330-89			EUSTDY0002 Subject 69	Brazil		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 330-89	specimen from organism
+207-89	Sample 207-89			EUSTDY0002 Subject 70	Brazil		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 207-89	specimen from organism
+MT_S1	Sample MT_S1			EUSTDY0002 Subject 71	Mali		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum MT_S1	specimen from organism
+1054	Sample 1054			EUSTDY0002 Subject 72	Brazil		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 1054	specimen from organism
+51	Sample 51			EUSTDY0002 Subject 73	Brazil		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 51	specimen from organism
+9-411	Sample 9-411			EUSTDY0002 Subject 74	Brazil		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 9-411	specimen from organism
+365_89	Sample 365_89			EUSTDY0002 Subject 75	Brazil		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 365_89	specimen from organism
+608	Sample 608			EUSTDY0002 Subject 76	Brazil		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 608	specimen from organism
+60888	Sample 60888			EUSTDY0002 Subject 77	Brazil		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 60888	specimen from organism
+T2_C6	Sample T2_C6			EUSTDY0002 Subject 78	Thailand		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum T2_C6	specimen from organism
+JST	Sample JST			EUSTDY0002 Subject 79	Brazil		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum JST	specimen from organism
+ADA2	Sample ADA2			EUSTDY0002 Subject 80	Brazil		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum ADA2	specimen from organism
+RAJ116	Sample RAJ116			EUSTDY0002 Subject 81	India		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum RAJ116	specimen from organism
+87-239	Sample 87-239			EUSTDY0002 Subject 82	India		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 87-239	specimen from organism
+JDP8	Sample JDP8			EUSTDY0002 Subject 83	Laos	Indochina	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum JDP8	specimen from organism
+IGHCR14	Sample IGHCR14			EUSTDY0002 Subject 84	India		Homo sapiens	Plasmodium falciparum	Plasmodium falciparum IGHCR14	specimen from organism
+3D7	Sample 3D7			EUSTDY0002 3D7 Reference			Homo sapiens	Plasmodium falciparum	Plasmodium falciparum 3D7	specimen from organism

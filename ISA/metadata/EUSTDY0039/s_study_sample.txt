@@ -1,6 +1,6 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]
-M2903	Tryp white paper sequencing of Leishmania braziliensis M2903 using Illumina from WashU.			Leishmania braziliensis M2903	specimen from organism
-Seidman751	Tryp white paper sequencing of Leishmania major Seidman 75.1 using Illumina from WashU.			Leishmania major Seidman751	specimen from organism
-LV39cl5	Tryp white paper sequencing of Leishmania major LV39 cl.5 using Illumina from WashU.			Leishmania major LV39cl5	specimen from organism
-JRcl4	Tryp white paper sequencing of Trypanosoma cruzi JRcl4 using Illumina from WashU.			Trypanosoma cruzi JRcl4	specimen from organism
-Cl3	Tryp white paper sequencing of Trypanosoma cruzi Cl3 using Illumina from WashU.			Trypanosoma cruzi Cl3	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]	Characteristics[parasite strain]
+M2903	Tryp white paper sequencing of Leishmania braziliensis M2903 using Illumina from WashU.			Leishmania braziliensis	specimen from organism	Leishmania braziliensis M2903
+Seidman751	Tryp white paper sequencing of Leishmania major Seidman 75.1 using Illumina from WashU.			Leishmania major	specimen from organism	Leishmania major Seidman751
+LV39cl5	Tryp white paper sequencing of Leishmania major LV39 cl.5 using Illumina from WashU.			Leishmania major	specimen from organism	Leishmania major LV39cl5
+JRcl4	Tryp white paper sequencing of Trypanosoma cruzi JRcl4 using Illumina from WashU.			Trypanosoma cruzi	specimen from organism	Trypanosoma cruzi JRcl4
+Cl3	Tryp white paper sequencing of Trypanosoma cruzi Cl3 using Illumina from WashU.			Trypanosoma cruzi	specimen from organism	Trypanosoma cruzi Cl3

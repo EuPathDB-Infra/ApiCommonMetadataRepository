@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]
-V1	Illumina Genome paired end sequencing of Leishmania major strain Friedlin isolate V1			Leishmania major Friedlin	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]	Characteristics[parasite strain]
+V1	Illumina Genome paired end sequencing of Leishmania major strain Friedlin isolate V1			Leishmania major	specimen from organism	Leishmania major Friedlin

@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]
-STIB805_reference1	Illumina sequencing of Trypanosoma evansi Trypanosoma_evansi-sc-STiB805-1 library			Trypanosoma evansi STIB805	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]	Characteristics[parasite strain]
+STIB805_reference1	Illumina sequencing of Trypanosoma evansi Trypanosoma_evansi-sc-STiB805-1 library			Trypanosoma evansi	specimen from organism	Trypanosoma evansi STIB805

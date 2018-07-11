@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[organism ID]	Characteristics[parasite organism]	Characteristics[specimen]
-IQ07	Illumina sequencing for Pvivax IQ07			human	EUSTDY0014 Subject 1	Plasmodium vivax IQ07	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[organism]	Characteristics[organism ID]	Characteristics[parasite strain]	Characteristics[specimen]	Characteristics[parasite organism]
+IQ07	Illumina sequencing for Pvivax IQ07			human	EUSTDY0014 Subject 1	Plasmodium vivax IQ07	specimen from organism	Plasmodium vivax

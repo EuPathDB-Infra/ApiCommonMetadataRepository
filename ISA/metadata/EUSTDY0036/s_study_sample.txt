@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]
-427	SNPs based on the Tb427 sequence as compared to the Tb927 reference from George Cross.			Trypanosoma brucei brucei 427	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	Characteristics[specimen]	Characteristics[parasite strain]
+427	SNPs based on the Tb427 sequence as compared to the Tb927 reference from George Cross.			Trypanosoma brucei	specimen from organism	Trypanosoma brucei brucei 427

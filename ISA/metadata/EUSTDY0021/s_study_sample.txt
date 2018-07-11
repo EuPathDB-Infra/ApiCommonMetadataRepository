@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Parameter Value [collection year]	Characteristics[parasite organism]	Characteristics [GP60 genotype]	Characteristics[specimen]
-TU114	Aligned genomic sequence reads TU114 Strain			Uganda	human	2003	Cryptosporidium parvum TU114	IIcA5G3b	specimen from organism
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[country]	Characteristics[organism]	Parameter Value [collection year]	Characteristics[parasite organism]	Characteristics [GP60 genotype]	Characteristics[specimen]	Characteristics[parasite strain]
+TU114	Aligned genomic sequence reads TU114 Strain			Uganda	human	2003	Cryptosporidium parvum	IIcA5G3b	specimen from organism	Cryptosporidium parvum TU114
