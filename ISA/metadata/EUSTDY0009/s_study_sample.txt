@@ -50,26 +50,26 @@ Mexico_63-08	SAMN02677187:  Broad White Paper sequencing on Plasmodium_vivax_Mex
 Mexico_760-A	SAMN02677170:  Broad White Paper sequencing on Plasmodium_vivax_Mexico_760-A			Mexico	Tapachula	human	EUSTDY0009 Subject 49	Plasmodium vivax	Plasmodium vivax Mexico 760-A	blood	8/14/01	2001
 Mexico_938-A	SAMN02677169:  Broad White Paper sequencing on Plasmodium_vivax_Mexico_938-A			Mexico	Frontera hidalgo	human	EUSTDY0009 Subject 50	Plasmodium vivax	Plasmodium vivax Mexico 938-A	blood	9/6/00	2000
 Mexico_980-A	SAMN02677171:  Broad White Paper sequencing on Plasmodium_vivax_Mexico_980-A			Mexico	Tapachula	human	EUSTDY0009 Subject 51	Plasmodium vivax	Plasmodium vivax Mexico 980-A	blood	10/29/01	2001
-Brazil01	SAMN02677077:  Broad White Paper sequencing on Plasmodium vivax Brazil01			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 52	Plasmodium vivax	Plasmodium vivax Brazil01	blood		2011
-Brazil02	SAMN02677083:  Broad White Paper sequencing on Plasmodium vivax Brazil02			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 53	Plasmodium vivax	Plasmodium vivax Brazil02	blood		2011
-Brazil08	SAMN02677080:  Broad White Paper sequencing on Plasmodium vivax Brazil08			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 54	Plasmodium vivax	Plasmodium vivax Brazil08	blood		2011
-Brazil12	SAMN02677079:  Broad White Paper sequencing on Plasmodium vivax Brazil12			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 55	Plasmodium vivax	Plasmodium vivax Brazil12	blood		2011
-Brazil13	SAMN02677089:  Broad White Paper sequencing on Plasmodium vivax Brazil13			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 56	Plasmodium vivax	Plasmodium vivax Brazil13	blood		2011
-Brazil15	SAMN02677085:  Broad White Paper sequencing on Plasmodium vivax Brazil15			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 57	Plasmodium vivax	Plasmodium vivax Brazil15	blood		2011
-Brazil17	SAMN02677088:  Broad White Paper sequencing on Plasmodium vivax Brazil17			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 58	Plasmodium vivax	Plasmodium vivax Brazil17	blood		2011
-Brazil22	SAMN02677091:  Broad White Paper sequencing on Plasmodium vivax Brazil22			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 59	Plasmodium vivax	Plasmodium vivax Brazil22	blood		2011
-Brazil24	SAMN02677087:  Broad White Paper sequencing on Plasmodium vivax Brazil24			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 60	Plasmodium vivax	Plasmodium vivax Brazil24	blood		2011
-Brazil25	SAMN02677084:  Broad White Paper sequencing on Plasmodium vivax Brazil25			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 61	Plasmodium vivax	Plasmodium vivax Brazil25	blood		2011
-Brazil27	SAMN02677094:  Broad White Paper sequencing on Plasmodium vivax Brazil27			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 62	Plasmodium vivax	Plasmodium vivax Brazil27	blood		2011
-Brazil29	SAMN02677078:  Broad White Paper sequencing on Plasmodium vivax Brazil29			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 63	Plasmodium vivax	Plasmodium vivax Brazil29	blood		2011
-Brazil30	SAMN02677081:  Broad White Paper sequencing on Plasmodium vivax Brazil30			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 64	Plasmodium vivax	Plasmodium vivax Brazil30	blood		2011
-Brazil31	SAMN02677086:  Broad White Paper sequencing on Plasmodium vivax Brazil31			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 65	Plasmodium vivax	Plasmodium vivax Brazil31	blood		2011
-Brazil32	SAMN02677076:  Broad White Paper sequencing on Plasmodium vivax Brazil32			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 66	Plasmodium vivax	Plasmodium vivax Brazil32	blood		2011
-Brazil33	SAMN02677093:  Broad White Paper sequencing on Plasmodium vivax Brazil33			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 67	Plasmodium vivax	Plasmodium vivax Brazil33	blood		2011
-Brazil34	SAMN02677090:  Broad White Paper sequencing on Plasmodium vivax Brazil34			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 68	Plasmodium vivax	Plasmodium vivax Brazil34	blood		2011
-Brazil35	SAMN02677092:  Broad White Paper sequencing on Plasmodium vivax Brazil35			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 69	Plasmodium vivax	Plasmodium vivax Brazil35	blood		2011
-Brazil87	SAMN02677095:  Broad White Paper sequencing on Plasmodium vivax Brazil87			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 70	Plasmodium vivax	Plasmodium vivax Brazil87	blood		2011
-Brazl03	SAMN02677082:  Broad White Paper sequencing on Plasmodium vivax Brazl03			Brazil	Acre State, Western Brazilian Amazon	human	EUSTDY0009 Subject 71	Plasmodium vivax	Plasmodium vivax Brazl03	blood		2011
+Brazil01	SAMN02677077:  Broad White Paper sequencing on Plasmodium vivax Brazil01			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 52	Plasmodium vivax	Plasmodium vivax Brazil01	blood		2011
+Brazil02	SAMN02677083:  Broad White Paper sequencing on Plasmodium vivax Brazil02			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 53	Plasmodium vivax	Plasmodium vivax Brazil02	blood		2011
+Brazil08	SAMN02677080:  Broad White Paper sequencing on Plasmodium vivax Brazil08			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 54	Plasmodium vivax	Plasmodium vivax Brazil08	blood		2011
+Brazil12	SAMN02677079:  Broad White Paper sequencing on Plasmodium vivax Brazil12			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 55	Plasmodium vivax	Plasmodium vivax Brazil12	blood		2011
+Brazil13	SAMN02677089:  Broad White Paper sequencing on Plasmodium vivax Brazil13			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 56	Plasmodium vivax	Plasmodium vivax Brazil13	blood		2011
+Brazil15	SAMN02677085:  Broad White Paper sequencing on Plasmodium vivax Brazil15			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 57	Plasmodium vivax	Plasmodium vivax Brazil15	blood		2011
+Brazil17	SAMN02677088:  Broad White Paper sequencing on Plasmodium vivax Brazil17			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 58	Plasmodium vivax	Plasmodium vivax Brazil17	blood		2011
+Brazil22	SAMN02677091:  Broad White Paper sequencing on Plasmodium vivax Brazil22			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 59	Plasmodium vivax	Plasmodium vivax Brazil22	blood		2011
+Brazil24	SAMN02677087:  Broad White Paper sequencing on Plasmodium vivax Brazil24			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 60	Plasmodium vivax	Plasmodium vivax Brazil24	blood		2011
+Brazil25	SAMN02677084:  Broad White Paper sequencing on Plasmodium vivax Brazil25			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 61	Plasmodium vivax	Plasmodium vivax Brazil25	blood		2011
+Brazil27	SAMN02677094:  Broad White Paper sequencing on Plasmodium vivax Brazil27			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 62	Plasmodium vivax	Plasmodium vivax Brazil27	blood		2011
+Brazil29	SAMN02677078:  Broad White Paper sequencing on Plasmodium vivax Brazil29			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 63	Plasmodium vivax	Plasmodium vivax Brazil29	blood		2011
+Brazil30	SAMN02677081:  Broad White Paper sequencing on Plasmodium vivax Brazil30			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 64	Plasmodium vivax	Plasmodium vivax Brazil30	blood		2011
+Brazil31	SAMN02677086:  Broad White Paper sequencing on Plasmodium vivax Brazil31			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 65	Plasmodium vivax	Plasmodium vivax Brazil31	blood		2011
+Brazil32	SAMN02677076:  Broad White Paper sequencing on Plasmodium vivax Brazil32			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 66	Plasmodium vivax	Plasmodium vivax Brazil32	blood		2011
+Brazil33	SAMN02677093:  Broad White Paper sequencing on Plasmodium vivax Brazil33			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 67	Plasmodium vivax	Plasmodium vivax Brazil33	blood		2011
+Brazil34	SAMN02677090:  Broad White Paper sequencing on Plasmodium vivax Brazil34			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 68	Plasmodium vivax	Plasmodium vivax Brazil34	blood		2011
+Brazil35	SAMN02677092:  Broad White Paper sequencing on Plasmodium vivax Brazil35			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 69	Plasmodium vivax	Plasmodium vivax Brazil35	blood		2011
+Brazil87	SAMN02677095:  Broad White Paper sequencing on Plasmodium vivax Brazil87			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 70	Plasmodium vivax	Plasmodium vivax Brazil87	blood		2011
+Brazl03	SAMN02677082:  Broad White Paper sequencing on Plasmodium vivax Brazl03			Brazil	"Acre State, Western Brazilian Amazon"	human	EUSTDY0009 Subject 71	Plasmodium vivax	Plasmodium vivax Brazl03	blood		2011
 DTS0721	SAMN02677075:  Broad White Paper sequencing on Plasmodium vivax DTS 0721			Peru		human	EUSTDY0009 Subject 72	Plasmodium vivax	Plasmodium vivax DTS 0721	blood		
 DTS0791	SAMN02677070:  Broad White Paper sequencing on Plasmodium vivax DTS 0791			Peru		human	EUSTDY0009 Subject 73	Plasmodium vivax	Plasmodium vivax DTS 0791	blood		
 DTS0830	SAMN02677067:  Broad White Paper sequencing on Plasmodium vivax DTS 0830			Peru		human	EUSTDY0009 Subject 74	Plasmodium vivax	Plasmodium vivax DTS 0830	blood		
@@ -128,13 +128,13 @@ PNG17	SAMN02677109:  Broad White Paper sequencing on Plasmodium vivax PNG17			Pa
 PNG58	SAMN02677105:  Broad White Paper sequencing on Plasmodium vivax PNG58			Papua New Guinea		human	EUSTDY0009 Subject 127	Plasmodium vivax	Plasmodium vivax PNG58	blood		
 PNG72	SAMN02677106:  Broad White Paper sequencing on Plasmodium vivax PNG72			Papua New Guinea		human	EUSTDY0009 Subject 128	Plasmodium vivax	Plasmodium vivax PNG72	blood		
 PNG73	SAMN02677107:  Broad White Paper sequencing on Plasmodium vivax PNG73			Papua New Guinea		human	EUSTDY0009 Subject 129	Plasmodium vivax	Plasmodium vivax PNG73	blood		
-PVRVL1991	SAMN02677200:  Broad White Paper sequencing on PVRVL1991			Papua New Guinea	East Sepik	human	EUSTDY0009 Subject 130		PVRVL1991	blood		1991-1992
-PVRVL1997	SAMN02677201:  Broad White Paper sequencing on PVRVL1997			Papua New Guinea	East Sepik	human	EUSTDY0009 Subject 131		PVRVL1997	blood		1997
-PVRVL2000	SAMN02677202:  Broad White Paper sequencing on PVRVL2000			Papua New Guinea	East Sepik	human	EUSTDY0009 Subject 132		PVRVL2000	blood		2000
-PVRVL2003	SAMN02677203:  Broad White Paper sequencing on PVRVL2003			Papua New Guinea	East Sepik	human	EUSTDY0009 Subject 133		PVRVL2003	blood		2003
-PVXMQ2006	SAMN02677199:  Broad White Paper sequencing on PVXMQ2006			Papua New Guinea	Madang	human	EUSTDY0009 Subject 134		PVXMQ2006	blood		2006
-PVXMW2006	SAMN02677198:  Broad White Paper sequencing on PVXMW2006			Papua New Guinea	East Sepik	human	EUSTDY0009 Subject 135		PVXMW2006	blood		2006
-PVXMZ2010	SAMN02677197:  Broad White Paper sequencing on PVXMZ2010			Papua New Guinea	Madang	human	EUSTDY0009 Subject 136		PVXMZ2010	blood		2010
+PVRVL1991	SAMN02677200:  Broad White Paper sequencing on PVRVL1991			Papua New Guinea	East Sepik	human	EUSTDY0009 Subject 130	Plasmodium vivax	Plasmodium vivax PVRVL1991	blood		1991-1992
+PVRVL1997	SAMN02677201:  Broad White Paper sequencing on PVRVL1997			Papua New Guinea	East Sepik	human	EUSTDY0009 Subject 131	Plasmodium vivax	Plasmodium vivax PVRVL1997	blood		1997
+PVRVL2000	SAMN02677202:  Broad White Paper sequencing on PVRVL2000			Papua New Guinea	East Sepik	human	EUSTDY0009 Subject 132	Plasmodium vivax	Plasmodium vivax PVRVL2000	blood		2000
+PVRVL2003	SAMN02677203:  Broad White Paper sequencing on PVRVL2003			Papua New Guinea	East Sepik	human	EUSTDY0009 Subject 133	Plasmodium vivax	Plasmodium vivax PVRVL2003	blood		2003
+PVXMQ2006	SAMN02677199:  Broad White Paper sequencing on PVXMQ2006			Papua New Guinea	Madang	human	EUSTDY0009 Subject 134	Plasmodium vivax	Plasmodium vivax PVXMQ2006	blood		2006
+PVXMW2006	SAMN02677198:  Broad White Paper sequencing on PVXMW2006			Papua New Guinea	East Sepik	human	EUSTDY0009 Subject 135	Plasmodium vivax	Plasmodium vivax PVXMW2006	blood		2006
+PVXMZ2010	SAMN02677197:  Broad White Paper sequencing on PVXMZ2010			Papua New Guinea	Madang	human	EUSTDY0009 Subject 136	Plasmodium vivax	Plasmodium vivax PVXMZ2010	blood		2010
 ST01	SAMN02677068:  Broad White Paper sequencing on Plasmodium vivax ST01			Peru		human	EUSTDY0009 Subject 137	Plasmodium vivax	Plasmodium vivax ST01	blood		
 ST02	SAMN02677072:  Broad White Paper sequencing on Plasmodium vivax ST02			Peru		human	EUSTDY0009 Subject 138	Plasmodium vivax	Plasmodium vivax ST02	blood		
 Thailand_VKBT-100	SAMN02677204:  Broad White Paper sequencing on Plasmodium_vivax_Thailand_VKBT-100			Thailand	Kanchanaburi	human	EUSTDY0009 Subject 139	Plasmodium vivax	Plasmodium vivax Thailand VKBT-100	blood	1/21/13	2013
