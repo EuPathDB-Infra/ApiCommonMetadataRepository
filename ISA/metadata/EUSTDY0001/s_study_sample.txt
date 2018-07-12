@@ -1,422 +1,422 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [organism ID]	Characteristics [age]	Characteristics [organism]	Characteristics [sex]	Characteristics [health_status]	Characteristics [time_to_onset]	Collection date	Characteristics [specimen]	Characteristics [iPCR result]	Characteristics [technical replicate]
-Crompton_1_1_1	Subject 1 serum sample May			EUSTDY0001 Subject 1	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	positive
-Crompton_2_1_2	Subject 2 serum sample May			EUSTDY0001 Subject 2	4 years	Homo sapiens	female	Infected With Malaria	98 days	5/1/06	blood serum	negative
-Crompton_3_1_3	Subject 3 serum sample May			EUSTDY0001 Subject 3	4 years	Homo sapiens	female	Infected With Malaria	84 days	5/1/06	blood serum	negative
-Crompton_4_2_1	Subject 4 serum sample May			EUSTDY0001 Subject 4	4 years	Homo sapiens	male	Infected With Malaria	125 days	5/1/06	blood serum	positive
-Crompton_5_2_2	Subject 5 serum sample May			EUSTDY0001 Subject 5	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_6_2_3	Subject 6 serum sample May			EUSTDY0001 Subject 6	4 years	Homo sapiens	female	Infected With Malaria	143 days	5/1/06	blood serum	negative
-Crompton_7_3_1	Subject 7 serum sample May			EUSTDY0001 Subject 7	4 years	Homo sapiens	male	Infected With Malaria	31 days	5/1/06	blood serum	negative
-Crompton_8_3_2	Subject 8 serum sample May			EUSTDY0001 Subject 8	4 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_9_3_3	Subject 9 serum sample May			EUSTDY0001 Subject 9	3 years	Homo sapiens	male	Infected With Malaria	127 days	5/1/06	blood serum	negative
-Crompton_10_4_1	Subject 10 serum sample May			EUSTDY0001 Subject 10	4 years	Homo sapiens	male	Infected With Malaria	139 days	5/1/06	blood serum	negative
-Crompton_11_4_2	Subject 11 serum sample May			EUSTDY0001 Subject 11	3 years	Homo sapiens	female	Infected With Malaria	115 days	5/1/06	blood serum	negative
-Crompton_12_4_3	Subject 12 serum sample May			EUSTDY0001 Subject 12	3 years	Homo sapiens	male	Infected With Malaria	138 days	5/1/06	blood serum	positive
-Crompton_1_5_1	Subject 1 serum sample December			EUSTDY0001 Subject 1	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	positive
-Crompton_2_5_2	Subject 2 serum sample December			EUSTDY0001 Subject 2	4 years	Homo sapiens	female	Infected With Malaria	98 days	12/1/06	blood serum	negative
-Crompton_3_5_3	Subject 3 serum sample December			EUSTDY0001 Subject 3	4 years	Homo sapiens	female	Infected With Malaria	84 days	12/1/06	blood serum	negative
-Crompton_4_6_1	Subject 4 serum sample December			EUSTDY0001 Subject 4	4 years	Homo sapiens	male	Infected With Malaria	125 days	12/1/06	blood serum	positive
-Crompton_5_6_2	Subject 5 serum sample December			EUSTDY0001 Subject 5	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_6_6_3	Subject 6 serum sample December			EUSTDY0001 Subject 6	4 years	Homo sapiens	female	Infected With Malaria	143 days	12/1/06	blood serum	negative
-Crompton_7_7_1	Subject 7 serum sample December			EUSTDY0001 Subject 7	4 years	Homo sapiens	male	Infected With Malaria	31 days	12/1/06	blood serum	negative
-Crompton_8_7_2	Subject 8 serum sample December			EUSTDY0001 Subject 8	4 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_9_7_3	Subject 9 serum sample December			EUSTDY0001 Subject 9	3 years	Homo sapiens	male	Infected With Malaria	127 days	12/1/06	blood serum	negative
-Crompton_10_8_1	Subject 10 serum sample December			EUSTDY0001 Subject 10	4 years	Homo sapiens	male	Infected With Malaria	139 days	12/1/06	blood serum	negative
-Crompton_11_8_2	Subject 11 serum sample December			EUSTDY0001 Subject 11	3 years	Homo sapiens	female	Infected With Malaria	115 days	12/1/06	blood serum	negative
-Crompton_12_8_3	Subject 12 serum sample December			EUSTDY0001 Subject 12	3 years	Homo sapiens	male	Infected With Malaria	138 days	12/1/06	blood serum	positive
-Crompton_13_9_1	Subject 13 serum sample May			EUSTDY0001 Subject 13	3 years	Homo sapiens	female	Infected With Malaria	133 days	5/1/06	blood serum	negative
-Crompton_14_9_2	Subject 14 serum sample May			EUSTDY0001 Subject 14	3 years	Homo sapiens	female	Infected With Malaria	86 days	5/1/06	blood serum	negative
-Crompton_16_10_1	Subject 16 serum sample May			EUSTDY0001 Subject 16	5 years	Homo sapiens	female	Infected With Malaria	120 days	5/1/06	blood serum	negative
-Crompton_17_10_2	Subject 17 serum sample May			EUSTDY0001 Subject 17	4 years	Homo sapiens	female	Infected With Malaria	100 days	5/1/06	blood serum	negative
-Crompton_18_10_3	Subject 18 serum sample May			EUSTDY0001 Subject 18	4 years	Homo sapiens	female	Infected With Malaria	136 days	5/1/06	blood serum	negative
-Crompton_19_11_1	Subject 19 serum sample May			EUSTDY0001 Subject 19	3 years	Homo sapiens	female	Infected With Malaria	96 days	5/1/06	blood serum	negative
-Crompton_20_11_2	Subject 20 serum sample May			EUSTDY0001 Subject 20	2 years	Homo sapiens	male	Infected With Malaria	94 days	5/1/06	blood serum	negative
-Crompton_21_11_3	Subject 21 serum sample May			EUSTDY0001 Subject 21	3 years	Homo sapiens	female	Infected With Malaria	142 days	5/1/06	blood serum	negative
-Crompton_22_12_1	Subject 22 serum sample May			EUSTDY0001 Subject 22	3 years	Homo sapiens	female	Infected With Malaria	144 days	5/1/06	blood serum	negative
-Crompton_23_12_2	Subject 23 serum sample May			EUSTDY0001 Subject 23	3 years	Homo sapiens	female	Infected With Malaria	85 days	5/1/06	blood serum	negative
-Crompton_24_12_3	Subject 24 serum sample May			EUSTDY0001 Subject 24	3 years	Homo sapiens	male	Infected With Malaria	98 days	5/1/06	blood serum	negative
-Crompton_13_13_1	Subject 13 serum sample December			EUSTDY0001 Subject 13	3 years	Homo sapiens	female	Infected With Malaria	133 days	12/1/06	blood serum	negative
-Crompton_14_13_2	Subject 14 serum sample December			EUSTDY0001 Subject 14	3 years	Homo sapiens	female	Infected With Malaria	86 days	12/1/06	blood serum	negative
-Crompton_15_13_3	Subject 15 serum sample December			EUSTDY0001 Subject 15	3 years	Homo sapiens	female	Infected With Malaria	30 days	12/1/06	blood serum	negative
-Crompton_16_14_1	Subject 16 serum sample December			EUSTDY0001 Subject 16	5 years	Homo sapiens	female	Infected With Malaria	120 days	12/1/06	blood serum	negative
-Crompton_17_14_2	Subject 17 serum sample December			EUSTDY0001 Subject 17	4 years	Homo sapiens	female	Infected With Malaria	100 days	12/1/06	blood serum	negative
-Crompton_18_14_3	Subject 18 serum sample December			EUSTDY0001 Subject 18	4 years	Homo sapiens	female	Infected With Malaria	136 days	12/1/06	blood serum	negative
-Crompton_19_15_1	Subject 19 serum sample December			EUSTDY0001 Subject 19	3 years	Homo sapiens	female	Infected With Malaria	96 days	12/1/06	blood serum	negative
-Crompton_20_15_2	Subject 20 serum sample December			EUSTDY0001 Subject 20	2 years	Homo sapiens	male	Infected With Malaria	94 days	12/1/06	blood serum	negative
-Crompton_21_15_3	Subject 21 serum sample December			EUSTDY0001 Subject 21	3 years	Homo sapiens	female	Infected With Malaria	142 days	12/1/06	blood serum	negative
-Crompton_22_16_1	Subject 22 serum sample December			EUSTDY0001 Subject 22	3 years	Homo sapiens	female	Infected With Malaria	144 days	12/1/06	blood serum	negative
-Crompton_23_16_2	Subject 23 serum sample December			EUSTDY0001 Subject 23	3 years	Homo sapiens	female	Infected With Malaria	85 days	12/1/06	blood serum	negative
-Crompton_24_16_3	Subject 24 serum sample December			EUSTDY0001 Subject 24	3 years	Homo sapiens	male	Infected With Malaria	98 days	12/1/06	blood serum	negative
-Crompton_26_17_2	Subject 26 serum sample May			EUSTDY0001 Subject 26	4 years	Homo sapiens	male	Infected With Malaria	85 days	5/1/06	blood serum	negative
-Crompton_29_18_1	Subject 29 serum sample May			EUSTDY0001 Subject 29	3 years	Homo sapiens	female	Infected With Malaria	106 days	5/1/06	blood serum	negative
-Crompton_30_18_2	Subject 30 serum sample May			EUSTDY0001 Subject 30	3 years	Homo sapiens	male	Infected With Malaria	140 days	5/1/06	blood serum	negative
-Crompton_39_18_3	Subject 39 serum sample May			EUSTDY0001 Subject 39	2 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_41_19_1	Subject 41 serum sample May			EUSTDY0001 Subject 41	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_42_19_2	Subject 42 serum sample May			EUSTDY0001 Subject 42	3 years	Homo sapiens	female	Infected With Malaria	136 days	5/1/06	blood serum	negative
-Crompton_44_19_3	Subject 44 serum sample May			EUSTDY0001 Subject 44	3 years	Homo sapiens	female	Infected With Malaria	90 days	5/1/06	blood serum	negative
-Crompton_45_20_1	Subject 45 serum sample May			EUSTDY0001 Subject 45	4 years	Homo sapiens	female	Infected With Malaria	82 days	5/1/06	blood serum	negative
-Crompton_46_20_2	Subject 46 serum sample May			EUSTDY0001 Subject 46	4 years	Homo sapiens	female	Infected With Malaria	97 days	5/1/06	blood serum	negative
-Crompton_47_20_3	Subject 47 serum sample May			EUSTDY0001 Subject 47	4 years	Homo sapiens	male	Infected With Malaria	99 days	5/1/06	blood serum	negative
-Crompton_25_21_1	Subject 25 serum sample December			EUSTDY0001 Subject 25	4 years	Homo sapiens	male	Infected With Malaria	106 days	12/1/06	blood serum	negative
-Crompton_26_21_2	Subject 26 serum sample December			EUSTDY0001 Subject 26	4 years	Homo sapiens	male	Infected With Malaria	85 days	12/1/06	blood serum	negative
-Crompton_27_21_3	Subject 27 serum sample December			EUSTDY0001 Subject 27	2 years	Homo sapiens	female	Infected With Malaria	71 days	12/1/06	blood serum	negative
-Crompton_29_22_1	Subject 29 serum sample December			EUSTDY0001 Subject 29	3 years	Homo sapiens	female	Infected With Malaria	106 days	12/1/06	blood serum	negative
-Crompton_30_22_2	Subject 30 serum sample December			EUSTDY0001 Subject 30	3 years	Homo sapiens	male	Infected With Malaria	140 days	12/1/06	blood serum	negative
-Crompton_39_22_3	Subject 39 serum sample December			EUSTDY0001 Subject 39	2 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_41_23_1	Subject 41 serum sample December			EUSTDY0001 Subject 41	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_42_23_2	Subject 42 serum sample December			EUSTDY0001 Subject 42	3 years	Homo sapiens	female	Infected With Malaria	136 days	12/1/06	blood serum	negative
-Crompton_44_23_3	Subject 44 serum sample December			EUSTDY0001 Subject 44	3 years	Homo sapiens	female	Infected With Malaria	90 days	12/1/06	blood serum	negative
-Crompton_46_24_2	Subject 46 serum sample December			EUSTDY0001 Subject 46	4 years	Homo sapiens	female	Infected With Malaria	97 days	12/1/06	blood serum	negative
-Crompton_47_24_3	Subject 47 serum sample December			EUSTDY0001 Subject 47	4 years	Homo sapiens	male	Infected With Malaria	99 days	12/1/06	blood serum	negative
-Crompton_48_25_1	Subject 48 serum sample May			EUSTDY0001 Subject 48	2 years	Homo sapiens	female	Infected With Malaria	149 days	5/1/06	blood serum	negative
-Crompton_49_25_2	Subject 49 serum sample May			EUSTDY0001 Subject 49	2 years	Homo sapiens	male	Infected With Malaria	131 days	5/1/06	blood serum	negative
-Crompton_50_25_3	Subject 50 serum sample May			EUSTDY0001 Subject 50	3 years	Homo sapiens	male	Infected With Malaria	76 days	5/1/06	blood serum	negative
-Crompton_51_26_1	Subject 51 serum sample May			EUSTDY0001 Subject 51	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_53_26_2	Subject 53 serum sample May			EUSTDY0001 Subject 53	3 years	Homo sapiens	male	Infected With Malaria	126 days	5/1/06	blood serum	negative
-Crompton_54_26_3	Subject 54 serum sample May			EUSTDY0001 Subject 54	2 years	Homo sapiens	male	Infected With Malaria	83 days	5/1/06	blood serum	negative
-Crompton_55_27_1	Subject 55 serum sample May			EUSTDY0001 Subject 55	3 years	Homo sapiens	female	Infected With Malaria	108 days	5/1/06	blood serum	negative
-Crompton_56_27_2	Subject 56 serum sample May			EUSTDY0001 Subject 56	3 years	Homo sapiens	female	Infected With Malaria	104 days	5/1/06	blood serum	negative
-Crompton_58_27_3	Subject 58 serum sample May			EUSTDY0001 Subject 58	2 years	Homo sapiens	female	Infected With Malaria	158 days	5/1/06	blood serum	negative	Replicate 1
-Crompton_58_139_2	Subject 58 serum sample May			EUSTDY0001 Subject 58	2 years	Homo sapiens	female	Infected With Malaria	158 days	5/1/06	blood serum	negative	Replicate 2
-Crompton_59_28_1	Subject 59 serum sample May			EUSTDY0001 Subject 59	4 years	Homo sapiens	female	Infected With Malaria	91 days	5/1/06	blood serum	negative
-Crompton_60_28_2	Subject 60 serum sample May			EUSTDY0001 Subject 60	3 years	Homo sapiens	female	Infected With Malaria	82 days	5/1/06	blood serum	negative
-Crompton_61_28_3	Subject 61 serum sample May			EUSTDY0001 Subject 61	4 years	Homo sapiens	female	Infected With Malaria	86 days	5/1/06	blood serum	negative
-Crompton_48_29_1	Subject 48 serum sample December			EUSTDY0001 Subject 48	2 years	Homo sapiens	female	Infected With Malaria	149 days	12/1/06	blood serum	negative
-Crompton_49_29_2	Subject 49 serum sample December			EUSTDY0001 Subject 49	2 years	Homo sapiens	male	Infected With Malaria	131 days	12/1/06	blood serum	negative
-Crompton_50_29_3	Subject 50 serum sample December			EUSTDY0001 Subject 50	3 years	Homo sapiens	male	Infected With Malaria	76 days	12/1/06	blood serum	negative
-Crompton_51_30_1	Subject 51 serum sample December			EUSTDY0001 Subject 51	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_53_30_2	Subject 53 serum sample December			EUSTDY0001 Subject 53	3 years	Homo sapiens	male	Infected With Malaria	126 days	12/1/06	blood serum	negative
-Crompton_54_30_3	Subject 54 serum sample December			EUSTDY0001 Subject 54	2 years	Homo sapiens	male	Infected With Malaria	83 days	12/1/06	blood serum	negative
-Crompton_55_31_1	Subject 55 serum sample December			EUSTDY0001 Subject 55	3 years	Homo sapiens	female	Infected With Malaria	108 days	12/1/06	blood serum	negative
-Crompton_58_31_3	Subject 58 serum sample December			EUSTDY0001 Subject 58	2 years	Homo sapiens	female	Infected With Malaria	158 days	12/1/06	blood serum	negative
-Crompton_59_32_1	Subject 59 serum sample December			EUSTDY0001 Subject 59	4 years	Homo sapiens	female	Infected With Malaria	91 days	12/1/06	blood serum	negative
-Crompton_60_32_2	Subject 60 serum sample December			EUSTDY0001 Subject 60	3 years	Homo sapiens	female	Infected With Malaria	82 days	12/1/06	blood serum	negative
-Crompton_61_32_3	Subject 61 serum sample December			EUSTDY0001 Subject 61	4 years	Homo sapiens	female	Infected With Malaria	86 days	12/1/06	blood serum	negative
-Crompton_62_33_1	Subject 62 serum sample December			EUSTDY0001 Subject 62	3 years	Homo sapiens	male	Infected With Malaria	58 days	12/1/06	blood serum	negative
-Crompton_63_33_2	Subject 63 serum sample December			EUSTDY0001 Subject 63	4 years	Homo sapiens	male	Infected With Malaria	31 days	12/1/06	blood serum	positive
-Crompton_64_33_3	Subject 64 serum sample December			EUSTDY0001 Subject 64	4 years	Homo sapiens	male	Infected With Malaria	145 days	12/1/06	blood serum	negative
-Crompton_65_34_1	Subject 65 serum sample December			EUSTDY0001 Subject 65	2 years	Homo sapiens	female	Infected With Malaria	175 days	12/1/06	blood serum	negative
-Crompton_66_34_2	Subject 66 serum sample December			EUSTDY0001 Subject 66	2 years	Homo sapiens	male	Infected With Malaria	144 days	12/1/06	blood serum	negative
-Crompton_67_34_3	Subject 67 serum sample December			EUSTDY0001 Subject 67	4 years	Homo sapiens	male	Infected With Malaria	101 days	12/1/06	blood serum	negative
-Crompton_68_35_1	Subject 68 serum sample December			EUSTDY0001 Subject 68	4 years	Homo sapiens	male	Infected With Malaria	134 days	12/1/06	blood serum	negative
-Crompton_69_35_2	Subject 69 serum sample December			EUSTDY0001 Subject 69	4 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_70_35_3	Subject 70 serum sample December			EUSTDY0001 Subject 70	4 years	Homo sapiens	female	Infected With Malaria	187 days	12/1/06	blood serum	negative
-Crompton_71_36_1	Subject 71 serum sample December			EUSTDY0001 Subject 71	4 years	Homo sapiens	female	Infected With Malaria	124 days	12/1/06	blood serum	negative
-Crompton_72_36_2	Subject 72 serum sample December			EUSTDY0001 Subject 72	3 years	Homo sapiens	male	Infected With Malaria	106 days	12/1/06	blood serum	negative
-Crompton_73_36_3	Subject 73 serum sample December			EUSTDY0001 Subject 73	2 years	Homo sapiens	male	Infected With Malaria	122 days	12/1/06	blood serum	negative
-Crompton_74_37_1	Subject 74 serum sample May			EUSTDY0001 Subject 74	3 years	Homo sapiens	male	Infected With Malaria	136 days	5/1/06	blood serum	negative
-Crompton_75_37_2	Subject 75 serum sample May			EUSTDY0001 Subject 75	5 years	Homo sapiens	male	Infected With Malaria	143 days	5/1/06	blood serum	positive
-Crompton_76_37_3	Subject 76 serum sample May			EUSTDY0001 Subject 76	5 years	Homo sapiens	male	Infected With Malaria	107 days	5/1/06	blood serum	positive
-Crompton_77_38_1	Subject 77 serum sample May			EUSTDY0001 Subject 77	6 years	Homo sapiens	female	Infected With Malaria	133 days	5/1/06	blood serum	negative
-Crompton_78_38_2	Subject 78 serum sample May			EUSTDY0001 Subject 78	5 years	Homo sapiens	female	Infected With Malaria	125 days	5/1/06	blood serum	negative
-Crompton_80_39_1	Subject 80 serum sample May			EUSTDY0001 Subject 80	5 years	Homo sapiens	male	Infected With Malaria	81 days	5/1/06	blood serum	negative
-Crompton_81_39_2	Subject 81 serum sample May			EUSTDY0001 Subject 81	5 years	Homo sapiens	male	Infected With Malaria	133 days	5/1/06	blood serum	negative
-Crompton_82_39_3	Subject 82 serum sample May			EUSTDY0001 Subject 82	5 years	Homo sapiens	female	Infected With Malaria	75 days	5/1/06	blood serum	negative
-Crompton_83_40_1	Subject 83 serum sample May			EUSTDY0001 Subject 83	7 years	Homo sapiens	female	Infected With Malaria	79 days	5/1/06	blood serum	negative
-Crompton_84_40_2	Subject 84 serum sample May			EUSTDY0001 Subject 84	5 years	Homo sapiens	female	Infected With Malaria	207 days	5/1/06	blood serum	negative
-Crompton_86_40_3	Subject 86 serum sample May			EUSTDY0001 Subject 86	5 years	Homo sapiens	male	Infected With Malaria	74 days	5/1/06	blood serum	negative
-Crompton_74_41_1	Subject 74 serum sample December			EUSTDY0001 Subject 74	3 years	Homo sapiens	male	Infected With Malaria	136 days	12/1/06	blood serum	negative
-Crompton_75_41_2	Subject 75 serum sample December			EUSTDY0001 Subject 75	5 years	Homo sapiens	male	Infected With Malaria	143 days	12/1/06	blood serum	positive
-Crompton_76_41_3	Subject 76 serum sample December			EUSTDY0001 Subject 76	5 years	Homo sapiens	male	Infected With Malaria	107 days	12/1/06	blood serum	positive
-Crompton_77_42_1	Subject 77 serum sample December			EUSTDY0001 Subject 77	6 years	Homo sapiens	female	Infected With Malaria	133 days	12/1/06	blood serum	negative
-Crompton_78_42_2	Subject 78 serum sample December			EUSTDY0001 Subject 78	5 years	Homo sapiens	female	Infected With Malaria	125 days	12/1/06	blood serum	negative
-Crompton_80_43_1	Subject 80 serum sample December			EUSTDY0001 Subject 80	5 years	Homo sapiens	male	Infected With Malaria	81 days	12/1/06	blood serum	negative
-Crompton_81_43_2	Subject 81 serum sample December			EUSTDY0001 Subject 81	5 years	Homo sapiens	male	Infected With Malaria	133 days	12/1/06	blood serum	negative
-Crompton_82_43_3	Subject 82 serum sample December			EUSTDY0001 Subject 82	5 years	Homo sapiens	female	Infected With Malaria	75 days	12/1/06	blood serum	negative
-Crompton_83_44_1	Subject 83 serum sample December			EUSTDY0001 Subject 83	7 years	Homo sapiens	female	Infected With Malaria	79 days	12/1/06	blood serum	negative
-Crompton_84_44_2	Subject 84 serum sample December			EUSTDY0001 Subject 84	5 years	Homo sapiens	female	Infected With Malaria	207 days	12/1/06	blood serum	negative
-Crompton_86_44_3	Subject 86 serum sample December			EUSTDY0001 Subject 86	5 years	Homo sapiens	male	Infected With Malaria	74 days	12/1/06	blood serum	negative
-Crompton_87_45_1	Subject 87 serum sample May			EUSTDY0001 Subject 87	5 years	Homo sapiens	male	Infected With Malaria	103 days	5/1/06	blood serum	negative
-Crompton_88_45_2	Subject 88 serum sample May			EUSTDY0001 Subject 88	7 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_89_45_3	Subject 89 serum sample May			EUSTDY0001 Subject 89	7 years	Homo sapiens	female	Infected With Malaria	114 days	5/1/06	blood serum	negative
-Crompton_90_46_1	Subject 90 serum sample May			EUSTDY0001 Subject 90	7 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_91_46_2	Subject 91 serum sample May			EUSTDY0001 Subject 91	7 years	Homo sapiens	female	Infected With Malaria	131 days	5/1/06	blood serum	negative
-Crompton_92_46_3	Subject 92 serum sample May			EUSTDY0001 Subject 92	7 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_93_47_1	Subject 93 serum sample May			EUSTDY0001 Subject 93	6 years	Homo sapiens	male	Infected With Malaria	85 days	5/1/06	blood serum	negative
-Crompton_94_47_2	Subject 94 serum sample May			EUSTDY0001 Subject 94	5 years	Homo sapiens	male	Infected With Malaria	107 days	5/1/06	blood serum	negative
-Crompton_95_47_3	Subject 95 serum sample May			EUSTDY0001 Subject 95	7 years	Homo sapiens	male	Infected With Malaria	136 days	5/1/06	blood serum	negative
-Crompton_96_48_1	Subject 96 serum sample May			EUSTDY0001 Subject 96	5 years	Homo sapiens	female	Infected With Malaria	141 days	5/1/06	blood serum	negative
-Crompton_97_48_2	Subject 97 serum sample May			EUSTDY0001 Subject 97	6 years	Homo sapiens	female	Infected With Malaria	128 days	5/1/06	blood serum	negative
-Crompton_98_48_3	Subject 98 serum sample May			EUSTDY0001 Subject 98	6 years	Homo sapiens	female	Infected With Malaria	91 days	5/1/06	blood serum	negative
-Crompton_90_50_1	Subject 90 serum sample December			EUSTDY0001 Subject 90	7 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_91_50_2	Subject 91 serum sample December			EUSTDY0001 Subject 91	7 years	Homo sapiens	female	Infected With Malaria	131 days	12/1/06	blood serum	negative
-Crompton_92_50_3	Subject 92 serum sample December			EUSTDY0001 Subject 92	7 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_93_51_1	Subject 93 serum sample December			EUSTDY0001 Subject 93	6 years	Homo sapiens	male	Infected With Malaria	85 days	12/1/06	blood serum	negative
-Crompton_94_51_2	Subject 94 serum sample December			EUSTDY0001 Subject 94	5 years	Homo sapiens	male	Infected With Malaria	107 days	12/1/06	blood serum	negative
-Crompton_95_51_3	Subject 95 serum sample December			EUSTDY0001 Subject 95	7 years	Homo sapiens	male	Infected With Malaria	136 days	12/1/06	blood serum	negative
-Crompton_96_52_1	Subject 96 serum sample December			EUSTDY0001 Subject 96	5 years	Homo sapiens	female	Infected With Malaria	141 days	12/1/06	blood serum	negative
-Crompton_97_52_2	Subject 97 serum sample December			EUSTDY0001 Subject 97	6 years	Homo sapiens	female	Infected With Malaria	128 days	12/1/06	blood serum	negative
-Crompton_98_52_3	Subject 98 serum sample December			EUSTDY0001 Subject 98	6 years	Homo sapiens	female	Infected With Malaria	91 days	12/1/06	blood serum	negative
-Crompton_99_53_1	Subject 99 serum sample May			EUSTDY0001 Subject 99	5 years	Homo sapiens	female	Infected With Malaria	105 days	5/1/06	blood serum	negative
-Crompton_100_53_2	Subject 100 serum sample May			EUSTDY0001 Subject 100	5 years	Homo sapiens	female	Infected With Malaria	175 days	5/1/06	blood serum	positive
-Crompton_101_53_3	Subject 101 serum sample May			EUSTDY0001 Subject 101	6 years	Homo sapiens	male	Infected With Malaria	126 days	5/1/06	blood serum	negative
-Crompton_102_54_1	Subject 102 serum sample May			EUSTDY0001 Subject 102	5 years	Homo sapiens	male	Infected With Malaria	122 days	5/1/06	blood serum	negative
-Crompton_103_54_2	Subject 103 serum sample May			EUSTDY0001 Subject 103	6 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_104_54_3	Subject 104 serum sample May			EUSTDY0001 Subject 104	7 years	Homo sapiens	male	Infected With Malaria	78 days	5/1/06	blood serum	negative
-Crompton_105_55_1	Subject 105 serum sample May			EUSTDY0001 Subject 105	7 years	Homo sapiens	female	Infected With Malaria	106 days	5/1/06	blood serum	negative
-Crompton_106_55_2	Subject 106 serum sample May			EUSTDY0001 Subject 106	5 years	Homo sapiens	male	Infected With Malaria	111 days	5/1/06	blood serum	negative
-Crompton_107_55_3	Subject 107 serum sample May			EUSTDY0001 Subject 107	7 years	Homo sapiens	female	Infected With Malaria	89 days	5/1/06	blood serum	negative
-Crompton_108_56_1	Subject 108 serum sample May			EUSTDY0001 Subject 108	5 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_109_56_2	Subject 109 serum sample May			EUSTDY0001 Subject 109	7 years	Homo sapiens	male	Infected With Malaria	98 days	5/1/06	blood serum	negative
-Crompton_110_56_3	Subject 110 serum sample May			EUSTDY0001 Subject 110	5 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_99_57_1	Subject 99 serum sample December			EUSTDY0001 Subject 99	5 years	Homo sapiens	female	Infected With Malaria	105 days	12/1/06	blood serum	negative
-Crompton_100_57_2	Subject 100 serum sample December			EUSTDY0001 Subject 100	5 years	Homo sapiens	female	Infected With Malaria	175 days	12/1/06	blood serum	positive
-Crompton_101_57_3	Subject 101 serum sample December			EUSTDY0001 Subject 101	6 years	Homo sapiens	male	Infected With Malaria	126 days	12/1/06	blood serum	negative
-Crompton_102_58_1	Subject 102 serum sample December			EUSTDY0001 Subject 102	5 years	Homo sapiens	male	Infected With Malaria	122 days	12/1/06	blood serum	negative
-Crompton_103_58_2	Subject 103 serum sample December			EUSTDY0001 Subject 103	6 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_104_58_3	Subject 104 serum sample December			EUSTDY0001 Subject 104	7 years	Homo sapiens	male	Infected With Malaria	78 days	12/1/06	blood serum	negative
-Crompton_105_59_1	Subject 105 serum sample December			EUSTDY0001 Subject 105	7 years	Homo sapiens	female	Infected With Malaria	106 days	12/1/06	blood serum	negative
-Crompton_106_59_2	Subject 106 serum sample December			EUSTDY0001 Subject 106	5 years	Homo sapiens	male	Infected With Malaria	111 days	12/1/06	blood serum	negative
-Crompton_107_59_3	Subject 107 serum sample December			EUSTDY0001 Subject 107	7 years	Homo sapiens	female	Infected With Malaria	89 days	12/1/06	blood serum	negative
-Crompton_108_60_1	Subject 108 serum sample December			EUSTDY0001 Subject 108	5 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_109_60_2	Subject 109 serum sample December			EUSTDY0001 Subject 109	7 years	Homo sapiens	male	Infected With Malaria	98 days	12/1/06	blood serum	negative
-Crompton_110_60_3	Subject 110 serum sample December			EUSTDY0001 Subject 110	5 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_111_61_1	Subject 111 serum sample May			EUSTDY0001 Subject 111	7 years	Homo sapiens	male	Infected With Malaria	150 days	5/1/06	blood serum	negative
-Crompton_112_61_2	Subject 112 serum sample May			EUSTDY0001 Subject 112	6 years	Homo sapiens	male	Infected With Malaria	159 days	5/1/06	blood serum	negative
-Crompton_114_61_3	Subject 114 serum sample May			EUSTDY0001 Subject 114	5 years	Homo sapiens	female	Infected With Malaria	151 days	5/1/06	blood serum	negative
-Crompton_115_62_1	Subject 115 serum sample May			EUSTDY0001 Subject 115	5 years	Homo sapiens	male	Infected With Malaria	102 days	5/1/06	blood serum	negative
-Crompton_117_62_2	Subject 117 serum sample May			EUSTDY0001 Subject 117	5 years	Homo sapiens	male	Infected With Malaria	199 days	5/1/06	blood serum	positive
-Crompton_118_62_3	Subject 118 serum sample May			EUSTDY0001 Subject 118	6 years	Homo sapiens	female	Infected With Malaria	91 days	5/1/06	blood serum	negative
-Crompton_119_63_1	Subject 119 serum sample May			EUSTDY0001 Subject 119	5 years	Homo sapiens	male	Infected With Malaria	129 days	5/1/06	blood serum	negative
-Crompton_120_63_2	Subject 120 serum sample May			EUSTDY0001 Subject 120	6 years	Homo sapiens	female	Infected With Malaria	138 days	5/1/06	blood serum	negative
-Crompton_121_63_3	Subject 121 serum sample May			EUSTDY0001 Subject 121	5 years	Homo sapiens	male	Infected With Malaria	127 days	5/1/06	blood serum	negative
-Crompton_122_64_1	Subject 122 serum sample May			EUSTDY0001 Subject 122	7 years	Homo sapiens	female	Infected With Malaria	84 days	5/1/06	blood serum	negative
-Crompton_123_64_2	Subject 123 serum sample May			EUSTDY0001 Subject 123	5 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_124_64_3	Subject 124 serum sample May			EUSTDY0001 Subject 124	5 years	Homo sapiens	female	Infected With Malaria	94 days	5/1/06	blood serum	negative
-Crompton_111_65_1	Subject 111 serum sample December			EUSTDY0001 Subject 111	7 years	Homo sapiens	male	Infected With Malaria	150 days	12/1/06	blood serum	negative
-Crompton_112_65_2	Subject 112 serum sample December			EUSTDY0001 Subject 112	6 years	Homo sapiens	male	Infected With Malaria	159 days	12/1/06	blood serum	negative
-Crompton_114_65_3	Subject 114 serum sample December			EUSTDY0001 Subject 114	5 years	Homo sapiens	female	Infected With Malaria	151 days	12/1/06	blood serum	negative
-Crompton_115_66_1	Subject 115 serum sample December			EUSTDY0001 Subject 115	5 years	Homo sapiens	male	Infected With Malaria	102 days	12/1/06	blood serum	negative
-Crompton_117_66_2	Subject 117 serum sample December			EUSTDY0001 Subject 117	5 years	Homo sapiens	male	Infected With Malaria	199 days	12/1/06	blood serum	positive
-Crompton_118_66_3	Subject 118 serum sample December			EUSTDY0001 Subject 118	6 years	Homo sapiens	female	Infected With Malaria	91 days	12/1/06	blood serum	negative
-Crompton_119_67_1	Subject 119 serum sample December			EUSTDY0001 Subject 119	5 years	Homo sapiens	male	Infected With Malaria	129 days	12/1/06	blood serum	negative
-Crompton_120_67_2	Subject 120 serum sample December			EUSTDY0001 Subject 120	6 years	Homo sapiens	female	Infected With Malaria	138 days	12/1/06	blood serum	negative
-Crompton_121_67_3	Subject 121 serum sample December			EUSTDY0001 Subject 121	5 years	Homo sapiens	male	Infected With Malaria	127 days	12/1/06	blood serum	negative
-Crompton_124_68_1	Subject 124 serum sample December			EUSTDY0001 Subject 124	5 years	Homo sapiens	female	Infected With Malaria	94 days	12/1/06	blood serum	negative
-Crompton_123_68_2	Subject 123 serum sample December			EUSTDY0001 Subject 123	5 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_122_68_3	Subject 122 serum sample December			EUSTDY0001 Subject 122	7 years	Homo sapiens	female	Infected With Malaria	84 days	12/1/06	blood serum	negative
-Crompton_127_69_1	Subject 127 serum sample May			EUSTDY0001 Subject 127	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_126_69_2	Subject 126 serum sample May			EUSTDY0001 Subject 126	8 years	Homo sapiens	female	Infected With Malaria	124 days	5/1/06	blood serum	negative
-Crompton_125_69_3	Subject 125 serum sample May			EUSTDY0001 Subject 125	8 years	Homo sapiens	male	Infected With Malaria	87 days	5/1/06	blood serum	negative
-Crompton_130_70_1	Subject 130 serum sample May			EUSTDY0001 Subject 130	8 years	Homo sapiens	male	Infected With Malaria	164 days	5/1/06	blood serum	negative
-Crompton_129_70_2	Subject 129 serum sample May			EUSTDY0001 Subject 129	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_128_70_3	Subject 128 serum sample May			EUSTDY0001 Subject 128	8 years	Homo sapiens	male	Infected With Malaria	150 days	5/1/06	blood serum	negative
-Crompton_133_71_1	Subject 133 serum sample May			EUSTDY0001 Subject 133	9 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_132_71_2	Subject 132 serum sample May			EUSTDY0001 Subject 132	10 years	Homo sapiens	male	Infected With Malaria	206 days	5/1/06	blood serum	negative
-Crompton_131_71_3	Subject 131 serum sample May			EUSTDY0001 Subject 131	10 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_136_72_1	Subject 136 serum sample May			EUSTDY0001 Subject 136	10 years	Homo sapiens	male	Infected With Malaria	79 days	5/1/06	blood serum	negative
-Crompton_135_72_2	Subject 135 serum sample May			EUSTDY0001 Subject 135	8 years	Homo sapiens	female	Infected With Malaria	145 days	5/1/06	blood serum	negative
-Crompton_134_72_3	Subject 134 serum sample May			EUSTDY0001 Subject 134	9 years	Homo sapiens	female	Infected With Malaria	105 days	5/1/06	blood serum	negative
-Crompton_127_73_1	Subject 127 serum sample December			EUSTDY0001 Subject 127	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_126_73_2	Subject 126 serum sample December			EUSTDY0001 Subject 126	8 years	Homo sapiens	female	Infected With Malaria	124 days	12/1/06	blood serum	negative
-Crompton_125_73_3	Subject 125 serum sample December			EUSTDY0001 Subject 125	8 years	Homo sapiens	male	Infected With Malaria	87 days	12/1/06	blood serum	negative
-Crompton_130_74_1	Subject 130 serum sample December			EUSTDY0001 Subject 130	8 years	Homo sapiens	male	Infected With Malaria	164 days	12/1/06	blood serum	negative
-Crompton_129_74_2	Subject 129 serum sample December			EUSTDY0001 Subject 129	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_128_74_3	Subject 128 serum sample December			EUSTDY0001 Subject 128	8 years	Homo sapiens	male	Infected With Malaria	150 days	12/1/06	blood serum	negative
-Crompton_133_75_1	Subject 133 serum sample December			EUSTDY0001 Subject 133	9 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_132_75_2	Subject 132 serum sample December			EUSTDY0001 Subject 132	10 years	Homo sapiens	male	Infected With Malaria	206 days	12/1/06	blood serum	negative
-Crompton_131_75_3	Subject 131 serum sample December			EUSTDY0001 Subject 131	10 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_136_76_1	Subject 136 serum sample December			EUSTDY0001 Subject 136	10 years	Homo sapiens	male	Infected With Malaria	79 days	12/1/06	blood serum	negative
-Crompton_135_76_2	Subject 135 serum sample December			EUSTDY0001 Subject 135	8 years	Homo sapiens	female	Infected With Malaria	145 days	12/1/06	blood serum	negative
-Crompton_134_76_3	Subject 134 serum sample December			EUSTDY0001 Subject 134	9 years	Homo sapiens	female	Infected With Malaria	105 days	12/1/06	blood serum	negative
-Crompton_139_77_1	Subject 139 serum sample May			EUSTDY0001 Subject 139	8 years	Homo sapiens	female	Infected With Malaria	137 days	5/1/06	blood serum	negative
-Crompton_138_77_2	Subject 138 serum sample May			EUSTDY0001 Subject 138	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_137_77_3	Subject 137 serum sample May			EUSTDY0001 Subject 137	8 years	Homo sapiens	male	Infected With Malaria	52 days	5/1/06	blood serum	negative
-Crompton_142_78_1	Subject 142 serum sample May			EUSTDY0001 Subject 142	9 years	Homo sapiens	female	Infected With Malaria	161 days	5/1/06	blood serum	negative
-Crompton_141_78_2	Subject 141 serum sample May			EUSTDY0001 Subject 141	8 years	Homo sapiens	female	Infected With Malaria	118 days	5/1/06	blood serum	negative
-Crompton_140_78_3	Subject 140 serum sample May			EUSTDY0001 Subject 140	8 years	Homo sapiens	male	Infected With Malaria	71 days	5/1/06	blood serum	negative
-Crompton_145_79_1	Subject 145 serum sample May			EUSTDY0001 Subject 145	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_144_79_2	Subject 144 serum sample May			EUSTDY0001 Subject 144	10 years	Homo sapiens	male	Infected With Malaria	112 days	5/1/06	blood serum	negative
-Crompton_143_79_3	Subject 143 serum sample May			EUSTDY0001 Subject 143	8 years	Homo sapiens	male	Infected With Malaria	96 days	5/1/06	blood serum	negative
-Crompton_148_80_1	Subject 148 serum sample May			EUSTDY0001 Subject 148	8 years	Homo sapiens	male	Infected With Malaria	98 days	5/1/06	blood serum	negative
-Crompton_147_80_2	Subject 147 serum sample May			EUSTDY0001 Subject 147	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	positive
-Crompton_146_80_3	Subject 146 serum sample May			EUSTDY0001 Subject 146	9 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_139_81_1	Subject 139 serum sample December			EUSTDY0001 Subject 139	8 years	Homo sapiens	female	Infected With Malaria	137 days	12/1/06	blood serum	negative
-Crompton_138_81_2	Subject 138 serum sample December			EUSTDY0001 Subject 138	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_137_81_3	Subject 137 serum sample December			EUSTDY0001 Subject 137	8 years	Homo sapiens	male	Infected With Malaria	52 days	12/1/06	blood serum	negative
-Crompton_142_82_1	Subject 142 serum sample December			EUSTDY0001 Subject 142	9 years	Homo sapiens	female	Infected With Malaria	161 days	12/1/06	blood serum	negative
-Crompton_141_82_2	Subject 141 serum sample December			EUSTDY0001 Subject 141	8 years	Homo sapiens	female	Infected With Malaria	118 days	12/1/06	blood serum	negative
-Crompton_140_82_3	Subject 140 serum sample December			EUSTDY0001 Subject 140	8 years	Homo sapiens	male	Infected With Malaria	71 days	12/1/06	blood serum	negative
-Crompton_145_83_1	Subject 145 serum sample December			EUSTDY0001 Subject 145	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_144_83_2	Subject 144 serum sample December			EUSTDY0001 Subject 144	10 years	Homo sapiens	male	Infected With Malaria	112 days	12/1/06	blood serum	negative
-Crompton_143_83_3	Subject 143 serum sample December			EUSTDY0001 Subject 143	8 years	Homo sapiens	male	Infected With Malaria	96 days	12/1/06	blood serum	negative
-Crompton_148_84_1	Subject 148 serum sample December			EUSTDY0001 Subject 148	8 years	Homo sapiens	male	Infected With Malaria	98 days	12/1/06	blood serum	negative
-Crompton_147_84_2	Subject 147 serum sample December			EUSTDY0001 Subject 147	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	positive
-Crompton_146_84_3	Subject 146 serum sample December			EUSTDY0001 Subject 146	9 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_153_85_1	Subject 153 serum sample May			EUSTDY0001 Subject 153	9 years	Homo sapiens	male	Infected With Malaria	119 days	5/1/06	blood serum	negative
-Crompton_151_85_2	Subject 151 serum sample May			EUSTDY0001 Subject 151	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	positive
-Crompton_149_85_3	Subject 149 serum sample May			EUSTDY0001 Subject 149	8 years	Homo sapiens	male	Infected With Malaria	115 days	5/1/06	blood serum	negative
-Crompton_156_86_1	Subject 156 serum sample May			EUSTDY0001 Subject 156	8 years	Homo sapiens	male	Infected With Malaria	137 days	5/1/06	blood serum	negative
-Crompton_155_86_2	Subject 155 serum sample May			EUSTDY0001 Subject 155	8 years	Homo sapiens	female	Infected With Malaria	156 days	5/1/06	blood serum	negative
-Crompton_154_86_3	Subject 154 serum sample May			EUSTDY0001 Subject 154	9 years	Homo sapiens	male	Infected With Malaria	147 days	5/1/06	blood serum	negative
-Crompton_160_87_1	Subject 160 serum sample May			EUSTDY0001 Subject 160	9 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_158_87_2	Subject 158 serum sample May			EUSTDY0001 Subject 158	8 years	Homo sapiens	male	Infected With Malaria	124 days	5/1/06	blood serum	negative
-Crompton_157_87_3	Subject 157 serum sample May			EUSTDY0001 Subject 157	8 years	Homo sapiens	male	Infected With Malaria	209 days	5/1/06	blood serum	negative
-Crompton_162_88_2	Subject 162 serum sample May			EUSTDY0001 Subject 162	8 years	Homo sapiens	female	Infected With Malaria	151 days	5/1/06	blood serum	negative
-Crompton_161_88_3	Subject 161 serum sample May			EUSTDY0001 Subject 161	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	positive
-Crompton_149_89_1	Subject 149 serum sample December			EUSTDY0001 Subject 149	8 years	Homo sapiens	male	Infected With Malaria	115 days	12/1/06	blood serum	negative
-Crompton_151_89_2	Subject 151 serum sample December			EUSTDY0001 Subject 151	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	positive
-Crompton_153_89_3	Subject 153 serum sample December			EUSTDY0001 Subject 153	9 years	Homo sapiens	male	Infected With Malaria	119 days	12/1/06	blood serum	negative
-Crompton_156_90_1	Subject 156 serum sample December			EUSTDY0001 Subject 156	8 years	Homo sapiens	male	Infected With Malaria	137 days	12/1/06	blood serum	negative
-Crompton_155_90_2	Subject 155 serum sample December			EUSTDY0001 Subject 155	8 years	Homo sapiens	female	Infected With Malaria	156 days	12/1/06	blood serum	negative
-Crompton_154_90_3	Subject 154 serum sample December			EUSTDY0001 Subject 154	9 years	Homo sapiens	male	Infected With Malaria	147 days	12/1/06	blood serum	negative
-Crompton_157_91_1	Subject 157 serum sample December			EUSTDY0001 Subject 157	8 years	Homo sapiens	male	Infected With Malaria	209 days	12/1/06	blood serum	negative
-Crompton_158_91_2	Subject 158 serum sample December			EUSTDY0001 Subject 158	8 years	Homo sapiens	male	Infected With Malaria	124 days	12/1/06	blood serum	negative
-Crompton_161_92_1	Subject 161 serum sample December			EUSTDY0001 Subject 161	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	positive
-Crompton_162_92_2	Subject 162 serum sample December			EUSTDY0001 Subject 162	8 years	Homo sapiens	female	Infected With Malaria	151 days	12/1/06	blood serum	negative
-Crompton_163_93_1	Subject 163 serum sample May			EUSTDY0001 Subject 163	8 years	Homo sapiens	female	Infected With Malaria	123 days	5/1/06	blood serum	negative
-Crompton_164_93_2	Subject 164 serum sample May			EUSTDY0001 Subject 164	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_165_93_3	Subject 165 serum sample May			EUSTDY0001 Subject 165	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	positive
-Crompton_166_94_1	Subject 166 serum sample May			EUSTDY0001 Subject 166	8 years	Homo sapiens	male	Infected With Malaria	150 days	5/1/06	blood serum	negative	Replicate 1
-Crompton_166_145_3	Subject 166 serum sample May			EUSTDY0001 Subject 166	8 years	Homo sapiens	male	Infected With Malaria	150 days	5/1/06	blood serum	negative	Replicate 2
-Crompton_167_94_2	Subject 167 serum sample May			EUSTDY0001 Subject 167	10 years	Homo sapiens	female	Infected With Malaria	130 days	5/1/06	blood serum	negative
-Crompton_169_94_3	Subject 169 serum sample May			EUSTDY0001 Subject 169	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_170_95_1	Subject 170 serum sample May			EUSTDY0001 Subject 170	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_171_95_2	Subject 171 serum sample May			EUSTDY0001 Subject 171	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_172_95_3	Subject 172 serum sample May			EUSTDY0001 Subject 172	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_173_96_1	Subject 173 serum sample May			EUSTDY0001 Subject 173	9 years	Homo sapiens	male	Infected With Malaria	157 days	5/1/06	blood serum	negative
-Crompton_174_96_2	Subject 174 serum sample May			EUSTDY0001 Subject 174	8 years	Homo sapiens	female	Infected With Malaria	153 days	5/1/06	blood serum	negative
-Crompton_176_96_3	Subject 176 serum sample May			EUSTDY0001 Subject 176	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_163_97_1	Subject 163 serum sample December			EUSTDY0001 Subject 163	8 years	Homo sapiens	female	Infected With Malaria	123 days	12/1/06	blood serum	negative
-Crompton_164_97_2	Subject 164 serum sample December			EUSTDY0001 Subject 164	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_165_97_3	Subject 165 serum sample December			EUSTDY0001 Subject 165	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	positive
-Crompton_166_98_1	Subject 166 serum sample December			EUSTDY0001 Subject 166	8 years	Homo sapiens	male	Infected With Malaria	150 days	12/1/06	blood serum	negative
-Crompton_167_98_2	Subject 167 serum sample December			EUSTDY0001 Subject 167	10 years	Homo sapiens	female	Infected With Malaria	130 days	12/1/06	blood serum	negative
-Crompton_169_98_3	Subject 169 serum sample December			EUSTDY0001 Subject 169	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_170_99_1	Subject 170 serum sample December			EUSTDY0001 Subject 170	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_171_99_2	Subject 171 serum sample December			EUSTDY0001 Subject 171	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_172_99_3	Subject 172 serum sample December			EUSTDY0001 Subject 172	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_173_100_1	Subject 173 serum sample December			EUSTDY0001 Subject 173	9 years	Homo sapiens	male	Infected With Malaria	157 days	12/1/06	blood serum	negative
-Crompton_174_100_2	Subject 174 serum sample December			EUSTDY0001 Subject 174	8 years	Homo sapiens	female	Infected With Malaria	153 days	12/1/06	blood serum	negative
-Crompton_176_100_3	Subject 176 serum sample December			EUSTDY0001 Subject 176	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_177_101_1	Subject 177 serum sample May			EUSTDY0001 Subject 177	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_180_101_2	Subject 180 serum sample May			EUSTDY0001 Subject 180	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_182_101_3	Subject 182 serum sample May			EUSTDY0001 Subject 182	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_183_102_1	Subject 183 serum sample May			EUSTDY0001 Subject 183	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_185_102_2	Subject 185 serum sample May			EUSTDY0001 Subject 185	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_186_102_3	Subject 186 serum sample May			EUSTDY0001 Subject 186	23 years	Homo sapiens	male	Infected With Malaria	141 days	5/1/06	blood serum	negative	Replicate 1
-Crompton_186_146_1	Subject 186 serum sample May			EUSTDY0001 Subject 186	23 years	Homo sapiens	male	Infected With Malaria	141 days	5/1/06	blood serum	negative	Replicate 2
-Crompton_188_103_1	Subject 188 serum sample May			EUSTDY0001 Subject 188	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_189_103_2	Subject 189 serum sample May			EUSTDY0001 Subject 189	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_190_103_3	Subject 190 serum sample May			EUSTDY0001 Subject 190	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	positive
-Crompton_191_104_1	Subject 191 serum sample May			EUSTDY0001 Subject 191	24 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_192_104_2	Subject 192 serum sample May			EUSTDY0001 Subject 192	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_193_104_3	Subject 193 serum sample May			EUSTDY0001 Subject 193	19 years	Homo sapiens	female	Infected With Malaria	29 days	5/1/06	blood serum	negative
-Crompton_177_105_1	Subject 177 serum sample December			EUSTDY0001 Subject 177	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_180_105_2	Subject 180 serum sample December			EUSTDY0001 Subject 180	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_182_105_3	Subject 182 serum sample December			EUSTDY0001 Subject 182	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_183_106_1	Subject 183 serum sample December			EUSTDY0001 Subject 183	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_185_106_2	Subject 185 serum sample December			EUSTDY0001 Subject 185	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_188_107_1	Subject 188 serum sample December			EUSTDY0001 Subject 188	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_189_107_2	Subject 189 serum sample December			EUSTDY0001 Subject 189	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_191_108_1	Subject 191 serum sample December			EUSTDY0001 Subject 191	24 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_192_108_2	Subject 192 serum sample December			EUSTDY0001 Subject 192	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_194_109_1	Subject 194 serum sample May			EUSTDY0001 Subject 194	24 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_195_109_2	Subject 195 serum sample May			EUSTDY0001 Subject 195	24 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	positive
-Crompton_196_146_2	Subject 196 serum sample May			EUSTDY0001 Subject 196	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative	Replicate 1
-Crompton_196_109_3	Subject 196 serum sample May			EUSTDY0001 Subject 196	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative	Replicate 2
-Crompton_198_110_1	Subject 198 serum sample May			EUSTDY0001 Subject 198	25 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_200_110_2	Subject 200 serum sample May			EUSTDY0001 Subject 200	25 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_201_110_3	Subject 201 serum sample May			EUSTDY0001 Subject 201	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_202_111_1	Subject 202 serum sample May			EUSTDY0001 Subject 202	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_203_111_2	Subject 203 serum sample May			EUSTDY0001 Subject 203	21 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_204_111_3	Subject 204 serum sample May			EUSTDY0001 Subject 204	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_205_112_1	Subject 205 serum sample May			EUSTDY0001 Subject 205	18 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_206_112_2	Subject 206 serum sample May			EUSTDY0001 Subject 206	24 years	Homo sapiens	female	Infected With Malaria	169 days	5/1/06	blood serum	negative
-Crompton_207_112_3	Subject 207 serum sample May			EUSTDY0001 Subject 207	23 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_194_113_1	Subject 194 serum sample December			EUSTDY0001 Subject 194	24 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_195_113_2	Subject 195 serum sample December			EUSTDY0001 Subject 195	24 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	positive
-Crompton_196_113_3	Subject 196 serum sample December			EUSTDY0001 Subject 196	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_198_114_1	Subject 198 serum sample December			EUSTDY0001 Subject 198	25 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_200_114_2	Subject 200 serum sample December			EUSTDY0001 Subject 200	25 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_201_114_3	Subject 201 serum sample December			EUSTDY0001 Subject 201	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_202_115_1	Subject 202 serum sample December			EUSTDY0001 Subject 202	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_203_115_2	Subject 203 serum sample December			EUSTDY0001 Subject 203	21 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_204_115_3	Subject 204 serum sample December			EUSTDY0001 Subject 204	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_207_116_1	Subject 207 serum sample December			EUSTDY0001 Subject 207	23 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_206_116_2	Subject 206 serum sample December			EUSTDY0001 Subject 206	24 years	Homo sapiens	female	Infected With Malaria	169 days	12/1/06	blood serum	negative
-Crompton_205_116_3	Subject 205 serum sample December			EUSTDY0001 Subject 205	18 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_213_117_1	Subject 213 serum sample May			EUSTDY0001 Subject 213	19 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_212_117_2	Subject 212 serum sample May			EUSTDY0001 Subject 212	18 years	Homo sapiens	female	Infected With Malaria	165 days	5/1/06	blood serum	negative
-Crompton_208_117_3	Subject 208 serum sample May			EUSTDY0001 Subject 208	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_217_118_1	Subject 217 serum sample May			EUSTDY0001 Subject 217	18 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_216_118_2	Subject 216 serum sample May			EUSTDY0001 Subject 216	19 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_214_118_3	Subject 214 serum sample May			EUSTDY0001 Subject 214	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_220_119_1	Subject 220 serum sample May			EUSTDY0001 Subject 220	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	positive
-Crompton_219_119_2	Subject 219 serum sample May			EUSTDY0001 Subject 219	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_218_119_3	Subject 218 serum sample May			EUSTDY0001 Subject 218	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_213_121_1	Subject 213 serum sample December			EUSTDY0001 Subject 213	19 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_212_121_2	Subject 212 serum sample December			EUSTDY0001 Subject 212	18 years	Homo sapiens	female	Infected With Malaria	165 days	12/1/06	blood serum	negative
-Crompton_208_121_3	Subject 208 serum sample December			EUSTDY0001 Subject 208	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_217_122_1	Subject 217 serum sample December			EUSTDY0001 Subject 217	18 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_216_122_2	Subject 216 serum sample December			EUSTDY0001 Subject 216	19 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_214_122_3	Subject 214 serum sample December			EUSTDY0001 Subject 214	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_220_123_1	Subject 220 serum sample December			EUSTDY0001 Subject 220	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	positive
-Crompton_219_123_2	Subject 219 serum sample December			EUSTDY0001 Subject 219	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_218_123_3	Subject 218 serum sample December			EUSTDY0001 Subject 218	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_223_124_1	Subject 223 serum sample December			EUSTDY0001 Subject 223	24 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_222_124_2	Subject 222 serum sample December			EUSTDY0001 Subject 222	19 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_221_124_3	Subject 221 serum sample December			EUSTDY0001 Subject 221	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_73_125_1	Subject 73 serum sample May			EUSTDY0001 Subject 73	2 years	Homo sapiens	male	Infected With Malaria	122 days	5/1/06	blood serum	negative
-Crompton_72_125_2	Subject 72 serum sample May			EUSTDY0001 Subject 72	3 years	Homo sapiens	male	Infected With Malaria	106 days	5/1/06	blood serum	negative
-Crompton_71_125_3	Subject 71 serum sample May			EUSTDY0001 Subject 71	4 years	Homo sapiens	female	Infected With Malaria	124 days	5/1/06	blood serum	negative
-Crompton_224_126_2	Subject 224 serum sample May			EUSTDY0001 Subject 224	18 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_150_126_3	Subject 150 serum sample May			EUSTDY0001 Subject 150	8 years	Homo sapiens	male	Infected With Malaria	111 days	5/1/06	blood serum	negative	Replicate 1
-Crompton_150_140_2	Subject 150 serum sample May			EUSTDY0001 Subject 150	8 years	Homo sapiens	male	Infected With Malaria	111 days	5/1/06	blood serum	negative	Replicate 2
-Crompton_89_127_1	Subject 89 serum sample December			EUSTDY0001 Subject 89	7 years	Homo sapiens	female	Infected With Malaria	114 days	12/1/06	blood serum	negative
-Crompton_88_127_2	Subject 88 serum sample December			EUSTDY0001 Subject 88	7 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_87_127_3	Subject 87 serum sample December			EUSTDY0001 Subject 87	5 years	Homo sapiens	male	Infected With Malaria	103 days	12/1/06	blood serum	negative
-Crompton_159_128_1	Subject 159 serum sample December			EUSTDY0001 Subject 159	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_224_128_2	Subject 224 serum sample December			EUSTDY0001 Subject 224	18 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_150_128_3	Subject 150 serum sample December			EUSTDY0001 Subject 150	8 years	Homo sapiens	male	Infected With Malaria	111 days	12/1/06	blood serum	negative
-Crompton_223_129_1	Subject 223 serum sample May			EUSTDY0001 Subject 223	24 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_222_129_2	Subject 222 serum sample May			EUSTDY0001 Subject 222	19 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_221_129_3	Subject 221 serum sample May			EUSTDY0001 Subject 221	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_27_131.1_1	Subject 27 serum sample May			EUSTDY0001 Subject 27	2 years	Homo sapiens	female	Infected With Malaria	71 days	5/1/06	blood serum	negative	Replicate 1
-Crompton_27_131.2_1	Subject 27 serum sample May			EUSTDY0001 Subject 27	2 years	Homo sapiens	female	Infected With Malaria	71 days	5/1/06	blood serum	negative	Replicate 2
-Crompton_25_131.1_2	Subject 25 serum sample May			EUSTDY0001 Subject 25	4 years	Homo sapiens	male	Infected With Malaria	106 days	5/1/06	blood serum	negative	Replicate 1
-Crompton_25_131.2_2	Subject 25 serum sample May			EUSTDY0001 Subject 25	4 years	Homo sapiens	male	Infected With Malaria	106 days	5/1/06	blood serum	negative	Replicate 2
-Crompton_15_131.1_3	Subject 15 serum sample May			EUSTDY0001 Subject 15	3 years	Homo sapiens	female	Infected With Malaria	30 days	5/1/06	blood serum	negative	Replicate 1
-Crompton_15_131.2_3	Subject 15 serum sample May			EUSTDY0001 Subject 15	3 years	Homo sapiens	female	Infected With Malaria	30 days	5/1/06	blood serum	negative	Replicate 2
-Crompton_56_132.1_1	Subject 56 serum sample December			EUSTDY0001 Subject 56	3 years	Homo sapiens	female	Infected With Malaria	104 days	12/1/06	blood serum	negative	Replicate 1
-Crompton_56_132.2_1	Subject 56 serum sample December			EUSTDY0001 Subject 56	3 years	Homo sapiens	female	Infected With Malaria	104 days	12/1/06	blood serum	negative	Replicate 2
-Crompton_79_132.1_2	Subject 79 serum sample May			EUSTDY0001 Subject 79	6 years	Homo sapiens	male	Infected With Malaria	98 days	5/1/06	blood serum	negative	Replicate 1
-Crompton_79_132.2_2	Subject 79 serum sample May			EUSTDY0001 Subject 79	6 years	Homo sapiens	male	Infected With Malaria	98 days	5/1/06	blood serum	negative	Replicate 2
-Crompton_67_132.1_3	Subject 67 serum sample May			EUSTDY0001 Subject 67	4 years	Homo sapiens	male	Infected With Malaria	101 days	5/1/06	blood serum	negative	Replicate 1
-Crompton_67_132.2_3	Subject 67 serum sample May			EUSTDY0001 Subject 67	4 years	Homo sapiens	male	Infected With Malaria	101 days	5/1/06	blood serum	negative	Replicate 2
-Crompton_160_133_1	Subject 160 serum sample December			EUSTDY0001 Subject 160	9 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative
-Crompton_79_133_2	Subject 79 serum sample December			EUSTDY0001 Subject 79	6 years	Homo sapiens	male	Infected With Malaria	98 days	12/1/06	blood serum	negative
-Crompton_45_133_3	Subject 45 serum sample December			EUSTDY0001 Subject 45	4 years	Homo sapiens	female	Infected With Malaria	82 days	12/1/06	blood serum	negative
-Crompton_193_134_1	Subject 193 serum sample December			EUSTDY0001 Subject 193	19 years	Homo sapiens	female	Infected With Malaria	29 days	12/1/06	blood serum	negative
-Crompton_190_134_2	Subject 190 serum sample December			EUSTDY0001 Subject 190	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	positive
-Crompton_186_134_3	Subject 186 serum sample December			EUSTDY0001 Subject 186	23 years	Homo sapiens	male	Infected With Malaria	141 days	12/1/06	blood serum	negative
-Crompton_28_135_1	Subject 28 serum sample May			EUSTDY0001 Subject 28	4 years	Homo sapiens	female	Infected With Malaria	127 days	5/1/06	blood serum	negative
-Crompton_31_135_2	Subject 31 serum sample May			EUSTDY0001 Subject 31	3 years	Homo sapiens	male	Infected With Malaria	90 days	5/1/06	blood serum	negative
-Crompton_32_135_3	Subject 32 serum sample May			EUSTDY0001 Subject 32	4 years	Homo sapiens	male	Infected With Malaria	92 days	5/1/06	blood serum	negative
-Crompton_33_136_1	Subject 33 serum sample May			EUSTDY0001 Subject 33	3 years	Homo sapiens	female	Infected With Malaria	84 days	5/1/06	blood serum	negative
-Crompton_34_136_2	Subject 34 serum sample May			EUSTDY0001 Subject 34	2 years	Homo sapiens	female	Infected With Malaria	77 days	5/1/06	blood serum	negative
-Crompton_35_136_3	Subject 35 serum sample May			EUSTDY0001 Subject 35	4 years	Homo sapiens	female	Infected With Malaria	98 days	5/1/06	blood serum	negative
-Crompton_36_137_1	Subject 36 serum sample May			EUSTDY0001 Subject 36	3 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_37_137_2	Subject 37 serum sample May			EUSTDY0001 Subject 37	2 years	Homo sapiens	male	Infected With Malaria	93 days	5/1/06	blood serum	negative
-Crompton_38_137_3	Subject 38 serum sample May			EUSTDY0001 Subject 38	2 years	Homo sapiens	female	Infected With Malaria	79 days	5/1/06	blood serum	negative
-Crompton_40_138_1	Subject 40 serum sample May			EUSTDY0001 Subject 40	3 years	Homo sapiens	male	Infected With Malaria	97 days	5/1/06	blood serum	negative
-Crompton_43_138_2	Subject 43 serum sample May			EUSTDY0001 Subject 43	3 years	Homo sapiens	male	Infected With Malaria	131 days	5/1/06	blood serum	negative
-Crompton_52_138_3	Subject 52 serum sample May			EUSTDY0001 Subject 52	2 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_57_139_1	Subject 57 serum sample May			EUSTDY0001 Subject 57	3 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_113_139_3	Subject 113 serum sample May			EUSTDY0001 Subject 113	7 years	Homo sapiens	male	Infected With Malaria	83 days	5/1/06	blood serum	negative
-Crompton_116_140_1	Subject 116 serum sample May			EUSTDY0001 Subject 116	6 years	Homo sapiens	female	Infected With Malaria	145 days	5/1/06	blood serum	negative
-Crompton_152_140_3	Subject 152 serum sample May			EUSTDY0001 Subject 152	9 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	positive
-Crompton_159_126_1	Subject 159 serum sample May			EUSTDY0001 Subject 159	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative	Replicate 1
-Crompton_159_141_1	Subject 159 serum sample May			EUSTDY0001 Subject 159	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative	Replicate 2
-Crompton_168_141_2	Subject 168 serum sample May			EUSTDY0001 Subject 168	8 years	Homo sapiens	male	Infected With Malaria	155 days	5/1/06	blood serum	negative
-Crompton_175_141_3	Subject 175 serum sample May			EUSTDY0001 Subject 175	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_178_142_1	Subject 178 serum sample May			EUSTDY0001 Subject 178	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_179_142_2	Subject 179 serum sample May			EUSTDY0001 Subject 179	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_181_142_3	Subject 181 serum sample May			EUSTDY0001 Subject 181	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_184_143_1	Subject 184 serum sample May			EUSTDY0001 Subject 184	22 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_187_143_2	Subject 187 serum sample May			EUSTDY0001 Subject 187	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_197_143_3	Subject 197 serum sample May			EUSTDY0001 Subject 197	18 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_199_144_1	Subject 199 serum sample May			EUSTDY0001 Subject 199	18 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_209_144_2	Subject 209 serum sample May			EUSTDY0001 Subject 209	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_210_144_3	Subject 210 serum sample May			EUSTDY0001 Subject 210	18 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_211_145_1	Subject 211 serum sample May			EUSTDY0001 Subject 211	18 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
-Crompton_215_145_2	Subject 215 serum sample May			EUSTDY0001 Subject 215	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [organism ID]	Characteristics [age]	Characteristics [organism]	Characteristics [sex]	Characteristics [health_status]	Characteristics [time_to_onset]	Collection date	Characteristics [specimen]	Characteristics [iPCR result]	Characteristics [technical replicate]	Characteristics [parasite organism]	Characteristics [parasite strain]
+Crompton_1_1_1	Subject 1 serum sample May			EUSTDY0001 Subject 1	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_2_1_2	Subject 2 serum sample May			EUSTDY0001 Subject 2	4 years	Homo sapiens	female	Infected With Malaria	98 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_3_1_3	Subject 3 serum sample May			EUSTDY0001 Subject 3	4 years	Homo sapiens	female	Infected With Malaria	84 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_4_2_1	Subject 4 serum sample May			EUSTDY0001 Subject 4	4 years	Homo sapiens	male	Infected With Malaria	125 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_5_2_2	Subject 5 serum sample May			EUSTDY0001 Subject 5	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_6_2_3	Subject 6 serum sample May			EUSTDY0001 Subject 6	4 years	Homo sapiens	female	Infected With Malaria	143 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_7_3_1	Subject 7 serum sample May			EUSTDY0001 Subject 7	4 years	Homo sapiens	male	Infected With Malaria	31 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_8_3_2	Subject 8 serum sample May			EUSTDY0001 Subject 8	4 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_9_3_3	Subject 9 serum sample May			EUSTDY0001 Subject 9	3 years	Homo sapiens	male	Infected With Malaria	127 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_10_4_1	Subject 10 serum sample May			EUSTDY0001 Subject 10	4 years	Homo sapiens	male	Infected With Malaria	139 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_11_4_2	Subject 11 serum sample May			EUSTDY0001 Subject 11	3 years	Homo sapiens	female	Infected With Malaria	115 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_12_4_3	Subject 12 serum sample May			EUSTDY0001 Subject 12	3 years	Homo sapiens	male	Infected With Malaria	138 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_1_5_1	Subject 1 serum sample December			EUSTDY0001 Subject 1	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_2_5_2	Subject 2 serum sample December			EUSTDY0001 Subject 2	4 years	Homo sapiens	female	Infected With Malaria	98 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_3_5_3	Subject 3 serum sample December			EUSTDY0001 Subject 3	4 years	Homo sapiens	female	Infected With Malaria	84 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_4_6_1	Subject 4 serum sample December			EUSTDY0001 Subject 4	4 years	Homo sapiens	male	Infected With Malaria	125 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_5_6_2	Subject 5 serum sample December			EUSTDY0001 Subject 5	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_6_6_3	Subject 6 serum sample December			EUSTDY0001 Subject 6	4 years	Homo sapiens	female	Infected With Malaria	143 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_7_7_1	Subject 7 serum sample December			EUSTDY0001 Subject 7	4 years	Homo sapiens	male	Infected With Malaria	31 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_8_7_2	Subject 8 serum sample December			EUSTDY0001 Subject 8	4 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_9_7_3	Subject 9 serum sample December			EUSTDY0001 Subject 9	3 years	Homo sapiens	male	Infected With Malaria	127 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_10_8_1	Subject 10 serum sample December			EUSTDY0001 Subject 10	4 years	Homo sapiens	male	Infected With Malaria	139 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_11_8_2	Subject 11 serum sample December			EUSTDY0001 Subject 11	3 years	Homo sapiens	female	Infected With Malaria	115 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_12_8_3	Subject 12 serum sample December			EUSTDY0001 Subject 12	3 years	Homo sapiens	male	Infected With Malaria	138 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_13_9_1	Subject 13 serum sample May			EUSTDY0001 Subject 13	3 years	Homo sapiens	female	Infected With Malaria	133 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_14_9_2	Subject 14 serum sample May			EUSTDY0001 Subject 14	3 years	Homo sapiens	female	Infected With Malaria	86 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_16_10_1	Subject 16 serum sample May			EUSTDY0001 Subject 16	5 years	Homo sapiens	female	Infected With Malaria	120 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_17_10_2	Subject 17 serum sample May			EUSTDY0001 Subject 17	4 years	Homo sapiens	female	Infected With Malaria	100 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_18_10_3	Subject 18 serum sample May			EUSTDY0001 Subject 18	4 years	Homo sapiens	female	Infected With Malaria	136 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_19_11_1	Subject 19 serum sample May			EUSTDY0001 Subject 19	3 years	Homo sapiens	female	Infected With Malaria	96 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_20_11_2	Subject 20 serum sample May			EUSTDY0001 Subject 20	2 years	Homo sapiens	male	Infected With Malaria	94 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_21_11_3	Subject 21 serum sample May			EUSTDY0001 Subject 21	3 years	Homo sapiens	female	Infected With Malaria	142 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_22_12_1	Subject 22 serum sample May			EUSTDY0001 Subject 22	3 years	Homo sapiens	female	Infected With Malaria	144 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_23_12_2	Subject 23 serum sample May			EUSTDY0001 Subject 23	3 years	Homo sapiens	female	Infected With Malaria	85 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_24_12_3	Subject 24 serum sample May			EUSTDY0001 Subject 24	3 years	Homo sapiens	male	Infected With Malaria	98 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_13_13_1	Subject 13 serum sample December			EUSTDY0001 Subject 13	3 years	Homo sapiens	female	Infected With Malaria	133 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_14_13_2	Subject 14 serum sample December			EUSTDY0001 Subject 14	3 years	Homo sapiens	female	Infected With Malaria	86 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_15_13_3	Subject 15 serum sample December			EUSTDY0001 Subject 15	3 years	Homo sapiens	female	Infected With Malaria	30 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_16_14_1	Subject 16 serum sample December			EUSTDY0001 Subject 16	5 years	Homo sapiens	female	Infected With Malaria	120 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_17_14_2	Subject 17 serum sample December			EUSTDY0001 Subject 17	4 years	Homo sapiens	female	Infected With Malaria	100 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_18_14_3	Subject 18 serum sample December			EUSTDY0001 Subject 18	4 years	Homo sapiens	female	Infected With Malaria	136 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_19_15_1	Subject 19 serum sample December			EUSTDY0001 Subject 19	3 years	Homo sapiens	female	Infected With Malaria	96 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_20_15_2	Subject 20 serum sample December			EUSTDY0001 Subject 20	2 years	Homo sapiens	male	Infected With Malaria	94 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_21_15_3	Subject 21 serum sample December			EUSTDY0001 Subject 21	3 years	Homo sapiens	female	Infected With Malaria	142 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_22_16_1	Subject 22 serum sample December			EUSTDY0001 Subject 22	3 years	Homo sapiens	female	Infected With Malaria	144 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_23_16_2	Subject 23 serum sample December			EUSTDY0001 Subject 23	3 years	Homo sapiens	female	Infected With Malaria	85 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_24_16_3	Subject 24 serum sample December			EUSTDY0001 Subject 24	3 years	Homo sapiens	male	Infected With Malaria	98 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_26_17_2	Subject 26 serum sample May			EUSTDY0001 Subject 26	4 years	Homo sapiens	male	Infected With Malaria	85 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_29_18_1	Subject 29 serum sample May			EUSTDY0001 Subject 29	3 years	Homo sapiens	female	Infected With Malaria	106 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_30_18_2	Subject 30 serum sample May			EUSTDY0001 Subject 30	3 years	Homo sapiens	male	Infected With Malaria	140 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_39_18_3	Subject 39 serum sample May			EUSTDY0001 Subject 39	2 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_41_19_1	Subject 41 serum sample May			EUSTDY0001 Subject 41	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_42_19_2	Subject 42 serum sample May			EUSTDY0001 Subject 42	3 years	Homo sapiens	female	Infected With Malaria	136 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_44_19_3	Subject 44 serum sample May			EUSTDY0001 Subject 44	3 years	Homo sapiens	female	Infected With Malaria	90 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_45_20_1	Subject 45 serum sample May			EUSTDY0001 Subject 45	4 years	Homo sapiens	female	Infected With Malaria	82 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_46_20_2	Subject 46 serum sample May			EUSTDY0001 Subject 46	4 years	Homo sapiens	female	Infected With Malaria	97 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_47_20_3	Subject 47 serum sample May			EUSTDY0001 Subject 47	4 years	Homo sapiens	male	Infected With Malaria	99 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_25_21_1	Subject 25 serum sample December			EUSTDY0001 Subject 25	4 years	Homo sapiens	male	Infected With Malaria	106 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_26_21_2	Subject 26 serum sample December			EUSTDY0001 Subject 26	4 years	Homo sapiens	male	Infected With Malaria	85 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_27_21_3	Subject 27 serum sample December			EUSTDY0001 Subject 27	2 years	Homo sapiens	female	Infected With Malaria	71 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_29_22_1	Subject 29 serum sample December			EUSTDY0001 Subject 29	3 years	Homo sapiens	female	Infected With Malaria	106 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_30_22_2	Subject 30 serum sample December			EUSTDY0001 Subject 30	3 years	Homo sapiens	male	Infected With Malaria	140 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_39_22_3	Subject 39 serum sample December			EUSTDY0001 Subject 39	2 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_41_23_1	Subject 41 serum sample December			EUSTDY0001 Subject 41	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_42_23_2	Subject 42 serum sample December			EUSTDY0001 Subject 42	3 years	Homo sapiens	female	Infected With Malaria	136 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_44_23_3	Subject 44 serum sample December			EUSTDY0001 Subject 44	3 years	Homo sapiens	female	Infected With Malaria	90 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_46_24_2	Subject 46 serum sample December			EUSTDY0001 Subject 46	4 years	Homo sapiens	female	Infected With Malaria	97 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_47_24_3	Subject 47 serum sample December			EUSTDY0001 Subject 47	4 years	Homo sapiens	male	Infected With Malaria	99 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_48_25_1	Subject 48 serum sample May			EUSTDY0001 Subject 48	2 years	Homo sapiens	female	Infected With Malaria	149 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_49_25_2	Subject 49 serum sample May			EUSTDY0001 Subject 49	2 years	Homo sapiens	male	Infected With Malaria	131 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_50_25_3	Subject 50 serum sample May			EUSTDY0001 Subject 50	3 years	Homo sapiens	male	Infected With Malaria	76 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_51_26_1	Subject 51 serum sample May			EUSTDY0001 Subject 51	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_53_26_2	Subject 53 serum sample May			EUSTDY0001 Subject 53	3 years	Homo sapiens	male	Infected With Malaria	126 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_54_26_3	Subject 54 serum sample May			EUSTDY0001 Subject 54	2 years	Homo sapiens	male	Infected With Malaria	83 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_55_27_1	Subject 55 serum sample May			EUSTDY0001 Subject 55	3 years	Homo sapiens	female	Infected With Malaria	108 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_56_27_2	Subject 56 serum sample May			EUSTDY0001 Subject 56	3 years	Homo sapiens	female	Infected With Malaria	104 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_58_27_3	Subject 58 serum sample May			EUSTDY0001 Subject 58	2 years	Homo sapiens	female	Infected With Malaria	158 days	5/1/06	blood serum	negative	Replicate 1	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_58_139_2	Subject 58 serum sample May			EUSTDY0001 Subject 58	2 years	Homo sapiens	female	Infected With Malaria	158 days	5/1/06	blood serum	negative	Replicate 2	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_59_28_1	Subject 59 serum sample May			EUSTDY0001 Subject 59	4 years	Homo sapiens	female	Infected With Malaria	91 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_60_28_2	Subject 60 serum sample May			EUSTDY0001 Subject 60	3 years	Homo sapiens	female	Infected With Malaria	82 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_61_28_3	Subject 61 serum sample May			EUSTDY0001 Subject 61	4 years	Homo sapiens	female	Infected With Malaria	86 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_48_29_1	Subject 48 serum sample December			EUSTDY0001 Subject 48	2 years	Homo sapiens	female	Infected With Malaria	149 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_49_29_2	Subject 49 serum sample December			EUSTDY0001 Subject 49	2 years	Homo sapiens	male	Infected With Malaria	131 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_50_29_3	Subject 50 serum sample December			EUSTDY0001 Subject 50	3 years	Homo sapiens	male	Infected With Malaria	76 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_51_30_1	Subject 51 serum sample December			EUSTDY0001 Subject 51	4 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_53_30_2	Subject 53 serum sample December			EUSTDY0001 Subject 53	3 years	Homo sapiens	male	Infected With Malaria	126 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_54_30_3	Subject 54 serum sample December			EUSTDY0001 Subject 54	2 years	Homo sapiens	male	Infected With Malaria	83 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_55_31_1	Subject 55 serum sample December			EUSTDY0001 Subject 55	3 years	Homo sapiens	female	Infected With Malaria	108 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_58_31_3	Subject 58 serum sample December			EUSTDY0001 Subject 58	2 years	Homo sapiens	female	Infected With Malaria	158 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_59_32_1	Subject 59 serum sample December			EUSTDY0001 Subject 59	4 years	Homo sapiens	female	Infected With Malaria	91 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_60_32_2	Subject 60 serum sample December			EUSTDY0001 Subject 60	3 years	Homo sapiens	female	Infected With Malaria	82 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_61_32_3	Subject 61 serum sample December			EUSTDY0001 Subject 61	4 years	Homo sapiens	female	Infected With Malaria	86 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_62_33_1	Subject 62 serum sample December			EUSTDY0001 Subject 62	3 years	Homo sapiens	male	Infected With Malaria	58 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_63_33_2	Subject 63 serum sample December			EUSTDY0001 Subject 63	4 years	Homo sapiens	male	Infected With Malaria	31 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_64_33_3	Subject 64 serum sample December			EUSTDY0001 Subject 64	4 years	Homo sapiens	male	Infected With Malaria	145 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_65_34_1	Subject 65 serum sample December			EUSTDY0001 Subject 65	2 years	Homo sapiens	female	Infected With Malaria	175 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_66_34_2	Subject 66 serum sample December			EUSTDY0001 Subject 66	2 years	Homo sapiens	male	Infected With Malaria	144 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_67_34_3	Subject 67 serum sample December			EUSTDY0001 Subject 67	4 years	Homo sapiens	male	Infected With Malaria	101 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_68_35_1	Subject 68 serum sample December			EUSTDY0001 Subject 68	4 years	Homo sapiens	male	Infected With Malaria	134 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_69_35_2	Subject 69 serum sample December			EUSTDY0001 Subject 69	4 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_70_35_3	Subject 70 serum sample December			EUSTDY0001 Subject 70	4 years	Homo sapiens	female	Infected With Malaria	187 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_71_36_1	Subject 71 serum sample December			EUSTDY0001 Subject 71	4 years	Homo sapiens	female	Infected With Malaria	124 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_72_36_2	Subject 72 serum sample December			EUSTDY0001 Subject 72	3 years	Homo sapiens	male	Infected With Malaria	106 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_73_36_3	Subject 73 serum sample December			EUSTDY0001 Subject 73	2 years	Homo sapiens	male	Infected With Malaria	122 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_74_37_1	Subject 74 serum sample May			EUSTDY0001 Subject 74	3 years	Homo sapiens	male	Infected With Malaria	136 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_75_37_2	Subject 75 serum sample May			EUSTDY0001 Subject 75	5 years	Homo sapiens	male	Infected With Malaria	143 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_76_37_3	Subject 76 serum sample May			EUSTDY0001 Subject 76	5 years	Homo sapiens	male	Infected With Malaria	107 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_77_38_1	Subject 77 serum sample May			EUSTDY0001 Subject 77	6 years	Homo sapiens	female	Infected With Malaria	133 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_78_38_2	Subject 78 serum sample May			EUSTDY0001 Subject 78	5 years	Homo sapiens	female	Infected With Malaria	125 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_80_39_1	Subject 80 serum sample May			EUSTDY0001 Subject 80	5 years	Homo sapiens	male	Infected With Malaria	81 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_81_39_2	Subject 81 serum sample May			EUSTDY0001 Subject 81	5 years	Homo sapiens	male	Infected With Malaria	133 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_82_39_3	Subject 82 serum sample May			EUSTDY0001 Subject 82	5 years	Homo sapiens	female	Infected With Malaria	75 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_83_40_1	Subject 83 serum sample May			EUSTDY0001 Subject 83	7 years	Homo sapiens	female	Infected With Malaria	79 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_84_40_2	Subject 84 serum sample May			EUSTDY0001 Subject 84	5 years	Homo sapiens	female	Infected With Malaria	207 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_86_40_3	Subject 86 serum sample May			EUSTDY0001 Subject 86	5 years	Homo sapiens	male	Infected With Malaria	74 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_74_41_1	Subject 74 serum sample December			EUSTDY0001 Subject 74	3 years	Homo sapiens	male	Infected With Malaria	136 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_75_41_2	Subject 75 serum sample December			EUSTDY0001 Subject 75	5 years	Homo sapiens	male	Infected With Malaria	143 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_76_41_3	Subject 76 serum sample December			EUSTDY0001 Subject 76	5 years	Homo sapiens	male	Infected With Malaria	107 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_77_42_1	Subject 77 serum sample December			EUSTDY0001 Subject 77	6 years	Homo sapiens	female	Infected With Malaria	133 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_78_42_2	Subject 78 serum sample December			EUSTDY0001 Subject 78	5 years	Homo sapiens	female	Infected With Malaria	125 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_80_43_1	Subject 80 serum sample December			EUSTDY0001 Subject 80	5 years	Homo sapiens	male	Infected With Malaria	81 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_81_43_2	Subject 81 serum sample December			EUSTDY0001 Subject 81	5 years	Homo sapiens	male	Infected With Malaria	133 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_82_43_3	Subject 82 serum sample December			EUSTDY0001 Subject 82	5 years	Homo sapiens	female	Infected With Malaria	75 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_83_44_1	Subject 83 serum sample December			EUSTDY0001 Subject 83	7 years	Homo sapiens	female	Infected With Malaria	79 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_84_44_2	Subject 84 serum sample December			EUSTDY0001 Subject 84	5 years	Homo sapiens	female	Infected With Malaria	207 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_86_44_3	Subject 86 serum sample December			EUSTDY0001 Subject 86	5 years	Homo sapiens	male	Infected With Malaria	74 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_87_45_1	Subject 87 serum sample May			EUSTDY0001 Subject 87	5 years	Homo sapiens	male	Infected With Malaria	103 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_88_45_2	Subject 88 serum sample May			EUSTDY0001 Subject 88	7 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_89_45_3	Subject 89 serum sample May			EUSTDY0001 Subject 89	7 years	Homo sapiens	female	Infected With Malaria	114 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_90_46_1	Subject 90 serum sample May			EUSTDY0001 Subject 90	7 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_91_46_2	Subject 91 serum sample May			EUSTDY0001 Subject 91	7 years	Homo sapiens	female	Infected With Malaria	131 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_92_46_3	Subject 92 serum sample May			EUSTDY0001 Subject 92	7 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_93_47_1	Subject 93 serum sample May			EUSTDY0001 Subject 93	6 years	Homo sapiens	male	Infected With Malaria	85 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_94_47_2	Subject 94 serum sample May			EUSTDY0001 Subject 94	5 years	Homo sapiens	male	Infected With Malaria	107 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_95_47_3	Subject 95 serum sample May			EUSTDY0001 Subject 95	7 years	Homo sapiens	male	Infected With Malaria	136 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_96_48_1	Subject 96 serum sample May			EUSTDY0001 Subject 96	5 years	Homo sapiens	female	Infected With Malaria	141 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_97_48_2	Subject 97 serum sample May			EUSTDY0001 Subject 97	6 years	Homo sapiens	female	Infected With Malaria	128 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_98_48_3	Subject 98 serum sample May			EUSTDY0001 Subject 98	6 years	Homo sapiens	female	Infected With Malaria	91 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_90_50_1	Subject 90 serum sample December			EUSTDY0001 Subject 90	7 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_91_50_2	Subject 91 serum sample December			EUSTDY0001 Subject 91	7 years	Homo sapiens	female	Infected With Malaria	131 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_92_50_3	Subject 92 serum sample December			EUSTDY0001 Subject 92	7 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_93_51_1	Subject 93 serum sample December			EUSTDY0001 Subject 93	6 years	Homo sapiens	male	Infected With Malaria	85 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_94_51_2	Subject 94 serum sample December			EUSTDY0001 Subject 94	5 years	Homo sapiens	male	Infected With Malaria	107 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_95_51_3	Subject 95 serum sample December			EUSTDY0001 Subject 95	7 years	Homo sapiens	male	Infected With Malaria	136 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_96_52_1	Subject 96 serum sample December			EUSTDY0001 Subject 96	5 years	Homo sapiens	female	Infected With Malaria	141 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_97_52_2	Subject 97 serum sample December			EUSTDY0001 Subject 97	6 years	Homo sapiens	female	Infected With Malaria	128 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_98_52_3	Subject 98 serum sample December			EUSTDY0001 Subject 98	6 years	Homo sapiens	female	Infected With Malaria	91 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_99_53_1	Subject 99 serum sample May			EUSTDY0001 Subject 99	5 years	Homo sapiens	female	Infected With Malaria	105 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_100_53_2	Subject 100 serum sample May			EUSTDY0001 Subject 100	5 years	Homo sapiens	female	Infected With Malaria	175 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_101_53_3	Subject 101 serum sample May			EUSTDY0001 Subject 101	6 years	Homo sapiens	male	Infected With Malaria	126 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_102_54_1	Subject 102 serum sample May			EUSTDY0001 Subject 102	5 years	Homo sapiens	male	Infected With Malaria	122 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_103_54_2	Subject 103 serum sample May			EUSTDY0001 Subject 103	6 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_104_54_3	Subject 104 serum sample May			EUSTDY0001 Subject 104	7 years	Homo sapiens	male	Infected With Malaria	78 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_105_55_1	Subject 105 serum sample May			EUSTDY0001 Subject 105	7 years	Homo sapiens	female	Infected With Malaria	106 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_106_55_2	Subject 106 serum sample May			EUSTDY0001 Subject 106	5 years	Homo sapiens	male	Infected With Malaria	111 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_107_55_3	Subject 107 serum sample May			EUSTDY0001 Subject 107	7 years	Homo sapiens	female	Infected With Malaria	89 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_108_56_1	Subject 108 serum sample May			EUSTDY0001 Subject 108	5 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_109_56_2	Subject 109 serum sample May			EUSTDY0001 Subject 109	7 years	Homo sapiens	male	Infected With Malaria	98 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_110_56_3	Subject 110 serum sample May			EUSTDY0001 Subject 110	5 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_99_57_1	Subject 99 serum sample December			EUSTDY0001 Subject 99	5 years	Homo sapiens	female	Infected With Malaria	105 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_100_57_2	Subject 100 serum sample December			EUSTDY0001 Subject 100	5 years	Homo sapiens	female	Infected With Malaria	175 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_101_57_3	Subject 101 serum sample December			EUSTDY0001 Subject 101	6 years	Homo sapiens	male	Infected With Malaria	126 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_102_58_1	Subject 102 serum sample December			EUSTDY0001 Subject 102	5 years	Homo sapiens	male	Infected With Malaria	122 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_103_58_2	Subject 103 serum sample December			EUSTDY0001 Subject 103	6 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_104_58_3	Subject 104 serum sample December			EUSTDY0001 Subject 104	7 years	Homo sapiens	male	Infected With Malaria	78 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_105_59_1	Subject 105 serum sample December			EUSTDY0001 Subject 105	7 years	Homo sapiens	female	Infected With Malaria	106 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_106_59_2	Subject 106 serum sample December			EUSTDY0001 Subject 106	5 years	Homo sapiens	male	Infected With Malaria	111 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_107_59_3	Subject 107 serum sample December			EUSTDY0001 Subject 107	7 years	Homo sapiens	female	Infected With Malaria	89 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_108_60_1	Subject 108 serum sample December			EUSTDY0001 Subject 108	5 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_109_60_2	Subject 109 serum sample December			EUSTDY0001 Subject 109	7 years	Homo sapiens	male	Infected With Malaria	98 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_110_60_3	Subject 110 serum sample December			EUSTDY0001 Subject 110	5 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_111_61_1	Subject 111 serum sample May			EUSTDY0001 Subject 111	7 years	Homo sapiens	male	Infected With Malaria	150 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_112_61_2	Subject 112 serum sample May			EUSTDY0001 Subject 112	6 years	Homo sapiens	male	Infected With Malaria	159 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_114_61_3	Subject 114 serum sample May			EUSTDY0001 Subject 114	5 years	Homo sapiens	female	Infected With Malaria	151 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_115_62_1	Subject 115 serum sample May			EUSTDY0001 Subject 115	5 years	Homo sapiens	male	Infected With Malaria	102 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_117_62_2	Subject 117 serum sample May			EUSTDY0001 Subject 117	5 years	Homo sapiens	male	Infected With Malaria	199 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_118_62_3	Subject 118 serum sample May			EUSTDY0001 Subject 118	6 years	Homo sapiens	female	Infected With Malaria	91 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_119_63_1	Subject 119 serum sample May			EUSTDY0001 Subject 119	5 years	Homo sapiens	male	Infected With Malaria	129 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_120_63_2	Subject 120 serum sample May			EUSTDY0001 Subject 120	6 years	Homo sapiens	female	Infected With Malaria	138 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_121_63_3	Subject 121 serum sample May			EUSTDY0001 Subject 121	5 years	Homo sapiens	male	Infected With Malaria	127 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_122_64_1	Subject 122 serum sample May			EUSTDY0001 Subject 122	7 years	Homo sapiens	female	Infected With Malaria	84 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_123_64_2	Subject 123 serum sample May			EUSTDY0001 Subject 123	5 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_124_64_3	Subject 124 serum sample May			EUSTDY0001 Subject 124	5 years	Homo sapiens	female	Infected With Malaria	94 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_111_65_1	Subject 111 serum sample December			EUSTDY0001 Subject 111	7 years	Homo sapiens	male	Infected With Malaria	150 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_112_65_2	Subject 112 serum sample December			EUSTDY0001 Subject 112	6 years	Homo sapiens	male	Infected With Malaria	159 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_114_65_3	Subject 114 serum sample December			EUSTDY0001 Subject 114	5 years	Homo sapiens	female	Infected With Malaria	151 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_115_66_1	Subject 115 serum sample December			EUSTDY0001 Subject 115	5 years	Homo sapiens	male	Infected With Malaria	102 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_117_66_2	Subject 117 serum sample December			EUSTDY0001 Subject 117	5 years	Homo sapiens	male	Infected With Malaria	199 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_118_66_3	Subject 118 serum sample December			EUSTDY0001 Subject 118	6 years	Homo sapiens	female	Infected With Malaria	91 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_119_67_1	Subject 119 serum sample December			EUSTDY0001 Subject 119	5 years	Homo sapiens	male	Infected With Malaria	129 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_120_67_2	Subject 120 serum sample December			EUSTDY0001 Subject 120	6 years	Homo sapiens	female	Infected With Malaria	138 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_121_67_3	Subject 121 serum sample December			EUSTDY0001 Subject 121	5 years	Homo sapiens	male	Infected With Malaria	127 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_124_68_1	Subject 124 serum sample December			EUSTDY0001 Subject 124	5 years	Homo sapiens	female	Infected With Malaria	94 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_123_68_2	Subject 123 serum sample December			EUSTDY0001 Subject 123	5 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_122_68_3	Subject 122 serum sample December			EUSTDY0001 Subject 122	7 years	Homo sapiens	female	Infected With Malaria	84 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_127_69_1	Subject 127 serum sample May			EUSTDY0001 Subject 127	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_126_69_2	Subject 126 serum sample May			EUSTDY0001 Subject 126	8 years	Homo sapiens	female	Infected With Malaria	124 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_125_69_3	Subject 125 serum sample May			EUSTDY0001 Subject 125	8 years	Homo sapiens	male	Infected With Malaria	87 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_130_70_1	Subject 130 serum sample May			EUSTDY0001 Subject 130	8 years	Homo sapiens	male	Infected With Malaria	164 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_129_70_2	Subject 129 serum sample May			EUSTDY0001 Subject 129	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_128_70_3	Subject 128 serum sample May			EUSTDY0001 Subject 128	8 years	Homo sapiens	male	Infected With Malaria	150 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_133_71_1	Subject 133 serum sample May			EUSTDY0001 Subject 133	9 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_132_71_2	Subject 132 serum sample May			EUSTDY0001 Subject 132	10 years	Homo sapiens	male	Infected With Malaria	206 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_131_71_3	Subject 131 serum sample May			EUSTDY0001 Subject 131	10 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_136_72_1	Subject 136 serum sample May			EUSTDY0001 Subject 136	10 years	Homo sapiens	male	Infected With Malaria	79 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_135_72_2	Subject 135 serum sample May			EUSTDY0001 Subject 135	8 years	Homo sapiens	female	Infected With Malaria	145 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_134_72_3	Subject 134 serum sample May			EUSTDY0001 Subject 134	9 years	Homo sapiens	female	Infected With Malaria	105 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_127_73_1	Subject 127 serum sample December			EUSTDY0001 Subject 127	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_126_73_2	Subject 126 serum sample December			EUSTDY0001 Subject 126	8 years	Homo sapiens	female	Infected With Malaria	124 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_125_73_3	Subject 125 serum sample December			EUSTDY0001 Subject 125	8 years	Homo sapiens	male	Infected With Malaria	87 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_130_74_1	Subject 130 serum sample December			EUSTDY0001 Subject 130	8 years	Homo sapiens	male	Infected With Malaria	164 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_129_74_2	Subject 129 serum sample December			EUSTDY0001 Subject 129	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_128_74_3	Subject 128 serum sample December			EUSTDY0001 Subject 128	8 years	Homo sapiens	male	Infected With Malaria	150 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_133_75_1	Subject 133 serum sample December			EUSTDY0001 Subject 133	9 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_132_75_2	Subject 132 serum sample December			EUSTDY0001 Subject 132	10 years	Homo sapiens	male	Infected With Malaria	206 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_131_75_3	Subject 131 serum sample December			EUSTDY0001 Subject 131	10 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_136_76_1	Subject 136 serum sample December			EUSTDY0001 Subject 136	10 years	Homo sapiens	male	Infected With Malaria	79 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_135_76_2	Subject 135 serum sample December			EUSTDY0001 Subject 135	8 years	Homo sapiens	female	Infected With Malaria	145 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_134_76_3	Subject 134 serum sample December			EUSTDY0001 Subject 134	9 years	Homo sapiens	female	Infected With Malaria	105 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_139_77_1	Subject 139 serum sample May			EUSTDY0001 Subject 139	8 years	Homo sapiens	female	Infected With Malaria	137 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_138_77_2	Subject 138 serum sample May			EUSTDY0001 Subject 138	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_137_77_3	Subject 137 serum sample May			EUSTDY0001 Subject 137	8 years	Homo sapiens	male	Infected With Malaria	52 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_142_78_1	Subject 142 serum sample May			EUSTDY0001 Subject 142	9 years	Homo sapiens	female	Infected With Malaria	161 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_141_78_2	Subject 141 serum sample May			EUSTDY0001 Subject 141	8 years	Homo sapiens	female	Infected With Malaria	118 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_140_78_3	Subject 140 serum sample May			EUSTDY0001 Subject 140	8 years	Homo sapiens	male	Infected With Malaria	71 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_145_79_1	Subject 145 serum sample May			EUSTDY0001 Subject 145	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_144_79_2	Subject 144 serum sample May			EUSTDY0001 Subject 144	10 years	Homo sapiens	male	Infected With Malaria	112 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_143_79_3	Subject 143 serum sample May			EUSTDY0001 Subject 143	8 years	Homo sapiens	male	Infected With Malaria	96 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_148_80_1	Subject 148 serum sample May			EUSTDY0001 Subject 148	8 years	Homo sapiens	male	Infected With Malaria	98 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_147_80_2	Subject 147 serum sample May			EUSTDY0001 Subject 147	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_146_80_3	Subject 146 serum sample May			EUSTDY0001 Subject 146	9 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_139_81_1	Subject 139 serum sample December			EUSTDY0001 Subject 139	8 years	Homo sapiens	female	Infected With Malaria	137 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_138_81_2	Subject 138 serum sample December			EUSTDY0001 Subject 138	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_137_81_3	Subject 137 serum sample December			EUSTDY0001 Subject 137	8 years	Homo sapiens	male	Infected With Malaria	52 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_142_82_1	Subject 142 serum sample December			EUSTDY0001 Subject 142	9 years	Homo sapiens	female	Infected With Malaria	161 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_141_82_2	Subject 141 serum sample December			EUSTDY0001 Subject 141	8 years	Homo sapiens	female	Infected With Malaria	118 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_140_82_3	Subject 140 serum sample December			EUSTDY0001 Subject 140	8 years	Homo sapiens	male	Infected With Malaria	71 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_145_83_1	Subject 145 serum sample December			EUSTDY0001 Subject 145	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_144_83_2	Subject 144 serum sample December			EUSTDY0001 Subject 144	10 years	Homo sapiens	male	Infected With Malaria	112 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_143_83_3	Subject 143 serum sample December			EUSTDY0001 Subject 143	8 years	Homo sapiens	male	Infected With Malaria	96 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_148_84_1	Subject 148 serum sample December			EUSTDY0001 Subject 148	8 years	Homo sapiens	male	Infected With Malaria	98 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_147_84_2	Subject 147 serum sample December			EUSTDY0001 Subject 147	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_146_84_3	Subject 146 serum sample December			EUSTDY0001 Subject 146	9 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_153_85_1	Subject 153 serum sample May			EUSTDY0001 Subject 153	9 years	Homo sapiens	male	Infected With Malaria	119 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_151_85_2	Subject 151 serum sample May			EUSTDY0001 Subject 151	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_149_85_3	Subject 149 serum sample May			EUSTDY0001 Subject 149	8 years	Homo sapiens	male	Infected With Malaria	115 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_156_86_1	Subject 156 serum sample May			EUSTDY0001 Subject 156	8 years	Homo sapiens	male	Infected With Malaria	137 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_155_86_2	Subject 155 serum sample May			EUSTDY0001 Subject 155	8 years	Homo sapiens	female	Infected With Malaria	156 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_154_86_3	Subject 154 serum sample May			EUSTDY0001 Subject 154	9 years	Homo sapiens	male	Infected With Malaria	147 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_160_87_1	Subject 160 serum sample May			EUSTDY0001 Subject 160	9 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_158_87_2	Subject 158 serum sample May			EUSTDY0001 Subject 158	8 years	Homo sapiens	male	Infected With Malaria	124 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_157_87_3	Subject 157 serum sample May			EUSTDY0001 Subject 157	8 years	Homo sapiens	male	Infected With Malaria	209 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_162_88_2	Subject 162 serum sample May			EUSTDY0001 Subject 162	8 years	Homo sapiens	female	Infected With Malaria	151 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_161_88_3	Subject 161 serum sample May			EUSTDY0001 Subject 161	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_149_89_1	Subject 149 serum sample December			EUSTDY0001 Subject 149	8 years	Homo sapiens	male	Infected With Malaria	115 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_151_89_2	Subject 151 serum sample December			EUSTDY0001 Subject 151	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_153_89_3	Subject 153 serum sample December			EUSTDY0001 Subject 153	9 years	Homo sapiens	male	Infected With Malaria	119 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_156_90_1	Subject 156 serum sample December			EUSTDY0001 Subject 156	8 years	Homo sapiens	male	Infected With Malaria	137 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_155_90_2	Subject 155 serum sample December			EUSTDY0001 Subject 155	8 years	Homo sapiens	female	Infected With Malaria	156 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_154_90_3	Subject 154 serum sample December			EUSTDY0001 Subject 154	9 years	Homo sapiens	male	Infected With Malaria	147 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_157_91_1	Subject 157 serum sample December			EUSTDY0001 Subject 157	8 years	Homo sapiens	male	Infected With Malaria	209 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_158_91_2	Subject 158 serum sample December			EUSTDY0001 Subject 158	8 years	Homo sapiens	male	Infected With Malaria	124 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_161_92_1	Subject 161 serum sample December			EUSTDY0001 Subject 161	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_162_92_2	Subject 162 serum sample December			EUSTDY0001 Subject 162	8 years	Homo sapiens	female	Infected With Malaria	151 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_163_93_1	Subject 163 serum sample May			EUSTDY0001 Subject 163	8 years	Homo sapiens	female	Infected With Malaria	123 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_164_93_2	Subject 164 serum sample May			EUSTDY0001 Subject 164	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_165_93_3	Subject 165 serum sample May			EUSTDY0001 Subject 165	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_166_94_1	Subject 166 serum sample May			EUSTDY0001 Subject 166	8 years	Homo sapiens	male	Infected With Malaria	150 days	5/1/06	blood serum	negative	Replicate 1	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_166_145_3	Subject 166 serum sample May			EUSTDY0001 Subject 166	8 years	Homo sapiens	male	Infected With Malaria	150 days	5/1/06	blood serum	negative	Replicate 2	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_167_94_2	Subject 167 serum sample May			EUSTDY0001 Subject 167	10 years	Homo sapiens	female	Infected With Malaria	130 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_169_94_3	Subject 169 serum sample May			EUSTDY0001 Subject 169	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_170_95_1	Subject 170 serum sample May			EUSTDY0001 Subject 170	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_171_95_2	Subject 171 serum sample May			EUSTDY0001 Subject 171	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_172_95_3	Subject 172 serum sample May			EUSTDY0001 Subject 172	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_173_96_1	Subject 173 serum sample May			EUSTDY0001 Subject 173	9 years	Homo sapiens	male	Infected With Malaria	157 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_174_96_2	Subject 174 serum sample May			EUSTDY0001 Subject 174	8 years	Homo sapiens	female	Infected With Malaria	153 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_176_96_3	Subject 176 serum sample May			EUSTDY0001 Subject 176	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_163_97_1	Subject 163 serum sample December			EUSTDY0001 Subject 163	8 years	Homo sapiens	female	Infected With Malaria	123 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_164_97_2	Subject 164 serum sample December			EUSTDY0001 Subject 164	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_165_97_3	Subject 165 serum sample December			EUSTDY0001 Subject 165	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_166_98_1	Subject 166 serum sample December			EUSTDY0001 Subject 166	8 years	Homo sapiens	male	Infected With Malaria	150 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_167_98_2	Subject 167 serum sample December			EUSTDY0001 Subject 167	10 years	Homo sapiens	female	Infected With Malaria	130 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_169_98_3	Subject 169 serum sample December			EUSTDY0001 Subject 169	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_170_99_1	Subject 170 serum sample December			EUSTDY0001 Subject 170	8 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_171_99_2	Subject 171 serum sample December			EUSTDY0001 Subject 171	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_172_99_3	Subject 172 serum sample December			EUSTDY0001 Subject 172	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_173_100_1	Subject 173 serum sample December			EUSTDY0001 Subject 173	9 years	Homo sapiens	male	Infected With Malaria	157 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_174_100_2	Subject 174 serum sample December			EUSTDY0001 Subject 174	8 years	Homo sapiens	female	Infected With Malaria	153 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_176_100_3	Subject 176 serum sample December			EUSTDY0001 Subject 176	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_177_101_1	Subject 177 serum sample May			EUSTDY0001 Subject 177	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_180_101_2	Subject 180 serum sample May			EUSTDY0001 Subject 180	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_182_101_3	Subject 182 serum sample May			EUSTDY0001 Subject 182	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_183_102_1	Subject 183 serum sample May			EUSTDY0001 Subject 183	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_185_102_2	Subject 185 serum sample May			EUSTDY0001 Subject 185	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_186_102_3	Subject 186 serum sample May			EUSTDY0001 Subject 186	23 years	Homo sapiens	male	Infected With Malaria	141 days	5/1/06	blood serum	negative	Replicate 1	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_186_146_1	Subject 186 serum sample May			EUSTDY0001 Subject 186	23 years	Homo sapiens	male	Infected With Malaria	141 days	5/1/06	blood serum	negative	Replicate 2	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_188_103_1	Subject 188 serum sample May			EUSTDY0001 Subject 188	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_189_103_2	Subject 189 serum sample May			EUSTDY0001 Subject 189	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_190_103_3	Subject 190 serum sample May			EUSTDY0001 Subject 190	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_191_104_1	Subject 191 serum sample May			EUSTDY0001 Subject 191	24 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_192_104_2	Subject 192 serum sample May			EUSTDY0001 Subject 192	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_193_104_3	Subject 193 serum sample May			EUSTDY0001 Subject 193	19 years	Homo sapiens	female	Infected With Malaria	29 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_177_105_1	Subject 177 serum sample December			EUSTDY0001 Subject 177	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_180_105_2	Subject 180 serum sample December			EUSTDY0001 Subject 180	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_182_105_3	Subject 182 serum sample December			EUSTDY0001 Subject 182	8 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_183_106_1	Subject 183 serum sample December			EUSTDY0001 Subject 183	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_185_106_2	Subject 185 serum sample December			EUSTDY0001 Subject 185	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_188_107_1	Subject 188 serum sample December			EUSTDY0001 Subject 188	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_189_107_2	Subject 189 serum sample December			EUSTDY0001 Subject 189	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_191_108_1	Subject 191 serum sample December			EUSTDY0001 Subject 191	24 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_192_108_2	Subject 192 serum sample December			EUSTDY0001 Subject 192	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_194_109_1	Subject 194 serum sample May			EUSTDY0001 Subject 194	24 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_195_109_2	Subject 195 serum sample May			EUSTDY0001 Subject 195	24 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_196_146_2	Subject 196 serum sample May			EUSTDY0001 Subject 196	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative	Replicate 1	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_196_109_3	Subject 196 serum sample May			EUSTDY0001 Subject 196	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative	Replicate 2	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_198_110_1	Subject 198 serum sample May			EUSTDY0001 Subject 198	25 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_200_110_2	Subject 200 serum sample May			EUSTDY0001 Subject 200	25 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_201_110_3	Subject 201 serum sample May			EUSTDY0001 Subject 201	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_202_111_1	Subject 202 serum sample May			EUSTDY0001 Subject 202	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_203_111_2	Subject 203 serum sample May			EUSTDY0001 Subject 203	21 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_204_111_3	Subject 204 serum sample May			EUSTDY0001 Subject 204	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_205_112_1	Subject 205 serum sample May			EUSTDY0001 Subject 205	18 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_206_112_2	Subject 206 serum sample May			EUSTDY0001 Subject 206	24 years	Homo sapiens	female	Infected With Malaria	169 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_207_112_3	Subject 207 serum sample May			EUSTDY0001 Subject 207	23 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_194_113_1	Subject 194 serum sample December			EUSTDY0001 Subject 194	24 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_195_113_2	Subject 195 serum sample December			EUSTDY0001 Subject 195	24 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_196_113_3	Subject 196 serum sample December			EUSTDY0001 Subject 196	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_198_114_1	Subject 198 serum sample December			EUSTDY0001 Subject 198	25 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_200_114_2	Subject 200 serum sample December			EUSTDY0001 Subject 200	25 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_201_114_3	Subject 201 serum sample December			EUSTDY0001 Subject 201	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_202_115_1	Subject 202 serum sample December			EUSTDY0001 Subject 202	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_203_115_2	Subject 203 serum sample December			EUSTDY0001 Subject 203	21 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_204_115_3	Subject 204 serum sample December			EUSTDY0001 Subject 204	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_207_116_1	Subject 207 serum sample December			EUSTDY0001 Subject 207	23 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_206_116_2	Subject 206 serum sample December			EUSTDY0001 Subject 206	24 years	Homo sapiens	female	Infected With Malaria	169 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_205_116_3	Subject 205 serum sample December			EUSTDY0001 Subject 205	18 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_213_117_1	Subject 213 serum sample May			EUSTDY0001 Subject 213	19 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_212_117_2	Subject 212 serum sample May			EUSTDY0001 Subject 212	18 years	Homo sapiens	female	Infected With Malaria	165 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_208_117_3	Subject 208 serum sample May			EUSTDY0001 Subject 208	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_217_118_1	Subject 217 serum sample May			EUSTDY0001 Subject 217	18 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_216_118_2	Subject 216 serum sample May			EUSTDY0001 Subject 216	19 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_214_118_3	Subject 214 serum sample May			EUSTDY0001 Subject 214	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_220_119_1	Subject 220 serum sample May			EUSTDY0001 Subject 220	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_219_119_2	Subject 219 serum sample May			EUSTDY0001 Subject 219	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_218_119_3	Subject 218 serum sample May			EUSTDY0001 Subject 218	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_213_121_1	Subject 213 serum sample December			EUSTDY0001 Subject 213	19 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_212_121_2	Subject 212 serum sample December			EUSTDY0001 Subject 212	18 years	Homo sapiens	female	Infected With Malaria	165 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_208_121_3	Subject 208 serum sample December			EUSTDY0001 Subject 208	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_217_122_1	Subject 217 serum sample December			EUSTDY0001 Subject 217	18 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_216_122_2	Subject 216 serum sample December			EUSTDY0001 Subject 216	19 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_214_122_3	Subject 214 serum sample December			EUSTDY0001 Subject 214	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_220_123_1	Subject 220 serum sample December			EUSTDY0001 Subject 220	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_219_123_2	Subject 219 serum sample December			EUSTDY0001 Subject 219	20 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_218_123_3	Subject 218 serum sample December			EUSTDY0001 Subject 218	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_223_124_1	Subject 223 serum sample December			EUSTDY0001 Subject 223	24 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_222_124_2	Subject 222 serum sample December			EUSTDY0001 Subject 222	19 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_221_124_3	Subject 221 serum sample December			EUSTDY0001 Subject 221	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_73_125_1	Subject 73 serum sample May			EUSTDY0001 Subject 73	2 years	Homo sapiens	male	Infected With Malaria	122 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_72_125_2	Subject 72 serum sample May			EUSTDY0001 Subject 72	3 years	Homo sapiens	male	Infected With Malaria	106 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_71_125_3	Subject 71 serum sample May			EUSTDY0001 Subject 71	4 years	Homo sapiens	female	Infected With Malaria	124 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_224_126_2	Subject 224 serum sample May			EUSTDY0001 Subject 224	18 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_150_126_3	Subject 150 serum sample May			EUSTDY0001 Subject 150	8 years	Homo sapiens	male	Infected With Malaria	111 days	5/1/06	blood serum	negative	Replicate 1	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_150_140_2	Subject 150 serum sample May			EUSTDY0001 Subject 150	8 years	Homo sapiens	male	Infected With Malaria	111 days	5/1/06	blood serum	negative	Replicate 2	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_89_127_1	Subject 89 serum sample December			EUSTDY0001 Subject 89	7 years	Homo sapiens	female	Infected With Malaria	114 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_88_127_2	Subject 88 serum sample December			EUSTDY0001 Subject 88	7 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_87_127_3	Subject 87 serum sample December			EUSTDY0001 Subject 87	5 years	Homo sapiens	male	Infected With Malaria	103 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_159_128_1	Subject 159 serum sample December			EUSTDY0001 Subject 159	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_224_128_2	Subject 224 serum sample December			EUSTDY0001 Subject 224	18 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_150_128_3	Subject 150 serum sample December			EUSTDY0001 Subject 150	8 years	Homo sapiens	male	Infected With Malaria	111 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_223_129_1	Subject 223 serum sample May			EUSTDY0001 Subject 223	24 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_222_129_2	Subject 222 serum sample May			EUSTDY0001 Subject 222	19 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_221_129_3	Subject 221 serum sample May			EUSTDY0001 Subject 221	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_27_131.1_1	Subject 27 serum sample May			EUSTDY0001 Subject 27	2 years	Homo sapiens	female	Infected With Malaria	71 days	5/1/06	blood serum	negative	Replicate 1	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_27_131.2_1	Subject 27 serum sample May			EUSTDY0001 Subject 27	2 years	Homo sapiens	female	Infected With Malaria	71 days	5/1/06	blood serum	negative	Replicate 2	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_25_131.1_2	Subject 25 serum sample May			EUSTDY0001 Subject 25	4 years	Homo sapiens	male	Infected With Malaria	106 days	5/1/06	blood serum	negative	Replicate 1	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_25_131.2_2	Subject 25 serum sample May			EUSTDY0001 Subject 25	4 years	Homo sapiens	male	Infected With Malaria	106 days	5/1/06	blood serum	negative	Replicate 2	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_15_131.1_3	Subject 15 serum sample May			EUSTDY0001 Subject 15	3 years	Homo sapiens	female	Infected With Malaria	30 days	5/1/06	blood serum	negative	Replicate 1	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_15_131.2_3	Subject 15 serum sample May			EUSTDY0001 Subject 15	3 years	Homo sapiens	female	Infected With Malaria	30 days	5/1/06	blood serum	negative	Replicate 2	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_56_132.1_1	Subject 56 serum sample December			EUSTDY0001 Subject 56	3 years	Homo sapiens	female	Infected With Malaria	104 days	12/1/06	blood serum	negative	Replicate 1	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_56_132.2_1	Subject 56 serum sample December			EUSTDY0001 Subject 56	3 years	Homo sapiens	female	Infected With Malaria	104 days	12/1/06	blood serum	negative	Replicate 2	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_79_132.1_2	Subject 79 serum sample May			EUSTDY0001 Subject 79	6 years	Homo sapiens	male	Infected With Malaria	98 days	5/1/06	blood serum	negative	Replicate 1	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_79_132.2_2	Subject 79 serum sample May			EUSTDY0001 Subject 79	6 years	Homo sapiens	male	Infected With Malaria	98 days	5/1/06	blood serum	negative	Replicate 2	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_67_132.1_3	Subject 67 serum sample May			EUSTDY0001 Subject 67	4 years	Homo sapiens	male	Infected With Malaria	101 days	5/1/06	blood serum	negative	Replicate 1	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_67_132.2_3	Subject 67 serum sample May			EUSTDY0001 Subject 67	4 years	Homo sapiens	male	Infected With Malaria	101 days	5/1/06	blood serum	negative	Replicate 2	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_160_133_1	Subject 160 serum sample December			EUSTDY0001 Subject 160	9 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_79_133_2	Subject 79 serum sample December			EUSTDY0001 Subject 79	6 years	Homo sapiens	male	Infected With Malaria	98 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_45_133_3	Subject 45 serum sample December			EUSTDY0001 Subject 45	4 years	Homo sapiens	female	Infected With Malaria	82 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_193_134_1	Subject 193 serum sample December			EUSTDY0001 Subject 193	19 years	Homo sapiens	female	Infected With Malaria	29 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_190_134_2	Subject 190 serum sample December			EUSTDY0001 Subject 190	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	12/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_186_134_3	Subject 186 serum sample December			EUSTDY0001 Subject 186	23 years	Homo sapiens	male	Infected With Malaria	141 days	12/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_28_135_1	Subject 28 serum sample May			EUSTDY0001 Subject 28	4 years	Homo sapiens	female	Infected With Malaria	127 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_31_135_2	Subject 31 serum sample May			EUSTDY0001 Subject 31	3 years	Homo sapiens	male	Infected With Malaria	90 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_32_135_3	Subject 32 serum sample May			EUSTDY0001 Subject 32	4 years	Homo sapiens	male	Infected With Malaria	92 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_33_136_1	Subject 33 serum sample May			EUSTDY0001 Subject 33	3 years	Homo sapiens	female	Infected With Malaria	84 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_34_136_2	Subject 34 serum sample May			EUSTDY0001 Subject 34	2 years	Homo sapiens	female	Infected With Malaria	77 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_35_136_3	Subject 35 serum sample May			EUSTDY0001 Subject 35	4 years	Homo sapiens	female	Infected With Malaria	98 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_36_137_1	Subject 36 serum sample May			EUSTDY0001 Subject 36	3 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_37_137_2	Subject 37 serum sample May			EUSTDY0001 Subject 37	2 years	Homo sapiens	male	Infected With Malaria	93 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_38_137_3	Subject 38 serum sample May			EUSTDY0001 Subject 38	2 years	Homo sapiens	female	Infected With Malaria	79 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_40_138_1	Subject 40 serum sample May			EUSTDY0001 Subject 40	3 years	Homo sapiens	male	Infected With Malaria	97 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_43_138_2	Subject 43 serum sample May			EUSTDY0001 Subject 43	3 years	Homo sapiens	male	Infected With Malaria	131 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_52_138_3	Subject 52 serum sample May			EUSTDY0001 Subject 52	2 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_57_139_1	Subject 57 serum sample May			EUSTDY0001 Subject 57	3 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_113_139_3	Subject 113 serum sample May			EUSTDY0001 Subject 113	7 years	Homo sapiens	male	Infected With Malaria	83 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_116_140_1	Subject 116 serum sample May			EUSTDY0001 Subject 116	6 years	Homo sapiens	female	Infected With Malaria	145 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_152_140_3	Subject 152 serum sample May			EUSTDY0001 Subject 152	9 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	positive		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_159_126_1	Subject 159 serum sample May			EUSTDY0001 Subject 159	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative	Replicate 1	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_159_141_1	Subject 159 serum sample May			EUSTDY0001 Subject 159	10 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative	Replicate 2	Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_168_141_2	Subject 168 serum sample May			EUSTDY0001 Subject 168	8 years	Homo sapiens	male	Infected With Malaria	155 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_175_141_3	Subject 175 serum sample May			EUSTDY0001 Subject 175	21 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_178_142_1	Subject 178 serum sample May			EUSTDY0001 Subject 178	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_179_142_2	Subject 179 serum sample May			EUSTDY0001 Subject 179	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_181_142_3	Subject 181 serum sample May			EUSTDY0001 Subject 181	20 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_184_143_1	Subject 184 serum sample May			EUSTDY0001 Subject 184	22 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_187_143_2	Subject 187 serum sample May			EUSTDY0001 Subject 187	19 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_197_143_3	Subject 197 serum sample May			EUSTDY0001 Subject 197	18 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_199_144_1	Subject 199 serum sample May			EUSTDY0001 Subject 199	18 years	Homo sapiens	male	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_209_144_2	Subject 209 serum sample May			EUSTDY0001 Subject 209	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_210_144_3	Subject 210 serum sample May			EUSTDY0001 Subject 210	18 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_211_145_1	Subject 211 serum sample May			EUSTDY0001 Subject 211	18 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7
+Crompton_215_145_2	Subject 215 serum sample May			EUSTDY0001 Subject 215	22 years	Homo sapiens	female	Uninfected With Malaria	242 days	5/1/06	blood serum	negative		Plasmodium falciparum	Plasmodium falciparum 3D7

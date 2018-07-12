@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [organism]	Specimen Collection Date	Characteristics [geographic location]	Characteristics [passage history]	Characteristics [specimen]
-SY57				Pan troglodytes ellioti	13-Feb-13	Cameroon: Centre Region	Unpassaged	blood
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [organism]	Specimen Collection Date	Characteristics [geographic location]	Characteristics [passage history]	Characteristics [specimen]	Characteristics [parasite organism]
+SY57				Pan troglodytes ellioti	13-Feb-13	Cameroon: Centre Region	Unpassaged	blood	Plasmodium reichenowi

@@ -1,202 +1,202 @@
-Name	Description	sourcemtoverride	samplemtoverride	Characteristics [country]	Characteristics [age]	Specimen collection date	Characteristics [microscopy_result]	Characteristics [parasite_density_by_microscope]	Characteristics [blood_smear_summary]	Characteristics [time_to_reinfection]	Characteristics [time_to_first_malaria_dx]	Characteristics [end_of_observation_period]	Characteristics [specimen]
-11003402				Kenya	34 years	20030611	positive	2	1.22E+11	week 7	week 11+	week 12	blood
-11003406				Kenya	2 years	20030611	positive	277	1.22E+11	week 4	week 8	week 12	blood
-11004703				Kenya	18 years	20030611	negative	0	2.93E+11	week 11	week 11+	week 12	blood
-11004802				Kenya	7 years	20030611	positive	72	1.93E+11	week 11	week 11+	week 12	blood
-11005407				Kenya	15 years	20030611	negative	0	2.23E+11		NA	week 10	blood
-11008202				Kenya	39 years	20030611	positive	2	1.23E+11	week 8	week 11+	week 12	blood
-11008204				Kenya	12 years	20030611	positive	10	1.23E+11	week 11+	week 11+	week 12	blood
-11008206				Kenya	5 years	20030611	positive	78	1.23E+11	week 4	week 11+	week 12	blood
-11008404				Kenya	24 years	20030613	negative	0	2.22E+11	week 7	week 11+	week 12	blood
-11009702				Kenya	41 years	20030611	negative	0	2.23E+11	week 10	week 11+	week 12	blood
-11009707				Kenya	7 years	20030611	positive	62	1.22E+11	week 4	week 11+	week 12	blood
-11011006				Kenya	9 years	20030611	negative	0	2.22E+11	week 5	week 11+	week 12	blood
-11011007				Kenya	6 years	20030611	positive	2	1.22E+11	week 5	week 11+	week 12	blood
-11011008				Kenya	1 years	20030611	negative	0	2.22E+11	week 3	week 5	week 12	blood
-11014401				Kenya	47 years	20030611	negative	0	2.23E+11	week 7	week 11+	week 12	blood
-11014402				Kenya	36 years	20030611	negative	0	2.22E+11	week 8	week 11+	week 12	blood
-11014801				Kenya	34 years	20030611	positive	4	1.22E+11	week 10	week 11+	week 12	blood
-11015301				Kenya	63 years	20030611	positive	14	1.22E+11	week 11+	week 11+	week 12	blood
-11016301				Kenya	40 years	20030611	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-11016305				Kenya	5 years	20030611	positive	112	1.22E+11	week 9	week 11+	week 12	blood
-11016401				Kenya	52 years	20030611	positive	2	1.23E+11	week 7	week 11+	week 12	blood
-11016501				Kenya	34 years	20030611	positive	2	1.23E+11	week 11	week 11+	week 12	blood
-11016504				Kenya	9 years	20030611	positive	63	1.22E+11	week 4	week 11+	week 12	blood
-11016505				Kenya	6 years	20030611	positive	16	1.22E+11	week 4	week 11+	week 12	blood
-11016507				Kenya	2 years	20030611	positive	568	1.22E+11	week 3	week 7	week 12	blood
-11016602				Kenya	51 years	20030611	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-11016801				Kenya	37 years	20030611	positive	5	1.22E+11	week 4	week 11+	week 12	blood
-11016803				Kenya	14 years	20030611	positive	2	1.22E+11	week 6	week 11+	week 12	blood
-11016902				Kenya	27 years	20030611	positive	14	1.22E+11	week 6	week 11+	week 12	blood
-11016903				Kenya	6 years	20030611	positive	277	1.23E+11		NA	week 6	blood
-11016904				Kenya	3 years	20030611	positive	20	1.22E+11	week 4	week 11+	week 12	blood
-11017002				Kenya	29 years	20030611	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-11017005				Kenya	11 years	20030611	positive	7	1.22E+11	week 11+	week 11+	week 12	blood
-11017007				Kenya	3 years	20030611	positive	328	1.22E+11	week 3	week 11+	week 12	blood
-11019102				Kenya	37 years	20030611	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-11020906				Kenya	5 years	20030611	positive	365	1.22E+11	week 5	week 11+	week 12	blood
-11021201				Kenya	50 years	20030611	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-11022004				Kenya	11 years	20030611	positive	17	1.22E+11	week 6	week 11+	week 12	blood
-11022602				Kenya	63 years	20030611	positive	10	1.22E+11	week 4	week 11+	week 12	blood
-11101801				Kenya	45 years	20030611	negative	0	2.22E+11	week 10	week 11+	week 12	blood
-11101802				Kenya	14 years	20030611	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-11101803				Kenya	9 years	20030611	positive	5	1.22E+11	week 4	week 11+	week 12	blood
-11102606				Kenya	11 years	20030611	positive	168	1.23E+11	week 6	week 11+	week 12	blood
-11104302				Kenya	21 years	20030611	positive	3	1.22E+11	week 7	week 11+	week 12	blood
-11104303				Kenya	23 years	20030611	positive	3	1.22E+11	week 8	week 11+	week 12	blood
-12027302				Kenya	49 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-12027401				Kenya	68 years	20030610	negative	0	2.23E+11		NA	week 2	blood
-12027501				Kenya	44 years	20030613	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-12027503				Kenya	15 years	20030610	negative	0	2.22E+11	week 7	week 11+	week 12	blood
-12028001				Kenya	54 years	20030609	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-12028002				Kenya	48 years	20030610	negative	0	2.22E+11	week 9	week 11+	week 12	blood
-12028007				Kenya	10 years	20030609	positive	5	1.22E+11	week 9	week 9	week 12	blood
-12028009				Kenya	4 years	20030609	positive	811	1.22E+11	week 4	week 11+	week 12	blood
-12028101				Kenya	38 years	20030609	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-12028103				Kenya	12 years	20030609	positive	12	1.22E+11	week 11+	week 11+	week 12	blood
-12028105				Kenya	9 years	20030609	negative	0	2.22E+11	week 5	week 11+	week 12	blood
-12028301				Kenya	25 years	20030610	positive	11	1.22E+11	week 5	week 11+	week 12	blood
-12028302				Kenya	10 years	20030609	positive	52	1.22E+11	week 5	week 11+	week 12	blood
-12028304				Kenya	5 years	20030613	negative	0	2.22E+11	week 4	week 11+	week 12	blood
-12028401				Kenya	67 years	20030610	negative	0	2.23E+11	week 11+	week 11+	week 12	blood
-12028409				Kenya	8 years	20030609	positive	100	1.22E+11	week 6	week 11+	week 12	blood
-12028411				Kenya	26 years	20030609	negative	0	2.22E+11	week 6	week 11+	week 12	blood
-12028502				Kenya	45 years	20030609	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-12028507				Kenya	9 years	20030613	positive	50	1.22E+11	week 5	week 11+	week 12	blood
-12028508				Kenya	9 years	20030613	positive	202	1.22E+11	week 4	week 11+	week 12	blood
-12028801				Kenya	78 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-12028802				Kenya	68 years	20030610	negative	0	2.22E+11	week 6	week 11+	week 12	blood
-12028901				Kenya	50 years	20030610	negative	0	2.22E+11	week 5	week 11+	week 12	blood
-12029315				Kenya	5 years	20030613	positive	196	1.22E+11	week 3	week 11+	week 12	blood
-12029316				Kenya	3 years	20030613	positive	167	1.22E+11	week 6	week 11+	week 12	blood
-12033101				Kenya	75 years	20030613	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-12033108				Kenya	26 years	20030610	positive	12	1.23E+11		NA	week 2	blood
-12033109				Kenya	3 years	20030613	negative	0	2.23E+11		NA	week 2	blood
-12033201				Kenya	50 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-12040706				Kenya	26 years	20030609	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-12040707				Kenya	13 years	20030609	positive	6	1.22E+11	week 6	week 11+	week 12	blood
-12040801				Kenya	41 years	20030609	negative	0	2.22E+11	week 8	week 11+	week 12	blood
-12040804				Kenya	6 years	20030609	negative	0	2.22E+11	week 9	week 11+	week 12	blood
-12040902				Kenya	13 years	20030609	positive	2	1.23E+11		NA	week 2	blood
-12040903				Kenya	9 years	20030609	positive	21	1.22E+11	week 7	week 11+	week 12	blood
-12040905				Kenya	25 years	20030610	positive	2	1.22E+11	week 6	week 11+	week 12	blood
-12041008				Kenya	27 years	20030610	positive	4	1.22E+11	week 9	week 11+	week 12	blood
-12041101				Kenya	34 years	20030609	negative	0	2.22E+11	week 8	week 11+	week 12	blood
-12041103				Kenya	9 years	20030609	positive	450	1.22E+11	week 3	week 11+	week 12	blood
-12200401				Kenya	53 years	20030609	positive	2	1.22E+11	week 11+	week 11+	week 12	blood
-12200402				Kenya	10 years	20030609	positive	30	1.22E+11	week 7	week 11+	week 12	blood
-12200403				Kenya	9 years	20030609	positive	5	1.22E+11	week 7	week 11+	week 12	blood
-12200404				Kenya	9 years	20030609	positive	1200	1.22E+11	week 3	week 4	week 12	blood
-12200405				Kenya	8 years	20030609	positive	4	1.22E+11	week 5	week 11+	week 12	blood
-12200901				Kenya	29 years	20030609	negative	0	2.22E+11	week 5	week 11+	week 12	blood
-12200902				Kenya	27 years	20030609	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-12200903				Kenya	8 years	20030609	positive	40	1.22E+11	week 6	week 11+	week 12	blood
-12200904				Kenya	5 years	20030609	positive	85	1.22E+11	week 8	week 11+	week 12	blood
-13041908				Kenya	8 years	20030609	positive	76	1.22E+11	week 4	week 11+	week 12	blood
-13042104				Kenya	18 years	20030610	positive	8	1.22E+11	week 5	week 11+	week 12	blood
-13042106				Kenya	13 years	20030609	positive	97	1.22E+11	week 6	week 11+	week 12	blood
-13042107				Kenya	7 years	20030609	positive	60	1.22E+11	week 5	week 9	week 12	blood
-13042206				Kenya	11 years	20030609	positive	87	1.22E+11	week 5	week 11+	week 12	blood
-13042207				Kenya	5 years	20030609	positive	10	1.22E+11	week 4	week 6	week 12	blood
-13042404				Kenya	17 years	20030609	positive	20	1.23E+11	week 8	week 11+	week 12	blood
-13042501				Kenya	56 years	20030609	positive	2	1.22E+11	week 11+	week 11+	week 12	blood
-13042502				Kenya	52 years	20030609	positive	4	1.22E+11	week 11	week 11	week 12	blood
-13042505				Kenya	29 years	20030609	positive	2	1.22E+11	week 8	week 11+	week 12	blood
-13042704				Kenya	24 years	20030610	negative	0	2.22E+11	week 8	week 11+	week 12	blood
-13042705				Kenya	7 years	20030609	positive	31	1.22E+11	week 5	week 11+	week 12	blood
-13042706				Kenya	5 years	20030609	positive	33	1.22E+11	week 3	week 11+	week 12	blood
-13043002				Kenya	47 years	20030610	negative	0	2.22E+11	week 6	week 11+	week 12	blood
-13043004				Kenya	18 years	20030610	positive	22	1.23E+11	week 11+	week 11+	week 12	blood
-13043006				Kenya	11 years	20030609	positive	22	1.22E+11	week 10	week 11+	week 12	blood
-13043007				Kenya	6 years	20030609	positive	5	1.22E+11	week 4	week 11+	week 12	blood
-13043102				Kenya	43 years	20030610	negative	0	2.12E+11	week 11+	week 11+	week 12	blood
-13043201				Kenya	61 years	20030613	negative	0	2.22E+11	week 8	week 11+	week 12	blood
-13043202				Kenya	1 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-13043203				Kenya	25 years	20030610	negative	0	2.23E+11	week 11+	week 11+	week 12	blood
-13043301				Kenya	41 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-13043304				Kenya	7 years	20030609	positive	5	1.22E+11	week 4	week 11+	week 12	blood
-13044301				Kenya	31 years	20030610	negative	0	2.22E+11		NA	week 4	blood
-13044302				Kenya	28 years	20030610	negative	0	2.22E+11	week 6	week 11+	week 12	blood
-13044303				Kenya	8 years	20030609	negative	0	2.22E+11	week 4	week 4	week 12	blood
-13044304				Kenya	7 years	20030609	negative	0	2.22E+11	week 8	week 8	week 12	blood
-13045001				Kenya	54 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-13045002				Kenya	34 years	20030610	negative	0	2.22E+11	week 11	week 11+	week 12	blood
-13045502				Kenya	21 years	20030613	negative	0	2.22E+11		NA	week 9	blood
-13047002				Kenya	28 years	20030610	positive	4	1.22E+11	week 10	week 11+	week 12	blood
-13047003				Kenya	10 years	20030609	positive	89	1.22E+11		NA	week 4	blood
-13047004				Kenya	8 years	20030609	positive	32	1.22E+11	week 5	week 11+	week 12	blood
-13047005				Kenya	5 years	20030609	positive	245	1.22E+11	week 3	week 11+	week 12	blood
-13047101				Kenya	41 years	20030610	positive	6	1.22E+11	week 7	week 11+	week 12	blood
-13047104				Kenya	17 years	20030610	positive	5	1.22E+11	week 5	week 11+	week 12	blood
-13047304				Kenya	34 years	20030610	positive	128	1.20E+11	week 11+	week 11+	week 12	blood
-13047401				Kenya	57 years	20030610	positive	33	1.92E+11	week 8	week 11+	week 12	blood
-13047502				Kenya	47 years	20030610	positive	10	1.22E+11	week 9	week 11+	week 12	blood
-13048002				Kenya	40 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-13048006				Kenya	11 years	20030609	positive	63	1.22E+11	week 5	week 11+	week 12	blood
-13048007				Kenya	9 years	20030609	positive	64	1.22E+11	week 11	week 11+	week 12	blood
-13048008				Kenya	7 years	20030609	positive	108	1.22E+11	week 7	week 4	week 12	blood
-13048302				Kenya	49 years	20030610	negative	0	2.22E+11	week 11	week 11+	week 12	blood
-13048404				Kenya	19 years	20030610	positive	9	1.23E+11	week 8	week 11+	week 12	blood
-13048408				Kenya	8 years	20030609	positive	20	1.22E+11	week 5	week 11+	week 12	blood
-13048507				Kenya	11 years	20030613	positive	8	1.22E+11	week 8	week 11+	week 12	blood
-13048508				Kenya	9 years	20030613	positive	33	1.22E+11	week 6	week 11+	week 12	blood
-13048801				Kenya	36 years	20030613	negative	0	2.22E+11	week 9	week 11+	week 12	blood
-14058801				Kenya	77 years	20030612	negative	0	2.92E+11		NA	week 3	blood
-14058902				Kenya	30 years	20030612	negative	0	2.22E+11	week 7	week 11+	week 12	blood
-14058905				Kenya	12 years	20030612	negative	0	2.22E+11		NA	week 7	blood
-14058906				Kenya	10 years	20030612	negative	0	2.22E+11	week 6	week 11+	week 12	blood
-14058907				Kenya	6 years	20030612	negative	0	2.22E+11	week 9	week 11+	week 12	blood
-14059601				Kenya	54 years	20030612	negative	0	2.22E+11	week 9	week 11+	week 12	blood
-14059602				Kenya	47 years	20030612	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-14059610				Kenya	11 years	20030612	positive	20	1.22E+11	week 4	week 7	week 12	blood
-14059611				Kenya	9 years	20030612	positive	210	1.22E+11	week 6	week 8	week 12	blood
-14059612				Kenya	11 years	20030612	positive	15	1.22E+11	week 6	week 7	week 12	blood
-14059616				Kenya	5 years	20030612	positive	165	1.22E+11	week 5	week 6	week 12	blood
-14059701				Kenya	41 years	20030612	negative	0	2.22E+11	week 6	week 11+	week 12	blood
-14059705				Kenya	9 years	20030612	positive	2	1.22E+11	week 4	week 111+	week 12	blood
-14059706				Kenya	6 years	20030612	positive	4	1.22E+11	week 5	week 11+	week 12	blood
-14061802				Kenya	25 years	20030612	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-14062003				Kenya	11 years	20030612	positive	20	1.22E+11	week 5	week 11+	week 12	blood
-14062108				Kenya	6 years	20030612	positive	85	1.22E+11	week 5	week 11+	week 12	blood
-14062206				Kenya	12 years	20030612	positive	6	1.22E+11	week 6	week 11+	week 12	blood
-14062401				Kenya	34 years	20030612	negative	0	2.22E+11	week 7	week 7	week 12	blood
-15059901				Kenya	63 years	20030612	negative	0	2.93E+11	week 11+	week 11+	week 12	blood
-15059902				Kenya	57 years	20030612	negative	0	2.23E+11	week 11+	week 11+	week 12	blood
-15059903				Kenya	12 years	20030612	positive	20	1.92E+11	week 7	week 11+	week 12	blood
-15059906				Kenya	4 years	20030612	negative	0	2.23E+11	week 4	week 11+	week 12	blood
-15059907				Kenya	2 years	20030612	positive	38	1.23E+11	week 7	week 7	week 12	blood
-15060001				Kenya	41 years	20030612	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-15060005				Kenya	9 years	20030612	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-15060006				Kenya	7 years	20030612	positive	154	1.22E+11	week 5	week 11+	week 12	blood
-15060007				Kenya	4 years	20030612	negative	0	2.22E+11	week 5	week 11+	week 12	blood
-15060010				Kenya	19 years	20030612	negative	0	2.23E+11	week 5	week 11+	week 12	blood
-15060201				Kenya	63 years	20030612	positive	22	1.23E+11	week 11+	week 11+	week 12	blood
-15060204				Kenya	12 years	20030612	positive	25	1.22E+11	week 11+	week 11+	week 12	blood
-15060209				Kenya	10 years	20030612	negative	0	2.22E+11	week 5	week 111+	week 12	blood
-15060210				Kenya	4 years	20030612	positive	190	1.22E+11	week 4	week 5	week 12	blood
-15060702				Kenya	38 years	20030612	negative	0	2.92E+11	week 11+	week 11+	week 12	blood
-15060703				Kenya	16 years	20030612	positive	2	1.22E+11	week 7	week 11+	week 12	blood
-15060706				Kenya	7 years	20030612	positive	20	1.22E+11	week 4	week 8	week 12	blood
-15060707				Kenya	4 years	20030612	positive	134	1.92E+11	week 5	week 11+	week 12	blood
-15063601				Kenya	45 years	20030612	negative	0	2.93E+11	week 7	week 11+	week 12	blood
-15063701				Kenya	43 years	20030612	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-15063707				Kenya	6 years	20030612	positive	65	1.92E+11	week 5	week 11+	week 12	blood
-16068201				Kenya	47 years	20030613	negative	0	2.22E+11	week 6	week 11+	week 12	blood
-16069001				Kenya	71 years	20030613	negative	0	2.22E+11	week 7	week 111+	week 12	blood
-16069101				Kenya	41 years	20030613	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-16069201				Kenya	34 years	20030613	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-16069203				Kenya	12 years	20030613	positive	3	1.22E+11	week 11	week 11+	week 12	blood
-16069204				Kenya	9 years	20030613	positive	314	1.22E+11	week 5	week 11+	week 12	blood
-16069205				Kenya	7 years	20030613	positive	4	1.22E+11	week 4	week 11+	week 12	blood
-16069206				Kenya	3 years	20030613	negative	0	2.22E+11	week 4	week 11+	week 12	blood
-16069207				Kenya	1 years	20030613	positive	2	1.22E+11	week 7	week 8	week 12	blood
-16069605				Kenya	7 years	20030613	positive	244	1.22E+11	week 4	week 7	week 12	blood
-16069606				Kenya	5 years	20030613	positive	24	1.22E+11	week 4	week 5	week 12	blood
-16070701				Kenya	34 years	20030613	negative	0	2.92E+11	week 11+	week 11+	week 12	blood
-16070702				Kenya	29 years	20030613	negative	0	2.22E+11	week 11+	week 11+	week 12	blood
-16070705				Kenya	4 years	20030613	positive	40	1.22E+11	week 3	week 11+	week 12	blood
-16070801				Kenya	33 years	20030613	positive	2	1.22E+11	week 11+	week 11+	week 12	blood
-16070802				Kenya	25 years	20030613	positive	2	1.91E+11	week 11+	week 11+	week 12	blood
-16070804				Kenya	4 years	20030613	positive	570	1.22E+11	week 3	week 7	week 12	blood
-16071001				Kenya	27 years	20030613	negative	0	2.23E+11	week 4	week 11+	week 12	blood
-16071002				Kenya	24 years	20030613	positive	2	1.22E+11	week 7	week 11+	week 12	blood
+Name	Description	sourcemtoverride	samplemtoverride	Characteristics [country]	Characteristics [age]	Specimen collection date	Characteristics [microscopy_result]	Characteristics [parasite_density_by_microscope]	Characteristics [blood_smear_summary]	Characteristics [time_to_reinfection]	Characteristics [time_to_first_malaria_dx]	Characteristics [end_of_observation_period]	Characteristics [specimen]	Characteristics [parasite organism]	Characteristics [parasite strain]
+11003402				Kenya	34 years	20030611	positive	2	1.22E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11003406				Kenya	2 years	20030611	positive	277	1.22E+11	week 4	week 8	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11004703				Kenya	18 years	20030611	negative	0	2.93E+11	week 11	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11004802				Kenya	7 years	20030611	positive	72	1.93E+11	week 11	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11005407				Kenya	15 years	20030611	negative	0	2.23E+11		NA	week 10	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11008202				Kenya	39 years	20030611	positive	2	1.23E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11008204				Kenya	12 years	20030611	positive	10	1.23E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11008206				Kenya	5 years	20030611	positive	78	1.23E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11008404				Kenya	24 years	20030613	negative	0	2.22E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11009702				Kenya	41 years	20030611	negative	0	2.23E+11	week 10	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11009707				Kenya	7 years	20030611	positive	62	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11011006				Kenya	9 years	20030611	negative	0	2.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11011007				Kenya	6 years	20030611	positive	2	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11011008				Kenya	1 years	20030611	negative	0	2.22E+11	week 3	week 5	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11014401				Kenya	47 years	20030611	negative	0	2.23E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11014402				Kenya	36 years	20030611	negative	0	2.22E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11014801				Kenya	34 years	20030611	positive	4	1.22E+11	week 10	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11015301				Kenya	63 years	20030611	positive	14	1.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016301				Kenya	40 years	20030611	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016305				Kenya	5 years	20030611	positive	112	1.22E+11	week 9	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016401				Kenya	52 years	20030611	positive	2	1.23E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016501				Kenya	34 years	20030611	positive	2	1.23E+11	week 11	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016504				Kenya	9 years	20030611	positive	63	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016505				Kenya	6 years	20030611	positive	16	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016507				Kenya	2 years	20030611	positive	568	1.22E+11	week 3	week 7	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016602				Kenya	51 years	20030611	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016801				Kenya	37 years	20030611	positive	5	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016803				Kenya	14 years	20030611	positive	2	1.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016902				Kenya	27 years	20030611	positive	14	1.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016903				Kenya	6 years	20030611	positive	277	1.23E+11		NA	week 6	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11016904				Kenya	3 years	20030611	positive	20	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11017002				Kenya	29 years	20030611	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11017005				Kenya	11 years	20030611	positive	7	1.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11017007				Kenya	3 years	20030611	positive	328	1.22E+11	week 3	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11019102				Kenya	37 years	20030611	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11020906				Kenya	5 years	20030611	positive	365	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11021201				Kenya	50 years	20030611	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11022004				Kenya	11 years	20030611	positive	17	1.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11022602				Kenya	63 years	20030611	positive	10	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11101801				Kenya	45 years	20030611	negative	0	2.22E+11	week 10	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11101802				Kenya	14 years	20030611	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11101803				Kenya	9 years	20030611	positive	5	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11102606				Kenya	11 years	20030611	positive	168	1.23E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11104302				Kenya	21 years	20030611	positive	3	1.22E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+11104303				Kenya	23 years	20030611	positive	3	1.22E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12027302				Kenya	49 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12027401				Kenya	68 years	20030610	negative	0	2.23E+11		NA	week 2	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12027501				Kenya	44 years	20030613	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12027503				Kenya	15 years	20030610	negative	0	2.22E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028001				Kenya	54 years	20030609	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028002				Kenya	48 years	20030610	negative	0	2.22E+11	week 9	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028007				Kenya	10 years	20030609	positive	5	1.22E+11	week 9	week 9	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028009				Kenya	4 years	20030609	positive	811	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028101				Kenya	38 years	20030609	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028103				Kenya	12 years	20030609	positive	12	1.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028105				Kenya	9 years	20030609	negative	0	2.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028301				Kenya	25 years	20030610	positive	11	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028302				Kenya	10 years	20030609	positive	52	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028304				Kenya	5 years	20030613	negative	0	2.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028401				Kenya	67 years	20030610	negative	0	2.23E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028409				Kenya	8 years	20030609	positive	100	1.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028411				Kenya	26 years	20030609	negative	0	2.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028502				Kenya	45 years	20030609	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028507				Kenya	9 years	20030613	positive	50	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028508				Kenya	9 years	20030613	positive	202	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028801				Kenya	78 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028802				Kenya	68 years	20030610	negative	0	2.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12028901				Kenya	50 years	20030610	negative	0	2.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12029315				Kenya	5 years	20030613	positive	196	1.22E+11	week 3	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12029316				Kenya	3 years	20030613	positive	167	1.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12033101				Kenya	75 years	20030613	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12033108				Kenya	26 years	20030610	positive	12	1.23E+11		NA	week 2	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12033109				Kenya	3 years	20030613	negative	0	2.23E+11		NA	week 2	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12033201				Kenya	50 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12040706				Kenya	26 years	20030609	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12040707				Kenya	13 years	20030609	positive	6	1.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12040801				Kenya	41 years	20030609	negative	0	2.22E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12040804				Kenya	6 years	20030609	negative	0	2.22E+11	week 9	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12040902				Kenya	13 years	20030609	positive	2	1.23E+11		NA	week 2	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12040903				Kenya	9 years	20030609	positive	21	1.22E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12040905				Kenya	25 years	20030610	positive	2	1.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12041008				Kenya	27 years	20030610	positive	4	1.22E+11	week 9	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12041101				Kenya	34 years	20030609	negative	0	2.22E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12041103				Kenya	9 years	20030609	positive	450	1.22E+11	week 3	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12200401				Kenya	53 years	20030609	positive	2	1.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12200402				Kenya	10 years	20030609	positive	30	1.22E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12200403				Kenya	9 years	20030609	positive	5	1.22E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12200404				Kenya	9 years	20030609	positive	1200	1.22E+11	week 3	week 4	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12200405				Kenya	8 years	20030609	positive	4	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12200901				Kenya	29 years	20030609	negative	0	2.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12200902				Kenya	27 years	20030609	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12200903				Kenya	8 years	20030609	positive	40	1.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+12200904				Kenya	5 years	20030609	positive	85	1.22E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13041908				Kenya	8 years	20030609	positive	76	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13042104				Kenya	18 years	20030610	positive	8	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13042106				Kenya	13 years	20030609	positive	97	1.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13042107				Kenya	7 years	20030609	positive	60	1.22E+11	week 5	week 9	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13042206				Kenya	11 years	20030609	positive	87	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13042207				Kenya	5 years	20030609	positive	10	1.22E+11	week 4	week 6	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13042404				Kenya	17 years	20030609	positive	20	1.23E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13042501				Kenya	56 years	20030609	positive	2	1.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13042502				Kenya	52 years	20030609	positive	4	1.22E+11	week 11	week 11	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13042505				Kenya	29 years	20030609	positive	2	1.22E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13042704				Kenya	24 years	20030610	negative	0	2.22E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13042705				Kenya	7 years	20030609	positive	31	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13042706				Kenya	5 years	20030609	positive	33	1.22E+11	week 3	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13043002				Kenya	47 years	20030610	negative	0	2.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13043004				Kenya	18 years	20030610	positive	22	1.23E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13043006				Kenya	11 years	20030609	positive	22	1.22E+11	week 10	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13043007				Kenya	6 years	20030609	positive	5	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13043102				Kenya	43 years	20030610	negative	0	2.12E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13043201				Kenya	61 years	20030613	negative	0	2.22E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13043202				Kenya	1 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13043203				Kenya	25 years	20030610	negative	0	2.23E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13043301				Kenya	41 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13043304				Kenya	7 years	20030609	positive	5	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13044301				Kenya	31 years	20030610	negative	0	2.22E+11		NA	week 4	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13044302				Kenya	28 years	20030610	negative	0	2.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13044303				Kenya	8 years	20030609	negative	0	2.22E+11	week 4	week 4	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13044304				Kenya	7 years	20030609	negative	0	2.22E+11	week 8	week 8	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13045001				Kenya	54 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13045002				Kenya	34 years	20030610	negative	0	2.22E+11	week 11	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13045502				Kenya	21 years	20030613	negative	0	2.22E+11		NA	week 9	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13047002				Kenya	28 years	20030610	positive	4	1.22E+11	week 10	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13047003				Kenya	10 years	20030609	positive	89	1.22E+11		NA	week 4	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13047004				Kenya	8 years	20030609	positive	32	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13047005				Kenya	5 years	20030609	positive	245	1.22E+11	week 3	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13047101				Kenya	41 years	20030610	positive	6	1.22E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13047104				Kenya	17 years	20030610	positive	5	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13047304				Kenya	34 years	20030610	positive	128	1.20E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13047401				Kenya	57 years	20030610	positive	33	1.92E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13047502				Kenya	47 years	20030610	positive	10	1.22E+11	week 9	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13048002				Kenya	40 years	20030610	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13048006				Kenya	11 years	20030609	positive	63	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13048007				Kenya	9 years	20030609	positive	64	1.22E+11	week 11	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13048008				Kenya	7 years	20030609	positive	108	1.22E+11	week 7	week 4	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13048302				Kenya	49 years	20030610	negative	0	2.22E+11	week 11	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13048404				Kenya	19 years	20030610	positive	9	1.23E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13048408				Kenya	8 years	20030609	positive	20	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13048507				Kenya	11 years	20030613	positive	8	1.22E+11	week 8	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13048508				Kenya	9 years	20030613	positive	33	1.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+13048801				Kenya	36 years	20030613	negative	0	2.22E+11	week 9	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14058801				Kenya	77 years	20030612	negative	0	2.92E+11		NA	week 3	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14058902				Kenya	30 years	20030612	negative	0	2.22E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14058905				Kenya	12 years	20030612	negative	0	2.22E+11		NA	week 7	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14058906				Kenya	10 years	20030612	negative	0	2.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14058907				Kenya	6 years	20030612	negative	0	2.22E+11	week 9	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14059601				Kenya	54 years	20030612	negative	0	2.22E+11	week 9	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14059602				Kenya	47 years	20030612	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14059610				Kenya	11 years	20030612	positive	20	1.22E+11	week 4	week 7	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14059611				Kenya	9 years	20030612	positive	210	1.22E+11	week 6	week 8	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14059612				Kenya	11 years	20030612	positive	15	1.22E+11	week 6	week 7	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14059616				Kenya	5 years	20030612	positive	165	1.22E+11	week 5	week 6	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14059701				Kenya	41 years	20030612	negative	0	2.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14059705				Kenya	9 years	20030612	positive	2	1.22E+11	week 4	week 111+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14059706				Kenya	6 years	20030612	positive	4	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14061802				Kenya	25 years	20030612	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14062003				Kenya	11 years	20030612	positive	20	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14062108				Kenya	6 years	20030612	positive	85	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14062206				Kenya	12 years	20030612	positive	6	1.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+14062401				Kenya	34 years	20030612	negative	0	2.22E+11	week 7	week 7	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15059901				Kenya	63 years	20030612	negative	0	2.93E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15059902				Kenya	57 years	20030612	negative	0	2.23E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15059903				Kenya	12 years	20030612	positive	20	1.92E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15059906				Kenya	4 years	20030612	negative	0	2.23E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15059907				Kenya	2 years	20030612	positive	38	1.23E+11	week 7	week 7	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060001				Kenya	41 years	20030612	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060005				Kenya	9 years	20030612	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060006				Kenya	7 years	20030612	positive	154	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060007				Kenya	4 years	20030612	negative	0	2.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060010				Kenya	19 years	20030612	negative	0	2.23E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060201				Kenya	63 years	20030612	positive	22	1.23E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060204				Kenya	12 years	20030612	positive	25	1.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060209				Kenya	10 years	20030612	negative	0	2.22E+11	week 5	week 111+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060210				Kenya	4 years	20030612	positive	190	1.22E+11	week 4	week 5	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060702				Kenya	38 years	20030612	negative	0	2.92E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060703				Kenya	16 years	20030612	positive	2	1.22E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060706				Kenya	7 years	20030612	positive	20	1.22E+11	week 4	week 8	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15060707				Kenya	4 years	20030612	positive	134	1.92E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15063601				Kenya	45 years	20030612	negative	0	2.93E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15063701				Kenya	43 years	20030612	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+15063707				Kenya	6 years	20030612	positive	65	1.92E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16068201				Kenya	47 years	20030613	negative	0	2.22E+11	week 6	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16069001				Kenya	71 years	20030613	negative	0	2.22E+11	week 7	week 111+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16069101				Kenya	41 years	20030613	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16069201				Kenya	34 years	20030613	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16069203				Kenya	12 years	20030613	positive	3	1.22E+11	week 11	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16069204				Kenya	9 years	20030613	positive	314	1.22E+11	week 5	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16069205				Kenya	7 years	20030613	positive	4	1.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16069206				Kenya	3 years	20030613	negative	0	2.22E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16069207				Kenya	1 years	20030613	positive	2	1.22E+11	week 7	week 8	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16069605				Kenya	7 years	20030613	positive	244	1.22E+11	week 4	week 7	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16069606				Kenya	5 years	20030613	positive	24	1.22E+11	week 4	week 5	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16070701				Kenya	34 years	20030613	negative	0	2.92E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16070702				Kenya	29 years	20030613	negative	0	2.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16070705				Kenya	4 years	20030613	positive	40	1.22E+11	week 3	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16070801				Kenya	33 years	20030613	positive	2	1.22E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16070802				Kenya	25 years	20030613	positive	2	1.91E+11	week 11+	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16070804				Kenya	4 years	20030613	positive	570	1.22E+11	week 3	week 7	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16071001				Kenya	27 years	20030613	negative	0	2.23E+11	week 4	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
+16071002				Kenya	24 years	20030613	positive	2	1.22E+11	week 7	week 11+	week 12	blood	Plasmodium falciparum	Plasmodium falciparum 3D7
