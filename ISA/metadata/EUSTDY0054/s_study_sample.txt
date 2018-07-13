@@ -64,5 +64,5 @@ B5773_Brazil				specimen from organism		Coccidioides posadasii			Brazil		CDC
 GT017_Paraguay				specimen from organism		Coccidioides posadasii			Paraguay		University of California, Irvine
 GT002_Texas				specimen from organism		Coccidioides posadasii	Texas		USA		University of California, Irvine
 730332_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC
-730333_Guatelama				specimen from organism		Coccidioides posadasii			Guatemala		CDC
+730333_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC
 730334_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC
