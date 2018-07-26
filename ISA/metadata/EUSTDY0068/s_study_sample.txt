@@ -1,0 +1,2 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[parasite organism]	specimen collection year	Characteristics[parasite strain]
+P01_resequence1	Plasmodium vivax natural genome variation - Source_ID : ERR034096			Plasmodium vivax	2011	Plasmodium vivax P01
