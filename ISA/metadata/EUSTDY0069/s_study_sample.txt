@@ -1,83 +1,83 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Specimen Collection Date	Characteristics[country]	Characteristics[city]	Characteristics [organism]	Characteristics [host_disease]	Characteristics [specimen]	latitude	Characteristics [fungal strain]
-B12301	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Meal table	4.642541 N 74.10593 W	Candida auris B12301
-B11800	Aligned genome sequence reads of Candida auris isolates			17-Feb-16	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11800
-B12302	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Chair	4.642541 N 74.10593 W	Candida auris B12302
-B11799	Aligned genome sequence reads of Candida auris isolates			27-Nov-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11799
-B12317	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Floor	10.42505 N 75.53837 W	Candida auris B12317
-B12294	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Cell phone	4.642541 N 74.10593 W	Candida auris B12294
-B12310	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Sink	4.642541 N 74.10593 W	Candida auris B12310
-B11777	Aligned genome sequence reads of Candida auris isolates			1-Feb-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11777
-B11852	Aligned genome sequence reads of Candida auris isolates			1-Jun-16	Colombia	Bogota	Homo sapiens	Candidemia	blood	4.642541 N 74.10593 W	Candida auris B11852
-B12299	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Mop	4.642541 N 74.10593 W	Candida auris B12299
-B12338	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Barranquilla	Homo sapiens	Candida colonization	Rectum	10.98268 N 74.83019 W	Candida auris B12338
-B11787	Aligned genome sequence reads of Candida auris isolates			2-Jul-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11787
-B12306	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Closet	4.642541 N 74.10593 W	Candida auris B12306
-B12323	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Mattress	10.42505 N 75.53837 W	Candida auris B12323
-B12290	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Bed rail	4.642541 N 74.10593 W	Candida auris B12290
-B11788	Aligned genome sequence reads of Candida auris isolates			5-Aug-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11788
-B11851	Aligned genome sequence reads of Candida auris isolates			1-Jun-16	Colombia	Bogota	Homo sapiens	Candidemia	blood	4.642541 N 74.10593 W	Candida auris B11851
-B11850	Aligned genome sequence reads of Candida auris isolates			1-Jun-16	Colombia	Bogota	Homo sapiens	Candidemia	blood	4.642541 N 74.10593 W	Candida auris B11850
-B12296	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Mattress	4.642541 N 74.10593 W	Candida auris B12296
-B12329	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena	Homo sapiens	Candida colonization	Groin composite	10.42505 N 75.53837 W	Candida auris B12329
-B11778	Aligned genome sequence reads of Candida auris isolates			6-Feb-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11778
-B12316	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota	Homo sapiens	Candida colonization	Right groin	4.642541 N 74.10593 W	Candida auris B12316
-B12333	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Barranquilla	Homo sapiens	Candida colonization	Right armpit	10.98268 N 74.83019 W	Candida auris B12333
-B11781	Aligned genome sequence reads of Candida auris isolates			19-Apr-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11781
-B12293	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Towel	4.642541 N 74.10593 W	Candida auris B12293
-B11780	Aligned genome sequence reads of Candida auris isolates			16-Apr-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11780
-B12303	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Sink	4.642541 N 74.10593 W	Candida auris B12303
-B11790	Aligned genome sequence reads of Candida auris isolates			31-Aug-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11790
-B12336	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Barranquilla	Homo sapiens	Candida colonization	Left nostril	10.98268 N 74.83019 W	Candida auris B12336
-B12328	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena	Homo sapiens	Candida colonization	Right armpit	10.42505 N 75.53837 W	Candida auris B12328
-B12331	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena	Homo sapiens	Candida colonization	Hands	10.42505 N 75.53837 W	Candida auris B12331
-B12295	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Bedpan	4.642541 N 74.10593 W	Candida auris B12295
-B12309	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Nurse shoes	4.642541 N 74.10593 W	Candida auris B12309
-B12327	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena	Homo sapiens	Candida colonization	Left armpit	10.42505 N 75.53837 W	Candida auris B12327
-B12305	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Wheelchair	4.642541 N 74.10593 W	Candida auris B12305
-B11785	Aligned genome sequence reads of Candida auris isolates			1-Jul-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11785
-B12311	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Door	4.642541 N 74.10593 W	Candida auris B12311
-B12332	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Barranquilla	Homo sapiens	Candida colonization	Right ear	10.98268 N 74.83019 W	Candida auris B12332
-B12342	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Stethoscope	10.42505 N 75.53837 W	Candida auris B12342
-B12291	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Night table	4.642541 N 74.10593 W	Candida auris B12291
-B11806	Aligned genome sequence reads of Candida auris isolates			20-May-16	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11806
-B11797	Aligned genome sequence reads of Candida auris isolates			9-Oct-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11797
-B11789	Aligned genome sequence reads of Candida auris isolates			13-Aug-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11789
-B12319	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Body cables	10.42505 N 75.53837 W	Candida auris B12319
-B11807	Aligned genome sequence reads of Candida auris isolates			24-May-16	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11807
-B12320	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Bed	10.42505 N 75.53837 W	Candida auris B12320
-B11844	Aligned genome sequence reads of Candida auris isolates			1-Jul-16	Colombia	Cartagena	Homo sapiens	Candidemia	blood	10.42505 N 75.53837 W	Candida auris B11844
-B11802	Aligned genome sequence reads of Candida auris isolates			15-Mar-16	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11802
-B12315	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota	Homo sapiens	Candida colonization	Rectum	4.642541 N 74.10593 W	Candida auris B12315
-B11805	Aligned genome sequence reads of Candida auris isolates			18-Mar-16	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11805
-B12297	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Chair. towel	4.642541 N 74.10593 W	Candida auris B12297
-B12330	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena	Homo sapiens	Candida colonization	Hands	10.42505 N 75.53837 W	Candida auris B12330
-B12322	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Bed rail	10.42505 N 75.53837 W	Candida auris B12322
-B11793	Aligned genome sequence reads of Candida auris isolates			4-Sep-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11793
-B11791	Aligned genome sequence reads of Candida auris isolates			31-Aug-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11791
-B12300	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			TV control	4.642541 N 74.10593 W	Candida auris B12300
-B12312	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Bedpan	4.642541 N 74.10593 W	Candida auris B12312
-B11782	Aligned genome sequence reads of Candida auris isolates			8-May-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11782
-B11847	Aligned genome sequence reads of Candida auris isolates			1-Jul-16	Colombia	Cartagena	Homo sapiens	Candidemia	blood	10.42505 N 75.53837 W	Candida auris B11847
-B11848	Aligned genome sequence reads of Candida auris isolates			1-Jul-16	Colombia	Cartagena	Homo sapiens	Candidemia	blood	10.42505 N 75.53837 W	Candida auris B11848
-B11846	Aligned genome sequence reads of Candida auris isolates			1-Jul-16	Colombia	Cartagena	Homo sapiens	Candidemia	blood	10.42505 N 75.53837 W	Candida auris B11846
-B12314	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota	Homo sapiens	Candida colonization	Left groin	4.642541 N 74.10593 W	Candida auris B12314
-B11795	Aligned genome sequence reads of Candida auris isolates			8-Sep-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11795
-B12308	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Floor	4.642541 N 74.10593 W	Candida auris B12308
-B12321	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Equipment	10.42505 N 75.53837 W	Candida auris B12321
-B12289	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Floor	4.642541 N 74.10593 W	Candida auris B12289
-B12292	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Closet	4.642541 N 74.10593 W	Candida auris B12292
-B11779	Aligned genome sequence reads of Candida auris isolates			11-Feb-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11779
-B11783	Aligned genome sequence reads of Candida auris isolates			16-Jun-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11783
-B11794	Aligned genome sequence reads of Candida auris isolates			7-Sep-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N 74.83019 W	Candida auris B11794
-B11856	Aligned genome sequence reads of Candida auris isolates			1-Jun-16	Colombia	Bogota	Homo sapiens	Candidemia	blood	4.642541 N 74.10593 W	Candida auris B11856
-B12318	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Equipment	10.42505 N 75.53837 W	Candida auris B12318
-B12307	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Mop bucket	4.642541 N 74.10593 W	Candida auris B12307
-B12337	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Barranquilla	Homo sapiens	Candida colonization	Left armpit	10.98268 N 74.83019 W	Candida auris B12337
-B12326	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Stretcher	10.42505 N 75.53837 W	Candida auris B12326
-B12324	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Body cables	10.42505 N 75.53837 W	Candida auris B12324
-B12335	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Barranquilla	Homo sapiens	Candida colonization	Left ear	10.98268 N 74.83019 W	Candida auris B12335
-B12287	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Floor	4.642541 N 74.10593 W	Candida auris B12287
-B12325	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Bed rails	10.42505 N 75.53837 W	Candida auris B12325
-B11849	Aligned genome sequence reads of Candida auris isolates			1-Jun-16	Colombia	Bogota	Homo sapiens	Candidemia	blood	4.642541 N 74.10593 W	Candida auris B11849
-B12304	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Toilet	4.642541 N 74.10593 W	Candida auris B12304
-B12298	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Bedpan	4.642541 N 74.10593 W	Candida auris B12298
+Name	Description	SourceMTOverride	SampleMTOverride	Specimen Collection Date	Characteristics[country]	Characteristics[city]	Characteristics [organism]	Characteristics [health_status]	Characteristics [specimen]	latitude	longitude	Characteristics [fungus organism]	Characteristics [fungal strain]
+B12301	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Meal table swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12301
+B11800	Aligned genome sequence reads of Candida auris isolates			17-Feb-16	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11800
+B12302	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Chair swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12302
+B11799	Aligned genome sequence reads of Candida auris isolates			27-Nov-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11799
+B12317	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Floor swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12317
+B12294	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Cell phone swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12294
+B12310	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Sink swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12310
+B11777	Aligned genome sequence reads of Candida auris isolates			1-Feb-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11777
+B11852	Aligned genome sequence reads of Candida auris isolates			1-Jun-16	Colombia	Bogota	Homo sapiens	Candidemia	blood	4.642541 N	74.10593 W	Candida auris	Candida auris B11852
+B12299	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Mop swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12299
+B12338	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Barranquilla	Homo sapiens	Candida colonization	Rectum swab	10.98268 N	74.83019 W	Candida auris	Candida auris B12338
+B11787	Aligned genome sequence reads of Candida auris isolates			2-Jul-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11787
+B12306	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Closet swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12306
+B12323	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Mattress swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12323
+B12290	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Bed rail swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12290
+B11788	Aligned genome sequence reads of Candida auris isolates			5-Aug-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11788
+B11851	Aligned genome sequence reads of Candida auris isolates			1-Jun-16	Colombia	Bogota	Homo sapiens	Candidemia	blood	4.642541 N	74.10593 W	Candida auris	Candida auris B11851
+B11850	Aligned genome sequence reads of Candida auris isolates			1-Jun-16	Colombia	Bogota	Homo sapiens	Candidemia	blood	4.642541 N	74.10593 W	Candida auris	Candida auris B11850
+B12296	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Mattress swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12296
+B12329	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena	Homo sapiens	Candida colonization	Groin composite swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12329
+B11778	Aligned genome sequence reads of Candida auris isolates			6-Feb-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11778
+B12316	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota	Homo sapiens	Candida colonization	Right groin swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12316
+B12333	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Barranquilla	Homo sapiens	Candida colonization	Right armpit swab	10.98268 N	74.83019 W	Candida auris	Candida auris B12333
+B11781	Aligned genome sequence reads of Candida auris isolates			19-Apr-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11781
+B12293	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Towel swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12293
+B11780	Aligned genome sequence reads of Candida auris isolates			16-Apr-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11780
+B12303	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Sink swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12303
+B11790	Aligned genome sequence reads of Candida auris isolates			31-Aug-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11790
+B12336	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Barranquilla	Homo sapiens	Candida colonization	Left nostril swab	10.98268 N	74.83019 W	Candida auris	Candida auris B12336
+B12328	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena	Homo sapiens	Candida colonization	Right armpit swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12328
+B12331	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena	Homo sapiens	Candida colonization	Hands swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12331
+B12295	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Bedpan swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12295
+B12309	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Nurse shoes swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12309
+B12327	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena	Homo sapiens	Candida colonization	Left armpit swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12327
+B12305	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Wheelchair swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12305
+B11785	Aligned genome sequence reads of Candida auris isolates			1-Jul-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11785
+B12311	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Door swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12311
+B12332	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Barranquilla	Homo sapiens	Candida colonization	Right ear swab	10.98268 N	74.83019 W	Candida auris	Candida auris B12332
+B12342	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Stethoscope swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12342
+B12291	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Night table swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12291
+B11806	Aligned genome sequence reads of Candida auris isolates			20-May-16	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11806
+B11797	Aligned genome sequence reads of Candida auris isolates			9-Oct-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11797
+B11789	Aligned genome sequence reads of Candida auris isolates			13-Aug-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11789
+B12319	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Body cables swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12319
+B11807	Aligned genome sequence reads of Candida auris isolates			24-May-16	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11807
+B12320	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Bed swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12320
+B11844	Aligned genome sequence reads of Candida auris isolates			1-Jul-16	Colombia	Cartagena	Homo sapiens	Candidemia	blood	10.42505 N	75.53837 W	Candida auris	Candida auris B11844
+B11802	Aligned genome sequence reads of Candida auris isolates			15-Mar-16	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11802
+B12315	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota	Homo sapiens	Candida colonization	Rectum swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12315
+B11805	Aligned genome sequence reads of Candida auris isolates			18-Mar-16	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11805
+B12297	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Chair. towel swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12297
+B12330	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena	Homo sapiens	Candida colonization	Hands swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12330
+B12322	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Bed rail swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12322
+B11793	Aligned genome sequence reads of Candida auris isolates			4-Sep-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11793
+B11791	Aligned genome sequence reads of Candida auris isolates			31-Aug-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11791
+B12300	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			TV control swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12300
+B12312	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Bedpan swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12312
+B11782	Aligned genome sequence reads of Candida auris isolates			8-May-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11782
+B11847	Aligned genome sequence reads of Candida auris isolates			1-Jul-16	Colombia	Cartagena	Homo sapiens	Candidemia	blood	10.42505 N	75.53837 W	Candida auris	Candida auris B11847
+B11848	Aligned genome sequence reads of Candida auris isolates			1-Jul-16	Colombia	Cartagena	Homo sapiens	Candidemia	blood	10.42505 N	75.53837 W	Candida auris	Candida auris B11848
+B11846	Aligned genome sequence reads of Candida auris isolates			1-Jul-16	Colombia	Cartagena	Homo sapiens	Candidemia	blood	10.42505 N	75.53837 W	Candida auris	Candida auris B11846
+B12314	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota	Homo sapiens	Candida colonization	Left groin swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12314
+B11795	Aligned genome sequence reads of Candida auris isolates			8-Sep-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11795
+B12308	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Floor swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12308
+B12321	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Equipment swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12321
+B12289	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Floor swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12289
+B12292	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Closet swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12292
+B11779	Aligned genome sequence reads of Candida auris isolates			11-Feb-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11779
+B11783	Aligned genome sequence reads of Candida auris isolates			16-Jun-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11783
+B11794	Aligned genome sequence reads of Candida auris isolates			7-Sep-15	Colombia	Barranquilla	Homo sapiens	Candidemia	blood	10.98268 N	74.83019 W	Candida auris	Candida auris B11794
+B11856	Aligned genome sequence reads of Candida auris isolates			1-Jun-16	Colombia	Bogota	Homo sapiens	Candidemia	blood	4.642541 N	74.10593 W	Candida auris	Candida auris B11856
+B12318	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Equipment swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12318
+B12307	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Mop bucket swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12307
+B12337	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Barranquilla	Homo sapiens	Candida colonization	Left armpit swab	10.98268 N	74.83019 W	Candida auris	Candida auris B12337
+B12326	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Stretcher swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12326
+B12324	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Body cables swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12324
+B12335	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Barranquilla	Homo sapiens	Candida colonization	Left ear swab	10.98268 N	74.83019 W	Candida auris	Candida auris B12335
+B12287	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Floor swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12287
+B12325	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Cartagena			Bed rails swab	10.42505 N	75.53837 W	Candida auris	Candida auris B12325
+B11849	Aligned genome sequence reads of Candida auris isolates			1-Jun-16	Colombia	Bogota	Homo sapiens	Candidemia	blood	4.642541 N	74.10593 W	Candida auris	Candida auris B11849
+B12304	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Toilet swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12304
+B12298	Aligned genome sequence reads of Candida auris isolates			1-Sep-16	Colombia	Bogota			Bedpan swab	4.642541 N	74.10593 W	Candida auris	Candida auris B12298
