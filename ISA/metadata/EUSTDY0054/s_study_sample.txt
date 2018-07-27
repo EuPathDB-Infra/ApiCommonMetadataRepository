@@ -16,7 +16,7 @@ Tucson_3				sputum	TGC0613	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human
 Tucson_4				specimen from organism	TGC0614	Coccidioides posadasii	Tucson, Arizona		USA	Human	University of Arizona
 Tucson_5				bronchoalveolar lavage	TGC0615	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
 Tucson_6				pleural fluid	TGC0618	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
-Tucson_7				lputum	TGC0619	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
+Tucson_7				sputum	TGC0619	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
 Tucson_8				specimen from organism	TGC0620	Coccidioides posadasii	Tucson, Arizona		USA	Human	University of Arizona
 Tucson_9				TGH mold iso	TGC0621	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
 Tucson_10				TGH	TGC0622	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
