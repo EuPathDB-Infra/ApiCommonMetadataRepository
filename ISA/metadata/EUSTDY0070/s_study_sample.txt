@@ -1,86 +1,86 @@
-Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [host_common_name]	Characteristics [country]	Characteristics [city]	Characteristics [health_status]
-BIM_1	T. brucei population genomics of human infective trypanosomes			1975	man	Cameroon	Campo	HSR
-MOS	T. brucei population genomics of human infective trypanosomes			1974	man	Cameroon	Mbam	HSR
-B4_4163P	T. brucei population genomics of human infective trypanosomes			2004	man	Côte!d'Ivoire	Bonon	HSR
-B4_F303P	T. brucei population genomics of human infective trypanosomes			2004	man	Côte!d'Ivoire	Bonon	HSR
-B4_G2P	T. brucei population genomics of human infective trypanosomes			2004	man	Côte!d'Ivoire	Bonon	HSR
-B4_I314P	T. brucei population genomics of human infective trypanosomes			2004	man	Côte!d'Ivoire	Bonon	HSR
-CB5_1	T. brucei population genomics of human infective trypanosomes			2002	man	Côte!d'Ivoire	Bonon	HSR
-S1_1_6R	T. brucei population genomics of human infective trypanosomes			2002	man	Côte!d'Ivoire	Bonon	HSR
-S14_5_1	T. brucei population genomics of human infective trypanosomes			2002	man	Côte!d'Ivoire	Bonon	HSR
-S15_1_KIVI	T. brucei population genomics of human infective trypanosomes			2002	man	Côte!d'Ivoire	Bonon	HSR
-S27_16_13	T. brucei population genomics of human infective trypanosomes			2000	man	Côte!d'Ivoire	Bonon	HSR
-S27_2_6	T. brucei population genomics of human infective trypanosomes			2000	man	Côte!d'Ivoire	Bonon	HSR
-S3_4_1	T. brucei population genomics of human infective trypanosomes			2000	man	Côte!d'Ivoire	Bonon	HSR
-S7_2_2	T. brucei population genomics of human infective trypanosomes			2002	man	Côte!d'Ivoire	Bonon	HSR
-T33_1_7_KIVI	T. brucei population genomics of human infective trypanosomes			2000	man	Côte!d'Ivoire	Bonon	HSR
-T66_4_2	T. brucei population genomics of human infective trypanosomes			2000	man	Côte!d'Ivoire	Bonon	HSR
-DEOLA	T. brucei population genomics of human infective trypanosomes			1984	man	Côte!d'Ivoire	Daloa	HSR
-ISTI	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Daloa	HSR
-LIGO	T. brucei population genomics of human infective trypanosomes			1984	man	Côte!d'Ivoire	Daloa	HSR
-LISA	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Daloa	HSR
-SAKON	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Daloa	HSR
-SEVAL	T. brucei population genomics of human infective trypanosomes			1984	man	Côte!d'Ivoire	Daloa	HSR
-TOBO	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Daloa	HSR
-ZENOU	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Daloa	HSR
-KIDE	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Gagnoa	HSR
-T21_4A	T. brucei population genomics of human infective trypanosomes			1999	man	Côte!d'Ivoire	Grand8Zathry	HSR
-B7_2	T. brucei population genomics of human infective trypanosomes			2001	man	Côte!d'Ivoire	Oumé	HSR
-N1317_2_KIVI	T. brucei population genomics of human infective trypanosomes			2001	man	Côte!d'Ivoire	Oumé	HSR
-T4_2_KIVI	T. brucei population genomics of human infective trypanosomes			2001	man	Côte!d'Ivoire	Oumé	HSR
-AMAN_KIVI	T. brucei population genomics of human infective trypanosomes			2001	man	Côte!d'Ivoire	Oumé!	HSR
-CP1_2_KIVI	T. brucei population genomics of human infective trypanosomes			2001	man	Côte!d'Ivoire	Oumé!	HSR
-YAD	T. brucei population genomics of human infective trypanosomes			1998	man	Côte!d'Ivoire	Sinfra	HSR
-N2561	T. brucei population genomics of human infective trypanosomes			1997	man	Côte!d'Ivoire	Sinfra	HSR
-ELIANE	T. brucei population genomics of human infective trypanosomes			1952	man	Côte!d'Ivoire	Unknown	HSR
-ABTOR	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Vavoua	HSR
-ADZAM	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Vavoua	HSR
-BRAZO	T. brucei population genomics of human infective trypanosomes			1984	man	Côte!d'Ivoire	Vavoua	HSR
-SETRA	T. brucei population genomics of human infective trypanosomes			1979	man	Côte!d'Ivoire	Vavoua	HSR
-DOB112_KIVI	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-DOB7_1	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-LAB13_5	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-LAB15_2	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-LAB27_4	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-LAC11_1	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-LAC14_3	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-LAC22_11	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-SAC23_3	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-TH1_29_7	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-WAB18_23	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-WAB22_6	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-WAB6_1	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-YEMB3_7	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-LAC22_10	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-SAC1_2	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-YEMB41_2	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-YENB17_4	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR
-B13_9	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-B15_7	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-B34_2	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-B5_2	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-F10_5	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-F12_20	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-F31_4	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-F34_1	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-F35_2	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-F4_1	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-F55_3	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-F7_6	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-KAC4_10	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Dubreka	HSR
-KHOB34_1	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Dubreka	HSR
-N4ANNEE_13_KIVI	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Dubreka	HSR
-N70_2	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-BROB7_16_KIVI	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Dubreka	HSR
-F2_1	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR
-KEMB9_5	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Dubreka	HSR
-TSW33	T. brucei population genomics of human infective trypanosomes			1982	man	Côte!d'Ivoire	Bouafle	VHSR
-KOBIR	T. brucei population genomics of human infective trypanosomes			1982	man	Côte!d'Ivoire	Daloa	VHSR
-OUSOU	T. brucei population genomics of human infective trypanosomes			1982	man	Côte!d'Ivoire	Daloa	VHSR
-TB386	T. brucei population genomics of human infective trypanosomes			1978	man	Côte!d'Ivoire	Koudougou	VHSR
-K975	T. brucei population genomics of human infective trypanosomes			1970	Fly	Kenya!	Kiboko	VHSR
-N1052	T. brucei population genomics of human infective trypanosomes			1961	man	Kenya	Nyanza	VHSR
-GYBO	T. brucei population genomics of human infective trypanosomes			1984	man	Tanzania	Tanzania	VHSR
-Z210	T. brucei population genomics of human infective trypanosomes			1982	man	Zambia	Luangwa	VHSR
-TB927	T. brucei population genomics of human infective trypanosomes			1969	Fly	Kenya	Unknown	PCR
-TB247	T. brucei population genomics of human infective trypanosomes			1971	Hartebe est	Tanzania	Serengeti	HSS
+Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [host_common_name]	Characteristics [country]	Characteristics [city]	Characteristics [health_status]	Characteristics [organism]	Characteristics [parasite organism]
+BIM_1	T. brucei population genomics of human infective trypanosomes			1975	man	Cameroon	Campo	HSR	Homo sapiens	Trypanosoma brucei
+MOS	T. brucei population genomics of human infective trypanosomes			1974	man	Cameroon	Mbam	HSR	Homo sapiens	Trypanosoma brucei
+B4_4163P	T. brucei population genomics of human infective trypanosomes			2004	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+B4_F303P	T. brucei population genomics of human infective trypanosomes			2004	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+B4_G2P	T. brucei population genomics of human infective trypanosomes			2004	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+B4_I314P	T. brucei population genomics of human infective trypanosomes			2004	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+CB5_1	T. brucei population genomics of human infective trypanosomes			2002	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+S1_1_6R	T. brucei population genomics of human infective trypanosomes			2002	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+S14_5_1	T. brucei population genomics of human infective trypanosomes			2002	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+S15_1_KIVI	T. brucei population genomics of human infective trypanosomes			2002	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+S27_16_13	T. brucei population genomics of human infective trypanosomes			2000	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+S27_2_6	T. brucei population genomics of human infective trypanosomes			2000	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+S3_4_1	T. brucei population genomics of human infective trypanosomes			2000	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+S7_2_2	T. brucei population genomics of human infective trypanosomes			2002	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+T33_1_7_KIVI	T. brucei population genomics of human infective trypanosomes			2000	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+T66_4_2	T. brucei population genomics of human infective trypanosomes			2000	man	Côte!d'Ivoire	Bonon	HSR	Homo sapiens	Trypanosoma brucei
+DEOLA	T. brucei population genomics of human infective trypanosomes			1984	man	Côte!d'Ivoire	Daloa	HSR	Homo sapiens	Trypanosoma brucei
+ISTI	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Daloa	HSR	Homo sapiens	Trypanosoma brucei
+LIGO	T. brucei population genomics of human infective trypanosomes			1984	man	Côte!d'Ivoire	Daloa	HSR	Homo sapiens	Trypanosoma brucei
+LISA	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Daloa	HSR	Homo sapiens	Trypanosoma brucei
+SAKON	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Daloa	HSR	Homo sapiens	Trypanosoma brucei
+SEVAL	T. brucei population genomics of human infective trypanosomes			1984	man	Côte!d'Ivoire	Daloa	HSR	Homo sapiens	Trypanosoma brucei
+TOBO	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Daloa	HSR	Homo sapiens	Trypanosoma brucei
+ZENOU	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Daloa	HSR	Homo sapiens	Trypanosoma brucei
+KIDE	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Gagnoa	HSR	Homo sapiens	Trypanosoma brucei
+T21_4A	T. brucei population genomics of human infective trypanosomes			1999	man	Côte!d'Ivoire	Grand8Zathry	HSR	Homo sapiens	Trypanosoma brucei
+B7_2	T. brucei population genomics of human infective trypanosomes			2001	man	Côte!d'Ivoire	Oumé	HSR	Homo sapiens	Trypanosoma brucei
+N1317_2_KIVI	T. brucei population genomics of human infective trypanosomes			2001	man	Côte!d'Ivoire	Oumé	HSR	Homo sapiens	Trypanosoma brucei
+T4_2_KIVI	T. brucei population genomics of human infective trypanosomes			2001	man	Côte!d'Ivoire	Oumé	HSR	Homo sapiens	Trypanosoma brucei
+AMAN_KIVI	T. brucei population genomics of human infective trypanosomes			2001	man	Côte!d'Ivoire	Oumé!	HSR	Homo sapiens	Trypanosoma brucei
+CP1_2_KIVI	T. brucei population genomics of human infective trypanosomes			2001	man	Côte!d'Ivoire	Oumé!	HSR	Homo sapiens	Trypanosoma brucei
+YAD	T. brucei population genomics of human infective trypanosomes			1998	man	Côte!d'Ivoire	Sinfra	HSR	Homo sapiens	Trypanosoma brucei
+N2561	T. brucei population genomics of human infective trypanosomes			1997	man	Côte!d'Ivoire	Sinfra	HSR	Homo sapiens	Trypanosoma brucei
+ELIANE	T. brucei population genomics of human infective trypanosomes			1952	man	Côte!d'Ivoire	Unknown	HSR	Homo sapiens	Trypanosoma brucei
+ABTOR	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Vavoua	HSR	Homo sapiens	Trypanosoma brucei
+ADZAM	T. brucei population genomics of human infective trypanosomes			1983	man	Côte!d'Ivoire	Vavoua	HSR	Homo sapiens	Trypanosoma brucei
+BRAZO	T. brucei population genomics of human infective trypanosomes			1984	man	Côte!d'Ivoire	Vavoua	HSR	Homo sapiens	Trypanosoma brucei
+SETRA	T. brucei population genomics of human infective trypanosomes			1979	man	Côte!d'Ivoire	Vavoua	HSR	Homo sapiens	Trypanosoma brucei
+DOB112_KIVI	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+DOB7_1	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+LAB13_5	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+LAB15_2	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+LAB27_4	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+LAC11_1	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+LAC14_3	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+LAC22_11	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+SAC23_3	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+TH1_29_7	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+WAB18_23	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+WAB22_6	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+WAB6_1	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+YEMB3_7	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+LAC22_10	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+SAC1_2	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+YEMB41_2	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+YENB17_4	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Boffa	HSR	Homo sapiens	Trypanosoma brucei
+B13_9	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+B15_7	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+B34_2	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+B5_2	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+F10_5	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+F12_20	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+F31_4	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+F34_1	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+F35_2	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+F4_1	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+F55_3	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+F7_6	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+KAC4_10	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+KHOB34_1	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+N4ANNEE_13_KIVI	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+N70_2	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+BROB7_16_KIVI	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+F2_1	T. brucei population genomics of human infective trypanosomes			1998	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+KEMB9_5	T. brucei population genomics of human infective trypanosomes			2002	man	Guinea	Dubreka	HSR	Homo sapiens	Trypanosoma brucei
+TSW33	T. brucei population genomics of human infective trypanosomes			1982	man	Côte!d'Ivoire	Bouafle	VHSR	Homo sapiens	Trypanosoma brucei
+KOBIR	T. brucei population genomics of human infective trypanosomes			1982	man	Côte!d'Ivoire	Daloa	VHSR	Homo sapiens	Trypanosoma brucei
+OUSOU	T. brucei population genomics of human infective trypanosomes			1982	man	Côte!d'Ivoire	Daloa	VHSR	Homo sapiens	Trypanosoma brucei
+TB386	T. brucei population genomics of human infective trypanosomes			1978	man	Côte!d'Ivoire	Koudougou	VHSR	Homo sapiens	Trypanosoma brucei
+K975	T. brucei population genomics of human infective trypanosomes			1970	Fly	Kenya!	Kiboko	VHSR	Homo sapiens	Trypanosoma brucei
+N1052	T. brucei population genomics of human infective trypanosomes			1961	man	Kenya	Nyanza	VHSR	Homo sapiens	Trypanosoma brucei
+GYBO	T. brucei population genomics of human infective trypanosomes			1984	man	Tanzania	Tanzania	VHSR	Homo sapiens	Trypanosoma brucei
+Z210	T. brucei population genomics of human infective trypanosomes			1982	man	Zambia	Luangwa	VHSR	Homo sapiens	Trypanosoma brucei
+TB927	T. brucei population genomics of human infective trypanosomes			1969	Fly	Kenya	Unknown	PCR	Homo sapiens	Trypanosoma brucei
+TB247	T. brucei population genomics of human infective trypanosomes			1971	Hartebe est	Tanzania	Serengeti	HSS	Homo sapiens	Trypanosoma brucei
