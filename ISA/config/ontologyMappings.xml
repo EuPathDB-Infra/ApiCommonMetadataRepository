@@ -970,6 +970,9 @@
   <ontologyTerm source_id="GAZ_00002802" type="characteristicValue" parent="characteristicQualifier">
     <name>South Korea</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000906" type="characteristicValue" parent="characteristicQualifier">
+    <name>Ivory Coast</name>
+  </ontologyTerm>
 
 <!-- parasite lifecycle stage -->
   <ontologyTerm source_id="OPL_0000057" type="characteristicValue" parent="characteristicQualifier">
