@@ -783,6 +783,12 @@
   <ontologyTerm source_id="GAZ_00003922" type="characteristicValue" parent="characteristicQualifier">
     <name>Papua New Guinea</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000909" type="characteristicValue" parent="characteristicQualifier">
+    <name>Guinea</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001103" type="characteristicValue" parent="characteristicQualifier">
+    <name>Tanzania</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002940" type="characteristicValue" parent="characteristicQualifier">
     <name>France</name>
     <name>French republic</name>
