@@ -482,6 +482,9 @@
   <ontologyTerm source_id="EUPATH_0000577" type="characteristicQualifier" parent="Sample">
     <name>Repository ID</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005001" type="characteristicQualifier" parent="Sample">
+    <name>BIIT test</name>
+  </ontologyTerm>
 
 <!-- characteristicValues -->
 
