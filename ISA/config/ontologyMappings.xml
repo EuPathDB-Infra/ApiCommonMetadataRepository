@@ -407,9 +407,6 @@
   <ontologyTerm source_id="EUPATH_0000524" type="characteristicQualifier" parent="Source">
     <name>vivax</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OMP_0000274" type="characteristicQualifier" parent="Source">
-    <name>antimicrobial agent resistance phenotype</name>
-  </ontologyTerm>
 
 <!-- Characteristics of Sample -->
 
@@ -442,6 +439,9 @@
   <ontologyTerm source_id="EUPATH_0000572" type="characteristicQualifier" parent="Sample">
     <name>parasite genotype</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005002" type="characteristicQualifier" parent="Sample">
+    <name>Parental and Clone</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000758" type="characteristicQualifier" parent="Sample">
     <name>fungal genotype</name>
   </ontologyTerm>
@@ -455,6 +455,34 @@
 
   <ontologyTerm source_id="EUPATH_0000748" type="characteristicQualifier" parent="Sample">
     <name>iPCR result</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="CHEBI_2682" type="characteristicQualifier" parent="Sample">
+    <name>AmB</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_55346" type="characteristicQualifier" parent="Sample">
+    <name>AND</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_474180" type="characteristicQualifier" parent="Sample">
+    <name>CSF</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_600520" type="characteristicQualifier" parent="Sample">
+    <name>MF</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_35727" type="characteristicQualifier" parent="Sample">
+    <name>Triazole</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_46081" type="characteristicQualifier" parent="Sample">
+    <name>FCZ</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_6076" type="characteristicQualifier" parent="Sample">
+    <name>ICZ</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_64355" type="characteristicQualifier" parent="Sample">
+    <name>PZ</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_10023" type="characteristicQualifier" parent="Sample">
+    <name>VCZ</name>
   </ontologyTerm>
 
   <ontologyTerm source_id="OBI_0000198" type="characteristicQualifier" parent="Sample">
