@@ -19,7 +19,7 @@
     <edge input="Extract" output="Assay">
         <protocol>RFLP assay</protocol>
     </edge>
-    <edge input="Assay" output="Data">
+    <edge input="Assay" output="DataTransformation">
         <protocol>data transformation</protocol>
     </edge>
   </study>
