@@ -78,7 +78,7 @@ TSW33	T. brucei population genomics of human infective trypanosomes				1982	man	
 KOBIR	T. brucei population genomics of human infective trypanosomes			MHOM/CI/82/DAL503	1982	man	Ivory Coast	Daloa	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei KOBIR
 OUSOU	T. brucei population genomics of human infective trypanosomes			MHOM/CI/82/THDAL494	1982	man	Ivory Coast	Daloa	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei OUSOU
 TB386	T. brucei population genomics of human infective trypanosomes			MHOM/CI/78/TH114	1978	man	Ivory Coast	Koudougou	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TB386
-K975	T. brucei population genomics of human infective trypanosomes				1970	Fly	Kenya!	Kiboko	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei K975
+K975	T. brucei population genomics of human infective trypanosomes				1970	Fly	Kenya	Kiboko	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei K975
 N1052	T. brucei population genomics of human infective trypanosomes				1961	man	Kenya	Nyanza	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei N1052
 GYBO	T. brucei population genomics of human infective trypanosomes				1984	man	Tanzania	Tanzania	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei GYBO
 Z210	T. brucei population genomics of human infective trypanosomes				1982	man	Zambia	Luangwa	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei Z210
