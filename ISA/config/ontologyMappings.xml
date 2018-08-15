@@ -914,6 +914,9 @@
   <ontologyTerm source_id="GAZ_00000560" type="characteristicValue" parent="characteristicQualifier">
     <name>Sudan</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000567" type="characteristicValue" parent="characteristicQualifier">
+    <name>Ethiopia</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00003750" type="characteristicValue" parent="characteristicQualifier">
     <name>Bangladesh</name>
   </ontologyTerm>
