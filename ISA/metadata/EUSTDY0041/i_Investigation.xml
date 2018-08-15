@@ -7,7 +7,7 @@
     <node name="Sample" type="sample from organism"/>  
     <node name="Extract" type="DNA extract" suffix="Extract"/>
     <node name="Assay" suffix="RFLP assay"/>
-    <node name="Data" suffix="RFLPGenotype"/>
+    <node name="DataTransformation" suffix="RFLPGenotype"/>
 
     <edge input="Source" output="Sample">
         <protocol>infection process</protocol>
