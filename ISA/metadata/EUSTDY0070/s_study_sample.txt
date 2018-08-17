@@ -1,86 +1,86 @@
 Name	Description	SourceMTOverride	SampleMTOverride	alternative sample ID	specimen collection year	Characteristics [host_common_name]	Characteristics [country]	Characteristics [city]	BIIT test	Characteristics [organism]	Characteristics [parasite organism]	Characteristics [specimen]	Characteristics [parasite strain]
-BIM_1	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CM/75/BIM	1975	man	Cameroon	Campo	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei BIM_1
-MOS	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CM/74/MOS	1974	man	Cameroon	Mbam	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei MOS
-B4_4163P	T. brucei population genomics of huhuhuman infective trypanosomes				2004	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B4_4163P
-B4_F303P	T. brucei population genomics of huhuhuman infective trypanosomes				2004	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B4_F303P
-B4_G2P	T. brucei population genomics of huhuhuman infective trypanosomes				2004	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B4_G2P
-B4_I314P	T. brucei population genomics of huhuhuman infective trypanosomes				2004	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B4_I314P
-CB5_1	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei CB5_1
-S1_1_6R	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S1_1_6R
-S14_5_1	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/02/S14/5/1	2002	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S14_5_1
-S15_1_KIVI	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S15_1_KIVI
-S27_16_13	T. brucei population genomics of huhuhuman infective trypanosomes				2000	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S27_16_13
-S27_2_6	T. brucei population genomics of huhuhuman infective trypanosomes				2000	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S27_2_6
-S3_4_1	T. brucei population genomics of huhuhuman infective trypanosomes				2000	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S3_4_1
-S7_2_2	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S7_2_2
-T33_1_7_KIVI	T. brucei population genomics of huhuhuman infective trypanosomes				2000	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei T33_1_7_KIVI
-T66_4_2	T. brucei population genomics of huhuhuman infective trypanosomes				2000	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei T66_4_2
-DEOLA	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/84/DAL629	1984	man	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei DEOLA
-ISTI	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/83/DAL607	1983	man	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei ISTI
-LIGO	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/84/DAL655	1984	man	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LIGO
-LISA	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/83/DAL642	1983	man	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LISA
-SAKON	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/83/DAL403	1983	man	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei SAKON
-SEVAL	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/84/DAL633	1984	man	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei SEVAL
-TOBO	T. brucei population genomics of huhuhuman infective trypanosomes			DAL596	1983	man	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TOBO
-ZENOU	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/83/DAL625	1983	man	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei ZENOU
-KIDE	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/83/DAL595	1983	man	Ivory Coast	Gagnoa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei KIDE
-T21_4A	T. brucei population genomics of huhuhuman infective trypanosomes				1999	man	Ivory Coast	GrandZathry	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei T21_4A
-B7_2	T. brucei population genomics of huhuhuman infective trypanosomes				2001	man	Ivory Coast	OumA	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B7_2
-N1317_2_KIVI	T. brucei population genomics of huhuhuman infective trypanosomes				2001	man	Ivory Coast	OumA	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei N1317_2_KIVI
-T4_2_KIVI	T. brucei population genomics of huhuhuman infective trypanosomes				2001	man	Ivory Coast	OumA	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei T4_2_KIVI
-AMAN_KIVI	T. brucei population genomics of huhuhuman infective trypanosomes				2001	man	Ivory Coast	OumA	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei AMAN_KIVI
-CP1_2_KIVI	T. brucei population genomics of huhuhuman infective trypanosomes				2001	man	Ivory Coast	OumA	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei CP1_2_KIVI
-YAD	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Ivory Coast	Sinfra	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei YAD
-N2561	T. brucei population genomics of huhuhuman infective trypanosomes				1997	man	Ivory Coast	Sinfra	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei N2561
-ELIANE	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/58/ELIANE	1952	man	Ivory Coast	Unknown	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei ELIANE
-ABTOR	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/83/DAL543	1983	man	Ivory Coast	Vavoua	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei ABTOR
-ADZAM	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/83/DAL542	1983	man	Ivory Coast	Vavoua	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei ADZAM
-BRAZO	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/84/DAL740	1984	man	Ivory Coast	Vavoua	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei BRAZO
-SETRA	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/79/THDAL083	1979	man	Ivory Coast	Vavoua	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei SETRA
-DOB112_KIVI	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei DOB112_KIVI
-DOB7_1	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei DOB7_1
-LAB13_5	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAB13_5
-LAB15_2	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAB15_2
-LAB27_4	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAB27_4
-LAC11_1	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAC11_1
-LAC14_3	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAC14_3
-LAC22_11	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAC22_11
-SAC23_3	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei SAC23_3
-TH1_29_7	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TH1_29_7
-WAB18_23	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei WAB18_23
-WAB22_6	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei WAB22_6
-WAB6_1	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei WAB6_1
-YEMB3_7	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei YEMB3_7
-LAC22_10	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAC22_10
-SAC1_2	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei SAC1_2
-YEMB41_2	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei YEMB41_2
-YENB17_4	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei YENB17_4
-B13_9	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B13_9
-B15_7	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B15_7
-B34_2	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B34_2
-B5_2	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B5_2
-F10_5	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F10_5
-F12_20	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F12_20
-F31_4	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F31_4
-F34_1	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F34_1
-F35_2	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F35_2
-F4_1	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F4_1
-F55_3	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F55_3
-F7_6	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F7_6
-KAC4_10	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei KAC4_10
-KHOB34_1	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei KHOB34_1
-N4ANNEE_13_KIVI	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei N4ANNEE_13_KIVI
-N70_2	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei N70_2
-BROB7_16_KIVI	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei BROB7_16_KIVI
-F2_1	T. brucei population genomics of huhuhuman infective trypanosomes				1998	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F2_1
-KEMB9_5	T. brucei population genomics of huhuhuman infective trypanosomes				2002	man	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei KEMB9_5
-TSW33	T. brucei population genomics of huhuhuman infective trypanosomes				1982	man	Ivory Coast	Bouafle	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TSW33
-KOBIR	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/82/DAL503	1982	man	Ivory Coast	Daloa	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei KOBIR
-OUSOU	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/82/THDAL494	1982	man	Ivory Coast	Daloa	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei OUSOU
-TB386	T. brucei population genomics of huhuhuman infective trypanosomes			MHOM/CI/78/TH114	1978	man	Ivory Coast	Koudougou	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TB386
-K975	T. brucei population genomics of huhuhuman infective trypanosomes				1970	Fly	Kenya	Kiboko	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei K975
-N1052	T. brucei population genomics of huhuhuman infective trypanosomes				1961	man	Kenya	Nyanza	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei N1052
-GYBO	T. brucei population genomics of huhuhuman infective trypanosomes				1984	man	Tanzania	Tanzania	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei GYBO
-Z210	T. brucei population genomics of huhuhuman infective trypanosomes				1982	man	Zambia	Luangwa	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei Z210
-TB927	T. brucei population genomics of huhuhuman infective trypanosomes			TREU927/4	1969	Fly	Kenya	Unknown	PCR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TB927
-TB247	T. brucei population genomics of huhuhuman infective trypanosomes			STIB247	1971	Hartebeest	Tanzania	Serengeti	Human Serum Sensitive	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TB247
+BIM_1	T. brucei population genomics of human infective trypanosomes			MHOM/CM/75/BIM	1975	human	Cameroon	Campo	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei BIM_1
+MOS	T. brucei population genomics of human infective trypanosomes			MHOM/CM/74/MOS	1974	human	Cameroon	Mbam	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei MOS
+B4_4163P	T. brucei population genomics of human infective trypanosomes				2004	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B4_4163P
+B4_F303P	T. brucei population genomics of human infective trypanosomes				2004	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B4_F303P
+B4_G2P	T. brucei population genomics of human infective trypanosomes				2004	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B4_G2P
+B4_I314P	T. brucei population genomics of human infective trypanosomes				2004	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B4_I314P
+CB5_1	T. brucei population genomics of human infective trypanosomes				2002	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei CB5_1
+S1_1_6R	T. brucei population genomics of human infective trypanosomes				2002	man	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S1_1_6R
+S14_5_1	T. brucei population genomics of human infective trypanosomes			MHOM/CI/02/S14/5/1	2002	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S14_5_1
+S15_1_KIVI	T. brucei population genomics of human infective trypanosomes				2002	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S15_1_KIVI
+S27_16_13	T. brucei population genomics of human infective trypanosomes				2000	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S27_16_13
+S27_2_6	T. brucei population genomics of human infective trypanosomes				2000	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S27_2_6
+S3_4_1	T. brucei population genomics of human infective trypanosomes				2000	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S3_4_1
+S7_2_2	T. brucei population genomics of human infective trypanosomes				2002	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei S7_2_2
+T33_1_7_KIVI	T. brucei population genomics of human infective trypanosomes				2000	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei T33_1_7_KIVI
+T66_4_2	T. brucei population genomics of human infective trypanosomes				2000	human	Ivory Coast	Bonon	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei T66_4_2
+DEOLA	T. brucei population genomics of human infective trypanosomes			MHOM/CI/84/DAL629	1984	human	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei DEOLA
+ISTI	T. brucei population genomics of human infective trypanosomes			MHOM/CI/83/DAL607	1983	human	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei ISTI
+LIGO	T. brucei population genomics of human infective trypanosomes			MHOM/CI/84/DAL655	1984	human	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LIGO
+LISA	T. brucei population genomics of human infective trypanosomes			MHOM/CI/83/DAL642	1983	human	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LISA
+SAKON	T. brucei population genomics of human infective trypanosomes			MHOM/CI/83/DAL403	1983	human	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei SAKON
+SEVAL	T. brucei population genomics of human infective trypanosomes			MHOM/CI/84/DAL633	1984	human	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei SEVAL
+TOBO	T. brucei population genomics of human infective trypanosomes			DAL596	1983	human	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TOBO
+ZENOU	T. brucei population genomics of human infective trypanosomes			MHOM/CI/83/DAL625	1983	human	Ivory Coast	Daloa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei ZENOU
+KIDE	T. brucei population genomics of human infective trypanosomes			MHOM/CI/83/DAL595	1983	human	Ivory Coast	Gagnoa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei KIDE
+T21_4A	T. brucei population genomics of human infective trypanosomes				1999	human	Ivory Coast	GrandZathry	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei T21_4A
+B7_2	T. brucei population genomics of human infective trypanosomes				2001	human	Ivory Coast	OumA	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B7_2
+N1317_2_KIVI	T. brucei population genomics of human infective trypanosomes				2001	human	Ivory Coast	OumA	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei N1317_2_KIVI
+T4_2_KIVI	T. brucei population genomics of human infective trypanosomes				2001	human	Ivory Coast	OumA	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei T4_2_KIVI
+AMAN_KIVI	T. brucei population genomics of human infective trypanosomes				2001	human	Ivory Coast	OumA	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei AMAN_KIVI
+CP1_2_KIVI	T. brucei population genomics of human infective trypanosomes				2001	human	Ivory Coast	OumA	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei CP1_2_KIVI
+YAD	T. brucei population genomics of human infective trypanosomes				1998	human	Ivory Coast	Sinfra	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei YAD
+N2561	T. brucei population genomics of human infective trypanosomes				1997	human	Ivory Coast	Sinfra	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei N2561
+ELIANE	T. brucei population genomics of human infective trypanosomes			MHOM/CI/58/ELIANE	1952	human	Ivory Coast	Unknown	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei ELIANE
+ABTOR	T. brucei population genomics of human infective trypanosomes			MHOM/CI/83/DAL543	1983	human	Ivory Coast	Vavoua	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei ABTOR
+ADZAM	T. brucei population genomics of human infective trypanosomes			MHOM/CI/83/DAL542	1983	human	Ivory Coast	Vavoua	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei ADZAM
+BRAZO	T. brucei population genomics of human infective trypanosomes			MHOM/CI/84/DAL740	1984	human	Ivory Coast	Vavoua	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei BRAZO
+SETRA	T. brucei population genomics of human infective trypanosomes			MHOM/CI/79/THDAL083	1979	human	Ivory Coast	Vavoua	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei SETRA
+DOB112_KIVI	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei DOB112_KIVI
+DOB7_1	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei DOB7_1
+LAB13_5	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAB13_5
+LAB15_2	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAB15_2
+LAB27_4	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAB27_4
+LAC11_1	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAC11_1
+LAC14_3	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAC14_3
+LAC22_11	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAC22_11
+SAC23_3	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei SAC23_3
+TH1_29_7	T. brucei population genomics of human infective trypanosomes				2002	hman	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TH1_29_7
+WAB18_23	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei WAB18_23
+WAB22_6	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei WAB22_6
+WAB6_1	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei WAB6_1
+YEMB3_7	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei YEMB3_7
+LAC22_10	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei LAC22_10
+SAC1_2	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei SAC1_2
+YEMB41_2	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei YEMB41_2
+YENB17_4	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Boffa	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei YENB17_4
+B13_9	T. brucei population genomics of human infective trypanosomes				1998	hman	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B13_9
+B15_7	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B15_7
+B34_2	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B34_2
+B5_2	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei B5_2
+F10_5	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F10_5
+F12_20	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F12_20
+F31_4	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F31_4
+F34_1	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F34_1
+F35_2	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F35_2
+F4_1	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F4_1
+F55_3	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F55_3
+F7_6	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F7_6
+KAC4_10	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei KAC4_10
+KHOB34_1	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei KHOB34_1
+N4ANNEE_13_KIVI	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei N4ANNEE_13_KIVI
+N70_2	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei N70_2
+BROB7_16_KIVI	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei BROB7_16_KIVI
+F2_1	T. brucei population genomics of human infective trypanosomes				1998	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei F2_1
+KEMB9_5	T. brucei population genomics of human infective trypanosomes				2002	human	Guinea	Dubreka	Human Serum Resistance	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei KEMB9_5
+TSW33	T. brucei population genomics of human infective trypanosomes				1982	human	Ivory Coast	Bouafle	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TSW33
+KOBIR	T. brucei population genomics of human infective trypanosomes			MHOM/CI/82/DAL503	1982	human	Ivory Coast	Daloa	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei KOBIR
+OUSOU	T. brucei population genomics of human infective trypanosomes			MHOM/CI/82/THDAL494	1982	human	Ivory Coast	Daloa	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei OUSOU
+TB386	T. brucei population genomics of human infective trypanosomes			MHOM/CI/78/TH114	1978	human	Ivory Coast	Koudougou	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TB386
+K975	T. brucei population genomics of human infective trypanosomes				1970	Fly	Kenya	Kiboko	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei K975
+N1052	T. brucei population genomics of human infective trypanosomes				1961	human	Kenya	Nyanza	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei N1052
+GYBO	T. brucei population genomics of human infective trypanosomes				1984	human	Tanzania	Tanzania	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei GYBO
+Z210	T. brucei population genomics of human infective trypanosomes				1982	human	Zambia	Luangwa	VHSR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei Z210
+TB927	T. brucei population genomics of human infective trypanosomes			TREU927/4	1969	Fly	Kenya	Unknown	PCR	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TB927
+TB247	T. brucei population genomics of human infective trypanosomes			STIB247	1971	Hartebeest	Tanzania	Serengeti	Human Serum Sensitive	Homo sapiens	Trypanosoma brucei	field isolates	Trypanosoma brucei TB247
