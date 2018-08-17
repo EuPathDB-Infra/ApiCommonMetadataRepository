@@ -69,10 +69,11 @@ diet (by month)	EUPATH_0000585	fd_29	milk formula - month 29
 diet (by month)	EUPATH_0000585	fd_30	milk formula - month 30
 diet (by month)	EUPATH_0000585	fd_32	milk formula - month 32
 drug usage	EUPATH_0000586	none	None
-env_feature	MiXS_env_feature	ENVO:animal-associated habitat	animal-associated habitat
-env_feature	MiXS_env_feature	ENVO:anthropogenic environmental material	anthropogenic environmental material
-env_feature	MiXS_env_feature	ENVO:human-associated habitat	human-associated habitat
-env_feature	MiXS_env_feature	ENVO:insecta-associated habitat	insecta-associated habitat
+env_feature	MiXS_env_feature	ENVO:animal-associated habitat	Veterinary Animal
+env_feature	MiXS_env_feature	ENVO:anthropogenic environmental material	Built Environment
+env_feature	MiXS_env_feature	ENVO:human-associated habitat	Human
+env_feature	MiXS_env_feature	ENVO:insecta-associated habitat	Insect
+env_feature	MiXS_env_feature	host-associated habitat	Human
 environment (biome)	ENVO_00000428	human dwelling	human dwelling
 environment (biome)	ENVO_00000428	urban biome	urban biome
 environment (biome)	ENVO_00000428	village biome	village biome
