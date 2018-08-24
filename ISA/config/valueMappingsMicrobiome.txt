@@ -74,6 +74,7 @@ env_feature	MiXS_env_feature	ENVO:anthropogenic environmental material	Built Env
 env_feature	MiXS_env_feature	ENVO:human-associated habitat	Human
 env_feature	MiXS_env_feature	ENVO:insecta-associated habitat	Insect
 env_feature	MiXS_env_feature	host-associated habitat	Human
+env_feature	MiXS_env_feature	human-associated habitat	Human
 environment (biome)	ENVO_00000428	human dwelling	human dwelling
 environment (biome)	ENVO_00000428	urban biome	urban biome
 environment (biome)	ENVO_00000428	village biome	village biome
