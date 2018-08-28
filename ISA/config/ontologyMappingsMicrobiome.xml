@@ -53,6 +53,15 @@
   </ontologyTerm> 
 
   <!-- Characteristics -->
+  <ontologyTerm source_id="EUPATH_0015400" type="characteristicQualifier" parent="Source">
+    <name>age_months</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0010367" type="characteristicQualifier" parent="Source">
+    <name>age_factor</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0010375" type="characteristicQualifier" parent="Source">
+    <name>type</name>
+  </ontologyTerm>
   <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
     <name>country name</name>
     <name>country</name>
@@ -320,7 +329,19 @@
     <name>GAZ:Puerto Rico</name>
     <name>Puerto Rico</name>
   </ontologyTerm>
-  
+  <ontologyTerm source_id="GAZ_00000907" type="characteristicValue" parent="characteristicQualifier">
+    <name>Gambia</name>
+  </ontologyTerm> 
+  <ontologyTerm source_id="GAZ_00000584" type="characteristicValue" parent="characteristicQualifier">
+    <name>Mali</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001101" type="characteristicValue" parent="characteristicQualifier">
+    <name>Kenya</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00003750" type="characteristicValue" parent="characteristicQualifier">
+    <name>Bangladesh</name>
+  </ontologyTerm>
+ 
   <!-- UBERON terms -->
   <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:multi-cellular organism</name>
