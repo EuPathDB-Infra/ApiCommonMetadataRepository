@@ -1,4 +1,4 @@
-name	type	country	age_months	age_factor
+name	case_control	country	age_months	age_factor
 100259	Case	Gambia	14	[12,18)
 100262	Control	Gambia	24	[24,60)
 100267	Case	Gambia	17	[12,18)

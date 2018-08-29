@@ -60,7 +60,7 @@
     <name>age_factor</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0010375" type="characteristicQualifier" parent="Source">
-    <name>type</name>
+    <name>case_control</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
     <name>country name</name>
