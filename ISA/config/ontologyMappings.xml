@@ -448,6 +448,9 @@
   <ontologyTerm source_id="EUPATH_0000757" type="characteristicQualifier" parent="Sample">
     <name>parasite phenotype</name>
   </ontologyTerm>
+  <ontologyTerm source_id="PATO_0001895" type="characteristicQualifier" parent="Sample">
+    <name>mating type</name>
+  </ontologyTerm>
 
   <ontologyTerm source_id="EUPATH_0000289" type="characteristicQualifier" parent="Sample">
     <name>haplogroup</name>
@@ -513,6 +516,11 @@
   <ontologyTerm source_id="EUPATH_0005001" type="characteristicQualifier" parent="Sample">
     <name>BIIT test</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C25641" type="characteristicQualifier" parent="Sample">
+    <name>Reference</name>
+  </ontologyTerm>
+
+
 
 <!-- characteristicValues -->
 
@@ -791,6 +799,7 @@
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00000553" type="characteristicValue" parent="characteristicQualifier">
     <name>South Africa</name>
+    <name>S. Africa</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002476" type="characteristicValue" parent="characteristicQualifier">
     <name>Israel</name>
@@ -1012,6 +1021,12 @@
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00000906" type="characteristicValue" parent="characteristicQualifier">
     <name>Ivory Coast</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001097" type="characteristicValue" parent="characteristicQualifier">
+    <name>Botswana</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000915" type="characteristicValue" parent="characteristicQualifier">
+    <name>Togo</name>
   </ontologyTerm>
 
 <!-- parasite lifecycle stage -->
