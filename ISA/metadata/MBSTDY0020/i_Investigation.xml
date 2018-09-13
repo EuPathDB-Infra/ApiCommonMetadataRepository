@@ -1,6 +1,6 @@
 <investigation identifierRegex="^(MBSTDY)\d+$" identifierIsDirectoryName="true">
 
-  <study fileName="s_study_sample_MSD1000.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+  <study fileName="s_study_sample_MSD1000.txt" identifierSuffix="-7" sampleRegex="MBSMPL">
     <dataset>otu_GEMS_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>

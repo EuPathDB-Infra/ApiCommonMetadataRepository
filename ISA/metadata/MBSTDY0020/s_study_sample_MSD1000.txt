@@ -1,993 +1,993 @@
-name	case_control	country	age_months	age_factor
-100259	Case	Gambia	14	[12,18)
-100262	Control	Gambia	24	[24,60)
-100267	Case	Gambia	17	[12,18)
-100274	Case	Gambia	36	[24,60)
-100275	Case	Gambia	29	[24,60)
-100277	Case	Gambia	29	[24,60)
-100291	Control	Gambia	27	[24,60)
-100292	Control	Gambia	30	[24,60)
-100293	Case	Gambia	20	[18,24)
-100294	Control	Gambia	33	[24,60)
-100298	Control	Gambia	21	[18,24)
-100303	Control	Gambia	58	[24,60)
-100317	Case	Gambia	40	[24,60)
-100320	Control	Gambia	42	[24,60)
-100322	Case	Gambia	 7	[6,12)
-100341	Case	Gambia	14	[12,18)
-100353	Control	Gambia	21	[18,24)
-100356	Control	Gambia	27	[24,60)
-100361	Case	Gambia	14	[12,18)
-100365	Control	Gambia	16	[12,18)
-100395	Case	Gambia	21	[18,24)
-100401	Case	Gambia	20	[18,24)
-100403	Control	Gambia	17	[12,18)
-100437	Control	Gambia	17	[12,18)
-100457	Control	Gambia	30	[24,60)
-100462	Control	Gambia	10	[6,12)
-100470	Control	Gambia	13	[12,18)
-100476	Case	Gambia	 9	[6,12)
-100489	Control	Gambia	19	[18,24)
-100491	Case	Gambia	 6	[6,12)
-100505	Control	Gambia	20	[18,24)
-100506	Control	Gambia	23	[18,24)
-100510	Case	Gambia	10	[6,12)
-100512	Case	Gambia	18	[18,24)
-100513	Case	Gambia	20	[18,24)
-100515	Case	Gambia	23	[18,24)
-100516	Case	Gambia	10	[6,12)
-100523	Control	Gambia	19	[18,24)
-100537	Case	Gambia	11	[6,12)
-100545	Control	Gambia	11	[6,12)
-100547	Case	Gambia	26	[24,60)
-100552	Control	Gambia	10	[6,12)
-100556	Case	Gambia	10	[6,12)
-100562	Control	Gambia	10	[6,12)
-100563	Case	Gambia	10	[6,12)
-100567	Control	Gambia	 8	[6,12)
-100601	Case	Gambia	18	[18,24)
-100618	Control	Gambia	17	[12,18)
-100636	Case	Gambia	26	[24,60)
-100704	Case	Gambia	14	[12,18)
-100716	Case	Gambia	20	[18,24)
-100722	Control	Gambia	19	[18,24)
-100749	Case	Gambia	12	[12,18)
-100750	Case	Gambia	15	[12,18)
-100759	Case	Gambia	29	[24,60)
-100760	Control	Gambia	12	[12,18)
-100764	Control	Gambia	35	[24,60)
-100778	Case	Gambia	25	[24,60)
-100782	Control	Gambia	24	[24,60)
-100798	Control	Gambia	26	[24,60)
-100815	Case	Gambia	 8	[6,12)
-100821	Case	Gambia	 7	[6,12)
-100829	Case	Gambia	 9	[6,12)
-100831	Case	Gambia	28	[24,60)
-100848	Case	Gambia	24	[24,60)
-100852	Case	Gambia	16	[12,18)
-100855	Case	Gambia	21	[18,24)
-100856	Control	Gambia	28	[24,60)
-100857	Control	Gambia	26	[24,60)
-100887	Case	Gambia	22	[18,24)
-100889	Case	Gambia	 9	[6,12)
-100894	Control	Gambia	 7	[6,12)
-102002	Case	Gambia	13	[12,18)
-102017	Case	Gambia	13	[12,18)
-102020	Control	Gambia	14	[12,18)
-102025	Control	Gambia	11	[6,12)
-102026	Case	Gambia	 6	[6,12)
-102027	Case	Gambia	10	[6,12)
-102028	Case	Gambia	15	[12,18)
-102029	Case	Gambia	 8	[6,12)
-102030	Case	Gambia	20	[18,24)
-102033	Control	Gambia	 9	[6,12)
-102035	Control	Gambia	10	[6,12)
-102036	Control	Gambia	17	[12,18)
-102037	Control	Gambia	23	[18,24)
-102038	Case	Gambia	10	[6,12)
-102039	Case	Gambia	34	[24,60)
-102045	Case	Gambia	 6	[6,12)
-102046	Case	Gambia	 4	[0,6)
-102047	Case	Gambia	 9	[6,12)
-102051	Control	Gambia	36	[24,60)
-102055	Case	Gambia	 8	[6,12)
-102075	Case	Gambia	17	[12,18)
-102083	Case	Gambia	12	[12,18)
-102092	Case	Gambia	46	[24,60)
-102098	Case	Gambia	 8	[6,12)
-102099	Case	Gambia	26	[24,60)
-102105	Case	Gambia	 4	[0,6)
-102106	Case	Gambia	 6	[6,12)
-102117	Case	Gambia	 9	[6,12)
-102118	Control	Gambia	 7	[6,12)
-102122	Control	Gambia	 8	[6,12)
-102124	Control	Gambia	25	[24,60)
-102132	Control	Gambia	10	[6,12)
-102133	Control	Gambia	 5	[0,6)
-102155	Case	Gambia	 6	[6,12)
-102157	Control	Gambia	 8	[6,12)
-102158	Case	Gambia	22	[18,24)
-102169	Control	Gambia	16	[12,18)
-102173	Case	Gambia	30	[24,60)
-102174	Case	Gambia	 7	[6,12)
-102177	Case	Gambia	 9	[6,12)
-102180	Control	Gambia	 7	[6,12)
-102184	Case	Gambia	 3	[0,6)
-102185	Case	Gambia	30	[24,60)
-102186	Case	Gambia	12	[12,18)
-102188	Case	Gambia	14	[12,18)
-102191	Case	Gambia	 6	[6,12)
-102196	Case	Gambia	15	[12,18)
-102200	Control	Gambia	30	[24,60)
-102206	Case	Gambia	 8	[6,12)
-102207	Case	Gambia	 9	[6,12)
-102209	Control	Gambia	 4	[0,6)
-102221	Case	Gambia	28	[24,60)
-102225	Control	Gambia	25	[24,60)
-102226	Control	Gambia	24	[24,60)
-102235	Case	Gambia	17	[12,18)
-102238	Control	Gambia	25	[24,60)
-102239	Case	Gambia	13	[12,18)
-102243	Control	Gambia	25	[24,60)
-102248	Case	Gambia	35	[24,60)
-102251	Control	Gambia	39	[24,60)
-102255	Control	Gambia	42	[24,60)
-102257	Case	Gambia	10	[6,12)
-102258	Case	Gambia	 4	[0,6)
-102259	Case	Gambia	11	[6,12)
-102260	Case	Gambia	21	[18,24)
-102261	Case	Gambia	23	[18,24)
-102263	Control	Gambia	38	[24,60)
-102265	Case	Gambia	16	[12,18)
-102267	Case	Gambia	 6	[6,12)
-102269	Control	Gambia	21	[18,24)
-102270	Control	Gambia	19	[18,24)
-102271	Control	Gambia	17	[12,18)
-102274	Control	Gambia	21	[18,24)
-102276	Control	Gambia	21	[18,24)
-102277	Control	Gambia	14	[12,18)
-102281	Case	Gambia	11	[6,12)
-102282	Case	Gambia	16	[12,18)
-102285	Control	Gambia	 6	[6,12)
-102288	Case	Gambia	19	[18,24)
-102289	Case	Gambia	 2	[0,6)
-102290	Control	Gambia	17	[12,18)
-102291	Control	Gambia	16	[12,18)
-102292	Control	Gambia	10	[6,12)
-102294	Case	Gambia	20	[18,24)
-102295	Case	Gambia	24	[24,60)
-102297	Control	Gambia	 3	[0,6)
-102298	Case	Gambia	11	[6,12)
-102300	Case	Gambia	15	[12,18)
-102301	Case	Gambia	 7	[6,12)
-102304	Case	Gambia	19	[18,24)
-102305	Case	Gambia	 2	[0,6)
-102311	Case	Gambia	 7	[6,12)
-102314	Control	Gambia	16	[12,18)
-102315	Control	Gambia	27	[24,60)
-102316	Control	Gambia	26	[24,60)
-102317	Control	Gambia	25	[24,60)
-102318	Control	Gambia	10	[6,12)
-102320	Control	Gambia	20	[18,24)
-102321	Control	Gambia	14	[12,18)
-102322	Control	Gambia	 9	[6,12)
-102323	Control	Gambia	 9	[6,12)
-102324	Control	Gambia	 6	[6,12)
-102325	Case	Gambia	17	[12,18)
-102326	Control	Gambia	22	[18,24)
-102329	Control	Gambia	 8	[6,12)
-102331	Control	Gambia	18	[18,24)
-102332	Control	Gambia	15	[12,18)
-102333	Control	Gambia	16	[12,18)
-102334	Case	Gambia	18	[18,24)
-102337	Case	Gambia	20	[18,24)
-102338	Case	Gambia	17	[12,18)
-102341	Control	Gambia	18	[18,24)
-102345	Control	Gambia	21	[18,24)
-102348	Case	Gambia	16	[12,18)
-102349	Case	Gambia	19	[18,24)
-102350	Case	Gambia	22	[18,24)
-102352	Control	Gambia	20	[18,24)
-102355	Case	Gambia	 5	[0,6)
-102357	Control	Gambia	14	[12,18)
-102358	Control	Gambia	15	[12,18)
-102360	Case	Gambia	33	[24,60)
-102361	Control	Gambia	24	[24,60)
-102362	Control	Gambia	27	[24,60)
-102363	Control	Gambia	26	[24,60)
-102364	Control	Gambia	 8	[6,12)
-102370	Case	Gambia	21	[18,24)
-102371	Case	Gambia	24	[24,60)
-102372	Control	Gambia	20	[18,24)
-102373	Case	Gambia	17	[12,18)
-102375	Case	Gambia	 3	[0,6)
-102377	Case	Gambia	 9	[6,12)
-102379	Control	Gambia	26	[24,60)
-102380	Control	Gambia	26	[24,60)
-102382	Control	Gambia	 9	[6,12)
-102384	Case	Gambia	19	[18,24)
-102385	Case	Gambia	 7	[6,12)
-102387	Control	Gambia	 4	[0,6)
-102390	Case	Gambia	 7	[6,12)
-102396	Case	Gambia	19	[18,24)
-102397	Case	Gambia	 4	[0,6)
-102402	Control	Gambia	 5	[0,6)
-102404	Case	Gambia	19	[18,24)
-102405	Control	Gambia	23	[18,24)
-102406	Control	Gambia	 9	[6,12)
-102407	Control	Gambia	22	[18,24)
-102412	Control	Gambia	20	[18,24)
-102415	Control	Gambia	27	[24,60)
-102416	Control	Gambia	28	[24,60)
-102417	Case	Gambia	 4	[0,6)
-102418	Case	Gambia	30	[24,60)
-102421	Control	Gambia	23	[18,24)
-102423	Control	Gambia	28	[24,60)
-102424	Control	Gambia	28	[24,60)
-102425	Control	Gambia	 6	[6,12)
-102427	Case	Gambia	32	[24,60)
-102429	Case	Gambia	19	[18,24)
-102430	Case	Gambia	19	[18,24)
-102432	Control	Gambia	27	[24,60)
-102434	Control	Gambia	20	[18,24)
-102435	Control	Gambia	30	[24,60)
-102438	Control	Gambia	21	[18,24)
-102442	Case	Gambia	36	[24,60)
-102444	Case	Gambia	 8	[6,12)
-102445	Case	Gambia	53	[24,60)
-102446	Control	Gambia	20	[18,24)
-102447	Control	Gambia	21	[18,24)
-102448	Control	Gambia	34	[24,60)
-102449	Control	Gambia	33	[24,60)
-102452	Case	Gambia	19	[18,24)
-102453	Case	Gambia	17	[12,18)
-102454	Control	Gambia	52	[24,60)
-102456	Control	Gambia	19	[18,24)
-102460	Case	Gambia	16	[12,18)
-102461	Control	Gambia	29	[24,60)
-102462	Control	Gambia	 8	[6,12)
-102463	Control	Gambia	19	[18,24)
-102464	Control	Gambia	20	[18,24)
-102465	Case	Gambia	 8	[6,12)
-102466	Case	Gambia	16	[12,18)
-102469	Case	Gambia	22	[18,24)
-102470	Case	Gambia	17	[12,18)
-102471	Case	Gambia	17	[12,18)
-102472	Control	Gambia	23	[18,24)
-102474	Control	Gambia	23	[18,24)
-102475	Control	Gambia	21	[18,24)
-102477	Control	Gambia	12	[12,18)
-102479	Control	Gambia	10	[6,12)
-102480	Control	Gambia	10	[6,12)
-102481	Control	Gambia	15	[12,18)
-102482	Control	Gambia	 9	[6,12)
-102489	Case	Gambia	10	[6,12)
-102490	Control	Gambia	 4	[0,6)
-102491	Case	Gambia	19	[18,24)
-102493	Control	Gambia	20	[18,24)
-102494	Case	Gambia	22	[18,24)
-102495	Case	Gambia	 8	[6,12)
-102503	Case	Gambia	34	[24,60)
-200068	Case	Mali	 6	[6,12)
-200069	Case	Mali	27	[24,60)
-200079	Case	Mali	33	[24,60)
-200106	Case	Mali	19	[18,24)
-200108	Case	Mali	11	[6,12)
-200127	Control	Mali	29	[24,60)
-200129	Case	Mali	34	[24,60)
-200131	Case	Mali	 6	[6,12)
-200132	Case	Mali	 3	[0,6)
-200133	Case	Mali	48	[24,60)
-200134	Case	Mali	26	[24,60)
-200136	Case	Mali	 8	[6,12)
-200138	Case	Mali	 5	[0,6)
-200140	Case	Mali	14	[12,18)
-200142	Case	Mali	17	[12,18)
-200143	Case	Mali	20	[18,24)
-200144	Case	Mali	36	[24,60)
-200147	Case	Mali	18	[18,24)
-200148	Case	Mali	 4	[0,6)
-200149	Case	Mali	 6	[6,12)
-200154	Case	Mali	 8	[6,12)
-200156	Case	Mali	23	[18,24)
-200157	Case	Mali	 4	[0,6)
-200158	Control	Mali	15	[12,18)
-200159	Control	Mali	14	[12,18)
-200160	Control	Mali	16	[12,18)
-200161	Control	Mali	14	[12,18)
-200162	Control	Mali	29	[24,60)
-200163	Control	Mali	 7	[6,12)
-200164	Control	Mali	34	[24,60)
-200165	Control	Mali	20	[18,24)
-200166	Control	Mali	34	[24,60)
-200167	Control	Mali	38	[24,60)
-200169	Control	Mali	10	[6,12)
-200170	Control	Mali	28	[24,60)
-200171	Control	Mali	 6	[6,12)
-200172	Control	Mali	15	[12,18)
-200174	Case	Mali	24	[24,60)
-200175	Case	Mali	11	[6,12)
-200178	Case	Mali	11	[6,12)
-200179	Case	Mali	 8	[6,12)
-200181	Control	Mali	25	[24,60)
-200184	Case	Mali	26	[24,60)
-200185	Case	Mali	19	[18,24)
-200192	Case	Mali	 0	[0,6)
-200195	Case	Mali	20	[18,24)
-200196	Case	Mali	 6	[6,12)
-200199	Case	Mali	14	[12,18)
-200200	Case	Mali	26	[24,60)
-200201	Control	Mali	11	[6,12)
-200203	Control	Mali	28	[24,60)
-200205	Control	Mali	10	[6,12)
-200206	Control	Mali	13	[12,18)
-200209	Control	Mali	15	[12,18)
-200210	Control	Mali	 7	[6,12)
-200211	Control	Mali	10	[6,12)
-200212	Control	Mali	27	[24,60)
-200213	Control	Mali	 9	[6,12)
-200214	Control	Mali	22	[18,24)
-200215	Control	Mali	 5	[0,6)
-200216	Control	Mali	16	[12,18)
-200218	Control	Mali	15	[12,18)
-200220	Control	Mali	 4	[0,6)
-200221	Control	Mali	30	[24,60)
-200233	Control	Mali	14	[12,18)
-200235	Control	Mali	52	[24,60)
-200237	Control	Mali	19	[18,24)
-200238	Case	Mali	44	[24,60)
-200241	Case	Mali	33	[24,60)
-200242	Case	Mali	 6	[6,12)
-200243	Control	Mali	 8	[6,12)
-200244	Case	Mali	 6	[6,12)
-200246	Case	Mali	 3	[0,6)
-200248	Case	Mali	10	[6,12)
-200249	Case	Mali	32	[24,60)
-200251	Control	Mali	29	[24,60)
-200252	Control	Mali	 6	[6,12)
-200256	Control	Mali	17	[12,18)
-200259	Control	Mali	19	[18,24)
-200260	Control	Mali	 6	[6,12)
-200264	Control	Mali	28	[24,60)
-200265	Control	Mali	13	[12,18)
-200272	Control	Mali	 7	[6,12)
-200273	Control	Mali	17	[12,18)
-200274	Control	Mali	45	[24,60)
-200276	Control	Mali	 6	[6,12)
-200277	Control	Mali	 6	[6,12)
-200278	Control	Mali	 8	[6,12)
-200282	Control	Mali	 6	[6,12)
-200283	Control	Mali	28	[24,60)
-200284	Control	Mali	39	[24,60)
-200285	Control	Mali	17	[12,18)
-200286	Case	Mali	18	[18,24)
-200287	Case	Mali	12	[12,18)
-200288	Case	Mali	15	[12,18)
-200291	Case	Mali	 6	[6,12)
-200292	Case	Mali	13	[12,18)
-200293	Case	Mali	 9	[6,12)
-200294	Case	Mali	16	[12,18)
-200295	Case	Mali	13	[12,18)
-200298	Case	Mali	12	[12,18)
-200299	Case	Mali	 9	[6,12)
-200300	Case	Mali	12	[12,18)
-200301	Case	Mali	 7	[6,12)
-200302	Case	Mali	 4	[0,6)
-200303	Case	Mali	10	[6,12)
-200304	Case	Mali	 9	[6,12)
-200305	Case	Mali	 6	[6,12)
-200306	Case	Mali	12	[12,18)
-200307	Case	Mali	13	[12,18)
-200309	Case	Mali	15	[12,18)
-200310	Case	Mali	43	[24,60)
-200311	Case	Mali	 9	[6,12)
-200312	Case	Mali	10	[6,12)
-200314	Case	Mali	11	[6,12)
-200315	Case	Mali	23	[18,24)
-200316	Case	Mali	 9	[6,12)
-200317	Control	Mali	 7	[6,12)
-200318	Control	Mali	 7	[6,12)
-200319	Control	Mali	 4	[0,6)
-200320	Control	Mali	30	[24,60)
-200321	Case	Mali	16	[12,18)
-200322	Case	Mali	19	[18,24)
-200323	Case	Mali	26	[24,60)
-200324	Case	Mali	 7	[6,12)
-200325	Case	Mali	 7	[6,12)
-200326	Case	Mali	40	[24,60)
-200327	Case	Mali	 9	[6,12)
-200328	Case	Mali	 8	[6,12)
-200329	Case	Mali	 8	[6,12)
-200330	Case	Mali	 4	[0,6)
-200331	Case	Mali	 8	[6,12)
-200332	Case	Mali	 7	[6,12)
-200334	Control	Mali	 9	[6,12)
-200335	Control	Mali	12	[12,18)
-200336	Control	Mali	 5	[0,6)
-200337	Control	Mali	24	[24,60)
-200338	Control	Mali	 8	[6,12)
-200339	Control	Mali	20	[18,24)
-200340	Control	Mali	12	[12,18)
-200341	Control	Mali	 5	[0,6)
-200342	Control	Mali	17	[12,18)
-200343	Control	Mali	12	[12,18)
-200344	Control	Mali	11	[6,12)
-200345	Control	Mali	 8	[6,12)
-200346	Control	Mali	 7	[6,12)
-200347	Case	Mali	 8	[6,12)
-200348	Case	Mali	13	[12,18)
-200349	Case	Mali	12	[12,18)
-200350	Case	Mali	 5	[0,6)
-200351	Control	Mali	 9	[6,12)
-200352	Control	Mali	 7	[6,12)
-200353	Control	Mali	18	[18,24)
-200355	Control	Mali	13	[12,18)
-200357	Control	Mali	 6	[6,12)
-200358	Control	Mali	36	[24,60)
-200362	Control	Mali	 8	[6,12)
-200363	Case	Mali	 8	[6,12)
-200364	Case	Mali	 9	[6,12)
-200365	Case	Mali	 8	[6,12)
-200366	Case	Mali	26	[24,60)
-200367	Case	Mali	 9	[6,12)
-200369	Case	Mali	 9	[6,12)
-200370	Case	Mali	 9	[6,12)
-200371	Case	Mali	11	[6,12)
-200377	Case	Mali	11	[6,12)
-200378	Case	Mali	 9	[6,12)
-200379	Case	Mali	10	[6,12)
-200381	Case	Mali	 1	[0,6)
-200382	Case	Mali	 7	[6,12)
-200383	Case	Mali	10	[6,12)
-200385	Case	Mali	18	[18,24)
-200386	Case	Mali	 7	[6,12)
-200387	Case	Mali	10	[6,12)
-200388	Case	Mali	39	[24,60)
-200390	Case	Mali	 7	[6,12)
-200392	Case	Mali	 5	[0,6)
-200393	Case	Mali	15	[12,18)
-200400	Control	Mali	17	[12,18)
-200401	Control	Mali	 8	[6,12)
-200403	Control	Mali	12	[12,18)
-200404	Control	Mali	 8	[6,12)
-200406	Control	Mali	12	[12,18)
-200407	Control	Mali	 9	[6,12)
-200410	Control	Mali	34	[24,60)
-200411	Control	Mali	10	[6,12)
-200412	Control	Mali	 5	[0,6)
-200413	Control	Mali	 9	[6,12)
-200414	Control	Mali	 1	[0,6)
-200415	Control	Mali	 8	[6,12)
-200416	Control	Mali	 8	[6,12)
-200417	Control	Mali	42	[24,60)
-200418	Control	Mali	30	[24,60)
-200419	Control	Mali	 7	[6,12)
-200420	Control	Mali	 6	[6,12)
-200421	Case	Mali	33	[24,60)
-200422	Case	Mali	10	[6,12)
-200425	Case	Mali	 9	[6,12)
-200429	Control	Mali	10	[6,12)
-200430	Case	Mali	 7	[6,12)
-200434	Case	Mali	 5	[0,6)
-200435	Case	Mali	10	[6,12)
-200442	Case	Mali	36	[24,60)
-200446	Control	Mali	11	[6,12)
-200450	Control	Mali	 6	[6,12)
-200451	Control	Mali	 4	[0,6)
-200452	Control	Mali	11	[6,12)
-200453	Control	Mali	 8	[6,12)
-200454	Control	Mali	 7	[6,12)
-200457	Control	Mali	 3	[0,6)
-200459	Control	Mali	39	[24,60)
-202019	Case	Mali	27	[24,60)
-400554	Case	Kenya	31	[24,60)
-400555	Control	Kenya	30	[24,60)
-400556	Case	Kenya	48	[24,60)
-400558	Case	Kenya	33	[24,60)
-400559	Control	Kenya	36	[24,60)
-400560	Case	Kenya	 4	[0,6)
-400561	Control	Kenya	13	[12,18)
-400562	Case	Kenya	14	[12,18)
-400628	Case	Kenya	18	[18,24)
-400629	Control	Kenya	18	[18,24)
-400630	Control	Kenya	10	[6,12)
-400631	Case	Kenya	 9	[6,12)
-400632	Control	Kenya	12	[12,18)
-400633	Case	Kenya	13	[12,18)
-400634	Case	Kenya	 5	[0,6)
-400635	Control	Kenya	 5	[0,6)
-400636	Case	Kenya	 5	[0,6)
-400637	Control	Kenya	 5	[0,6)
-400638	Case	Kenya	23	[18,24)
-400640	Case	Kenya	 8	[6,12)
-400641	Control	Kenya	 9	[6,12)
-400642	Case	Kenya	12	[12,18)
-400654	Case	Kenya	 8	[6,12)
-400655	Control	Kenya	 9	[6,12)
-400656	Case	Kenya	 9	[6,12)
-400659	Control	Kenya	39	[24,60)
-400663	Control	Kenya	 7	[6,12)
-400679	Case	Kenya	 9	[6,12)
-400680	Control	Kenya	 8	[6,12)
-400875	Case	Kenya	57	[24,60)
-400877	Case	Kenya	 8	[6,12)
-400878	Control	Kenya	 8	[6,12)
-400879	Case	Kenya	 7	[6,12)
-400881	Case	Kenya	18	[18,24)
-400882	Control	Kenya	14	[12,18)
-400920	Case	Kenya	 6	[6,12)
-400921	Case	Kenya	 6	[6,12)
-400925	Control	Kenya	14	[12,18)
-400964	Control	Kenya	13	[12,18)
-400966	Control	Kenya	 2	[0,6)
-400967	Case	Kenya	16	[12,18)
-400968	Control	Kenya	16	[12,18)
-400969	Case	Kenya	 1	[0,6)
-400970	Control	Kenya	 3	[0,6)
-400972	Case	Kenya	12	[12,18)
-400974	Control	Kenya	13	[12,18)
-400975	Control	Kenya	21	[18,24)
-400976	Control	Kenya	 6	[6,12)
-400977	Case	Kenya	21	[18,24)
-400978	Control	Kenya	20	[18,24)
-400979	Case	Kenya	 6	[6,12)
-400993	Control	Kenya	 9	[6,12)
-400994	Control	Kenya	26	[24,60)
-400995	Case	Kenya	10	[6,12)
-400999	Control	Kenya	 6	[6,12)
-401000	Control	Kenya	23	[18,24)
-401004	Case	Kenya	13	[12,18)
-401005	Case	Kenya	23	[18,24)
-401006	Control	Kenya	19	[18,24)
-401007	Control	Kenya	21	[18,24)
-401008	Control	Kenya	14	[12,18)
-401009	Case	Kenya	29	[24,60)
-401010	Case	Kenya	31	[24,60)
-401011	Control	Kenya	31	[24,60)
-401012	Control	Kenya	28	[24,60)
-401013	Case	Kenya	 6	[6,12)
-401015	Control	Kenya	 5	[0,6)
-401016	Case	Kenya	24	[24,60)
-401017	Control	Kenya	24	[24,60)
-401018	Control	Kenya	 3	[0,6)
-401019	Case	Kenya	 6	[6,12)
-401020	Case	Kenya	17	[12,18)
-401021	Control	Kenya	18	[18,24)
-401022	Control	Kenya	 7	[6,12)
-401023	Case	Kenya	11	[6,12)
-401024	Case	Kenya	54	[24,60)
-401025	Case	Kenya	19	[18,24)
-401026	Control	Kenya	54	[24,60)
-401029	Control	Kenya	21	[18,24)
-401030	Control	Kenya	18	[18,24)
-401032	Control	Kenya	 4	[0,6)
-401033	Case	Kenya	 7	[6,12)
-401034	Control	Kenya	 5	[0,6)
-401035	Case	Kenya	 7	[6,12)
-401036	Control	Kenya	 8	[6,12)
-401037	Case	Kenya	 4	[0,6)
-401039	Case	Kenya	 8	[6,12)
-401060	Control	Kenya	11	[6,12)
-401061	Control	Kenya	35	[24,60)
-401062	Case	Kenya	45	[24,60)
-401063	Case	Kenya	43	[24,60)
-401064	Control	Kenya	41	[24,60)
-401065	Control	Kenya	43	[24,60)
-401068	Case	Kenya	10	[6,12)
-401069	Case	Kenya	 6	[6,12)
-401070	Control	Kenya	 7	[6,12)
-401071	Control	Kenya	 9	[6,12)
-401072	Case	Kenya	 4	[0,6)
-401073	Case	Kenya	 7	[6,12)
-401074	Control	Kenya	 8	[6,12)
-401075	Control	Kenya	 4	[0,6)
-401076	Case	Kenya	55	[24,60)
-401077	Control	Kenya	57	[24,60)
-401078	Case	Kenya	 5	[0,6)
-401079	Control	Kenya	 4	[0,6)
-401080	Case	Kenya	23	[18,24)
-401081	Control	Kenya	21	[18,24)
-401083	Case	Kenya	 1	[0,6)
-401084	Control	Kenya	 3	[0,6)
-401085	Case	Kenya	 6	[6,12)
-401086	Control	Kenya	 7	[6,12)
-401088	Case	Kenya	24	[24,60)
-401090	Control	Kenya	34	[24,60)
-401091	Case	Kenya	 6	[6,12)
-401093	Case	Kenya	40	[24,60)
-401094	Control	Kenya	42	[24,60)
-401095	Case	Kenya	16	[12,18)
-401096	Control	Kenya	16	[12,18)
-401097	Case	Kenya	23	[18,24)
-401098	Control	Kenya	24	[24,60)
-401100	Control	Kenya	33	[24,60)
-401101	Case	Kenya	16	[12,18)
-401103	Case	Kenya	20	[18,24)
-401105	Case	Kenya	 8	[6,12)
-401106	Control	Kenya	 7	[6,12)
-401107	Case	Kenya	10	[6,12)
-401109	Case	Kenya	 2	[0,6)
-401111	Case	Kenya	 6	[6,12)
-401113	Case	Kenya	33	[24,60)
-401115	Case	Kenya	 3	[0,6)
-401116	Control	Kenya	30	[24,60)
-401117	Control	Kenya	 3	[0,6)
-401118	Case	Kenya	 0	[0,6)
-401120	Control	Kenya	10	[6,12)
-401121	Control	Kenya	 4	[0,6)
-401122	Case	Kenya	11	[6,12)
-401123	Control	Kenya	 9	[6,12)
-401124	Case	Kenya	 5	[0,6)
-401125	Control	Kenya	 5	[0,6)
-401126	Case	Kenya	24	[24,60)
-401129	Control	Kenya	 7	[6,12)
-401131	Case	Kenya	43	[24,60)
-401132	Control	Kenya	45	[24,60)
-401133	Case	Kenya	45	[24,60)
-401134	Control	Kenya	47	[24,60)
-401135	Case	Kenya	26	[24,60)
-401138	Case	Kenya	 8	[6,12)
-401140	Case	Kenya	12	[12,18)
-401144	Case	Kenya	38	[24,60)
-401147	Control	Kenya	40	[24,60)
-401181	Case	Kenya	 5	[0,6)
-401182	Case	Kenya	16	[12,18)
-401185	Case	Kenya	 8	[6,12)
-401199	Control	Kenya	 4	[0,6)
-401200	Case	Kenya	10	[6,12)
-401201	Control	Kenya	10	[6,12)
-401233	Case	Kenya	24	[24,60)
-401235	Case	Kenya	 8	[6,12)
-401236	Control	Kenya	24	[24,60)
-401241	Case	Kenya	 7	[6,12)
-401244	Case	Kenya	11	[6,12)
-401261	Case	Kenya	 8	[6,12)
-401370	Case	Kenya	 9	[6,12)
-401371	Control	Kenya	 8	[6,12)
-401372	Case	Kenya	25	[24,60)
-401373	Control	Kenya	24	[24,60)
-401374	Case	Kenya	12	[12,18)
-401376	Case	Kenya	53	[24,60)
-401378	Case	Kenya	27	[24,60)
-401380	Case	Kenya	28	[24,60)
-401404	Control	Kenya	14	[12,18)
-401420	Case	Kenya	17	[12,18)
-401513	Case	Kenya	10	[6,12)
-401515	Case	Kenya	29	[24,60)
-401516	Control	Kenya	31	[24,60)
-401517	Case	Kenya	19	[18,24)
-401518	Case	Kenya	15	[12,18)
-401519	Control	Kenya	20	[18,24)
-401520	Control	Kenya	12	[12,18)
-401521	Case	Kenya	 9	[6,12)
-401522	Control	Kenya	10	[6,12)
-401523	Case	Kenya	17	[12,18)
-401528	Case	Kenya	23	[18,24)
-401530	Control	Kenya	28	[24,60)
-401541	Case	Kenya	 9	[6,12)
-401544	Control	Kenya	 7	[6,12)
-401545	Control	Kenya	 4	[0,6)
-401546	Control	Kenya	47	[24,60)
-401547	Case	Kenya	 6	[6,12)
-401549	Control	Kenya	 5	[0,6)
-401550	Control	Kenya	48	[24,60)
-401551	Case	Kenya	17	[12,18)
-401553	Control	Kenya	33	[24,60)
-401554	Control	Kenya	16	[12,18)
-401555	Case	Kenya	 5	[0,6)
-401556	Case	Kenya	33	[24,60)
-401558	Control	Kenya	 5	[0,6)
-401559	Case	Kenya	13	[12,18)
-401560	Control	Kenya	15	[12,18)
-401565	Control	Kenya	 2	[0,6)
-401567	Case	Kenya	 5	[0,6)
-401568	Control	Kenya	 5	[0,6)
-401569	Case	Kenya	34	[24,60)
-401570	Control	Kenya	36	[24,60)
-401572	Case	Kenya	 6	[6,12)
-401573	Case	Kenya	27	[24,60)
-401574	Control	Kenya	 4	[0,6)
-401576	Case	Kenya	 9	[6,12)
-401577	Case	Kenya	12	[12,18)
-401581	Case	Kenya	22	[18,24)
-401582	Case	Kenya	17	[12,18)
-401592	Case	Kenya	50	[24,60)
-401593	Control	Kenya	52	[24,60)
-401596	Case	Kenya	 7	[6,12)
-401600	Control	Kenya	 7	[6,12)
-401601	Case	Kenya	27	[24,60)
-401602	Control	Kenya	26	[24,60)
-401603	Case	Kenya	29	[24,60)
-401604	Control	Kenya	30	[24,60)
-401605	Case	Kenya	43	[24,60)
-401608	Control	Kenya	 9	[6,12)
-401609	Case	Kenya	27	[24,60)
-401624	Case	Kenya	 5	[0,6)
-401625	Control	Kenya	 4	[0,6)
-401632	Control	Kenya	 5	[0,6)
-401634	Control	Kenya	 4	[0,6)
-401635	Case	Kenya	 4	[0,6)
-401637	Case	Kenya	18	[18,24)
-401638	Control	Kenya	 2	[0,6)
-401640	Case	Kenya	52	[24,60)
-401642	Control	Kenya	49	[24,60)
-401644	Case	Kenya	 5	[0,6)
-401645	Case	Kenya	 3	[0,6)
-401647	Control	Kenya	 5	[0,6)
-401649	Case	Kenya	13	[12,18)
-401653	Control	Kenya	12	[12,18)
-401654	Case	Kenya	48	[24,60)
-401655	Control	Kenya	50	[24,60)
-401656	Case	Kenya	26	[24,60)
-401657	Control	Kenya	25	[24,60)
-401658	Case	Kenya	18	[18,24)
-401659	Control	Kenya	21	[18,24)
-401660	Case	Kenya	21	[18,24)
-401661	Control	Kenya	17	[12,18)
-401662	Case	Kenya	 3	[0,6)
-401663	Control	Kenya	 3	[0,6)
-401664	Case	Kenya	15	[12,18)
-401666	Case	Kenya	 9	[6,12)
-401682	Case	Kenya	15	[12,18)
-401693	Case	Kenya	 6	[6,12)
-401694	Control	Kenya	 6	[6,12)
-401704	Case	Kenya	 5	[0,6)
-401705	Case	Kenya	44	[24,60)
-401710	Case	Kenya	 2	[0,6)
-401711	Case	Kenya	 8	[6,12)
-401718	Control	Kenya	 6	[6,12)
-401722	Control	Kenya	55	[24,60)
-401724	Case	Kenya	 4	[0,6)
-401725	Control	Kenya	25	[24,60)
-401726	Case	Kenya	32	[24,60)
-401727	Case	Kenya	 5	[0,6)
-401728	Control	Kenya	33	[24,60)
-401729	Control	Kenya	 4	[0,6)
-401730	Control	Kenya	 5	[0,6)
-401732	Control	Kenya	20	[18,24)
-401733	Case	Kenya	12	[12,18)
-401735	Control	Kenya	15	[12,18)
-401736	Control	Kenya	27	[24,60)
-401737	Control	Kenya	 8	[6,12)
-401738	Control	Kenya	 5	[0,6)
-401739	Case	Kenya	 7	[6,12)
-401740	Case	Kenya	 7	[6,12)
-401743	Control	Kenya	 8	[6,12)
-401750	Case	Kenya	 2	[0,6)
-401754	Case	Kenya	48	[24,60)
-401757	Case	Kenya	47	[24,60)
-401759	Case	Kenya	37	[24,60)
-401760	Case	Kenya	 6	[6,12)
-401763	Control	Kenya	 4	[0,6)
-401764	Control	Kenya	10	[6,12)
-401778	Case	Kenya	16	[12,18)
-401794	Control	Kenya	 6	[6,12)
-401796	Control	Kenya	44	[24,60)
-401797	Case	Kenya	 6	[6,12)
-401799	Case	Kenya	 6	[6,12)
-401801	Case	Kenya	14	[12,18)
-401808	Control	Kenya	 6	[6,12)
-401809	Case	Kenya	23	[18,24)
-401812	Control	Kenya	 6	[6,12)
-401853	Case	Kenya	10	[6,12)
-401856	Case	Kenya	13	[12,18)
-401857	Control	Kenya	32	[24,60)
-401858	Control	Kenya	13	[12,18)
-401860	Case	Kenya	13	[12,18)
-401861	Control	Kenya	14	[12,18)
-401863	Case	Kenya	 7	[6,12)
-401864	Case	Kenya	25	[24,60)
-401865	Control	Kenya	 8	[6,12)
-401867	Case	Kenya	 2	[0,6)
-401868	Control	Kenya	 1	[0,6)
-401869	Case	Kenya	21	[18,24)
-401881	Control	Kenya	25	[24,60)
-401882	Case	Kenya	11	[6,12)
-401883	Control	Kenya	10	[6,12)
-401884	Case	Kenya	 4	[0,6)
-600002	Case	Bangladesh	32	[24,60)
-600005	Control	Bangladesh	19	[18,24)
-600011	Control	Bangladesh	17	[12,18)
-600025	Case	Bangladesh	30	[24,60)
-600028	Control	Bangladesh	47	[24,60)
-600035	Case	Bangladesh	10	[6,12)
-600038	Control	Bangladesh	10	[6,12)
-600040	Case	Bangladesh	40	[24,60)
-600052	Control	Bangladesh	35	[24,60)
-600053	Case	Bangladesh	10	[6,12)
-600081	Control	Bangladesh	 7	[6,12)
-600083	Control	Bangladesh	19	[18,24)
-600090	Control	Bangladesh	22	[18,24)
-600096	Control	Bangladesh	 7	[6,12)
-600100	Case	Bangladesh	 6	[6,12)
-600104	Control	Bangladesh	 8	[6,12)
-600109	Case	Bangladesh	19	[18,24)
-600112	Case	Bangladesh	13	[12,18)
-600113	Case	Bangladesh	13	[12,18)
-600132	Control	Bangladesh	10	[6,12)
-600134	Control	Bangladesh	23	[18,24)
-600140	Control	Bangladesh	11	[6,12)
-600166	Control	Bangladesh	13	[12,18)
-600173	Control	Bangladesh	19	[18,24)
-600216	Case	Bangladesh	17	[12,18)
-600227	Control	Bangladesh	22	[18,24)
-600260	Case	Bangladesh	18	[18,24)
-600262	Control	Bangladesh	16	[12,18)
-600319	Control	Bangladesh	36	[24,60)
-600341	Case	Bangladesh	18	[18,24)
-600346	Control	Bangladesh	20	[18,24)
-600362	Control	Bangladesh	10	[6,12)
-600458	Control	Bangladesh	16	[12,18)
-600584	Control	Bangladesh	42	[24,60)
-600620	Case	Bangladesh	34	[24,60)
-600621	Control	Bangladesh	 7	[6,12)
-600624	Case	Bangladesh	 1	[0,6)
-600627	Control	Bangladesh	34	[24,60)
-600632	Control	Bangladesh	33	[24,60)
-600633	Control	Bangladesh	20	[18,24)
-600635	Control	Bangladesh	16	[12,18)
-600637	Case	Bangladesh	26	[24,60)
-600638	Control	Bangladesh	22	[18,24)
-600646	Case	Bangladesh	35	[24,60)
-600648	Control	Bangladesh	12	[12,18)
-600649	Case	Bangladesh	39	[24,60)
-600654	Control	Bangladesh	38	[24,60)
-600655	Case	Bangladesh	 8	[6,12)
-600656	Case	Bangladesh	50	[24,60)
-600666	Control	Bangladesh	26	[24,60)
-600668	Control	Bangladesh	16	[12,18)
-600671	Control	Bangladesh	46	[24,60)
-600672	Control	Bangladesh	 7	[6,12)
-600675	Case	Bangladesh	11	[6,12)
-600683	Case	Bangladesh	 8	[6,12)
-600684	Case	Bangladesh	19	[18,24)
-600686	Control	Bangladesh	15	[12,18)
-600690	Case	Bangladesh	21	[18,24)
-600698	Control	Bangladesh	22	[18,24)
-600710	Case	Bangladesh	34	[24,60)
-600711	Control	Bangladesh	14	[12,18)
-600718	Case	Bangladesh	46	[24,60)
-600729	Control	Bangladesh	21	[18,24)
-600744	Case	Bangladesh	14	[12,18)
-600751	Control	Bangladesh	20	[18,24)
-600752	Control	Bangladesh	28	[24,60)
-600761	Case	Bangladesh	30	[24,60)
-600763	Control	Bangladesh	41	[24,60)
-600765	Control	Bangladesh	30	[24,60)
-600767	Control	Bangladesh	15	[12,18)
-600775	Case	Bangladesh	12	[12,18)
-600776	Case	Bangladesh	20	[18,24)
-600781	Control	Bangladesh	23	[18,24)
-600782	Case	Bangladesh	 6	[6,12)
-600783	Control	Bangladesh	19	[18,24)
-600785	Case	Bangladesh	41	[24,60)
-600786	Control	Bangladesh	 6	[6,12)
-600787	Case	Bangladesh	 5	[0,6)
-600788	Case	Bangladesh	10	[6,12)
-600789	Control	Bangladesh	44	[24,60)
-600792	Control	Bangladesh	 7	[6,12)
-600794	Case	Bangladesh	10	[6,12)
-600795	Case	Bangladesh	17	[12,18)
-600796	Case	Bangladesh	21	[18,24)
-600797	Control	Bangladesh	11	[6,12)
-600798	Control	Bangladesh	20	[18,24)
-600799	Control	Bangladesh	 9	[6,12)
-600801	Control	Bangladesh	20	[18,24)
-600802	Case	Bangladesh	 8	[6,12)
-600803	Case	Bangladesh	 4	[0,6)
-600805	Case	Bangladesh	18	[18,24)
-600807	Case	Bangladesh	11	[6,12)
-600808	Case	Bangladesh	17	[12,18)
-600809	Control	Bangladesh	16	[12,18)
-600811	Case	Bangladesh	38	[24,60)
-600812	Control	Bangladesh	 7	[6,12)
-600813	Case	Bangladesh	15	[12,18)
-600816	Control	Bangladesh	20	[18,24)
-600818	Control	Bangladesh	18	[18,24)
-600819	Case	Bangladesh	23	[18,24)
-600823	Control	Bangladesh	 7	[6,12)
-600824	Case	Bangladesh	 8	[6,12)
-600826	Control	Bangladesh	10	[6,12)
-600828	Control	Bangladesh	 9	[6,12)
-600830	Control	Bangladesh	12	[12,18)
-600831	Control	Bangladesh	27	[24,60)
-600833	Case	Bangladesh	14	[12,18)
-600835	Case	Bangladesh	33	[24,60)
-600837	Case	Bangladesh	 5	[0,6)
-600840	Case	Bangladesh	14	[12,18)
-600843	Case	Bangladesh	11	[6,12)
-600845	Case	Bangladesh	 5	[0,6)
-600846	Control	Bangladesh	 3	[0,6)
-600847	Case	Bangladesh	10	[6,12)
-600854	Case	Bangladesh	25	[24,60)
-600863	Case	Bangladesh	 7	[6,12)
-600867	Control	Bangladesh	 7	[6,12)
-600876	Case	Bangladesh	35	[24,60)
-600879	Case	Bangladesh	40	[24,60)
-600880	Case	Bangladesh	11	[6,12)
-600881	Control	Bangladesh	33	[24,60)
-600890	Control	Bangladesh	 2	[0,6)
-600891	Case	Bangladesh	32	[24,60)
-600901	Control	Bangladesh	18	[18,24)
-600909	Control	Bangladesh	23	[18,24)
-600910	Case	Bangladesh	 4	[0,6)
-600913	Control	Bangladesh	 5	[0,6)
-600915	Control	Bangladesh	11	[6,12)
-600917	Control	Bangladesh	 7	[6,12)
-600919	Case	Bangladesh	 8	[6,12)
-600926	Case	Bangladesh	 7	[6,12)
-600949	Control	Bangladesh	19	[18,24)
-600953	Control	Bangladesh	 8	[6,12)
-600955	Control	Bangladesh	13	[12,18)
-600956	Control	Bangladesh	58	[24,60)
-600958	Case	Bangladesh	17	[12,18)
-600967	Control	Bangladesh	 7	[6,12)
-600970	Case	Bangladesh	12	[12,18)
-600984	Case	Bangladesh	32	[24,60)
-600987	Case	Bangladesh	22	[18,24)
-601001	Control	Bangladesh	15	[12,18)
-601003	Control	Bangladesh	23	[18,24)
-601007	Control	Bangladesh	26	[24,60)
-601008	Case	Bangladesh	17	[12,18)
-601009	Case	Bangladesh	 6	[6,12)
-601012	Case	Bangladesh	28	[24,60)
-601017	Control	Bangladesh	16	[12,18)
-601021	Control	Bangladesh	18	[18,24)
-601036	Case	Bangladesh	37	[24,60)
-601039	Case	Bangladesh	 9	[6,12)
-601044	Control	Bangladesh	34	[24,60)
-601045	Case	Bangladesh	10	[6,12)
-601046	Case	Bangladesh	14	[12,18)
-601047	Control	Bangladesh	 7	[6,12)
-601049	Case	Bangladesh	13	[12,18)
-601050	Case	Bangladesh	 0	[0,6)
-601052	Control	Bangladesh	11	[6,12)
-601053	Case	Bangladesh	13	[12,18)
-601055	Control	Bangladesh	17	[12,18)
-601056	Control	Bangladesh	12	[12,18)
-601059	Case	Bangladesh	 7	[6,12)
-601125	Case	Bangladesh	 8	[6,12)
-601131	Case	Bangladesh	 6	[6,12)
-601160	Case	Bangladesh	37	[24,60)
-601161	Case	Bangladesh	 8	[6,12)
-601186	Control	Bangladesh	28	[24,60)
-601208	Case	Bangladesh	52	[24,60)
-601216	Control	Bangladesh	 8	[6,12)
-601230	Control	Bangladesh	50	[24,60)
-602025	Case	Bangladesh	 7	[6,12)
-602030	Control	Bangladesh	 5	[0,6)
-602036	Control	Bangladesh	40	[24,60)
-602039	Control	Bangladesh	 7	[6,12)
-602040	Control	Bangladesh	11	[6,12)
-602047	Case	Bangladesh	16	[12,18)
-602054	Case	Bangladesh	21	[18,24)
-602055	Control	Bangladesh	25	[24,60)
-602061	Control	Bangladesh	35	[24,60)
-602062	Case	Bangladesh	27	[24,60)
-602070	Case	Bangladesh	 4	[0,6)
-602085	Control	Bangladesh	 3	[0,6)
-602102	Control	Bangladesh	11	[6,12)
-602107	Control	Bangladesh	12	[12,18)
-602113	Control	Bangladesh	 4	[0,6)
-602129	Case	Bangladesh	12	[12,18)
-602133	Control	Bangladesh	29	[24,60)
-602143	Case	Bangladesh	23	[18,24)
-602150	Control	Bangladesh	51	[24,60)
-602154	Case	Bangladesh	16	[12,18)
-602162	Control	Bangladesh	30	[24,60)
-602175	Case	Bangladesh	 1	[0,6)
-602186	Control	Bangladesh	30	[24,60)
-602190	Control	Bangladesh	15	[12,18)
-602201	Control	Bangladesh	25	[24,60)
-602210	Control	Bangladesh	46	[24,60)
-602215	Case	Bangladesh	36	[24,60)
-602220	Case	Bangladesh	34	[24,60)
-602224	Control	Bangladesh	40	[24,60)
-602305	Control	Bangladesh	 6	[6,12)
-602336	Case	Bangladesh	40	[24,60)
-602345	Control	Bangladesh	27	[24,60)
-602363	Control	Bangladesh	38	[24,60)
-602372	Control	Bangladesh	 5	[0,6)
-602377	Case	Bangladesh	42	[24,60)
-602382	Control	Bangladesh	10	[6,12)
-602385	Case	Bangladesh	47	[24,60)
+name	case_control	country	age_months	age_factor	sample_type	env_feature
+100259	Case	Gambia	14	[12,18)	Stool	Human
+100262	Control	Gambia	24	[24,60)	Stool	Human
+100267	Case	Gambia	17	[12,18)	Stool	Human
+100274	Case	Gambia	36	[24,60)	Stool	Human
+100275	Case	Gambia	29	[24,60)	Stool	Human
+100277	Case	Gambia	29	[24,60)	Stool	Human
+100291	Control	Gambia	27	[24,60)	Stool	Human
+100292	Control	Gambia	30	[24,60)	Stool	Human
+100293	Case	Gambia	20	[18,24)	Stool	Human
+100294	Control	Gambia	33	[24,60)	Stool	Human
+100298	Control	Gambia	21	[18,24)	Stool	Human
+100303	Control	Gambia	58	[24,60)	Stool	Human
+100317	Case	Gambia	40	[24,60)	Stool	Human
+100320	Control	Gambia	42	[24,60)	Stool	Human
+100322	Case	Gambia	7	[6,12)	Stool	Human
+100341	Case	Gambia	14	[12,18)	Stool	Human
+100353	Control	Gambia	21	[18,24)	Stool	Human
+100356	Control	Gambia	27	[24,60)	Stool	Human
+100361	Case	Gambia	14	[12,18)	Stool	Human
+100365	Control	Gambia	16	[12,18)	Stool	Human
+100395	Case	Gambia	21	[18,24)	Stool	Human
+100401	Case	Gambia	20	[18,24)	Stool	Human
+100403	Control	Gambia	17	[12,18)	Stool	Human
+100437	Control	Gambia	17	[12,18)	Stool	Human
+100457	Control	Gambia	30	[24,60)	Stool	Human
+100462	Control	Gambia	10	[6,12)	Stool	Human
+100470	Control	Gambia	13	[12,18)	Stool	Human
+100476	Case	Gambia	9	[6,12)	Stool	Human
+100489	Control	Gambia	19	[18,24)	Stool	Human
+100491	Case	Gambia	6	[6,12)	Stool	Human
+100505	Control	Gambia	20	[18,24)	Stool	Human
+100506	Control	Gambia	23	[18,24)	Stool	Human
+100510	Case	Gambia	10	[6,12)	Stool	Human
+100512	Case	Gambia	18	[18,24)	Stool	Human
+100513	Case	Gambia	20	[18,24)	Stool	Human
+100515	Case	Gambia	23	[18,24)	Stool	Human
+100516	Case	Gambia	10	[6,12)	Stool	Human
+100523	Control	Gambia	19	[18,24)	Stool	Human
+100537	Case	Gambia	11	[6,12)	Stool	Human
+100545	Control	Gambia	11	[6,12)	Stool	Human
+100547	Case	Gambia	26	[24,60)	Stool	Human
+100552	Control	Gambia	10	[6,12)	Stool	Human
+100556	Case	Gambia	10	[6,12)	Stool	Human
+100562	Control	Gambia	10	[6,12)	Stool	Human
+100563	Case	Gambia	10	[6,12)	Stool	Human
+100567	Control	Gambia	8	[6,12)	Stool	Human
+100601	Case	Gambia	18	[18,24)	Stool	Human
+100618	Control	Gambia	17	[12,18)	Stool	Human
+100636	Case	Gambia	26	[24,60)	Stool	Human
+100704	Case	Gambia	14	[12,18)	Stool	Human
+100716	Case	Gambia	20	[18,24)	Stool	Human
+100722	Control	Gambia	19	[18,24)	Stool	Human
+100749	Case	Gambia	12	[12,18)	Stool	Human
+100750	Case	Gambia	15	[12,18)	Stool	Human
+100759	Case	Gambia	29	[24,60)	Stool	Human
+100760	Control	Gambia	12	[12,18)	Stool	Human
+100764	Control	Gambia	35	[24,60)	Stool	Human
+100778	Case	Gambia	25	[24,60)	Stool	Human
+100782	Control	Gambia	24	[24,60)	Stool	Human
+100798	Control	Gambia	26	[24,60)	Stool	Human
+100815	Case	Gambia	8	[6,12)	Stool	Human
+100821	Case	Gambia	7	[6,12)	Stool	Human
+100829	Case	Gambia	9	[6,12)	Stool	Human
+100831	Case	Gambia	28	[24,60)	Stool	Human
+100848	Case	Gambia	24	[24,60)	Stool	Human
+100852	Case	Gambia	16	[12,18)	Stool	Human
+100855	Case	Gambia	21	[18,24)	Stool	Human
+100856	Control	Gambia	28	[24,60)	Stool	Human
+100857	Control	Gambia	26	[24,60)	Stool	Human
+100887	Case	Gambia	22	[18,24)	Stool	Human
+100889	Case	Gambia	9	[6,12)	Stool	Human
+100894	Control	Gambia	7	[6,12)	Stool	Human
+102002	Case	Gambia	13	[12,18)	Stool	Human
+102017	Case	Gambia	13	[12,18)	Stool	Human
+102020	Control	Gambia	14	[12,18)	Stool	Human
+102025	Control	Gambia	11	[6,12)	Stool	Human
+102026	Case	Gambia	6	[6,12)	Stool	Human
+102027	Case	Gambia	10	[6,12)	Stool	Human
+102028	Case	Gambia	15	[12,18)	Stool	Human
+102029	Case	Gambia	8	[6,12)	Stool	Human
+102030	Case	Gambia	20	[18,24)	Stool	Human
+102033	Control	Gambia	9	[6,12)	Stool	Human
+102035	Control	Gambia	10	[6,12)	Stool	Human
+102036	Control	Gambia	17	[12,18)	Stool	Human
+102037	Control	Gambia	23	[18,24)	Stool	Human
+102038	Case	Gambia	10	[6,12)	Stool	Human
+102039	Case	Gambia	34	[24,60)	Stool	Human
+102045	Case	Gambia	6	[6,12)	Stool	Human
+102046	Case	Gambia	4	[0,6)	Stool	Human
+102047	Case	Gambia	9	[6,12)	Stool	Human
+102051	Control	Gambia	36	[24,60)	Stool	Human
+102055	Case	Gambia	8	[6,12)	Stool	Human
+102075	Case	Gambia	17	[12,18)	Stool	Human
+102083	Case	Gambia	12	[12,18)	Stool	Human
+102092	Case	Gambia	46	[24,60)	Stool	Human
+102098	Case	Gambia	8	[6,12)	Stool	Human
+102099	Case	Gambia	26	[24,60)	Stool	Human
+102105	Case	Gambia	4	[0,6)	Stool	Human
+102106	Case	Gambia	6	[6,12)	Stool	Human
+102117	Case	Gambia	9	[6,12)	Stool	Human
+102118	Control	Gambia	7	[6,12)	Stool	Human
+102122	Control	Gambia	8	[6,12)	Stool	Human
+102124	Control	Gambia	25	[24,60)	Stool	Human
+102132	Control	Gambia	10	[6,12)	Stool	Human
+102133	Control	Gambia	5	[0,6)	Stool	Human
+102155	Case	Gambia	6	[6,12)	Stool	Human
+102157	Control	Gambia	8	[6,12)	Stool	Human
+102158	Case	Gambia	22	[18,24)	Stool	Human
+102169	Control	Gambia	16	[12,18)	Stool	Human
+102173	Case	Gambia	30	[24,60)	Stool	Human
+102174	Case	Gambia	7	[6,12)	Stool	Human
+102177	Case	Gambia	9	[6,12)	Stool	Human
+102180	Control	Gambia	7	[6,12)	Stool	Human
+102184	Case	Gambia	3	[0,6)	Stool	Human
+102185	Case	Gambia	30	[24,60)	Stool	Human
+102186	Case	Gambia	12	[12,18)	Stool	Human
+102188	Case	Gambia	14	[12,18)	Stool	Human
+102191	Case	Gambia	6	[6,12)	Stool	Human
+102196	Case	Gambia	15	[12,18)	Stool	Human
+102200	Control	Gambia	30	[24,60)	Stool	Human
+102206	Case	Gambia	8	[6,12)	Stool	Human
+102207	Case	Gambia	9	[6,12)	Stool	Human
+102209	Control	Gambia	4	[0,6)	Stool	Human
+102221	Case	Gambia	28	[24,60)	Stool	Human
+102225	Control	Gambia	25	[24,60)	Stool	Human
+102226	Control	Gambia	24	[24,60)	Stool	Human
+102235	Case	Gambia	17	[12,18)	Stool	Human
+102238	Control	Gambia	25	[24,60)	Stool	Human
+102239	Case	Gambia	13	[12,18)	Stool	Human
+102243	Control	Gambia	25	[24,60)	Stool	Human
+102248	Case	Gambia	35	[24,60)	Stool	Human
+102251	Control	Gambia	39	[24,60)	Stool	Human
+102255	Control	Gambia	42	[24,60)	Stool	Human
+102257	Case	Gambia	10	[6,12)	Stool	Human
+102258	Case	Gambia	4	[0,6)	Stool	Human
+102259	Case	Gambia	11	[6,12)	Stool	Human
+102260	Case	Gambia	21	[18,24)	Stool	Human
+102261	Case	Gambia	23	[18,24)	Stool	Human
+102263	Control	Gambia	38	[24,60)	Stool	Human
+102265	Case	Gambia	16	[12,18)	Stool	Human
+102267	Case	Gambia	6	[6,12)	Stool	Human
+102269	Control	Gambia	21	[18,24)	Stool	Human
+102270	Control	Gambia	19	[18,24)	Stool	Human
+102271	Control	Gambia	17	[12,18)	Stool	Human
+102274	Control	Gambia	21	[18,24)	Stool	Human
+102276	Control	Gambia	21	[18,24)	Stool	Human
+102277	Control	Gambia	14	[12,18)	Stool	Human
+102281	Case	Gambia	11	[6,12)	Stool	Human
+102282	Case	Gambia	16	[12,18)	Stool	Human
+102285	Control	Gambia	6	[6,12)	Stool	Human
+102288	Case	Gambia	19	[18,24)	Stool	Human
+102289	Case	Gambia	2	[0,6)	Stool	Human
+102290	Control	Gambia	17	[12,18)	Stool	Human
+102291	Control	Gambia	16	[12,18)	Stool	Human
+102292	Control	Gambia	10	[6,12)	Stool	Human
+102294	Case	Gambia	20	[18,24)	Stool	Human
+102295	Case	Gambia	24	[24,60)	Stool	Human
+102297	Control	Gambia	3	[0,6)	Stool	Human
+102298	Case	Gambia	11	[6,12)	Stool	Human
+102300	Case	Gambia	15	[12,18)	Stool	Human
+102301	Case	Gambia	7	[6,12)	Stool	Human
+102304	Case	Gambia	19	[18,24)	Stool	Human
+102305	Case	Gambia	2	[0,6)	Stool	Human
+102311	Case	Gambia	7	[6,12)	Stool	Human
+102314	Control	Gambia	16	[12,18)	Stool	Human
+102315	Control	Gambia	27	[24,60)	Stool	Human
+102316	Control	Gambia	26	[24,60)	Stool	Human
+102317	Control	Gambia	25	[24,60)	Stool	Human
+102318	Control	Gambia	10	[6,12)	Stool	Human
+102320	Control	Gambia	20	[18,24)	Stool	Human
+102321	Control	Gambia	14	[12,18)	Stool	Human
+102322	Control	Gambia	9	[6,12)	Stool	Human
+102323	Control	Gambia	9	[6,12)	Stool	Human
+102324	Control	Gambia	6	[6,12)	Stool	Human
+102325	Case	Gambia	17	[12,18)	Stool	Human
+102326	Control	Gambia	22	[18,24)	Stool	Human
+102329	Control	Gambia	8	[6,12)	Stool	Human
+102331	Control	Gambia	18	[18,24)	Stool	Human
+102332	Control	Gambia	15	[12,18)	Stool	Human
+102333	Control	Gambia	16	[12,18)	Stool	Human
+102334	Case	Gambia	18	[18,24)	Stool	Human
+102337	Case	Gambia	20	[18,24)	Stool	Human
+102338	Case	Gambia	17	[12,18)	Stool	Human
+102341	Control	Gambia	18	[18,24)	Stool	Human
+102345	Control	Gambia	21	[18,24)	Stool	Human
+102348	Case	Gambia	16	[12,18)	Stool	Human
+102349	Case	Gambia	19	[18,24)	Stool	Human
+102350	Case	Gambia	22	[18,24)	Stool	Human
+102352	Control	Gambia	20	[18,24)	Stool	Human
+102355	Case	Gambia	5	[0,6)	Stool	Human
+102357	Control	Gambia	14	[12,18)	Stool	Human
+102358	Control	Gambia	15	[12,18)	Stool	Human
+102360	Case	Gambia	33	[24,60)	Stool	Human
+102361	Control	Gambia	24	[24,60)	Stool	Human
+102362	Control	Gambia	27	[24,60)	Stool	Human
+102363	Control	Gambia	26	[24,60)	Stool	Human
+102364	Control	Gambia	8	[6,12)	Stool	Human
+102370	Case	Gambia	21	[18,24)	Stool	Human
+102371	Case	Gambia	24	[24,60)	Stool	Human
+102372	Control	Gambia	20	[18,24)	Stool	Human
+102373	Case	Gambia	17	[12,18)	Stool	Human
+102375	Case	Gambia	3	[0,6)	Stool	Human
+102377	Case	Gambia	9	[6,12)	Stool	Human
+102379	Control	Gambia	26	[24,60)	Stool	Human
+102380	Control	Gambia	26	[24,60)	Stool	Human
+102382	Control	Gambia	9	[6,12)	Stool	Human
+102384	Case	Gambia	19	[18,24)	Stool	Human
+102385	Case	Gambia	7	[6,12)	Stool	Human
+102387	Control	Gambia	4	[0,6)	Stool	Human
+102390	Case	Gambia	7	[6,12)	Stool	Human
+102396	Case	Gambia	19	[18,24)	Stool	Human
+102397	Case	Gambia	4	[0,6)	Stool	Human
+102402	Control	Gambia	5	[0,6)	Stool	Human
+102404	Case	Gambia	19	[18,24)	Stool	Human
+102405	Control	Gambia	23	[18,24)	Stool	Human
+102406	Control	Gambia	9	[6,12)	Stool	Human
+102407	Control	Gambia	22	[18,24)	Stool	Human
+102412	Control	Gambia	20	[18,24)	Stool	Human
+102415	Control	Gambia	27	[24,60)	Stool	Human
+102416	Control	Gambia	28	[24,60)	Stool	Human
+102417	Case	Gambia	4	[0,6)	Stool	Human
+102418	Case	Gambia	30	[24,60)	Stool	Human
+102421	Control	Gambia	23	[18,24)	Stool	Human
+102423	Control	Gambia	28	[24,60)	Stool	Human
+102424	Control	Gambia	28	[24,60)	Stool	Human
+102425	Control	Gambia	6	[6,12)	Stool	Human
+102427	Case	Gambia	32	[24,60)	Stool	Human
+102429	Case	Gambia	19	[18,24)	Stool	Human
+102430	Case	Gambia	19	[18,24)	Stool	Human
+102432	Control	Gambia	27	[24,60)	Stool	Human
+102434	Control	Gambia	20	[18,24)	Stool	Human
+102435	Control	Gambia	30	[24,60)	Stool	Human
+102438	Control	Gambia	21	[18,24)	Stool	Human
+102442	Case	Gambia	36	[24,60)	Stool	Human
+102444	Case	Gambia	8	[6,12)	Stool	Human
+102445	Case	Gambia	53	[24,60)	Stool	Human
+102446	Control	Gambia	20	[18,24)	Stool	Human
+102447	Control	Gambia	21	[18,24)	Stool	Human
+102448	Control	Gambia	34	[24,60)	Stool	Human
+102449	Control	Gambia	33	[24,60)	Stool	Human
+102452	Case	Gambia	19	[18,24)	Stool	Human
+102453	Case	Gambia	17	[12,18)	Stool	Human
+102454	Control	Gambia	52	[24,60)	Stool	Human
+102456	Control	Gambia	19	[18,24)	Stool	Human
+102460	Case	Gambia	16	[12,18)	Stool	Human
+102461	Control	Gambia	29	[24,60)	Stool	Human
+102462	Control	Gambia	8	[6,12)	Stool	Human
+102463	Control	Gambia	19	[18,24)	Stool	Human
+102464	Control	Gambia	20	[18,24)	Stool	Human
+102465	Case	Gambia	8	[6,12)	Stool	Human
+102466	Case	Gambia	16	[12,18)	Stool	Human
+102469	Case	Gambia	22	[18,24)	Stool	Human
+102470	Case	Gambia	17	[12,18)	Stool	Human
+102471	Case	Gambia	17	[12,18)	Stool	Human
+102472	Control	Gambia	23	[18,24)	Stool	Human
+102474	Control	Gambia	23	[18,24)	Stool	Human
+102475	Control	Gambia	21	[18,24)	Stool	Human
+102477	Control	Gambia	12	[12,18)	Stool	Human
+102479	Control	Gambia	10	[6,12)	Stool	Human
+102480	Control	Gambia	10	[6,12)	Stool	Human
+102481	Control	Gambia	15	[12,18)	Stool	Human
+102482	Control	Gambia	9	[6,12)	Stool	Human
+102489	Case	Gambia	10	[6,12)	Stool	Human
+102490	Control	Gambia	4	[0,6)	Stool	Human
+102491	Case	Gambia	19	[18,24)	Stool	Human
+102493	Control	Gambia	20	[18,24)	Stool	Human
+102494	Case	Gambia	22	[18,24)	Stool	Human
+102495	Case	Gambia	8	[6,12)	Stool	Human
+102503	Case	Gambia	34	[24,60)	Stool	Human
+200068	Case	Mali	6	[6,12)	Stool	Human
+200069	Case	Mali	27	[24,60)	Stool	Human
+200079	Case	Mali	33	[24,60)	Stool	Human
+200106	Case	Mali	19	[18,24)	Stool	Human
+200108	Case	Mali	11	[6,12)	Stool	Human
+200127	Control	Mali	29	[24,60)	Stool	Human
+200129	Case	Mali	34	[24,60)	Stool	Human
+200131	Case	Mali	6	[6,12)	Stool	Human
+200132	Case	Mali	3	[0,6)	Stool	Human
+200133	Case	Mali	48	[24,60)	Stool	Human
+200134	Case	Mali	26	[24,60)	Stool	Human
+200136	Case	Mali	8	[6,12)	Stool	Human
+200138	Case	Mali	5	[0,6)	Stool	Human
+200140	Case	Mali	14	[12,18)	Stool	Human
+200142	Case	Mali	17	[12,18)	Stool	Human
+200143	Case	Mali	20	[18,24)	Stool	Human
+200144	Case	Mali	36	[24,60)	Stool	Human
+200147	Case	Mali	18	[18,24)	Stool	Human
+200148	Case	Mali	4	[0,6)	Stool	Human
+200149	Case	Mali	6	[6,12)	Stool	Human
+200154	Case	Mali	8	[6,12)	Stool	Human
+200156	Case	Mali	23	[18,24)	Stool	Human
+200157	Case	Mali	4	[0,6)	Stool	Human
+200158	Control	Mali	15	[12,18)	Stool	Human
+200159	Control	Mali	14	[12,18)	Stool	Human
+200160	Control	Mali	16	[12,18)	Stool	Human
+200161	Control	Mali	14	[12,18)	Stool	Human
+200162	Control	Mali	29	[24,60)	Stool	Human
+200163	Control	Mali	7	[6,12)	Stool	Human
+200164	Control	Mali	34	[24,60)	Stool	Human
+200165	Control	Mali	20	[18,24)	Stool	Human
+200166	Control	Mali	34	[24,60)	Stool	Human
+200167	Control	Mali	38	[24,60)	Stool	Human
+200169	Control	Mali	10	[6,12)	Stool	Human
+200170	Control	Mali	28	[24,60)	Stool	Human
+200171	Control	Mali	6	[6,12)	Stool	Human
+200172	Control	Mali	15	[12,18)	Stool	Human
+200174	Case	Mali	24	[24,60)	Stool	Human
+200175	Case	Mali	11	[6,12)	Stool	Human
+200178	Case	Mali	11	[6,12)	Stool	Human
+200179	Case	Mali	8	[6,12)	Stool	Human
+200181	Control	Mali	25	[24,60)	Stool	Human
+200184	Case	Mali	26	[24,60)	Stool	Human
+200185	Case	Mali	19	[18,24)	Stool	Human
+200192	Case	Mali	0	[0,6)	Stool	Human
+200195	Case	Mali	20	[18,24)	Stool	Human
+200196	Case	Mali	6	[6,12)	Stool	Human
+200199	Case	Mali	14	[12,18)	Stool	Human
+200200	Case	Mali	26	[24,60)	Stool	Human
+200201	Control	Mali	11	[6,12)	Stool	Human
+200203	Control	Mali	28	[24,60)	Stool	Human
+200205	Control	Mali	10	[6,12)	Stool	Human
+200206	Control	Mali	13	[12,18)	Stool	Human
+200209	Control	Mali	15	[12,18)	Stool	Human
+200210	Control	Mali	7	[6,12)	Stool	Human
+200211	Control	Mali	10	[6,12)	Stool	Human
+200212	Control	Mali	27	[24,60)	Stool	Human
+200213	Control	Mali	9	[6,12)	Stool	Human
+200214	Control	Mali	22	[18,24)	Stool	Human
+200215	Control	Mali	5	[0,6)	Stool	Human
+200216	Control	Mali	16	[12,18)	Stool	Human
+200218	Control	Mali	15	[12,18)	Stool	Human
+200220	Control	Mali	4	[0,6)	Stool	Human
+200221	Control	Mali	30	[24,60)	Stool	Human
+200233	Control	Mali	14	[12,18)	Stool	Human
+200235	Control	Mali	52	[24,60)	Stool	Human
+200237	Control	Mali	19	[18,24)	Stool	Human
+200238	Case	Mali	44	[24,60)	Stool	Human
+200241	Case	Mali	33	[24,60)	Stool	Human
+200242	Case	Mali	6	[6,12)	Stool	Human
+200243	Control	Mali	8	[6,12)	Stool	Human
+200244	Case	Mali	6	[6,12)	Stool	Human
+200246	Case	Mali	3	[0,6)	Stool	Human
+200248	Case	Mali	10	[6,12)	Stool	Human
+200249	Case	Mali	32	[24,60)	Stool	Human
+200251	Control	Mali	29	[24,60)	Stool	Human
+200252	Control	Mali	6	[6,12)	Stool	Human
+200256	Control	Mali	17	[12,18)	Stool	Human
+200259	Control	Mali	19	[18,24)	Stool	Human
+200260	Control	Mali	6	[6,12)	Stool	Human
+200264	Control	Mali	28	[24,60)	Stool	Human
+200265	Control	Mali	13	[12,18)	Stool	Human
+200272	Control	Mali	7	[6,12)	Stool	Human
+200273	Control	Mali	17	[12,18)	Stool	Human
+200274	Control	Mali	45	[24,60)	Stool	Human
+200276	Control	Mali	6	[6,12)	Stool	Human
+200277	Control	Mali	6	[6,12)	Stool	Human
+200278	Control	Mali	8	[6,12)	Stool	Human
+200282	Control	Mali	6	[6,12)	Stool	Human
+200283	Control	Mali	28	[24,60)	Stool	Human
+200284	Control	Mali	39	[24,60)	Stool	Human
+200285	Control	Mali	17	[12,18)	Stool	Human
+200286	Case	Mali	18	[18,24)	Stool	Human
+200287	Case	Mali	12	[12,18)	Stool	Human
+200288	Case	Mali	15	[12,18)	Stool	Human
+200291	Case	Mali	6	[6,12)	Stool	Human
+200292	Case	Mali	13	[12,18)	Stool	Human
+200293	Case	Mali	9	[6,12)	Stool	Human
+200294	Case	Mali	16	[12,18)	Stool	Human
+200295	Case	Mali	13	[12,18)	Stool	Human
+200298	Case	Mali	12	[12,18)	Stool	Human
+200299	Case	Mali	9	[6,12)	Stool	Human
+200300	Case	Mali	12	[12,18)	Stool	Human
+200301	Case	Mali	7	[6,12)	Stool	Human
+200302	Case	Mali	4	[0,6)	Stool	Human
+200303	Case	Mali	10	[6,12)	Stool	Human
+200304	Case	Mali	9	[6,12)	Stool	Human
+200305	Case	Mali	6	[6,12)	Stool	Human
+200306	Case	Mali	12	[12,18)	Stool	Human
+200307	Case	Mali	13	[12,18)	Stool	Human
+200309	Case	Mali	15	[12,18)	Stool	Human
+200310	Case	Mali	43	[24,60)	Stool	Human
+200311	Case	Mali	9	[6,12)	Stool	Human
+200312	Case	Mali	10	[6,12)	Stool	Human
+200314	Case	Mali	11	[6,12)	Stool	Human
+200315	Case	Mali	23	[18,24)	Stool	Human
+200316	Case	Mali	9	[6,12)	Stool	Human
+200317	Control	Mali	7	[6,12)	Stool	Human
+200318	Control	Mali	7	[6,12)	Stool	Human
+200319	Control	Mali	4	[0,6)	Stool	Human
+200320	Control	Mali	30	[24,60)	Stool	Human
+200321	Case	Mali	16	[12,18)	Stool	Human
+200322	Case	Mali	19	[18,24)	Stool	Human
+200323	Case	Mali	26	[24,60)	Stool	Human
+200324	Case	Mali	7	[6,12)	Stool	Human
+200325	Case	Mali	7	[6,12)	Stool	Human
+200326	Case	Mali	40	[24,60)	Stool	Human
+200327	Case	Mali	9	[6,12)	Stool	Human
+200328	Case	Mali	8	[6,12)	Stool	Human
+200329	Case	Mali	8	[6,12)	Stool	Human
+200330	Case	Mali	4	[0,6)	Stool	Human
+200331	Case	Mali	8	[6,12)	Stool	Human
+200332	Case	Mali	7	[6,12)	Stool	Human
+200334	Control	Mali	9	[6,12)	Stool	Human
+200335	Control	Mali	12	[12,18)	Stool	Human
+200336	Control	Mali	5	[0,6)	Stool	Human
+200337	Control	Mali	24	[24,60)	Stool	Human
+200338	Control	Mali	8	[6,12)	Stool	Human
+200339	Control	Mali	20	[18,24)	Stool	Human
+200340	Control	Mali	12	[12,18)	Stool	Human
+200341	Control	Mali	5	[0,6)	Stool	Human
+200342	Control	Mali	17	[12,18)	Stool	Human
+200343	Control	Mali	12	[12,18)	Stool	Human
+200344	Control	Mali	11	[6,12)	Stool	Human
+200345	Control	Mali	8	[6,12)	Stool	Human
+200346	Control	Mali	7	[6,12)	Stool	Human
+200347	Case	Mali	8	[6,12)	Stool	Human
+200348	Case	Mali	13	[12,18)	Stool	Human
+200349	Case	Mali	12	[12,18)	Stool	Human
+200350	Case	Mali	5	[0,6)	Stool	Human
+200351	Control	Mali	9	[6,12)	Stool	Human
+200352	Control	Mali	7	[6,12)	Stool	Human
+200353	Control	Mali	18	[18,24)	Stool	Human
+200355	Control	Mali	13	[12,18)	Stool	Human
+200357	Control	Mali	6	[6,12)	Stool	Human
+200358	Control	Mali	36	[24,60)	Stool	Human
+200362	Control	Mali	8	[6,12)	Stool	Human
+200363	Case	Mali	8	[6,12)	Stool	Human
+200364	Case	Mali	9	[6,12)	Stool	Human
+200365	Case	Mali	8	[6,12)	Stool	Human
+200366	Case	Mali	26	[24,60)	Stool	Human
+200367	Case	Mali	9	[6,12)	Stool	Human
+200369	Case	Mali	9	[6,12)	Stool	Human
+200370	Case	Mali	9	[6,12)	Stool	Human
+200371	Case	Mali	11	[6,12)	Stool	Human
+200377	Case	Mali	11	[6,12)	Stool	Human
+200378	Case	Mali	9	[6,12)	Stool	Human
+200379	Case	Mali	10	[6,12)	Stool	Human
+200381	Case	Mali	1	[0,6)	Stool	Human
+200382	Case	Mali	7	[6,12)	Stool	Human
+200383	Case	Mali	10	[6,12)	Stool	Human
+200385	Case	Mali	18	[18,24)	Stool	Human
+200386	Case	Mali	7	[6,12)	Stool	Human
+200387	Case	Mali	10	[6,12)	Stool	Human
+200388	Case	Mali	39	[24,60)	Stool	Human
+200390	Case	Mali	7	[6,12)	Stool	Human
+200392	Case	Mali	5	[0,6)	Stool	Human
+200393	Case	Mali	15	[12,18)	Stool	Human
+200400	Control	Mali	17	[12,18)	Stool	Human
+200401	Control	Mali	8	[6,12)	Stool	Human
+200403	Control	Mali	12	[12,18)	Stool	Human
+200404	Control	Mali	8	[6,12)	Stool	Human
+200406	Control	Mali	12	[12,18)	Stool	Human
+200407	Control	Mali	9	[6,12)	Stool	Human
+200410	Control	Mali	34	[24,60)	Stool	Human
+200411	Control	Mali	10	[6,12)	Stool	Human
+200412	Control	Mali	5	[0,6)	Stool	Human
+200413	Control	Mali	9	[6,12)	Stool	Human
+200414	Control	Mali	1	[0,6)	Stool	Human
+200415	Control	Mali	8	[6,12)	Stool	Human
+200416	Control	Mali	8	[6,12)	Stool	Human
+200417	Control	Mali	42	[24,60)	Stool	Human
+200418	Control	Mali	30	[24,60)	Stool	Human
+200419	Control	Mali	7	[6,12)	Stool	Human
+200420	Control	Mali	6	[6,12)	Stool	Human
+200421	Case	Mali	33	[24,60)	Stool	Human
+200422	Case	Mali	10	[6,12)	Stool	Human
+200425	Case	Mali	9	[6,12)	Stool	Human
+200429	Control	Mali	10	[6,12)	Stool	Human
+200430	Case	Mali	7	[6,12)	Stool	Human
+200434	Case	Mali	5	[0,6)	Stool	Human
+200435	Case	Mali	10	[6,12)	Stool	Human
+200442	Case	Mali	36	[24,60)	Stool	Human
+200446	Control	Mali	11	[6,12)	Stool	Human
+200450	Control	Mali	6	[6,12)	Stool	Human
+200451	Control	Mali	4	[0,6)	Stool	Human
+200452	Control	Mali	11	[6,12)	Stool	Human
+200453	Control	Mali	8	[6,12)	Stool	Human
+200454	Control	Mali	7	[6,12)	Stool	Human
+200457	Control	Mali	3	[0,6)	Stool	Human
+200459	Control	Mali	39	[24,60)	Stool	Human
+202019	Case	Mali	27	[24,60)	Stool	Human
+400554	Case	Kenya	31	[24,60)	Stool	Human
+400555	Control	Kenya	30	[24,60)	Stool	Human
+400556	Case	Kenya	48	[24,60)	Stool	Human
+400558	Case	Kenya	33	[24,60)	Stool	Human
+400559	Control	Kenya	36	[24,60)	Stool	Human
+400560	Case	Kenya	4	[0,6)	Stool	Human
+400561	Control	Kenya	13	[12,18)	Stool	Human
+400562	Case	Kenya	14	[12,18)	Stool	Human
+400628	Case	Kenya	18	[18,24)	Stool	Human
+400629	Control	Kenya	18	[18,24)	Stool	Human
+400630	Control	Kenya	10	[6,12)	Stool	Human
+400631	Case	Kenya	9	[6,12)	Stool	Human
+400632	Control	Kenya	12	[12,18)	Stool	Human
+400633	Case	Kenya	13	[12,18)	Stool	Human
+400634	Case	Kenya	5	[0,6)	Stool	Human
+400635	Control	Kenya	5	[0,6)	Stool	Human
+400636	Case	Kenya	5	[0,6)	Stool	Human
+400637	Control	Kenya	5	[0,6)	Stool	Human
+400638	Case	Kenya	23	[18,24)	Stool	Human
+400640	Case	Kenya	8	[6,12)	Stool	Human
+400641	Control	Kenya	9	[6,12)	Stool	Human
+400642	Case	Kenya	12	[12,18)	Stool	Human
+400654	Case	Kenya	8	[6,12)	Stool	Human
+400655	Control	Kenya	9	[6,12)	Stool	Human
+400656	Case	Kenya	9	[6,12)	Stool	Human
+400659	Control	Kenya	39	[24,60)	Stool	Human
+400663	Control	Kenya	7	[6,12)	Stool	Human
+400679	Case	Kenya	9	[6,12)	Stool	Human
+400680	Control	Kenya	8	[6,12)	Stool	Human
+400875	Case	Kenya	57	[24,60)	Stool	Human
+400877	Case	Kenya	8	[6,12)	Stool	Human
+400878	Control	Kenya	8	[6,12)	Stool	Human
+400879	Case	Kenya	7	[6,12)	Stool	Human
+400881	Case	Kenya	18	[18,24)	Stool	Human
+400882	Control	Kenya	14	[12,18)	Stool	Human
+400920	Case	Kenya	6	[6,12)	Stool	Human
+400921	Case	Kenya	6	[6,12)	Stool	Human
+400925	Control	Kenya	14	[12,18)	Stool	Human
+400964	Control	Kenya	13	[12,18)	Stool	Human
+400966	Control	Kenya	2	[0,6)	Stool	Human
+400967	Case	Kenya	16	[12,18)	Stool	Human
+400968	Control	Kenya	16	[12,18)	Stool	Human
+400969	Case	Kenya	1	[0,6)	Stool	Human
+400970	Control	Kenya	3	[0,6)	Stool	Human
+400972	Case	Kenya	12	[12,18)	Stool	Human
+400974	Control	Kenya	13	[12,18)	Stool	Human
+400975	Control	Kenya	21	[18,24)	Stool	Human
+400976	Control	Kenya	6	[6,12)	Stool	Human
+400977	Case	Kenya	21	[18,24)	Stool	Human
+400978	Control	Kenya	20	[18,24)	Stool	Human
+400979	Case	Kenya	6	[6,12)	Stool	Human
+400993	Control	Kenya	9	[6,12)	Stool	Human
+400994	Control	Kenya	26	[24,60)	Stool	Human
+400995	Case	Kenya	10	[6,12)	Stool	Human
+400999	Control	Kenya	6	[6,12)	Stool	Human
+401000	Control	Kenya	23	[18,24)	Stool	Human
+401004	Case	Kenya	13	[12,18)	Stool	Human
+401005	Case	Kenya	23	[18,24)	Stool	Human
+401006	Control	Kenya	19	[18,24)	Stool	Human
+401007	Control	Kenya	21	[18,24)	Stool	Human
+401008	Control	Kenya	14	[12,18)	Stool	Human
+401009	Case	Kenya	29	[24,60)	Stool	Human
+401010	Case	Kenya	31	[24,60)	Stool	Human
+401011	Control	Kenya	31	[24,60)	Stool	Human
+401012	Control	Kenya	28	[24,60)	Stool	Human
+401013	Case	Kenya	6	[6,12)	Stool	Human
+401015	Control	Kenya	5	[0,6)	Stool	Human
+401016	Case	Kenya	24	[24,60)	Stool	Human
+401017	Control	Kenya	24	[24,60)	Stool	Human
+401018	Control	Kenya	3	[0,6)	Stool	Human
+401019	Case	Kenya	6	[6,12)	Stool	Human
+401020	Case	Kenya	17	[12,18)	Stool	Human
+401021	Control	Kenya	18	[18,24)	Stool	Human
+401022	Control	Kenya	7	[6,12)	Stool	Human
+401023	Case	Kenya	11	[6,12)	Stool	Human
+401024	Case	Kenya	54	[24,60)	Stool	Human
+401025	Case	Kenya	19	[18,24)	Stool	Human
+401026	Control	Kenya	54	[24,60)	Stool	Human
+401029	Control	Kenya	21	[18,24)	Stool	Human
+401030	Control	Kenya	18	[18,24)	Stool	Human
+401032	Control	Kenya	4	[0,6)	Stool	Human
+401033	Case	Kenya	7	[6,12)	Stool	Human
+401034	Control	Kenya	5	[0,6)	Stool	Human
+401035	Case	Kenya	7	[6,12)	Stool	Human
+401036	Control	Kenya	8	[6,12)	Stool	Human
+401037	Case	Kenya	4	[0,6)	Stool	Human
+401039	Case	Kenya	8	[6,12)	Stool	Human
+401060	Control	Kenya	11	[6,12)	Stool	Human
+401061	Control	Kenya	35	[24,60)	Stool	Human
+401062	Case	Kenya	45	[24,60)	Stool	Human
+401063	Case	Kenya	43	[24,60)	Stool	Human
+401064	Control	Kenya	41	[24,60)	Stool	Human
+401065	Control	Kenya	43	[24,60)	Stool	Human
+401068	Case	Kenya	10	[6,12)	Stool	Human
+401069	Case	Kenya	6	[6,12)	Stool	Human
+401070	Control	Kenya	7	[6,12)	Stool	Human
+401071	Control	Kenya	9	[6,12)	Stool	Human
+401072	Case	Kenya	4	[0,6)	Stool	Human
+401073	Case	Kenya	7	[6,12)	Stool	Human
+401074	Control	Kenya	8	[6,12)	Stool	Human
+401075	Control	Kenya	4	[0,6)	Stool	Human
+401076	Case	Kenya	55	[24,60)	Stool	Human
+401077	Control	Kenya	57	[24,60)	Stool	Human
+401078	Case	Kenya	5	[0,6)	Stool	Human
+401079	Control	Kenya	4	[0,6)	Stool	Human
+401080	Case	Kenya	23	[18,24)	Stool	Human
+401081	Control	Kenya	21	[18,24)	Stool	Human
+401083	Case	Kenya	1	[0,6)	Stool	Human
+401084	Control	Kenya	3	[0,6)	Stool	Human
+401085	Case	Kenya	6	[6,12)	Stool	Human
+401086	Control	Kenya	7	[6,12)	Stool	Human
+401088	Case	Kenya	24	[24,60)	Stool	Human
+401090	Control	Kenya	34	[24,60)	Stool	Human
+401091	Case	Kenya	6	[6,12)	Stool	Human
+401093	Case	Kenya	40	[24,60)	Stool	Human
+401094	Control	Kenya	42	[24,60)	Stool	Human
+401095	Case	Kenya	16	[12,18)	Stool	Human
+401096	Control	Kenya	16	[12,18)	Stool	Human
+401097	Case	Kenya	23	[18,24)	Stool	Human
+401098	Control	Kenya	24	[24,60)	Stool	Human
+401100	Control	Kenya	33	[24,60)	Stool	Human
+401101	Case	Kenya	16	[12,18)	Stool	Human
+401103	Case	Kenya	20	[18,24)	Stool	Human
+401105	Case	Kenya	8	[6,12)	Stool	Human
+401106	Control	Kenya	7	[6,12)	Stool	Human
+401107	Case	Kenya	10	[6,12)	Stool	Human
+401109	Case	Kenya	2	[0,6)	Stool	Human
+401111	Case	Kenya	6	[6,12)	Stool	Human
+401113	Case	Kenya	33	[24,60)	Stool	Human
+401115	Case	Kenya	3	[0,6)	Stool	Human
+401116	Control	Kenya	30	[24,60)	Stool	Human
+401117	Control	Kenya	3	[0,6)	Stool	Human
+401118	Case	Kenya	0	[0,6)	Stool	Human
+401120	Control	Kenya	10	[6,12)	Stool	Human
+401121	Control	Kenya	4	[0,6)	Stool	Human
+401122	Case	Kenya	11	[6,12)	Stool	Human
+401123	Control	Kenya	9	[6,12)	Stool	Human
+401124	Case	Kenya	5	[0,6)	Stool	Human
+401125	Control	Kenya	5	[0,6)	Stool	Human
+401126	Case	Kenya	24	[24,60)	Stool	Human
+401129	Control	Kenya	7	[6,12)	Stool	Human
+401131	Case	Kenya	43	[24,60)	Stool	Human
+401132	Control	Kenya	45	[24,60)	Stool	Human
+401133	Case	Kenya	45	[24,60)	Stool	Human
+401134	Control	Kenya	47	[24,60)	Stool	Human
+401135	Case	Kenya	26	[24,60)	Stool	Human
+401138	Case	Kenya	8	[6,12)	Stool	Human
+401140	Case	Kenya	12	[12,18)	Stool	Human
+401144	Case	Kenya	38	[24,60)	Stool	Human
+401147	Control	Kenya	40	[24,60)	Stool	Human
+401181	Case	Kenya	5	[0,6)	Stool	Human
+401182	Case	Kenya	16	[12,18)	Stool	Human
+401185	Case	Kenya	8	[6,12)	Stool	Human
+401199	Control	Kenya	4	[0,6)	Stool	Human
+401200	Case	Kenya	10	[6,12)	Stool	Human
+401201	Control	Kenya	10	[6,12)	Stool	Human
+401233	Case	Kenya	24	[24,60)	Stool	Human
+401235	Case	Kenya	8	[6,12)	Stool	Human
+401236	Control	Kenya	24	[24,60)	Stool	Human
+401241	Case	Kenya	7	[6,12)	Stool	Human
+401244	Case	Kenya	11	[6,12)	Stool	Human
+401261	Case	Kenya	8	[6,12)	Stool	Human
+401370	Case	Kenya	9	[6,12)	Stool	Human
+401371	Control	Kenya	8	[6,12)	Stool	Human
+401372	Case	Kenya	25	[24,60)	Stool	Human
+401373	Control	Kenya	24	[24,60)	Stool	Human
+401374	Case	Kenya	12	[12,18)	Stool	Human
+401376	Case	Kenya	53	[24,60)	Stool	Human
+401378	Case	Kenya	27	[24,60)	Stool	Human
+401380	Case	Kenya	28	[24,60)	Stool	Human
+401404	Control	Kenya	14	[12,18)	Stool	Human
+401420	Case	Kenya	17	[12,18)	Stool	Human
+401513	Case	Kenya	10	[6,12)	Stool	Human
+401515	Case	Kenya	29	[24,60)	Stool	Human
+401516	Control	Kenya	31	[24,60)	Stool	Human
+401517	Case	Kenya	19	[18,24)	Stool	Human
+401518	Case	Kenya	15	[12,18)	Stool	Human
+401519	Control	Kenya	20	[18,24)	Stool	Human
+401520	Control	Kenya	12	[12,18)	Stool	Human
+401521	Case	Kenya	9	[6,12)	Stool	Human
+401522	Control	Kenya	10	[6,12)	Stool	Human
+401523	Case	Kenya	17	[12,18)	Stool	Human
+401528	Case	Kenya	23	[18,24)	Stool	Human
+401530	Control	Kenya	28	[24,60)	Stool	Human
+401541	Case	Kenya	9	[6,12)	Stool	Human
+401544	Control	Kenya	7	[6,12)	Stool	Human
+401545	Control	Kenya	4	[0,6)	Stool	Human
+401546	Control	Kenya	47	[24,60)	Stool	Human
+401547	Case	Kenya	6	[6,12)	Stool	Human
+401549	Control	Kenya	5	[0,6)	Stool	Human
+401550	Control	Kenya	48	[24,60)	Stool	Human
+401551	Case	Kenya	17	[12,18)	Stool	Human
+401553	Control	Kenya	33	[24,60)	Stool	Human
+401554	Control	Kenya	16	[12,18)	Stool	Human
+401555	Case	Kenya	5	[0,6)	Stool	Human
+401556	Case	Kenya	33	[24,60)	Stool	Human
+401558	Control	Kenya	5	[0,6)	Stool	Human
+401559	Case	Kenya	13	[12,18)	Stool	Human
+401560	Control	Kenya	15	[12,18)	Stool	Human
+401565	Control	Kenya	2	[0,6)	Stool	Human
+401567	Case	Kenya	5	[0,6)	Stool	Human
+401568	Control	Kenya	5	[0,6)	Stool	Human
+401569	Case	Kenya	34	[24,60)	Stool	Human
+401570	Control	Kenya	36	[24,60)	Stool	Human
+401572	Case	Kenya	6	[6,12)	Stool	Human
+401573	Case	Kenya	27	[24,60)	Stool	Human
+401574	Control	Kenya	4	[0,6)	Stool	Human
+401576	Case	Kenya	9	[6,12)	Stool	Human
+401577	Case	Kenya	12	[12,18)	Stool	Human
+401581	Case	Kenya	22	[18,24)	Stool	Human
+401582	Case	Kenya	17	[12,18)	Stool	Human
+401592	Case	Kenya	50	[24,60)	Stool	Human
+401593	Control	Kenya	52	[24,60)	Stool	Human
+401596	Case	Kenya	7	[6,12)	Stool	Human
+401600	Control	Kenya	7	[6,12)	Stool	Human
+401601	Case	Kenya	27	[24,60)	Stool	Human
+401602	Control	Kenya	26	[24,60)	Stool	Human
+401603	Case	Kenya	29	[24,60)	Stool	Human
+401604	Control	Kenya	30	[24,60)	Stool	Human
+401605	Case	Kenya	43	[24,60)	Stool	Human
+401608	Control	Kenya	9	[6,12)	Stool	Human
+401609	Case	Kenya	27	[24,60)	Stool	Human
+401624	Case	Kenya	5	[0,6)	Stool	Human
+401625	Control	Kenya	4	[0,6)	Stool	Human
+401632	Control	Kenya	5	[0,6)	Stool	Human
+401634	Control	Kenya	4	[0,6)	Stool	Human
+401635	Case	Kenya	4	[0,6)	Stool	Human
+401637	Case	Kenya	18	[18,24)	Stool	Human
+401638	Control	Kenya	2	[0,6)	Stool	Human
+401640	Case	Kenya	52	[24,60)	Stool	Human
+401642	Control	Kenya	49	[24,60)	Stool	Human
+401644	Case	Kenya	5	[0,6)	Stool	Human
+401645	Case	Kenya	3	[0,6)	Stool	Human
+401647	Control	Kenya	5	[0,6)	Stool	Human
+401649	Case	Kenya	13	[12,18)	Stool	Human
+401653	Control	Kenya	12	[12,18)	Stool	Human
+401654	Case	Kenya	48	[24,60)	Stool	Human
+401655	Control	Kenya	50	[24,60)	Stool	Human
+401656	Case	Kenya	26	[24,60)	Stool	Human
+401657	Control	Kenya	25	[24,60)	Stool	Human
+401658	Case	Kenya	18	[18,24)	Stool	Human
+401659	Control	Kenya	21	[18,24)	Stool	Human
+401660	Case	Kenya	21	[18,24)	Stool	Human
+401661	Control	Kenya	17	[12,18)	Stool	Human
+401662	Case	Kenya	3	[0,6)	Stool	Human
+401663	Control	Kenya	3	[0,6)	Stool	Human
+401664	Case	Kenya	15	[12,18)	Stool	Human
+401666	Case	Kenya	9	[6,12)	Stool	Human
+401682	Case	Kenya	15	[12,18)	Stool	Human
+401693	Case	Kenya	6	[6,12)	Stool	Human
+401694	Control	Kenya	6	[6,12)	Stool	Human
+401704	Case	Kenya	5	[0,6)	Stool	Human
+401705	Case	Kenya	44	[24,60)	Stool	Human
+401710	Case	Kenya	2	[0,6)	Stool	Human
+401711	Case	Kenya	8	[6,12)	Stool	Human
+401718	Control	Kenya	6	[6,12)	Stool	Human
+401722	Control	Kenya	55	[24,60)	Stool	Human
+401724	Case	Kenya	4	[0,6)	Stool	Human
+401725	Control	Kenya	25	[24,60)	Stool	Human
+401726	Case	Kenya	32	[24,60)	Stool	Human
+401727	Case	Kenya	5	[0,6)	Stool	Human
+401728	Control	Kenya	33	[24,60)	Stool	Human
+401729	Control	Kenya	4	[0,6)	Stool	Human
+401730	Control	Kenya	5	[0,6)	Stool	Human
+401732	Control	Kenya	20	[18,24)	Stool	Human
+401733	Case	Kenya	12	[12,18)	Stool	Human
+401735	Control	Kenya	15	[12,18)	Stool	Human
+401736	Control	Kenya	27	[24,60)	Stool	Human
+401737	Control	Kenya	8	[6,12)	Stool	Human
+401738	Control	Kenya	5	[0,6)	Stool	Human
+401739	Case	Kenya	7	[6,12)	Stool	Human
+401740	Case	Kenya	7	[6,12)	Stool	Human
+401743	Control	Kenya	8	[6,12)	Stool	Human
+401750	Case	Kenya	2	[0,6)	Stool	Human
+401754	Case	Kenya	48	[24,60)	Stool	Human
+401757	Case	Kenya	47	[24,60)	Stool	Human
+401759	Case	Kenya	37	[24,60)	Stool	Human
+401760	Case	Kenya	6	[6,12)	Stool	Human
+401763	Control	Kenya	4	[0,6)	Stool	Human
+401764	Control	Kenya	10	[6,12)	Stool	Human
+401778	Case	Kenya	16	[12,18)	Stool	Human
+401794	Control	Kenya	6	[6,12)	Stool	Human
+401796	Control	Kenya	44	[24,60)	Stool	Human
+401797	Case	Kenya	6	[6,12)	Stool	Human
+401799	Case	Kenya	6	[6,12)	Stool	Human
+401801	Case	Kenya	14	[12,18)	Stool	Human
+401808	Control	Kenya	6	[6,12)	Stool	Human
+401809	Case	Kenya	23	[18,24)	Stool	Human
+401812	Control	Kenya	6	[6,12)	Stool	Human
+401853	Case	Kenya	10	[6,12)	Stool	Human
+401856	Case	Kenya	13	[12,18)	Stool	Human
+401857	Control	Kenya	32	[24,60)	Stool	Human
+401858	Control	Kenya	13	[12,18)	Stool	Human
+401860	Case	Kenya	13	[12,18)	Stool	Human
+401861	Control	Kenya	14	[12,18)	Stool	Human
+401863	Case	Kenya	7	[6,12)	Stool	Human
+401864	Case	Kenya	25	[24,60)	Stool	Human
+401865	Control	Kenya	8	[6,12)	Stool	Human
+401867	Case	Kenya	2	[0,6)	Stool	Human
+401868	Control	Kenya	1	[0,6)	Stool	Human
+401869	Case	Kenya	21	[18,24)	Stool	Human
+401881	Control	Kenya	25	[24,60)	Stool	Human
+401882	Case	Kenya	11	[6,12)	Stool	Human
+401883	Control	Kenya	10	[6,12)	Stool	Human
+401884	Case	Kenya	4	[0,6)	Stool	Human
+600002	Case	Bangladesh	32	[24,60)	Stool	Human
+600005	Control	Bangladesh	19	[18,24)	Stool	Human
+600011	Control	Bangladesh	17	[12,18)	Stool	Human
+600025	Case	Bangladesh	30	[24,60)	Stool	Human
+600028	Control	Bangladesh	47	[24,60)	Stool	Human
+600035	Case	Bangladesh	10	[6,12)	Stool	Human
+600038	Control	Bangladesh	10	[6,12)	Stool	Human
+600040	Case	Bangladesh	40	[24,60)	Stool	Human
+600052	Control	Bangladesh	35	[24,60)	Stool	Human
+600053	Case	Bangladesh	10	[6,12)	Stool	Human
+600081	Control	Bangladesh	7	[6,12)	Stool	Human
+600083	Control	Bangladesh	19	[18,24)	Stool	Human
+600090	Control	Bangladesh	22	[18,24)	Stool	Human
+600096	Control	Bangladesh	7	[6,12)	Stool	Human
+600100	Case	Bangladesh	6	[6,12)	Stool	Human
+600104	Control	Bangladesh	8	[6,12)	Stool	Human
+600109	Case	Bangladesh	19	[18,24)	Stool	Human
+600112	Case	Bangladesh	13	[12,18)	Stool	Human
+600113	Case	Bangladesh	13	[12,18)	Stool	Human
+600132	Control	Bangladesh	10	[6,12)	Stool	Human
+600134	Control	Bangladesh	23	[18,24)	Stool	Human
+600140	Control	Bangladesh	11	[6,12)	Stool	Human
+600166	Control	Bangladesh	13	[12,18)	Stool	Human
+600173	Control	Bangladesh	19	[18,24)	Stool	Human
+600216	Case	Bangladesh	17	[12,18)	Stool	Human
+600227	Control	Bangladesh	22	[18,24)	Stool	Human
+600260	Case	Bangladesh	18	[18,24)	Stool	Human
+600262	Control	Bangladesh	16	[12,18)	Stool	Human
+600319	Control	Bangladesh	36	[24,60)	Stool	Human
+600341	Case	Bangladesh	18	[18,24)	Stool	Human
+600346	Control	Bangladesh	20	[18,24)	Stool	Human
+600362	Control	Bangladesh	10	[6,12)	Stool	Human
+600458	Control	Bangladesh	16	[12,18)	Stool	Human
+600584	Control	Bangladesh	42	[24,60)	Stool	Human
+600620	Case	Bangladesh	34	[24,60)	Stool	Human
+600621	Control	Bangladesh	7	[6,12)	Stool	Human
+600624	Case	Bangladesh	1	[0,6)	Stool	Human
+600627	Control	Bangladesh	34	[24,60)	Stool	Human
+600632	Control	Bangladesh	33	[24,60)	Stool	Human
+600633	Control	Bangladesh	20	[18,24)	Stool	Human
+600635	Control	Bangladesh	16	[12,18)	Stool	Human
+600637	Case	Bangladesh	26	[24,60)	Stool	Human
+600638	Control	Bangladesh	22	[18,24)	Stool	Human
+600646	Case	Bangladesh	35	[24,60)	Stool	Human
+600648	Control	Bangladesh	12	[12,18)	Stool	Human
+600649	Case	Bangladesh	39	[24,60)	Stool	Human
+600654	Control	Bangladesh	38	[24,60)	Stool	Human
+600655	Case	Bangladesh	8	[6,12)	Stool	Human
+600656	Case	Bangladesh	50	[24,60)	Stool	Human
+600666	Control	Bangladesh	26	[24,60)	Stool	Human
+600668	Control	Bangladesh	16	[12,18)	Stool	Human
+600671	Control	Bangladesh	46	[24,60)	Stool	Human
+600672	Control	Bangladesh	7	[6,12)	Stool	Human
+600675	Case	Bangladesh	11	[6,12)	Stool	Human
+600683	Case	Bangladesh	8	[6,12)	Stool	Human
+600684	Case	Bangladesh	19	[18,24)	Stool	Human
+600686	Control	Bangladesh	15	[12,18)	Stool	Human
+600690	Case	Bangladesh	21	[18,24)	Stool	Human
+600698	Control	Bangladesh	22	[18,24)	Stool	Human
+600710	Case	Bangladesh	34	[24,60)	Stool	Human
+600711	Control	Bangladesh	14	[12,18)	Stool	Human
+600718	Case	Bangladesh	46	[24,60)	Stool	Human
+600729	Control	Bangladesh	21	[18,24)	Stool	Human
+600744	Case	Bangladesh	14	[12,18)	Stool	Human
+600751	Control	Bangladesh	20	[18,24)	Stool	Human
+600752	Control	Bangladesh	28	[24,60)	Stool	Human
+600761	Case	Bangladesh	30	[24,60)	Stool	Human
+600763	Control	Bangladesh	41	[24,60)	Stool	Human
+600765	Control	Bangladesh	30	[24,60)	Stool	Human
+600767	Control	Bangladesh	15	[12,18)	Stool	Human
+600775	Case	Bangladesh	12	[12,18)	Stool	Human
+600776	Case	Bangladesh	20	[18,24)	Stool	Human
+600781	Control	Bangladesh	23	[18,24)	Stool	Human
+600782	Case	Bangladesh	6	[6,12)	Stool	Human
+600783	Control	Bangladesh	19	[18,24)	Stool	Human
+600785	Case	Bangladesh	41	[24,60)	Stool	Human
+600786	Control	Bangladesh	6	[6,12)	Stool	Human
+600787	Case	Bangladesh	5	[0,6)	Stool	Human
+600788	Case	Bangladesh	10	[6,12)	Stool	Human
+600789	Control	Bangladesh	44	[24,60)	Stool	Human
+600792	Control	Bangladesh	7	[6,12)	Stool	Human
+600794	Case	Bangladesh	10	[6,12)	Stool	Human
+600795	Case	Bangladesh	17	[12,18)	Stool	Human
+600796	Case	Bangladesh	21	[18,24)	Stool	Human
+600797	Control	Bangladesh	11	[6,12)	Stool	Human
+600798	Control	Bangladesh	20	[18,24)	Stool	Human
+600799	Control	Bangladesh	9	[6,12)	Stool	Human
+600801	Control	Bangladesh	20	[18,24)	Stool	Human
+600802	Case	Bangladesh	8	[6,12)	Stool	Human
+600803	Case	Bangladesh	4	[0,6)	Stool	Human
+600805	Case	Bangladesh	18	[18,24)	Stool	Human
+600807	Case	Bangladesh	11	[6,12)	Stool	Human
+600808	Case	Bangladesh	17	[12,18)	Stool	Human
+600809	Control	Bangladesh	16	[12,18)	Stool	Human
+600811	Case	Bangladesh	38	[24,60)	Stool	Human
+600812	Control	Bangladesh	7	[6,12)	Stool	Human
+600813	Case	Bangladesh	15	[12,18)	Stool	Human
+600816	Control	Bangladesh	20	[18,24)	Stool	Human
+600818	Control	Bangladesh	18	[18,24)	Stool	Human
+600819	Case	Bangladesh	23	[18,24)	Stool	Human
+600823	Control	Bangladesh	7	[6,12)	Stool	Human
+600824	Case	Bangladesh	8	[6,12)	Stool	Human
+600826	Control	Bangladesh	10	[6,12)	Stool	Human
+600828	Control	Bangladesh	9	[6,12)	Stool	Human
+600830	Control	Bangladesh	12	[12,18)	Stool	Human
+600831	Control	Bangladesh	27	[24,60)	Stool	Human
+600833	Case	Bangladesh	14	[12,18)	Stool	Human
+600835	Case	Bangladesh	33	[24,60)	Stool	Human
+600837	Case	Bangladesh	5	[0,6)	Stool	Human
+600840	Case	Bangladesh	14	[12,18)	Stool	Human
+600843	Case	Bangladesh	11	[6,12)	Stool	Human
+600845	Case	Bangladesh	5	[0,6)	Stool	Human
+600846	Control	Bangladesh	3	[0,6)	Stool	Human
+600847	Case	Bangladesh	10	[6,12)	Stool	Human
+600854	Case	Bangladesh	25	[24,60)	Stool	Human
+600863	Case	Bangladesh	7	[6,12)	Stool	Human
+600867	Control	Bangladesh	7	[6,12)	Stool	Human
+600876	Case	Bangladesh	35	[24,60)	Stool	Human
+600879	Case	Bangladesh	40	[24,60)	Stool	Human
+600880	Case	Bangladesh	11	[6,12)	Stool	Human
+600881	Control	Bangladesh	33	[24,60)	Stool	Human
+600890	Control	Bangladesh	2	[0,6)	Stool	Human
+600891	Case	Bangladesh	32	[24,60)	Stool	Human
+600901	Control	Bangladesh	18	[18,24)	Stool	Human
+600909	Control	Bangladesh	23	[18,24)	Stool	Human
+600910	Case	Bangladesh	4	[0,6)	Stool	Human
+600913	Control	Bangladesh	5	[0,6)	Stool	Human
+600915	Control	Bangladesh	11	[6,12)	Stool	Human
+600917	Control	Bangladesh	7	[6,12)	Stool	Human
+600919	Case	Bangladesh	8	[6,12)	Stool	Human
+600926	Case	Bangladesh	7	[6,12)	Stool	Human
+600949	Control	Bangladesh	19	[18,24)	Stool	Human
+600953	Control	Bangladesh	8	[6,12)	Stool	Human
+600955	Control	Bangladesh	13	[12,18)	Stool	Human
+600956	Control	Bangladesh	58	[24,60)	Stool	Human
+600958	Case	Bangladesh	17	[12,18)	Stool	Human
+600967	Control	Bangladesh	7	[6,12)	Stool	Human
+600970	Case	Bangladesh	12	[12,18)	Stool	Human
+600984	Case	Bangladesh	32	[24,60)	Stool	Human
+600987	Case	Bangladesh	22	[18,24)	Stool	Human
+601001	Control	Bangladesh	15	[12,18)	Stool	Human
+601003	Control	Bangladesh	23	[18,24)	Stool	Human
+601007	Control	Bangladesh	26	[24,60)	Stool	Human
+601008	Case	Bangladesh	17	[12,18)	Stool	Human
+601009	Case	Bangladesh	6	[6,12)	Stool	Human
+601012	Case	Bangladesh	28	[24,60)	Stool	Human
+601017	Control	Bangladesh	16	[12,18)	Stool	Human
+601021	Control	Bangladesh	18	[18,24)	Stool	Human
+601036	Case	Bangladesh	37	[24,60)	Stool	Human
+601039	Case	Bangladesh	9	[6,12)	Stool	Human
+601044	Control	Bangladesh	34	[24,60)	Stool	Human
+601045	Case	Bangladesh	10	[6,12)	Stool	Human
+601046	Case	Bangladesh	14	[12,18)	Stool	Human
+601047	Control	Bangladesh	7	[6,12)	Stool	Human
+601049	Case	Bangladesh	13	[12,18)	Stool	Human
+601050	Case	Bangladesh	0	[0,6)	Stool	Human
+601052	Control	Bangladesh	11	[6,12)	Stool	Human
+601053	Case	Bangladesh	13	[12,18)	Stool	Human
+601055	Control	Bangladesh	17	[12,18)	Stool	Human
+601056	Control	Bangladesh	12	[12,18)	Stool	Human
+601059	Case	Bangladesh	7	[6,12)	Stool	Human
+601125	Case	Bangladesh	8	[6,12)	Stool	Human
+601131	Case	Bangladesh	6	[6,12)	Stool	Human
+601160	Case	Bangladesh	37	[24,60)	Stool	Human
+601161	Case	Bangladesh	8	[6,12)	Stool	Human
+601186	Control	Bangladesh	28	[24,60)	Stool	Human
+601208	Case	Bangladesh	52	[24,60)	Stool	Human
+601216	Control	Bangladesh	8	[6,12)	Stool	Human
+601230	Control	Bangladesh	50	[24,60)	Stool	Human
+602025	Case	Bangladesh	7	[6,12)	Stool	Human
+602030	Control	Bangladesh	5	[0,6)	Stool	Human
+602036	Control	Bangladesh	40	[24,60)	Stool	Human
+602039	Control	Bangladesh	7	[6,12)	Stool	Human
+602040	Control	Bangladesh	11	[6,12)	Stool	Human
+602047	Case	Bangladesh	16	[12,18)	Stool	Human
+602054	Case	Bangladesh	21	[18,24)	Stool	Human
+602055	Control	Bangladesh	25	[24,60)	Stool	Human
+602061	Control	Bangladesh	35	[24,60)	Stool	Human
+602062	Case	Bangladesh	27	[24,60)	Stool	Human
+602070	Case	Bangladesh	4	[0,6)	Stool	Human
+602085	Control	Bangladesh	3	[0,6)	Stool	Human
+602102	Control	Bangladesh	11	[6,12)	Stool	Human
+602107	Control	Bangladesh	12	[12,18)	Stool	Human
+602113	Control	Bangladesh	4	[0,6)	Stool	Human
+602129	Case	Bangladesh	12	[12,18)	Stool	Human
+602133	Control	Bangladesh	29	[24,60)	Stool	Human
+602143	Case	Bangladesh	23	[18,24)	Stool	Human
+602150	Control	Bangladesh	51	[24,60)	Stool	Human
+602154	Case	Bangladesh	16	[12,18)	Stool	Human
+602162	Control	Bangladesh	30	[24,60)	Stool	Human
+602175	Case	Bangladesh	1	[0,6)	Stool	Human
+602186	Control	Bangladesh	30	[24,60)	Stool	Human
+602190	Control	Bangladesh	15	[12,18)	Stool	Human
+602201	Control	Bangladesh	25	[24,60)	Stool	Human
+602210	Control	Bangladesh	46	[24,60)	Stool	Human
+602215	Case	Bangladesh	36	[24,60)	Stool	Human
+602220	Case	Bangladesh	34	[24,60)	Stool	Human
+602224	Control	Bangladesh	40	[24,60)	Stool	Human
+602305	Control	Bangladesh	6	[6,12)	Stool	Human
+602336	Case	Bangladesh	40	[24,60)	Stool	Human
+602345	Control	Bangladesh	27	[24,60)	Stool	Human
+602363	Control	Bangladesh	38	[24,60)	Stool	Human
+602372	Control	Bangladesh	5	[0,6)	Stool	Human
+602377	Case	Bangladesh	42	[24,60)	Stool	Human
+602382	Control	Bangladesh	10	[6,12)	Stool	Human
+602385	Case	Bangladesh	47	[24,60)	Stool	Human
