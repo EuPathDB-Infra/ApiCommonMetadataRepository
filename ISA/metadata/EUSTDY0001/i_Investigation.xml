@@ -3,11 +3,11 @@
   <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
     <dataset>pfal3D7_microarrayAntibody_Crompton_Mali_RSRC</dataset>
 
-
-<node name="Source" type="host" suffix="Source"/>  
+    <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
     <node name="Extract" type="protein extract" suffix="Extract"/>
     <node name="Assay" suffix="Enzyme-linked immunosorbent assay"/>
+    <node name="DataTransformation" suffix="protein_microarray"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -18,6 +18,10 @@
     <edge input="Extract" output="Assay">
         <protocol>Enzyme-linked immunosorbent assay</protocol>
     </edge>
+    <edge input="Assay" output="DataTransformation">
+     <protocol>data transformation</protocol>
+   </edge>
+
   </study>
 
 </investigation>
