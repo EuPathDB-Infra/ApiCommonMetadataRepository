@@ -65,10 +65,10 @@
   <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
     <name>country name</name>
     <name>country</name>
+    <name>geo_loc_name</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000452" type="characteristicQualifier" parent="Source">
-    <name>geo_loc_name</name>
     <name>village</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
