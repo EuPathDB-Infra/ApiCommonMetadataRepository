@@ -1,10 +1,10 @@
 Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [parasite organism]	Characteristics [parasite strain]
-3D7_WTSI	Geographically dispersed P. falciparum isolates				Plasmodium falciparum	Plasmodium falciparum 3D7
-IT_WTSI	Geographically dispersed P. falciparum isolates				Plasmodium falciparum	Plasmodium falciparum IT
-DD2_WTSI	Geographically dispersed P. falciparum isolates				Plasmodium falciparum	Plasmodium falciparum DD2
-HB3_WTSI	Geographically dispersed P. falciparum isolates				Plasmodium falciparum	Plasmodium falciparum HB3
-7G8_WTSI	Geographically dispersed P. falciparum isolates				Plasmodium falciparum	Plasmodium falciparum 7G8
-GB4_WTSI	Geographically dispersed P. falciparum isolates				Plasmodium falciparum	Plasmodium falciparum GB4
+3D7_WTSI	Geographically dispersed P. falciparum isolates			Netherlands	Plasmodium falciparum	Plasmodium falciparum 3D7
+IT_WTSI	Geographically dispersed P. falciparum isolates			Ghana	Plasmodium falciparum	Plasmodium falciparum IT
+DD2_WTSI	Geographically dispersed P. falciparum isolates			Thailand	Plasmodium falciparum	Plasmodium falciparum DD2
+HB3_WTSI	Geographically dispersed P. falciparum isolates			Honduras	Plasmodium falciparum	Plasmodium falciparum HB3
+7G8_WTSI	Geographically dispersed P. falciparum isolates			Brazil	Plasmodium falciparum	Plasmodium falciparum 7G8
+GB4_WTSI	Geographically dispersed P. falciparum isolates			Ghana	Plasmodium falciparum	Plasmodium falciparum GB4
 SN01	Geographically dispersed P. falciparum isolates			Senegal	Plasmodium falciparum	Plasmodium falciparum SN01
 GN01	Geographically dispersed P. falciparum isolates			Guinea	Plasmodium falciparum	Plasmodium falciparum GN01
 TG01	Geographically dispersed P. falciparum isolates			Togo	Plasmodium falciparum	Plasmodium falciparum TG01
