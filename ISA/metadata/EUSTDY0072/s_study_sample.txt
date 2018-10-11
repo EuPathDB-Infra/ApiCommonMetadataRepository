@@ -1,0 +1,17 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [parasite organism]	Characteristics [parasite strain]
+3D7_WTSI	Geographically dispersed P. falciparum isolates				Plasmodium falciparum	Plasmodium falciparum 3D7
+IT_WTSI	Geographically dispersed P. falciparum isolates				Plasmodium falciparum	Plasmodium falciparum IT
+DD2_WTSI	Geographically dispersed P. falciparum isolates				Plasmodium falciparum	Plasmodium falciparum DD2
+HB3_WTSI	Geographically dispersed P. falciparum isolates				Plasmodium falciparum	Plasmodium falciparum HB3
+7G8_WTSI	Geographically dispersed P. falciparum isolates				Plasmodium falciparum	Plasmodium falciparum 7G8
+GB4_WTSI	Geographically dispersed P. falciparum isolates				Plasmodium falciparum	Plasmodium falciparum GB4
+SN01	Geographically dispersed P. falciparum isolates			Senegal	Plasmodium falciparum	Plasmodium falciparum SN01
+GN01	Geographically dispersed P. falciparum isolates			Guinea	Plasmodium falciparum	Plasmodium falciparum GN01
+TG01	Geographically dispersed P. falciparum isolates			Togo	Plasmodium falciparum	Plasmodium falciparum TG01
+ML01	Geographically dispersed P. falciparum isolates			Mali	Plasmodium falciparum	Plasmodium falciparum ML01
+GA01	Geographically dispersed P. falciparum isolates			Gabon	Plasmodium falciparum	Plasmodium falciparum GA01
+CD01	Geographically dispersed P. falciparum isolates			Congo	Plasmodium falciparum	Plasmodium falciparum CD01
+SD01	Geographically dispersed P. falciparum isolates			Sudan	Plasmodium falciparum	Plasmodium falciparum SD01
+KE01	Geographically dispersed P. falciparum isolates			Kenya	Plasmodium falciparum	Plasmodium falciparum KE01
+KH01	Geographically dispersed P. falciparum isolates			Cambodia	Plasmodium falciparum	Plasmodium falciparum KH01
+KH02	Geographically dispersed P. falciparum isolates			Cambodia	Plasmodium falciparum	Plasmodium falciparum KH02
