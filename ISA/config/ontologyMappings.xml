@@ -786,6 +786,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00001086" type="characteristicValue" parent="characteristicQualifier">
     <name>Democratic Republic of the Congo</name>
+    <name>Congo</name>
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002459" type="characteristicValue" parent="characteristicQualifier">
     <name>USA</name>
