@@ -1,0 +1,9 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [specimen]	Characteristics [country]	Characteristics [city]	Characteristics [parasite organism]	Characteristics [parasite strain]	Characteristics [organism]	Characteristics [host_common_name]
+Spain08_1199	Sequencing of eight global populations of the honeybee pathogen Nosema ceranae			Honeybee Midgut	Spain	Villaseca de Uceda (Guadalajara)	Nosema ceranae	Nosema ceranae PA08 1199	Apis mellifera	Honeybee
+Turkey10_230	Sequencing of eight global populations of the honeybee pathogen Nosema ceranae			Honeybee Midgut	Turkey	Adana (Adana)	Nosema ceranae	Nosema ceranae PA10 230	Apis mellifera	Honeybee
+France09_342	Sequencing of eight global populations of the honeybee pathogen Nosema ceranae			Honeybee Midgut	France		Nosema ceranae	Nosema ceranae PA09 342	Apis mellifera	Honeybee
+Croatia07_1177	Sequencing of eight global populations of the honeybee pathogen Nosema ceranae			Honeybee Midgut	Croatia	Sunja ( Sisak-Moslavina)	Nosema ceranae	Nosema ceranae PA07 1177	Apis mellifera	Honeybee
+Hawaii10_1204	Sequencing of eight global populations of the honeybee pathogen Nosema ceranae			Honeybee Midgut	Hawaii	Milolii (Big Island)	Nosema ceranae	Nosema ceranae PA10 1204	Apis mellifera	Honeybee
+Argentina08_742	Sequencing of eight global populations of the honeybee pathogen Nosema ceranae			Honeybee Midgut	Argentina	Lobos (Buenos Aires)	Nosema ceranae	Nosema ceranae PA08 742	Apis mellifera	Honeybee
+Spain11_912	Sequencing of eight global populations of the honeybee pathogen Nosema ceranae			Honeybee Midgut	Spain	Pinilla (Guadalajara)	Nosema ceranae	Nosema ceranae PA11 912	Apis mellifera	Honeybee
+Argentina08_754	Sequencing of eight global populations of the honeybee pathogen Nosema ceranae			Honeybee Midgut	Argentina	Bonpland (Corrientes)	Nosema ceranae	Nosema ceranae PA08 754	Apis mellifera	Honeybee
