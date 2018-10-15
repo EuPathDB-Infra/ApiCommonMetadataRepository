@@ -757,8 +757,19 @@
   <ontologyTerm source_id="NCBITaxon_35549" type="characteristicValue" parent="characteristicQualifier">
     <name>Cacatuidae</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_7460" type="characteristicValue" parent="characteristicQualifier">
+    <name>Apis mellifera</name>
+  </ontologyTerm>  
+  
+  
 
 <!-- GAZ country values  -->
+  <ontologyTerm source_id="GAZ_00000591" type="characteristicValue" parent="characteristicQualifier">
+    <name>Spain</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002719" type="characteristicValue" parent="characteristicQualifier">
+    <name>Croatia</name>
+  </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier">
     <name>GAZ:Puerto Rico</name>
     <name>Puerto Rico</name>
