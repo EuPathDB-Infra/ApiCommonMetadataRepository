@@ -452,12 +452,16 @@
     <name>mating type</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="EUPATH_0000748" type="characteristicQualifier" parent="Sample">
+    <name>iPCR result</name>
+  </ontologyTerm>
+  
   <ontologyTerm source_id="EUPATH_0000289" type="characteristicQualifier" parent="Sample">
     <name>haplogroup</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="EUPATH_0000748" type="characteristicQualifier" parent="Sample">
-    <name>iPCR result</name>
+  <ontologyTerm source_id="PATO_0001895" type="characteristicQualifier" parent="Sample">
+    <name>Mating type</name>
   </ontologyTerm>
 
   <ontologyTerm source_id="CHEBI_2682" type="characteristicQualifier" parent="Sample">
@@ -760,8 +764,9 @@
   <ontologyTerm source_id="NCBITaxon_7460" type="characteristicValue" parent="characteristicQualifier">
     <name>Apis mellifera</name>
   </ontologyTerm>  
-  
-  
+  <ontologyTerm source_id="NCBITaxon_5141" type="characteristicValue" parent="characteristicQualifier">
+    <name>Neurospora crassa</name>
+  </ontologyTerm>  
 
 <!-- GAZ country values  -->
   <ontologyTerm source_id="GAZ_00000591" type="characteristicValue" parent="characteristicQualifier">
