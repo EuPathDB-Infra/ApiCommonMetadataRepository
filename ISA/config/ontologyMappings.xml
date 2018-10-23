@@ -769,6 +769,9 @@
   </ontologyTerm>  
 
 <!-- GAZ country values  -->
+  <ontologyTerm source_id="GAZ_00002954" type="characteristicValue" parent="characteristicQualifier">
+    <name>Czech Republic</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00000591" type="characteristicValue" parent="characteristicQualifier">
     <name>Spain</name>
   </ontologyTerm>
