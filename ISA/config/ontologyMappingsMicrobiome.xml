@@ -117,6 +117,9 @@
   <ontologyTerm source_id="REO_0000699" type="characteristicQualifier" parent="Source">
     <name>role</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009001" type="characteristicQualifier" parent="Source">
+    <name>family_relationship_sum</name>
+  </ontologyTerm>
   <ontologyTerm source_id="ENVO_00000176" type="characteristicQualifier" parent="Source">
     <name>elevation</name>
   </ontologyTerm>
@@ -255,17 +258,14 @@
   <ontologyTerm source_id="OBI_0001891" type="characteristicQualifier" parent="Sample">
     <name>sequencecenter</name>
   </ontologyTerm>
-    <ontologyTerm source_id="MICRO_0000500" type="characteristicQualifier" parent="Source">
+    <ontologyTerm source_id="EUPATH_0009002" type="characteristicQualifier" parent="Source">
     <name>source</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="MICRO_0000500" type="characteristicQualifier" parent="Source">
-    <name>source1</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000606" type="characteristicQualifier" parent="Source">
     <name>subject</name>
     <name>host_subject_id</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MICRO_0000502" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0009003" type="characteristicQualifier" parent="Source">
     <name>surface</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001622" type="characteristicQualifier" parent="Source">
@@ -379,6 +379,9 @@
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0001155" type="characteristicValue" parent="characteristicQualifier">
     <name>colon</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0001052" type="characteristicValue" parent="characteristicQualifier">
+    <name>rectum</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000167" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:oral cavity</name>
