@@ -524,7 +524,12 @@
     <name>Reference</name>
   </ontologyTerm>
 
-
+  <ontologyTerm source_id="EUPATH_0005003" type="characteristicQualifier" parent="Sample">
+    <name>Communication group</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005004" type="characteristicQualifier" parent="Sample">
+    <name>CGH organization</name>
+  </ontologyTerm>
 
 <!-- characteristicValues -->
 
