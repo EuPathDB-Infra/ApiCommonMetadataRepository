@@ -1,0 +1,2 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [parasite organism]	Characteristics [parasite strain]	Characteristics [specimen]	Characteristics [organism]	Characteristics [host_common_name]	Characteristics [country]
+CZ_cloneH3	ToxoDB DNA-Seq of Toxoplasma gondii strain CZ clone H3			Toxoplasma gondii	Toxoplasma gondii CZ_cloneH3	Cloned by limiting dilution from Siberian tiger feces	Panthera tigris altaica	Siberian tiger	Czech Republic
