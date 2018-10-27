@@ -1,0 +1,7 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [host_common_name]	Characteristics [passage history]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
+ATCC200955	Genome diversity, recombination, and virulence across the major lineages of Paracoccidioides			Homo sapiens	YPD plates in laboratory		Candida albicans	Candida albicans ATCC200955
+SC5314_resequence1	Genome diversity, recombination, and virulence across the major lineages of Paracoccidioides			Homo sapiens			Candida albicans	Candida albicans SC5314_resequence1
+AmBresistant2	Genome diversity, recombination, and virulence across the major lineages of Paracoccidioides				60 passages in YPD + Amphotericin media	Laboratory culture	Candida albicans	Candida albicans AmBresistant2
+AmBresistant3	Genome diversity, recombination, and virulence across the major lineages of Paracoccidioides				120 passages in YPD + Amphotericin media	Laboratory culture	Candida albicans	Candida albicans AmBresistant3
+AmBresistant4	Genome diversity, recombination, and virulence across the major lineages of Paracoccidioides				240 passages in YPD + amphotericin media	Laboratory culture	Candida albicans	Candida albicans AmBresistant4
+ATCC10231	Genome diversity, recombination, and virulence across the major lineages of Paracoccidioides			Homo sapiens	YPD plates in laboratory		Candida albicans	Candida albicans ATCC10231
