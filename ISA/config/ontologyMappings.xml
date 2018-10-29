@@ -711,6 +711,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_9615" type="characteristicValue" parent="characteristicQualifier">
     <name>Canis lupus familiaris</name>
+    <name>dog</name>
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_9627" type="characteristicValue" parent="characteristicQualifier">
     <name>Vulpes vulpes</name>
