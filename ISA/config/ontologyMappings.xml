@@ -775,6 +775,11 @@
   <ontologyTerm source_id="NCBITaxon_74533" type="characteristicValue" parent="characteristicQualifier">
     <name>Panthera tigris altaica</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9361" type="characteristicValue" parent="characteristicQualifier">
+    <name>D. novemcinctus (armadillo)</name>
+    <name>Dasypus novemcinctus</name>
+  </ontologyTerm>
+
 
 <!-- GAZ country values  -->
   <ontologyTerm source_id="GAZ_00002945" type="characteristicValue" parent="characteristicQualifier">
