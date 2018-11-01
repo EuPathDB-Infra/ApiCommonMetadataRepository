@@ -23,6 +23,11 @@
     <function>formatDate</function> 
   </ontologyTerm>
 
+  <ontologyTerm source_id="EUPATH_0000747" type="protocolParameter" parent="DNA extraction">
+    <name>ExtractionDate</name>
+    <function>formatDate</function> 
+  </ontologyTerm>
+
   <!-- Material Entity Types -->
   <ontologyTerm source_id="EUPATH_0000591" type="materialType">
     <name>host</name>
@@ -52,7 +57,7 @@
     <name>data transformation</name>
   </ontologyTerm> 
 
-  <!-- Characteristics -->
+  <!-- Characteristics associated with Source -->
   <ontologyTerm source_id="EUPATH_0015400" type="characteristicQualifier" parent="Source">
     <name>age_months</name>
   </ontologyTerm>
@@ -88,16 +93,6 @@
     <name>host_sex</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0000463" type="characteristicQualifier" parent="Sample">
-    <name>host_body_product</name>
-    <name>body_product</name>
-    <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0000061" type="characteristicQualifier" parent="Sample">
-    <name>host_body_site</name>
-    <name>body_site</name>
-    <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000466" type="characteristicQualifier" parent="Source">
     <name>body_habitat</name>
    <function>valueIsOntologyTerm</function>
@@ -109,10 +104,6 @@
   <ontologyTerm source_id="ENVO_00002297" type="characteristicQualifier" parent="Source">
     <name>env_feature</name>
     <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="ENVO_00010483" type="characteristicQualifier" parent="Sample">
-    <name>env_matter</name>
-   <function>valueIsOntologyTerm</function>
   </ontologyTerm>
   <ontologyTerm source_id="REO_0000699" type="characteristicQualifier" parent="Source">
     <name>role</name>
@@ -156,9 +147,6 @@
   <ontologyTerm source_id="EUPATH_0000607" type="characteristicQualifier" parent="Source">
     <name>weight_loss_3_month</name>
     <function>enforceYesNoForBoolean</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000608" type="characteristicQualifier" parent="Sample">
-    <name>samp_collect_device</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000582" type="characteristicQualifier" parent="Source">
     <name>abx_name</name>
@@ -251,14 +239,7 @@
   <ontologyTerm source_id="EUPATH_0000604" type="characteristicQualifier" parent="Source">
     <name>run_prefix_prep</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0100051" type="characteristicQualifier" parent="Sample">
-    <name>sample_type</name>
-    <name>sampletype</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001891" type="characteristicQualifier" parent="Sample">
-    <name>sequencecenter</name>
-  </ontologyTerm>
-    <ontologyTerm source_id="EUPATH_0009002" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0009002" type="characteristicQualifier" parent="Source">
     <name>source</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000606" type="characteristicQualifier" parent="Source">
@@ -271,6 +252,102 @@
   <ontologyTerm source_id="OBI_0001622" type="characteristicQualifier" parent="Source">
     <name>title</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009004" type="characteristicQualifier" parent="Source">
+    <name>VHUP_#</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009005" type="characteristicQualifier" parent="Source">
+    <name>Animal sterilization</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009007" type="characteristicQualifier" parent="Source">
+    <name>phenotype</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9615" type="characteristicQualifier" parent="Source">
+    <name>Breed_Strain</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009009" type="characteristicQualifier" parent="Source">
+    <name>CCECAI post</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009008" type="characteristicQualifier" parent="Source">
+    <name>CCECAI pre</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000613" type="characteristicQualifier" parent="Source">
+    <name>Days post-infection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000639" type="characteristicQualifier" parent="Source">
+    <name>Group</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009010" type="characteristicQualifier" parent="Source">
+    <name>Cage ID</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000640" type="characteristicQualifier" parent="Source">
+    <name>Exp_Cage ID</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OGMS_0000090" type="characteristicQualifier" parent="Source">
+    <name>Treatment</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009011" type="characteristicQualifier" parent="Source">
+    <name>Lesion score</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000614" type="characteristicQualifier" parent="Source">
+    <name>Thickness</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009012" type="characteristicQualifier" parent="Source">
+    <name>BodyType</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009013" type="characteristicQualifier" parent="Source">
+    <name>Cured</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000619" type="characteristicQualifier" parent="Source">
+    <name>No. Treatment</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000621" type="characteristicQualifier" parent="Source">
+    <name>Lesion Size</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000632" type="characteristicQualifier" parent="Source">
+    <name>Lesion Duration</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009014" type="characteristicQualifier" parent="Source">
+    <name>DTH</name>
+  </ontologyTerm>
+
+
+
+  <!-- Characteristics associated with Sample -->
+
+  <ontologyTerm source_id="UBERON_0000463" type="characteristicQualifier" parent="Sample">
+    <name>host_body_product</name>
+    <name>body_product</name>
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0000061" type="characteristicQualifier" parent="Sample">
+    <name>host_body_site</name>
+    <name>body_site</name>
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_00010483" type="characteristicQualifier" parent="Sample">
+    <name>env_matter</name>
+   <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000608" type="characteristicQualifier" parent="Sample">
+    <name>samp_collect_device</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0100051" type="characteristicQualifier" parent="Sample">
+    <name>sample_type</name>
+    <name>sampletype</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001891" type="characteristicQualifier" parent="Sample">
+    <name>sequencecenter</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OPL_0000232" type="characteristicQualifier" parent="Sample">
+    <name>Parasite_found</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009006" type="characteristicQualifier" parent="Sample">
+    <name>Timepoint post-treatment</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000617" type="characteristicQualifier" parent="Sample">
+    <name>Site</name>
+  </ontologyTerm>
+
   
 <!-- characteristicValues -->
   <!-- PATO terms -->
