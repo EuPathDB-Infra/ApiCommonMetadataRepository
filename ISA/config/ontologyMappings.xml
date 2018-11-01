@@ -780,7 +780,10 @@
     <name>D. novemcinctus (armadillo)</name>
     <name>Dasypus novemcinctus</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="NCBITaxon_1756215" type="characteristicValue" parent="characteristicQualifier">
+    <name>C. centralis (armadillo)</name>
+    <name>Cabassous centralis</name>
+  </ontologyTerm>
 
 <!-- GAZ country values  -->
   <ontologyTerm source_id="GAZ_00002945" type="characteristicValue" parent="characteristicQualifier">
