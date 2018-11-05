@@ -481,6 +481,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="CHEBI_46081" type="characteristicQualifier" parent="Sample">
     <name>FCZ</name>
+    <name>Fluconazole Ave+Std Dev</name>
   </ontologyTerm>
   <ontologyTerm source_id="CHEBI_6076" type="characteristicQualifier" parent="Sample">
     <name>ICZ</name>
@@ -491,6 +492,18 @@
   <ontologyTerm source_id="CHEBI_10023" type="characteristicQualifier" parent="Sample">
     <name>VCZ</name>
   </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_34905" type="characteristicQualifier" parent="Sample">
+    <name>Paraquat Ave+Std Dev</name>
+    <name>Paraquat</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_16240" type="characteristicQualifier" parent="Sample">
+    <name>H2O2</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_15765" type="characteristicQualifier" parent="Sample">
+    <name>LDOPA Ave+Std Dev</name>
+    <name>LDOPA</name>
+  </ontologyTerm>
+
 
   <ontologyTerm source_id="OBI_0000198" type="characteristicQualifier" parent="Sample">
     <name>biological replicate</name>
@@ -523,9 +536,11 @@
   <ontologyTerm source_id="NCIT_C25641" type="characteristicQualifier" parent="Sample">
     <name>Reference</name>
   </ontologyTerm>
-
   <ontologyTerm source_id="EUPATH_0005003" type="characteristicQualifier" parent="Sample">
-    <name>Communication group</name>
+    <name>group</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005005" type="characteristicQualifier" parent="Sample">
+    <name>Lineage</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0005004" type="characteristicQualifier" parent="Sample">
     <name>CGH organization</name>
@@ -784,6 +799,37 @@
     <name>C. centralis (armadillo)</name>
     <name>Cabassous centralis</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_3511" type="characteristicValue" parent="characteristicQualifier">
+    <name>Quercus</name>
+    <name>oak tree</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_162715" type="characteristicValue" parent="characteristicQualifier">
+    <name>Colophospermum mopane</name>
+    <name>Mopane tree</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_8782" type="characteristicValue" parent="characteristicQualifier">
+    <name>Aves</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="SNOMEDCT_22097005" type="characteristicValue" parent="characteristicQualifier">
+    <name>tree</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_34317" type="characteristicValue" parent="characteristicQualifier">
+    <name>Eucalyptus globulus</name>
+    <name>Eucalyptus tree</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_8930" type="characteristicValue" parent="characteristicQualifier">
+    <name>Columbidae</name>
+    <name>pigeon</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_3808" type="characteristicValue" parent="characteristicQualifier">
+    <name>Acacia</name>
+    <name>Acacia tree</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_178876" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cryptococcus neoformans var. grubii</name>
+  </ontologyTerm>
+
+
 
 <!-- GAZ country values  -->
   <ontologyTerm source_id="GAZ_00002945" type="characteristicValue" parent="characteristicQualifier">
