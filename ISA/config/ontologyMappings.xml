@@ -538,6 +538,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0005003" type="characteristicQualifier" parent="Sample">
     <name>group</name>
+    <name>Communication group</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0005005" type="characteristicQualifier" parent="Sample">
     <name>Lineage</name>
