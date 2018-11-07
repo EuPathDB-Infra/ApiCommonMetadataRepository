@@ -540,11 +540,14 @@
     <name>group</name>
     <name>Communication group</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005004" type="characteristicQualifier" parent="Sample">
+    <name>CGH organization</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0005005" type="characteristicQualifier" parent="Sample">
     <name>Lineage</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0005004" type="characteristicQualifier" parent="Sample">
-    <name>CGH organization</name>
+  <ontologyTerm source_id="EUPATH_0005006" type="characteristicQualifier" parent="Sample">
+    <name>VNI subdivision</name>
   </ontologyTerm>
 
 <!-- characteristicValues -->
