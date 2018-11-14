@@ -1,0 +1,50 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [GeographicLocation]	specimen collection year	Characteristics [fungus organism]	Characteristics[specimen]
+CDC_B11096	Aligned genome sequence reads - Candida auris isolates			Pakistan	2014	Candida auris	blood
+CDC_B11097	Aligned genome sequence reads - Candida auris isolates			Pakistan	2014	Candida auris	urine
+CDC_B11114	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Candida auris	blood
+CDC_B11115	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Candida auris	urine
+CDC_B11116	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Candida auris	urine
+CDC_B11117	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Candida auris	blood
+CDC_B11118	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Candida auris	urine
+CDC_B11119	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Candida auris	urine
+CDC_B11200	Aligned genome sequence reads - Candida auris isolates			India	2012	Candida auris	blood
+CDC_B11201	Aligned genome sequence reads - Candida auris isolates			India	2012	Candida auris	blood
+CDC_B11205	Aligned genome sequence reads - Candida auris isolates			India	2013	Candida auris	wound
+CDC_B11206	Aligned genome sequence reads - Candida auris isolates			India	2013	Candida auris	tissue
+CDC_B11098	Aligned genome sequence reads - Candida auris isolates			Pakistan	2014	Candida auris	blood
+CDC_B11207	Aligned genome sequence reads - Candida auris isolates			India	2013	Candida auris	tissue
+CDC_B11208	Aligned genome sequence reads - Candida auris isolates			India	2013	Candida auris	tissue
+CDC_B11209	Aligned genome sequence reads - Candida auris isolates			India	2013	Candida auris	bronchoalveolar lavage
+CDC_B11210	Aligned genome sequence reads - Candida auris isolates			India	2013	Candida auris	tissue
+CDC_B11212	Aligned genome sequence reads - Candida auris isolates			India	2014	Candida auris	pericardial fluid
+CDC_B11213	Aligned genome sequence reads - Candida auris isolates			India	2014	Candida auris	bronchoalveolar lavage
+CDC_B11214	Aligned genome sequence reads - Candida auris isolates			India	2014	Candida auris	blood
+CDC_B11215	Aligned genome sequence reads - Candida auris isolates			India	2014	Candida auris	blood
+CDC_B11216	Aligned genome sequence reads - Candida auris isolates			India	2014	Candida auris	blood
+CDC_B11217	Aligned genome sequence reads - Candida auris isolates			India	2014	Candida auris	blood
+CDC_B11099	Aligned genome sequence reads - Candida auris isolates			Pakistan	2014	Candida auris	blood
+CDC_B11218	Aligned genome sequence reads - Candida auris isolates			India	2014	Candida auris	blood
+CDC_B11219	Aligned genome sequence reads - Candida auris isolates			India	not applicable	Candida auris	not collected
+CDC_B11220	Aligned genome sequence reads - Candida auris isolates			Japan	2009	Candida auris	auditory canal
+CDC_B11221	Aligned genome sequence reads - Candida auris isolates			South Africa	2012	Candida auris	blood
+CDC_B11222	Aligned genome sequence reads - Candida auris isolates			South Africa	2012	Candida auris	blood
+CDC_B11223	Aligned genome sequence reads - Candida auris isolates			South Africa	2012	Candida auris	blood
+CDC_B11224	Aligned genome sequence reads - Candida auris isolates			South Africa	2012	Candida auris	blood
+CDC_B11225	Aligned genome sequence reads - Candida auris isolates			South Africa	2014	Candida auris	urine
+CDC_B11226	Aligned genome sequence reads - Candida auris isolates			South Africa	2014	Candida auris	irrigation fluid right leg
+CDC_B11227	Aligned genome sequence reads - Candida auris isolates			South Africa	2014	Candida auris	blood
+CDC_B11101	Aligned genome sequence reads - Candida auris isolates			Pakistan	2014	Candida auris	blood
+CDC_B11228	Aligned genome sequence reads - Candida auris isolates			South Africa	2014	Candida auris	hip tissue
+CDC_B11229	Aligned genome sequence reads - Candida auris isolates			South Africa	2014	Candida auris	urine
+CDC_B11230	Aligned genome sequence reads - Candida auris isolates			South Africa	2014	Candida auris	urine
+CDC_B11243	Aligned genome sequence reads - Candida auris isolates			Venezuela	2013	Candida auris	blood
+CDC_B11244	Aligned genome sequence reads - Candida auris isolates			Venezuela	2012	Candida auris	blood
+CDC_B11245	Aligned genome sequence reads - Candida auris isolates			Venezuela	2012	Candida auris	blood
+CDC_B11246	Aligned genome sequence reads - Candida auris isolates			Venezuela	2012	Candida auris	blood
+CDC_B11247	Aligned genome sequence reads - Candida auris isolates			Venezuela	2012	Candida auris	blood
+CDC_B11102	Aligned genome sequence reads - Candida auris isolates			Pakistan	2014	Candida auris	blood
+CDC_B11103	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Candida auris	urine
+CDC_B11105	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Candida auris	central venous catheter tip
+CDC_B11112	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Candida auris	wound
+CDC_B11113	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Candida auris	urine
+CDC_B11104	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Candida auris	urine
