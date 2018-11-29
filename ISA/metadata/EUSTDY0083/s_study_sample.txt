@@ -1,0 +1,7 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [host_common_name]	Characteristics [country]	Characteristics[specimen]
+PvSY43				Pan troglodytes troglodytes	Cameroon 	Blood
+PvSY56				Pan troglodytes ellioti	Cameroon 	Blood
+PvSY81				Pan troglodytes troglodytes	Cameroon 	Blood
+PvSY90				Pan troglodytes ellioti	Cameroon 	Blood
+PvSagu				Pan troglodytes verus	Cote d’Ivoire 	Blood
+						
