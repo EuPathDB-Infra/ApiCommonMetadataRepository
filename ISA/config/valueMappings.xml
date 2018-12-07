@@ -8,3 +8,5 @@ VNI subdivision	VNI subdivision	VNIc	VNIc
 mating type	mating type	a	a
 mating type	mating type	alpha	alpha
 mating type	mating type	not assigned	not assigned
+health_status	health_status	HIV+	HIV+
+health_status	health_status	HIV-	HIV-
