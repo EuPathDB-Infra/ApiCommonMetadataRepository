@@ -338,8 +338,11 @@
   <ontologyTerm source_id="OBI_0001891" type="characteristicQualifier" parent="Sample">
     <name>sequencecenter</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OPL_0000232" type="characteristicQualifier" parent="Sample">
-    <name>Parasite_found</name>
+  <ontologyTerm source_id="EUPATH_0009015" type="characteristicQualifier" parent="Sample">
+    <name>Parasite_found_species</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009016" type="characteristicQualifier" parent="Sample">
+    <name>Parasite_found_type</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009006" type="characteristicQualifier" parent="Sample">
     <name>Timepoint post-treatment</name>
