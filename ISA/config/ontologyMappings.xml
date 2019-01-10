@@ -894,7 +894,10 @@
     <name>South Africa</name>
     <name>S. Africa</name>
   </ontologyTerm>  
-  <ontologyTerm source_id="GAZ_00002476" type="characteristicValue" parent="characteristicQualifier">
+   <ontologyTerm source_id="GAZ_00000906" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cote d'Ivoire</name>
+  </ontologyTerm> 
+ <ontologyTerm source_id="GAZ_00002476" type="characteristicValue" parent="characteristicQualifier">
     <name>Israel</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002938" type="characteristicValue" parent="characteristicQualifier">
