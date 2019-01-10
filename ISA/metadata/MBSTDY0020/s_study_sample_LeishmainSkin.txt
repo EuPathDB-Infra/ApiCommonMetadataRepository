@@ -294,7 +294,7 @@ Sample 106236				MiSeq_18	V1-V3	Impact of Leishmania infection and	mouse	57	Skin
 Sample 106237				MiSeq_18	V1-V3	Impact of Leishmania infection and	mouse	58	Skin of external right ear	Skin epidermis	Sebum	Skin swab	Control		14		Naive	6	4	0	0.2							
 Sample 106238				MiSeq_18	V1-V3	Impact of Leishmania infection and	mouse	59	Skin of external left ear	Skin epidermis	Sebum	Skin swab	Control		14		Naive	6	5	0	0.2							
 Sample 106239				MiSeq_18	V1-V3	Impact of Leishmania infection and	mouse	60	Skin of external right ear	Skin epidermis	Sebum	Skin swab	Control		14		Naive	6	5	0	0.3							
-Sample 106240				MiSeq_18	V1-V3	Impact of Leishmania infection and	mouse	Negative	Skin of external right ear	Skin epidermis	Sebum	Skin swab	N/A		14		N/A	N/A	N/A	N/A	N/A							
+Sample 106240				MiSeq_18	V1-V3	Impact of Leishmania infection and	mouse	61	Skin of external right ear	Skin epidermis	Sebum	Skin swab	N/A		14		N/A	N/A	N/A	N/A	N/A							
 Sample 106344				MiSeq_18	V1-V3	Impact of Leishmania infection and	mouse	1	Skin of external left ear	Skin epidermis	Sebum	Skin swab	Control		14		Co-housed Naive	1	1	0	0.3							
 Sample 106345				MiSeq_18	V1-V3	Impact of Leishmania infection and	mouse	2	Skin of external right ear	Skin epidermis	Sebum	Skin swab	Control		14		Co-housed Naive	1	1	0	0.2							
 Sample 106346				MiSeq_18	V1-V3	Impact of Leishmania infection and	mouse	3	Skin of external left ear	Skin epidermis	Sebum	Skin swab	Control		14		Co-housed Naive	1	2	0	0.2							
@@ -413,10 +413,10 @@ Sample 109119				MiSeq_19	V1-V3	Impact of Leishmania infection and	mouse	57	Skin
 Sample 109120				MiSeq_19	V1-V3	Impact of Leishmania infection and	mouse	58	Skin of external right ear	Skin epidermis	Sebum	Skin swab	Control		21		Naive	6	4	0	0.2							
 Sample 109121				MiSeq_19	V1-V3	Impact of Leishmania infection and	mouse	59	Skin of external left ear	Skin epidermis	Sebum	Skin swab	Control		21		Naive	6	5	0	0.2							
 Sample 109122				MiSeq_19	V1-V3	Impact of Leishmania infection and	mouse	60	Skin of external right ear	Skin epidermis	Sebum	Skin swab	Control		21		Naive	6	5	0	0.2							
-Sample 109123				MiSeq_19	V1-V3	Impact of Leishmania infection and	mouse	Negative	NA	NA	NA		N/A		21		N/A	N/A	N/A	N/A	N/A							
-Sample 109115				MiSeq_19	V1-V3	Impact of Leishmania infection and	mouse	Water	NA	NA	NA		N/A		NA		N/A	N/A	N/A	N/A	N/A							
-Sample 109116				MiSeq_19	V1-V3	Impact of Leishmania infection and	mouse	Mock	NA	NA	NA		N/A		NA		N/A	N/A	N/A	N/A	N/A							
-Sample 109117				MiSeq_19	V1-V3	Impact of Leishmania infection and	mouse	Water	NA	NA	NA		N/A		NA		N/A	N/A	N/A	N/A	N/A							
+Sample 109123				MiSeq_19	V1-V3	Impact of Leishmania infection and	mouse	61	NA	NA	NA		N/A		21		N/A	N/A	N/A	N/A	N/A							
+Sample 109115				MiSeq_19	V1-V3	Impact of Leishmania infection and	mouse	62	NA	NA	NA		N/A		NA		N/A	N/A	N/A	N/A	N/A							
+Sample 109116				MiSeq_19	V1-V3	Impact of Leishmania infection and	mouse	63	NA	NA	NA		N/A		NA		N/A	N/A	N/A	N/A	N/A							
+Sample 109117				MiSeq_19	V1-V3	Impact of Leishmania infection and	mouse	64	NA	NA	NA		N/A		NA		N/A	N/A	N/A	N/A	N/A							
 Sample 109022				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	1	Skin of left external ear	Skin epidermis	Sebum	Skin swab	Lesion		7	Isotype control antibody		1	1	0	0.2							
 Sample 109023				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	2	Skin of right external ear	Skin epidermis	Sebum	Skin swab	Non-lesion		7	Isotype control antibody		1	1	0	0.2							
 Sample 109024				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	3	Skin of left external ear	Skin epidermis	Sebum	Skin swab	Lesion		7	Isotype control antibody		1	2	0	0.2							
