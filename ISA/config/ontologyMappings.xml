@@ -972,6 +972,9 @@
   <ontologyTerm source_id="GAZ_00002839" type="characteristicValue" parent="characteristicQualifier">
     <name>India</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00005246" type="characteristicValue" parent="characteristicQualifier">
+    <name>Pakistan</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00000584" type="characteristicValue" parent="characteristicQualifier">
     <name>Mali</name>
   </ontologyTerm>
