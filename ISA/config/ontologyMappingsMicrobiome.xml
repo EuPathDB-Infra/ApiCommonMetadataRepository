@@ -328,6 +328,9 @@
     <name>env_matter</name>
    <function>valueIsOntologyTerm</function>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009017" type="characteristicQualifier" parent="Sample">
+    <name>gems_sample_id</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000608" type="characteristicQualifier" parent="Sample">
     <name>samp_collect_device</name>
   </ontologyTerm>
