@@ -1,0 +1,13 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	specimen collection year	Characteristics [parasite organism]	Characteristics [organism]	Characteristics [host_common_name]
+Sample ID	Plasmodium vivax-like SNPs			Country	The Lekedi National Park	Year of collection	Plasmodium vivax-like	Host species	Central chimpanzee
+Pvl01	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
+Pvl02	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
+Pvl03	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
+Pvl04	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
+Pvl05	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
+Pvl06	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
+Pvl07	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
+Pvl08	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
+Pvl09	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Anopheles sp.	mosquitoes
+Pvl10	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
+Pvl11	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
