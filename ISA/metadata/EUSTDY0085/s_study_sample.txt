@@ -1,0 +1,35 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [parasite organism]	Characteristics [organism]	Characteristics [Health status]
+H1a	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	Human	Chronic
+H2	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	Human	Asymptomatic
+H3	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	Human	Asymptomatic
+H4	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	Human	No disease
+H5	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	Human	Chronic
+H6	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	Human	Asymptomatic
+H7	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	Human	Asymptomatic
+H8	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	Human	No disease
+H12	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	Human	No disease
+H14	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	Human	Chronic
+H15	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	Human	Chronic
+V1	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	P. geniculatus	Not applicable
+V2	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	R. pallescens	Not applicable
+V3	T. cruzi diversity in genomic repeats			Panama	Trypanosoma cruzi cruzi	T. dimidiata	Not applicable
+TBM3324	T. cruzi diversity in genomic repeats			Ecuador	Trypanosoma cruzi cruzi	R. ecuadoriensis	Not applicable
+TBM3406B1	T. cruzi diversity in genomic repeats			Ecuador	Trypanosoma cruzi cruzi	R. ecuadoriensis	Not applicable
+TBM3479B1	T. cruzi diversity in genomic repeats			Ecuador	Trypanosoma cruzi cruzi	R. ecuadoriensis	Not applicable
+TBM3519W1	T. cruzi diversity in genomic repeats			Ecuador	Trypanosoma cruzi cruzi	R. ecuadoriensis	Not applicable
+X10462-P1C9	T. cruzi diversity in genomic repeats			Venezuela	Trypanosoma cruzi cruzi	Human	Not applicable
+X12422-P1C3	T. cruzi diversity in genomic repeats			Venezuela	Trypanosoma cruzi cruzi	Human	Not applicable
+CGI10	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute co-infection
+CGI11	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute co-infection
+CGI12	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute co-infection
+CGI13	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute co-infection
+CGI14	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute co-infection
+Colombiana	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute oral
+FcHcI1	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute oral
+FcHcI2	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute oral
+FcHcI3	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute oral
+FcHcI4	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute oral
+FcHcI5	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute oral
+H1b	T. cruzi diversity in genomic repeats			Mexico	Trypanosoma cruzi cruzi	Human	Acute
+TD23	T. cruzi diversity in genomic repeats			Texas	Trypanosoma cruzi cruzi	T. dimidiata	Not applicable
+TD25	T. cruzi diversity in genomic repeats			Texas	Trypanosoma cruzi cruzi	T. dimidiata	Not applicable
