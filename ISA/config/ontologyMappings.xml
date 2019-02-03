@@ -93,6 +93,7 @@
   <ontologyTerm source_id="OBI_0001619" type="protocolParameter" parent="specimen collection">
     <name>Collection date</name>
     <name>Specimen Collection Date</name>
+    <name>plasmaDate</name>
     <name>Characteristics [date_sample_collected]</name>
     <function>formatDate</function> 
   </ontologyTerm>
@@ -231,6 +232,91 @@
   <ontologyTerm source_id="ENVO_00000176" type="characteristicQualifier" parent="Source">
     <name>elevation</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000639" type="characteristicQualifier" parent="Source">
+    <name>PNAS_paper</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000151" type="characteristicQualifier" parent="Source">
+    <name>enrlDate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005007" type="characteristicQualifier" parent="Source">
+    <name>wthdrDate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000152" type="characteristicQualifier" parent="Source">
+    <name>lastDate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000094" type="characteristicQualifier" parent="Source">
+    <name>hhid</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005008" type="characteristicQualifier" parent="Source">
+    <name>nightlyMosq</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005009" type="characteristicQualifier" parent="Source">
+    <name>cumMosq</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005010" type="characteristicQualifier" parent="Source">
+    <name>malCount_Before</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005011" type="characteristicQualifier" parent="Source">
+    <name>incMal</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005012" type="characteristicQualifier" parent="Source">
+    <name>mal_at_plasma</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005013" type="characteristicQualifier" parent="Source">
+    <name>par_at_plasma</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005014" type="characteristicQualifier" parent="Source">
+    <name>pardens</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005015" type="characteristicQualifier" parent="Source">
+    <name>mal_7dBefore</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005016" type="characteristicQualifier" parent="Source">
+    <name>mal_7dAfter</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005017" type="characteristicQualifier" parent="Source">
+    <name>timesince_mal</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005018" type="characteristicQualifier" parent="Source">
+    <name>sincemal</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005019" type="characteristicQualifier" parent="Source">
+    <name>timesince_par</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005020" type="characteristicQualifier" parent="Source">
+    <name>sincepar</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005021" type="characteristicQualifier" parent="Source">
+    <name>mal30</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005022" type="characteristicQualifier" parent="Source">
+    <name>mal90</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005023" type="characteristicQualifier" parent="Source">
+    <name>mal180</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005024" type="characteristicQualifier" parent="Source">
+    <name>mal365</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005025" type="characteristicQualifier" parent="Source">
+    <name>par30</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005026" type="characteristicQualifier" parent="Source">
+    <name>par90</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005027" type="characteristicQualifier" parent="Source">
+    <name>par180</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005028" type="characteristicQualifier" parent="Source">
+    <name>par365</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005029" type="characteristicQualifier" parent="Source">
+    <name>sincepar_log</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005030" type="characteristicQualifier" parent="Source">
+    <name>incMal_log</name>
+  </ontologyTerm>
+
 
 <!-- only used in ICEMR protein array -->
   <ontologyTerm source_id="HP_0001892" type="characteristicQualifier" parent="Source">
@@ -412,6 +498,7 @@
 
   <ontologyTerm source_id="OBI_0100051" type="characteristicQualifier" parent="Sample">
     <name>specimen</name>
+    <name>sampleType</name>
   </ontologyTerm>
 
   <ontologyTerm source_id="OBI_0001901" type="characteristicQualifier" parent="Sample">
