@@ -1,0 +1,27 @@
+<investigation identifierRegex="^(EUSTDY)\d+$" identifierIsDirectoryName="true">
+
+  <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+ 
+   <dataset>pfal3D7_microarrayAntibody_Helb_RecentExposure_RSRC</dataset>
+   <node name="Source" type="host" suffix="Source"/>  
+   <node name="Sample" type="sample from organism"/>  
+   <node name="Extract" type="DNA extract" suffix="Extract"/>
+   <node name="Assay" suffix="Assay"/>
+   <node name="DataTransformation" suffix="protein_microarray"/>
+    
+   <edge input="Source" output="Sample">
+     <protocol>specimen collection</protocol>
+   </edge>
+   <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+   </edge>
+   <edge input="Extract" output="Assay">
+     <protocol>DNA sequencing</protocol>
+   </edge>
+   <edge input="Assay" output="DataTransformation">
+     <protocol>data transformation</protocol>
+   </edge>
+  </study>
+
+
+</investigation>
