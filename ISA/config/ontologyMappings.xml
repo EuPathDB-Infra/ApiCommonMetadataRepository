@@ -248,7 +248,7 @@
     <name>hhid</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0030002" type="characteristicQualifier" parent="Source">
-    <name>study_type</name>
+    <name>study</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0005008" type="characteristicQualifier" parent="Source">
     <name>nightlyMosq</name>
