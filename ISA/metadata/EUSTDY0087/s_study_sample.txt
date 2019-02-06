@@ -1,0 +1,187 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	specimen collection year	Characteristics [parasite organism]	Characteristics [organism]	latitude	longitude	
+BD09	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Muktagacha	2006	Leishmania donovani	unknown N	
+BD12	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	Leishmania donovani	unknown N	
+BD14	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	Leishmania donovani	unknown N	
+BD15	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Guforgaon	2006	Leishmania donovani	unknown N	
+BD17	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	Leishmania donovani	unknown N	
+BD21	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	Leishmania donovani	unknown N	
+BD24	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	Leishmania donovani	unknown N	
+BD25	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	Leishmania donovani	unknown N	
+BHU1011_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Beruwa, Saraiya, Bangra Ravi	2010	Leishmania donovani	unknown N	
+BHU1032_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Karnaul, Sahebganj, Malhur Sikandar	2010	Leishmania donovani	unknown N	
+BHU1042_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Dewariya, Paru, Dewariya Kothi	2010	Leishmania donovani	unknown N	
+BHU1052_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Marwan, Karja, Makdumpur Kodariya	2010	Leishmania donovani	unknown N	
+BHU1062_4	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Chainpur, Maniyari, Chainpur	2010	Leishmania donovani	unknown N	
+BHU1065_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Marwan, Karja, Mokadampur Kodariya	2010	Leishmania donovani	unknown N	
+BHU1080_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Sohashi, Devaria Kothi, Chand Kewari	2010	Leishmania donovani	unknown N	
+BHU1081_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kerma, Kudhani, Kerma	2010	Leishmania donovani	unknown N	
+BHU1092_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Dharbhanga, Ladora, Simri, Harpur Hanuman Nagar	2010	Leishmania donovani	unknown N	
+BHU1104_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Dharbhanga, Ladora, Simri, Harpur Hanuman Nagar	2010	Leishmania donovani	unknown N	
+BHU1113_7	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Motiour, nariyar Panapur	2010	Leishmania donovani	unknown N	
+BHU1139_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Uttar Paradesh, Jaunpur	2010	Leishmania donovani	unknown N	
+BHU1146_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Aurai, Ratwara	2010	Leishmania donovani	unknown N	
+BHU1153_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Sitamadhi, lalpur, Runni saidpur, kauria lalpur	2010	Leishmania donovani	unknown N	
+BHU1163_4	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Karnaul, sahebganj, Baluahi Sikandar	2010	Leishmania donovani	unknown N	
+BHU1164_4	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Jaitpur, Karza, Amitha Panapur	2010	Leishmania donovani	unknown N	
+BHU1199_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, sabai Patti, Rampur ratan	2010	Leishmania donovani	unknown N	
+BHU1216_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, saraiya, naya tola mohammadpur	2011	Leishmania donovani	unknown N	
+BHU171_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Chajan, Kudhani, Chajan	2005	Leishmania donovani	unknown N	
+BHU172_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Uttar Pradesh, Varanasi	2005	Leishmania donovani	unknown N	
+BHU180_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Vaishali, Bhagwanpur, Sahtha	2006	Leishmania donovani	unknown N	
+BHU188_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pilki, Dholi Sakra, Pilki	2006	Leishmania donovani	unknown N	
+BHU198_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Sahebganj, Jita Chapra	2006	Leishmania donovani	unknown N	
+BHU200_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Gorigama DIH, Karja, Fanda	2006	Leishmania donovani	unknown N	
+BHU201_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Fanda, Karja, Gorigama Dih	2006	Leishmania donovani	unknown N	
+BHU202_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Fanda, Karja, Gorigama Dih	2006	Leishmania donovani	unknown N	
+BHU205_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Dewariya, Paru, Darphari	2006	Leishmania donovani	unknown N	
+BHU210_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Dewariya,  Darphari	2006	Leishmania donovani	unknown N	
+BHU213_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Sitamadhi, Belsand, madhkaul	2006	Leishmania donovani	unknown N	
+BHU215_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Bishunpur patti, saraia, Bishunpur Basant	2006	Leishmania donovani	unknown N	
+BHU216_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Dewariya,  Darphari	2006	Leishmania donovani	unknown N	
+BHU220_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, saraiya, bhakhra	2006	Leishmania donovani	unknown N	
+BHU222_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pratappur, Karza, chainpur	2006	Leishmania donovani	unknown N	
+BHU224_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur,Jita Chapra, Sahebganj	2006	Leishmania donovani	unknown N	
+BHU230_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pratappur, Karza, chainpur	2006	Leishmania donovani	unknown N	
+BHU233_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kurhani, Kerma	2006	Leishmania donovani	unknown N	
+BHU234_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Chainpur , Karja, Partapur	2006	Leishmania donovani	unknown N	
+BHU238_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Baruraj,laximinia	2006	Leishmania donovani	unknown N	
+BHU239_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Susta, Maniyari, Bishunpur Gidha	2006	Leishmania donovani	unknown N	
+BHU241_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Nirpur, Sahebganj, Jita Chapra	2006	Leishmania donovani	unknown N	
+BHU242_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Birahima, Sahebganj, Jita Chapra	2006	Leishmania donovani	unknown N	
+BHU250_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Jasauli Pakri, Baruraj, Mahadipur	2006	Leishmania donovani	unknown N	
+BHU254_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pokhraira, Saraiya, Ramkrishan Dubiyahi	2006	Leishmania donovani	unknown N	
+BHU267_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kerma, Kudhani, Kerma	2007	Leishmania donovani	unknown N	
+BHU268_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Barkagaon, Karja, Kathan	2007	Leishmania donovani	unknown N	
+BHU269_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, rajwara, sahebganj	2007	Leishmania donovani	unknown N	
+BHU271_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	unknown	2007	Leishmania donovani	unknown N	
+BHU273_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	unknown	2007	Leishmania donovani	unknown N	
+BHU274_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Partapur, Karja, Mohammadpur	2007	Leishmania donovani	unknown N	
+BHU275_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Nariyarpur, Motipur, Nariyarpur	2007	Leishmania donovani	unknown N	
+BHU278_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kurhani, Sumera	2007	Leishmania donovani	unknown N	
+BHU281_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kurhani, Ladura Pakri	2007	Leishmania donovani	unknown N	
+BHU283_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pathahi, Karja, Pakri Pakohi	2007	Leishmania donovani	unknown N	
+BHU293_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Turki, Minapur, Nariyar Panapur	2007	Leishmania donovani	unknown N	
+BHU296_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	unknown		Leishmania donovani	unknown N	
+BHU297_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	unknown	2007	Leishmania donovani	unknown N	
+BHU298_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Sahebganj, rajwara	2007	Leishmania donovani	unknown N	
+BHU301_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Birbaliya, Baruraj, Tola Muza	2007	Leishmania donovani	unknown N	
+BHU315_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, fatiyabad, Paru	2007	Leishmania donovani	unknown N	
+BHU339_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, saraiya, bakhra, Visunpur Basaitha	2007	Leishmania donovani	unknown N	
+BHU345_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Uttar Pradesh, Barabanki	2007	Leishmania donovani	unknown N	
+BHU568cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzzafarpur, Gola Bhagwanpur, Kudhani, Gaushi Khan	2009	Leishmania donovani	26° 07' 18.51'' N	85° 22' 46.59'' E
+BHU573cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Sitamadhi	2009	Leishmania donovani	26° 35' 52.94'' N	85° 29' 43.08'' E
+BHU744_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur	2009	Leishmania donovani	unknown N	
+BHU774_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, Barka Gaon, Karja, Madho Chapra	2009	Leishmania donovani	unknown N	
+BHU783_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, Dhanaiya, Sahebganj, Dhanaiya	2010	Leishmania donovani	unknown N	
+BHU796_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, saraiya, Ajitpur, bahnagari	2010	Leishmania donovani	unknown N	
+BHU797_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, Kalbari, Kanti, Madhuban	2010	Leishmania donovani	unknown N	
+BHU798_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Rupan	2010	Leishmania donovani	unknown N	
+BHU800_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, sahebganj, rajwara, Rajwara purvi tola	2010	Leishmania donovani	unknown N	
+BHU808_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur,Baruraj , Chaur Ghata, Bakhari	2010	Leishmania donovani	unknown N	
+BHU815_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur,Baruraj , Birhima	2010	Leishmania donovani	unknown N	
+BHU816_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur,Minapur, Tnaraha, Koyali Baraw	2010	Leishmania donovani	unknown N	
+BHU824_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur,Bochaha, Chambuk,Wazidpur	2010	Leishmania donovani	unknown N	
+BHU828_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Barji, Motipur, Baraji	2010	Leishmania donovani	unknown N	
+BHU844_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Mirzapur, Ahiyapur, Patiyasa	2010	Leishmania donovani	unknown N	
+BHU850_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Patahi, Karza, Pakri Pakohi	2010	Leishmania donovani	unknown N	
+BHU869_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Rajla, Kudhani, Fatehpur	2010	Leishmania donovani	unknown N	
+BHU872_6	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Motipur, Motipur, Singhwari	2010	Leishmania donovani	unknown N	
+BHU889_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Paru, Saraiya, Chandan Ratwara	2010	Leishmania donovani	unknown N	
+BHU902_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Marwan, Karja, Mukdumpur Kodariya	2010	Leishmania donovani	unknown N	
+BHU906_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pakri, Karja, Pakri Pakohi	2010	Leishmania donovani	unknown N	
+BHU931_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Marwan, Karja, Mokadampur Kodariya	2010	Leishmania donovani	unknown N	
+BHU975_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pakri, Kudhani, Ladaura	2010	Leishmania donovani	unknown N	
+BHU982_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Motipur, Motipur, Ajana Kot	2010	Leishmania donovani	unknown N	
+BHU994_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Jalalpur, Mushari, Baikatpur	2010	Leishmania donovani	unknown N	
+BPK025_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Chandbela	2002	Leishmania donovani	26°37'3.71" N	 87°14'41.82"E
+BPK026_0cl5	Genomic diversity in Leishmania donovani in Indian subcontinent			North Nepal	Bhojpur, Bastim	2002	Leishmania donovani	27° 6' 38.57" N	87° 6' 52.10" E
+BPK029_0cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Purwa Kusaha	2002	Leishmania donovani	 26°37'28.93" N	 87° 6'26.43"E
+BPK035_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Bhagani	2002	Leishmania donovani	26° 42' 13.19" N	86° 56' 34.66" E
+BPK043_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Chatra	2002	Leishmania donovani	26° 51' 00.58'' N	87° 10' 00.00'' E
+BPK066_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Aurabani	2002	Leishmania donovani	26° 34' 1.0698" N	87° 12' 0" E
+BPK067_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Sundarpur	2002	Leishmania donovani	26°39'30.04" N	 87°18'56.17"E
+BPK077_0cl5	Genomic diversity in Leishmania donovani in Indian subcontinent			West Nepal	Saptari, Phattepur	2002	Leishmania donovani	26° 43' 03.07'' N	86° 57' 00.43'' E
+BPK080_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Ithahari	2002	Leishmania donovani	26° 39' 50.03'' N	87° 16' 18.21'' E
+BPK081_0cl8	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Pakali	2002	Leishmania donovani	26° 40  48   N	87° 13  48  E
+BPK085_0cl8	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Kamalpur	2002	Leishmania donovani	26° 42' 9.31" N	86° 53' 18.06" E
+BPK087_0cl11	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Bhodaha	2002	Leishmania donovani	26° 29' 8.97" N	87° 20' 11.93" E
+BPK090_0cl4	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Itahari	2002	Leishmania donovani	26° 43' 4.71" N	87° 17' 43.64" E
+BPK156_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Bhojpur, Yampang	2002	Leishmania donovani	27° 14' 50.2794" N	87° 10' 20.6034" E
+BPK158_0cl9	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Jhapa, Damak	2002	Leishmania donovani	26° 40' 17.55'' N	 87° 40' 04.71''E
+BPK173_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			West Nepal	Sarlahi, Pirari	2002	Leishmania donovani	26° 59' 25.36" N	85° 32' 28.45" E
+BPK173_1cl9	Genomic diversity in Leishmania donovani in Indian subcontinent			West Nepal	Sarlahi, Pirari	2003	Leishmania donovani	26° 59' 25.36" N	85° 32' 28.45" E
+BPK177_0cl7	Genomic diversity in Leishmania donovani in Indian subcontinent			West Nepal	Dhanusa, Sarsa	2002	Leishmania donovani	26°46'41.94" N	 86° 5'32.59"E
+BPK178_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Inaruwa	2002	Leishmania donovani	26° 36' 50.39'' N	87°10'18.45'' E
+BPK181_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Dumraha	2003	Leishmania donovani	26°40'13.64" N	 87°12'12.78"E
+BPK181_12 	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Dumraha	2003	Leishmania donovani	26°40'13.64" N	 87°12'12.78"E
+BPK190_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Govindpur	2003	Leishmania donovani	26° 30' 13.92" N	87° 34' 56.59" E
+BPK206_0cl10	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal 	Sunsari, Ithahari	2003	Leishmania donovani	26° 39' 50.03'' N	87° 16' 18.21'' E
+BPK208_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Itahari	2003	Leishmania donovani	26° 43' 4.71" N	87° 17' 43.64" E
+BPK274_0cl5	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Itahari	2003	Leishmania donovani	26° 43' 4.71" N	87° 17' 43.64" E
+BPK275_0cl18	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Schanischare	2003	Leishmania donovani	26° 38' 48.86" N	87° 32' 58.98" E
+BPK275_1cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Schanischare	2003	Leishmania donovani	26° 38' 48.86" N	87° 32' 58.98" E
+BPK276_0cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Itahari	2003	Leishmania donovani	26° 43' 4.71" N	87° 17' 43.64" E
+BPK279_0cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Sanischare	2003	Leishmania donovani	26° 38' 48.86" N	87° 32' 58.98" E
+BPK280_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Somnath	2003	Leishmania donovani	26° 39' 52.7034" N	86° 32' 33.8634" E
+BPK282_0cl4	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Inaruwa	2003	Leishmania donovani	26° 36' 50.39'' N	87°10'18.45'' E
+BPK288_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Sitapur	2003	Leishmania donovani	26° 37' 49.09'' N	86° 46' 10.93'' E
+BPK293_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Inaruwa	2003	Leishmania donovani	26° 36' 50.39'' N	87°10'18.45'' E
+BPK294_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			West Nepal	Siraha, Bishnupur	2003	Leishmania donovani	26° 44' 19.82" N	86° 17' 42" E
+BPK295_0cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			West Nepal	Siraha, Pipra	2003	Leishmania donovani	26° 43' 48'' N	86° 31' 52''E
+BPK298_0cl8	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Ithahari	2003	Leishmania donovani	26° 39' 50.03'' N	87° 16' 18.21'' E
+BPK344_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Sitapur	2004	Leishmania donovani	26° 37' 31.296" N	86° 44' 23.316" E
+BPK345_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	unknown	2004	Leishmania donovani	unknown N	
+BPK375_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	unknown	2004	Leishmania donovani	unknown N	
+BPK380_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	unknown	2004	Leishmania donovani	unknown N	
+BPK411_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Dharan	2009	Leishmania donovani	26° 49' 00.00'' N	87°17'00.00'' E
+BPK413_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Dharan	2009	Leishmania donovani	26° 49' 00.00'' N	87°17'00.00'' E
+BPK433_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Duhabi	2009	Leishmania donovani	unknown N	
+BPK455_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Sundarpur	2009	Leishmania donovani	26°39'30.04" N	 87°18'56.17"E
+BPK455_5cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Sundarpur	2010	Leishmania donovani	26°39'30.04" N	 87°18'56.17"E
+BPK471_7	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Rajgung Sinuwari	2010	Leishmania donovani	26° 26' 15.648" N	87° 9' 49.7154" E
+BPK475_9	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Rajgung Sinuwari	2010	Leishmania donovani	26° 26' 15.648" N	87° 9' 49.7154" E
+BPK486_7	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Odhara	2010	Leishmania donovani	26° 44' 6.6834" N	86° 57' 51.624" E
+BPK491_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Odhara	2009	Leishmania donovani	26° 44' 6.6834" N	86° 57' 51.624" E
+BPK495_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Sundarpur	2009	Leishmania donovani	26° 38' 46.4274" N	87° 18' 20.1594" E
+BPK496_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Sundarpur	2009	Leishmania donovani	26°39'30.04" N	 87°18'56.17"E
+BPK497_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Diwan	2009	Leishmania donovani	unknown N	
+BPK498_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Katahari	2009	Leishmania donovani	unknown N	
+BPK499_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Odhara	2009	Leishmania donovani	26° 44' 6.6834" N	86° 57' 51.624" E
+BPK500_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Odhara	2009	Leishmania donovani	26° 44' 6.6834" N	86° 57' 51.624" E
+BPK501_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Sundarpur	2009	Leishmania donovani	26° 38' 46.4274" N	87° 18' 20.1594" E
+BPK502_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Hansposa	2009	Leishmania donovani	unknown N	
+BPK505_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Ramnagar	2009	Leishmania donovani	26° 29' 53.6274" N	87° 1' 39.036"E
+BPK506_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Bhogwatupur	2009	Leishmania donovani	unknown N	
+BPK507_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Jhapa, Topgachi	2009	Leishmania donovani	26° 37' 31.296" N	87° 44' 22.4154" E
+BPK509_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Joganiya	2009	Leishmania donovani	26° 31' 50.8434" N	86° 51' 28.476" E
+BPK509_2	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Joganiya	2010	Leishmania donovani	26° 31' 50.8434" N	86° 51' 28.476" E
+BPK513_0cl8	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Odhara	2010	Leishmania donovani	26°41'16.27" N	 86°56'24.17"E
+BPK514_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Gacchiya	2010	Leishmania donovani	unknown N	
+BPK515_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Jhapa, Baundange	2010	Leishmania donovani	unknown N	
+BPK516_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Sundarpur	2010	Leishmania donovani	26°39'30.04" N	 87°18'56.17"E
+BPK518_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Nayabazar	2010	Leishmania donovani	unknown N	
+BPK519_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Aurabani	2010	Leishmania donovani	26° 34' 1.0698" N	87° 12' 0" E
+BPK519_12	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Aurabani	2011	Leishmania donovani	26° 34' 1.0698" N	87° 12' 0" E
+BPK520_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Sundarpur	2010	Leishmania donovani	26°39'30.04" N	 87°18'56.17"E
+BPK526_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Sundarpur	2010	Leishmania donovani	26°39'30.04" N	 87°18'56.17"E
+BPK530_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Manaha	2010	Leishmania donovani	unknown N	
+BPK562_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Odraha	2010	Leishmania donovani	26°41'16.27" N	 86°56'24.17"E
+BPK569_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Negada	2010	Leishmania donovani	unknown N	
+BPK594_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Bisahariya	2011	Leishmania donovani	26° 29' 22.6674" N	86° 46' 30.612" E
+BPK602_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Morang, Amardaha	2011	Leishmania donovani	26° 32' 8.556" N	87° 32' 45.3474" E
+BPK604_0	Genomic diversity in Leishmania donovani in Indian subcontinent			North Nepal	Khotang, Phaktang	2011	Leishmania donovani	26° 57' 31.68" N	86° 44' 57.912" E
+BPK608_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Siraha, Muksar	2011	Leishmania donovani	26° 51' 14.7234" N	26° 51' 14.7234" E
+BPK609_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Ramnagar	2011	Leishmania donovani	26° 29' 53.6274" N	87° 1' 39.036"E
+BPK612_0	Genomic diversity in Leishmania donovani in Indian subcontinent			North Nepal	Sankhuwasabha, Ankhibhai	2011	Leishmania donovani	27° 12' 34.02" N	87° 17' 5.9994" E
+BPK615_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Siraha, Bastipur	2011	Leishmania donovani	26° 46' 21.324" N	86° 22' 57.9" E
+BPK616_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Jalpapur	2011	Leishmania donovani	26° 34' 47.748" N	87° 7' 30.072" E
+BPK619_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East/Northern Nepal	Khotang, Suntale	2011	Leishmania donovani	26° 57' 31.68" N	86° 41' 39.1194" E
+BPK623_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Fatepur	2011	Leishmania donovani	26° 43' 0.1194" N	86° 55' 0.1272" E
+BPK648_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Northern Nepal	Sankhuwasabha, Aakhibhui	2011	Leishmania donovani	27° 12' 34.02" N	87° 17' 5.9994" E
+BPK649_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Central nepal	Rautahat, Paurahi	2011	Leishmania donovani	27° 8' 36.528" N	85° 26' 58.56" E
+BPK650_0	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Fatepur	2011	Leishmania donovani	26° 43' 0.1194" N	86° 55' 0.1272" E
+NEP021_6cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Parsabani	2004	Leishmania donovani	26° 36' 40.4634" N	86° 46' 41.736" E
+NEP052_3	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Jagatpur	2004	Leishmania donovani	26° 37' 26.904" N	86° 55' 15.888" E
+NEP098_6	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Siraha, Lahan	2004	Leishmania donovani	26° 43' 0.1194" N	86° 28' 59.8764" E
+NEP107_6	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Saptari, Portaha	2004	Leishmania donovani	26° 32' 27.6" N	86° 52' 47.9892" E
+NEP123_6	Genomic diversity in Leishmania donovani in Indian subcontinent			East Nepal	Sunsari, Amahibelaha	2004	Leishmania donovani	26° 27' 3.2148" N	87° 12' 54" E
