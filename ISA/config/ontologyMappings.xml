@@ -861,7 +861,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_9925" type="characteristicValue" parent="characteristicQualifier">
     <name>Capra hircus</name>
-  </ontologyTerm>	
+  </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_9940" type="characteristicValue" parent="characteristicQualifier">
     <name>Ovis aries</name>
   </ontologyTerm>
@@ -904,6 +904,9 @@
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_8782" type="characteristicValue" parent="characteristicQualifier">
     <name>Aves</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_38782" type="characteristicValue" parent="characteristicQualifier">
+    <name>Anopheles sp.</name>
   </ontologyTerm>
   <ontologyTerm source_id="SNOMEDCT_22097005" type="characteristicValue" parent="characteristicQualifier">
     <name>tree</name>
