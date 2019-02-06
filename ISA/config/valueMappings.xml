@@ -10,3 +10,39 @@ mating type	mating type	alpha	alpha
 mating type	mating type	not assigned	not assigned
 health_status	health_status	HIV+	HIV+
 health_status	health_status	HIV-	HIV-
+PNAS_paper	PNAS_paper	AssayCtrl	Microarray assay control
+PNAS_paper	PNAS_paper	NegCtrl	Negative control (malaria-naive plasma from North Americans)
+PNAS_paper	PNAS_paper	No	Experimental sample, not included in PNAS analysis
+PNAS_paper	PNAS_paper	PosCtrl	Positive control (pooled plasma from malaria-exposed Ugandans)
+PNAS_paper	PNAS_paper	Yes	Experimental sample 
+study	study	PRISM	Sample from PRISM study participant
+study	study	TCC	Sample from TCC study participant
+study	study		Control sample
+par_at_plasma	par_at_plasma	0	No
+par_at_plasma	par_at_plasma	1	Yes
+mal_at_plasma	mal_at_plasma	0	No
+mal_at_plasma	mal_at_plasma	1	Yes
+mal_7dBefore	mal_7dBefore	0	No
+mal_7dBefore	mal_7dBefore	1	Yes
+mal_7dAfter	mal_7dAfter	0	No
+mal_7dAfter	mal_7dAfter	1	Yes
+par30	par30	FALSE	No
+par30	par30	TRUE	Yes
+par90	par90	FALSE	No
+par90	par90	TRUE	Yes
+par180	par180	FALSE	No
+par180	par180	TRUE	Yes
+par365	par365	FALSE	No
+par365	par365	TRUE	Yes
+mal30	mal30	FALSE	No
+mal30	mal30	TRUE	Yes
+mal90	mal90	FALSE	No
+mal90	mal90	TRUE	Yes
+mal180	mal180	FALSE	No
+mal180	mal180	TRUE	Yes
+mal365	mal365	FALSE	No
+mal365	mal365	TRUE	Yes
+sampleType	sampleType	assay control	NA 
+sampleType	sampleType	Naive North American adult plasma	Plasma
+sampleType	sampleType	Pooled Ugandan positive control plasma	Pooled plasma
+sampleType	sampleType	Study sample (Ugandan child)	Plasma
