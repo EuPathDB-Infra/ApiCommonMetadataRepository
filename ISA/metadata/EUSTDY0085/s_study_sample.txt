@@ -31,5 +31,5 @@ FcHcI3	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	
 FcHcI4	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute oral
 FcHcI5	T. cruzi diversity in genomic repeats			Colombia	Trypanosoma cruzi cruzi	Human	Acute oral
 H1b	T. cruzi diversity in genomic repeats			Mexico	Trypanosoma cruzi cruzi	Human	Acute
-TD23	T. cruzi diversity in genomic repeats			Texas	Trypanosoma cruzi cruzi	T. dimidiata	Not applicable
-TD25	T. cruzi diversity in genomic repeats			Texas	Trypanosoma cruzi cruzi	T. dimidiata	Not applicable
+TD23	T. cruzi diversity in genomic repeats			USA	Trypanosoma cruzi cruzi	T. dimidiata	Not applicable
+TD25	T. cruzi diversity in genomic repeats			USA	Trypanosoma cruzi cruzi	T. dimidiata	Not applicable
