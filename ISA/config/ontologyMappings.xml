@@ -995,7 +995,7 @@
     <name>USA</name>
     <name>United States of America</name>
   </ontologyTerm>  
-  <ontologyTerm source_id=" GAZ_00002912" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="GAZ_00002912" type="characteristicValue" parent="characteristicQualifier">
     <name>Ecuador</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002560" type="characteristicValue" parent="characteristicQualifier">
