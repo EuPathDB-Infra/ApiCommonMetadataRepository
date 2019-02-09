@@ -678,7 +678,11 @@
   <ontologyTerm source_id="NCBITaxon_72489" type="characteristicValue" parent="characteristicQualifier">
     <name>Rhodnius pallescens</name>
     <name>R. pallescens</name>
-  </ontologyTerm> 
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_69252" type="characteristicValue" parent="characteristicQualifier">
+    <name>Rhodnius ecuadoriensis</name>
+    <name>R. ecuadoriensis</name>
+  </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_10053" type="characteristicValue" parent="characteristicQualifier">
     <name>Microtus</name>
     <name>vole</name>
@@ -991,7 +995,7 @@
     <name>USA</name>
     <name>United States of America</name>
   </ontologyTerm>  
-  <ontologyTerm source_id=" GAZ:00002912" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id=" GAZ_00002912" type="characteristicValue" parent="characteristicQualifier">
     <name>Ecuador</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002560" type="characteristicValue" parent="characteristicQualifier">
