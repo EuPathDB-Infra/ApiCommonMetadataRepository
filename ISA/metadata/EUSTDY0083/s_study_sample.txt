@@ -1,6 +1,7 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [host_common_name]	Characteristics [country]	Characteristics[specimen]	Characteristics [parasite organism]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [organism]	Characteristics [country]	Characteristics[specimen]	Characteristics [parasite organism]
 PvSY43				Pan troglodytes troglodytes	Cameroon	Blood	Plasmodium vivax
 PvSY56				Pan troglodytes ellioti	Cameroon	Blood	Plasmodium vivax
 PvSY81				Pan troglodytes troglodytes	Cameroon	Blood	Plasmodium vivax
 PvSY90				Pan troglodytes ellioti	Cameroon	Blood	Plasmodium vivax
 PvSagu				Pan troglodytes verus	Cote d'Ivoire	Blood	Plasmodium vivax
+PvGor3157				Gorilla gorilla	Cameroon	Blood	Plasmodium vivax
