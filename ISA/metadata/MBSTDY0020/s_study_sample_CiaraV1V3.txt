@@ -1,0 +1,136 @@
+name	description	sourcemtoverride	samplemtoverride	run_prefix_prep	region	title	host_common_name	host_subject_id	body_site	body_habitat	body_product	sample_type	Site	BodyType	Days post-infection	Treatment	Group	Cage ID	Exp_Cage ID	Lesion score	Thickness	Cured	No. Treatment	Lesion Size	Lesion Duration	ExtractionDate	DTH	host_sex
+118496				MiSeqV1V3_27	V1-V3		human	26239	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	396	30	4.12.16	440	Male
+118497				MiSeqV1V3_27	V1-V3		human	26239	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	396	30	4.12.16	440	Male
+118498				MiSeqV1V3_27	V1-V3		human	26239	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	396	30	4.12.16	440	Male
+118499				MiSeqV1V3_27	V1-V3		human	26235	Neck	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous								Yes	2	216	30	4.12.16	225	Male
+118500				MiSeqV1V3_27	V1-V3		human	26235	Neck	Skin epidermis	Sebum	Skin swab	Border	Sebaceous								Yes	2	216	30	4.12.16	225	Male
+118501				MiSeqV1V3_27	V1-V3		human	26235	Neck	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous								Yes	2	216	30	4.12.16	225	Male
+118502				MiSeqV1V3_27	V1-V3		human	26218	Left ankle	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	130	40	4.12.16	300	Male
+118503				MiSeqV1V3_27	V1-V3		human	26218	Left ankle	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	130	40	4.12.16	300	Male
+118504				MiSeqV1V3_27	V1-V3		human	26218	Right ankle	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	130	40	4.12.16	300	Male
+118505				MiSeqV1V3_27	V1-V3		human	26234	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	225	40	4.12.16	144	Male
+118506				MiSeqV1V3_27	V1-V3		human	26234	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	225	40	4.12.16	144	Male
+118507				MiSeqV1V3_27	V1-V3		human	26234	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	225	40	4.12.16	144	Male
+118508				MiSeqV1V3_27	V1-V3		human	26238	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	660	90	4.12.16	725	Male
+118509				MiSeqV1V3_27	V1-V3		human	26238	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	660	90	4.12.16	725	Male
+118510				MiSeqV1V3_27	V1-V3		human	26238	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	660	90	4.12.16	725	Male
+118511				MiSeqV1V3_27	V1-V3		human	26244	Left back	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous								Yes	1	500	30	4.12.16	440	Male
+118512				MiSeqV1V3_27	V1-V3		human	26244	Left back	Skin epidermis	Sebum	Skin swab	Border	Sebaceous								Yes	1	500	30	4.12.16	440	Male
+118513				MiSeqV1V3_27	V1-V3		human	26244	Right back	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous								Yes	1	500	30	4.12.16	440	Male
+118514				MiSeqV1V3_27	V1-V3		human	26221	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry										544	21	4.12.16	225	Female
+118515				MiSeqV1V3_27	V1-V3		human	26221	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry										544	21	4.12.16	225	Female
+118516				MiSeqV1V3_27	V1-V3		human	26221	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry										544	21	4.12.16	225	Female
+118517				MiSeqV1V3_27	V1-V3		human	26219	Left thigh	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	2	437	30	4.12.16	0	Male
+118518				MiSeqV1V3_27	V1-V3		human	26219	Left thigh	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	2	437	30	4.12.16	0	Male
+118519				MiSeqV1V3_27	V1-V3		human	26219	Right thigh	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	2	437	30	4.12.16	0	Male
+118520				MiSeqV1V3_27	V1-V3		human	26285	Right face	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous								Yes	2	840	60	4.13.16	300	Male
+118521				MiSeqV1V3_27	V1-V3		human	26285	Left face	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous								Yes	2	840	60	4.13.16	300	Male
+118522				MiSeqV1V3_27	V1-V3		human	26270	Right arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	49	30	4.13.16	400	Male
+118523				MiSeqV1V3_27	V1-V3		human	26270	Right arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	49	30	4.13.16	400	Male
+118524				MiSeqV1V3_27	V1-V3		human	26270	Left arm	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	49	30	4.13.16	400	Male
+118525				MiSeqV1V3_27	V1-V3		human	26321	Right thigh	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	25	30	4.13.16	210	Female
+118526				MiSeqV1V3_27	V1-V3		human	26321	Right thigh	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	25	30	4.13.16	210	Female
+118527				MiSeqV1V3_27	V1-V3		human	26321	Left thigh	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	25	30	4.13.16	210	Female
+118528				MiSeqV1V3_27	V1-V3		human	26291	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	70	30	4.13.16	130	Female
+118529				MiSeqV1V3_27	V1-V3		human	26291	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	70	30	4.13.16	130	Female
+118530				MiSeqV1V3_27	V1-V3		human	26291	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	70	30	4.13.16	130	Female
+118531				MiSeqV1V3_27	V1-V3		human	26273	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	3300	40	4.13.16	110	Male
+118532				MiSeqV1V3_27	V1-V3		human	26273	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	3300	40	4.13.16	110	Male
+118533				MiSeqV1V3_27	V1-V3		human	26273	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	3300	40	4.13.16	110	Male
+118534				MiSeqV1V3_27	V1-V3		human	26313	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	180	30	4.13.16	378	Female
+118535				MiSeqV1V3_27	V1-V3		human	26313	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	180	30	4.13.16	378	Female
+118536				MiSeqV1V3_27	V1-V3		human	26313	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	180	30	4.13.16	378	Female
+118537				MiSeqV1V3_27	V1-V3		human	26283	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes		90	10	4.13.16	260	Male
+118538				MiSeqV1V3_27	V1-V3		human	26283	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes		90	10	4.13.16	260	Male
+118539				MiSeqV1V3_27	V1-V3		human	26320	Left arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes		200	60	4.13.16	400	Male
+118540				MiSeqV1V3_27	V1-V3		human	26320	Right arm	Skin epidermis	Sebum	Skin swab	Normal	Dry										200	60	4.13.16	400	Male
+118541				MiSeqV1V3_27	V1-V3		human	26236	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	380	40	4.13.16		Female
+118542				MiSeqV1V3_27	V1-V3		human	26236	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	380	40	4.13.16		Female
+118543				MiSeqV1V3_27	V1-V3		human	26398	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	2	780	21	4.13.16	441	Male
+118544				MiSeqV1V3_27	V1-V3		human	26398	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	2	780	21	4.14.16	441	Male
+118545				MiSeqV1V3_27	V1-V3		human	26398	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	2	780	21	4.14.16	441	Male
+118546				MiSeqV1V3_27	V1-V3		human	26392	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	80	30	4.14.16	100	Female
+118547				MiSeqV1V3_27	V1-V3		human	26392	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	80	30	4.14.16	100	Female
+118548				MiSeqV1V3_27	V1-V3		human	26392	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	80	30	4.14.16	100	Female
+118549				MiSeqV1V3_27	V1-V3		human	26409	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	2	500	60	4.14.16	180	Male
+118550				MiSeqV1V3_27	V1-V3		human	26409	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	2	500	60	4.14.16	180	Male
+118551				MiSeqV1V3_27	V1-V3		human	26409	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	2	500	60	4.14.16	180	Male
+118552				MiSeqV1V3_27	V1-V3		human	26394	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	2	100	60	4.14.16	255	Female
+118553				MiSeqV1V3_27	V1-V3		human	26394	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	2	100	60	4.14.16	255	Female
+118554				MiSeqV1V3_27	V1-V3		human	26394	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	2	100	60	4.14.16	255	Female
+118555				MiSeqV1V3_27	V1-V3		human	26413	Left foot	Skin epidermis	Sebum	Skin swab	Lesion	Moist								Yes	1	24	60	4.14.16	300	Male
+118556				MiSeqV1V3_27	V1-V3		human	26413	Left foot	Skin epidermis	Sebum	Skin swab	Border	Moist								Yes	1	24	60	4.14.16	300	Male
+118557				MiSeqV1V3_27	V1-V3		human	26413	Right foot	Skin epidermis	Sebum	Skin swab	Normal	Moist								Yes	1	24	60	4.14.16	300	Male
+118558				MiSeqV1V3_27	V1-V3		human	26418	Left arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	130	30	4.14.16	285	Female
+118559				MiSeqV1V3_27	V1-V3		human	26418	Left arm	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	130	30	4.14.16	285	Female
+118560				MiSeqV1V3_27	V1-V3		human	26418	Right arm	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	130	30	4.14.16	285	Female
+118561				MiSeqV1V3_27	V1-V3		human	26397	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	150	21	4.14.16	180	Male
+118562				MiSeqV1V3_27	V1-V3		human	26397	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	150	21	4.14.16	180	Male
+118563				MiSeqV1V3_27	V1-V3		human	26397	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	150	21	4.14.16	180	Male
+118564				MiSeqV1V3_27	V1-V3		human	26416	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	270	30	4.14.16	272	Male
+118565				MiSeqV1V3_27	V1-V3		human	26416	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	270	30	4.14.16	272	Male
+118566				MiSeqV1V3_27	V1-V3		human	26416	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	270	30	4.14.16	272	Male
+118567				MiSeqV1V3_27	V1-V3		human	26395	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	1575	60	4.14.16	1085	Male
+118568				MiSeqV1V3_27	V1-V3		human	26395	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	1575	60	4.15.16	1085	Male
+118569				MiSeqV1V3_27	V1-V3		human	26395	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	1575	60	4.15.16	1085	Male
+118570				MiSeqV1V3_27	V1-V3		human	27092	Head	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous								Yes	2	192	34	4.15.16	130	Male
+118571				MiSeqV1V3_27	V1-V3		human	27092	Head	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous								Yes	2	192	34	4.15.16	130	Male
+118572				MiSeqV1V3_27	V1-V3		human	27092	Head	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous								Yes	2	192	34	4.15.16	130	Male
+118573				MiSeqV1V3_27	V1-V3		human	27083	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	480	14	4.15.16	208	Male
+118574				MiSeqV1V3_27	V1-V3		human	27083	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	480	14	4.15.16	208	Male
+118575				MiSeqV1V3_27	V1-V3		human	26294	Abdomen	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous								No		325		4.15.16	700	Female
+118576				MiSeqV1V3_27	V1-V3		human	26294	Abdomen	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous								No		325		4.15.16	700	Female
+118577				MiSeqV1V3_27	V1-V3		human	26303	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	130	20	4.15.16	460	Male
+118578				MiSeqV1V3_27	V1-V3		human	26303	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	130	20	4.15.16	460	Male
+118579				MiSeqV1V3_27	V1-V3		human	26924	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	35	45	4.15.16	132	Male
+118580				MiSeqV1V3_27	V1-V3		human	26924	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	35	45	4.15.16	132	Male
+118581				MiSeqV1V3_27	V1-V3		human	26924	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	35	45	4.15.16	132	Male
+118582				MiSeqV1V3_27	V1-V3		human	26955	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	49	20	4.15.16	400	Male
+118583				MiSeqV1V3_27	V1-V3		human	26955	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	49	20	4.15.16	400	Male
+118584				MiSeqV1V3_27	V1-V3		human	26955	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	49	20	4.15.16	400	Male
+118585				MiSeqV1V3_27	V1-V3		human	26938	Right foot	Skin epidermis	Sebum	Skin swab	Border	Moist								Yes	1	306	15	4.15.16	441	Male
+118586				MiSeqV1V3_27	V1-V3		human	26938	Right foot	Skin epidermis	Sebum	Skin swab	Lesion	Moist								Yes	1	306	15	4.15.16	441	Male
+118587				MiSeqV1V3_27	V1-V3		human	26938	Left foot	Skin epidermis	Sebum	Skin swab	Normal	Moist								Yes	1	306	15	4.15.16	441	Male
+118588				MiSeqV1V3_27	V1-V3		human	26958	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	400	35	4.15.16	225	Female
+118589				MiSeqV1V3_27	V1-V3		human	26958	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	400	35	4.15.16	225	Female
+118590				MiSeqV1V3_27	V1-V3		human	26958	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	400	35	4.15.16	225	Female
+118591				MiSeqV1V3_27	V1-V3		human	26935	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	25	15	4.15.16	49	Male
+118592				MiSeqV1V3_27	V1-V3		human	26935	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	25	15	4.15.16	49	Male
+118593				MiSeqV1V3_27	V1-V3		human	26935	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	25	15	4.15.16	49	Male
+118594				MiSeqV1V3_27	V1-V3		human	26960	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes		77	30	4.15.16	255	Male
+118595				MiSeqV1V3_27	V1-V3		human	26960	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes		77	30	4.15.16	255	Male
+118596				MiSeqV1V3_27	V1-V3		human	26960	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes		77	30	4.15.16	255	Male
+118597				MiSeqV1V3_27	V1-V3		human	26926	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	330	90	4.15.16	130	Male
+118598				MiSeqV1V3_27	V1-V3		human	26926	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	330	90	4.15.16	130	Male
+118599				MiSeqV1V3_27	V1-V3		human	26926	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	330	90	4.15.16	130	Male
+118600				MiSeqV1V3_27	V1-V3		human	26925	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry										1476	60	4.15.16	625	Female
+118601				MiSeqV1V3_27	V1-V3		human	26925	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry										1476	60	4.15.16	625	Female
+118602				MiSeqV1V3_27	V1-V3		human	26925	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry										1476	60	4.15.16	625	Female
+118603				MiSeqV1V3_27	V1-V3		human	26912	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	272	20	4.15.16	196	Male
+118604				MiSeqV1V3_27	V1-V3		human	26912	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	272	20	4.15.16	196	Male
+118605				MiSeqV1V3_27	V1-V3		human	26912	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	272	20	4.15.16	196	Male
+118606				MiSeqV1V3_27	V1-V3		human	26929	Right arm	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	1377	45	4.15.16	225	Male
+118607				MiSeqV1V3_27	V1-V3		human	26929	Right arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	1377	45	4.15.16	225	Male
+118608				MiSeqV1V3_27	V1-V3		human	26929	Left arm	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	1377	45	4.15.16	225	Male
+118609				MiSeqV1V3_27	V1-V3		human	26961	Left chest	Skin epidermis	Sebum	Skin swab	Border	Sebaceous								Yes	2	30	20	4.15.16	156	Female
+118610				MiSeqV1V3_27	V1-V3		human	26961	Left chest	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous								Yes	2	30	20	4.15.16	156	Female
+118611				MiSeqV1V3_27	V1-V3		human	26961	Right chest	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous								Yes	2	30	20	4.15.16	156	Female
+118612				MiSeqV1V3_27	V1-V3		human	26937	Back	Skin epidermis	Sebum	Skin swab	Border	Sebaceous								Yes	1	255	30	4.15.16	144	Female
+118613				MiSeqV1V3_27	V1-V3		human	26937	Back	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous								Yes	1	255	30	4.15.16	144	Female
+118614				MiSeqV1V3_27	V1-V3		human	26937	Back	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous								Yes	1	255	30	4.15.16	144	Female
+118615				MiSeqV1V3_27	V1-V3		human	26934	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	216	30	4.15.16		Female
+118616				MiSeqV1V3_27	V1-V3		human	26934	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	216	30	4.15.16		Female
+118617				MiSeqV1V3_27	V1-V3		human	26934	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	216	30	4.15.16		Female
+118618				MiSeqV1V3_27	V1-V3		human	26962	Abdomen	Skin epidermis	Sebum	Skin swab	Border	Sebaceous								Yes	1	207	40	4.15.16	289	Male
+118619				MiSeqV1V3_27	V1-V3		human	26962	Abdomen	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous								Yes	1	207	40	4.15.16	289	Male
+118620				MiSeqV1V3_27	V1-V3		human	26962	Abdomen	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous								Yes	1	207	40	4.15.16	289	Male
+118621				MiSeqV1V3_27	V1-V3		human	26928	Left thigh	Skin epidermis	Sebum	Skin swab	Border	Dry								Yes	1	340	90	4.15.16	255	Male
+118622				MiSeqV1V3_27	V1-V3		human	26928	Left thigh	Skin epidermis	Sebum	Skin swab	Lesion	Dry								Yes	1	340	90	4.15.16	255	Male
+118623				MiSeqV1V3_27	V1-V3		human	26928	Right thigh	Skin epidermis	Sebum	Skin swab	Normal	Dry								Yes	1	340	90	4.15.16	255	Male
+118624				MiSeqV1V3_27			human																			4.15.16		
+118625				MiSeqV1V3_27			human																			4.15.16		
+118626				MiSeqV1V3_27			human																			4.15.16		
+118627				MiSeqV1V3_27			human																			4.15.16		
+118628				MiSeqV1V3_27			human																			4.15.16		
+118629				MiSeqV1V3_27			human																			4.15.16		
+118630				MiSeqV1V3_27			human																			4.15.16		
