@@ -724,6 +724,7 @@
     <name>Pan troglodytes</name>
     <name>Pan troglodytes ellioti</name>
     <name>Pan troglodytes troglodytes</name>
+    <name>Pan troglodytes verus</name>
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_9913" type="characteristicValue" parent="characteristicQualifier">
     <name>Bos taurus</name>
