@@ -1,1017 +1,1017 @@
-name	case_control	country	age_months	sample_type	env_feature	age_factor
-SRS607858	Control	Gambia	34	Stool	Human	[24,60)
-SRS607861	Control	Gambia	22	Stool	Human	[18,24)
-SRS607990	Control	Gambia	37	Stool	Human	[24,60)
-SRS608232	Case	Kenya	36	Stool	Human	[24,60)
-SRS608242		Kenya		Stool	Human	
-SRS608243		Kenya		Stool	Human	
-SRS608244		Kenya		Stool	Human	
-SRS608245		Kenya		Stool	Human	
-SRS608380		Kenya		Stool	Human	
-SRS608398	Case	Kenya	48	Stool	Human	[24,60)
-SRS608463		Kenya		Stool	Human	
-SRS608517	Case	Bangladesh	19	Stool	Human	[18,24)
-SRS608520	Control	Bangladesh	32	Stool	Human	[24,60)
-SRS608521	Case	Bangladesh	1	Stool	Human	[0,6)
-SRS608522	Control	Bangladesh	12	Stool	Human	[12,18)
-SRS608525	Control	Bangladesh	13	Stool	Human	[12,18)
-SRS608531	Control	Bangladesh	9	Stool	Human	[6,12)
-SRS608532		Bangladesh		Stool	Human	
-SRS608533	Control	Bangladesh	5	Stool	Human	[0,6)
-SRS608537	Control	Bangladesh	5	Stool	Human	[0,6)
-SRS608557	Case	Bangladesh	10	Stool	Human	[6,12)
-SRS608598		Bangladesh		Stool	Human	
-SRS608607		Bangladesh		Stool	Human	
-SRS608674	Case	Bangladesh	22	Stool	Human	[18,24)
-SRS607724	Case	Gambia	14	Stool	Human	[12,18)
-SRS607723	Control	Gambia	24	Stool	Human	[24,60)
-SRS607726	Case	Gambia	17	Stool	Human	[12,18)
-SRS607725	Case	Gambia	36	Stool	Human	[24,60)
-SRS607728	Case	Gambia	29	Stool	Human	[24,60)
-SRS607727	Case	Gambia	29	Stool	Human	[24,60)
-SRS607729	Control	Gambia	27	Stool	Human	[24,60)
-SRS607731	Control	Gambia	30	Stool	Human	[24,60)
-SRS607730	Case	Gambia	20	Stool	Human	[18,24)
-SRS607732	Control	Gambia	33	Stool	Human	[24,60)
-SRS607733	Control	Gambia	21	Stool	Human	[18,24)
-SRS607734	Control	Gambia	58	Stool	Human	[24,60)
-SRS607736	Case	Gambia	40	Stool	Human	[24,60)
-SRS607735	Control	Gambia	42	Stool	Human	[24,60)
-SRS607738	Case	Gambia	7	Stool	Human	[6,12)
-SRS607737	Case	Gambia	14	Stool	Human	[12,18)
-SRS607739	Control	Gambia	21	Stool	Human	[18,24)
-SRS607740	Control	Gambia	27	Stool	Human	[24,60)
-SRS607741	Case	Gambia	14	Stool	Human	[12,18)
-SRS607742	Control	Gambia	16	Stool	Human	[12,18)
-SRS607743	Case	Gambia	21	Stool	Human	[18,24)
-SRS607744	Case	Gambia	20	Stool	Human	[18,24)
-SRS607745	Control	Gambia	17	Stool	Human	[12,18)
-SRS607746	Control	Gambia	17	Stool	Human	[12,18)
-SRS607747	Control	Gambia	30	Stool	Human	[24,60)
-SRS607748	Control	Gambia	10	Stool	Human	[6,12)
-SRS607749	Control	Gambia	13	Stool	Human	[12,18)
-SRS607750	Case	Gambia	9	Stool	Human	[6,12)
-SRS607751	Control	Gambia	19	Stool	Human	[18,24)
-SRS607753	Case	Gambia	6	Stool	Human	[6,12)
-SRS607752	Control	Gambia	20	Stool	Human	[18,24)
-SRS607754	Control	Gambia	23	Stool	Human	[18,24)
-SRS607755	Case	Gambia	10	Stool	Human	[6,12)
-SRS607756	Case	Gambia	18	Stool	Human	[18,24)
-SRS607757	Case	Gambia	20	Stool	Human	[18,24)
-SRS607758	Case	Gambia	23	Stool	Human	[18,24)
-SRS607759	Case	Gambia	10	Stool	Human	[6,12)
-SRS607760	Control	Gambia	19	Stool	Human	[18,24)
-SRS607761	Case	Gambia	11	Stool	Human	[6,12)
-SRS607762	Control	Gambia	11	Stool	Human	[6,12)
-SRS607763	Case	Gambia	26	Stool	Human	[24,60)
-SRS607764	Control	Gambia	10	Stool	Human	[6,12)
-SRS607765	Case	Gambia	10	Stool	Human	[6,12)
-SRS607766	Control	Gambia	10	Stool	Human	[6,12)
-SRS607720	Case	Gambia	10	Stool	Human	[6,12)
-SRS607719	Control	Gambia	8	Stool	Human	[6,12)
-SRS607721	Case	Gambia	18	Stool	Human	[18,24)
-SRS607722	Control	Gambia	17	Stool	Human	[12,18)
-SRS607767	Case	Gambia	26	Stool	Human	[24,60)
-SRS607768	Case	Gambia	14	Stool	Human	[12,18)
-SRS607769	Case	Gambia	20	Stool	Human	[18,24)
-SRS607770	Control	Gambia	19	Stool	Human	[18,24)
-SRS607771	Case	Gambia	12	Stool	Human	[12,18)
-SRS607772	Case	Gambia	15	Stool	Human	[12,18)
-SRS607773	Case	Gambia	29	Stool	Human	[24,60)
-SRS607774	Control	Gambia	12	Stool	Human	[12,18)
-SRS607775	Control	Gambia	35	Stool	Human	[24,60)
-SRS607776	Case	Gambia	25	Stool	Human	[24,60)
-SRS607777	Control	Gambia	24	Stool	Human	[24,60)
-SRS607778	Control	Gambia	26	Stool	Human	[24,60)
-SRS607779	Case	Gambia	8	Stool	Human	[6,12)
-SRS607781	Case	Gambia	7	Stool	Human	[6,12)
-SRS607780	Case	Gambia	9	Stool	Human	[6,12)
-SRS607782	Case	Gambia	28	Stool	Human	[24,60)
-SRS607783	Case	Gambia	24	Stool	Human	[24,60)
-SRS607784	Case	Gambia	16	Stool	Human	[12,18)
-SRS607786	Case	Gambia	21	Stool	Human	[18,24)
-SRS607785	Control	Gambia	28	Stool	Human	[24,60)
-SRS607787	Control	Gambia	26	Stool	Human	[24,60)
-SRS607788	Case	Gambia	22	Stool	Human	[18,24)
-SRS607789	Case	Gambia	9	Stool	Human	[6,12)
-SRS607790	Control	Gambia	7	Stool	Human	[6,12)
-SRS607791	Case	Gambia	13	Stool	Human	[12,18)
-SRS607792	Case	Gambia	13	Stool	Human	[12,18)
-SRS607793	Control	Gambia	14	Stool	Human	[12,18)
-SRS607794	Control	Gambia	11	Stool	Human	[6,12)
-SRS607795	Case	Gambia	6	Stool	Human	[6,12)
-SRS607797	Case	Gambia	10	Stool	Human	[6,12)
-SRS607796	Case	Gambia	15	Stool	Human	[12,18)
-SRS607798	Case	Gambia	8	Stool	Human	[6,12)
-SRS607799	Case	Gambia	20	Stool	Human	[18,24)
-SRS607800	Control	Gambia	9	Stool	Human	[6,12)
-SRS607801	Control	Gambia	10	Stool	Human	[6,12)
-SRS607802	Control	Gambia	17	Stool	Human	[12,18)
-SRS607803	Control	Gambia	23	Stool	Human	[18,24)
-SRS607805	Case	Gambia	10	Stool	Human	[6,12)
-SRS607804	Case	Gambia	34	Stool	Human	[24,60)
-SRS607806	Case	Gambia	6	Stool	Human	[6,12)
-SRS607807	Case	Gambia	4	Stool	Human	[0,6)
-SRS607808	Case	Gambia	9	Stool	Human	[6,12)
-SRS607809	Control	Gambia	36	Stool	Human	[24,60)
-SRS607810	Case	Gambia	8	Stool	Human	[6,12)
-SRS607811	Case	Gambia	17	Stool	Human	[12,18)
-SRS607812	Case	Gambia	12	Stool	Human	[12,18)
-SRS607813	Case	Gambia	46	Stool	Human	[24,60)
-SRS607814	Case	Gambia	8	Stool	Human	[6,12)
-SRS607815	Case	Gambia	26	Stool	Human	[24,60)
-SRS607816	Case	Gambia	4	Stool	Human	[0,6)
-SRS607817	Case	Gambia	6	Stool	Human	[6,12)
-SRS607818	Case	Gambia	9	Stool	Human	[6,12)
-SRS607819	Control	Gambia	7	Stool	Human	[6,12)
-SRS607820	Control	Gambia	8	Stool	Human	[6,12)
-SRS607821	Control	Gambia	25	Stool	Human	[24,60)
-SRS607822	Control	Gambia	10	Stool	Human	[6,12)
-SRS607823	Control	Gambia	5	Stool	Human	[0,6)
-SRS607824	Case	Gambia	6	Stool	Human	[6,12)
-SRS607825	Control	Gambia	8	Stool	Human	[6,12)
-SRS607826	Case	Gambia	22	Stool	Human	[18,24)
-SRS607827	Control	Gambia	16	Stool	Human	[12,18)
-SRS607828	Case	Gambia	30	Stool	Human	[24,60)
-SRS607829	Case	Gambia	7	Stool	Human	[6,12)
-SRS607830	Case	Gambia	9	Stool	Human	[6,12)
-SRS607831	Control	Gambia	7	Stool	Human	[6,12)
-SRS607832	Case	Gambia	3	Stool	Human	[0,6)
-SRS607834	Case	Gambia	30	Stool	Human	[24,60)
-SRS607833	Case	Gambia	12	Stool	Human	[12,18)
-SRS607835	Case	Gambia	14	Stool	Human	[12,18)
-SRS607836	Case	Gambia	6	Stool	Human	[6,12)
-SRS607837	Case	Gambia	15	Stool	Human	[12,18)
-SRS607838	Control	Gambia	30	Stool	Human	[24,60)
-SRS607839	Case	Gambia	8	Stool	Human	[6,12)
-SRS607840	Case	Gambia	9	Stool	Human	[6,12)
-SRS607841	Control	Gambia	4	Stool	Human	[0,6)
-SRS607842	Case	Gambia	28	Stool	Human	[24,60)
-SRS607843	Control	Gambia	25	Stool	Human	[24,60)
-SRS607844	Control	Gambia	24	Stool	Human	[24,60)
-SRS607845	Case	Gambia	17	Stool	Human	[12,18)
-SRS607846	Control	Gambia	25	Stool	Human	[24,60)
-SRS607847	Case	Gambia	13	Stool	Human	[12,18)
-SRS607849	Control	Gambia	25	Stool	Human	[24,60)
-SRS607848	Case	Gambia	35	Stool	Human	[24,60)
-SRS607850	Control	Gambia	39	Stool	Human	[24,60)
-SRS607851	Control	Gambia	42	Stool	Human	[24,60)
-SRS607852	Case	Gambia	10	Stool	Human	[6,12)
-SRS607853	Case	Gambia	4	Stool	Human	[0,6)
-SRS607854	Case	Gambia	11	Stool	Human	[6,12)
-SRS607855	Case	Gambia	21	Stool	Human	[18,24)
-SRS607856	Case	Gambia	23	Stool	Human	[18,24)
-SRS607857	Control	Gambia	38	Stool	Human	[24,60)
-SRS607859	Case	Gambia	16	Stool	Human	[12,18)
-SRS607860	Case	Gambia	6	Stool	Human	[6,12)
-SRS607862	Control	Gambia	21	Stool	Human	[18,24)
-SRS607863	Control	Gambia	19	Stool	Human	[18,24)
-SRS607864	Control	Gambia	17	Stool	Human	[12,18)
-SRS607865	Control	Gambia	21	Stool	Human	[18,24)
-SRS607866	Control	Gambia	21	Stool	Human	[18,24)
-SRS607867	Control	Gambia	14	Stool	Human	[12,18)
-SRS607868	Case	Gambia	11	Stool	Human	[6,12)
-SRS607869	Case	Gambia	16	Stool	Human	[12,18)
-SRS607870	Control	Gambia	6	Stool	Human	[6,12)
-SRS607871	Case	Gambia	19	Stool	Human	[18,24)
-SRS607872	Case	Gambia	2	Stool	Human	[0,6)
-SRS607873	Control	Gambia	17	Stool	Human	[12,18)
-SRS607874	Control	Gambia	16	Stool	Human	[12,18)
-SRS607875	Control	Gambia	10	Stool	Human	[6,12)
-SRS607877	Case	Gambia	20	Stool	Human	[18,24)
-SRS607876	Case	Gambia	24	Stool	Human	[24,60)
-SRS607879	Control	Gambia	3	Stool	Human	[0,6)
-SRS607878	Case	Gambia	11	Stool	Human	[6,12)
-SRS607881	Case	Gambia	15	Stool	Human	[12,18)
-SRS607880	Case	Gambia	7	Stool	Human	[6,12)
-SRS607882	Case	Gambia	19	Stool	Human	[18,24)
-SRS607883	Case	Gambia	2	Stool	Human	[0,6)
-SRS607884	Case	Gambia	7	Stool	Human	[6,12)
-SRS607885	Control	Gambia	16	Stool	Human	[12,18)
-SRS607886	Control	Gambia	27	Stool	Human	[24,60)
-SRS607887	Control	Gambia	26	Stool	Human	[24,60)
-SRS607888	Control	Gambia	25	Stool	Human	[24,60)
-SRS607889	Control	Gambia	10	Stool	Human	[6,12)
-SRS607890	Control	Gambia	20	Stool	Human	[18,24)
-SRS607891	Control	Gambia	14	Stool	Human	[12,18)
-SRS607892	Control	Gambia	9	Stool	Human	[6,12)
-SRS607893	Control	Gambia	9	Stool	Human	[6,12)
-SRS607894	Control	Gambia	6	Stool	Human	[6,12)
-SRS607895	Case	Gambia	17	Stool	Human	[12,18)
-SRS607896	Control	Gambia	22	Stool	Human	[18,24)
-SRS607898	Control	Gambia	8	Stool	Human	[6,12)
-SRS607897	Control	Gambia	18	Stool	Human	[18,24)
-SRS607900	Control	Gambia	15	Stool	Human	[12,18)
-SRS607899	Control	Gambia	16	Stool	Human	[12,18)
-SRS607901	Case	Gambia	18	Stool	Human	[18,24)
-SRS607902	Case	Gambia	20	Stool	Human	[18,24)
-SRS607904	Case	Gambia	17	Stool	Human	[12,18)
-SRS607903	Control	Gambia	18	Stool	Human	[18,24)
-SRS607905	Control	Gambia	21	Stool	Human	[18,24)
-SRS607906	Case	Gambia	16	Stool	Human	[12,18)
-SRS607907	Case	Gambia	19	Stool	Human	[18,24)
-SRS607908	Case	Gambia	22	Stool	Human	[18,24)
-SRS607909	Control	Gambia	20	Stool	Human	[18,24)
-SRS607910	Case	Gambia	5	Stool	Human	[0,6)
-SRS607911	Control	Gambia	14	Stool	Human	[12,18)
-SRS607912	Control	Gambia	15	Stool	Human	[12,18)
-SRS607913	Case	Gambia	33	Stool	Human	[24,60)
-SRS607914	Control	Gambia	24	Stool	Human	[24,60)
-SRS607915	Control	Gambia	27	Stool	Human	[24,60)
-SRS607916	Control	Gambia	26	Stool	Human	[24,60)
-SRS607917	Control	Gambia	8	Stool	Human	[6,12)
-SRS607918	Case	Gambia	21	Stool	Human	[18,24)
-SRS607919	Case	Gambia	24	Stool	Human	[24,60)
-SRS607920	Control	Gambia	20	Stool	Human	[18,24)
-SRS607921	Case	Gambia	17	Stool	Human	[12,18)
-SRS607922	Case	Gambia	3	Stool	Human	[0,6)
-SRS607923	Case	Gambia	9	Stool	Human	[6,12)
-SRS607924	Control	Gambia	26	Stool	Human	[24,60)
-SRS607925	Control	Gambia	26	Stool	Human	[24,60)
-SRS607926	Control	Gambia	9	Stool	Human	[6,12)
-SRS607927	Case	Gambia	19	Stool	Human	[18,24)
-SRS607928	Case	Gambia	7	Stool	Human	[6,12)
-SRS607929	Control	Gambia	4	Stool	Human	[0,6)
-SRS607930	Case	Gambia	7	Stool	Human	[6,12)
-SRS607931	Case	Gambia	19	Stool	Human	[18,24)
-SRS607933	Case	Gambia	4	Stool	Human	[0,6)
-SRS607932	Control	Gambia	5	Stool	Human	[0,6)
-SRS607934	Case	Gambia	19	Stool	Human	[18,24)
-SRS607936	Control	Gambia	23	Stool	Human	[18,24)
-SRS607935	Control	Gambia	9	Stool	Human	[6,12)
-SRS607937	Control	Gambia	22	Stool	Human	[18,24)
-SRS607938	Control	Gambia	20	Stool	Human	[18,24)
-SRS607939	Control	Gambia	27	Stool	Human	[24,60)
-SRS607940	Control	Gambia	28	Stool	Human	[24,60)
-SRS607941	Case	Gambia	4	Stool	Human	[0,6)
-SRS607942	Case	Gambia	30	Stool	Human	[24,60)
-SRS607943	Control	Gambia	23	Stool	Human	[18,24)
-SRS607944	Control	Gambia	28	Stool	Human	[24,60)
-SRS607945	Control	Gambia	28	Stool	Human	[24,60)
-SRS607946	Control	Gambia	6	Stool	Human	[6,12)
-SRS607947	Case	Gambia	32	Stool	Human	[24,60)
-SRS607948	Case	Gambia	19	Stool	Human	[18,24)
-SRS607949	Case	Gambia	19	Stool	Human	[18,24)
-SRS607950	Control	Gambia	27	Stool	Human	[24,60)
-SRS607951	Control	Gambia	20	Stool	Human	[18,24)
-SRS607952	Control	Gambia	30	Stool	Human	[24,60)
-SRS607953	Control	Gambia	21	Stool	Human	[18,24)
-SRS607954	Case	Gambia	36	Stool	Human	[24,60)
-SRS607955	Case	Gambia	8	Stool	Human	[6,12)
-SRS607956	Case	Gambia	53	Stool	Human	[24,60)
-SRS607957	Control	Gambia	20	Stool	Human	[18,24)
-SRS607958	Control	Gambia	21	Stool	Human	[18,24)
-SRS607959	Control	Gambia	34	Stool	Human	[24,60)
-SRS607960	Control	Gambia	33	Stool	Human	[24,60)
-SRS607962	Case	Gambia	19	Stool	Human	[18,24)
-SRS607961	Case	Gambia	17	Stool	Human	[12,18)
-SRS607963	Control	Gambia	52	Stool	Human	[24,60)
-SRS607964	Control	Gambia	19	Stool	Human	[18,24)
-SRS607965	Case	Gambia	16	Stool	Human	[12,18)
-SRS607966	Control	Gambia	29	Stool	Human	[24,60)
-SRS607967	Control	Gambia	8	Stool	Human	[6,12)
-SRS607968	Control	Gambia	19	Stool	Human	[18,24)
-SRS607969	Control	Gambia	20	Stool	Human	[18,24)
-SRS607970	Case	Gambia	8	Stool	Human	[6,12)
-SRS607971	Case	Gambia	16	Stool	Human	[12,18)
-SRS607972	Case	Gambia	22	Stool	Human	[18,24)
-SRS607973	Case	Gambia	17	Stool	Human	[12,18)
-SRS607974	Case	Gambia	17	Stool	Human	[12,18)
-SRS607976	Control	Gambia	23	Stool	Human	[18,24)
-SRS607975	Control	Gambia	23	Stool	Human	[18,24)
-SRS607978	Control	Gambia	21	Stool	Human	[18,24)
-SRS607977	Control	Gambia	12	Stool	Human	[12,18)
-SRS607980	Control	Gambia	10	Stool	Human	[6,12)
-SRS607979	Control	Gambia	10	Stool	Human	[6,12)
-SRS607981	Control	Gambia	15	Stool	Human	[12,18)
-SRS607982	Control	Gambia	9	Stool	Human	[6,12)
-SRS607983	Case	Gambia	10	Stool	Human	[6,12)
-SRS607984	Control	Gambia	4	Stool	Human	[0,6)
-SRS607985	Case	Gambia	19	Stool	Human	[18,24)
-SRS607986	Control	Gambia	20	Stool	Human	[18,24)
-SRS607987	Case	Gambia	22	Stool	Human	[18,24)
-SRS607989	Case	Gambia	8	Stool	Human	[6,12)
-SRS607988	Case	Gambia	34	Stool	Human	[24,60)
-SRS607991	Case	Mali	6	Stool	Human	[6,12)
-SRS607992	Case	Mali	27	Stool	Human	[24,60)
-SRS607993	Case	Mali	33	Stool	Human	[24,60)
-SRS607994	Case	Mali	19	Stool	Human	[18,24)
-SRS607995	Case	Mali	11	Stool	Human	[6,12)
-SRS607996	Control	Mali	29	Stool	Human	[24,60)
-SRS607997	Case	Mali	34	Stool	Human	[24,60)
-SRS607998	Case	Mali	6	Stool	Human	[6,12)
-SRS607999	Case	Mali	3	Stool	Human	[0,6)
-SRS608001	Case	Mali	48	Stool	Human	[24,60)
-SRS608000	Case	Mali	26	Stool	Human	[24,60)
-SRS608002	Case	Mali	8	Stool	Human	[6,12)
-SRS608003	Case	Mali	5	Stool	Human	[0,6)
-SRS608004	Case	Mali	14	Stool	Human	[12,18)
-SRS608005	Case	Mali	17	Stool	Human	[12,18)
-SRS608006	Case	Mali	20	Stool	Human	[18,24)
-SRS608007	Case	Mali	36	Stool	Human	[24,60)
-SRS608008	Case	Mali	18	Stool	Human	[18,24)
-SRS608009	Case	Mali	4	Stool	Human	[0,6)
-SRS608010	Case	Mali	6	Stool	Human	[6,12)
-SRS608011	Case	Mali	8	Stool	Human	[6,12)
-SRS608012	Case	Mali	23	Stool	Human	[18,24)
-SRS608013	Case	Mali	4	Stool	Human	[0,6)
-SRS608014	Control	Mali	15	Stool	Human	[12,18)
-SRS608015	Control	Mali	14	Stool	Human	[12,18)
-SRS608016	Control	Mali	16	Stool	Human	[12,18)
-SRS608017	Control	Mali	14	Stool	Human	[12,18)
-SRS608018	Control	Mali	29	Stool	Human	[24,60)
-SRS608019	Control	Mali	7	Stool	Human	[6,12)
-SRS608020	Control	Mali	34	Stool	Human	[24,60)
-SRS608021	Control	Mali	20	Stool	Human	[18,24)
-SRS608022	Control	Mali	34	Stool	Human	[24,60)
-SRS608024	Control	Mali	38	Stool	Human	[24,60)
-SRS608023	Control	Mali	10	Stool	Human	[6,12)
-SRS608025	Control	Mali	28	Stool	Human	[24,60)
-SRS608026	Control	Mali	6	Stool	Human	[6,12)
-SRS608027	Control	Mali	15	Stool	Human	[12,18)
-SRS608028	Case	Mali	24	Stool	Human	[24,60)
-SRS608029	Case	Mali	11	Stool	Human	[6,12)
-SRS608032	Case	Mali	11	Stool	Human	[6,12)
-SRS608030	Case	Mali	8	Stool	Human	[6,12)
-SRS608031	Control	Mali	25	Stool	Human	[24,60)
-SRS608033	Case	Mali	26	Stool	Human	[24,60)
-SRS608034	Case	Mali	19	Stool	Human	[18,24)
-SRS608035	Case	Mali	0	Stool	Human	[0,6)
-SRS608037	Case	Mali	20	Stool	Human	[18,24)
-SRS608036	Case	Mali	6	Stool	Human	[6,12)
-SRS608038	Case	Mali	14	Stool	Human	[12,18)
-SRS608039	Case	Mali	26	Stool	Human	[24,60)
-SRS608040	Control	Mali	11	Stool	Human	[6,12)
-SRS608041	Control	Mali	28	Stool	Human	[24,60)
-SRS608042	Control	Mali	10	Stool	Human	[6,12)
-SRS608043	Control	Mali	13	Stool	Human	[12,18)
-SRS608044	Control	Mali	15	Stool	Human	[12,18)
-SRS608045	Control	Mali	7	Stool	Human	[6,12)
-SRS608046	Control	Mali	10	Stool	Human	[6,12)
-SRS608047	Control	Mali	27	Stool	Human	[24,60)
-SRS608048	Control	Mali	9	Stool	Human	[6,12)
-SRS608049	Control	Mali	22	Stool	Human	[18,24)
-SRS608050	Control	Mali	5	Stool	Human	[0,6)
-SRS608051	Control	Mali	16	Stool	Human	[12,18)
-SRS608052	Control	Mali	15	Stool	Human	[12,18)
-SRS608053	Control	Mali	4	Stool	Human	[0,6)
-SRS608054	Control	Mali	30	Stool	Human	[24,60)
-SRS608055	Control	Mali	14	Stool	Human	[12,18)
-SRS608056	Control	Mali	52	Stool	Human	[24,60)
-SRS608057	Control	Mali	19	Stool	Human	[18,24)
-SRS608058	Case	Mali	44	Stool	Human	[24,60)
-SRS608059	Case	Mali	33	Stool	Human	[24,60)
-SRS608061	Case	Mali	6	Stool	Human	[6,12)
-SRS608060	Control	Mali	8	Stool	Human	[6,12)
-SRS608062	Case	Mali	6	Stool	Human	[6,12)
-SRS608064	Case	Mali	3	Stool	Human	[0,6)
-SRS608063	Case	Mali	10	Stool	Human	[6,12)
-SRS608065	Case	Mali	32	Stool	Human	[24,60)
-SRS608066	Control	Mali	29	Stool	Human	[24,60)
-SRS608067	Control	Mali	6	Stool	Human	[6,12)
-SRS608068	Control	Mali	17	Stool	Human	[12,18)
-SRS608069	Control	Mali	19	Stool	Human	[18,24)
-SRS608070	Control	Mali	6	Stool	Human	[6,12)
-SRS608071	Control	Mali	28	Stool	Human	[24,60)
-SRS608072	Control	Mali	13	Stool	Human	[12,18)
-SRS608073	Control	Mali	7	Stool	Human	[6,12)
-SRS608074	Control	Mali	17	Stool	Human	[12,18)
-SRS608075	Control	Mali	45	Stool	Human	[24,60)
-SRS608076	Control	Mali	6	Stool	Human	[6,12)
-SRS608077	Control	Mali	6	Stool	Human	[6,12)
-SRS608078	Control	Mali	8	Stool	Human	[6,12)
-SRS608079	Control	Mali	6	Stool	Human	[6,12)
-SRS608080	Control	Mali	28	Stool	Human	[24,60)
-SRS608081	Control	Mali	39	Stool	Human	[24,60)
-SRS608082	Control	Mali	17	Stool	Human	[12,18)
-SRS608084	Case	Mali	18	Stool	Human	[18,24)
-SRS608083	Case	Mali	12	Stool	Human	[12,18)
-SRS608085	Case	Mali	15	Stool	Human	[12,18)
-SRS608086	Case	Mali	6	Stool	Human	[6,12)
-SRS608087	Case	Mali	13	Stool	Human	[12,18)
-SRS608088	Case	Mali	9	Stool	Human	[6,12)
-SRS608089	Case	Mali	16	Stool	Human	[12,18)
-SRS608090	Case	Mali	13	Stool	Human	[12,18)
-SRS608091	Case	Mali	12	Stool	Human	[12,18)
-SRS608093	Case	Mali	9	Stool	Human	[6,12)
-SRS608092	Case	Mali	12	Stool	Human	[12,18)
-SRS608094	Case	Mali	7	Stool	Human	[6,12)
-SRS608095	Case	Mali	4	Stool	Human	[0,6)
-SRS608096	Case	Mali	10	Stool	Human	[6,12)
-SRS608097	Case	Mali	9	Stool	Human	[6,12)
-SRS608098	Case	Mali	6	Stool	Human	[6,12)
-SRS608100	Case	Mali	12	Stool	Human	[12,18)
-SRS608099	Case	Mali	13	Stool	Human	[12,18)
-SRS608101	Case	Mali	15	Stool	Human	[12,18)
-SRS608102	Case	Mali	43	Stool	Human	[24,60)
-SRS608106	Case	Mali	9	Stool	Human	[6,12)
-SRS608103	Case	Mali	10	Stool	Human	[6,12)
-SRS608104	Case	Mali	11	Stool	Human	[6,12)
-SRS608105	Case	Mali	23	Stool	Human	[18,24)
-SRS608107	Case	Mali	9	Stool	Human	[6,12)
-SRS608108	Control	Mali	7	Stool	Human	[6,12)
-SRS608109	Control	Mali	7	Stool	Human	[6,12)
-SRS608110	Control	Mali	4	Stool	Human	[0,6)
-SRS608111	Control	Mali	30	Stool	Human	[24,60)
-SRS608112	Case	Mali	16	Stool	Human	[12,18)
-SRS608113	Case	Mali	19	Stool	Human	[18,24)
-SRS608114	Case	Mali	26	Stool	Human	[24,60)
-SRS608115	Case	Mali	7	Stool	Human	[6,12)
-SRS608116	Case	Mali	7	Stool	Human	[6,12)
-SRS608117	Case	Mali	40	Stool	Human	[24,60)
-SRS608118	Case	Mali	9	Stool	Human	[6,12)
-SRS608119	Case	Mali	8	Stool	Human	[6,12)
-SRS608120	Case	Mali	8	Stool	Human	[6,12)
-SRS608121	Case	Mali	4	Stool	Human	[0,6)
-SRS608122	Case	Mali	8	Stool	Human	[6,12)
-SRS608123	Case	Mali	7	Stool	Human	[6,12)
-SRS608124	Control	Mali	9	Stool	Human	[6,12)
-SRS608125	Control	Mali	12	Stool	Human	[12,18)
-SRS608126	Control	Mali	5	Stool	Human	[0,6)
-SRS608127	Control	Mali	24	Stool	Human	[24,60)
-SRS608128	Control	Mali	8	Stool	Human	[6,12)
-SRS608129	Control	Mali	20	Stool	Human	[18,24)
-SRS608131	Control	Mali	12	Stool	Human	[12,18)
-SRS608130	Control	Mali	5	Stool	Human	[0,6)
-SRS608132	Control	Mali	17	Stool	Human	[12,18)
-SRS608133	Control	Mali	12	Stool	Human	[12,18)
-SRS608134	Control	Mali	11	Stool	Human	[6,12)
-SRS608136	Control	Mali	8	Stool	Human	[6,12)
-SRS608135	Control	Mali	7	Stool	Human	[6,12)
-SRS608137	Case	Mali	8	Stool	Human	[6,12)
-SRS608138	Case	Mali	13	Stool	Human	[12,18)
-SRS608139	Case	Mali	12	Stool	Human	[12,18)
-SRS608140	Case	Mali	5	Stool	Human	[0,6)
-SRS608141	Control	Mali	9	Stool	Human	[6,12)
-SRS608142	Control	Mali	7	Stool	Human	[6,12)
-SRS608143	Control	Mali	18	Stool	Human	[18,24)
-SRS608144	Control	Mali	13	Stool	Human	[12,18)
-SRS608145	Control	Mali	6	Stool	Human	[6,12)
-SRS608147	Control	Mali	36	Stool	Human	[24,60)
-SRS608146	Control	Mali	8	Stool	Human	[6,12)
-SRS608149	Case	Mali	8	Stool	Human	[6,12)
-SRS608148	Case	Mali	9	Stool	Human	[6,12)
-SRS608150	Case	Mali	8	Stool	Human	[6,12)
-SRS608151	Case	Mali	26	Stool	Human	[24,60)
-SRS608152	Case	Mali	9	Stool	Human	[6,12)
-SRS608154	Case	Mali	9	Stool	Human	[6,12)
-SRS608153	Case	Mali	9	Stool	Human	[6,12)
-SRS608155	Case	Mali	11	Stool	Human	[6,12)
-SRS608156	Case	Mali	11	Stool	Human	[6,12)
-SRS608157	Case	Mali	9	Stool	Human	[6,12)
-SRS608158	Case	Mali	10	Stool	Human	[6,12)
-SRS608159	Case	Mali	1	Stool	Human	[0,6)
-SRS608160	Case	Mali	7	Stool	Human	[6,12)
-SRS608161	Case	Mali	10	Stool	Human	[6,12)
-SRS608162	Case	Mali	18	Stool	Human	[18,24)
-SRS608163	Case	Mali	7	Stool	Human	[6,12)
-SRS608166	Case	Mali	10	Stool	Human	[6,12)
-SRS608164	Case	Mali	39	Stool	Human	[24,60)
-SRS608165	Case	Mali	7	Stool	Human	[6,12)
-SRS608167	Case	Mali	5	Stool	Human	[0,6)
-SRS608168	Case	Mali	15	Stool	Human	[12,18)
-SRS608169	Control	Mali	17	Stool	Human	[12,18)
-SRS608170	Control	Mali	8	Stool	Human	[6,12)
-SRS608171	Control	Mali	12	Stool	Human	[12,18)
-SRS608172	Control	Mali	8	Stool	Human	[6,12)
-SRS608173	Control	Mali	12	Stool	Human	[12,18)
-SRS608174	Control	Mali	9	Stool	Human	[6,12)
-SRS608175	Control	Mali	34	Stool	Human	[24,60)
-SRS608177	Control	Mali	10	Stool	Human	[6,12)
-SRS608176	Control	Mali	5	Stool	Human	[0,6)
-SRS608178	Control	Mali	9	Stool	Human	[6,12)
-SRS608179	Control	Mali	1	Stool	Human	[0,6)
-SRS608180	Control	Mali	8	Stool	Human	[6,12)
-SRS608181	Control	Mali	8	Stool	Human	[6,12)
-SRS608182	Control	Mali	42	Stool	Human	[24,60)
-SRS608183	Control	Mali	30	Stool	Human	[24,60)
-SRS608184	Control	Mali	7	Stool	Human	[6,12)
-SRS608185	Control	Mali	6	Stool	Human	[6,12)
-SRS608186	Case	Mali	33	Stool	Human	[24,60)
-SRS608187	Case	Mali	10	Stool	Human	[6,12)
-SRS608188	Case	Mali	9	Stool	Human	[6,12)
-SRS608189	Control	Mali	10	Stool	Human	[6,12)
-SRS608190	Case	Mali	7	Stool	Human	[6,12)
-SRS608195	Case	Mali	5	Stool	Human	[0,6)
-SRS608191	Case	Mali	10	Stool	Human	[6,12)
-SRS608192	Case	Mali	36	Stool	Human	[24,60)
-SRS608193	Control	Mali	11	Stool	Human	[6,12)
-SRS608194	Control	Mali	6	Stool	Human	[6,12)
-SRS608196	Control	Mali	4	Stool	Human	[0,6)
-SRS608197	Control	Mali	11	Stool	Human	[6,12)
-SRS608198	Control	Mali	8	Stool	Human	[6,12)
-SRS608199	Control	Mali	7	Stool	Human	[6,12)
-SRS608200	Control	Mali	3	Stool	Human	[0,6)
-SRS608201	Control	Mali	39	Stool	Human	[24,60)
-SRS608202	Case	Mali	27	Stool	Human	[24,60)
-SRS608203	Case	Kenya	31	Stool	Human	[24,60)
-SRS608204	Control	Kenya	30	Stool	Human	[24,60)
-SRS608205	Case	Kenya	48	Stool	Human	[24,60)
-SRS608206	Case	Kenya	33	Stool	Human	[24,60)
-SRS608207	Control	Kenya	36	Stool	Human	[24,60)
-SRS608208	Case	Kenya	4	Stool	Human	[0,6)
-SRS608209	Control	Kenya	13	Stool	Human	[12,18)
-SRS608210	Case	Kenya	14	Stool	Human	[12,18)
-SRS608211	Case	Kenya	18	Stool	Human	[18,24)
-SRS608212	Control	Kenya	18	Stool	Human	[18,24)
-SRS608213	Control	Kenya	10	Stool	Human	[6,12)
-SRS608214	Case	Kenya	9	Stool	Human	[6,12)
-SRS608215	Control	Kenya	12	Stool	Human	[12,18)
-SRS608216	Case	Kenya	13	Stool	Human	[12,18)
-SRS608217	Case	Kenya	5	Stool	Human	[0,6)
-SRS608218	Control	Kenya	5	Stool	Human	[0,6)
-SRS608219	Case	Kenya	5	Stool	Human	[0,6)
-SRS608220	Control	Kenya	5	Stool	Human	[0,6)
-SRS608221	Case	Kenya	23	Stool	Human	[18,24)
-SRS608224	Case	Kenya	8	Stool	Human	[6,12)
-SRS608222	Control	Kenya	9	Stool	Human	[6,12)
-SRS608223	Case	Kenya	12	Stool	Human	[12,18)
-SRS608225	Case	Kenya	8	Stool	Human	[6,12)
-SRS608226	Control	Kenya	9	Stool	Human	[6,12)
-SRS608227	Case	Kenya	9	Stool	Human	[6,12)
-SRS608228	Control	Kenya	39	Stool	Human	[24,60)
-SRS608229	Control	Kenya	7	Stool	Human	[6,12)
-SRS608230	Case	Kenya	9	Stool	Human	[6,12)
-SRS608231	Control	Kenya	8	Stool	Human	[6,12)
-SRS608233	Case	Kenya	57	Stool	Human	[24,60)
-SRS608234	Case	Kenya	8	Stool	Human	[6,12)
-SRS608235	Control	Kenya	8	Stool	Human	[6,12)
-SRS608236	Case	Kenya	7	Stool	Human	[6,12)
-SRS608237	Case	Kenya	18	Stool	Human	[18,24)
-SRS608238	Control	Kenya	14	Stool	Human	[12,18)
-SRS608239	Case	Kenya	6	Stool	Human	[6,12)
-SRS608240	Case	Kenya	6	Stool	Human	[6,12)
-SRS608241	Control	Kenya	14	Stool	Human	[12,18)
-SRS608246	Control	Kenya	13	Stool	Human	[12,18)
-SRS608248	Control	Kenya	2	Stool	Human	[0,6)
-SRS608247	Case	Kenya	16	Stool	Human	[12,18)
-SRS608249	Control	Kenya	16	Stool	Human	[12,18)
-SRS608250	Case	Kenya	1	Stool	Human	[0,6)
-SRS608251	Control	Kenya	3	Stool	Human	[0,6)
-SRS608253	Case	Kenya	12	Stool	Human	[12,18)
-SRS608252	Control	Kenya	13	Stool	Human	[12,18)
-SRS608254	Control	Kenya	21	Stool	Human	[18,24)
-SRS608255	Control	Kenya	6	Stool	Human	[6,12)
-SRS608256	Case	Kenya	21	Stool	Human	[18,24)
-SRS608257	Control	Kenya	20	Stool	Human	[18,24)
-SRS608258	Case	Kenya	6	Stool	Human	[6,12)
-SRS608261	Control	Kenya	9	Stool	Human	[6,12)
-SRS608259	Control	Kenya	26	Stool	Human	[24,60)
-SRS608260	Case	Kenya	10	Stool	Human	[6,12)
-SRS608262	Control	Kenya	6	Stool	Human	[6,12)
-SRS608263	Control	Kenya	23	Stool	Human	[18,24)
-SRS608264	Case	Kenya	13	Stool	Human	[12,18)
-SRS608265	Case	Kenya	23	Stool	Human	[18,24)
-SRS608266	Control	Kenya	19	Stool	Human	[18,24)
-SRS608267	Control	Kenya	21	Stool	Human	[18,24)
-SRS608268	Control	Kenya	14	Stool	Human	[12,18)
-SRS608269	Case	Kenya	29	Stool	Human	[24,60)
-SRS608270	Case	Kenya	31	Stool	Human	[24,60)
-SRS608271	Control	Kenya	31	Stool	Human	[24,60)
-SRS608272	Control	Kenya	28	Stool	Human	[24,60)
-SRS608273	Case	Kenya	6	Stool	Human	[6,12)
-SRS608274	Control	Kenya	5	Stool	Human	[0,6)
-SRS608275	Case	Kenya	24	Stool	Human	[24,60)
-SRS608276	Control	Kenya	24	Stool	Human	[24,60)
-SRS608277	Control	Kenya	3	Stool	Human	[0,6)
-SRS608278	Case	Kenya	6	Stool	Human	[6,12)
-SRS608279	Case	Kenya	17	Stool	Human	[12,18)
-SRS608280	Control	Kenya	18	Stool	Human	[18,24)
-SRS608281	Control	Kenya	7	Stool	Human	[6,12)
-SRS608282	Case	Kenya	11	Stool	Human	[6,12)
-SRS608284	Case	Kenya	54	Stool	Human	[24,60)
-SRS608283	Case	Kenya	19	Stool	Human	[18,24)
-SRS608285	Control	Kenya	54	Stool	Human	[24,60)
-SRS608286	Control	Kenya	21	Stool	Human	[18,24)
-SRS608287	Control	Kenya	18	Stool	Human	[18,24)
-SRS608288	Control	Kenya	4	Stool	Human	[0,6)
-SRS608289	Case	Kenya	7	Stool	Human	[6,12)
-SRS608290	Control	Kenya	5	Stool	Human	[0,6)
-SRS608291	Case	Kenya	7	Stool	Human	[6,12)
-SRS608292	Control	Kenya	8	Stool	Human	[6,12)
-SRS608293	Case	Kenya	4	Stool	Human	[0,6)
-SRS608294	Case	Kenya	8	Stool	Human	[6,12)
-SRS608299	Control	Kenya	11	Stool	Human	[6,12)
-SRS608295	Control	Kenya	35	Stool	Human	[24,60)
-SRS608296	Case	Kenya	45	Stool	Human	[24,60)
-SRS608297	Case	Kenya	43	Stool	Human	[24,60)
-SRS608298	Control	Kenya	41	Stool	Human	[24,60)
-SRS608300	Control	Kenya	43	Stool	Human	[24,60)
-SRS608303	Case	Kenya	10	Stool	Human	[6,12)
-SRS608301	Case	Kenya	6	Stool	Human	[6,12)
-SRS608302	Control	Kenya	7	Stool	Human	[6,12)
-SRS608304	Control	Kenya	9	Stool	Human	[6,12)
-SRS608306	Case	Kenya	4	Stool	Human	[0,6)
-SRS608305	Case	Kenya	7	Stool	Human	[6,12)
-SRS608307	Control	Kenya	8	Stool	Human	[6,12)
-SRS608308	Control	Kenya	4	Stool	Human	[0,6)
-SRS608309	Case	Kenya	55	Stool	Human	[24,60)
-SRS608310	Control	Kenya	57	Stool	Human	[24,60)
-SRS608311	Case	Kenya	5	Stool	Human	[0,6)
-SRS608312	Control	Kenya	4	Stool	Human	[0,6)
-SRS608314	Case	Kenya	23	Stool	Human	[18,24)
-SRS608313	Control	Kenya	21	Stool	Human	[18,24)
-SRS608315	Case	Kenya	1	Stool	Human	[0,6)
-SRS608316	Control	Kenya	3	Stool	Human	[0,6)
-SRS608317	Case	Kenya	6	Stool	Human	[6,12)
-SRS608318	Control	Kenya	7	Stool	Human	[6,12)
-SRS608319	Case	Kenya	24	Stool	Human	[24,60)
-SRS608320	Control	Kenya	34	Stool	Human	[24,60)
-SRS608321	Case	Kenya	6	Stool	Human	[6,12)
-SRS608322	Case	Kenya	40	Stool	Human	[24,60)
-SRS608327	Control	Kenya	42	Stool	Human	[24,60)
-SRS608323	Case	Kenya	16	Stool	Human	[12,18)
-SRS608324	Control	Kenya	16	Stool	Human	[12,18)
-SRS608325	Case	Kenya	23	Stool	Human	[18,24)
-SRS608326	Control	Kenya	24	Stool	Human	[24,60)
-SRS608328	Control	Kenya	33	Stool	Human	[24,60)
-SRS608329	Case	Kenya	16	Stool	Human	[12,18)
-SRS608330	Case	Kenya	20	Stool	Human	[18,24)
-SRS608331	Case	Kenya	8	Stool	Human	[6,12)
-SRS608332	Control	Kenya	7	Stool	Human	[6,12)
-SRS608333	Case	Kenya	10	Stool	Human	[6,12)
-SRS608334	Case	Kenya	2	Stool	Human	[0,6)
-SRS608336	Case	Kenya	6	Stool	Human	[6,12)
-SRS608335	Case	Kenya	33	Stool	Human	[24,60)
-SRS608338	Case	Kenya	3	Stool	Human	[0,6)
-SRS608337	Control	Kenya	30	Stool	Human	[24,60)
-SRS608340	Control	Kenya	3	Stool	Human	[0,6)
-SRS608339	Case	Kenya	0	Stool	Human	[0,6)
-SRS608342	Control	Kenya	10	Stool	Human	[6,12)
-SRS608341	Control	Kenya	4	Stool	Human	[0,6)
-SRS608343	Case	Kenya	11	Stool	Human	[6,12)
-SRS608344	Control	Kenya	9	Stool	Human	[6,12)
-SRS608345	Case	Kenya	5	Stool	Human	[0,6)
-SRS608346	Control	Kenya	5	Stool	Human	[0,6)
-SRS608347	Case	Kenya	24	Stool	Human	[24,60)
-SRS608348	Control	Kenya	7	Stool	Human	[6,12)
-SRS608349	Case	Kenya	43	Stool	Human	[24,60)
-SRS608350	Control	Kenya	45	Stool	Human	[24,60)
-SRS608351	Case	Kenya	45	Stool	Human	[24,60)
-SRS608352	Control	Kenya	47	Stool	Human	[24,60)
-SRS608353	Case	Kenya	26	Stool	Human	[24,60)
-SRS608354	Case	Kenya	8	Stool	Human	[6,12)
-SRS608355	Case	Kenya	12	Stool	Human	[12,18)
-SRS608356	Case	Kenya	38	Stool	Human	[24,60)
-SRS608357	Control	Kenya	40	Stool	Human	[24,60)
-SRS608358	Case	Kenya	5	Stool	Human	[0,6)
-SRS608359	Case	Kenya	16	Stool	Human	[12,18)
-SRS608360	Case	Kenya	8	Stool	Human	[6,12)
-SRS608361	Control	Kenya	4	Stool	Human	[0,6)
-SRS608362	Case	Kenya	10	Stool	Human	[6,12)
-SRS608363	Control	Kenya	10	Stool	Human	[6,12)
-SRS608364	Case	Kenya	24	Stool	Human	[24,60)
-SRS608365	Case	Kenya	8	Stool	Human	[6,12)
-SRS608366	Control	Kenya	24	Stool	Human	[24,60)
-SRS608367	Case	Kenya	7	Stool	Human	[6,12)
-SRS608368	Case	Kenya	11	Stool	Human	[6,12)
-SRS608369	Case	Kenya	8	Stool	Human	[6,12)
-SRS608371	Case	Kenya	9	Stool	Human	[6,12)
-SRS608370	Control	Kenya	8	Stool	Human	[6,12)
-SRS608373	Case	Kenya	25	Stool	Human	[24,60)
-SRS608372	Control	Kenya	24	Stool	Human	[24,60)
-SRS608375	Case	Kenya	12	Stool	Human	[12,18)
-SRS608374	Case	Kenya	53	Stool	Human	[24,60)
-SRS608376	Case	Kenya	27	Stool	Human	[24,60)
-SRS608377	Case	Kenya	28	Stool	Human	[24,60)
-SRS608378	Control	Kenya	14	Stool	Human	[12,18)
-SRS608379	Case	Kenya	17	Stool	Human	[12,18)
-SRS608381	Case	Kenya	10	Stool	Human	[6,12)
-SRS608382	Case	Kenya	29	Stool	Human	[24,60)
-SRS608385	Control	Kenya	31	Stool	Human	[24,60)
-SRS608383	Case	Kenya	19	Stool	Human	[18,24)
-SRS608384	Case	Kenya	15	Stool	Human	[12,18)
-SRS608386	Control	Kenya	20	Stool	Human	[18,24)
-SRS608387	Control	Kenya	12	Stool	Human	[12,18)
-SRS608388	Case	Kenya	9	Stool	Human	[6,12)
-SRS608389	Control	Kenya	10	Stool	Human	[6,12)
-SRS608390	Case	Kenya	17	Stool	Human	[12,18)
-SRS608392	Case	Kenya	23	Stool	Human	[18,24)
-SRS608391	Control	Kenya	28	Stool	Human	[24,60)
-SRS608393	Case	Kenya	9	Stool	Human	[6,12)
-SRS608394	Control	Kenya	7	Stool	Human	[6,12)
-SRS608395	Control	Kenya	4	Stool	Human	[0,6)
-SRS608396	Control	Kenya	47	Stool	Human	[24,60)
-SRS608397	Case	Kenya	6	Stool	Human	[6,12)
-SRS608399	Control	Kenya	5	Stool	Human	[0,6)
-SRS608400	Control	Kenya	48	Stool	Human	[24,60)
-SRS608401	Case	Kenya	17	Stool	Human	[12,18)
-SRS608402	Control	Kenya	33	Stool	Human	[24,60)
-SRS608403	Control	Kenya	16	Stool	Human	[12,18)
-SRS608404	Case	Kenya	5	Stool	Human	[0,6)
-SRS608405	Case	Kenya	33	Stool	Human	[24,60)
-SRS608406	Control	Kenya	5	Stool	Human	[0,6)
-SRS608407	Case	Kenya	13	Stool	Human	[12,18)
-SRS608408	Control	Kenya	15	Stool	Human	[12,18)
-SRS608409	Control	Kenya	2	Stool	Human	[0,6)
-SRS608410	Case	Kenya	5	Stool	Human	[0,6)
-SRS608411	Control	Kenya	5	Stool	Human	[0,6)
-SRS608413	Case	Kenya	34	Stool	Human	[24,60)
-SRS608412	Control	Kenya	36	Stool	Human	[24,60)
-SRS608415	Case	Kenya	6	Stool	Human	[6,12)
-SRS608414	Case	Kenya	27	Stool	Human	[24,60)
-SRS608416	Control	Kenya	4	Stool	Human	[0,6)
-SRS608418	Case	Kenya	9	Stool	Human	[6,12)
-SRS608417	Case	Kenya	12	Stool	Human	[12,18)
-SRS608419	Case	Kenya	22	Stool	Human	[18,24)
-SRS608423	Case	Kenya	17	Stool	Human	[12,18)
-SRS608420	Case	Kenya	50	Stool	Human	[24,60)
-SRS608421	Control	Kenya	52	Stool	Human	[24,60)
-SRS608422	Case	Kenya	7	Stool	Human	[6,12)
-SRS608424	Control	Kenya	7	Stool	Human	[6,12)
-SRS608425	Case	Kenya	27	Stool	Human	[24,60)
-SRS608426	Control	Kenya	26	Stool	Human	[24,60)
-SRS608427	Case	Kenya	29	Stool	Human	[24,60)
-SRS608428	Control	Kenya	30	Stool	Human	[24,60)
-SRS608429	Case	Kenya	43	Stool	Human	[24,60)
-SRS608434	Control	Kenya	9	Stool	Human	[6,12)
-SRS608430	Case	Kenya	27	Stool	Human	[24,60)
-SRS608431	Case	Kenya	5	Stool	Human	[0,6)
-SRS608432	Control	Kenya	4	Stool	Human	[0,6)
-SRS608433	Control	Kenya	5	Stool	Human	[0,6)
-SRS608435	Control	Kenya	4	Stool	Human	[0,6)
-SRS608436	Case	Kenya	4	Stool	Human	[0,6)
-SRS608437	Case	Kenya	18	Stool	Human	[18,24)
-SRS608438	Control	Kenya	2	Stool	Human	[0,6)
-SRS608439	Case	Kenya	52	Stool	Human	[24,60)
-SRS608440	Control	Kenya	49	Stool	Human	[24,60)
-SRS608441	Case	Kenya	5	Stool	Human	[0,6)
-SRS608442	Case	Kenya	3	Stool	Human	[0,6)
-SRS608443	Control	Kenya	5	Stool	Human	[0,6)
-SRS608444	Case	Kenya	13	Stool	Human	[12,18)
-SRS608445	Control	Kenya	12	Stool	Human	[12,18)
-SRS608446	Case	Kenya	48	Stool	Human	[24,60)
-SRS608447	Control	Kenya	50	Stool	Human	[24,60)
-SRS608448	Case	Kenya	26	Stool	Human	[24,60)
-SRS608449	Control	Kenya	25	Stool	Human	[24,60)
-SRS608450	Case	Kenya	18	Stool	Human	[18,24)
-SRS608451	Control	Kenya	21	Stool	Human	[18,24)
-SRS608452	Case	Kenya	21	Stool	Human	[18,24)
-SRS608453	Control	Kenya	17	Stool	Human	[12,18)
-SRS608455	Case	Kenya	3	Stool	Human	[0,6)
-SRS608454	Control	Kenya	3	Stool	Human	[0,6)
-SRS608456	Case	Kenya	15	Stool	Human	[12,18)
-SRS608457	Case	Kenya	9	Stool	Human	[6,12)
-SRS608458	Case	Kenya	15	Stool	Human	[12,18)
-SRS608459	Case	Kenya	6	Stool	Human	[6,12)
-SRS608460	Control	Kenya	6	Stool	Human	[6,12)
-SRS608461	Case	Kenya	5	Stool	Human	[0,6)
-SRS608462	Case	Kenya	44	Stool	Human	[24,60)
-SRS608464	Case	Kenya	2	Stool	Human	[0,6)
-SRS608465	Case	Kenya	8	Stool	Human	[6,12)
-SRS608466	Control	Kenya	6	Stool	Human	[6,12)
-SRS608467	Control	Kenya	55	Stool	Human	[24,60)
-SRS608468	Case	Kenya	4	Stool	Human	[0,6)
-SRS608469	Control	Kenya	25	Stool	Human	[24,60)
-SRS608470	Case	Kenya	32	Stool	Human	[24,60)
-SRS608471	Case	Kenya	5	Stool	Human	[0,6)
-SRS608472	Control	Kenya	33	Stool	Human	[24,60)
-SRS608473	Control	Kenya	4	Stool	Human	[0,6)
-SRS608474	Control	Kenya	5	Stool	Human	[0,6)
-SRS608475	Control	Kenya	20	Stool	Human	[18,24)
-SRS608476	Case	Kenya	12	Stool	Human	[12,18)
-SRS608477	Control	Kenya	15	Stool	Human	[12,18)
-SRS608478	Control	Kenya	27	Stool	Human	[24,60)
-SRS608479	Control	Kenya	8	Stool	Human	[6,12)
-SRS608480	Control	Kenya	5	Stool	Human	[0,6)
-SRS608481	Case	Kenya	7	Stool	Human	[6,12)
-SRS608482	Case	Kenya	7	Stool	Human	[6,12)
-SRS608483	Control	Kenya	8	Stool	Human	[6,12)
-SRS608484	Case	Kenya	2	Stool	Human	[0,6)
-SRS608485	Case	Kenya	48	Stool	Human	[24,60)
-SRS608486	Case	Kenya	47	Stool	Human	[24,60)
-SRS608488	Case	Kenya	37	Stool	Human	[24,60)
-SRS608487	Case	Kenya	6	Stool	Human	[6,12)
-SRS608489	Control	Kenya	4	Stool	Human	[0,6)
-SRS608490	Control	Kenya	10	Stool	Human	[6,12)
-SRS608491	Case	Kenya	16	Stool	Human	[12,18)
-SRS608492	Control	Kenya	6	Stool	Human	[6,12)
-SRS608493	Control	Kenya	44	Stool	Human	[24,60)
-SRS608494	Case	Kenya	6	Stool	Human	[6,12)
-SRS608495	Case	Kenya	6	Stool	Human	[6,12)
-SRS608496	Case	Kenya	14	Stool	Human	[12,18)
-SRS608497	Control	Kenya	6	Stool	Human	[6,12)
-SRS608498	Case	Kenya	23	Stool	Human	[18,24)
-SRS608500	Control	Kenya	6	Stool	Human	[6,12)
-SRS608499	Case	Kenya	10	Stool	Human	[6,12)
-SRS608502	Case	Kenya	13	Stool	Human	[12,18)
-SRS608501	Control	Kenya	32	Stool	Human	[24,60)
-SRS608503	Control	Kenya	13	Stool	Human	[12,18)
-SRS608504	Case	Kenya	13	Stool	Human	[12,18)
-SRS608505	Control	Kenya	14	Stool	Human	[12,18)
-SRS608506	Case	Kenya	7	Stool	Human	[6,12)
-SRS608507	Case	Kenya	25	Stool	Human	[24,60)
-SRS608508	Control	Kenya	8	Stool	Human	[6,12)
-SRS608509	Case	Kenya	2	Stool	Human	[0,6)
-SRS608510	Control	Kenya	1	Stool	Human	[0,6)
-SRS608511	Case	Kenya	21	Stool	Human	[18,24)
-SRS608512	Control	Kenya	25	Stool	Human	[24,60)
-SRS608513	Case	Kenya	11	Stool	Human	[6,12)
-SRS608514	Control	Kenya	10	Stool	Human	[6,12)
-SRS608515	Case	Kenya	4	Stool	Human	[0,6)
-SRS608516	Case	Bangladesh	32	Stool	Human	[24,60)
-SRS608519	Control	Bangladesh	19	Stool	Human	[18,24)
-SRS608518	Control	Bangladesh	17	Stool	Human	[12,18)
-SRS608523	Case	Bangladesh	30	Stool	Human	[24,60)
-SRS608524	Control	Bangladesh	47	Stool	Human	[24,60)
-SRS608526	Case	Bangladesh	10	Stool	Human	[6,12)
-SRS608527	Control	Bangladesh	10	Stool	Human	[6,12)
-SRS608528	Case	Bangladesh	40	Stool	Human	[24,60)
-SRS608529	Control	Bangladesh	35	Stool	Human	[24,60)
-SRS608530	Case	Bangladesh	10	Stool	Human	[6,12)
-SRS608534	Control	Bangladesh	7	Stool	Human	[6,12)
-SRS608535	Control	Bangladesh	19	Stool	Human	[18,24)
-SRS608536	Control	Bangladesh	22	Stool	Human	[18,24)
-SRS608538	Control	Bangladesh	7	Stool	Human	[6,12)
-SRS608539	Case	Bangladesh	6	Stool	Human	[6,12)
-SRS608540	Control	Bangladesh	8	Stool	Human	[6,12)
-SRS608541	Case	Bangladesh	19	Stool	Human	[18,24)
-SRS608542	Case	Bangladesh	13	Stool	Human	[12,18)
-SRS608544	Case	Bangladesh	13	Stool	Human	[12,18)
-SRS608543	Control	Bangladesh	10	Stool	Human	[6,12)
-SRS608546	Control	Bangladesh	23	Stool	Human	[18,24)
-SRS608545	Control	Bangladesh	11	Stool	Human	[6,12)
-SRS608547	Control	Bangladesh	13	Stool	Human	[12,18)
-SRS608548	Control	Bangladesh	19	Stool	Human	[18,24)
-SRS608549	Case	Bangladesh	17	Stool	Human	[12,18)
-SRS608550	Control	Bangladesh	22	Stool	Human	[18,24)
-SRS608551	Case	Bangladesh	18	Stool	Human	[18,24)
-SRS608552	Control	Bangladesh	16	Stool	Human	[12,18)
-SRS608553	Control	Bangladesh	36	Stool	Human	[24,60)
-SRS608554	Case	Bangladesh	18	Stool	Human	[18,24)
-SRS608555	Control	Bangladesh	20	Stool	Human	[18,24)
-SRS608556	Control	Bangladesh	10	Stool	Human	[6,12)
-SRS608559	Control	Bangladesh	16	Stool	Human	[12,18)
-SRS608558	Control	Bangladesh	42	Stool	Human	[24,60)
-SRS608560	Case	Bangladesh	34	Stool	Human	[24,60)
-SRS608561	Control	Bangladesh	7	Stool	Human	[6,12)
-SRS608562	Case	Bangladesh	1	Stool	Human	[0,6)
-SRS608563	Control	Bangladesh	34	Stool	Human	[24,60)
-SRS608564	Control	Bangladesh	33	Stool	Human	[24,60)
-SRS608565	Control	Bangladesh	20	Stool	Human	[18,24)
-SRS608566	Control	Bangladesh	16	Stool	Human	[12,18)
-SRS608567	Case	Bangladesh	26	Stool	Human	[24,60)
-SRS608568	Control	Bangladesh	22	Stool	Human	[18,24)
-SRS608569	Case	Bangladesh	35	Stool	Human	[24,60)
-SRS608570	Control	Bangladesh	12	Stool	Human	[12,18)
-SRS608571	Case	Bangladesh	39	Stool	Human	[24,60)
-SRS608576	Control	Bangladesh	38	Stool	Human	[24,60)
-SRS608572	Case	Bangladesh	8	Stool	Human	[6,12)
-SRS608573	Case	Bangladesh	50	Stool	Human	[24,60)
-SRS608574	Control	Bangladesh	26	Stool	Human	[24,60)
-SRS608575	Control	Bangladesh	16	Stool	Human	[12,18)
-SRS608577	Control	Bangladesh	46	Stool	Human	[24,60)
-SRS608582	Control	Bangladesh	7	Stool	Human	[6,12)
-SRS608578	Case	Bangladesh	11	Stool	Human	[6,12)
-SRS608579	Case	Bangladesh	8	Stool	Human	[6,12)
-SRS608580	Case	Bangladesh	19	Stool	Human	[18,24)
-SRS608581	Control	Bangladesh	15	Stool	Human	[12,18)
-SRS608583	Case	Bangladesh	21	Stool	Human	[18,24)
-SRS608584	Control	Bangladesh	22	Stool	Human	[18,24)
-SRS608585	Case	Bangladesh	34	Stool	Human	[24,60)
-SRS608586	Control	Bangladesh	14	Stool	Human	[12,18)
-SRS608587	Case	Bangladesh	46	Stool	Human	[24,60)
-SRS608595	Control	Bangladesh	21	Stool	Human	[18,24)
-SRS608588	Case	Bangladesh	14	Stool	Human	[12,18)
-SRS608589	Control	Bangladesh	20	Stool	Human	[18,24)
-SRS608590	Control	Bangladesh	28	Stool	Human	[24,60)
-SRS608591	Case	Bangladesh	30	Stool	Human	[24,60)
-SRS608592	Control	Bangladesh	41	Stool	Human	[24,60)
-SRS608593	Control	Bangladesh	30	Stool	Human	[24,60)
-SRS608594	Control	Bangladesh	15	Stool	Human	[12,18)
-SRS608596	Case	Bangladesh	12	Stool	Human	[12,18)
-SRS608597	Case	Bangladesh	20	Stool	Human	[18,24)
-SRS608599	Control	Bangladesh	23	Stool	Human	[18,24)
-SRS608600	Case	Bangladesh	6	Stool	Human	[6,12)
-SRS608601	Control	Bangladesh	19	Stool	Human	[18,24)
-SRS608602	Case	Bangladesh	41	Stool	Human	[24,60)
-SRS608604	Control	Bangladesh	6	Stool	Human	[6,12)
-SRS608603	Case	Bangladesh	5	Stool	Human	[0,6)
-SRS608605	Case	Bangladesh	10	Stool	Human	[6,12)
-SRS608606	Control	Bangladesh	44	Stool	Human	[24,60)
-SRS608608	Control	Bangladesh	7	Stool	Human	[6,12)
-SRS608609	Case	Bangladesh	10	Stool	Human	[6,12)
-SRS608610	Case	Bangladesh	17	Stool	Human	[12,18)
-SRS608611	Case	Bangladesh	21	Stool	Human	[18,24)
-SRS608616	Control	Bangladesh	11	Stool	Human	[6,12)
-SRS608612	Control	Bangladesh	20	Stool	Human	[18,24)
-SRS608613	Control	Bangladesh	9	Stool	Human	[6,12)
-SRS608614	Control	Bangladesh	20	Stool	Human	[18,24)
-SRS608615	Case	Bangladesh	8	Stool	Human	[6,12)
-SRS608617	Case	Bangladesh	4	Stool	Human	[0,6)
-SRS608618	Case	Bangladesh	18	Stool	Human	[18,24)
-SRS608619	Case	Bangladesh	11	Stool	Human	[6,12)
-SRS608620	Case	Bangladesh	17	Stool	Human	[12,18)
-SRS608621	Control	Bangladesh	16	Stool	Human	[12,18)
-SRS608622	Case	Bangladesh	38	Stool	Human	[24,60)
-SRS608623	Control	Bangladesh	7	Stool	Human	[6,12)
-SRS608624	Case	Bangladesh	15	Stool	Human	[12,18)
-SRS608625	Control	Bangladesh	20	Stool	Human	[18,24)
-SRS608626	Control	Bangladesh	18	Stool	Human	[18,24)
-SRS608627	Case	Bangladesh	23	Stool	Human	[18,24)
-SRS608628	Control	Bangladesh	7	Stool	Human	[6,12)
-SRS608629	Case	Bangladesh	8	Stool	Human	[6,12)
-SRS608630	Control	Bangladesh	10	Stool	Human	[6,12)
-SRS608634	Control	Bangladesh	9	Stool	Human	[6,12)
-SRS608631	Control	Bangladesh	12	Stool	Human	[12,18)
-SRS608632	Control	Bangladesh	27	Stool	Human	[24,60)
-SRS608633	Case	Bangladesh	14	Stool	Human	[12,18)
-SRS608635	Case	Bangladesh	33	Stool	Human	[24,60)
-SRS608636	Case	Bangladesh	5	Stool	Human	[0,6)
-SRS608637	Case	Bangladesh	14	Stool	Human	[12,18)
-SRS608638	Case	Bangladesh	11	Stool	Human	[6,12)
-SRS608639	Case	Bangladesh	5	Stool	Human	[0,6)
-SRS608640	Control	Bangladesh	3	Stool	Human	[0,6)
-SRS608641	Case	Bangladesh	10	Stool	Human	[6,12)
-SRS608642	Case	Bangladesh	25	Stool	Human	[24,60)
-SRS608643	Case	Bangladesh	7	Stool	Human	[6,12)
-SRS608644	Control	Bangladesh	7	Stool	Human	[6,12)
-SRS608645	Case	Bangladesh	35	Stool	Human	[24,60)
-SRS608646	Case	Bangladesh	40	Stool	Human	[24,60)
-SRS608647	Case	Bangladesh	11	Stool	Human	[6,12)
-SRS608648	Control	Bangladesh	33	Stool	Human	[24,60)
-SRS608649	Control	Bangladesh	2	Stool	Human	[0,6)
-SRS608650	Case	Bangladesh	32	Stool	Human	[24,60)
-SRS608651	Control	Bangladesh	18	Stool	Human	[18,24)
-SRS608652	Control	Bangladesh	23	Stool	Human	[18,24)
-SRS608653	Case	Bangladesh	4	Stool	Human	[0,6)
-SRS608654	Control	Bangladesh	5	Stool	Human	[0,6)
-SRS608655	Control	Bangladesh	11	Stool	Human	[6,12)
-SRS608656	Control	Bangladesh	7	Stool	Human	[6,12)
-SRS608657	Case	Bangladesh	8	Stool	Human	[6,12)
-SRS608658	Case	Bangladesh	7	Stool	Human	[6,12)
-SRS608659	Control	Bangladesh	19	Stool	Human	[18,24)
-SRS608660	Control	Bangladesh	8	Stool	Human	[6,12)
-SRS608661	Control	Bangladesh	13	Stool	Human	[12,18)
-SRS608662	Control	Bangladesh	58	Stool	Human	[24,60)
-SRS608663	Case	Bangladesh	17	Stool	Human	[12,18)
-SRS608664	Control	Bangladesh	7	Stool	Human	[6,12)
-SRS608665	Case	Bangladesh	12	Stool	Human	[12,18)
-SRS608666	Case	Bangladesh	32	Stool	Human	[24,60)
-SRS608667	Case	Bangladesh	22	Stool	Human	[18,24)
-SRS608668	Control	Bangladesh	15	Stool	Human	[12,18)
-SRS608669	Control	Bangladesh	23	Stool	Human	[18,24)
-SRS608670	Control	Bangladesh	26	Stool	Human	[24,60)
-SRS608671	Case	Bangladesh	17	Stool	Human	[12,18)
-SRS608672	Case	Bangladesh	6	Stool	Human	[6,12)
-SRS608673	Case	Bangladesh	28	Stool	Human	[24,60)
-SRS608675	Control	Bangladesh	16	Stool	Human	[12,18)
-SRS608676	Control	Bangladesh	18	Stool	Human	[18,24)
-SRS608677	Case	Bangladesh	37	Stool	Human	[24,60)
-SRS608679	Case	Bangladesh	9	Stool	Human	[6,12)
-SRS608678	Control	Bangladesh	34	Stool	Human	[24,60)
-SRS608680	Case	Bangladesh	10	Stool	Human	[6,12)
-SRS608681	Case	Bangladesh	14	Stool	Human	[12,18)
-SRS608682	Control	Bangladesh	7	Stool	Human	[6,12)
-SRS608683	Case	Bangladesh	13	Stool	Human	[12,18)
-SRS608684	Case	Bangladesh	0	Stool	Human	[0,6)
-SRS608685	Control	Bangladesh	11	Stool	Human	[6,12)
-SRS608686	Case	Bangladesh	13	Stool	Human	[12,18)
-SRS608687	Control	Bangladesh	17	Stool	Human	[12,18)
-SRS608688	Control	Bangladesh	12	Stool	Human	[12,18)
-SRS608689	Case	Bangladesh	7	Stool	Human	[6,12)
-SRS608690	Case	Bangladesh	8	Stool	Human	[6,12)
-SRS608691	Case	Bangladesh	6	Stool	Human	[6,12)
-SRS608693	Case	Bangladesh	37	Stool	Human	[24,60)
-SRS608692	Case	Bangladesh	8	Stool	Human	[6,12)
-SRS608694	Control	Bangladesh	28	Stool	Human	[24,60)
-SRS608695	Case	Bangladesh	52	Stool	Human	[24,60)
-SRS608696	Control	Bangladesh	8	Stool	Human	[6,12)
-SRS608697	Control	Bangladesh	50	Stool	Human	[24,60)
-SRS608698	Case	Bangladesh	7	Stool	Human	[6,12)
-SRS608702	Control	Bangladesh	5	Stool	Human	[0,6)
-SRS608699	Control	Bangladesh	40	Stool	Human	[24,60)
-SRS608700	Control	Bangladesh	7	Stool	Human	[6,12)
-SRS608701	Control	Bangladesh	11	Stool	Human	[6,12)
-SRS608703	Case	Bangladesh	16	Stool	Human	[12,18)
-SRS608704	Case	Bangladesh	21	Stool	Human	[18,24)
-SRS608705	Control	Bangladesh	25	Stool	Human	[24,60)
-SRS608706	Control	Bangladesh	35	Stool	Human	[24,60)
-SRS608707	Case	Bangladesh	27	Stool	Human	[24,60)
-SRS608708	Case	Bangladesh	4	Stool	Human	[0,6)
-SRS608709	Control	Bangladesh	3	Stool	Human	[0,6)
-SRS608710	Control	Bangladesh	11	Stool	Human	[6,12)
-SRS608711	Control	Bangladesh	12	Stool	Human	[12,18)
-SRS608712	Control	Bangladesh	4	Stool	Human	[0,6)
-SRS608713	Case	Bangladesh	12	Stool	Human	[12,18)
-SRS608714	Control	Bangladesh	29	Stool	Human	[24,60)
-SRS608715	Case	Bangladesh	23	Stool	Human	[18,24)
-SRS608716	Control	Bangladesh	51	Stool	Human	[24,60)
-SRS608717	Case	Bangladesh	16	Stool	Human	[12,18)
-SRS608718	Control	Bangladesh	30	Stool	Human	[24,60)
-SRS608719	Case	Bangladesh	1	Stool	Human	[0,6)
-SRS608720	Control	Bangladesh	30	Stool	Human	[24,60)
-SRS608721	Control	Bangladesh	15	Stool	Human	[12,18)
-SRS608722	Control	Bangladesh	25	Stool	Human	[24,60)
-SRS608723	Control	Bangladesh	46	Stool	Human	[24,60)
-SRS608724	Case	Bangladesh	36	Stool	Human	[24,60)
-SRS608725	Case	Bangladesh	34	Stool	Human	[24,60)
-SRS608726	Control	Bangladesh	40	Stool	Human	[24,60)
-SRS608727	Control	Bangladesh	6	Stool	Human	[6,12)
-SRS608728	Case	Bangladesh	40	Stool	Human	[24,60)
-SRS608729	Control	Bangladesh	27	Stool	Human	[24,60)
-SRS608730	Control	Bangladesh	38	Stool	Human	[24,60)
-SRS608731	Control	Bangladesh	5	Stool	Human	[0,6)
-SRS608732	Case	Bangladesh	42	Stool	Human	[24,60)
-SRS608733	Control	Bangladesh	10	Stool	Human	[6,12)
-SRS608734	Case	Bangladesh	47	Stool	Human	[24,60)
+name	case_control	country	age_months	sample_type	env_feature	age_factor	gems_sample_id
+SRS607719	Control	Gambia	8	Stool	Human	[6,12)	100567
+SRS607720	Case	Gambia	10	Stool	Human	[6,12)	100563
+SRS607721	Case	Gambia	18	Stool	Human	[18,24)	100601
+SRS607722	Control	Gambia	17	Stool	Human	[12,18)	100618
+SRS607723	Control	Gambia	24	Stool	Human	[24,60)	100262
+SRS607724	Case	Gambia	14	Stool	Human	[12,18)	100259
+SRS607725	Case	Gambia	36	Stool	Human	[24,60)	100274
+SRS607726	Case	Gambia	17	Stool	Human	[12,18)	100267
+SRS607727	Case	Gambia	29	Stool	Human	[24,60)	100277
+SRS607728	Case	Gambia	29	Stool	Human	[24,60)	100275
+SRS607729	Control	Gambia	27	Stool	Human	[24,60)	100291
+SRS607730	Case	Gambia	20	Stool	Human	[18,24)	100293
+SRS607731	Control	Gambia	30	Stool	Human	[24,60)	100292
+SRS607732	Control	Gambia	33	Stool	Human	[24,60)	100294
+SRS607733	Control	Gambia	21	Stool	Human	[18,24)	100298
+SRS607734	Control	Gambia	58	Stool	Human	[24,60)	100303
+SRS607735	Control	Gambia	42	Stool	Human	[24,60)	100320
+SRS607736	Case	Gambia	40	Stool	Human	[24,60)	100317
+SRS607737	Case	Gambia	14	Stool	Human	[12,18)	100341
+SRS607738	Case	Gambia	7	Stool	Human	[6,12)	100322
+SRS607739	Control	Gambia	21	Stool	Human	[18,24)	100353
+SRS607740	Control	Gambia	27	Stool	Human	[24,60)	100356
+SRS607741	Case	Gambia	14	Stool	Human	[12,18)	100361
+SRS607742	Control	Gambia	16	Stool	Human	[12,18)	100365
+SRS607743	Case	Gambia	21	Stool	Human	[18,24)	100395
+SRS607744	Case	Gambia	20	Stool	Human	[18,24)	100401
+SRS607745	Control	Gambia	17	Stool	Human	[12,18)	100403
+SRS607746	Control	Gambia	17	Stool	Human	[12,18)	100437
+SRS607747	Control	Gambia	30	Stool	Human	[24,60)	100457
+SRS607748	Control	Gambia	10	Stool	Human	[6,12)	100462
+SRS607749	Control	Gambia	13	Stool	Human	[12,18)	100470
+SRS607750	Case	Gambia	9	Stool	Human	[6,12)	100476
+SRS607751	Control	Gambia	19	Stool	Human	[18,24)	100489
+SRS607752	Control	Gambia	20	Stool	Human	[18,24)	100505
+SRS607753	Case	Gambia	6	Stool	Human	[6,12)	100491
+SRS607754	Control	Gambia	23	Stool	Human	[18,24)	100506
+SRS607755	Case	Gambia	10	Stool	Human	[6,12)	100510
+SRS607756	Case	Gambia	18	Stool	Human	[18,24)	100512
+SRS607757	Case	Gambia	20	Stool	Human	[18,24)	100513
+SRS607758	Case	Gambia	23	Stool	Human	[18,24)	100515
+SRS607759	Case	Gambia	10	Stool	Human	[6,12)	100516
+SRS607760	Control	Gambia	19	Stool	Human	[18,24)	100523
+SRS607761	Case	Gambia	11	Stool	Human	[6,12)	100537
+SRS607762	Control	Gambia	11	Stool	Human	[6,12)	100545
+SRS607763	Case	Gambia	26	Stool	Human	[24,60)	100547
+SRS607764	Control	Gambia	10	Stool	Human	[6,12)	100552
+SRS607765	Case	Gambia	10	Stool	Human	[6,12)	100556
+SRS607766	Control	Gambia	10	Stool	Human	[6,12)	100562
+SRS607767	Case	Gambia	26	Stool	Human	[24,60)	100636
+SRS607768	Case	Gambia	14	Stool	Human	[12,18)	100704
+SRS607769	Case	Gambia	20	Stool	Human	[18,24)	100716
+SRS607770	Control	Gambia	19	Stool	Human	[18,24)	100722
+SRS607771	Case	Gambia	12	Stool	Human	[12,18)	100749
+SRS607772	Case	Gambia	15	Stool	Human	[12,18)	100750
+SRS607773	Case	Gambia	29	Stool	Human	[24,60)	100759
+SRS607774	Control	Gambia	12	Stool	Human	[12,18)	100760
+SRS607775	Control	Gambia	35	Stool	Human	[24,60)	100764
+SRS607776	Case	Gambia	25	Stool	Human	[24,60)	100778
+SRS607777	Control	Gambia	24	Stool	Human	[24,60)	100782
+SRS607778	Control	Gambia	26	Stool	Human	[24,60)	100798
+SRS607779	Case	Gambia	8	Stool	Human	[6,12)	100815
+SRS607780	Case	Gambia	9	Stool	Human	[6,12)	100829
+SRS607781	Case	Gambia	7	Stool	Human	[6,12)	100821
+SRS607782	Case	Gambia	28	Stool	Human	[24,60)	100831
+SRS607783	Case	Gambia	24	Stool	Human	[24,60)	100848
+SRS607784	Case	Gambia	16	Stool	Human	[12,18)	100852
+SRS607785	Control	Gambia	28	Stool	Human	[24,60)	100856
+SRS607786	Case	Gambia	21	Stool	Human	[18,24)	100855
+SRS607787	Control	Gambia	26	Stool	Human	[24,60)	100857
+SRS607788	Case	Gambia	22	Stool	Human	[18,24)	100887
+SRS607789	Case	Gambia	9	Stool	Human	[6,12)	100889
+SRS607790	Control	Gambia	7	Stool	Human	[6,12)	100894
+SRS607791	Case	Gambia	13	Stool	Human	[12,18)	102002
+SRS607792	Case	Gambia	13	Stool	Human	[12,18)	102017
+SRS607793	Control	Gambia	14	Stool	Human	[12,18)	102020
+SRS607794	Control	Gambia	11	Stool	Human	[6,12)	102025
+SRS607795	Case	Gambia	6	Stool	Human	[6,12)	102026
+SRS607796	Case	Gambia	15	Stool	Human	[12,18)	102028
+SRS607797	Case	Gambia	10	Stool	Human	[6,12)	102027
+SRS607798	Case	Gambia	8	Stool	Human	[6,12)	102029
+SRS607799	Case	Gambia	20	Stool	Human	[18,24)	102030
+SRS607800	Control	Gambia	9	Stool	Human	[6,12)	102033
+SRS607801	Control	Gambia	10	Stool	Human	[6,12)	102035
+SRS607802	Control	Gambia	17	Stool	Human	[12,18)	102036
+SRS607803	Control	Gambia	23	Stool	Human	[18,24)	102037
+SRS607804	Case	Gambia	34	Stool	Human	[24,60)	102039
+SRS607805	Case	Gambia	10	Stool	Human	[6,12)	102038
+SRS607806	Case	Gambia	6	Stool	Human	[6,12)	102045
+SRS607807	Case	Gambia	4	Stool	Human	[0,6)	102046
+SRS607808	Case	Gambia	9	Stool	Human	[6,12)	102047
+SRS607809	Control	Gambia	36	Stool	Human	[24,60)	102051
+SRS607810	Case	Gambia	8	Stool	Human	[6,12)	102055
+SRS607811	Case	Gambia	17	Stool	Human	[12,18)	102075
+SRS607812	Case	Gambia	12	Stool	Human	[12,18)	102083
+SRS607813	Case	Gambia	46	Stool	Human	[24,60)	102092
+SRS607814	Case	Gambia	8	Stool	Human	[6,12)	102098
+SRS607815	Case	Gambia	26	Stool	Human	[24,60)	102099
+SRS607816	Case	Gambia	4	Stool	Human	[0,6)	102105
+SRS607817	Case	Gambia	6	Stool	Human	[6,12)	102106
+SRS607818	Case	Gambia	9	Stool	Human	[6,12)	102117
+SRS607819	Control	Gambia	7	Stool	Human	[6,12)	102118
+SRS607820	Control	Gambia	8	Stool	Human	[6,12)	102122
+SRS607821	Control	Gambia	25	Stool	Human	[24,60)	102124
+SRS607822	Control	Gambia	10	Stool	Human	[6,12)	102132
+SRS607823	Control	Gambia	5	Stool	Human	[0,6)	102133
+SRS607824	Case	Gambia	6	Stool	Human	[6,12)	102155
+SRS607825	Control	Gambia	8	Stool	Human	[6,12)	102157
+SRS607826	Case	Gambia	22	Stool	Human	[18,24)	102158
+SRS607827	Control	Gambia	16	Stool	Human	[12,18)	102169
+SRS607828	Case	Gambia	30	Stool	Human	[24,60)	102173
+SRS607829	Case	Gambia	7	Stool	Human	[6,12)	102174
+SRS607830	Case	Gambia	9	Stool	Human	[6,12)	102177
+SRS607831	Control	Gambia	7	Stool	Human	[6,12)	102180
+SRS607832	Case	Gambia	3	Stool	Human	[0,6)	102184
+SRS607833	Case	Gambia	12	Stool	Human	[12,18)	102186
+SRS607834	Case	Gambia	30	Stool	Human	[24,60)	102185
+SRS607835	Case	Gambia	14	Stool	Human	[12,18)	102188
+SRS607836	Case	Gambia	6	Stool	Human	[6,12)	102191
+SRS607837	Case	Gambia	15	Stool	Human	[12,18)	102196
+SRS607838	Control	Gambia	30	Stool	Human	[24,60)	102200
+SRS607839	Case	Gambia	8	Stool	Human	[6,12)	102206
+SRS607840	Case	Gambia	9	Stool	Human	[6,12)	102207
+SRS607841	Control	Gambia	4	Stool	Human	[0,6)	102209
+SRS607842	Case	Gambia	28	Stool	Human	[24,60)	102221
+SRS607843	Control	Gambia	25	Stool	Human	[24,60)	102225
+SRS607844	Control	Gambia	24	Stool	Human	[24,60)	102226
+SRS607845	Case	Gambia	17	Stool	Human	[12,18)	102235
+SRS607846	Control	Gambia	25	Stool	Human	[24,60)	102238
+SRS607847	Case	Gambia	13	Stool	Human	[12,18)	102239
+SRS607848	Case	Gambia	35	Stool	Human	[24,60)	102248
+SRS607849	Control	Gambia	25	Stool	Human	[24,60)	102243
+SRS607850	Control	Gambia	39	Stool	Human	[24,60)	102251
+SRS607851	Control	Gambia	42	Stool	Human	[24,60)	102255
+SRS607852	Case	Gambia	10	Stool	Human	[6,12)	102257
+SRS607853	Case	Gambia	4	Stool	Human	[0,6)	102258
+SRS607854	Case	Gambia	11	Stool	Human	[6,12)	102259
+SRS607855	Case	Gambia	21	Stool	Human	[18,24)	102260
+SRS607856	Case	Gambia	23	Stool	Human	[18,24)	102261
+SRS607857	Control	Gambia	38	Stool	Human	[24,60)	102263
+SRS607858	Control	Gambia	34	Stool	Human	[24,60)	102264
+SRS607859	Case	Gambia	16	Stool	Human	[12,18)	102265
+SRS607860	Case	Gambia	6	Stool	Human	[6,12)	102267
+SRS607861	Control	Gambia	22	Stool	Human	[18,24)	102268
+SRS607862	Control	Gambia	21	Stool	Human	[18,24)	102269
+SRS607863	Control	Gambia	19	Stool	Human	[18,24)	102270
+SRS607864	Control	Gambia	17	Stool	Human	[12,18)	102271
+SRS607865	Control	Gambia	21	Stool	Human	[18,24)	102274
+SRS607866	Control	Gambia	21	Stool	Human	[18,24)	102276
+SRS607867	Control	Gambia	14	Stool	Human	[12,18)	102277
+SRS607868	Case	Gambia	11	Stool	Human	[6,12)	102281
+SRS607869	Case	Gambia	16	Stool	Human	[12,18)	102282
+SRS607870	Control	Gambia	6	Stool	Human	[6,12)	102285
+SRS607871	Case	Gambia	19	Stool	Human	[18,24)	102288
+SRS607872	Case	Gambia	2	Stool	Human	[0,6)	102289
+SRS607873	Control	Gambia	17	Stool	Human	[12,18)	102290
+SRS607874	Control	Gambia	16	Stool	Human	[12,18)	102291
+SRS607875	Control	Gambia	10	Stool	Human	[6,12)	102292
+SRS607876	Case	Gambia	24	Stool	Human	[24,60)	102295
+SRS607877	Case	Gambia	20	Stool	Human	[18,24)	102294
+SRS607878	Case	Gambia	11	Stool	Human	[6,12)	102298
+SRS607879	Control	Gambia	3	Stool	Human	[0,6)	102297
+SRS607880	Case	Gambia	7	Stool	Human	[6,12)	102301
+SRS607881	Case	Gambia	15	Stool	Human	[12,18)	102300
+SRS607882	Case	Gambia	19	Stool	Human	[18,24)	102304
+SRS607883	Case	Gambia	2	Stool	Human	[0,6)	102305
+SRS607884	Case	Gambia	7	Stool	Human	[6,12)	102311
+SRS607885	Control	Gambia	16	Stool	Human	[12,18)	102314
+SRS607886	Control	Gambia	27	Stool	Human	[24,60)	102315
+SRS607887	Control	Gambia	26	Stool	Human	[24,60)	102316
+SRS607888	Control	Gambia	25	Stool	Human	[24,60)	102317
+SRS607889	Control	Gambia	10	Stool	Human	[6,12)	102318
+SRS607890	Control	Gambia	20	Stool	Human	[18,24)	102320
+SRS607891	Control	Gambia	14	Stool	Human	[12,18)	102321
+SRS607892	Control	Gambia	9	Stool	Human	[6,12)	102322
+SRS607893	Control	Gambia	9	Stool	Human	[6,12)	102323
+SRS607894	Control	Gambia	6	Stool	Human	[6,12)	102324
+SRS607895	Case	Gambia	17	Stool	Human	[12,18)	102325
+SRS607896	Control	Gambia	22	Stool	Human	[18,24)	102326
+SRS607897	Control	Gambia	18	Stool	Human	[18,24)	102331
+SRS607898	Control	Gambia	8	Stool	Human	[6,12)	102329
+SRS607899	Control	Gambia	16	Stool	Human	[12,18)	102333
+SRS607900	Control	Gambia	15	Stool	Human	[12,18)	102332
+SRS607901	Case	Gambia	18	Stool	Human	[18,24)	102334
+SRS607902	Case	Gambia	20	Stool	Human	[18,24)	102337
+SRS607903	Control	Gambia	18	Stool	Human	[18,24)	102341
+SRS607904	Case	Gambia	17	Stool	Human	[12,18)	102338
+SRS607905	Control	Gambia	21	Stool	Human	[18,24)	102345
+SRS607906	Case	Gambia	16	Stool	Human	[12,18)	102348
+SRS607907	Case	Gambia	19	Stool	Human	[18,24)	102349
+SRS607908	Case	Gambia	22	Stool	Human	[18,24)	102350
+SRS607909	Control	Gambia	20	Stool	Human	[18,24)	102352
+SRS607910	Case	Gambia	5	Stool	Human	[0,6)	102355
+SRS607911	Control	Gambia	14	Stool	Human	[12,18)	102357
+SRS607912	Control	Gambia	15	Stool	Human	[12,18)	102358
+SRS607913	Case	Gambia	33	Stool	Human	[24,60)	102360
+SRS607914	Control	Gambia	24	Stool	Human	[24,60)	102361
+SRS607915	Control	Gambia	27	Stool	Human	[24,60)	102362
+SRS607916	Control	Gambia	26	Stool	Human	[24,60)	102363
+SRS607917	Control	Gambia	8	Stool	Human	[6,12)	102364
+SRS607918	Case	Gambia	21	Stool	Human	[18,24)	102370
+SRS607919	Case	Gambia	24	Stool	Human	[24,60)	102371
+SRS607920	Control	Gambia	20	Stool	Human	[18,24)	102372
+SRS607921	Case	Gambia	17	Stool	Human	[12,18)	102373
+SRS607922	Case	Gambia	3	Stool	Human	[0,6)	102375
+SRS607923	Case	Gambia	9	Stool	Human	[6,12)	102377
+SRS607924	Control	Gambia	26	Stool	Human	[24,60)	102379
+SRS607925	Control	Gambia	26	Stool	Human	[24,60)	102380
+SRS607926	Control	Gambia	9	Stool	Human	[6,12)	102382
+SRS607927	Case	Gambia	19	Stool	Human	[18,24)	102384
+SRS607928	Case	Gambia	7	Stool	Human	[6,12)	102385
+SRS607929	Control	Gambia	4	Stool	Human	[0,6)	102387
+SRS607930	Case	Gambia	7	Stool	Human	[6,12)	102390
+SRS607931	Case	Gambia	19	Stool	Human	[18,24)	102396
+SRS607932	Control	Gambia	5	Stool	Human	[0,6)	102402
+SRS607933	Case	Gambia	4	Stool	Human	[0,6)	102397
+SRS607934	Case	Gambia	19	Stool	Human	[18,24)	102404
+SRS607935	Control	Gambia	9	Stool	Human	[6,12)	102406
+SRS607936	Control	Gambia	23	Stool	Human	[18,24)	102405
+SRS607937	Control	Gambia	22	Stool	Human	[18,24)	102407
+SRS607938	Control	Gambia	20	Stool	Human	[18,24)	102412
+SRS607939	Control	Gambia	27	Stool	Human	[24,60)	102415
+SRS607940	Control	Gambia	28	Stool	Human	[24,60)	102416
+SRS607941	Case	Gambia	4	Stool	Human	[0,6)	102417
+SRS607942	Case	Gambia	30	Stool	Human	[24,60)	102418
+SRS607943	Control	Gambia	23	Stool	Human	[18,24)	102421
+SRS607944	Control	Gambia	28	Stool	Human	[24,60)	102423
+SRS607945	Control	Gambia	28	Stool	Human	[24,60)	102424
+SRS607946	Control	Gambia	6	Stool	Human	[6,12)	102425
+SRS607947	Case	Gambia	32	Stool	Human	[24,60)	102427
+SRS607948	Case	Gambia	19	Stool	Human	[18,24)	102429
+SRS607949	Case	Gambia	19	Stool	Human	[18,24)	102430
+SRS607950	Control	Gambia	27	Stool	Human	[24,60)	102432
+SRS607951	Control	Gambia	20	Stool	Human	[18,24)	102434
+SRS607952	Control	Gambia	30	Stool	Human	[24,60)	102435
+SRS607953	Control	Gambia	21	Stool	Human	[18,24)	102438
+SRS607954	Case	Gambia	36	Stool	Human	[24,60)	102442
+SRS607955	Case	Gambia	8	Stool	Human	[6,12)	102444
+SRS607956	Case	Gambia	53	Stool	Human	[24,60)	102445
+SRS607957	Control	Gambia	20	Stool	Human	[18,24)	102446
+SRS607958	Control	Gambia	21	Stool	Human	[18,24)	102447
+SRS607959	Control	Gambia	34	Stool	Human	[24,60)	102448
+SRS607960	Control	Gambia	33	Stool	Human	[24,60)	102449
+SRS607961	Case	Gambia	17	Stool	Human	[12,18)	102453
+SRS607962	Case	Gambia	19	Stool	Human	[18,24)	102452
+SRS607963	Control	Gambia	52	Stool	Human	[24,60)	102454
+SRS607964	Control	Gambia	19	Stool	Human	[18,24)	102456
+SRS607965	Case	Gambia	16	Stool	Human	[12,18)	102460
+SRS607966	Control	Gambia	29	Stool	Human	[24,60)	102461
+SRS607967	Control	Gambia	8	Stool	Human	[6,12)	102462
+SRS607968	Control	Gambia	19	Stool	Human	[18,24)	102463
+SRS607969	Control	Gambia	20	Stool	Human	[18,24)	102464
+SRS607970	Case	Gambia	8	Stool	Human	[6,12)	102465
+SRS607971	Case	Gambia	16	Stool	Human	[12,18)	102466
+SRS607972	Case	Gambia	22	Stool	Human	[18,24)	102469
+SRS607973	Case	Gambia	17	Stool	Human	[12,18)	102470
+SRS607974	Case	Gambia	17	Stool	Human	[12,18)	102471
+SRS607975	Control	Gambia	23	Stool	Human	[18,24)	102474
+SRS607976	Control	Gambia	23	Stool	Human	[18,24)	102472
+SRS607977	Control	Gambia	12	Stool	Human	[12,18)	102477
+SRS607978	Control	Gambia	21	Stool	Human	[18,24)	102475
+SRS607979	Control	Gambia	10	Stool	Human	[6,12)	102480
+SRS607980	Control	Gambia	10	Stool	Human	[6,12)	102479
+SRS607981	Control	Gambia	15	Stool	Human	[12,18)	102481
+SRS607982	Control	Gambia	9	Stool	Human	[6,12)	102482
+SRS607983	Case	Gambia	10	Stool	Human	[6,12)	102489
+SRS607984	Control	Gambia	4	Stool	Human	[0,6)	102490
+SRS607985	Case	Gambia	19	Stool	Human	[18,24)	102491
+SRS607986	Control	Gambia	20	Stool	Human	[18,24)	102493
+SRS607987	Case	Gambia	22	Stool	Human	[18,24)	102494
+SRS607988	Case	Gambia	34	Stool	Human	[24,60)	102503
+SRS607989	Case	Gambia	8	Stool	Human	[6,12)	102495
+SRS607990	Control	Gambia	37	Stool	Human	[24,60)	102511
+SRS607991	Case	Mali	6	Stool	Human	[6,12)	200068
+SRS607992	Case	Mali	27	Stool	Human	[24,60)	200069
+SRS607993	Case	Mali	33	Stool	Human	[24,60)	200079
+SRS607994	Case	Mali	19	Stool	Human	[18,24)	200106
+SRS607995	Case	Mali	11	Stool	Human	[6,12)	200108
+SRS607996	Control	Mali	29	Stool	Human	[24,60)	200127
+SRS607997	Case	Mali	34	Stool	Human	[24,60)	200129
+SRS607998	Case	Mali	6	Stool	Human	[6,12)	200131
+SRS607999	Case	Mali	3	Stool	Human	[0,6)	200132
+SRS608000	Case	Mali	26	Stool	Human	[24,60)	200134
+SRS608001	Case	Mali	48	Stool	Human	[24,60)	200133
+SRS608002	Case	Mali	8	Stool	Human	[6,12)	200136
+SRS608003	Case	Mali	5	Stool	Human	[0,6)	200138
+SRS608004	Case	Mali	14	Stool	Human	[12,18)	200140
+SRS608005	Case	Mali	17	Stool	Human	[12,18)	200142
+SRS608006	Case	Mali	20	Stool	Human	[18,24)	200143
+SRS608007	Case	Mali	36	Stool	Human	[24,60)	200144
+SRS608008	Case	Mali	18	Stool	Human	[18,24)	200147
+SRS608009	Case	Mali	4	Stool	Human	[0,6)	200148
+SRS608010	Case	Mali	6	Stool	Human	[6,12)	200149
+SRS608011	Case	Mali	8	Stool	Human	[6,12)	200154
+SRS608012	Case	Mali	23	Stool	Human	[18,24)	200156
+SRS608013	Case	Mali	4	Stool	Human	[0,6)	200157
+SRS608014	Control	Mali	15	Stool	Human	[12,18)	200158
+SRS608015	Control	Mali	14	Stool	Human	[12,18)	200159
+SRS608016	Control	Mali	16	Stool	Human	[12,18)	200160
+SRS608017	Control	Mali	14	Stool	Human	[12,18)	200161
+SRS608018	Control	Mali	29	Stool	Human	[24,60)	200162
+SRS608019	Control	Mali	7	Stool	Human	[6,12)	200163
+SRS608020	Control	Mali	34	Stool	Human	[24,60)	200164
+SRS608021	Control	Mali	20	Stool	Human	[18,24)	200165
+SRS608022	Control	Mali	34	Stool	Human	[24,60)	200166
+SRS608023	Control	Mali	10	Stool	Human	[6,12)	200169
+SRS608024	Control	Mali	38	Stool	Human	[24,60)	200167
+SRS608025	Control	Mali	28	Stool	Human	[24,60)	200170
+SRS608026	Control	Mali	6	Stool	Human	[6,12)	200171
+SRS608027	Control	Mali	15	Stool	Human	[12,18)	200172
+SRS608028	Case	Mali	24	Stool	Human	[24,60)	200174
+SRS608029	Case	Mali	11	Stool	Human	[6,12)	200175
+SRS608030	Case	Mali	8	Stool	Human	[6,12)	200179
+SRS608031	Control	Mali	25	Stool	Human	[24,60)	200181
+SRS608032	Case	Mali	11	Stool	Human	[6,12)	200178
+SRS608033	Case	Mali	26	Stool	Human	[24,60)	200184
+SRS608034	Case	Mali	19	Stool	Human	[18,24)	200185
+SRS608035	Case	Mali	0	Stool	Human	[0,6)	200192
+SRS608036	Case	Mali	6	Stool	Human	[6,12)	200196
+SRS608037	Case	Mali	20	Stool	Human	[18,24)	200195
+SRS608038	Case	Mali	14	Stool	Human	[12,18)	200199
+SRS608039	Case	Mali	26	Stool	Human	[24,60)	200200
+SRS608040	Control	Mali	11	Stool	Human	[6,12)	200201
+SRS608041	Control	Mali	28	Stool	Human	[24,60)	200203
+SRS608042	Control	Mali	10	Stool	Human	[6,12)	200205
+SRS608043	Control	Mali	13	Stool	Human	[12,18)	200206
+SRS608044	Control	Mali	15	Stool	Human	[12,18)	200209
+SRS608045	Control	Mali	7	Stool	Human	[6,12)	200210
+SRS608046	Control	Mali	10	Stool	Human	[6,12)	200211
+SRS608047	Control	Mali	27	Stool	Human	[24,60)	200212
+SRS608048	Control	Mali	9	Stool	Human	[6,12)	200213
+SRS608049	Control	Mali	22	Stool	Human	[18,24)	200214
+SRS608050	Control	Mali	5	Stool	Human	[0,6)	200215
+SRS608051	Control	Mali	16	Stool	Human	[12,18)	200216
+SRS608052	Control	Mali	15	Stool	Human	[12,18)	200218
+SRS608053	Control	Mali	4	Stool	Human	[0,6)	200220
+SRS608054	Control	Mali	30	Stool	Human	[24,60)	200221
+SRS608055	Control	Mali	14	Stool	Human	[12,18)	200233
+SRS608056	Control	Mali	52	Stool	Human	[24,60)	200235
+SRS608057	Control	Mali	19	Stool	Human	[18,24)	200237
+SRS608058	Case	Mali	44	Stool	Human	[24,60)	200238
+SRS608059	Case	Mali	33	Stool	Human	[24,60)	200241
+SRS608060	Control	Mali	8	Stool	Human	[6,12)	200243
+SRS608061	Case	Mali	6	Stool	Human	[6,12)	200242
+SRS608062	Case	Mali	6	Stool	Human	[6,12)	200244
+SRS608063	Case	Mali	10	Stool	Human	[6,12)	200248
+SRS608064	Case	Mali	3	Stool	Human	[0,6)	200246
+SRS608065	Case	Mali	32	Stool	Human	[24,60)	200249
+SRS608066	Control	Mali	29	Stool	Human	[24,60)	200251
+SRS608067	Control	Mali	6	Stool	Human	[6,12)	200252
+SRS608068	Control	Mali	17	Stool	Human	[12,18)	200256
+SRS608069	Control	Mali	19	Stool	Human	[18,24)	200259
+SRS608070	Control	Mali	6	Stool	Human	[6,12)	200260
+SRS608071	Control	Mali	28	Stool	Human	[24,60)	200264
+SRS608072	Control	Mali	13	Stool	Human	[12,18)	200265
+SRS608073	Control	Mali	7	Stool	Human	[6,12)	200272
+SRS608074	Control	Mali	17	Stool	Human	[12,18)	200273
+SRS608075	Control	Mali	45	Stool	Human	[24,60)	200274
+SRS608076	Control	Mali	6	Stool	Human	[6,12)	200276
+SRS608077	Control	Mali	6	Stool	Human	[6,12)	200277
+SRS608078	Control	Mali	8	Stool	Human	[6,12)	200278
+SRS608079	Control	Mali	6	Stool	Human	[6,12)	200282
+SRS608080	Control	Mali	28	Stool	Human	[24,60)	200283
+SRS608081	Control	Mali	39	Stool	Human	[24,60)	200284
+SRS608082	Control	Mali	17	Stool	Human	[12,18)	200285
+SRS608083	Case	Mali	12	Stool	Human	[12,18)	200287
+SRS608084	Case	Mali	18	Stool	Human	[18,24)	200286
+SRS608085	Case	Mali	15	Stool	Human	[12,18)	200288
+SRS608086	Case	Mali	6	Stool	Human	[6,12)	200291
+SRS608087	Case	Mali	13	Stool	Human	[12,18)	200292
+SRS608088	Case	Mali	9	Stool	Human	[6,12)	200293
+SRS608089	Case	Mali	16	Stool	Human	[12,18)	200294
+SRS608090	Case	Mali	13	Stool	Human	[12,18)	200295
+SRS608091	Case	Mali	12	Stool	Human	[12,18)	200298
+SRS608092	Case	Mali	12	Stool	Human	[12,18)	200300
+SRS608093	Case	Mali	9	Stool	Human	[6,12)	200299
+SRS608094	Case	Mali	7	Stool	Human	[6,12)	200301
+SRS608095	Case	Mali	4	Stool	Human	[0,6)	200302
+SRS608096	Case	Mali	10	Stool	Human	[6,12)	200303
+SRS608097	Case	Mali	9	Stool	Human	[6,12)	200304
+SRS608098	Case	Mali	6	Stool	Human	[6,12)	200305
+SRS608099	Case	Mali	13	Stool	Human	[12,18)	200307
+SRS608100	Case	Mali	12	Stool	Human	[12,18)	200306
+SRS608101	Case	Mali	15	Stool	Human	[12,18)	200309
+SRS608102	Case	Mali	43	Stool	Human	[24,60)	200310
+SRS608103	Case	Mali	10	Stool	Human	[6,12)	200312
+SRS608104	Case	Mali	11	Stool	Human	[6,12)	200314
+SRS608105	Case	Mali	23	Stool	Human	[18,24)	200315
+SRS608106	Case	Mali	9	Stool	Human	[6,12)	200311
+SRS608107	Case	Mali	9	Stool	Human	[6,12)	200316
+SRS608108	Control	Mali	7	Stool	Human	[6,12)	200317
+SRS608109	Control	Mali	7	Stool	Human	[6,12)	200318
+SRS608110	Control	Mali	4	Stool	Human	[0,6)	200319
+SRS608111	Control	Mali	30	Stool	Human	[24,60)	200320
+SRS608112	Case	Mali	16	Stool	Human	[12,18)	200321
+SRS608113	Case	Mali	19	Stool	Human	[18,24)	200322
+SRS608114	Case	Mali	26	Stool	Human	[24,60)	200323
+SRS608115	Case	Mali	7	Stool	Human	[6,12)	200324
+SRS608116	Case	Mali	7	Stool	Human	[6,12)	200325
+SRS608117	Case	Mali	40	Stool	Human	[24,60)	200326
+SRS608118	Case	Mali	9	Stool	Human	[6,12)	200327
+SRS608119	Case	Mali	8	Stool	Human	[6,12)	200328
+SRS608120	Case	Mali	8	Stool	Human	[6,12)	200329
+SRS608121	Case	Mali	4	Stool	Human	[0,6)	200330
+SRS608122	Case	Mali	8	Stool	Human	[6,12)	200331
+SRS608123	Case	Mali	7	Stool	Human	[6,12)	200332
+SRS608124	Control	Mali	9	Stool	Human	[6,12)	200334
+SRS608125	Control	Mali	12	Stool	Human	[12,18)	200335
+SRS608126	Control	Mali	5	Stool	Human	[0,6)	200336
+SRS608127	Control	Mali	24	Stool	Human	[24,60)	200337
+SRS608128	Control	Mali	8	Stool	Human	[6,12)	200338
+SRS608129	Control	Mali	20	Stool	Human	[18,24)	200339
+SRS608130	Control	Mali	5	Stool	Human	[0,6)	200341
+SRS608131	Control	Mali	12	Stool	Human	[12,18)	200340
+SRS608132	Control	Mali	17	Stool	Human	[12,18)	200342
+SRS608133	Control	Mali	12	Stool	Human	[12,18)	200343
+SRS608134	Control	Mali	11	Stool	Human	[6,12)	200344
+SRS608135	Control	Mali	7	Stool	Human	[6,12)	200346
+SRS608136	Control	Mali	8	Stool	Human	[6,12)	200345
+SRS608137	Case	Mali	8	Stool	Human	[6,12)	200347
+SRS608138	Case	Mali	13	Stool	Human	[12,18)	200348
+SRS608139	Case	Mali	12	Stool	Human	[12,18)	200349
+SRS608140	Case	Mali	5	Stool	Human	[0,6)	200350
+SRS608141	Control	Mali	9	Stool	Human	[6,12)	200351
+SRS608142	Control	Mali	7	Stool	Human	[6,12)	200352
+SRS608143	Control	Mali	18	Stool	Human	[18,24)	200353
+SRS608144	Control	Mali	13	Stool	Human	[12,18)	200355
+SRS608145	Control	Mali	6	Stool	Human	[6,12)	200357
+SRS608146	Control	Mali	8	Stool	Human	[6,12)	200362
+SRS608147	Control	Mali	36	Stool	Human	[24,60)	200358
+SRS608148	Case	Mali	9	Stool	Human	[6,12)	200364
+SRS608149	Case	Mali	8	Stool	Human	[6,12)	200363
+SRS608150	Case	Mali	8	Stool	Human	[6,12)	200365
+SRS608151	Case	Mali	26	Stool	Human	[24,60)	200366
+SRS608152	Case	Mali	9	Stool	Human	[6,12)	200367
+SRS608153	Case	Mali	9	Stool	Human	[6,12)	200370
+SRS608154	Case	Mali	9	Stool	Human	[6,12)	200369
+SRS608155	Case	Mali	11	Stool	Human	[6,12)	200371
+SRS608156	Case	Mali	11	Stool	Human	[6,12)	200377
+SRS608157	Case	Mali	9	Stool	Human	[6,12)	200378
+SRS608158	Case	Mali	10	Stool	Human	[6,12)	200379
+SRS608159	Case	Mali	1	Stool	Human	[0,6)	200381
+SRS608160	Case	Mali	7	Stool	Human	[6,12)	200382
+SRS608161	Case	Mali	10	Stool	Human	[6,12)	200383
+SRS608162	Case	Mali	18	Stool	Human	[18,24)	200385
+SRS608163	Case	Mali	7	Stool	Human	[6,12)	200386
+SRS608164	Case	Mali	39	Stool	Human	[24,60)	200388
+SRS608165	Case	Mali	7	Stool	Human	[6,12)	200390
+SRS608166	Case	Mali	10	Stool	Human	[6,12)	200387
+SRS608167	Case	Mali	5	Stool	Human	[0,6)	200392
+SRS608168	Case	Mali	15	Stool	Human	[12,18)	200393
+SRS608169	Control	Mali	17	Stool	Human	[12,18)	200400
+SRS608170	Control	Mali	8	Stool	Human	[6,12)	200401
+SRS608171	Control	Mali	12	Stool	Human	[12,18)	200403
+SRS608172	Control	Mali	8	Stool	Human	[6,12)	200404
+SRS608173	Control	Mali	12	Stool	Human	[12,18)	200406
+SRS608174	Control	Mali	9	Stool	Human	[6,12)	200407
+SRS608175	Control	Mali	34	Stool	Human	[24,60)	200410
+SRS608176	Control	Mali	5	Stool	Human	[0,6)	200412
+SRS608177	Control	Mali	10	Stool	Human	[6,12)	200411
+SRS608178	Control	Mali	9	Stool	Human	[6,12)	200413
+SRS608179	Control	Mali	1	Stool	Human	[0,6)	200414
+SRS608180	Control	Mali	8	Stool	Human	[6,12)	200415
+SRS608181	Control	Mali	8	Stool	Human	[6,12)	200416
+SRS608182	Control	Mali	42	Stool	Human	[24,60)	200417
+SRS608183	Control	Mali	30	Stool	Human	[24,60)	200418
+SRS608184	Control	Mali	7	Stool	Human	[6,12)	200419
+SRS608185	Control	Mali	6	Stool	Human	[6,12)	200420
+SRS608186	Case	Mali	33	Stool	Human	[24,60)	200421
+SRS608187	Case	Mali	10	Stool	Human	[6,12)	200422
+SRS608188	Case	Mali	9	Stool	Human	[6,12)	200425
+SRS608189	Control	Mali	10	Stool	Human	[6,12)	200429
+SRS608190	Case	Mali	7	Stool	Human	[6,12)	200430
+SRS608191	Case	Mali	10	Stool	Human	[6,12)	200435
+SRS608192	Case	Mali	36	Stool	Human	[24,60)	200442
+SRS608193	Control	Mali	11	Stool	Human	[6,12)	200446
+SRS608194	Control	Mali	6	Stool	Human	[6,12)	200450
+SRS608195	Case	Mali	5	Stool	Human	[0,6)	200434
+SRS608196	Control	Mali	4	Stool	Human	[0,6)	200451
+SRS608197	Control	Mali	11	Stool	Human	[6,12)	200452
+SRS608198	Control	Mali	8	Stool	Human	[6,12)	200453
+SRS608199	Control	Mali	7	Stool	Human	[6,12)	200454
+SRS608200	Control	Mali	3	Stool	Human	[0,6)	200457
+SRS608201	Control	Mali	39	Stool	Human	[24,60)	200459
+SRS608202	Case	Mali	27	Stool	Human	[24,60)	202019
+SRS608203	Case	Kenya	31	Stool	Human	[24,60)	400554
+SRS608204	Control	Kenya	30	Stool	Human	[24,60)	400555
+SRS608205	Case	Kenya	48	Stool	Human	[24,60)	400556
+SRS608206	Case	Kenya	33	Stool	Human	[24,60)	400558
+SRS608207	Control	Kenya	36	Stool	Human	[24,60)	400559
+SRS608208	Case	Kenya	4	Stool	Human	[0,6)	400560
+SRS608209	Control	Kenya	13	Stool	Human	[12,18)	400561
+SRS608210	Case	Kenya	14	Stool	Human	[12,18)	400562
+SRS608211	Case	Kenya	18	Stool	Human	[18,24)	400628
+SRS608212	Control	Kenya	18	Stool	Human	[18,24)	400629
+SRS608213	Control	Kenya	10	Stool	Human	[6,12)	400630
+SRS608214	Case	Kenya	9	Stool	Human	[6,12)	400631
+SRS608215	Control	Kenya	12	Stool	Human	[12,18)	400632
+SRS608216	Case	Kenya	13	Stool	Human	[12,18)	400633
+SRS608217	Case	Kenya	5	Stool	Human	[0,6)	400634
+SRS608218	Control	Kenya	5	Stool	Human	[0,6)	400635
+SRS608219	Case	Kenya	5	Stool	Human	[0,6)	400636
+SRS608220	Control	Kenya	5	Stool	Human	[0,6)	400637
+SRS608221	Case	Kenya	23	Stool	Human	[18,24)	400638
+SRS608222	Control	Kenya	9	Stool	Human	[6,12)	400641
+SRS608223	Case	Kenya	12	Stool	Human	[12,18)	400642
+SRS608224	Case	Kenya	8	Stool	Human	[6,12)	400640
+SRS608225	Case	Kenya	8	Stool	Human	[6,12)	400654
+SRS608226	Control	Kenya	9	Stool	Human	[6,12)	400655
+SRS608227	Case	Kenya	9	Stool	Human	[6,12)	400656
+SRS608228	Control	Kenya	39	Stool	Human	[24,60)	400659
+SRS608229	Control	Kenya	7	Stool	Human	[6,12)	400663
+SRS608230	Case	Kenya	9	Stool	Human	[6,12)	400679
+SRS608231	Control	Kenya	8	Stool	Human	[6,12)	400680
+SRS608232	Case	Kenya	36	Stool	Human	[24,60)	400873
+SRS608233	Case	Kenya	57	Stool	Human	[24,60)	400875
+SRS608234	Case	Kenya	8	Stool	Human	[6,12)	400877
+SRS608235	Control	Kenya	8	Stool	Human	[6,12)	400878
+SRS608236	Case	Kenya	7	Stool	Human	[6,12)	400879
+SRS608237	Case	Kenya	18	Stool	Human	[18,24)	400881
+SRS608238	Control	Kenya	14	Stool	Human	[12,18)	400882
+SRS608239	Case	Kenya	6	Stool	Human	[6,12)	400920
+SRS608240	Case	Kenya	6	Stool	Human	[6,12)	400921
+SRS608241	Control	Kenya	14	Stool	Human	[12,18)	400925
+SRS608242		Kenya		Stool	Human		400953
+SRS608243		Kenya		Stool	Human		400958
+SRS608244		Kenya		Stool	Human		400959
+SRS608245		Kenya		Stool	Human		400963
+SRS608246	Control	Kenya	13	Stool	Human	[12,18)	400964
+SRS608247	Case	Kenya	16	Stool	Human	[12,18)	400967
+SRS608248	Control	Kenya	2	Stool	Human	[0,6)	400966
+SRS608249	Control	Kenya	16	Stool	Human	[12,18)	400968
+SRS608250	Case	Kenya	1	Stool	Human	[0,6)	400969
+SRS608251	Control	Kenya	3	Stool	Human	[0,6)	400970
+SRS608252	Control	Kenya	13	Stool	Human	[12,18)	400974
+SRS608253	Case	Kenya	12	Stool	Human	[12,18)	400972
+SRS608254	Control	Kenya	21	Stool	Human	[18,24)	400975
+SRS608255	Control	Kenya	6	Stool	Human	[6,12)	400976
+SRS608256	Case	Kenya	21	Stool	Human	[18,24)	400977
+SRS608257	Control	Kenya	20	Stool	Human	[18,24)	400978
+SRS608258	Case	Kenya	6	Stool	Human	[6,12)	400979
+SRS608259	Control	Kenya	26	Stool	Human	[24,60)	400994
+SRS608260	Case	Kenya	10	Stool	Human	[6,12)	400995
+SRS608261	Control	Kenya	9	Stool	Human	[6,12)	400993
+SRS608262	Control	Kenya	6	Stool	Human	[6,12)	400999
+SRS608263	Control	Kenya	23	Stool	Human	[18,24)	401000
+SRS608264	Case	Kenya	13	Stool	Human	[12,18)	401004
+SRS608265	Case	Kenya	23	Stool	Human	[18,24)	401005
+SRS608266	Control	Kenya	19	Stool	Human	[18,24)	401006
+SRS608267	Control	Kenya	21	Stool	Human	[18,24)	401007
+SRS608268	Control	Kenya	14	Stool	Human	[12,18)	401008
+SRS608269	Case	Kenya	29	Stool	Human	[24,60)	401009
+SRS608270	Case	Kenya	31	Stool	Human	[24,60)	401010
+SRS608271	Control	Kenya	31	Stool	Human	[24,60)	401011
+SRS608272	Control	Kenya	28	Stool	Human	[24,60)	401012
+SRS608273	Case	Kenya	6	Stool	Human	[6,12)	401013
+SRS608274	Control	Kenya	5	Stool	Human	[0,6)	401015
+SRS608275	Case	Kenya	24	Stool	Human	[24,60)	401016
+SRS608276	Control	Kenya	24	Stool	Human	[24,60)	401017
+SRS608277	Control	Kenya	3	Stool	Human	[0,6)	401018
+SRS608278	Case	Kenya	6	Stool	Human	[6,12)	401019
+SRS608279	Case	Kenya	17	Stool	Human	[12,18)	401020
+SRS608280	Control	Kenya	18	Stool	Human	[18,24)	401021
+SRS608281	Control	Kenya	7	Stool	Human	[6,12)	401022
+SRS608282	Case	Kenya	11	Stool	Human	[6,12)	401023
+SRS608283	Case	Kenya	19	Stool	Human	[18,24)	401025
+SRS608284	Case	Kenya	54	Stool	Human	[24,60)	401024
+SRS608285	Control	Kenya	54	Stool	Human	[24,60)	401026
+SRS608286	Control	Kenya	21	Stool	Human	[18,24)	401029
+SRS608287	Control	Kenya	18	Stool	Human	[18,24)	401030
+SRS608288	Control	Kenya	4	Stool	Human	[0,6)	401032
+SRS608289	Case	Kenya	7	Stool	Human	[6,12)	401033
+SRS608290	Control	Kenya	5	Stool	Human	[0,6)	401034
+SRS608291	Case	Kenya	7	Stool	Human	[6,12)	401035
+SRS608292	Control	Kenya	8	Stool	Human	[6,12)	401036
+SRS608293	Case	Kenya	4	Stool	Human	[0,6)	401037
+SRS608294	Case	Kenya	8	Stool	Human	[6,12)	401039
+SRS608295	Control	Kenya	35	Stool	Human	[24,60)	401061
+SRS608296	Case	Kenya	45	Stool	Human	[24,60)	401062
+SRS608297	Case	Kenya	43	Stool	Human	[24,60)	401063
+SRS608298	Control	Kenya	41	Stool	Human	[24,60)	401064
+SRS608299	Control	Kenya	11	Stool	Human	[6,12)	401060
+SRS608300	Control	Kenya	43	Stool	Human	[24,60)	401065
+SRS608301	Case	Kenya	6	Stool	Human	[6,12)	401069
+SRS608302	Control	Kenya	7	Stool	Human	[6,12)	401070
+SRS608303	Case	Kenya	10	Stool	Human	[6,12)	401068
+SRS608304	Control	Kenya	9	Stool	Human	[6,12)	401071
+SRS608305	Case	Kenya	7	Stool	Human	[6,12)	401073
+SRS608306	Case	Kenya	4	Stool	Human	[0,6)	401072
+SRS608307	Control	Kenya	8	Stool	Human	[6,12)	401074
+SRS608308	Control	Kenya	4	Stool	Human	[0,6)	401075
+SRS608309	Case	Kenya	55	Stool	Human	[24,60)	401076
+SRS608310	Control	Kenya	57	Stool	Human	[24,60)	401077
+SRS608311	Case	Kenya	5	Stool	Human	[0,6)	401078
+SRS608312	Control	Kenya	4	Stool	Human	[0,6)	401079
+SRS608313	Control	Kenya	21	Stool	Human	[18,24)	401081
+SRS608314	Case	Kenya	23	Stool	Human	[18,24)	401080
+SRS608315	Case	Kenya	1	Stool	Human	[0,6)	401083
+SRS608316	Control	Kenya	3	Stool	Human	[0,6)	401084
+SRS608317	Case	Kenya	6	Stool	Human	[6,12)	401085
+SRS608318	Control	Kenya	7	Stool	Human	[6,12)	401086
+SRS608319	Case	Kenya	24	Stool	Human	[24,60)	401088
+SRS608320	Control	Kenya	34	Stool	Human	[24,60)	401090
+SRS608321	Case	Kenya	6	Stool	Human	[6,12)	401091
+SRS608322	Case	Kenya	40	Stool	Human	[24,60)	401093
+SRS608323	Case	Kenya	16	Stool	Human	[12,18)	401095
+SRS608324	Control	Kenya	16	Stool	Human	[12,18)	401096
+SRS608325	Case	Kenya	23	Stool	Human	[18,24)	401097
+SRS608326	Control	Kenya	24	Stool	Human	[24,60)	401098
+SRS608327	Control	Kenya	42	Stool	Human	[24,60)	401094
+SRS608328	Control	Kenya	33	Stool	Human	[24,60)	401100
+SRS608329	Case	Kenya	16	Stool	Human	[12,18)	401101
+SRS608330	Case	Kenya	20	Stool	Human	[18,24)	401103
+SRS608331	Case	Kenya	8	Stool	Human	[6,12)	401105
+SRS608332	Control	Kenya	7	Stool	Human	[6,12)	401106
+SRS608333	Case	Kenya	10	Stool	Human	[6,12)	401107
+SRS608334	Case	Kenya	2	Stool	Human	[0,6)	401109
+SRS608335	Case	Kenya	33	Stool	Human	[24,60)	401113
+SRS608336	Case	Kenya	6	Stool	Human	[6,12)	401111
+SRS608337	Control	Kenya	30	Stool	Human	[24,60)	401116
+SRS608338	Case	Kenya	3	Stool	Human	[0,6)	401115
+SRS608339	Case	Kenya	0	Stool	Human	[0,6)	401118
+SRS608340	Control	Kenya	3	Stool	Human	[0,6)	401117
+SRS608341	Control	Kenya	4	Stool	Human	[0,6)	401121
+SRS608342	Control	Kenya	10	Stool	Human	[6,12)	401120
+SRS608343	Case	Kenya	11	Stool	Human	[6,12)	401122
+SRS608344	Control	Kenya	9	Stool	Human	[6,12)	401123
+SRS608345	Case	Kenya	5	Stool	Human	[0,6)	401124
+SRS608346	Control	Kenya	5	Stool	Human	[0,6)	401125
+SRS608347	Case	Kenya	24	Stool	Human	[24,60)	401126
+SRS608348	Control	Kenya	7	Stool	Human	[6,12)	401129
+SRS608349	Case	Kenya	43	Stool	Human	[24,60)	401131
+SRS608350	Control	Kenya	45	Stool	Human	[24,60)	401132
+SRS608351	Case	Kenya	45	Stool	Human	[24,60)	401133
+SRS608352	Control	Kenya	47	Stool	Human	[24,60)	401134
+SRS608353	Case	Kenya	26	Stool	Human	[24,60)	401135
+SRS608354	Case	Kenya	8	Stool	Human	[6,12)	401138
+SRS608355	Case	Kenya	12	Stool	Human	[12,18)	401140
+SRS608356	Case	Kenya	38	Stool	Human	[24,60)	401144
+SRS608357	Control	Kenya	40	Stool	Human	[24,60)	401147
+SRS608358	Case	Kenya	5	Stool	Human	[0,6)	401181
+SRS608359	Case	Kenya	16	Stool	Human	[12,18)	401182
+SRS608360	Case	Kenya	8	Stool	Human	[6,12)	401185
+SRS608361	Control	Kenya	4	Stool	Human	[0,6)	401199
+SRS608362	Case	Kenya	10	Stool	Human	[6,12)	401200
+SRS608363	Control	Kenya	10	Stool	Human	[6,12)	401201
+SRS608364	Case	Kenya	24	Stool	Human	[24,60)	401233
+SRS608365	Case	Kenya	8	Stool	Human	[6,12)	401235
+SRS608366	Control	Kenya	24	Stool	Human	[24,60)	401236
+SRS608367	Case	Kenya	7	Stool	Human	[6,12)	401241
+SRS608368	Case	Kenya	11	Stool	Human	[6,12)	401244
+SRS608369	Case	Kenya	8	Stool	Human	[6,12)	401261
+SRS608370	Control	Kenya	8	Stool	Human	[6,12)	401371
+SRS608371	Case	Kenya	9	Stool	Human	[6,12)	401370
+SRS608372	Control	Kenya	24	Stool	Human	[24,60)	401373
+SRS608373	Case	Kenya	25	Stool	Human	[24,60)	401372
+SRS608374	Case	Kenya	53	Stool	Human	[24,60)	401376
+SRS608375	Case	Kenya	12	Stool	Human	[12,18)	401374
+SRS608376	Case	Kenya	27	Stool	Human	[24,60)	401378
+SRS608377	Case	Kenya	28	Stool	Human	[24,60)	401380
+SRS608378	Control	Kenya	14	Stool	Human	[12,18)	401404
+SRS608379	Case	Kenya	17	Stool	Human	[12,18)	401420
+SRS608380		Kenya		Stool	Human		401406
+SRS608381	Case	Kenya	10	Stool	Human	[6,12)	401513
+SRS608382	Case	Kenya	29	Stool	Human	[24,60)	401515
+SRS608383	Case	Kenya	19	Stool	Human	[18,24)	401517
+SRS608384	Case	Kenya	15	Stool	Human	[12,18)	401518
+SRS608385	Control	Kenya	31	Stool	Human	[24,60)	401516
+SRS608386	Control	Kenya	20	Stool	Human	[18,24)	401519
+SRS608387	Control	Kenya	12	Stool	Human	[12,18)	401520
+SRS608388	Case	Kenya	9	Stool	Human	[6,12)	401521
+SRS608389	Control	Kenya	10	Stool	Human	[6,12)	401522
+SRS608390	Case	Kenya	17	Stool	Human	[12,18)	401523
+SRS608391	Control	Kenya	28	Stool	Human	[24,60)	401530
+SRS608392	Case	Kenya	23	Stool	Human	[18,24)	401528
+SRS608393	Case	Kenya	9	Stool	Human	[6,12)	401541
+SRS608394	Control	Kenya	7	Stool	Human	[6,12)	401544
+SRS608395	Control	Kenya	4	Stool	Human	[0,6)	401545
+SRS608396	Control	Kenya	47	Stool	Human	[24,60)	401546
+SRS608397	Case	Kenya	6	Stool	Human	[6,12)	401547
+SRS608398	Case	Kenya	48	Stool	Human	[24,60)	401548
+SRS608399	Control	Kenya	5	Stool	Human	[0,6)	401549
+SRS608400	Control	Kenya	48	Stool	Human	[24,60)	401550
+SRS608401	Case	Kenya	17	Stool	Human	[12,18)	401551
+SRS608402	Control	Kenya	33	Stool	Human	[24,60)	401553
+SRS608403	Control	Kenya	16	Stool	Human	[12,18)	401554
+SRS608404	Case	Kenya	5	Stool	Human	[0,6)	401555
+SRS608405	Case	Kenya	33	Stool	Human	[24,60)	401556
+SRS608406	Control	Kenya	5	Stool	Human	[0,6)	401558
+SRS608407	Case	Kenya	13	Stool	Human	[12,18)	401559
+SRS608408	Control	Kenya	15	Stool	Human	[12,18)	401560
+SRS608409	Control	Kenya	2	Stool	Human	[0,6)	401565
+SRS608410	Case	Kenya	5	Stool	Human	[0,6)	401567
+SRS608411	Control	Kenya	5	Stool	Human	[0,6)	401568
+SRS608412	Control	Kenya	36	Stool	Human	[24,60)	401570
+SRS608413	Case	Kenya	34	Stool	Human	[24,60)	401569
+SRS608414	Case	Kenya	27	Stool	Human	[24,60)	401573
+SRS608415	Case	Kenya	6	Stool	Human	[6,12)	401572
+SRS608416	Control	Kenya	4	Stool	Human	[0,6)	401574
+SRS608417	Case	Kenya	12	Stool	Human	[12,18)	401577
+SRS608418	Case	Kenya	9	Stool	Human	[6,12)	401576
+SRS608419	Case	Kenya	22	Stool	Human	[18,24)	401581
+SRS608420	Case	Kenya	50	Stool	Human	[24,60)	401592
+SRS608421	Control	Kenya	52	Stool	Human	[24,60)	401593
+SRS608422	Case	Kenya	7	Stool	Human	[6,12)	401596
+SRS608423	Case	Kenya	17	Stool	Human	[12,18)	401582
+SRS608424	Control	Kenya	7	Stool	Human	[6,12)	401600
+SRS608425	Case	Kenya	27	Stool	Human	[24,60)	401601
+SRS608426	Control	Kenya	26	Stool	Human	[24,60)	401602
+SRS608427	Case	Kenya	29	Stool	Human	[24,60)	401603
+SRS608428	Control	Kenya	30	Stool	Human	[24,60)	401604
+SRS608429	Case	Kenya	43	Stool	Human	[24,60)	401605
+SRS608430	Case	Kenya	27	Stool	Human	[24,60)	401609
+SRS608431	Case	Kenya	5	Stool	Human	[0,6)	401624
+SRS608432	Control	Kenya	4	Stool	Human	[0,6)	401625
+SRS608433	Control	Kenya	5	Stool	Human	[0,6)	401632
+SRS608434	Control	Kenya	9	Stool	Human	[6,12)	401608
+SRS608435	Control	Kenya	4	Stool	Human	[0,6)	401634
+SRS608436	Case	Kenya	4	Stool	Human	[0,6)	401635
+SRS608437	Case	Kenya	18	Stool	Human	[18,24)	401637
+SRS608438	Control	Kenya	2	Stool	Human	[0,6)	401638
+SRS608439	Case	Kenya	52	Stool	Human	[24,60)	401640
+SRS608440	Control	Kenya	49	Stool	Human	[24,60)	401642
+SRS608441	Case	Kenya	5	Stool	Human	[0,6)	401644
+SRS608442	Case	Kenya	3	Stool	Human	[0,6)	401645
+SRS608443	Control	Kenya	5	Stool	Human	[0,6)	401647
+SRS608444	Case	Kenya	13	Stool	Human	[12,18)	401649
+SRS608445	Control	Kenya	12	Stool	Human	[12,18)	401653
+SRS608446	Case	Kenya	48	Stool	Human	[24,60)	401654
+SRS608447	Control	Kenya	50	Stool	Human	[24,60)	401655
+SRS608448	Case	Kenya	26	Stool	Human	[24,60)	401656
+SRS608449	Control	Kenya	25	Stool	Human	[24,60)	401657
+SRS608450	Case	Kenya	18	Stool	Human	[18,24)	401658
+SRS608451	Control	Kenya	21	Stool	Human	[18,24)	401659
+SRS608452	Case	Kenya	21	Stool	Human	[18,24)	401660
+SRS608453	Control	Kenya	17	Stool	Human	[12,18)	401661
+SRS608454	Control	Kenya	3	Stool	Human	[0,6)	401663
+SRS608455	Case	Kenya	3	Stool	Human	[0,6)	401662
+SRS608456	Case	Kenya	15	Stool	Human	[12,18)	401664
+SRS608457	Case	Kenya	9	Stool	Human	[6,12)	401666
+SRS608458	Case	Kenya	15	Stool	Human	[12,18)	401682
+SRS608459	Case	Kenya	6	Stool	Human	[6,12)	401693
+SRS608460	Control	Kenya	6	Stool	Human	[6,12)	401694
+SRS608461	Case	Kenya	5	Stool	Human	[0,6)	401704
+SRS608462	Case	Kenya	44	Stool	Human	[24,60)	401705
+SRS608463		Kenya		Stool	Human		401708
+SRS608464	Case	Kenya	2	Stool	Human	[0,6)	401710
+SRS608465	Case	Kenya	8	Stool	Human	[6,12)	401711
+SRS608466	Control	Kenya	6	Stool	Human	[6,12)	401718
+SRS608467	Control	Kenya	55	Stool	Human	[24,60)	401722
+SRS608468	Case	Kenya	4	Stool	Human	[0,6)	401724
+SRS608469	Control	Kenya	25	Stool	Human	[24,60)	401725
+SRS608470	Case	Kenya	32	Stool	Human	[24,60)	401726
+SRS608471	Case	Kenya	5	Stool	Human	[0,6)	401727
+SRS608472	Control	Kenya	33	Stool	Human	[24,60)	401728
+SRS608473	Control	Kenya	4	Stool	Human	[0,6)	401729
+SRS608474	Control	Kenya	5	Stool	Human	[0,6)	401730
+SRS608475	Control	Kenya	20	Stool	Human	[18,24)	401732
+SRS608476	Case	Kenya	12	Stool	Human	[12,18)	401733
+SRS608477	Control	Kenya	15	Stool	Human	[12,18)	401735
+SRS608478	Control	Kenya	27	Stool	Human	[24,60)	401736
+SRS608479	Control	Kenya	8	Stool	Human	[6,12)	401737
+SRS608480	Control	Kenya	5	Stool	Human	[0,6)	401738
+SRS608481	Case	Kenya	7	Stool	Human	[6,12)	401739
+SRS608482	Case	Kenya	7	Stool	Human	[6,12)	401740
+SRS608483	Control	Kenya	8	Stool	Human	[6,12)	401743
+SRS608484	Case	Kenya	2	Stool	Human	[0,6)	401750
+SRS608485	Case	Kenya	48	Stool	Human	[24,60)	401754
+SRS608486	Case	Kenya	47	Stool	Human	[24,60)	401757
+SRS608487	Case	Kenya	6	Stool	Human	[6,12)	401760
+SRS608488	Case	Kenya	37	Stool	Human	[24,60)	401759
+SRS608489	Control	Kenya	4	Stool	Human	[0,6)	401763
+SRS608490	Control	Kenya	10	Stool	Human	[6,12)	401764
+SRS608491	Case	Kenya	16	Stool	Human	[12,18)	401778
+SRS608492	Control	Kenya	6	Stool	Human	[6,12)	401794
+SRS608493	Control	Kenya	44	Stool	Human	[24,60)	401796
+SRS608494	Case	Kenya	6	Stool	Human	[6,12)	401797
+SRS608495	Case	Kenya	6	Stool	Human	[6,12)	401799
+SRS608496	Case	Kenya	14	Stool	Human	[12,18)	401801
+SRS608497	Control	Kenya	6	Stool	Human	[6,12)	401808
+SRS608498	Case	Kenya	23	Stool	Human	[18,24)	401809
+SRS608499	Case	Kenya	10	Stool	Human	[6,12)	401853
+SRS608500	Control	Kenya	6	Stool	Human	[6,12)	401812
+SRS608501	Control	Kenya	32	Stool	Human	[24,60)	401857
+SRS608502	Case	Kenya	13	Stool	Human	[12,18)	401856
+SRS608503	Control	Kenya	13	Stool	Human	[12,18)	401858
+SRS608504	Case	Kenya	13	Stool	Human	[12,18)	401860
+SRS608505	Control	Kenya	14	Stool	Human	[12,18)	401861
+SRS608506	Case	Kenya	7	Stool	Human	[6,12)	401863
+SRS608507	Case	Kenya	25	Stool	Human	[24,60)	401864
+SRS608508	Control	Kenya	8	Stool	Human	[6,12)	401865
+SRS608509	Case	Kenya	2	Stool	Human	[0,6)	401867
+SRS608510	Control	Kenya	1	Stool	Human	[0,6)	401868
+SRS608511	Case	Kenya	21	Stool	Human	[18,24)	401869
+SRS608512	Control	Kenya	25	Stool	Human	[24,60)	401881
+SRS608513	Case	Kenya	11	Stool	Human	[6,12)	401882
+SRS608514	Control	Kenya	10	Stool	Human	[6,12)	401883
+SRS608515	Case	Kenya	4	Stool	Human	[0,6)	401884
+SRS608516	Case	Bangladesh	32	Stool	Human	[24,60)	600002
+SRS608517	Case	Bangladesh	19	Stool	Human	[18,24)	600004
+SRS608518	Control	Bangladesh	17	Stool	Human	[12,18)	600011
+SRS608519	Control	Bangladesh	19	Stool	Human	[18,24)	600005
+SRS608520	Control	Bangladesh	32	Stool	Human	[24,60)	600017
+SRS608521	Case	Bangladesh	1	Stool	Human	[0,6)	600021
+SRS608522	Control	Bangladesh	12	Stool	Human	[12,18)	600022
+SRS608523	Case	Bangladesh	30	Stool	Human	[24,60)	600025
+SRS608524	Control	Bangladesh	47	Stool	Human	[24,60)	600028
+SRS608525	Control	Bangladesh	13	Stool	Human	[12,18)	600030
+SRS608526	Case	Bangladesh	10	Stool	Human	[6,12)	600035
+SRS608527	Control	Bangladesh	10	Stool	Human	[6,12)	600038
+SRS608528	Case	Bangladesh	40	Stool	Human	[24,60)	600040
+SRS608529	Control	Bangladesh	35	Stool	Human	[24,60)	600052
+SRS608530	Case	Bangladesh	10	Stool	Human	[6,12)	600053
+SRS608531	Control	Bangladesh	9	Stool	Human	[6,12)	600060
+SRS608532		Bangladesh		Stool	Human		600064
+SRS608533	Control	Bangladesh	5	Stool	Human	[0,6)	600069
+SRS608534	Control	Bangladesh	7	Stool	Human	[6,12)	600081
+SRS608535	Control	Bangladesh	19	Stool	Human	[18,24)	600083
+SRS608536	Control	Bangladesh	22	Stool	Human	[18,24)	600090
+SRS608537	Control	Bangladesh	5	Stool	Human	[0,6)	600094
+SRS608538	Control	Bangladesh	7	Stool	Human	[6,12)	600096
+SRS608539	Case	Bangladesh	6	Stool	Human	[6,12)	600100
+SRS608540	Control	Bangladesh	8	Stool	Human	[6,12)	600104
+SRS608541	Case	Bangladesh	19	Stool	Human	[18,24)	600109
+SRS608542	Case	Bangladesh	13	Stool	Human	[12,18)	600112
+SRS608543	Control	Bangladesh	10	Stool	Human	[6,12)	600132
+SRS608544	Case	Bangladesh	13	Stool	Human	[12,18)	600113
+SRS608545	Control	Bangladesh	11	Stool	Human	[6,12)	600140
+SRS608546	Control	Bangladesh	23	Stool	Human	[18,24)	600134
+SRS608547	Control	Bangladesh	13	Stool	Human	[12,18)	600166
+SRS608548	Control	Bangladesh	19	Stool	Human	[18,24)	600173
+SRS608549	Case	Bangladesh	17	Stool	Human	[12,18)	600216
+SRS608550	Control	Bangladesh	22	Stool	Human	[18,24)	600227
+SRS608551	Case	Bangladesh	18	Stool	Human	[18,24)	600260
+SRS608552	Control	Bangladesh	16	Stool	Human	[12,18)	600262
+SRS608553	Control	Bangladesh	36	Stool	Human	[24,60)	600319
+SRS608554	Case	Bangladesh	18	Stool	Human	[18,24)	600341
+SRS608555	Control	Bangladesh	20	Stool	Human	[18,24)	600346
+SRS608556	Control	Bangladesh	10	Stool	Human	[6,12)	600362
+SRS608557	Case	Bangladesh	10	Stool	Human	[6,12)	600412
+SRS608558	Control	Bangladesh	42	Stool	Human	[24,60)	600584
+SRS608559	Control	Bangladesh	16	Stool	Human	[12,18)	600458
+SRS608560	Case	Bangladesh	34	Stool	Human	[24,60)	600620
+SRS608561	Control	Bangladesh	7	Stool	Human	[6,12)	600621
+SRS608562	Case	Bangladesh	1	Stool	Human	[0,6)	600624
+SRS608563	Control	Bangladesh	34	Stool	Human	[24,60)	600627
+SRS608564	Control	Bangladesh	33	Stool	Human	[24,60)	600632
+SRS608565	Control	Bangladesh	20	Stool	Human	[18,24)	600633
+SRS608566	Control	Bangladesh	16	Stool	Human	[12,18)	600635
+SRS608567	Case	Bangladesh	26	Stool	Human	[24,60)	600637
+SRS608568	Control	Bangladesh	22	Stool	Human	[18,24)	600638
+SRS608569	Case	Bangladesh	35	Stool	Human	[24,60)	600646
+SRS608570	Control	Bangladesh	12	Stool	Human	[12,18)	600648
+SRS608571	Case	Bangladesh	39	Stool	Human	[24,60)	600649
+SRS608572	Case	Bangladesh	8	Stool	Human	[6,12)	600655
+SRS608573	Case	Bangladesh	50	Stool	Human	[24,60)	600656
+SRS608574	Control	Bangladesh	26	Stool	Human	[24,60)	600666
+SRS608575	Control	Bangladesh	16	Stool	Human	[12,18)	600668
+SRS608576	Control	Bangladesh	38	Stool	Human	[24,60)	600654
+SRS608577	Control	Bangladesh	46	Stool	Human	[24,60)	600671
+SRS608578	Case	Bangladesh	11	Stool	Human	[6,12)	600675
+SRS608579	Case	Bangladesh	8	Stool	Human	[6,12)	600683
+SRS608580	Case	Bangladesh	19	Stool	Human	[18,24)	600684
+SRS608581	Control	Bangladesh	15	Stool	Human	[12,18)	600686
+SRS608582	Control	Bangladesh	7	Stool	Human	[6,12)	600672
+SRS608583	Case	Bangladesh	21	Stool	Human	[18,24)	600690
+SRS608584	Control	Bangladesh	22	Stool	Human	[18,24)	600698
+SRS608585	Case	Bangladesh	34	Stool	Human	[24,60)	600710
+SRS608586	Control	Bangladesh	14	Stool	Human	[12,18)	600711
+SRS608587	Case	Bangladesh	46	Stool	Human	[24,60)	600718
+SRS608588	Case	Bangladesh	14	Stool	Human	[12,18)	600744
+SRS608589	Control	Bangladesh	20	Stool	Human	[18,24)	600751
+SRS608590	Control	Bangladesh	28	Stool	Human	[24,60)	600752
+SRS608591	Case	Bangladesh	30	Stool	Human	[24,60)	600761
+SRS608592	Control	Bangladesh	41	Stool	Human	[24,60)	600763
+SRS608593	Control	Bangladesh	30	Stool	Human	[24,60)	600765
+SRS608594	Control	Bangladesh	15	Stool	Human	[12,18)	600767
+SRS608595	Control	Bangladesh	21	Stool	Human	[18,24)	600729
+SRS608596	Case	Bangladesh	12	Stool	Human	[12,18)	600775
+SRS608597	Case	Bangladesh	20	Stool	Human	[18,24)	600776
+SRS608598		Bangladesh		Stool	Human		600780
+SRS608599	Control	Bangladesh	23	Stool	Human	[18,24)	600781
+SRS608600	Case	Bangladesh	6	Stool	Human	[6,12)	600782
+SRS608601	Control	Bangladesh	19	Stool	Human	[18,24)	600783
+SRS608602	Case	Bangladesh	41	Stool	Human	[24,60)	600785
+SRS608603	Case	Bangladesh	5	Stool	Human	[0,6)	600787
+SRS608604	Control	Bangladesh	6	Stool	Human	[6,12)	600786
+SRS608605	Case	Bangladesh	10	Stool	Human	[6,12)	600788
+SRS608606	Control	Bangladesh	44	Stool	Human	[24,60)	600789
+SRS608607		Bangladesh		Stool	Human		600790
+SRS608608	Control	Bangladesh	7	Stool	Human	[6,12)	600792
+SRS608609	Case	Bangladesh	10	Stool	Human	[6,12)	600794
+SRS608610	Case	Bangladesh	17	Stool	Human	[12,18)	600795
+SRS608611	Case	Bangladesh	21	Stool	Human	[18,24)	600796
+SRS608612	Control	Bangladesh	20	Stool	Human	[18,24)	600798
+SRS608613	Control	Bangladesh	9	Stool	Human	[6,12)	600799
+SRS608614	Control	Bangladesh	20	Stool	Human	[18,24)	600801
+SRS608615	Case	Bangladesh	8	Stool	Human	[6,12)	600802
+SRS608616	Control	Bangladesh	11	Stool	Human	[6,12)	600797
+SRS608617	Case	Bangladesh	4	Stool	Human	[0,6)	600803
+SRS608618	Case	Bangladesh	18	Stool	Human	[18,24)	600805
+SRS608619	Case	Bangladesh	11	Stool	Human	[6,12)	600807
+SRS608620	Case	Bangladesh	17	Stool	Human	[12,18)	600808
+SRS608621	Control	Bangladesh	16	Stool	Human	[12,18)	600809
+SRS608622	Case	Bangladesh	38	Stool	Human	[24,60)	600811
+SRS608623	Control	Bangladesh	7	Stool	Human	[6,12)	600812
+SRS608624	Case	Bangladesh	15	Stool	Human	[12,18)	600813
+SRS608625	Control	Bangladesh	20	Stool	Human	[18,24)	600816
+SRS608626	Control	Bangladesh	18	Stool	Human	[18,24)	600818
+SRS608627	Case	Bangladesh	23	Stool	Human	[18,24)	600819
+SRS608628	Control	Bangladesh	7	Stool	Human	[6,12)	600823
+SRS608629	Case	Bangladesh	8	Stool	Human	[6,12)	600824
+SRS608630	Control	Bangladesh	10	Stool	Human	[6,12)	600826
+SRS608631	Control	Bangladesh	12	Stool	Human	[12,18)	600830
+SRS608632	Control	Bangladesh	27	Stool	Human	[24,60)	600831
+SRS608633	Case	Bangladesh	14	Stool	Human	[12,18)	600833
+SRS608634	Control	Bangladesh	9	Stool	Human	[6,12)	600828
+SRS608635	Case	Bangladesh	33	Stool	Human	[24,60)	600835
+SRS608636	Case	Bangladesh	5	Stool	Human	[0,6)	600837
+SRS608637	Case	Bangladesh	14	Stool	Human	[12,18)	600840
+SRS608638	Case	Bangladesh	11	Stool	Human	[6,12)	600843
+SRS608639	Case	Bangladesh	5	Stool	Human	[0,6)	600845
+SRS608640	Control	Bangladesh	3	Stool	Human	[0,6)	600846
+SRS608641	Case	Bangladesh	10	Stool	Human	[6,12)	600847
+SRS608642	Case	Bangladesh	25	Stool	Human	[24,60)	600854
+SRS608643	Case	Bangladesh	7	Stool	Human	[6,12)	600863
+SRS608644	Control	Bangladesh	7	Stool	Human	[6,12)	600867
+SRS608645	Case	Bangladesh	35	Stool	Human	[24,60)	600876
+SRS608646	Case	Bangladesh	40	Stool	Human	[24,60)	600879
+SRS608647	Case	Bangladesh	11	Stool	Human	[6,12)	600880
+SRS608648	Control	Bangladesh	33	Stool	Human	[24,60)	600881
+SRS608649	Control	Bangladesh	2	Stool	Human	[0,6)	600890
+SRS608650	Case	Bangladesh	32	Stool	Human	[24,60)	600891
+SRS608651	Control	Bangladesh	18	Stool	Human	[18,24)	600901
+SRS608652	Control	Bangladesh	23	Stool	Human	[18,24)	600909
+SRS608653	Case	Bangladesh	4	Stool	Human	[0,6)	600910
+SRS608654	Control	Bangladesh	5	Stool	Human	[0,6)	600913
+SRS608655	Control	Bangladesh	11	Stool	Human	[6,12)	600915
+SRS608656	Control	Bangladesh	7	Stool	Human	[6,12)	600917
+SRS608657	Case	Bangladesh	8	Stool	Human	[6,12)	600919
+SRS608658	Case	Bangladesh	7	Stool	Human	[6,12)	600926
+SRS608659	Control	Bangladesh	19	Stool	Human	[18,24)	600949
+SRS608660	Control	Bangladesh	8	Stool	Human	[6,12)	600953
+SRS608661	Control	Bangladesh	13	Stool	Human	[12,18)	600955
+SRS608662	Control	Bangladesh	58	Stool	Human	[24,60)	600956
+SRS608663	Case	Bangladesh	17	Stool	Human	[12,18)	600958
+SRS608664	Control	Bangladesh	7	Stool	Human	[6,12)	600967
+SRS608665	Case	Bangladesh	12	Stool	Human	[12,18)	600970
+SRS608666	Case	Bangladesh	32	Stool	Human	[24,60)	600984
+SRS608667	Case	Bangladesh	22	Stool	Human	[18,24)	600987
+SRS608668	Control	Bangladesh	15	Stool	Human	[12,18)	601001
+SRS608669	Control	Bangladesh	23	Stool	Human	[18,24)	601003
+SRS608670	Control	Bangladesh	26	Stool	Human	[24,60)	601007
+SRS608671	Case	Bangladesh	17	Stool	Human	[12,18)	601008
+SRS608672	Case	Bangladesh	6	Stool	Human	[6,12)	601009
+SRS608673	Case	Bangladesh	28	Stool	Human	[24,60)	601012
+SRS608674	Case	Bangladesh	22	Stool	Human	[18,24)	601013
+SRS608675	Control	Bangladesh	16	Stool	Human	[12,18)	601017
+SRS608676	Control	Bangladesh	18	Stool	Human	[18,24)	601021
+SRS608677	Case	Bangladesh	37	Stool	Human	[24,60)	601036
+SRS608678	Control	Bangladesh	34	Stool	Human	[24,60)	601044
+SRS608679	Case	Bangladesh	9	Stool	Human	[6,12)	601039
+SRS608680	Case	Bangladesh	10	Stool	Human	[6,12)	601045
+SRS608681	Case	Bangladesh	14	Stool	Human	[12,18)	601046
+SRS608682	Control	Bangladesh	7	Stool	Human	[6,12)	601047
+SRS608683	Case	Bangladesh	13	Stool	Human	[12,18)	601049
+SRS608684	Case	Bangladesh	0	Stool	Human	[0,6)	601050
+SRS608685	Control	Bangladesh	11	Stool	Human	[6,12)	601052
+SRS608686	Case	Bangladesh	13	Stool	Human	[12,18)	601053
+SRS608687	Control	Bangladesh	17	Stool	Human	[12,18)	601055
+SRS608688	Control	Bangladesh	12	Stool	Human	[12,18)	601056
+SRS608689	Case	Bangladesh	7	Stool	Human	[6,12)	601059
+SRS608690	Case	Bangladesh	8	Stool	Human	[6,12)	601125
+SRS608691	Case	Bangladesh	6	Stool	Human	[6,12)	601131
+SRS608692	Case	Bangladesh	8	Stool	Human	[6,12)	601161
+SRS608693	Case	Bangladesh	37	Stool	Human	[24,60)	601160
+SRS608694	Control	Bangladesh	28	Stool	Human	[24,60)	601186
+SRS608695	Case	Bangladesh	52	Stool	Human	[24,60)	601208
+SRS608696	Control	Bangladesh	8	Stool	Human	[6,12)	601216
+SRS608697	Control	Bangladesh	50	Stool	Human	[24,60)	601230
+SRS608698	Case	Bangladesh	7	Stool	Human	[6,12)	602025
+SRS608699	Control	Bangladesh	40	Stool	Human	[24,60)	602036
+SRS608700	Control	Bangladesh	7	Stool	Human	[6,12)	602039
+SRS608701	Control	Bangladesh	11	Stool	Human	[6,12)	602040
+SRS608702	Control	Bangladesh	5	Stool	Human	[0,6)	602030
+SRS608703	Case	Bangladesh	16	Stool	Human	[12,18)	602047
+SRS608704	Case	Bangladesh	21	Stool	Human	[18,24)	602054
+SRS608705	Control	Bangladesh	25	Stool	Human	[24,60)	602055
+SRS608706	Control	Bangladesh	35	Stool	Human	[24,60)	602061
+SRS608707	Case	Bangladesh	27	Stool	Human	[24,60)	602062
+SRS608708	Case	Bangladesh	4	Stool	Human	[0,6)	602070
+SRS608709	Control	Bangladesh	3	Stool	Human	[0,6)	602085
+SRS608710	Control	Bangladesh	11	Stool	Human	[6,12)	602102
+SRS608711	Control	Bangladesh	12	Stool	Human	[12,18)	602107
+SRS608712	Control	Bangladesh	4	Stool	Human	[0,6)	602113
+SRS608713	Case	Bangladesh	12	Stool	Human	[12,18)	602129
+SRS608714	Control	Bangladesh	29	Stool	Human	[24,60)	602133
+SRS608715	Case	Bangladesh	23	Stool	Human	[18,24)	602143
+SRS608716	Control	Bangladesh	51	Stool	Human	[24,60)	602150
+SRS608717	Case	Bangladesh	16	Stool	Human	[12,18)	602154
+SRS608718	Control	Bangladesh	30	Stool	Human	[24,60)	602162
+SRS608719	Case	Bangladesh	1	Stool	Human	[0,6)	602175
+SRS608720	Control	Bangladesh	30	Stool	Human	[24,60)	602186
+SRS608721	Control	Bangladesh	15	Stool	Human	[12,18)	602190
+SRS608722	Control	Bangladesh	25	Stool	Human	[24,60)	602201
+SRS608723	Control	Bangladesh	46	Stool	Human	[24,60)	602210
+SRS608724	Case	Bangladesh	36	Stool	Human	[24,60)	602215
+SRS608725	Case	Bangladesh	34	Stool	Human	[24,60)	602220
+SRS608726	Control	Bangladesh	40	Stool	Human	[24,60)	602224
+SRS608727	Control	Bangladesh	6	Stool	Human	[6,12)	602305
+SRS608728	Case	Bangladesh	40	Stool	Human	[24,60)	602336
+SRS608729	Control	Bangladesh	27	Stool	Human	[24,60)	602345
+SRS608730	Control	Bangladesh	38	Stool	Human	[24,60)	602363
+SRS608731	Control	Bangladesh	5	Stool	Human	[0,6)	602372
+SRS608732	Case	Bangladesh	42	Stool	Human	[24,60)	602377
+SRS608733	Control	Bangladesh	10	Stool	Human	[6,12)	602382
+SRS608734	Case	Bangladesh	47	Stool	Human	[24,60)	602385
