@@ -925,6 +925,9 @@
   <ontologyTerm source_id="NCBITaxon_38782" type="characteristicValue" parent="characteristicQualifier">
     <name>Anopheles sp.</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9593" type="characteristicValue" parent="characteristicQualifier">
+    <name>Gorilla gorilla</name>
+  </ontologyTerm>
   <ontologyTerm source_id="SNOMEDCT_22097005" type="characteristicValue" parent="characteristicQualifier">
     <name>tree</name>
   </ontologyTerm>
