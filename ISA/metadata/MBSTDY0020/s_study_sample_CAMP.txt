@@ -17,19 +17,19 @@ name	run_prefix_prep	region	case_control	Parasite_found_species	Parasite_found_t
 12774	11	V4	Case	Ancylostoma caninum	Helminth	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	9 years				Colon	UBERON:feces	Colon
 12775	11	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	9 years				Colon	UBERON:feces	Colon
 12776	11	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	8 years				Colon	UBERON:feces	Colon
-12777	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	9 years				Colon	UBERON:feces	Colon
+12777	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	9 years				Colon	UBERON:feces	Colon
 12778	11	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	9 years				Colon	UBERON:feces	Colon
-12779	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	1 years				Colon	UBERON:feces	Colon
+12779	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	1 years				Colon	UBERON:feces	Colon
 12780	11	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	1 years				Colon	UBERON:feces	Colon
-12781	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	1 years				Colon	UBERON:feces	Colon
-12783	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	11 years				Colon	UBERON:feces	Colon
+12781	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	1 years				Colon	UBERON:feces	Colon
+12783	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	11 years				Colon	UBERON:feces	Colon
 12784	11	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	11 years				Colon	UBERON:feces	Colon
-12785	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	9 years				Colon	UBERON:feces	Colon
+12785	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	9 years				Colon	UBERON:feces	Colon
 12786	11	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	9 years				Colon	UBERON:feces	Colon
-12787	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	11 years				Colon	UBERON:feces	Colon
+12787	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	11 years				Colon	UBERON:feces	Colon
 12788	11	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	11 years				Colon	UBERON:feces	Colon
-12789	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	8 years				Colon	UBERON:feces	Colon
-12791	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	3 years				Colon	UBERON:feces	Colon
+12789	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	8 years				Colon	UBERON:feces	Colon
+12791	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	3 years				Colon	UBERON:feces	Colon
 12792	11	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	3 years				Colon	UBERON:feces	Colon
 12793	11	V4	Case	Dipylidium caninum	Tapeworm	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
 12794	11	V4	Giardia	Giardia	Protozoan	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	0.25 years				Colon	UBERON:feces	Colon
@@ -37,16 +37,16 @@ name	run_prefix_prep	region	case_control	Parasite_found_species	Parasite_found_t
 12796	11	V4	Case	Toxocara canis	Helminth	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	0.2 years				Colon	UBERON:feces	Colon
 12797	11	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	0.2 years				Colon	UBERON:feces	Colon
 12798	11	V4	Case	Capillaria boehmi	Helminth	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	2 years				Colon	UBERON:feces	Colon
-12799	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
-12800	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	4 years				Colon	UBERON:feces	Colon
-12801	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	1 years				Colon	UBERON:feces	Colon
-12802	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	1 years				Colon	UBERON:feces	Colon
-12803	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	0.17 years				Colon	UBERON:feces	Colon
-12804	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	8 years				Colon	UBERON:feces	Colon
-12805	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
-12806	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	0.5 years				Colon	UBERON:feces	Colon
-12807	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	8 years				Colon	UBERON:feces	Colon
-12808	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	4 years				Colon	UBERON:feces	Colon
+12799	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
+12800	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	4 years				Colon	UBERON:feces	Colon
+12801	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	1 years				Colon	UBERON:feces	Colon
+12802	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	1 years				Colon	UBERON:feces	Colon
+12803	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	0.17 years				Colon	UBERON:feces	Colon
+12804	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	8 years				Colon	UBERON:feces	Colon
+12805	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
+12806	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	0.5 years				Colon	UBERON:feces	Colon
+12807	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	8 years				Colon	UBERON:feces	Colon
+12808	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	4 years				Colon	UBERON:feces	Colon
 12809	11	V4	Case	Trichuris vulpis	Helminth	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	5 years				Colon	UBERON:feces	Colon
 12810	11	V4	Case	Cystoisospora ohioensis	Protozoan (coccidian)	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.17 years				Colon	UBERON:feces	Colon
 12811	11	V4	Case	Eimeria spp	Protozoan (coccidian)	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	1 years				Colon	UBERON:feces	Colon
@@ -65,12 +65,12 @@ name	run_prefix_prep	region	case_control	Parasite_found_species	Parasite_found_t
 12828	11	V4	Case	Cystoisospora ohioensis	Protozoan (coccidian)	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	0.125 years				Colon	UBERON:feces	Colon
 12829	11	V4	Case	Trichuris vulpis	Helminth	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	4 years				Colon	UBERON:feces	Colon
 12830	11	V4	Case	Ancylostoma caninum	Helminth	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	0.75 years				Colon	UBERON:feces	Colon
-12831	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	1.25 years				Colon	UBERON:feces	Colon
-12832	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	13 years				Colon	UBERON:feces	Colon
+12831	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	1.25 years				Colon	UBERON:feces	Colon
+12832	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	13 years				Colon	UBERON:feces	Colon
 12833	11	V4	Case	Ancylostoma caninum	Helminth	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	4 years				Colon	UBERON:feces	Colon
 12834	11	V4	Case	Ancylostoma caninum	Helminth	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	1.8 years				Colon	UBERON:feces	Colon
 12835	11	V4	Case	Toxocara canis	Helminth	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	1.5 years				Colon	UBERON:feces	Colon
-12836	11	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	17 years				Colon	UBERON:feces	Colon
+12836	11	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	17 years				Colon	UBERON:feces	Colon
 12837	11	V4	Case	Toxocara canis	Helminth	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	0.17 years				Colon	UBERON:feces	Colon
 12838	11	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	13 years				Colon	UBERON:feces	Colon
 12839	11	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	17 years				Colon	UBERON:feces	Colon
@@ -107,7 +107,7 @@ name	run_prefix_prep	region	case_control	Parasite_found_species	Parasite_found_t
 12872	12	V4	Case	Cystoisospora ohioensis	Protozoan (coccidian)	Dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	0.3 years				Colon	UBERON:feces	Colon
 12873	12	V4	Case	Giardia	Protozoan	Dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	0.5 years				Colon	UBERON:feces	Colon
 12874	12	V4	Case	Giardia	Protozoan	Dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	0.25 years				Colon	UBERON:feces	Colon
-12875	12	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	4.5 years				Colon	UBERON:feces	Colon
+12875	12	V4	Case	Yeast	Yeast	Dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	4.5 years				Colon	UBERON:feces	Colon
 12876	12	V4	Case	Giardia	Protozoan	Dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	2.2 years				Colon	UBERON:feces	Colon
 12877	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.33 years				Colon	UBERON:feces	Colon
 12878	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	2 years				Colon	UBERON:feces	Colon
@@ -124,14 +124,14 @@ name	run_prefix_prep	region	case_control	Parasite_found_species	Parasite_found_t
 12889		V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	0.17 years				Colon	UBERON:feces	Colon
 12890		V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	1 years				Colon	UBERON:feces	Colon
 12891		V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
-12892	12	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	6 years				Colon	UBERON:feces	Colon
+12892	12	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	6 years				Colon	UBERON:feces	Colon
 12893	12	V4	Case	Giardia	Protozoan	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	14 years				Colon	UBERON:feces	Colon
-12894	12	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	7 years				Colon	UBERON:feces	Colon
-12895	12	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	12 years				Colon	UBERON:feces	Colon
+12894	12	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	7 years				Colon	UBERON:feces	Colon
+12895	12	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	12 years				Colon	UBERON:feces	Colon
 12896	12	V4	Case	Trichuris vulpis	Helminth	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	10 years				Colon	UBERON:feces	Colon
 12897	12	V4	Case	Multiple	Multiple	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	0.83 years				Colon	UBERON:feces	Colon
-12898	12	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	11 years				Colon	UBERON:feces	Colon
-12899	12	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	3 years				Colon	UBERON:feces	Colon
+12898	12	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	11 years				Colon	UBERON:feces	Colon
+12899	12	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	3 years				Colon	UBERON:feces	Colon
 12902	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	1.25 years				Colon	UBERON:feces	Colon
 12903	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	0.25 years				Colon	UBERON:feces	Colon
 12904	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.33 years				Colon	UBERON:feces	Colon
@@ -144,7 +144,7 @@ name	run_prefix_prep	region	case_control	Parasite_found_species	Parasite_found_t
 12911	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	0.17 years				Colon	UBERON:feces	Colon
 12912	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	0.17 years				Colon	UBERON:feces	Colon
 12913	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	1 years				Colon	UBERON:feces	Colon
-12914	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	IntactI	0.17 years				Colon	UBERON:feces	Colon
+12914	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.17 years				Colon	UBERON:feces	Colon
 12915	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	0.92 years				Colon	UBERON:feces	Colon
 12916	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.17 years				Colon	UBERON:feces	Colon
 12917	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	3 years				Colon	UBERON:feces	Colon
@@ -193,22 +193,22 @@ name	run_prefix_prep	region	case_control	Parasite_found_species	Parasite_found_t
 12964	12	V4	Case	Multiple	Multiple	Dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.25 years				Colon	UBERON:feces	Colon
 12965	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	0.83 years				Colon	UBERON:feces	Colon
 12966	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	6 years				Colon	UBERON:feces	Colon
-12967	12	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	6 years				Colon	UBERON:feces	Colon
+12967	12	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	6 years				Colon	UBERON:feces	Colon
 12968	12	V4	Case	Ancylostoma caninum	Helminth	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	6 years				Colon	UBERON:feces	Colon
 13034	12	V4	Control	none	none	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	6 years				Colon	UBERON:feces	Colon
-13035	12	V4	Case	Cyniclomyces guttulatus	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	15 years				Colon	UBERON:feces	Colon
+13035	12	V4	Case	Yeast	Yeast	Dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	15 years				Colon	UBERON:feces	Colon
 13182	13	V4	Case	Ancylostoma caninum	Helminth	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	9 years				Colon	UBERON:feces	Colon
 13183	13	V4	Case	Toxocara canis	Helminth	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.25 years				Colon	UBERON:feces	Colon
-13184	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	6 years				Colon	UBERON:feces	Colon
+13184	13	V4	Case	Yeast	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	6 years				Colon	UBERON:feces	Colon
 13185	13	V4	Case	Giardia	Protozoan	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	4 years				Colon	UBERON:feces	Colon
-13186	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	10 years				Colon	UBERON:feces	Colon
-13187	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	9 years				Colon	UBERON:feces	Colon
+13186	13	V4	Case	Yeast	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	10 years				Colon	UBERON:feces	Colon
+13187	13	V4	Case	Yeast	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	9 years				Colon	UBERON:feces	Colon
 13188	13	V4	Case	Toxocara canis	Helminth	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	0.25 years				Colon	UBERON:feces	Colon
 13189	13	V4	Case	Giardia	Protozoan	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	4 years				Colon	UBERON:feces	Colon
 13190	13	V4	Case	Ancylostoma caninum	Helminth	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	5 years				Colon	UBERON:feces	Colon
-13191	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
-13192	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	14 years				Colon	UBERON:feces	Colon
-13193	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	10 years				Colon	UBERON:feces	Colon
+13191	13	V4	Case	Yeast	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
+13192	13	V4	Case	Yeast	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	14 years				Colon	UBERON:feces	Colon
+13193	13	V4	Case	Yeast	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	10 years				Colon	UBERON:feces	Colon
 13194	13	V4	Control	none	none	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	0.75 years				Colon	UBERON:feces	Colon
 13195	13	V4	Control	none	none	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.25 years				Colon	UBERON:feces	Colon
 13196	13	V4	Control	none	none	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	15 years				Colon	UBERON:feces	Colon
@@ -232,21 +232,21 @@ name	run_prefix_prep	region	case_control	Parasite_found_species	Parasite_found_t
 13217	13	V4	Control	none	none	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
 13218	13	V4	Control	none	none	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	4 years				Colon	UBERON:feces	Colon
 13219	13	V4	Control	none	none	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	6 years				Colon	UBERON:feces	Colon
-13220	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	3 years				Colon	UBERON:feces	Colon
-13221	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
-13222	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
+13220	13	V4	Case	Yeast	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	3 years				Colon	UBERON:feces	Colon
+13221	13	V4	Case	Yeast	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
+13222	13	V4	Case	Yeast	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
 13223	13	V4	Case	Toxocara canis	Helminth	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.33333333 years				Colon	UBERON:feces	Colon
 13224	13	V4	Case	Multiple	Multiple	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Neutered	1 years				Colon	UBERON:feces	Colon
 13225	13	V4	Case	Ancylostoma caninum	Helminth	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	1 years				Colon	UBERON:feces	Colon
 13226	13	V4	Case	Giardia	Protozoan	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Male	Intact	0.25 years				Colon	UBERON:feces	Colon
 13228	13	V4	Case	Ancylostoma caninum	Helminth	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	3 years				Colon	UBERON:feces	Colon
-13229	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	4 years				Colon	UBERON:feces	Colon
-13230	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	4 years				Colon	UBERON:feces	Colon
+13229	13	V4	Case	Yeast	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	4 years				Colon	UBERON:feces	Colon
+13230	13	V4	Case	Yeast	Yeast	dog	Client-owned animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Spayed	4 years				Colon	UBERON:feces	Colon
 13231	13	V4	Case	Dipylidium caninum	Tapeworm	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.5 years				Colon	UBERON:feces	Colon
 13232	13	V4	Control	none	none	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	2 years				Colon	UBERON:feces	Colon
-13233	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	3 years				Colon	UBERON:feces	Colon
-13234	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	1 years				Colon	UBERON:feces	Colon
-13235	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.6 years				Colon	UBERON:feces	Colon
+13233	13	V4	Case	Yeast	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	3 years				Colon	UBERON:feces	Colon
+13234	13	V4	Case	Yeast	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	1 years				Colon	UBERON:feces	Colon
+13235	13	V4	Case	Yeast	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.6 years				Colon	UBERON:feces	Colon
 13236	13	V4	Control	none	none	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.6 years				Colon	UBERON:feces	Colon
 13237	13	V4	Case	Multiple	Multiple	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	6 years				Colon	UBERON:feces	Colon
 13238	13	V4	Case	Multiple	Multiple	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	1 years				Colon	UBERON:feces	Colon
@@ -256,16 +256,16 @@ name	run_prefix_prep	region	case_control	Parasite_found_species	Parasite_found_t
 13242	13	V4	Control	none	none	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	2 years				Colon	UBERON:feces	Colon
 13243	13	V4	Control	none	none	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.5 years				Colon	UBERON:feces	Colon
 13244	13	V4	Control	none	none	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	3 years				Colon	UBERON:feces	Colon
-13245	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.67 years				Colon	UBERON:feces	Colon
+13245	13	V4	Case	Yeast	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.67 years				Colon	UBERON:feces	Colon
 13246	13	V4	Control	none	none	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	4 years				Colon	UBERON:feces	Colon
-13247	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	1.5 years				Colon	UBERON:feces	Colon
+13247	13	V4	Case	Yeast	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	1.5 years				Colon	UBERON:feces	Colon
 13248	13	V4	Case	Trichuris vulpis	Helminth	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	4 years				Colon	UBERON:feces	Colon
 13249	13	V4	Case	Ancylostoma caninum	Helminth	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	1.1 years				Colon	UBERON:feces	Colon
-13250	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.67 years				Colon	UBERON:feces	Colon
+13250	13	V4	Case	Yeast	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.67 years				Colon	UBERON:feces	Colon
 13251	13	V4	Case	Giardia	Protozoan	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.4 years				Colon	UBERON:feces	Colon
 13252	13	V4	Control	none	none	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	7 years				Colon	UBERON:feces	Colon
-13253	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	1 years				Colon	UBERON:feces	Colon
+13253	13	V4	Case	Yeast	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	1 years				Colon	UBERON:feces	Colon
 13254	13	V4	Case	Ancylostoma caninum	Helminth	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	0.6 years				Colon	UBERON:feces	Colon
 13255	13	V4	Control	none	none	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	4 years				Colon	UBERON:feces	Colon
-13256	13	V4	Case	Cyniclomyces guttulatus	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	1 years				Colon	UBERON:feces	Colon
+13256	13	V4	Case	Yeast	Yeast	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	1 years				Colon	UBERON:feces	Colon
 13257	13	V4	Case	Trichuris vulpis	Helminth	dog	Shelter animal	Stool	Canine Microbiome during Parasite Infection (CaMP)	Female	Intact	3 years				Colon	UBERON:feces	Colon
