@@ -230,179 +230,179 @@ name	description	sourcemtoverride	samplemtoverride	run_prefix_prep	region	title	
 10283				MiSeq_1	V4	Host immune status and Leishmania induced dysbiosis	mouse	26	Colon	UBERON:feces	Colon	Stool			84	anti-IL10 mAb		6										
 10284				MiSeq_1	V4	Host immune status and Leishmania induced dysbiosis	mouse	27	Colon	UBERON:feces	Colon	Stool			84	anti-IL10 mAb		6										
 10285				MiSeq_1	V4	Host immune status and Leishmania induced dysbiosis	mouse	28	Colon	UBERON:feces	Colon	Stool			84	anti-IL10 mAb		6										
-106284				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	1	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	1	1	0	0.2							
-106285				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	1	1	0	0.2							
-106286				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	3	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	1	2	0	0.2							
-106287				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	1	2	0	0.2							
+106284				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	1	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	1	1	0	0.2							
+106285				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	1	1	0	0.2							
+106286				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	3	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	1	2	0	0.2							
+106287				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	1	2	0	0.2							
 106288				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	5	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	1	3	0	0.2							
-106289				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	1	3	0	0.2							
+106289				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	1	3	0	0.2							
 106290				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	7	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	1	4	0	0.2							
-106291				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	1	4	0	0.2							
+106291				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	1	4	0	0.2							
 106292				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	9	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	1	5	0	0.2							
-106293				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	1	5	0	0.2							
-106294				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	11	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	2	1	0	0.2							
-106295				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	2	1	0	0.2							
-106296				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	13	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	2	2	0	0.2							
-106297				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	2	2	0	0.2							
+106293				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	1	5	0	0.2							
+106294				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	11	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	2	1	0	0.2							
+106295				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	2	1	0	0.2							
+106296				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	13	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	2	2	0	0.2							
+106297				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	2	2	0	0.2							
 106298				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	15	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	2	3	0	0.2							
-106299				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	2	3	0	0.2							
+106299				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	2	3	0	0.2							
 106300				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	17	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	2	4	0	0.2							
-106301				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	2	4	0	0.2							
+106301				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	2	4	0	0.2							
 106302				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	19	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	2	5	0	0.2							
-106303				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	2	5	0	0.2							
-106304				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	21	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	3	1	0	0.2							
-106305				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	22	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	3	1	0	0.2							
-106306				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	23	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	3	2	0	0.2							
-106307				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	24	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	3	2	0	0.2							
+106303				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	2	5	0	0.2							
+106304				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	21	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	3	1	0	0.2							
+106305				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	22	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	3	1	0	0.2							
+106306				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	23	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	3	2	0	0.2							
+106307				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	24	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	3	2	0	0.2							
 106308				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	25	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	3	3	0	0.2							
-106309				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	26	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	3	3	0	0.2							
+106309				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	26	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	3	3	0	0.2							
 106310				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	27	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	3	4	0	0.2							
-106311				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	28	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	3	4	0	0.2							
+106311				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	28	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	3	4	0	0.2							
 106312				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	29	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	3	5	0	0.2							
-106313				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	30	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	3	5	0	0.2							
-106314				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	31	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	4	1	0	0.2							
-106315				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	32	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	4	1	0	0.2							
-106316				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	33	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	4	2	0	0.2							
-106317				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	34	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	4	2	0	0.2							
+106313				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	30	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	3	5	0	0.2							
+106314				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	31	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	4	1	0	0.2							
+106315				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	32	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	4	1	0	0.2							
+106316				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	33	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	4	2	0	0.2							
+106317				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	34	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	4	2	0	0.2							
 106318				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	35	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	4	3	0	0.2							
-106319				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	36	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	4	3	0	0.2							
+106319				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	36	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	4	3	0	0.2							
 106320				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	37	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	4	4	0	0.2							
-106321				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	38	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	4	4	0	0.2							
+106321				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	38	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	4	4	0	0.2							
 106322				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	39	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	4	5	0	0.2							
-106323				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	40	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	4	5	0	0.2							
-106324				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	41	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	5	1	0	0.2							
-106325				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	5	1	0	0.2							
-106326				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	43	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	5	2	0	0.2							
-106327				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Co-housed Naive	5	2	0	0.2							
+106323				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	40	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	4	5	0	0.2							
+106324				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	41	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	5	1	0	0.2							
+106325				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	5	1	0	0.2							
+106326				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	43	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	5	2	0	0.2							
+106327				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		7		Naive (co-housed)	5	2	0	0.2							
 106328				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	45	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	5	3	0	0.2							
-106329				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	5	3	0	0.2							
+106329				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	5	3	0	0.2							
 106330				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	47	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	5	4	0	0.2							
-106331				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	5	4	0	0.2							
+106331				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	5	4	0	0.2							
 106332				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	49	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7		Infected	5	5	0	0.2							
-106333				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7		Infected	5	5	0	0.2							
-106334				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	51	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Naive	6	1	0	0.2							
-106335				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Naive	6	1	0	0.2							
-106336				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	53	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Naive	6	2	0	0.2							
-106337				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	54	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Naive	6	2	0	0.2							
-106338				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	55	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Naive	6	3	0	0.2							
-106339				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	56	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Naive	6	3	0	0.2							
-106340				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	57	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Naive	6	4	0	0.2							
-106341				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	58	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Naive	6	4	0	0.2							
-106342				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	59	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Naive	6	5	0	0.3							
-106343				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	60	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		7		Naive	6	5	0	0.2							
-106236				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	57	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Naive	6	4	0	0.2							
-106237				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	58	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Naive	6	4	0	0.2							
-106238				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	59	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Naive	6	5	0	0.2							
-106239				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	60	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Naive	6	5	0	0.3							
-106240				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	61	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		N/A											
-106344				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	1	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	1	1	0	0.3							
-106345				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	1	1	0	0.2							
-106346				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	3	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	1	2	0	0.2							
-106347				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	1	2	0	0.2							
+106333				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7		Infected	5	5	0	0.2							
+106334				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	51	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		7		Naive (not co-housed)	6	1	0	0.2							
+106335				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		7		Naive (not co-housed)	6	1	0	0.2							
+106336				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	53	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		7		Naive (not co-housed)	6	2	0	0.2							
+106337				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	54	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		7		Naive (not co-housed)	6	2	0	0.2							
+106338				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	55	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		7		Naive (not co-housed)	6	3	0	0.2							
+106339				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	56	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		7		Naive (not co-housed)	6	3	0	0.2							
+106340				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	57	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		7		Naive (not co-housed)	6	4	0	0.2							
+106341				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	58	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		7		Naive (not co-housed)	6	4	0	0.2							
+106342				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	59	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		7		Naive (not co-housed)	6	5	0	0.3							
+106343				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	60	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		7		Naive (not co-housed)	6	5	0	0.2							
+106236				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	57	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		14		Naive (not co-housed)	6	4	0	0.2							
+106237				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	58	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		14		Naive (not co-housed)	6	4	0	0.2							
+106238				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	59	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		14		Naive (not co-housed)	6	5	0	0.2							
+106239				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	60	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		14		Naive (not co-housed)	6	5	0	0.3							
+106240				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	61	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin		14		N/A											
+106344				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	1	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	1	1	0	0.3							
+106345				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	1	1	0	0.2							
+106346				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	3	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	1	2	0	0.2							
+106347				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	1	2	0	0.2							
 106348				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	5	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	1	3	1	0.8							
-106349				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	1	3	0	0.2							
+106349				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	1	3	0	0.2							
 106350				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	7	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	1	4	1	0.7							
-106351				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	1	4	0	0.2							
+106351				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	1	4	0	0.2							
 106352				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	9	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	1	5	1	0.7							
-106353				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	1	5	0	0.2							
-106354				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	11	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	2	1	0	0.3							
-106355				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	2	1	0	0.2							
-106356				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	13	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	2	2	0	0.3							
-106357				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	2	2	0	0.2							
+106353				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	1	5	0	0.2							
+106354				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	11	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	2	1	0	0.3							
+106355				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	2	1	0	0.2							
+106356				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	13	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	2	2	0	0.3							
+106357				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	2	2	0	0.2							
 106358				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	15	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	2	3	1	0.5							
-106359				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	2	3	0	0.2							
+106359				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	2	3	0	0.2							
 106360				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	17	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	2	4	1	0.5							
-106361				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	2	4	0	0.2							
+106361				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	2	4	0	0.2							
 106362				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	19	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	2	5	1	0.6							
-106363				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	2	5	0	0.2							
-106364				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	41	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	5	1	0	0.2							
-106365				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	5	1	0	0.2							
-106366				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	43	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	5	2	0	0.2							
-106367				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	5	2	0	0.2							
+106363				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	2	5	0	0.2							
+106364				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	41	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	5	1	0	0.2							
+106365				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	5	1	0	0.2							
+106366				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	43	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	5	2	0	0.2							
+106367				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	5	2	0	0.2							
 106368				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	45	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	5	3	1	0.5							
-106369				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	5	3	0	0.2							
+106369				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	5	3	0	0.2							
 106370				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	47	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	5	4	1	1							
-106371				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	5	4	0	0.2							
+106371				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	5	4	0	0.2							
 106372				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	49	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	5	5	4	1.1							
-106373				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	5	5	0	0.2							
-106374				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	51	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Naive	6	1	0	0.3							
-106375				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Naive	6	1	0	0.2							
-106376				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	53	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Naive	6	2	0	0.2							
-106377				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	54	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Naive	6	2	0	0.2							
-106378				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	55	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Naive	6	3	0	0.2							
-106379				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	56	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Naive	6	3	0	0.3							
-109094				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	21	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	3	1	0	0.2							
-109095				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	22	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	3	1	0	0.2							
-109096				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	23	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	3	2	0	0.3							
-109097				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	24	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	3	2	0	0.2							
+106373				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	5	5	0	0.2							
+106374				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	51	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		14		Naive (not co-housed)	6	1	0	0.3							
+106375				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		14		Naive (not co-housed)	6	1	0	0.2							
+106376				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	53	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		14		Naive (not co-housed)	6	2	0	0.2							
+106377				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	54	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, not co-housed)"		14		Naive (not co-housed)	6	2	0	0.2							
+106378				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	55	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Naive (not co-housed)	6	3	0	0.2							
+106379				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	56	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Naive (not co-housed)	6	3	0	0.3							
+109094				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	21	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	3	1	0	0.2							
+109095				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	22	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	3	1	0	0.2							
+109096				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	23	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	3	2	0	0.3							
+109097				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	24	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	3	2	0	0.2							
 109098				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	25	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	3	3	1	0.7							
-109099				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	26	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	3	3	0	0.2							
+109099				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	26	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	3	3	0	0.2							
 109100				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	27	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	3	4	1	0.7							
-109101				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	28	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	3	4	0	0.2							
+109101				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	28	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	3	4	0	0.2							
 109102				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	29	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	3	5	1	0.7							
-109103				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	30	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	3	5	0	0.2							
-109104				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	31	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	4	1	0	0.2							
-109105				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	32	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	4	1	0	0.2							
-109106				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	33	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	4	2	0	0.3							
-109107				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	34	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	4	2	0	0.2							
+109103				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	30	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	3	5	0	0.2							
+109104				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	31	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	4	1	0	0.2							
+109105				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	32	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	4	1	0	0.2							
+109106				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	33	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	4	2	0	0.3							
+109107				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	34	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	4	2	0	0.2							
 109108				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	35	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	4	3	1	0.7							
-109109				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	36	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	4	3	0	0.2							
+109109				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	36	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	4	3	0	0.2							
 109110				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	37	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	4	4	2	0.8							
-109111				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	38	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	4	4	0	0.2							
+109111				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	38	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	4	4	0	0.2							
 109112				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	39	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		14		Infected	4	5	1	0.7							
-109113				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	40	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		14		Infected	4	5	0	0.2							
-109114				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		14		Co-housed Naive	5	2	0	0.2							
-106232				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	5	2	0	0.2							
+109113				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	40	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		14		Infected	4	5	0	0.2							
+109114				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		14		Naive (co-housed)	5	2	0	0.2							
+106232				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	5	2	0	0.2							
 106233				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	45	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	5	3	1	0.4							
-106241				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	1	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	1	1	0	0.2							
-106242				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	1	1	0	0.2							
-106243				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	3	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	1	2	0	0.2							
-106244				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	1	2	0	0.2							
+106241				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	1	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	1	1	0	0.2							
+106242				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	1	1	0	0.2							
+106243				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	3	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	1	2	0	0.2							
+106244				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	1	2	0	0.2							
 106245				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	5	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	1	3	0	0.3							
-106246				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	1	3	0	0.2							
+106246				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	1	3	0	0.2							
 106247				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	7	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	1	4	2	0.5							
-106248				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	1	4	0	0.2							
+106248				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	1	4	0	0.2							
 106249				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	9	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	1	5	0	0.3							
-106250				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	1	5	0	0.2							
-106251				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	11	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	2	1	0	0.2							
-106252				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	2	1	0	0.2							
-106253				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	13	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	2	2	0	0.2							
-106254				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	2	2	0	0.2							
+106250				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	1	5	0	0.2							
+106251				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	11	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	2	1	0	0.2							
+106252				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	2	1	0	0.2							
+106253				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	13	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	2	2	0	0.2							
+106254				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	2	2	0	0.2							
 106255				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	15	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	2	3	0	0.2							
-106256				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	2	3	0	0.2							
+106256				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	2	3	0	0.2							
 106257				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	17	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	2	4	0	0.3							
-106258				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	2	4	0	0.2							
+106258				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	2	4	0	0.2							
 106259				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	19	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	2	5	0	0.3							
-106260				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	2	5	0	0.2							
-106261				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	21	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	3	1	0	0.2							
-106262				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	22	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	3	1	0	0.2							
-106263				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	23	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	3	2	0	0.2							
-106264				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	24	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	3	2	0	0.2							
+106260				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	2	5	0	0.2							
+106261				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	21	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	3	1	0	0.2							
+106262				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	22	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	3	1	0	0.2							
+106263				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	23	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	3	2	0	0.2							
+106264				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	24	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	3	2	0	0.2							
 106265				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	25	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	3	3	2	0.7							
-106266				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	26	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	3	3	0	0.2							
+106266				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	26	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	3	3	0	0.2							
 106267				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	27	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	3	4	0	0.3							
-106268				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	28	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	3	4	0	0.2							
+106268				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	28	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	3	4	0	0.2							
 106269				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	29	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	3	5	1	0.3							
-106270				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	30	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	3	5	0	0.2							
-106271				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	31	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	4	1	0	0.2							
-106272				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	32	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	4	1	0	0.2							
-106273				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	33	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	4	2	0	0.2							
-106274				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	34	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	4	2	0	0.2							
+106270				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	30	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	3	5	0	0.2							
+106271				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	31	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	4	1	0	0.2							
+106272				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	32	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	4	1	0	0.2							
+106273				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	33	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	4	2	0	0.2							
+106274				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	34	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	4	2	0	0.2							
 106275				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	35	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	4	3	2	0.5							
-106276				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	36	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	4	3	0	0.2							
+106276				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	36	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	4	3	0	0.2							
 106277				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	37	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	4	4	0	0.3							
-106278				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	38	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	4	4	0	0.2							
+106278				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	38	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	4	4	0	0.2							
 106279				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	39	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	4	5	2	0.3							
-106280				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	40	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	4	5	0	0.2							
-106281				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	41	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	5	1	0	0.2							
-106282				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	5	1	0	0.2							
-106283				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	43	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Co-housed Naive	5	2	0	0.2							
+106280				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	40	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	4	5	0	0.2							
+106281				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	41	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	5	1	0	0.2							
+106282				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	5	1	0	0.2							
+106283				MiSeq_18	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	43	Left external ear	UBERON:skin	Sebum	Skin swab	"Control skin (naive, co-housed)"		21		Naive (co-housed)	5	2	0	0.2							
 109083				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	45	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	5	3	1	0.4							
-109084				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	5	3	0	0.2							
+109084				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	5	3	0	0.2							
 109085				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	47	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	5	4	0	0.3							
-109086				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	5	4	0	0.2							
+109086				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	5	4	0	0.2							
 109087				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	49	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21		Infected	5	5	4	0.6							
-109088				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21		Infected	5	5	0	0.2							
+109088				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21		Infected	5	5	0	0.2							
 109089				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	51	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Naive	6	1	0	0.2							
 109090				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Naive	6	1	0	0.2							
 109091				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	53	Left external ear	UBERON:skin	Sebum	Skin swab	Control skin (co-housed naive)		21		Naive	6	2	0	0.2							
@@ -418,226 +418,226 @@ name	description	sourcemtoverride	samplemtoverride	run_prefix_prep	region	title	
 109116				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	63					Control skin (co-housed naive)				N/A											
 109117				MiSeq_19	V1-V3	Impact of Leishmania infection on the skin microbiome of C57BL/6 mice	mouse	64					Control skin (co-housed naive)				N/A											
 109022				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	1	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	Isotype control antibody		1	1	0	0.2							
-109023				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	Isotype control antibody		1	1	0	0.2							
+109023				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	Isotype control antibody		1	1	0	0.2							
 109024				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	3	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	Isotype control antibody		1	2	0	0.2							
-109025				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	Isotype control antibody		1	2	0	0.2							
+109025				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	Isotype control antibody		1	2	0	0.2							
 109026				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	5	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	Isotype control antibody		1	3	0	0.2							
-109027				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	Isotype control antibody		1	3	0	0.2							
+109027				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	Isotype control antibody		1	3	0	0.2							
 109028				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	7	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	Isotype control antibody		1	4	0	0.2							
-109029				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	Isotype control antibody		1	4	0	0.2							
+109029				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	Isotype control antibody		1	4	0	0.2							
 109030				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	9	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	Isotype control antibody		1	5	0	0.2							
-109031				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	Isotype control antibody		1	5	0	0.2							
+109031				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	Isotype control antibody		1	5	0	0.2							
 109032				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	11	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	Isotype control antibody		2	1	0	0.2							
-109033				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	Isotype control antibody		2	1	0	0.2							
+109033				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	Isotype control antibody		2	1	0	0.2							
 109034				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	13	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	Isotype control antibody		2	2	0	0.2							
-109035				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	Isotype control antibody		2	2	0	0.2							
+109035				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	Isotype control antibody		2	2	0	0.2							
 109036				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	15	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	Isotype control antibody		2	3	0	0.2							
-109037				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	Isotype control antibody		2	3	0	0.2							
+109037				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	Isotype control antibody		2	3	0	0.2							
 109038				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	17	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	Isotype control antibody		2	4	0	0.2							
-109039				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	Isotype control antibody		2	4	0	0.2							
+109039				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	Isotype control antibody		2	4	0	0.2							
 109040				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	19	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	Isotype control antibody		2	5	0	0.2							
-109041				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	Isotype control antibody		2	5	0	0.2							
+109041				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	Isotype control antibody		2	5	0	0.2							
 109042				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	21	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL12 mAb		3	1	0	0.2							
-109043				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	22	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL12 mAb		3	1	0	0.2							
+109043				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	22	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL12 mAb		3	1	0	0.2							
 109044				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	23	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL12 mAb		3	2	0	0.2							
-109045				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	24	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL12 mAb		3	2	0	0.2							
+109045				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	24	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL12 mAb		3	2	0	0.2							
 109046				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	25	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL12 mAb		3	3	0	0.2							
-109047				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	26	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL12 mAb		3	3	0	0.2							
+109047				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	26	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL12 mAb		3	3	0	0.2							
 109048				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	27	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL12 mAb		3	4	0	0.2							
-109049				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	28	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL12 mAb		3	4	0	0.2							
+109049				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	28	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL12 mAb		3	4	0	0.2							
 109050				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	29	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL12 mAb		3	5	0	0.2							
-109051				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	30	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL12 mAb		3	5	0	0.2							
+109051				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	30	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL12 mAb		3	5	0	0.2							
 109052				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	31	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL12 mAb		4	1	0	0.2							
-109053				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	32	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL12 mAb		4	1	0	0.2							
+109053				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	32	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL12 mAb		4	1	0	0.2							
 109054				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	33	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL12 mAb		4	2	0	0.2							
-109055				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	34	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL12 mAb		4	2	0	0.2							
+109055				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	34	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL12 mAb		4	2	0	0.2							
 109056				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	35	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL12 mAb		4	3	0	0.2							
-109057				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	36	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL12 mAb		4	3	0	0.2							
+109057				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	36	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL12 mAb		4	3	0	0.2							
 109058				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	37	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL12 mAb		4	4	0	0.2							
-109059				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	38	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL12 mAb		4	4	0	0.2							
+109059				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	38	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL12 mAb		4	4	0	0.2							
 109060				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	39	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL12 mAb		4	5	0	0.2							
-109061				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	40	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL12 mAb		4	5	0	0.2							
+109061				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	40	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL12 mAb		4	5	0	0.2							
 109062				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	41	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL10 mAb		5	1	0	0.2							
-109063				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL10 mAb		5	1	0	0.2							
+109063				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL10 mAb		5	1	0	0.2							
 109064				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	43	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL10 mAb		5	2	0	0.2							
-109065				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL10 mAb		5	2	0	0.2							
+109065				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL10 mAb		5	2	0	0.2							
 109066				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	45	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL10 mAb		5	3	0	0.2							
-109067				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL10 mAb		5	3	0	0.2							
+109067				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL10 mAb		5	3	0	0.2							
 109068				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	47	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL10 mAb		5	4	0	0.2							
-109069				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL10 mAb		5	4	0	0.2							
+109069				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL10 mAb		5	4	0	0.2							
 109070				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	49	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL10 mAb		5	5	0	0.2							
-109071				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL10 mAb		5	5	0	0.2							
+109071				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL10 mAb		5	5	0	0.2							
 109072				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	51	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL10 mAb		6	1	0	0.2							
-109073				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL10 mAb		6	1	0	0.2							
+109073				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL10 mAb		6	1	0	0.2							
 109074				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	53	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL10 mAb		6	2	0	0.2							
-109075				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	54	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL10 mAb		6	2	0	0.2							
+109075				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	54	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL10 mAb		6	2	0	0.2							
 109076				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	55	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL10 mAb		6	3	0	0.2							
-109077				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	56	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL10 mAb		6	3	0	0.2							
+109077				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	56	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL10 mAb		6	3	0	0.2							
 109078				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	57	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL10 mAb		6	4	0	0.2							
-109079				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	58	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL10 mAb		6	4	0	0.2							
+109079				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	58	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL10 mAb		6	4	0	0.2							
 109080				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	59	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		7	anti-IL10 mAb		6	5	0	0.2							
-109081				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	60	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		7	anti-IL10 mAb		6	5	0	0.2							
+109081				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	60	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		7	anti-IL10 mAb		6	5	0	0.2							
 109082				MiSeq_19	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	61	External ear	UBERON:skin	Sebum	Skin swab			7	Negative Control												
 110433				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	1	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	Isotype control antibody		1	1	3	1.6							
-110434				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	Isotype control antibody		1	1	0	0.2							
+110434				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	Isotype control antibody		1	1	0	0.2							
 110435				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	3	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	Isotype control antibody		1	2	1	0.9							
-110436				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	Isotype control antibody		1	2	0	0.2							
+110436				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	Isotype control antibody		1	2	0	0.2							
 110437				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	5	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	Isotype control antibody		1	3	1	0.8							
-110438				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	Isotype control antibody		1	3	0	0.2							
+110438				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	Isotype control antibody		1	3	0	0.2							
 110439				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	7	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	Isotype control antibody		1	4	2	1.3							
-110440				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	Isotype control antibody		1	4	0	0.2							
+110440				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	Isotype control antibody		1	4	0	0.2							
 110441				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	9	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	Isotype control antibody		1	5	1	0.6							
-110442				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	Isotype control antibody		1	5	0	0.2							
+110442				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	Isotype control antibody		1	5	0	0.2							
 110443				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	11	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	Isotype control antibody		2	1	1	1.1							
-110444				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	Isotype control antibody		2	1	0	0.2							
+110444				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	Isotype control antibody		2	1	0	0.2							
 110445				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	13	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	Isotype control antibody		2	2	3	1							
-110446				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	Isotype control antibody		2	2	0	0.2							
+110446				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	Isotype control antibody		2	2	0	0.2							
 110447				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	15	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	Isotype control antibody		2	3	1	1.3							
-110448				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	Isotype control antibody		2	3	0	0.2							
+110448				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	Isotype control antibody		2	3	0	0.2							
 110449				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	17	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	Isotype control antibody		2	4	1	1							
-110450				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	Isotype control antibody		2	4	0	0.2							
+110450				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	Isotype control antibody		2	4	0	0.2							
 110451				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	19	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	Isotype control antibody		2	5	1	0.6							
-110452				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	Isotype control antibody		2	5	0	0.2							
+110452				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	Isotype control antibody		2	5	0	0.2							
 110453				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	21	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL12 mAb		3	1	4	1.5							
-110454				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	22	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL12 mAb		3	1	0	0.2							
+110454				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	22	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL12 mAb		3	1	0	0.2							
 110455				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	23	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL12 mAb		3	2	3	1.9							
-110456				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	24	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL12 mAb		3	2	0	0.2							
+110456				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	24	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL12 mAb		3	2	0	0.2							
 110457				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	25	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL12 mAb		3	3	3	1.6							
-110458				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	26	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL12 mAb		3	3	0	0.2							
+110458				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	26	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL12 mAb		3	3	0	0.2							
 110459				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	27	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL12 mAb		3	4	1	1.5							
-110460				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	28	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL12 mAb		3	4	0	0.2							
+110460				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	28	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL12 mAb		3	4	0	0.2							
 110461				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	29	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL12 mAb		3	5	1	2							
-110462				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	30	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL12 mAb		3	5	0	0.2							
+110462				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	30	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL12 mAb		3	5	0	0.2							
 110463				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	31	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL12 mAb		4	1	1	1.6							
-110464				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	32	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL12 mAb		4	1	0	0.2							
+110464				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	32	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL12 mAb		4	1	0	0.2							
 110465				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	33	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL12 mAb		4	2	3	2							
-110466				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	34	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL12 mAb		4	2	0	0.2							
+110466				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	34	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL12 mAb		4	2	0	0.2							
 110467				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	35	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL12 mAb		4	3	3	1.9							
-110468				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	36	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL12 mAb		4	3	0	0.2							
+110468				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	36	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL12 mAb		4	3	0	0.2							
 110469				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	37	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL12 mAb		4	4	3	2.9							
-110470				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	38	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL12 mAb		4	4	0	0.2							
+110470				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	38	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL12 mAb		4	4	0	0.2							
 110471				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	39	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL12 mAb		4	5	3	2.5							
-110472				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	40	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL12 mAb		4	5	0	0.2							
+110472				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	40	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL12 mAb		4	5	0	0.2							
 110473				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	41	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL10 mAb		5	1	3	1							
-110474				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL10 mAb		5	1	0	0.2							
+110474				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL10 mAb		5	1	0	0.2							
 110475				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	43	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL10 mAb		5	2	3	1.1							
-110476				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL10 mAb		5	2	0	0.2							
+110476				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL10 mAb		5	2	0	0.2							
 110477				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	45	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL10 mAb		5	3	3	1							
-110478				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL10 mAb		5	3	0	0.2							
+110478				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL10 mAb		5	3	0	0.2							
 110479				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	47	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL10 mAb		5	4	2	1							
-110480				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL10 mAb		5	4	0	0.2							
+110480				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL10 mAb		5	4	0	0.2							
 110481				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	49	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL10 mAb		5	5	2	1.1							
-110482				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL10 mAb		5	5	0	0.2							
+110482				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL10 mAb		5	5	0	0.2							
 110483				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	51	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL10 mAb		6	1	3	1.1							
-110484				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL10 mAb		6	1	0	0.2							
+110484				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL10 mAb		6	1	0	0.2							
 110485				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	53	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL10 mAb		6	2	3	1							
-110486				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	54	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL10 mAb		6	2	0	0.2							
+110486				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	54	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL10 mAb		6	2	0	0.2							
 110487				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	55	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL10 mAb		6	3	1	0.7							
-110488				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	56	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL10 mAb		6	3	0	0.2							
+110488				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	56	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL10 mAb		6	3	0	0.2							
 110489				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	57	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL10 mAb		6	4	2	1.3							
-110490				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	58	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL10 mAb		6	4	0	0.2							
+110490				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	58	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL10 mAb		6	4	0	0.2							
 110491				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	59	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		21	anti-IL10 mAb		6	5	3	1.1							
-110492				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	60	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		21	anti-IL10 mAb		6	5	0	0.2							
+110492				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	60	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		21	anti-IL10 mAb		6	5	0	0.2							
 110493				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	61	External ear	UBERON:skin	Sebum	Skin swab			21	Negative Control												
 110494				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	1	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	Isotype control antibody		1	1	4	0.9							
-110495				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	Isotype control antibody		1	1	0	0.2							
+110495				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	Isotype control antibody		1	1	0	0.2							
 110496				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	3	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	Isotype control antibody		1	2	1	1							
-110497				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	Isotype control antibody		1	2	0	0.2							
+110497				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	Isotype control antibody		1	2	0	0.2							
 110498				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	5	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	Isotype control antibody		1	3	1	0.6							
-110499				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	Isotype control antibody		1	3	0	0.2							
+110499				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	Isotype control antibody		1	3	0	0.2							
 110500				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	7	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	Isotype control antibody		1	4	2	1.4							
-110501				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	Isotype control antibody		1	4	0	0.2							
+110501				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	Isotype control antibody		1	4	0	0.2							
 110502				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	9	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	Isotype control antibody		1	5	2	0.4							
-110503				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	Isotype control antibody		1	5	0	0.2							
+110503				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	Isotype control antibody		1	5	0	0.2							
 110504				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	11	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	Isotype control antibody		2	1	2	1.2							
-110505				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	Isotype control antibody		2	1	0	0.2							
+110505				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	Isotype control antibody		2	1	0	0.2							
 110506				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	13	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	Isotype control antibody		2	2	2	0.8							
-110507				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	Isotype control antibody		2	2	0	0.2							
+110507				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	Isotype control antibody		2	2	0	0.2							
 110508				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	15	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	Isotype control antibody		2	3	2	1.5							
-110509				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	Isotype control antibody		2	3	0	0.2							
+110509				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	Isotype control antibody		2	3	0	0.2							
 110510				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	17	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	Isotype control antibody		2	4	1	1.1							
-110511				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	Isotype control antibody		2	4	0	0.2							
+110511				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	Isotype control antibody		2	4	0	0.2							
 110512				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	19	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	Isotype control antibody		2	5	1	0.6							
-110513				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	Isotype control antibody		2	5	0	0.2							
+110513				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	Isotype control antibody		2	5	0	0.2							
 110514				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	21	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL12 mAb		3	1	5	2							
-110515				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	22	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL12 mAb		3	1	0	0.2							
+110515				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	22	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL12 mAb		3	1	0	0.2							
 110516				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	23	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL12 mAb		3	2	4	1.6							
-110517				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	24	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL12 mAb		3	2	0	0.2							
+110517				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	24	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL12 mAb		3	2	0	0.2							
 110518				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	25	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL12 mAb		3	3	4	2.4							
-110519				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	26	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL12 mAb		3	3	0	0.2							
+110519				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	26	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL12 mAb		3	3	0	0.2							
 110520				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	27	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL12 mAb		3	4	3	1.4							
-110521				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	28	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL12 mAb		3	4	0	0.2							
+110521				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	28	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL12 mAb		3	4	0	0.2							
 110522				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	29	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL12 mAb		3	5	3	0.9							
-110523				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	30	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL12 mAb		3	5	0	0.2							
+110523				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	30	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL12 mAb		3	5	0	0.2							
 110524				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	31	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL12 mAb		4	1	3	2							
-110525				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	32	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL12 mAb		4	1	0	0.2							
+110525				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	32	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL12 mAb		4	1	0	0.2							
 110526				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	33	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL12 mAb		4	2	4	1.8							
-110527				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	34	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL12 mAb		4	2	0	0.2							
+110527				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	34	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL12 mAb		4	2	0	0.2							
 110528				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	35	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL12 mAb		4	3	3	2							
-110529				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	36	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL12 mAb		4	3	0	0.2							
+110529				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	36	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL12 mAb		4	3	0	0.2							
 110530				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	37	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL12 mAb		4	4	4	1.8							
-110531				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	38	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL12 mAb		4	4	0	0.2							
+110531				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	38	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL12 mAb		4	4	0	0.2							
 110532				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	39	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL12 mAb		4	5	4	3.3							
-110533				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	40	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL12 mAb		4	5	0	0.2							
+110533				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	40	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL12 mAb		4	5	0	0.2							
 110534				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	41	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL10 mAb		5	1	2	1.2							
-110535				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL10 mAb		5	1	0	0.2							
+110535				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL10 mAb		5	1	0	0.2							
 110536				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	43	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL10 mAb		5	2	2	0.9							
-110537				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL10 mAb		5	2	0	0.2							
+110537				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL10 mAb		5	2	0	0.2							
 110538				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	45	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL10 mAb		5	3	2	0.9							
-110539				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL10 mAb		5	3	0	0.2							
+110539				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL10 mAb		5	3	0	0.2							
 110540				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	47	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL10 mAb		5	4	2	0.9							
-110541				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL10 mAb		5	4	0	0.2							
+110541				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL10 mAb		5	4	0	0.2							
 110542				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	49	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL10 mAb		5	5	2	1							
-110543				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL10 mAb		5	5	0	0.2							
+110543				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL10 mAb		5	5	0	0.2							
 110544				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	51	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL10 mAb		6	1	3	0.9							
-110545				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL10 mAb		6	1	0	0.2							
+110545				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL10 mAb		6	1	0	0.2							
 110546				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	53	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL10 mAb		6	2	3	1							
-110547				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	54	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL10 mAb		6	2	0	0.2							
+110547				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	54	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL10 mAb		6	2	0	0.2							
 110548				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	55	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL10 mAb		6	3	3	0.8							
-110549				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	56	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL10 mAb		6	3	0	0.2							
+110549				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	56	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL10 mAb		6	3	0	0.2							
 110550				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	57	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL10 mAb		6	4	3	1.4							
-110551				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	58	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL10 mAb		6	4	0	0.2							
+110551				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	58	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL10 mAb		6	4	0	0.2							
 110552				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	59	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		28	anti-IL10 mAb		6	5	3	1.3							
-110553				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	60	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		28	anti-IL10 mAb		6	5	0	0.2							
+110553				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	60	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		28	anti-IL10 mAb		6	5	0	0.2							
 110554				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	61	External ear	UBERON:skin	Sebum	Skin swab			28	Negative Control												
 110555				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	1	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	Isotype control antibody		1	1	4	0.6							
-110556				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	Isotype control antibody		1	1	0	0.2							
+110556				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	2	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	Isotype control antibody		1	1	0	0.2							
 110557				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	3	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	Isotype control antibody		1	2	1	0.7							
-110558				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	Isotype control antibody		1	2	0	0.2							
+110558				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	4	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	Isotype control antibody		1	2	0	0.2							
 110559				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	5	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	Isotype control antibody		1	3	1	0.4							
-110560				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	Isotype control antibody		1	3	0	0.2							
+110560				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	6	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	Isotype control antibody		1	3	0	0.2							
 110561				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	7	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	Isotype control antibody		1	4	4	0.8							
-110562				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	Isotype control antibody		1	4	0	0.2							
+110562				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	8	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	Isotype control antibody		1	4	0	0.2							
 110563				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	9	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	Isotype control antibody		1	5	2	0.4							
-110564				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	Isotype control antibody		1	5	0	0.2							
+110564				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	10	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	Isotype control antibody		1	5	0	0.2							
 110565				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	11	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	Isotype control antibody		2	1	4	0.6							
-110566				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	Isotype control antibody		2	1	0	0.2							
+110566				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	12	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	Isotype control antibody		2	1	0	0.2							
 110567				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	13	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	Isotype control antibody		2	2	2	0.5							
-110568				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	Isotype control antibody		2	2	0	0.2							
+110568				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	14	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	Isotype control antibody		2	2	0	0.2							
 110569				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	15	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	Isotype control antibody		2	3	1	0.5							
-110570				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	Isotype control antibody		2	3	0	0.2							
+110570				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	16	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	Isotype control antibody		2	3	0	0.2							
 110571				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	17	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	Isotype control antibody		2	4	1	0.5							
-110572				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	Isotype control antibody		2	4	0	0.2							
+110572				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	18	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	Isotype control antibody		2	4	0	0.2							
 110573				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	19	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	Isotype control antibody		2	5	1	0.6							
-110574				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	Isotype control antibody		2	5	0	0.2							
+110574				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	20	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	Isotype control antibody		2	5	0	0.2							
 110575				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	41	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	anti-IL10 mAb		5	1	2	0.8							
-110576				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	anti-IL10 mAb		5	1	0	0.2							
+110576				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	42	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	anti-IL10 mAb		5	1	0	0.2							
 110577				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	43	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	anti-IL10 mAb		5	2	1	0.5							
-110578				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	anti-IL10 mAb		5	2	0	0.2							
+110578				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	44	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	anti-IL10 mAb		5	2	0	0.2							
 110579				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	45	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	anti-IL10 mAb		5	3	1	0.6							
-110580				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	anti-IL10 mAb		5	3	0	0.2							
+110580				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	46	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	anti-IL10 mAb		5	3	0	0.2							
 110581				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	47	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	anti-IL10 mAb		5	4	1	0.8							
-110582				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	anti-IL10 mAb		5	4	0	0.2							
+110582				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	48	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	anti-IL10 mAb		5	4	0	0.2							
 110583				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	49	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	anti-IL10 mAb		5	5	1	0.6							
-110584				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	anti-IL10 mAb		5	5	0	0.2							
+110584				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	50	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	anti-IL10 mAb		5	5	0	0.2							
 110585				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	51	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	anti-IL10 mAb		6	1	2	0.4							
-110586				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	anti-IL10 mAb		6	1	0	0.2							
+110586				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	52	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	anti-IL10 mAb		6	1	0	0.2							
 110587				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	53	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	anti-IL10 mAb		6	2	2	0.8							
-110588				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	54	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	anti-IL10 mAb		6	2	0	0.2							
+110588				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	54	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	anti-IL10 mAb		6	2	0	0.2							
 110589				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	55	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	anti-IL10 mAb		6	3	1	0.4							
-110590				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	56	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	anti-IL10 mAb		6	3	0	0.2							
+110590				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	56	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	anti-IL10 mAb		6	3	0	0.2							
 110591				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	57	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	anti-IL10 mAb		6	4	3	1.1							
-110592				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	58	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	anti-IL10 mAb		6	4	0	0.2							
+110592				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	58	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	anti-IL10 mAb		6	4	0	0.2							
 110593				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	59	Left external ear	UBERON:skin	Sebum	Skin swab	Lesion		49	anti-IL10 mAb		6	5	4	0.8							
-110594				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	60	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion		49	anti-IL10 mAb		6	5	0	0.2							
+110594				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	60	Right external ear	UBERON:skin	Sebum	Skin swab	Non-lesion (contralateral skin)		49	anti-IL10 mAb		6	5	0	0.2							
 110595				MiSeq_21	V1-V3	Host immune status and Leishmania induced dysbiosis	mouse	61	External ear	UBERON:skin	Sebum	Skin swab			49	Negative Control												
