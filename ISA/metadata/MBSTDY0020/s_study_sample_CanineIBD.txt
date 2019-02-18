@@ -29,23 +29,23 @@ name	description	sourcemtoverride	samplemtoverride	region	host_subject_id	host_c
 11559	Bandit_d0_DogRectal			V4	C166_01	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Mixed	Male	2		Rectum	UBERON:feces	Rectum	Rectal swab
 11566	Bandit_d0_DogRectal			V4	C166_01	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Mixed	Male	2		Rectum	UBERON:feces	Rectum	Rectal swab
 12227	Bandit_d28_DogFecal			V4	C166_01	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Non-diet responsive	Mixed	Male	1		Colon	UBERON:feces	Colon	Stool
-10641	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker_Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-10642	Bebe_d56_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	56	Diet responsive	Cocker_Spaniel	Female			Rectum	UBERON:feces	Rectum	Rectal swab
-10808	Bebe_d14_DogFecal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Cocker_Spaniel	Female	0		Colon	UBERON:feces	Colon	Stool
-10814	Bebe_d0_DogFecal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker_Spaniel	Female	3		Colon	UBERON:feces	Colon	Stool
-10817	Bebe_d28_DogFecal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Cocker_Spaniel	Female	0		Colon	UBERON:feces	Colon	Stool
-10867	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker_Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-10868	Bebe_d42_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Cocker_Spaniel	Female	0		Rectum	UBERON:feces	Rectum	Rectal swab
-10947	Bebe_d0_DogFecal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker_Spaniel	Female	3		Colon	UBERON:feces	Colon	Stool
-10957	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker_Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-11109	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker_Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-11513	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker_Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-11514	Bebe_d56_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	56	Diet responsive	Cocker_Spaniel	Female			Rectum	UBERON:feces	Rectum	Rectal swab
-11534	Bebe_d0_DogFecal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker_Spaniel	Female	3		Colon	UBERON:feces	Colon	Stool
-11555	Bebe_d0_DogFecal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker_Spaniel	Female	3		Colon	UBERON:feces	Colon	Stool
-11561	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker_Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-11567	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker_Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-11874	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker_Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+10641	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+10642	Bebe_d56_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	56	Diet responsive	Cocker Spaniel	Female			Rectum	UBERON:feces	Rectum	Rectal swab
+10808	Bebe_d14_DogFecal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Cocker Spaniel	Female	0		Colon	UBERON:feces	Colon	Stool
+10814	Bebe_d0_DogFecal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker Spaniel	Female	3		Colon	UBERON:feces	Colon	Stool
+10817	Bebe_d28_DogFecal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Cocker Spaniel	Female	0		Colon	UBERON:feces	Colon	Stool
+10867	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+10868	Bebe_d42_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Cocker Spaniel	Female	0		Rectum	UBERON:feces	Rectum	Rectal swab
+10947	Bebe_d0_DogFecal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker Spaniel	Female	3		Colon	UBERON:feces	Colon	Stool
+10957	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+11109	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+11513	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+11514	Bebe_d56_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	56	Diet responsive	Cocker Spaniel	Female			Rectum	UBERON:feces	Rectum	Rectal swab
+11534	Bebe_d0_DogFecal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker Spaniel	Female	3		Colon	UBERON:feces	Colon	Stool
+11555	Bebe_d0_DogFecal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker Spaniel	Female	3		Colon	UBERON:feces	Colon	Stool
+11561	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+11567	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+11874	Bebe_d0_DogRectal			V4	C166_03	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Cocker Spaniel	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
 10590	Bella_d0_DogRectal			V4	C166_15	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Mixed	Female	6		Rectum	UBERON:feces	Rectum	Rectal swab
 10595	Bella_d14_DogRectal			V4	C166_15	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Mixed	Female	9		Rectum	UBERON:feces	Rectum	Rectal swab
 10706	Bella_d14_DogFecal			V4	C166_15	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Mixed	Female	9		Colon	UBERON:feces	Colon	Stool
@@ -62,13 +62,13 @@ name	description	sourcemtoverride	samplemtoverride	region	host_subject_id	host_c
 11190	Brock_d0_DogDuodenum			V4	C166_12	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Mixed	Male	7		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
 11217	Brock_d0_DogStomach			V4	C166_12	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Mixed	Male	7		Stomach	gastric juice	Stomach	Stomach biopsy
 11570	Brock_d0_DogDuodenum			V4	C166_12	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Mixed	Male	7		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-10574	Buddy_d_DogRectal			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis		Protein-losing enteropathy	Labrador	Male			Rectum	UBERON:feces	Rectum	Rectal swab
-10585	Buddy_d0_DogRectal			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Labrador	Male	6		Rectum	UBERON:feces	Rectum	Rectal swab
-10654	Buddy_d0_DogFecal			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Labrador	Male	6		Colon	UBERON:feces	Colon	Stool
-10655	Buddy_d14_DogFecal			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Labrador	Male	6		Colon	UBERON:feces	Colon	Stool
-10887	Buddy_d0_DogFecal			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Labrador	Male	6		Colon	UBERON:feces	Colon	Stool
-11195	Buddy_d0_DogDuodenum			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Labrador	Male	6		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11222	Buddy_d0_DogStomach			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Labrador	Male	6		Stomach	gastric juice	Stomach	Stomach biopsy
+10574	Buddy_d_DogRectal			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis		Protein-losing enteropathy	Labrador Retriever	Male			Rectum	UBERON:feces	Rectum	Rectal swab
+10585	Buddy_d0_DogRectal			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Labrador Retriever	Male	6		Rectum	UBERON:feces	Rectum	Rectal swab
+10654	Buddy_d0_DogFecal			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Labrador Retriever	Male	6		Colon	UBERON:feces	Colon	Stool
+10655	Buddy_d14_DogFecal			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Labrador Retriever	Male	6		Colon	UBERON:feces	Colon	Stool
+10887	Buddy_d0_DogFecal			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Labrador Retriever	Male	6		Colon	UBERON:feces	Colon	Stool
+11195	Buddy_d0_DogDuodenum			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Labrador Retriever	Male	6		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11222	Buddy_d0_DogStomach			V4	C166_17	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Labrador Retriever	Male	6		Stomach	gastric juice	Stomach	Stomach biopsy
 10636	Bugsy_d0_DogRectal			V4	C166_06	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Mixed	Male	4		Rectum	UBERON:feces	Rectum	Rectal swab
 10645	Bugsy_d42_DogRectal			V4	C166_06	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Mixed	Male	1		Rectum	UBERON:feces	Rectum	Rectal swab
 10818	Bugsy_d14_DogFecal			V4	C166_06	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Mixed	Male	1		Colon	UBERON:feces	Colon	Stool
@@ -110,34 +110,34 @@ name	description	sourcemtoverride	samplemtoverride	region	host_subject_id	host_c
 11863	Georgio_d0_DogStomach			V4	C166_32	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Greyhound	Male	3		Stomach	gastric juice	Stomach	Stomach biopsy
 12190	Georgio_d0_DogRectal			V4	C166_32	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Greyhound	Male	3		Rectum	UBERON:feces	Rectum	Rectal swab
 12191	Georgio_d42_DogRectal			V4	C166_32	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Greyhound	Male	1		Rectum	UBERON:feces	Rectum	Rectal swab
-10581	Gidget_d42_DogRectal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire_terrier	Female	0		Rectum	UBERON:feces	Rectum	Rectal swab
-10582	Gidget_d0_DogRectal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Yorkshire_terrier	Female	5		Rectum	UBERON:feces	Rectum	Rectal swab
-10832	Gidget_d0_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Yorkshire_terrier	Female	5		Colon	UBERON:feces	Colon	Stool
-10841	Gidget_d14_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Non-diet responsive	Yorkshire_terrier	Female	4		Colon	UBERON:feces	Colon	Stool
-10845	Gidget_d28_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Non-diet responsive	Yorkshire_terrier	Female	3		Colon	UBERON:feces	Colon	Stool
-10846	Gidget_d42_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire_terrier	Female	0		Colon	UBERON:feces	Colon	Stool
-10872	Gidget_d42_DogRectal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire_terrier	Female	0		Rectum	UBERON:feces	Rectum	Rectal swab
-10913	Gidget_d42_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire_terrier	Female	0		Colon	UBERON:feces	Colon	Stool
-10950	Gidget_d42_DogRectal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire_terrier	Female	0		Rectum	UBERON:feces	Rectum	Rectal swab
-11188	Gidget_d0_DogDuodenum			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Yorkshire_terrier	Female	5		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11215	Gidget_d0_DogStomach			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Yorkshire_terrier	Female	5		Stomach	gastric juice	Stomach	Stomach biopsy
-11509	Gidget_d0_DogRectal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Yorkshire_terrier	Female	5		Rectum	UBERON:feces	Rectum	Rectal swab
-11522	Gidget_d42_DogRectal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire_terrier	Female	0		Rectum	UBERON:feces	Rectum	Rectal swab
-11544	Gidget_d42_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire_terrier	Female	0		Colon	UBERON:feces	Colon	Stool
+10581	Gidget_d42_DogRectal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire Terrier	Female	0		Rectum	UBERON:feces	Rectum	Rectal swab
+10582	Gidget_d0_DogRectal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Yorkshire Terrier	Female	5		Rectum	UBERON:feces	Rectum	Rectal swab
+10832	Gidget_d0_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Yorkshire Terrier	Female	5		Colon	UBERON:feces	Colon	Stool
+10841	Gidget_d14_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Non-diet responsive	Yorkshire Terrier	Female	4		Colon	UBERON:feces	Colon	Stool
+10845	Gidget_d28_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Non-diet responsive	Yorkshire Terrier	Female	3		Colon	UBERON:feces	Colon	Stool
+10846	Gidget_d42_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire Terrier	Female	0		Colon	UBERON:feces	Colon	Stool
+10872	Gidget_d42_DogRectal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire Terrier	Female	0		Rectum	UBERON:feces	Rectum	Rectal swab
+10913	Gidget_d42_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire Terrier	Female	0		Colon	UBERON:feces	Colon	Stool
+10950	Gidget_d42_DogRectal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire Terrier	Female	0		Rectum	UBERON:feces	Rectum	Rectal swab
+11188	Gidget_d0_DogDuodenum			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Yorkshire Terrier	Female	5		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11215	Gidget_d0_DogStomach			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Yorkshire Terrier	Female	5		Stomach	gastric juice	Stomach	Stomach biopsy
+11509	Gidget_d0_DogRectal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Yorkshire Terrier	Female	5		Rectum	UBERON:feces	Rectum	Rectal swab
+11522	Gidget_d42_DogRectal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire Terrier	Female	0		Rectum	UBERON:feces	Rectum	Rectal swab
+11544	Gidget_d42_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Yorkshire Terrier	Female	0		Colon	UBERON:feces	Colon	Stool
 12636	Gidget_d0_DogFecal			V4	C166_10	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Yorkshire Terrier	Female	5		Colon	UBERON:feces	Colon	Stool
-10640	Gracie_d0_DogRectal			V4	C166_02	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Sealyham_terrier	Female			Rectum	UBERON:feces	Rectum	Rectal swab
-10866	Gracie_d0_DogRectal			V4	C166_02	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Sealyham_terrier	Female			Rectum	UBERON:feces	Rectum	Rectal swab
-10956	Gracie_d0_DogRectal			V4	C166_02	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Sealyham_terrier	Female			Rectum	UBERON:feces	Rectum	Rectal swab
-11512	Gracie_d0_DogRectal			V4	C166_02	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Sealyham_terrier	Female			Rectum	UBERON:feces	Rectum	Rectal swab
-11560	Gracie_d0_DogRectal			V4	C166_02	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Sealyham_terrier	Female			Rectum	UBERON:feces	Rectum	Rectal swab
-11703	Gunner_d0_DogFecal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	German_Shepherd	Male	7		Colon	UBERON:feces	Colon	Stool
-11704	Gunner_d14_DogFecal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	German_Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
-11705	Gunner_d42_DogFecal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	German_Shepherd	Male	0		Colon	UBERON:feces	Colon	Stool
-11714	Gunner_d0_DogRectal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	German_Shepherd	Male	7		Colon	UBERON:feces	Colon	Rectal swab
-11715	Gunner_d42_DogRectal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	German_Shepherd	Male	0		Colon	UBERON:feces	Colon	Rectal swab
-11792	Gunner_d28_DogFecal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	German_Shepherd	Male	1		Colon	UBERON:feces	Colon	Stool
-11860	Gunner_d0_DogDuodenum			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	German_Shepherd	Male	7		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11864	Gunner_d0_DogStomach			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	German_Shepherd	Male	7		Stomach	gastric juice	Stomach	Stomach biopsy
+10640	Gracie_d0_DogRectal			V4	C166_02	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Sealyham Terrier	Female			Rectum	UBERON:feces	Rectum	Rectal swab
+10866	Gracie_d0_DogRectal			V4	C166_02	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Sealyham Terrier	Female			Rectum	UBERON:feces	Rectum	Rectal swab
+10956	Gracie_d0_DogRectal			V4	C166_02	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Sealyham Terrier	Female			Rectum	UBERON:feces	Rectum	Rectal swab
+11512	Gracie_d0_DogRectal			V4	C166_02	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Sealyham Terrier	Female			Rectum	UBERON:feces	Rectum	Rectal swab
+11560	Gracie_d0_DogRectal			V4	C166_02	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Sealyham Terrier	Female			Rectum	UBERON:feces	Rectum	Rectal swab
+11703	Gunner_d0_DogFecal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	German Shepherd	Male	7		Colon	UBERON:feces	Colon	Stool
+11704	Gunner_d14_DogFecal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	German Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
+11705	Gunner_d42_DogFecal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	German Shepherd	Male	0		Colon	UBERON:feces	Colon	Stool
+11714	Gunner_d0_DogRectal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	German Shepherd	Male	7		Colon	UBERON:feces	Colon	Rectal swab
+11715	Gunner_d42_DogRectal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	German Shepherd	Male	0		Colon	UBERON:feces	Colon	Rectal swab
+11792	Gunner_d28_DogFecal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	German Shepherd	Male	1		Colon	UBERON:feces	Colon	Stool
+11860	Gunner_d0_DogDuodenum			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	German Shepherd	Male	7		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11864	Gunner_d0_DogStomach			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	German Shepherd	Male	7		Stomach	gastric juice	Stomach	Stomach biopsy
 12192	Gunner_d0_DogDuodenum			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	German Shepherd	Male	7		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
 12193	Gunner_d0_DogFecal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	German Shepherd	Male	7		Colon	UBERON:feces	Colon	Stool
 12194	Gunner_d14_DogFecal			V4	C166_33	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	German Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
@@ -175,38 +175,38 @@ name	description	sourcemtoverride	samplemtoverride	region	host_subject_id	host_c
 12205	Juniata_d0_DogStomach			V4	C166_34	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Greyhound	Female	4		Stomach	gastric juice	Stomach	Stomach biopsy
 12641	Juniata_d0_DogFecal			V4	C166_34	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Greyhound	Female	4		Colon	UBERON:feces	Colon	Stool
 12642	Juniata_d14_DogFecal			V4	C166_34	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Greyhound	Female	2		Colon	UBERON:feces	Colon	Stool
-10900	Kodiak_d0_DogRectal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater_Swiss_Mountain_Dog	Male	4		Rectum	UBERON:feces	Rectum	Rectal swab
-10910	Kodiak_d0_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater_Swiss_Mountain_Dog	Male	4		Colon	UBERON:feces	Colon	Stool
-11201	Kodiak_d0_DogDuodenum			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater_Swiss_Mountain_Dog	Male	4		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11227	Kodiak_d0_DogStomach			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater_Swiss_Mountain_Dog	Male	4		Stomach	gastric juice	Stomach	Stomach biopsy
-11545	Kodiak_d0_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater_Swiss_Mountain_Dog	Male	4		Colon	UBERON:feces	Colon	Stool
-11576	Kodiak_d0_DogDuodenum			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater_Swiss_Mountain_Dog	Male	4		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11732	Kodiak_d0_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater_Swiss_Mountain_Dog	Male	4		Colon	UBERON:feces	Colon	Stool
-11733	Kodiak_d14_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Non-diet responsive	Greater_Swiss_Mountain_Dog	Male	5		Colon	UBERON:feces	Colon	Stool
-11734	Kodiak_d28_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Non-diet responsive	Greater_Swiss_Mountain_Dog	Male	2		Colon	UBERON:feces	Colon	Stool
-11735	Kodiak_d42_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Greater_Swiss_Mountain_Dog	Male	1		Colon	UBERON:feces	Colon	Stool
-12206	Kodiak_d14_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Non-diet responsive	Greater Swiss Mtn Dog	Male	5		Colon	UBERON:feces	Colon	Stool
-12207	Kodiak_d42_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Greater Swiss Mtn Dog	Male	1		Colon	UBERON:feces	Colon	Stool
-12208	Kodiak_d0_DogStomach			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater Swiss Mtn Dog	Male	4		Stomach	gastric juice	Stomach	Stomach biopsy
+10900	Kodiak_d0_DogRectal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater Swiss Mountain	Male	4		Rectum	UBERON:feces	Rectum	Rectal swab
+10910	Kodiak_d0_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater Swiss Mountain	Male	4		Colon	UBERON:feces	Colon	Stool
+11201	Kodiak_d0_DogDuodenum			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater Swiss Mountain	Male	4		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11227	Kodiak_d0_DogStomach			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater Swiss Mountain	Male	4		Stomach	gastric juice	Stomach	Stomach biopsy
+11545	Kodiak_d0_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater Swiss Mountain	Male	4		Colon	UBERON:feces	Colon	Stool
+11576	Kodiak_d0_DogDuodenum			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater Swiss Mountain	Male	4		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11732	Kodiak_d0_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater Swiss Mountain	Male	4		Colon	UBERON:feces	Colon	Stool
+11733	Kodiak_d14_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Non-diet responsive	Greater Swiss Mountain	Male	5		Colon	UBERON:feces	Colon	Stool
+11734	Kodiak_d28_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Non-diet responsive	Greater Swiss Mountain	Male	2		Colon	UBERON:feces	Colon	Stool
+11735	Kodiak_d42_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Greater Swiss Mountain	Male	1		Colon	UBERON:feces	Colon	Stool
+12206	Kodiak_d14_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Non-diet responsive	Greater Swiss Mountain	Male	5		Colon	UBERON:feces	Colon	Stool
+12207	Kodiak_d42_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Greater Swiss Mountain	Male	1		Colon	UBERON:feces	Colon	Stool
+12208	Kodiak_d0_DogStomach			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Greater Swiss Mountain	Male	4		Stomach	gastric juice	Stomach	Stomach biopsy
 12638	Kodiak_d14_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Non-diet responsive	Greater Swiss Mountain	Male	5		Colon	UBERON:feces	Colon	Stool
 12639	Kodiak_d42_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Greater Swiss Mountain	Male	1		Colon	UBERON:feces	Colon	Stool
-12750	Kodiak_d28_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Non-diet responsive	Greater_Swiss_Mountain_Dog	Male	2		Colon	UBERON:feces	Colon	Stool
+12750	Kodiak_d28_DogFecal			V4	C166_22	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Non-diet responsive	Greater Swiss Mountain	Male	2		Colon	UBERON:feces	Colon	Stool
 12628	Korra_d_DogFecal			V4	C166_control_9	Dog	Dietary Therapy In Canine Chronic Enteritis		Healthy					Colon	UBERON:feces	Colon	Stool
 12620	Lily_d_DogFecal			V4	C166_control_1	Dog	Dietary Therapy In Canine Chronic Enteritis		Healthy					Colon	UBERON:feces	Colon	Stool
 12627	Lizzie_d_DogFecal			V4	C166_control_8	Dog	Dietary Therapy In Canine Chronic Enteritis		Healthy					Colon	UBERON:feces	Colon	Stool
 12753	Lizzie_d_DogFecal			V4	C166_control_8	Dog	Dietary Therapy In Canine Chronic Enteritis		Healthy					Colon	UBERON:feces	Colon	Stool
-10898	Maude_d0_DogRectal			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer_Pit_Bull_Terrier	Female	5		Rectum	UBERON:feces	Rectum	Rectal swab
-10899	Maude_d42_DogRectal			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Amer_Pit_Bull_Terrier	Female	1		Rectum	UBERON:feces	Rectum	Rectal swab
-10905	Maude_d0_DogFecal			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer_Pit_Bull_Terrier	Female	5		Colon	UBERON:feces	Colon	Stool
-10906	Maude_d14_DogFecal			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Amer_Pit_Bull_Terrier	Female	3		Colon	UBERON:feces	Colon	Stool
-10907	Maude_d28_DogFecal			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Amer_Pit_Bull_Terrier	Female	1		Colon	UBERON:feces	Colon	Stool
-10908	Maude_d42_DogFecal			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Amer_Pit_Bull_Terrier	Female	1		Colon	UBERON:feces	Colon	Stool
-11200	Maude_d0_DogDuodenum			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer_Pit_Bull_Terrier	Female	5		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11226	Maude_d0_DogStomach			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer_Pit_Bull_Terrier	Female	5		Stomach	gastric juice	Stomach	Stomach biopsy
-11575	Maude_d0_DogDuodenum			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer_Pit_Bull_Terrier	Female	5		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-12228	Mila_d42_DogFecal			V4	C166_38	Dog	Dietary Therapy In Canine Chronic Enteritis	42		MIX	Female	1		Colon	UBERON:feces	Colon	Stool
-12244	Mila_d0_DogDuodenum			V4	C166_38	Dog	Dietary Therapy In Canine Chronic Enteritis	0		MIX	Female	5		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-12245	Mila_d0_DogStomach			V4	C166_38	Dog	Dietary Therapy In Canine Chronic Enteritis	0		MIX	Female	5		Stomach	gastric juice	Stomach	Stomach biopsy
+10898	Maude_d0_DogRectal			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer Pit Bull Terrier	Female	5		Rectum	UBERON:feces	Rectum	Rectal swab
+10899	Maude_d42_DogRectal			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Amer Pit Bull Terrier	Female	1		Rectum	UBERON:feces	Rectum	Rectal swab
+10905	Maude_d0_DogFecal			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer Pit Bull Terrier	Female	5		Colon	UBERON:feces	Colon	Stool
+10906	Maude_d14_DogFecal			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Amer Pit Bull Terrier	Female	3		Colon	UBERON:feces	Colon	Stool
+10907	Maude_d28_DogFecal			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Amer Pit Bull Terrier	Female	1		Colon	UBERON:feces	Colon	Stool
+10908	Maude_d42_DogFecal			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Amer Pit Bull Terrier	Female	1		Colon	UBERON:feces	Colon	Stool
+11200	Maude_d0_DogDuodenum			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer Pit Bull Terrier	Female	5		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11226	Maude_d0_DogStomach			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer Pit Bull Terrier	Female	5		Stomach	gastric juice	Stomach	Stomach biopsy
+11575	Maude_d0_DogDuodenum			V4	C166_21	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer Pit Bull Terrier	Female	5		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+12228	Mila_d42_DogFecal			V4	C166_38	Dog	Dietary Therapy In Canine Chronic Enteritis	42		Mixed	Female	1		Colon	UBERON:feces	Colon	Stool
+12244	Mila_d0_DogDuodenum			V4	C166_38	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Mixed	Female	5		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+12245	Mila_d0_DogStomach			V4	C166_38	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Mixed	Female	5		Stomach	gastric juice	Stomach	Stomach biopsy
 12643	Mock_d_			V4	Mock	Dog	Dietary Therapy In Canine Chronic Enteritis										
 12653	Mock_d_			V4	Control	Dog	Dietary Therapy In Canine Chronic Enteritis										
 11196	_d_DogBlank			V4		Dog	Dietary Therapy In Canine Chronic Enteritis										Blank
@@ -239,20 +239,20 @@ name	description	sourcemtoverride	samplemtoverride	region	host_subject_id	host_c
 11548	Olivia_d28_DogFecal			V4	C166_09	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Non-diet responsive	Dachshund	Female	4		Colon	UBERON:feces	Colon	Stool
 11549	Olivia_d42_DogFecal			V4	C166_09	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Dachshund	Female	3		Colon	UBERON:feces	Colon	Stool
 11550	Olivia_d56_DogFecal			V4	C166_09	Dog	Dietary Therapy In Canine Chronic Enteritis	56	Non-diet responsive	Dachshund	Female			Colon	UBERON:feces	Colon	Stool
-12231	Opie_d0_DogFecal			V4	C166_40	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Mix	Male	2		Colon	UBERON:feces	Colon	Stool
-12233	Opie_d28_DogFecal			V4	C166_40	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Mix	Male	0		Colon	UBERON:feces	Colon	Stool
-12235	Opie_d14_DogFecal			V4	C166_40	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Mix	Male	0		Colon	UBERON:feces	Colon	Stool
-12237	Opie_d42_DogFecal			V4	C166_40	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Mix	Male	0		Colon	UBERON:feces	Colon	Stool
-10892	Paisley_d0_DogFecal			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer_Pit_Bull_Terrier	Female	3		Colon	UBERON:feces	Colon	Stool
-10893	Paisley_d14_DogFecal			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Amer_Pit_Bull_Terrier	Female	0		Colon	UBERON:feces	Colon	Stool
-10896	Paisley_d0_DogRectal			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer_Pit_Bull_Terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-10902	Paisley_d42_DogRectal			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Amer_Pit_Bull_Terrier	Female	1		Rectum	UBERON:feces	Rectum	Rectal swab
-10903	Paisley_d28_DogFecal			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Amer_Pit_Bull_Terrier	Female	3		Colon	UBERON:feces	Colon	Stool
-10904	Paisley_d42_DogFecal			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Amer_Pit_Bull_Terrier	Female	1		Colon	UBERON:feces	Colon	Stool
-11199	Paisley_d0_DogDuodenum			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer_Pit_Bull_Terrier	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11225	Paisley_d0_DogStomach			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer_Pit_Bull_Terrier	Female	3		Stomach	gastric juice	Stomach	Stomach biopsy
-11574	Paisley_d0_DogDuodenum			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer_Pit_Bull_Terrier	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-12209	Paisley_d0_DogDuodenum			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer_Pit_Bull_Terrier	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+12231	Opie_d0_DogFecal			V4	C166_40	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Mixed	Male	2		Colon	UBERON:feces	Colon	Stool
+12233	Opie_d28_DogFecal			V4	C166_40	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Mixed	Male	0		Colon	UBERON:feces	Colon	Stool
+12235	Opie_d14_DogFecal			V4	C166_40	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Mixed	Male	0		Colon	UBERON:feces	Colon	Stool
+12237	Opie_d42_DogFecal			V4	C166_40	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Mixed	Male	0		Colon	UBERON:feces	Colon	Stool
+10892	Paisley_d0_DogFecal			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer Pit Bull Terrier	Female	3		Colon	UBERON:feces	Colon	Stool
+10893	Paisley_d14_DogFecal			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Amer Pit Bull Terrier	Female	0		Colon	UBERON:feces	Colon	Stool
+10896	Paisley_d0_DogRectal			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer Pit Bull Terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+10902	Paisley_d42_DogRectal			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Amer Pit Bull Terrier	Female	1		Rectum	UBERON:feces	Rectum	Rectal swab
+10903	Paisley_d28_DogFecal			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Amer Pit Bull Terrier	Female	3		Colon	UBERON:feces	Colon	Stool
+10904	Paisley_d42_DogFecal			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Amer Pit Bull Terrier	Female	1		Colon	UBERON:feces	Colon	Stool
+11199	Paisley_d0_DogDuodenum			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer Pit Bull Terrier	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11225	Paisley_d0_DogStomach			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer Pit Bull Terrier	Female	3		Stomach	gastric juice	Stomach	Stomach biopsy
+11574	Paisley_d0_DogDuodenum			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer Pit Bull Terrier	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+12209	Paisley_d0_DogDuodenum			V4	C166_20	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Amer Pit Bull Terrier	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
 12754	Penny_d_DogFecal			V4	C166_control_11	Dog	Dietary Therapy In Canine Chronic Enteritis		Healthy					Colon	UBERON:feces	Colon	Stool
 12630	Penny _d_DogFecal			V4	C166_control_11	Dog	Dietary Therapy In Canine Chronic Enteritis		Healthy					Colon	UBERON:feces	Colon	Stool
 12634	Pepe_d0_DogFecal			V4	C166_41	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Poodle	Male	8		Colon	UBERON:feces	Colon	Stool
@@ -270,37 +270,37 @@ name	description	sourcemtoverride	samplemtoverride	region	host_subject_id	host_c
 11209	Rascal_d0_DogStomach			V4	C166_05	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Beagle	Female	6		Stomach	gastric juice	Stomach	Stomach biopsy
 11532	Rascal_d42_DogFecal			V4	C166_05	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Beagle	Female	4		Colon	UBERON:feces	Colon	Stool
 11552	Rascal_d42_DogFecal			V4	C166_05	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Beagle	Female	4		Colon	UBERON:feces	Colon	Stool
-10593	Rocky_d14_DogRectal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Shiba_Inu	Male	1		Rectum	UBERON:feces	Rectum	Rectal swab
-10594	Rocky_d0_DogRectal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Shiba_Inu	Male	5		Rectum	UBERON:feces	Rectum	Rectal swab
-10707	Rocky_d0_DogFecal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Shiba_Inu	Male	5		Colon	UBERON:feces	Colon	Stool
-10714	Rocky_d0_DogFecal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Shiba_Inu	Male	5		Colon	UBERON:feces	Colon	Stool
-10715	Rocky_d14_DogFecal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Shiba_Inu	Male	1		Colon	UBERON:feces	Colon	Stool
-10875	Rocky_d14_DogRectal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Shiba_Inu	Male	1		Rectum	UBERON:feces	Rectum	Rectal swab
-10954	Rocky_d14_DogRectal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Shiba_Inu	Male	1		Rectum	UBERON:feces	Rectum	Rectal swab
-11192	Rocky_d0_DogDuodenum			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Shiba_Inu	Male	5		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11219	Rocky_d0_DogStomach			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Shiba_Inu	Male	5		Stomach	gastric juice	Stomach	Stomach biopsy
-11510	Rocky_d14_DogRectal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Shiba_Inu	Male	1		Rectum	UBERON:feces	Rectum	Rectal swab
-11558	Rocky_d14_DogRectal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Shiba_Inu	Male	1		Rectum	UBERON:feces	Rectum	Rectal swab
-11696	Sadie_d0_DogFecal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador_Retriever	Female	3		Colon	UBERON:feces	Colon	Stool
-11697	Sadie_d14_DogFecal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Labrador_Retriever	Female	2		Colon	UBERON:feces	Colon	Stool
-11698	Sadie_d42_DogFecal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Labrador_Retriever	Female	1		Colon	UBERON:feces	Colon	Stool
-11710	Sadie_d0_DogRectal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador_Retriever	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-11711	Sadie_d42_DogRectal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Labrador_Retriever	Female	1		Rectum	UBERON:feces	Rectum	Rectal swab
-11795	Sadie_d0_DogDuodenum			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador_Retriever	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11862	Sadie_d0_DogStomach			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador_Retriever	Female	3		Stomach	gastric juice	Stomach	Stomach biopsy
-11868	Sadie_d28_DogFecal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Labrador_Retriever	Female	0		Colon	UBERON:feces	Colon	Stool
-12210	Sadie_d0_DogDuodenum			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador_Retriever	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-12211	Sadie_d14_DogFecal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Labrador_Retriever	Female	2		Colon	UBERON:feces	Colon	Stool
-12212	Sadie_d42_DogFecal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Labrador_Retriever	Female	1		Colon	UBERON:feces	Colon	Stool
-12213	Sadie_d42_DogRectal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Labrador_Retriever	Female	1		Rectum	UBERON:feces	Rectum	Rectal swab
-12214	Sadie_d0_DogStomach			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador_Retriever	Female	3		Stomach	gastric juice	Stomach	Stomach biopsy
-10889	Sampson_d0_DogFecal			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German_Shepherd	Male	7		Colon	UBERON:feces	Colon	Stool
-10890	Sampson_d14_DogFecal			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	German_Shepherd	Male	8		Colon	UBERON:feces	Colon	Stool
-10894	Sampson_d0_DogRectal			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German_Shepherd	Male	7		Rectum	UBERON:feces	Rectum	Rectal swab
-10897	Sampson_d14_DogRectal			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	German_Shepherd	Male	8		Rectum	UBERON:feces	Rectum	Rectal swab
-11198	Sampson_d0_DogDuodenum			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German_Shepherd	Male	7		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11224	Sampson_d0_DogStomach			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German_Shepherd	Male	7		Stomach	gastric juice	Stomach	Stomach biopsy
-11573	Sampson_d0_DogDuodenum			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German_Shepherd	Male	7		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+10593	Rocky_d14_DogRectal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Shiba Inu	Male	1		Rectum	UBERON:feces	Rectum	Rectal swab
+10594	Rocky_d0_DogRectal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Shiba Inu	Male	5		Rectum	UBERON:feces	Rectum	Rectal swab
+10707	Rocky_d0_DogFecal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Shiba Inu	Male	5		Colon	UBERON:feces	Colon	Stool
+10714	Rocky_d0_DogFecal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Shiba Inu	Male	5		Colon	UBERON:feces	Colon	Stool
+10715	Rocky_d14_DogFecal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Shiba Inu	Male	1		Colon	UBERON:feces	Colon	Stool
+10875	Rocky_d14_DogRectal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Shiba Inu	Male	1		Rectum	UBERON:feces	Rectum	Rectal swab
+10954	Rocky_d14_DogRectal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Shiba Inu	Male	1		Rectum	UBERON:feces	Rectum	Rectal swab
+11192	Rocky_d0_DogDuodenum			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Shiba Inu	Male	5		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11219	Rocky_d0_DogStomach			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Shiba Inu	Male	5		Stomach	gastric juice	Stomach	Stomach biopsy
+11510	Rocky_d14_DogRectal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Shiba Inu	Male	1		Rectum	UBERON:feces	Rectum	Rectal swab
+11558	Rocky_d14_DogRectal			V4	C166_14	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Shiba Inu	Male	1		Rectum	UBERON:feces	Rectum	Rectal swab
+11696	Sadie_d0_DogFecal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador Retriever	Female	3		Colon	UBERON:feces	Colon	Stool
+11697	Sadie_d14_DogFecal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Labrador Retriever	Female	2		Colon	UBERON:feces	Colon	Stool
+11698	Sadie_d42_DogFecal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Labrador Retriever	Female	1		Colon	UBERON:feces	Colon	Stool
+11710	Sadie_d0_DogRectal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador Retriever	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+11711	Sadie_d42_DogRectal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Labrador Retriever	Female	1		Rectum	UBERON:feces	Rectum	Rectal swab
+11795	Sadie_d0_DogDuodenum			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador Retriever	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11862	Sadie_d0_DogStomach			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador Retriever	Female	3		Stomach	gastric juice	Stomach	Stomach biopsy
+11868	Sadie_d28_DogFecal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Labrador Retriever	Female	0		Colon	UBERON:feces	Colon	Stool
+12210	Sadie_d0_DogDuodenum			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador Retriever	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+12211	Sadie_d14_DogFecal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Labrador Retriever	Female	2		Colon	UBERON:feces	Colon	Stool
+12212	Sadie_d42_DogFecal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Labrador Retriever	Female	1		Colon	UBERON:feces	Colon	Stool
+12213	Sadie_d42_DogRectal			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Labrador Retriever	Female	1		Rectum	UBERON:feces	Rectum	Rectal swab
+12214	Sadie_d0_DogStomach			V4	C166_31	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador Retriever	Female	3		Stomach	gastric juice	Stomach	Stomach biopsy
+10889	Sampson_d0_DogFecal			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German Shepherd	Male	7		Colon	UBERON:feces	Colon	Stool
+10890	Sampson_d14_DogFecal			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	German Shepherd	Male	8		Colon	UBERON:feces	Colon	Stool
+10894	Sampson_d0_DogRectal			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German Shepherd	Male	7		Rectum	UBERON:feces	Rectum	Rectal swab
+10897	Sampson_d14_DogRectal			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	German Shepherd	Male	8		Rectum	UBERON:feces	Rectum	Rectal swab
+11198	Sampson_d0_DogDuodenum			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German Shepherd	Male	7		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11224	Sampson_d0_DogStomach			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German Shepherd	Male	7		Stomach	gastric juice	Stomach	Stomach biopsy
+11573	Sampson_d0_DogDuodenum			V4	C166_19	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German Shepherd	Male	7		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
 11745	Samson_d0_DogFecal			V4	C166_28	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Golden Retriever	Male	5		Colon	UBERON:feces	Colon	Stool
 11746	Samson_d14_DogFecal			V4	C166_28	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Golden Retriever	Male	2		Colon	UBERON:feces	Colon	Stool
 11763	Samson_d14_DogRectal			V4	C166_28	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Golden Retriever	Male	2		Rectum	UBERON:feces	Rectum	Rectal swab
@@ -325,26 +325,26 @@ name	description	sourcemtoverride	samplemtoverride	region	host_subject_id	host_c
 11551	Simba_d28_DogFecal			V4	C166_08	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Non-diet responsive	Mixed	Male	7		Colon	UBERON:feces	Colon	Stool
 11564	Simba_d46_DogRectal			V4	C166_08	Dog	Dietary Therapy In Canine Chronic Enteritis	46	Non-diet responsive	Mixed	Male			Rectum	UBERON:feces	Rectum	Rectal swab
 11569	Simba_d0_DogDuodenum			V4	C166_08	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Mixed	Male	14		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-10573	Skyy_d0_DogRectal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish_setter	Male	7		Rectum	UBERON:feces	Rectum	Rectal swab
-10589	Skyy_d42_DogRectal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Irish_setter	Male	0		Rectum	UBERON:feces	Rectum	Rectal swab
-10810	Skyy_d0_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish_setter	Male	7		Colon	UBERON:feces	Colon	Stool
-10813	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish_setter	Male	1		Colon	UBERON:feces	Colon	Stool
-10843	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish_setter	Male	1		Colon	UBERON:feces	Colon	Stool
-10844	Skyy_d28_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Irish_setter	Male	0		Colon	UBERON:feces	Colon	Stool
-10853	Skyy_d35_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	35	Diet responsive	Irish_setter	Male			Colon	UBERON:feces	Colon	Stool
-10857	Skyy_d42_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Irish_setter	Male	0		Colon	UBERON:feces	Colon	Stool
-10882	Skyy_d0_DogRectal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish_setter	Male	7		Rectum	UBERON:feces	Rectum	Rectal swab
-10911	Skyy_d0_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish_setter	Male	7		Colon	UBERON:feces	Colon	Stool
-10912	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish_setter	Male	1		Colon	UBERON:feces	Colon	Stool
-10952	Skyy_d42_DogRectal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Irish_setter	Male	0		Rectum	UBERON:feces	Rectum	Rectal swab
-10963	Skyy_d0_DogRectal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish_setter	Male	7		Rectum	UBERON:feces	Rectum	Rectal swab
-11108	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish_setter	Male	1		Colon	UBERON:feces	Colon	Stool
-11189	Skyy_d0_DogDuodenum			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish_setter	Male	7		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11216	Skyy_d0_DogStomach			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish_setter	Male	7		Stomach	gastric juice	Stomach	Stomach biopsy
-11507	Skyy_d0_DogRectal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish_setter	Male	7		Rectum	UBERON:feces	Rectum	Rectal swab
-11530	Skyy_d0_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish_setter	Male	7		Colon	UBERON:feces	Colon	Stool
-11533	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish_setter	Male	1		Colon	UBERON:feces	Colon	Stool
-11546	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish_setter	Male	1		Colon	UBERON:feces	Colon	Stool
+10573	Skyy_d0_DogRectal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish Setter	Male	7		Rectum	UBERON:feces	Rectum	Rectal swab
+10589	Skyy_d42_DogRectal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Irish Setter	Male	0		Rectum	UBERON:feces	Rectum	Rectal swab
+10810	Skyy_d0_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish Setter	Male	7		Colon	UBERON:feces	Colon	Stool
+10813	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish Setter	Male	1		Colon	UBERON:feces	Colon	Stool
+10843	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish Setter	Male	1		Colon	UBERON:feces	Colon	Stool
+10844	Skyy_d28_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Irish Setter	Male	0		Colon	UBERON:feces	Colon	Stool
+10853	Skyy_d35_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	35	Diet responsive	Irish Setter	Male			Colon	UBERON:feces	Colon	Stool
+10857	Skyy_d42_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Irish Setter	Male	0		Colon	UBERON:feces	Colon	Stool
+10882	Skyy_d0_DogRectal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish Setter	Male	7		Rectum	UBERON:feces	Rectum	Rectal swab
+10911	Skyy_d0_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish Setter	Male	7		Colon	UBERON:feces	Colon	Stool
+10912	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish Setter	Male	1		Colon	UBERON:feces	Colon	Stool
+10952	Skyy_d42_DogRectal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Irish Setter	Male	0		Rectum	UBERON:feces	Rectum	Rectal swab
+10963	Skyy_d0_DogRectal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish Setter	Male	7		Rectum	UBERON:feces	Rectum	Rectal swab
+11108	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish Setter	Male	1		Colon	UBERON:feces	Colon	Stool
+11189	Skyy_d0_DogDuodenum			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish Setter	Male	7		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11216	Skyy_d0_DogStomach			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish Setter	Male	7		Stomach	gastric juice	Stomach	Stomach biopsy
+11507	Skyy_d0_DogRectal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish Setter	Male	7		Rectum	UBERON:feces	Rectum	Rectal swab
+11530	Skyy_d0_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Irish Setter	Male	7		Colon	UBERON:feces	Colon	Stool
+11533	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish Setter	Male	1		Colon	UBERON:feces	Colon	Stool
+11546	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish Setter	Male	1		Colon	UBERON:feces	Colon	Stool
 12637	Skyy_d14_DogFecal			V4	C166_11	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Irish Setter	Male	1		Colon	UBERON:feces	Colon	Stool
 11749	Sneakers_d_DogFecal			V4	C166_29	Dog	Dietary Therapy In Canine Chronic Enteritis			Cavalier King Charles Spaniel	Male			Colon	UBERON:feces	Colon	Stool
 11750	Sneakers_d42_DogFecal			V4	C166_29	Dog	Dietary Therapy In Canine Chronic Enteritis	42		Cavalier King Charles Spaniel	Male			Colon	UBERON:feces	Colon	Stool
@@ -383,17 +383,17 @@ name	description	sourcemtoverride	samplemtoverride	region	host_subject_id	host_c
 11218	Stella_d0_DogStomach			V4	C166_13	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Mixed	Female	2		Stomach	gastric juice	Stomach	Stomach biopsy
 11506	Stella_d0_DogRectal			V4	C166_13	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Mixed	Female	2		Rectum	UBERON:feces	Rectum	Rectal swab
 11523	Stella_d42_DogRectal			V4	C166_13	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Mixed	Female	0		Rectum	UBERON:feces	Rectum	Rectal swab
-10643	Tank_d0_DogRectal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German_Shepherd	Male	4		Rectum	UBERON:feces	Rectum	Rectal swab
-10644	Tank_d14_DogRectal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	German_Shepherd	Male	4		Rectum	UBERON:feces	Rectum	Rectal swab
-10811	Tank_d0_DogFecal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German_Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
-10821	Tank_d14_DogFecal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	German_Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
-10822	Tank_d28_DogFecal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Protein-losing enteropathy	German_Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
-10877	Tank_d14_DogRectal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	German_Shepherd	Male	4		Rectum	UBERON:feces	Rectum	Rectal swab
-10948	Tank_d0_DogFecal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German_Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
-11182	Tank_d0_DogDuodenum			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German_Shepherd	Male	4		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11208	Tank_d0_DogStomach			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German_Shepherd	Male	4		Stomach	gastric juice	Stomach	Stomach biopsy
-11531	Tank_d0_DogFecal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German_Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
-11556	Tank_d0_DogFecal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German_Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
+10643	Tank_d0_DogRectal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German Shepherd	Male	4		Rectum	UBERON:feces	Rectum	Rectal swab
+10644	Tank_d14_DogRectal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	German Shepherd	Male	4		Rectum	UBERON:feces	Rectum	Rectal swab
+10811	Tank_d0_DogFecal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
+10821	Tank_d14_DogFecal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	German Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
+10822	Tank_d28_DogFecal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Protein-losing enteropathy	German Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
+10877	Tank_d14_DogRectal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	German Shepherd	Male	4		Rectum	UBERON:feces	Rectum	Rectal swab
+10948	Tank_d0_DogFecal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
+11182	Tank_d0_DogDuodenum			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German Shepherd	Male	4		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11208	Tank_d0_DogStomach			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German Shepherd	Male	4		Stomach	gastric juice	Stomach	Stomach biopsy
+11531	Tank_d0_DogFecal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
+11556	Tank_d0_DogFecal			V4	C166_04	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	German Shepherd	Male	4		Colon	UBERON:feces	Colon	Stool
 10575	Tartufo_d0_DogRectal			V4	C166_16	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Mixed	Male	3		Rectum	UBERON:feces	Rectum	Rectal swab
 10690	Tartufo_d0_			V4	C166_16	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Mixed	Male	3					
 10710	Tartufo_d0_DogFecal			V4	C166_16	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Mixed	Male	3		Colon	UBERON:feces	Colon	Stool
@@ -401,46 +401,46 @@ name	description	sourcemtoverride	samplemtoverride	region	host_subject_id	host_c
 11194	Tartufo_d0_DogDuodenum			V4	C166_16	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Mixed	Male	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
 11221	Tartufo_d0_DogStomach			V4	C166_16	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Mixed	Male	3		Stomach	gastric juice	Stomach	Stomach biopsy
 11571	Tartufo_d0_DogDuodenum			V4	C166_16	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Mixed	Male	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-10649	Tessa_d0_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston_terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-10650	Tessa_d14_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston_terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-10829	Tessa_d0_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston_terrier	Female	3		Colon	UBERON:feces	Colon	Stool
-10833	Tessa_d14_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston_terrier	Female	3		Colon	UBERON:feces	Colon	Stool
-10834	Tessa_d28_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Protein-losing enteropathy	Boston_terrier	Female	0		Colon	UBERON:feces	Colon	Stool
-10883	Tessa_d0_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston_terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-10884	Tessa_d14_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston_terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-10949	Tessa_d14_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston_terrier	Female	3		Colon	UBERON:feces	Colon	Stool
-10959	Tessa_d14_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston_terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-10961	Tessa_d28_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Protein-losing enteropathy	Boston_terrier	Female	0		Colon	UBERON:feces	Colon	Stool
-11211	Tessa_d0_DogStomach			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston_terrier	Female	3		Stomach	gastric juice	Stomach	Stomach biopsy
-11515	Tessa_d14_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston_terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-11538	Tessa_d14_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston_terrier	Female	3		Colon	UBERON:feces	Colon	Stool
-11539	Tessa_d28_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Protein-losing enteropathy	Boston_terrier	Female	0		Colon	UBERON:feces	Colon	Stool
-11557	Tessa_d14_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston_terrier	Female	3		Colon	UBERON:feces	Colon	Stool
-11563	Tessa_d14_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston_terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-11565	Tessa_d28_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Protein-losing enteropathy	Boston_terrier	Female	0		Colon	UBERON:feces	Colon	Stool
-11872	Tessa_d0_DogDuodenum			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston_terrier	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11873	Tessa_d0_DogStomach			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston_terrier	Female	3		Stomach	gastric juice	Stomach	Stomach biopsy
-12216	Tessa_d0_DogDuodenum			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston_terrier	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-12217	Tessa_d28_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Protein-losing enteropathy	Boston_terrier	Female	0		Colon	UBERON:feces	Colon	Stool
+10649	Tessa_d0_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston Terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+10650	Tessa_d14_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston Terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+10829	Tessa_d0_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston Terrier	Female	3		Colon	UBERON:feces	Colon	Stool
+10833	Tessa_d14_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston Terrier	Female	3		Colon	UBERON:feces	Colon	Stool
+10834	Tessa_d28_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Protein-losing enteropathy	Boston Terrier	Female	0		Colon	UBERON:feces	Colon	Stool
+10883	Tessa_d0_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston Terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+10884	Tessa_d14_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston Terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+10949	Tessa_d14_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston Terrier	Female	3		Colon	UBERON:feces	Colon	Stool
+10959	Tessa_d14_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston Terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+10961	Tessa_d28_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Protein-losing enteropathy	Boston Terrier	Female	0		Colon	UBERON:feces	Colon	Stool
+11211	Tessa_d0_DogStomach			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston Terrier	Female	3		Stomach	gastric juice	Stomach	Stomach biopsy
+11515	Tessa_d14_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston Terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+11538	Tessa_d14_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston Terrier	Female	3		Colon	UBERON:feces	Colon	Stool
+11539	Tessa_d28_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Protein-losing enteropathy	Boston Terrier	Female	0		Colon	UBERON:feces	Colon	Stool
+11557	Tessa_d14_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston Terrier	Female	3		Colon	UBERON:feces	Colon	Stool
+11563	Tessa_d14_DogRectal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Protein-losing enteropathy	Boston Terrier	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+11565	Tessa_d28_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Protein-losing enteropathy	Boston Terrier	Female	0		Colon	UBERON:feces	Colon	Stool
+11872	Tessa_d0_DogDuodenum			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston Terrier	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11873	Tessa_d0_DogStomach			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston Terrier	Female	3		Stomach	gastric juice	Stomach	Stomach biopsy
+12216	Tessa_d0_DogDuodenum			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Protein-losing enteropathy	Boston Terrier	Female	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+12217	Tessa_d28_DogFecal			V4	C166_07	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Protein-losing enteropathy	Boston Terrier	Female	0		Colon	UBERON:feces	Colon	Stool
 11748	Vader_d14_DogFecal			V4	C166_30	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Non-diet responsive	Mixed	Male	8		Colon	UBERON:feces	Colon	Stool
 11754	Vader_d42_DogFecal			V4	C166_30	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Mixed	Male	3		Colon	UBERON:feces	Colon	Stool
 11767	Vader_d0_DogRectal			V4	C166_30	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Mixed	Male	6		Rectum	UBERON:feces	Rectum	Rectal swab
 11772	Vader_d_DogRectal			V4	C166_30	Dog	Dietary Therapy In Canine Chronic Enteritis		Non-diet responsive	Mixed	Male			Rectum	UBERON:feces	Rectum	Rectal swab
 11867	Vader_d28_DogFecal			V4	C166_30	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Non-diet responsive	Mixed	Male	3		Colon	UBERON:feces	Colon	Stool
-12652	Vader_d0_DogFecal			V4	C166_30	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Mixed Breed	Male	6		Colon	UBERON:feces	Colon	Stool
+12652	Vader_d0_DogFecal			V4	C166_30	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Mixed	Male	6		Colon	UBERON:feces	Colon	Stool
 12644	Water_d_			V4	Control	Dog	Dietary Therapy In Canine Chronic Enteritis										
 12654	Water_d_			V4	Water	Dog	Dietary Therapy In Canine Chronic Enteritis										
-11205	Weezy_d0_DogDuodenum			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	English_Mastiff	Female	8		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11231	Weezy_d0_DogStomach			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	English_Mastiff	Female	8		Stomach	gastric juice	Stomach	Stomach biopsy
-11580	Weezy_d0_DogDuodenum			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	English_Mastiff	Female	8		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11740	Weezy_d0_DogFecal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	English_Mastiff	Female	8		Colon	UBERON:feces	Colon	Stool
-11741	Weezy_d14_DogFecal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Non-diet responsive	English_Mastiff	Female	4		Colon	UBERON:feces	Colon	Stool
-11742	Weezy_d28_DogFecal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Non-diet responsive	English_Mastiff	Female	5		Colon	UBERON:feces	Colon	Stool
-11743	Weezy_d42_DogFecal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	English_Mastiff	Female	3		Colon	UBERON:feces	Colon	Stool
-11744	Weezy_d56_DogFecal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	56	Non-diet responsive	English_Mastiff	Female			Colon	UBERON:feces	Colon	Stool
-11760	Weezy_d0_DogRectal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	English_Mastiff	Female	8		Rectum	UBERON:feces	Rectum	Rectal swab
-11768	Weezy_d42_DogRectal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	English_Mastiff	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
-12218	Weezy_d56_DogFecal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	56	Non-diet responsive	English_Mastiff	Female			Colon	UBERON:feces	Colon	Stool
+11205	Weezy_d0_DogDuodenum			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	English Mastiff	Female	8		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11231	Weezy_d0_DogStomach			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	English Mastiff	Female	8		Stomach	gastric juice	Stomach	Stomach biopsy
+11580	Weezy_d0_DogDuodenum			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	English Mastiff	Female	8		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11740	Weezy_d0_DogFecal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	English Mastiff	Female	8		Colon	UBERON:feces	Colon	Stool
+11741	Weezy_d14_DogFecal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Non-diet responsive	English Mastiff	Female	4		Colon	UBERON:feces	Colon	Stool
+11742	Weezy_d28_DogFecal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Non-diet responsive	English Mastiff	Female	5		Colon	UBERON:feces	Colon	Stool
+11743	Weezy_d42_DogFecal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	English Mastiff	Female	3		Colon	UBERON:feces	Colon	Stool
+11744	Weezy_d56_DogFecal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	56	Non-diet responsive	English Mastiff	Female			Colon	UBERON:feces	Colon	Stool
+11760	Weezy_d0_DogRectal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	English Mastiff	Female	8		Rectum	UBERON:feces	Rectum	Rectal swab
+11768	Weezy_d42_DogRectal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	English Mastiff	Female	3		Rectum	UBERON:feces	Rectum	Rectal swab
+12218	Weezy_d56_DogFecal			V4	C166_26	Dog	Dietary Therapy In Canine Chronic Enteritis	56	Non-diet responsive	English Mastiff	Female			Colon	UBERON:feces	Colon	Stool
 10901	Yukon_d0_DogRectal			V4	C166_23	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Husky	Male	5		Rectum	UBERON:feces	Rectum	Rectal swab
 10909	Yukon_d0_DogFecal			V4	C166_23	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Husky	Male	5		Colon	UBERON:feces	Colon	Stool
 11202	Yukon_d0_DogDuodenum			V4	C166_23	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Husky	Male	5		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
@@ -454,17 +454,17 @@ name	description	sourcemtoverride	samplemtoverride	region	host_subject_id	host_c
 12219	Yukon_d14_DogFecal			V4	C166_23	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Husky	Male	2		Colon	UBERON:feces	Colon	Stool
 12220	Yukon_d28_DogFecal			V4	C166_23	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Husky	Male	3		Colon	UBERON:feces	Colon	Stool
 12221	Yukon_d42_DogFecal			V4	C166_23	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Husky	Male	2		Colon	UBERON:feces	Colon	Stool
-11206	Zeus_d0_DogDuodenum			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador	Male	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
-11232	Zeus_d0_DogStomach			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador	Male	3		Stomach	gastric juice	Stomach	Stomach biopsy
-11720	Zeus_d0_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador	Male	3		Colon	UBERON:feces	Colon	Stool
-11721	Zeus_d14_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Labrador	Male	1		Colon	UBERON:feces	Colon	Stool
-11722	Zeus_d28_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Labrador	Male	1		Colon	UBERON:feces	Colon	Stool
-11723	Zeus_d42_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Labrador	Male	2		Colon	UBERON:feces	Colon	Stool
-11761	Zeus_d0_DogRectal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador	Male	3		Rectum	UBERON:feces	Rectum	Rectal swab
-11762	Zeus_d42_DogRectal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Labrador	Male	2		Rectum	UBERON:feces	Rectum	Rectal swab
-12222	Zeus_d28_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Labrador	Male	1		Colon	UBERON:feces	Colon	Stool
-12640	Zeus_d14_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Labrador	Male	1		Colon	UBERON:feces	Colon	Stool
-12752	Zeus_d0_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador	Male	3		Colon	UBERON:feces	Colon	Stool
+11206	Zeus_d0_DogDuodenum			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador Retriever	Male	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
+11232	Zeus_d0_DogStomach			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador Retriever	Male	3		Stomach	gastric juice	Stomach	Stomach biopsy
+11720	Zeus_d0_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador Retriever	Male	3		Colon	UBERON:feces	Colon	Stool
+11721	Zeus_d14_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Labrador Retriever	Male	1		Colon	UBERON:feces	Colon	Stool
+11722	Zeus_d28_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Labrador Retriever	Male	1		Colon	UBERON:feces	Colon	Stool
+11723	Zeus_d42_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Labrador Retriever	Male	2		Colon	UBERON:feces	Colon	Stool
+11761	Zeus_d0_DogRectal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador Retriever	Male	3		Rectum	UBERON:feces	Rectum	Rectal swab
+11762	Zeus_d42_DogRectal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Diet responsive	Labrador Retriever	Male	2		Rectum	UBERON:feces	Rectum	Rectal swab
+12222	Zeus_d28_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	28	Diet responsive	Labrador Retriever	Male	1		Colon	UBERON:feces	Colon	Stool
+12640	Zeus_d14_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	14	Diet responsive	Labrador Retriever	Male	1		Colon	UBERON:feces	Colon	Stool
+12752	Zeus_d0_DogFecal			V4	C166_27	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Labrador Retriever	Male	3		Colon	UBERON:feces	Colon	Stool
 11204	Ziggy_d0_DogDuodenum			V4	C166_25	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Goldendoodle	Male	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
 11230	Ziggy_d0_DogStomach			V4	C166_25	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Goldendoodle	Male	3		Stomach	gastric juice	Stomach	Stomach biopsy
 11579	Ziggy_d0_DogDuodenum			V4	C166_25	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Diet responsive	Goldendoodle	Male	3		Duodenum	bodily fluid	Duodenum	Duodenum biopsy
