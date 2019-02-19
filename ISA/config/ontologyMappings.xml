@@ -237,12 +237,15 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000151" type="characteristicQualifier" parent="Source">
     <name>enrlDate</name>
+    <function>formatDate</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0005007" type="characteristicQualifier" parent="Source">
     <name>wthdrDate</name>
+    <function>formatDate</function> 
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000152" type="characteristicQualifier" parent="Source">
     <name>lastDate</name>
+    <function>formatDate</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000094" type="characteristicQualifier" parent="Source">
     <name>hhid</name>
