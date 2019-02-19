@@ -265,10 +265,7 @@
     <name>Breed_Strain</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009009" type="characteristicQualifier" parent="Source">
-    <name>CCECAI post</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009008" type="characteristicQualifier" parent="Source">
-    <name>CCECAI pre</name>
+    <name>CCECAI</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000613" type="characteristicQualifier" parent="Source">
     <name>Days post-infection</name>
