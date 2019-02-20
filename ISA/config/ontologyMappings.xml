@@ -484,7 +484,7 @@
   <ontologyTerm source_id="OBI_0500000" type="characteristicQualifier" parent="Source">
     <name>study_other</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0500000" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0005031" type="characteristicQualifier" parent="Source">
     <name>study_type</name>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000095" type="characteristicQualifier" parent="Source">
