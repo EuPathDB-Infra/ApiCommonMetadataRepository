@@ -11,10 +11,10 @@ mating type	mating type	not assigned	not assigned
 health_status	health_status	HIV+	HIV+
 health_status	health_status	HIV-	HIV-
 PNAS_paper	PNAS_paper	AssayCtrl	Microarray assay control
-PNAS_paper	PNAS_paper	NegCtrl	Negative control (malaria-naive plasma from North Americans)
+PNAS_paper	PNAS_paper	NegCtrl	Negative control (plasma from malaria-naive North American)
 PNAS_paper	PNAS_paper	No	Experimental sample, not included in PNAS analysis
 PNAS_paper	PNAS_paper	PosCtrl	Positive control (pooled plasma from malaria-exposed Ugandans)
-PNAS_paper	PNAS_paper	Yes	Experimental sample 
+PNAS_paper	PNAS_paper	Yes	Experimental sample (plasma from study participant) 
 study	study	PRISM	Sample from PRISM study participant
 study	study	TCC	Sample from TCC study participant
 study	study		Control sample
