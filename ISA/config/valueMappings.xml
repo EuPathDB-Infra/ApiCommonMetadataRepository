@@ -18,6 +18,10 @@ PNAS_paper	PNAS_paper	Yes	Experimental sample (plasma from study participant)
 study	study	PRISM	Sample from PRISM study participant
 study	study	TCC	Sample from TCC study participant
 study	study		Control sample
+city	city	Kihihi, Kanungu	Kihihi, Kanungu
+city	city	Namwaya Central, Tororo	Namwaya Central, Tororo
+sex	sex	Female	Female
+sex	sex	Male	Male
 par_at_plasma	par_at_plasma	0	No
 par_at_plasma	par_at_plasma	1	Yes
 mal_at_plasma	mal_at_plasma	0	No
