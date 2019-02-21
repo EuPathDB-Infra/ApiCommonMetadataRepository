@@ -144,6 +144,10 @@
     <name>age at visit</name>
     <function>splitUnitFromValue</function>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005032" type="characteristicQualifier" parent="Source">
+    <name>age at collection</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
   <ontologyTerm source_id="EFO_0005056" type="characteristicQualifier" parent="Source">
     <name>age at death</name>
   </ontologyTerm>
