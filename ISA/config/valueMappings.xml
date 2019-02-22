@@ -50,3 +50,5 @@ sampleType	sampleType	assay control	NA
 sampleType	sampleType	Naive North American adult plasma	Plasma
 sampleType	sampleType	Pooled Ugandan positive control plasma	Pooled plasma
 sampleType	sampleType	Study sample (Ugandan child)	Plasma
+study_type	study_type	PRISM	PRISM
+study_type	study_type	TCC	TCC
