@@ -261,7 +261,7 @@
   <ontologyTerm source_id="EUPATH_0009007" type="characteristicQualifier" parent="Source">
     <name>phenotype</name>
   </ontologyTerm>
-  <ontologyTerm source_id="NCBITaxon_9615" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="NCIT_C53693" type="characteristicQualifier" parent="Source">
     <name>Breed_Strain</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009009" type="characteristicQualifier" parent="Source">
@@ -479,6 +479,73 @@
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0001003" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:skin</name>
+    <name>skin epidermis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0002114" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:duodenum</name>
+    <name>duodenum</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0000945" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:stomach</name>
+    <name>stomach</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0001971" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:gastric juice</name>
+    <name>stomach gastric juice</name>
+    <name>gastric juice</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0006314" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:bodily fluid</name>
+    <name>bodily fluid</name>
+    <name>body fluid</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="FMA_24981" type="characteristicValue" parent="characteristicQualifier">
+    <name>left leg</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="FMA_24980" type="characteristicValue" parent="characteristicQualifier">
+    <name>right leg</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="FMA_24969" type="characteristicValue" parent="characteristicQualifier">
+    <name>left thigh</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="FMA_24968" type="characteristicValue" parent="characteristicQualifier">
+    <name>right thigh</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0000916" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:abdomen</name>
+    <name>abdomen</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0001137" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:back</name>
+    <name>back</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009019" type="characteristicValue" parent="characteristicQualifier">
+    <name>left chest</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009020" type="characteristicValue" parent="characteristicQualifier">
+    <name>right chest</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="FMA_24971" type="characteristicValue" parent="characteristicQualifier">
+    <name>left ankle</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="FMA_24970" type="characteristicValue" parent="characteristicQualifier">
+    <name>right ankle</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="FMA_24896" type="characteristicValue" parent="characteristicQualifier">
+    <name>left arm</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="FMA_24895" type="characteristicValue" parent="characteristicQualifier">
+    <name>right arm</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009017" type="characteristicValue" parent="characteristicQualifier">
+    <name>left back</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009018" type="characteristicValue" parent="characteristicQualifier">
+    <name>right back</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0000974" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:neck</name>
+    <name>neck</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0001084" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:skin of head</name>
@@ -492,12 +559,36 @@
   <ontologyTerm source_id="UBERON_0001456" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:face</name>
   </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0001459" type="characteristicValue" parent="characteristicQualifier">
-    <name>UBERON:skin of external ear</name>
+  <ontologyTerm source_id="UBERON_1000008" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:left face</name>
+    <name>left face</name>
   </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0001513" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="UBERON_1000014" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:right face</name>
+    <name>right face</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0006617" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:left external ear</name>
+    <name>left external ear</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0006616" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:right external ear</name>
+    <name>right external ear</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0001691" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:external ear</name>
+    <name>external ear</name>
+  </ontologyTerm>
+<ontologyTerm source_id="UBERON_0001513" type="characteristicValue" parent="characteristicQualifie
+r">
     <name>UBERON:foot skin</name>
     <name>UBERON:skin of foot</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="FMA_11344" type="characteristicValue" parent="characteristicQualifier">
+    <name>left foot</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="FMA_11343" type="characteristicValue" parent="characteristicQualifier">
+    <name>right foot</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0001517" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:skin of elbow</name>
