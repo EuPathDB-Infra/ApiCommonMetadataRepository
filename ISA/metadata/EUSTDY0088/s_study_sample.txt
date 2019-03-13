@@ -1,0 +1,57 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	specimen collection year	Characteristics [parasite organism]
+BANANCL2	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Burkina Faso	1983	Trypanosoma congolense
+DIND	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Burkina Faso	1986	Trypanosoma congolense
+MATADI	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Congo	1988	Trypanosoma congolense
+TRT21	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+TRT25K1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+ZRE-AGRIUMBE	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Congo	1990	Trypanosoma congolense
+ZRE-NKUIYI	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Congo	1990	Trypanosoma congolense
+ALME	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Cameroon	2005	Trypanosoma congolense
+BEKA	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Cameroon	2005	Trypanosoma congolense
+EATRO1157C2	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Uganda	1991	Trypanosoma congolense
+GUTR28X1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Gambia	1975	Trypanosoma congolense
+GUTR37K1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Gambia	1975	Trypanosoma congolense
+KARAN_ALL	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Burkina Faso	1986	Trypanosoma congolense
+KONT1-129	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Cameroon	2005	Trypanosoma congolense
+KONT2-133	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Cameroon	2005	Trypanosoma congolense
+KONT2-155	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Cameroon	2005	Trypanosoma congolense
+MALI-1312-95	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Mali	1995	Trypanosoma congolense
+MALI25239K1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Mali	1995	Trypanosoma congolense
+SA267	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Burkina Faso	1989	Trypanosoma congolense
+SA268	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Burkina Faso	1989	Trypanosoma congolense
+SA95-3308K1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Burkina Faso	1998	Trypanosoma congolense
+PAUWE73	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Ethiopia	1997	Trypanosoma congolense
+PAUWE77X2	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Ethiopia	1997	Trypanosoma congolense
+POUSS	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Cameroon	2005	Trypanosoma congolense
+TOGO222	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Togo	2014	Trypanosoma congolense
+TOGO2264	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Togo	2014	Trypanosoma congolense
+WETEJA-F015	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Ethiopia	2010	Trypanosoma congolense
+YATU-F187	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Ethiopia	2010	Trypanosoma congolense
+J4J4K1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1982	Trypanosoma congolense
+TRT1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+TRT15	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+TRT17C1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+TRT38	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+TRT42K1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+TRT44K1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+TRT54K1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+TRT61	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+CHIPOPELA	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	2002	Trypanosoma congolense
+KAPEVE27PC2K1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	2003	Trypanosoma congolense
+KASANDAK1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	2003	Trypanosoma congolense
+LOMBO3020	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	2003	Trypanosoma congolense
+MSOROM19K1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	2003	Trypanosoma congolense
+YOBO2007C2	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	2003	Trypanosoma congolense
+YOBO2038C2X7	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	2002	Trypanosoma congolense
+TRT46	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+ALICK339C6_2	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	2003	Trypanosoma congolense
+KAPEYAK1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	2003	Trypanosoma congolense
+MPHITA4028	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	2003	Trypanosoma congolense
+TRT12K1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+TRT37	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+TRT5X1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+TRT573R	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+TRT59K1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	1996	Trypanosoma congolense
+DJUMAK1	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Congo	1988	Trypanosoma congolense
+IL1180_ALL	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Tanzania	1971	Trypanosoma congolense
+MSOROM7_ALL	Genomic diversity of 56 Trypanosoma congolense field isolates from 10 African countries			Zambia	2003	Trypanosoma congolense
