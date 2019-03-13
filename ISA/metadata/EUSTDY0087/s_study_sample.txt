@@ -115,7 +115,7 @@ BPK178_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Ne
 BPK181_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dumraha	2003	Leishmania donovani	Homo sapiens	human	26°40'13.64" N	 87°12'12.78"E
 BPK181_12 	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dumraha	2003	Leishmania donovani	Homo sapiens	human	26°40'13.64" N	 87°12'12.78"E
 BPK190_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Govindpur	2003	Leishmania donovani	Homo sapiens	human	26° 30' 13.92" N	87° 34' 56.59" E
-BPK206_0cl10	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal 	Sunsari, Ithahari	2003	Leishmania donovani	Homo sapiens	human	26° 39' 50.03'' N	87° 16' 18.21'' E
+BPK206_0cl10	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Ithahari	2003	Leishmania donovani	Homo sapiens	human	26° 39' 50.03'' N	87° 16' 18.21'' E
 BPK208_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Itahari	2003	Leishmania donovani	Homo sapiens	human	26° 43' 4.71" N	87° 17' 43.64" E
 BPK274_0cl5	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Itahari	2003	Leishmania donovani	Homo sapiens	human	26° 43' 4.71" N	87° 17' 43.64" E
 BPK275_0cl18	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Schanischare	2003	Leishmania donovani	Homo sapiens	human	26° 38' 48.86" N	87° 32' 58.98" E
