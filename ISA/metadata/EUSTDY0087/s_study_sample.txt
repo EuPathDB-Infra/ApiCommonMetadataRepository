@@ -113,7 +113,7 @@ BPK173_1cl9	Genomic diversity in Leishmania donovani in Indian subcontinent			Ne
 BPK177_0cl7	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Dhanusa, Sarsa	2002	Leishmania donovani	Leishmania donovani BPK177_0cl7	Homo sapiens	human
 BPK178_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Inaruwa	2002	Leishmania donovani	Leishmania donovani BPK178_0cl3	Homo sapiens	human
 BPK181_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dumraha	2003	Leishmania donovani	Leishmania donovani BPK181_0cl1	Homo sapiens	human
-BPK181_12 	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dumraha	2003	Leishmania donovani	Leishmania donovani BPK181_12 	Homo sapiens	human
+BPK181_12	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dumraha	2003	Leishmania donovani	Leishmania donovani BPK181_12	Homo sapiens	human
 BPK190_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Govindpur	2003	Leishmania donovani	Leishmania donovani BPK190_0cl3	Homo sapiens	human
 BPK206_0cl10	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Ithahari	2003	Leishmania donovani	Leishmania donovani BPK206_0cl10	Homo sapiens	human
 BPK208_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Itahari	2003	Leishmania donovani	Leishmania donovani BPK208_0cl2	Homo sapiens	human
