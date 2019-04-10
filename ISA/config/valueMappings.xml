@@ -52,3 +52,21 @@ sampleType	sampleType	Pooled Ugandan positive control plasma	Pooled plasma
 sampleType	sampleType	Study sample (Ugandan child)	Plasma
 study_type	study_type	PRISM	PRISM
 study_type	study_type	TCC	TCC
+health_status	health_status	Chronic PCM	Chronic PCM
+health_status	health_status	PCM	PCM
+health_status	health_status	Acute PCM	Acute PCM
+health_status	health_status	Chronic PCMb	Chronic PCMb
+city	city	Sao Paulo	Sao Paulo
+city	city	Laranjal Paulista	Laranjal Paulista
+city	city	Mato Grosso do Sul	Mato Grosso do Sul
+city	city	Manaus-AM	Manaus-AM
+Lineage	Lineage	PS2	PS2
+Lineage	Lineage	PS3	PS3
+neage	Lineage	PS4	PS4
+specimen collector	specimen collector	Eduardo Bagagli	Eduardo Bagagli
+specimen collector	specimen collector	Zoilo Pires de Camargo	Zoilo Pires de Camargor
+specimen collector	specimen collector	Rosana Puccia	Rosana Puccia
+specimen collector	specimen collector	Angela Restrepo	Angela Restrepo
+specimen collector	specimen collector	Ricardo Negroni	Ricardo Negroni
+specimen collector	specimen collector	Celia de Almeida Soares	Celia de Almeida Soares
+specimen collector	specimen collector	Maria Sueli Felipe	Maria Sueli Felipe
