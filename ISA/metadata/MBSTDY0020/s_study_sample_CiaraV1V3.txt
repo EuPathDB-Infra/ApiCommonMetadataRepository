@@ -1,136 +1,129 @@
 name	description	sourcemtoverride	samplemtoverride	run_prefix_prep	region	title	host_common_name	host_subject_id	body_site	body_habitat	body_product	sample_type	Site	BodyType	Cured	No. Treatment	Lesion Size	Lesion Duration	ExtractionDate	DTH	env_feature
-119669				MiSeqV1V3_29	V1-V3	Ciara	human	31	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	35	45	4.15.16	440	ENVO:human-associated habitat
-119670				MiSeqV1V3_29	V1-V3	Ciara	human	31	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	35	45	4.15.16	440	ENVO:human-associated habitat
-119671				MiSeqV1V3_29	V1-V3	Ciara	human	31	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	35	45	4.15.16	440	ENVO:human-associated habitat
-119672				MiSeqV1V3_29	V1-V3	Ciara	human	32	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	49	20	4.15.16	225	ENVO:human-associated habitat
-119673				MiSeqV1V3_29	V1-V3	Ciara	human	32	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	49	20	4.15.16	225	ENVO:human-associated habitat
-119674				MiSeqV1V3_29	V1-V3	Ciara	human	32	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	49	20	4.15.16	225	ENVO:human-associated habitat
-119675				MiSeqV1V3_29	V1-V3	Ciara	human	33	Right foot	Skin epidermis	Sebum	Skin swab	Border	Moist	Yes	1	306	15	4.15.16	300	ENVO:human-associated habitat
-119676				MiSeqV1V3_29	V1-V3	Ciara	human	33	Right foot	Skin epidermis	Sebum	Skin swab	Lesion	Moist	Yes	1	306	15	4.15.16	300	ENVO:human-associated habitat
-119677				MiSeqV1V3_29	V1-V3	Ciara	human	33	Left foot	Skin epidermis	Sebum	Skin swab	Normal	Moist	Yes	1	306	15	4.15.16	300	ENVO:human-associated habitat
-119678				MiSeqV1V3_29	V1-V3	Ciara	human	34	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	400	35	4.15.16	144	ENVO:human-associated habitat
-119679				MiSeqV1V3_29	V1-V3	Ciara	human	34	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	400	35	4.15.16	144	ENVO:human-associated habitat
-119680				MiSeqV1V3_29	V1-V3	Ciara	human	34	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	400	35	4.15.16	144	ENVO:human-associated habitat
-119717				MiSeqV1V3_29	V1-V3	Ciara	human	49	NA	Skin epidermis	Sebum	Skin swab	NA	NA	NA				4.15.16	725	ENVO:human-associated habitat
-119681				MiSeqV1V3_29	V1-V3	Ciara	human	35	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	25	15	4.15.16	725	ENVO:human-associated habitat
-119682				MiSeqV1V3_29	V1-V3	Ciara	human	35	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	25	15	4.15.16	725	ENVO:human-associated habitat
-119683				MiSeqV1V3_29	V1-V3	Ciara	human	35	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	25	15	4.15.16	440	ENVO:human-associated habitat
-119684				MiSeqV1V3_29	V1-V3	Ciara	human	36	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes		77	30	4.15.16	440	ENVO:human-associated habitat
-119685				MiSeqV1V3_29	V1-V3	Ciara	human	36	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes		77	30	4.15.16	440	ENVO:human-associated habitat
-119686				MiSeqV1V3_29	V1-V3	Ciara	human	36	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes		77	30	4.15.16	225	ENVO:human-associated habitat
-119687				MiSeqV1V3_29	V1-V3	Ciara	human	37	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	330	90	4.15.16	225	ENVO:human-associated habitat
-119688				MiSeqV1V3_29	V1-V3	Ciara	human	37	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	330	90	4.15.16	225	ENVO:human-associated habitat
-119689				MiSeqV1V3_29	V1-V3	Ciara	human	37	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	330	90	4.15.16	0	ENVO:human-associated habitat
-119690				MiSeqV1V3_29	V1-V3	Ciara	human	38	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	NA		1476	60	4.15.16	0	ENVO:human-associated habitat
-119691				MiSeqV1V3_29	V1-V3	Ciara	human	38	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	NA		1476	60	4.15.16	0	ENVO:human-associated habitat
-119692				MiSeqV1V3_29	V1-V3	Ciara	human	38	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	NA		1476	60	4.15.16	300	ENVO:human-associated habitat
-119718				MiSeqV1V3_29	V1-V3	Ciara	human	50	NA	Skin epidermis	Sebum	Skin swab	NA	NA	NA				4.15.16	300	ENVO:human-associated habitat
-119693				MiSeqV1V3_29	V1-V3	Ciara	human	39	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	272	20	4.15.16	400	ENVO:human-associated habitat
-119694				MiSeqV1V3_29	V1-V3	Ciara	human	39	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	272	20	4.15.16	400	ENVO:human-associated habitat
-119695				MiSeqV1V3_29	V1-V3	Ciara	human	39	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	272	20	4.15.16	400	ENVO:human-associated habitat
-119696				MiSeqV1V3_29	V1-V3	Ciara	human	40	Right arm	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	1377	45	4.15.16	210	ENVO:human-associated habitat
-119697				MiSeqV1V3_29	V1-V3	Ciara	human	40	Right arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	1377	45	4.15.16	210	ENVO:human-associated habitat
-119698				MiSeqV1V3_29	V1-V3	Ciara	human	40	Left arm	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	1377	45	4.15.16	210	ENVO:human-associated habitat
-119720				MiSeqV1V3_29	V1-V3	Ciara	human	52	NA	Skin epidermis	Sebum	Skin swab	NA	NA	NA				4.15.16	130	ENVO:human-associated habitat
-119699				MiSeqV1V3_29	V1-V3	Ciara	human	41	Left chest	Skin epidermis	Sebum	Skin swab	Border	Sebaceous	Yes	2	30	20	4.15.16	130	ENVO:human-associated habitat
-119700				MiSeqV1V3_29	V1-V3	Ciara	human	41	Left chest	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	2	30	20	4.15.16	130	ENVO:human-associated habitat
-119701				MiSeqV1V3_29	V1-V3	Ciara	human	41	Right chest	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	2	30	20	4.15.16	110	ENVO:human-associated habitat
-119702				MiSeqV1V3_29	V1-V3	Ciara	human	42	Back	Skin epidermis	Sebum	Skin swab	Border	Sebaceous	Yes	1	255	30	4.15.16	110	ENVO:human-associated habitat
-119703				MiSeqV1V3_29	V1-V3	Ciara	human	42	Back	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	1	255	30	4.15.16	110	ENVO:human-associated habitat
-119704				MiSeqV1V3_29	V1-V3	Ciara	human	42	Back	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	1	255	30	4.15.16	378	ENVO:human-associated habitat
-119705				MiSeqV1V3_29	V1-V3	Ciara	human	43	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	216	30	4.15.16	378	ENVO:human-associated habitat
-119706				MiSeqV1V3_29	V1-V3	Ciara	human	43	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	216	30	4.15.16	378	ENVO:human-associated habitat
-119707				MiSeqV1V3_29	V1-V3	Ciara	human	43	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	216	30	4.15.16	260	ENVO:human-associated habitat
-119708				MiSeqV1V3_29	V1-V3	Ciara	human	44	Abdomen	Skin epidermis	Sebum	Skin swab	Border	Sebaceous	Yes	1	207	40	4.15.16	260	ENVO:human-associated habitat
-119709				MiSeqV1V3_29	V1-V3	Ciara	human	44	Abdomen	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	1	207	40	4.15.16	400	ENVO:human-associated habitat
-119710				MiSeqV1V3_29	V1-V3	Ciara	human	44	Abdomen	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	1	207	40	4.15.16	400	ENVO:human-associated habitat
-119711				MiSeqV1V3_29	V1-V3	Ciara	human	45	Left thigh	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	340	90	4.15.16		ENVO:human-associated habitat
-119712				MiSeqV1V3_29	V1-V3	Ciara	human	45	Left thigh	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	340	90	4.15.16		ENVO:human-associated habitat
-119713				MiSeqV1V3_29	V1-V3	Ciara	human	45	Right thigh	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	340	90	4.15.16	441	ENVO:human-associated habitat
-119667				MiSeqV1V3_29	V1-V3	Ciara	human	30	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	130	20	4.15.16	441	ENVO:human-associated habitat
-119668				MiSeqV1V3_29	V1-V3	Ciara	human	30	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	130	20	4.15.16	441	ENVO:human-associated habitat
-119665				MiSeqV1V3_29	V1-V3	Ciara	human	29	Abdomen	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	No		325		4.15.16	100	ENVO:human-associated habitat
-119666				MiSeqV1V3_29	V1-V3	Ciara	human	29	Abdomen	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	No		325		4.15.16	100	ENVO:human-associated habitat
-119633				MiSeqV1V3_29	V1-V3	Ciara	human	18	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	2	780	21	4.13.16	100	ENVO:human-associated habitat
-119634				MiSeqV1V3_29	V1-V3	Ciara	human	18	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	2	780	21	4.14.16	180	ENVO:human-associated habitat
-119635				MiSeqV1V3_29	V1-V3	Ciara	human	18	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	2	780	21	4.14.16	180	ENVO:human-associated habitat
-119636				MiSeqV1V3_29	V1-V3	Ciara	human	19	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	80	30	4.14.16	180	ENVO:human-associated habitat
-119637				MiSeqV1V3_29	V1-V3	Ciara	human	19	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	80	30	4.14.16	255	ENVO:human-associated habitat
-119638				MiSeqV1V3_29	V1-V3	Ciara	human	19	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	80	30	4.14.16	255	ENVO:human-associated habitat
-119639				MiSeqV1V3_29	V1-V3	Ciara	human	20	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	2	500	60	4.14.16	255	ENVO:human-associated habitat
-119640				MiSeqV1V3_29	V1-V3	Ciara	human	20	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	2	500	60	4.14.16	300	ENVO:human-associated habitat
-119641				MiSeqV1V3_29	V1-V3	Ciara	human	20	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	2	500	60	4.14.16	300	ENVO:human-associated habitat
-119642				MiSeqV1V3_29	V1-V3	Ciara	human	21	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	2	100	60	4.14.16	300	ENVO:human-associated habitat
-119643				MiSeqV1V3_29	V1-V3	Ciara	human	21	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	2	100	60	4.14.16	285	ENVO:human-associated habitat
-119644				MiSeqV1V3_29	V1-V3	Ciara	human	21	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	2	100	60	4.14.16	285	ENVO:human-associated habitat
-119645				MiSeqV1V3_29	V1-V3	Ciara	human	22	Left foot	Skin epidermis	Sebum	Skin swab	Lesion	Moist	Yes	1	24	60	4.14.16	285	ENVO:human-associated habitat
-119646				MiSeqV1V3_29	V1-V3	Ciara	human	22	Left foot	Skin epidermis	Sebum	Skin swab	Border	Moist	Yes	1	24	60	4.14.16	180	ENVO:human-associated habitat
-119647				MiSeqV1V3_29	V1-V3	Ciara	human	22	Right foot	Skin epidermis	Sebum	Skin swab	Normal	Moist	Yes	1	24	60	4.14.16	180	ENVO:human-associated habitat
-119648				MiSeqV1V3_29	V1-V3	Ciara	human	23	Left arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	130	30	4.14.16	180	ENVO:human-associated habitat
-119649				MiSeqV1V3_29	V1-V3	Ciara	human	23	Left arm	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	130	30	4.14.16	272	ENVO:human-associated habitat
-119650				MiSeqV1V3_29	V1-V3	Ciara	human	23	Right arm	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	130	30	4.14.16	272	ENVO:human-associated habitat
-119651				MiSeqV1V3_29	V1-V3	Ciara	human	24	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	150	21	4.14.16	272	ENVO:human-associated habitat
-119652				MiSeqV1V3_29	V1-V3	Ciara	human	24	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	150	21	4.14.16	1085	ENVO:human-associated habitat
-119653				MiSeqV1V3_29	V1-V3	Ciara	human	24	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	150	21	4.14.16	1085	ENVO:human-associated habitat
-119654				MiSeqV1V3_29	V1-V3	Ciara	human	25	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	270	30	4.14.16	1085	ENVO:human-associated habitat
-119655				MiSeqV1V3_29	V1-V3	Ciara	human	25	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	270	30	4.14.16	130	ENVO:human-associated habitat
-119656				MiSeqV1V3_29	V1-V3	Ciara	human	25	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	270	30	4.14.16	130	ENVO:human-associated habitat
-119657				MiSeqV1V3_29	V1-V3	Ciara	human	26	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	1575	60	4.14.16	130	ENVO:human-associated habitat
-119658				MiSeqV1V3_29	V1-V3	Ciara	human	26	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	1575	60	4.15.16	208	ENVO:human-associated habitat
-119659				MiSeqV1V3_29	V1-V3	Ciara	human	26	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	1575	60	4.15.16	208	ENVO:human-associated habitat
-119660				MiSeqV1V3_29	V1-V3	Ciara	human	27	Head	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	2	192	34	4.15.16	700	ENVO:human-associated habitat
-119661				MiSeqV1V3_29	V1-V3	Ciara	human	27	Head	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	2	192	34	4.15.16	700	ENVO:human-associated habitat
-119662				MiSeqV1V3_29	V1-V3	Ciara	human	27	Head	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	2	192	34	4.15.16	460	ENVO:human-associated habitat
-119663				MiSeqV1V3_29	V1-V3	Ciara	human	28	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	480	14	4.15.16	460	ENVO:human-associated habitat
-119664				MiSeqV1V3_29	V1-V3	Ciara	human	28	Leg leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	480	14	4.15.16	132	ENVO:human-associated habitat
-119714				MiSeqV1V3_29	V1-V3	Ciara	human	46	NA	Skin epidermis	Sebum	Skin swab	NA		NA				4.15.16	132	ENVO:human-associated habitat
-119719				MiSeqV1V3_29	V1-V3	Ciara	human	51	NA	Skin epidermis	Sebum	Skin swab	NA		NA				4.15.16	132	ENVO:human-associated habitat
-119715				MiSeqV1V3_29	V1-V3	Ciara	human	47	NA	Skin epidermis	Sebum	Skin swab	NA		NA				4.15.16	400	ENVO:human-associated habitat
-119716				MiSeqV1V3_29	V1-V3	Ciara	human	48	NA	Skin epidermis	Sebum	Skin swab	NA		NA				4.15.16	400	ENVO:human-associated habitat
-119586				MiSeqV1V3_29	V1-V3	Ciara	human	1	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	396	30	4.12.16	400	ENVO:human-associated habitat
-119587				MiSeqV1V3_29	V1-V3	Ciara	human	1	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	396	30	4.12.16	441	ENVO:human-associated habitat
-119588				MiSeqV1V3_29	V1-V3	Ciara	human	1	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	396	30	4.12.16	441	ENVO:human-associated habitat
-119589				MiSeqV1V3_29	V1-V3	Ciara	human	2	Neck	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	2	216	30	4.12.16	441	ENVO:human-associated habitat
-119590				MiSeqV1V3_29	V1-V3	Ciara	human	2	Neck	Skin epidermis	Sebum	Skin swab	Border	Sebaceous	Yes	2	216	30	4.12.16	225	ENVO:human-associated habitat
-119591				MiSeqV1V3_29	V1-V3	Ciara	human	4	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	225	40	4.12.16	225	ENVO:human-associated habitat
-119592				MiSeqV1V3_29	V1-V3	Ciara	human	2	Neck	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	2	216	30	4.12.16	225	ENVO:human-associated habitat
-119593				MiSeqV1V3_29	V1-V3	Ciara	human	3	Left ankle	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	130	40	4.12.16	49	ENVO:human-associated habitat
-119594				MiSeqV1V3_29	V1-V3	Ciara	human	3	Left ankle	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	130	40	4.12.16	49	ENVO:human-associated habitat
-119595				MiSeqV1V3_29	V1-V3	Ciara	human	3	Right ankle	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	130	40	4.12.16	49	ENVO:human-associated habitat
-119596				MiSeqV1V3_29	V1-V3	Ciara	human	4	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	225	40	4.12.16	255	ENVO:human-associated habitat
-119597				MiSeqV1V3_29	V1-V3	Ciara	human	4	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	225	40	4.12.16	255	ENVO:human-associated habitat
-119598				MiSeqV1V3_29	V1-V3	Ciara	human	5	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	660	90	4.12.16	255	ENVO:human-associated habitat
-119599				MiSeqV1V3_29	V1-V3	Ciara	human	5	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	660	90	4.12.16	130	ENVO:human-associated habitat
-119600				MiSeqV1V3_29	V1-V3	Ciara	human	5	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	660	90	4.12.16	130	ENVO:human-associated habitat
-119601				MiSeqV1V3_29	V1-V3	Ciara	human	6	Left back	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	1	500	30	4.12.16	130	ENVO:human-associated habitat
-119602				MiSeqV1V3_29	V1-V3	Ciara	human	6	Left back	Skin epidermis	Sebum	Skin swab	Border	Sebaceous	Yes	1	500	30	4.12.16	625	ENVO:human-associated habitat
-119603				MiSeqV1V3_29	V1-V3	Ciara	human	6	Right back	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	1	500	30	4.12.16	625	ENVO:human-associated habitat
-119604				MiSeqV1V3_29	V1-V3	Ciara	human	7	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	NA		544	21	4.12.16	625	ENVO:human-associated habitat
-119605				MiSeqV1V3_29	V1-V3	Ciara	human	7	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	NA		544	21	4.12.16	196	ENVO:human-associated habitat
-119606				MiSeqV1V3_29	V1-V3	Ciara	human	7	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	NA		544	21	4.12.16	196	ENVO:human-associated habitat
-119607				MiSeqV1V3_29	V1-V3	Ciara	human	8	Left thigh	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	2	437	30	4.12.16	196	ENVO:human-associated habitat
-119608				MiSeqV1V3_29	V1-V3	Ciara	human	8	Left thigh	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	2	437	30	4.12.16	225	ENVO:human-associated habitat
-119609				MiSeqV1V3_29	V1-V3	Ciara	human	8	Right thigh	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	2	437	30	4.12.16	225	ENVO:human-associated habitat
-119610				MiSeqV1V3_29	V1-V3	Ciara	human	9	Right face	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	2	840	60	4.13.16	225	ENVO:human-associated habitat
-119611				MiSeqV1V3_29	V1-V3	Ciara	human	9	Left face	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	2	840	60	4.13.16	156	ENVO:human-associated habitat
-119612				MiSeqV1V3_29	V1-V3	Ciara	human	10	Right arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	49	30	4.13.16	156	ENVO:human-associated habitat
-119613				MiSeqV1V3_29	V1-V3	Ciara	human	10	Right arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	49	30	4.13.16	156	ENVO:human-associated habitat
-119614				MiSeqV1V3_29	V1-V3	Ciara	human	10	Left arm	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	49	30	4.13.16	144	ENVO:human-associated habitat
-119615				MiSeqV1V3_29	V1-V3	Ciara	human	11	Right thigh	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	25	30	4.13.16	144	ENVO:human-associated habitat
-119616				MiSeqV1V3_29	V1-V3	Ciara	human	11	Right thigh	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	25	30	4.13.16	144	ENVO:human-associated habitat
-119617				MiSeqV1V3_29	V1-V3	Ciara	human	11	Left thigh	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	25	30	4.13.16		ENVO:human-associated habitat
-119618				MiSeqV1V3_29	V1-V3	Ciara	human	12	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	70	30	4.13.16		ENVO:human-associated habitat
-119619				MiSeqV1V3_29	V1-V3	Ciara	human	12	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	70	30	4.13.16		ENVO:human-associated habitat
-119620				MiSeqV1V3_29	V1-V3	Ciara	human	12	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	70	30	4.13.16	289	ENVO:human-associated habitat
-119621				MiSeqV1V3_29	V1-V3	Ciara	human	13	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	3300	40	4.13.16	289	ENVO:human-associated habitat
-119622				MiSeqV1V3_29	V1-V3	Ciara	human	13	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	3300	40	4.13.16	289	ENVO:human-associated habitat
-119623				MiSeqV1V3_29	V1-V3	Ciara	human	13	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	3300	40	4.13.16	255	ENVO:human-associated habitat
-119624				MiSeqV1V3_29	V1-V3	Ciara	human	14	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	180	30	4.13.16	255	ENVO:human-associated habitat
-119625				MiSeqV1V3_29	V1-V3	Ciara	human	14	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	180	30	4.13.16	255	ENVO:human-associated habitat
-119626				MiSeqV1V3_29		Ciara	human	14	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	180	30	4.13.16		ENVO:human-associated habitat
-119627				MiSeqV1V3_29		Ciara	human	15	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes		90	10	4.13.16		ENVO:human-associated habitat
-119628				MiSeqV1V3_29		Ciara	human	15	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes		90	10	4.13.16		ENVO:human-associated habitat
-119629				MiSeqV1V3_29		Ciara	human	16	Left arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes		200	60	4.13.16		ENVO:human-associated habitat
-119630				MiSeqV1V3_29		Ciara	human	16	Right arm	Skin epidermis	Sebum	Skin swab	Normal	Dry	NA		200	60	4.13.16		ENVO:human-associated habitat
-119631				MiSeqV1V3_29		Ciara	human	17	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	380	40	4.13.16		ENVO:human-associated habitat
-119632				MiSeqV1V3_29		Ciara	human	17	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	380	40	4.13.16		ENVO:human-associated habitat
+SRS2391046.SRR5875753				MiSeqV1V3_29	V1-V3	Ciara	human	1	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	396	30	4.12.16	400	ENVO:human-associated habitat
+SRS2391047.SRR5875754				MiSeqV1V3_29	V1-V3	Ciara	human	1	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	396	30	4.12.16	441	ENVO:human-associated habitat
+SRS2391048.SRR5875755				MiSeqV1V3_29	V1-V3	Ciara	human	1	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	396	30	4.12.16	441	ENVO:human-associated habitat
+SRS2391053.SRR5875756				MiSeqV1V3_29	V1-V3	Ciara	human	2	Neck	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	2	216	30	4.12.16	441	ENVO:human-associated habitat
+SRS2391052.SRR5875757				MiSeqV1V3_29	V1-V3	Ciara	human	2	Neck	Skin epidermis	Sebum	Skin swab	Border	Sebaceous	Yes	2	216	30	4.12.16	225	ENVO:human-associated habitat
+SRS2391055.SRR5875762				MiSeqV1V3_29	V1-V3	Ciara	human	4	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	225	40	4.12.16	225	ENVO:human-associated habitat
+SRS2391050.SRR5875758				MiSeqV1V3_29	V1-V3	Ciara	human	2	Neck	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	2	216	30	4.12.16	225	ENVO:human-associated habitat
+SRS2391054.SRR5875759				MiSeqV1V3_29	V1-V3	Ciara	human	3	Left ankle	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	130	40	4.12.16	49	ENVO:human-associated habitat
+SRS2391049.SRR5875760				MiSeqV1V3_29	V1-V3	Ciara	human	3	Left ankle	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	130	40	4.12.16	49	ENVO:human-associated habitat
+SRS2391051.SRR5875761				MiSeqV1V3_29	V1-V3	Ciara	human	3	Right ankle	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	130	40	4.12.16	49	ENVO:human-associated habitat
+SRS2391056.SRR5875763				MiSeqV1V3_29	V1-V3	Ciara	human	4	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	225	40	4.12.16	255	ENVO:human-associated habitat
+SRS2391057.SRR5875764				MiSeqV1V3_29	V1-V3	Ciara	human	4	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	225	40	4.12.16	255	ENVO:human-associated habitat
+SRS2391058.SRR5875765				MiSeqV1V3_29	V1-V3	Ciara	human	5	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	660	90	4.12.16	255	ENVO:human-associated habitat
+SRS2391059.SRR5875766				MiSeqV1V3_29	V1-V3	Ciara	human	5	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	660	90	4.12.16	130	ENVO:human-associated habitat
+SRS2391060.SRR5875767				MiSeqV1V3_29	V1-V3	Ciara	human	5	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	660	90	4.12.16	130	ENVO:human-associated habitat
+SRS2391063.SRR5875768				MiSeqV1V3_29	V1-V3	Ciara	human	6	Left back	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	1	500	30	4.12.16	130	ENVO:human-associated habitat
+SRS2391061.SRR5875769				MiSeqV1V3_29	V1-V3	Ciara	human	6	Left back	Skin epidermis	Sebum	Skin swab	Border	Sebaceous	Yes	1	500	30	4.12.16	625	ENVO:human-associated habitat
+SRS2391062.SRR5875770				MiSeqV1V3_29	V1-V3	Ciara	human	6	Right back	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	1	500	30	4.12.16	625	ENVO:human-associated habitat
+SRS2391065.SRR5875771				MiSeqV1V3_29	V1-V3	Ciara	human	7	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry			544	21	4.12.16	625	ENVO:human-associated habitat
+SRS2391064.SRR5875772				MiSeqV1V3_29	V1-V3	Ciara	human	7	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry			544	21	4.12.16	196	ENVO:human-associated habitat
+SRS2391066.SRR5875773				MiSeqV1V3_29	V1-V3	Ciara	human	7	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry			544	21	4.12.16	196	ENVO:human-associated habitat
+SRS2391067.SRR5875774				MiSeqV1V3_29	V1-V3	Ciara	human	8	Left thigh	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	2	437	30	4.12.16	196	ENVO:human-associated habitat
+SRS2391068.SRR5875775				MiSeqV1V3_29	V1-V3	Ciara	human	8	Left thigh	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	2	437	30	4.12.16	225	ENVO:human-associated habitat
+SRS2391070.SRR5875776				MiSeqV1V3_29	V1-V3	Ciara	human	8	Right thigh	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	2	437	30	4.12.16	225	ENVO:human-associated habitat
+SRS2391071.SRR5875777				MiSeqV1V3_29	V1-V3	Ciara	human	9	Right face	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	2	840	60	4.13.16	225	ENVO:human-associated habitat
+SRS2391069.SRR5875778				MiSeqV1V3_29	V1-V3	Ciara	human	9	Left face	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	2	840	60	4.13.16	156	ENVO:human-associated habitat
+SRS2391074.SRR5875779				MiSeqV1V3_29	V1-V3	Ciara	human	10	Right arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	49	30	4.13.16	156	ENVO:human-associated habitat
+SRS2391072.SRR5875780				MiSeqV1V3_29	V1-V3	Ciara	human	10	Right arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	49	30	4.13.16	156	ENVO:human-associated habitat
+SRS2391073.SRR5875781				MiSeqV1V3_29	V1-V3	Ciara	human	10	Left arm	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	49	30	4.13.16	144	ENVO:human-associated habitat
+SRS2391076.SRR5875782				MiSeqV1V3_29	V1-V3	Ciara	human	11	Right thigh	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	25	30	4.13.16	144	ENVO:human-associated habitat
+SRS2391075.SRR5875783				MiSeqV1V3_29	V1-V3	Ciara	human	11	Right thigh	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	25	30	4.13.16	144	ENVO:human-associated habitat
+SRS2391077.SRR5875784				MiSeqV1V3_29	V1-V3	Ciara	human	11	Left thigh	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	25	30	4.13.16		ENVO:human-associated habitat
+SRS2391081.SRR5875785				MiSeqV1V3_29	V1-V3	Ciara	human	12	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	70	30	4.13.16		ENVO:human-associated habitat
+SRS2391080.SRR5875786				MiSeqV1V3_29	V1-V3	Ciara	human	12	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	70	30	4.13.16		ENVO:human-associated habitat
+SRS2391078.SRR5875787				MiSeqV1V3_29	V1-V3	Ciara	human	12	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	70	30	4.13.16	289	ENVO:human-associated habitat
+SRS2391079.SRR5875788				MiSeqV1V3_29	V1-V3	Ciara	human	13	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	3300	40	4.13.16	289	ENVO:human-associated habitat
+SRS2391082.SRR5875789				MiSeqV1V3_29	V1-V3	Ciara	human	13	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	3300	40	4.13.16	289	ENVO:human-associated habitat
+SRS2391083.SRR5875790				MiSeqV1V3_29	V1-V3	Ciara	human	13	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	3300	40	4.13.16	255	ENVO:human-associated habitat
+SRS2391084.SRR5875791				MiSeqV1V3_29	V1-V3	Ciara	human	14	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	180	30	4.13.16	255	ENVO:human-associated habitat
+SRS2391085.SRR5875792				MiSeqV1V3_29	V1-V3	Ciara	human	14	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	180	30	4.13.16	255	ENVO:human-associated habitat
+SRS2391087.SRR5875793				MiSeqV1V3_29		Ciara	human	14	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	180	30	4.13.16		ENVO:human-associated habitat
+SRS2391086.SRR5875794				MiSeqV1V3_29		Ciara	human	15	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes		90	10	4.13.16		ENVO:human-associated habitat
+SRS2391089.SRR5875795				MiSeqV1V3_29		Ciara	human	15	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes		90	10	4.13.16		ENVO:human-associated habitat
+SRS2391088.SRR5875796				MiSeqV1V3_29		Ciara	human	16	Left arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes		200	60	4.13.16		ENVO:human-associated habitat
+SRS2391090.SRR5875797				MiSeqV1V3_29		Ciara	human	16	Right arm	Skin epidermis	Sebum	Skin swab	Normal	Dry			200	60	4.13.16		ENVO:human-associated habitat
+SRS2391091.SRR5875798				MiSeqV1V3_29		Ciara	human	17	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	380	40	4.13.16		ENVO:human-associated habitat
+SRS2391092.SRR5875799				MiSeqV1V3_29		Ciara	human	17	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	380	40	4.13.16		ENVO:human-associated habitat
+SRS2391093.SRR5875800				MiSeqV1V3_29	V1-V3	Ciara	human	18	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	2	780	21	4.13.16	100	ENVO:human-associated habitat
+SRS2391094.SRR5875801				MiSeqV1V3_29	V1-V3	Ciara	human	18	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	2	780	21	4.14.16	180	ENVO:human-associated habitat
+SRS2391095.SRR5875802				MiSeqV1V3_29	V1-V3	Ciara	human	18	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	2	780	21	4.14.16	180	ENVO:human-associated habitat
+SRS2391099.SRR5875803				MiSeqV1V3_29	V1-V3	Ciara	human	19	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	80	30	4.14.16	180	ENVO:human-associated habitat
+SRS2391096.SRR5875804				MiSeqV1V3_29	V1-V3	Ciara	human	19	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	80	30	4.14.16	255	ENVO:human-associated habitat
+SRS2391097.SRR5875805				MiSeqV1V3_29	V1-V3	Ciara	human	19	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	80	30	4.14.16	255	ENVO:human-associated habitat
+SRS2391098.SRR5875806				MiSeqV1V3_29	V1-V3	Ciara	human	20	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	2	500	60	4.14.16	255	ENVO:human-associated habitat
+SRS2391100.SRR5875807				MiSeqV1V3_29	V1-V3	Ciara	human	20	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	2	500	60	4.14.16	300	ENVO:human-associated habitat
+SRS2391101.SRR5875808				MiSeqV1V3_29	V1-V3	Ciara	human	20	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	2	500	60	4.14.16	300	ENVO:human-associated habitat
+SRS2391102.SRR5875809				MiSeqV1V3_29	V1-V3	Ciara	human	21	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	2	100	60	4.14.16	300	ENVO:human-associated habitat
+SRS2391104.SRR5875810				MiSeqV1V3_29	V1-V3	Ciara	human	21	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	2	100	60	4.14.16	285	ENVO:human-associated habitat
+SRS2391103.SRR5875811				MiSeqV1V3_29	V1-V3	Ciara	human	21	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	2	100	60	4.14.16	285	ENVO:human-associated habitat
+SRS2391105.SRR5875812				MiSeqV1V3_29	V1-V3	Ciara	human	22	Left foot	Skin epidermis	Sebum	Skin swab	Lesion	Moist	Yes	1	24	60	4.14.16	285	ENVO:human-associated habitat
+SRS2391108.SRR5875813				MiSeqV1V3_29	V1-V3	Ciara	human	22	Left foot	Skin epidermis	Sebum	Skin swab	Border	Moist	Yes	1	24	60	4.14.16	180	ENVO:human-associated habitat
+SRS2391106.SRR5875814				MiSeqV1V3_29	V1-V3	Ciara	human	22	Right foot	Skin epidermis	Sebum	Skin swab	Normal	Moist	Yes	1	24	60	4.14.16	180	ENVO:human-associated habitat
+SRS2391107.SRR5875815				MiSeqV1V3_29	V1-V3	Ciara	human	23	Left arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	130	30	4.14.16	180	ENVO:human-associated habitat
+SRS2391110.SRR5875816				MiSeqV1V3_29	V1-V3	Ciara	human	23	Left arm	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	130	30	4.14.16	272	ENVO:human-associated habitat
+SRS2391109.SRR5875817				MiSeqV1V3_29	V1-V3	Ciara	human	23	Right arm	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	130	30	4.14.16	272	ENVO:human-associated habitat
+SRS2391111.SRR5875818				MiSeqV1V3_29	V1-V3	Ciara	human	24	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	150	21	4.14.16	272	ENVO:human-associated habitat
+SRS2391112.SRR5875819				MiSeqV1V3_29	V1-V3	Ciara	human	24	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	150	21	4.14.16	1085	ENVO:human-associated habitat
+SRS2391113.SRR5875820				MiSeqV1V3_29	V1-V3	Ciara	human	24	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	150	21	4.14.16	1085	ENVO:human-associated habitat
+SRS2391114.SRR5875821				MiSeqV1V3_29	V1-V3	Ciara	human	25	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	270	30	4.14.16	1085	ENVO:human-associated habitat
+SRS2391118.SRR5875822				MiSeqV1V3_29	V1-V3	Ciara	human	25	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	270	30	4.14.16	130	ENVO:human-associated habitat
+SRS2391115.SRR5875823				MiSeqV1V3_29	V1-V3	Ciara	human	25	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	270	30	4.14.16	130	ENVO:human-associated habitat
+SRS2391116.SRR5875824				MiSeqV1V3_29	V1-V3	Ciara	human	26	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	1575	60	4.14.16	130	ENVO:human-associated habitat
+SRS2391117.SRR5875825				MiSeqV1V3_29	V1-V3	Ciara	human	26	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	1575	60	4.15.16	208	ENVO:human-associated habitat
+SRS2391119.SRR5875826				MiSeqV1V3_29	V1-V3	Ciara	human	26	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	1575	60	4.15.16	208	ENVO:human-associated habitat
+SRS2391120.SRR5875827				MiSeqV1V3_29	V1-V3	Ciara	human	27	Head	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	2	192	34	4.15.16	700	ENVO:human-associated habitat
+SRS2391122.SRR5875828				MiSeqV1V3_29	V1-V3	Ciara	human	27	Head	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	2	192	34	4.15.16	700	ENVO:human-associated habitat
+SRS2391121.SRR5875829				MiSeqV1V3_29	V1-V3	Ciara	human	27	Head	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	2	192	34	4.15.16	460	ENVO:human-associated habitat
+SRS2391123.SRR5875830				MiSeqV1V3_29	V1-V3	Ciara	human	28	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	480	14	4.15.16	460	ENVO:human-associated habitat
+SRS2391124.SRR5875831				MiSeqV1V3_29	V1-V3	Ciara	human	28	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	480	14	4.15.16	132	ENVO:human-associated habitat
+SRS2391126.SRR5875832				MiSeqV1V3_29	V1-V3	Ciara	human	29	Abdomen	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	No		325		4.15.16	100	ENVO:human-associated habitat
+SRS2391125.SRR5875833				MiSeqV1V3_29	V1-V3	Ciara	human	29	Abdomen	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	No		325		4.15.16	100	ENVO:human-associated habitat
+SRS2391127.SRR5875834				MiSeqV1V3_29	V1-V3	Ciara	human	30	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	130	20	4.15.16	441	ENVO:human-associated habitat
+SRS2391128.SRR5875835				MiSeqV1V3_29	V1-V3	Ciara	human	30	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	130	20	4.15.16	441	ENVO:human-associated habitat
+SRS2391130.SRR5875836				MiSeqV1V3_29	V1-V3	Ciara	human	31	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	35	45	4.15.16	440	ENVO:human-associated habitat
+SRS2391129.SRR5875837				MiSeqV1V3_29	V1-V3	Ciara	human	31	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	35	45	4.15.16	440	ENVO:human-associated habitat
+SRS2391131.SRR5875838				MiSeqV1V3_29	V1-V3	Ciara	human	31	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	35	45	4.15.16	440	ENVO:human-associated habitat
+SRS2391132.SRR5875839				MiSeqV1V3_29	V1-V3	Ciara	human	32	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	49	20	4.15.16	225	ENVO:human-associated habitat
+SRS2391136.SRR5875840				MiSeqV1V3_29	V1-V3	Ciara	human	32	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	49	20	4.15.16	225	ENVO:human-associated habitat
+SRS2391134.SRR5875841				MiSeqV1V3_29	V1-V3	Ciara	human	32	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	49	20	4.15.16	225	ENVO:human-associated habitat
+SRS2391133.SRR5875842				MiSeqV1V3_29	V1-V3	Ciara	human	33	Right foot	Skin epidermis	Sebum	Skin swab	Border	Moist	Yes	1	306	15	4.15.16	300	ENVO:human-associated habitat
+SRS2391135.SRR5875843				MiSeqV1V3_29	V1-V3	Ciara	human	33	Right foot	Skin epidermis	Sebum	Skin swab	Lesion	Moist	Yes	1	306	15	4.15.16	300	ENVO:human-associated habitat
+SRS2391138.SRR5875844				MiSeqV1V3_29	V1-V3	Ciara	human	33	Left foot	Skin epidermis	Sebum	Skin swab	Normal	Moist	Yes	1	306	15	4.15.16	300	ENVO:human-associated habitat
+SRS2391137.SRR5875845				MiSeqV1V3_29	V1-V3	Ciara	human	34	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	400	35	4.15.16	144	ENVO:human-associated habitat
+SRS2391139.SRR5875846				MiSeqV1V3_29	V1-V3	Ciara	human	34	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	400	35	4.15.16	144	ENVO:human-associated habitat
+SRS2391140.SRR5875847				MiSeqV1V3_29	V1-V3	Ciara	human	34	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	400	35	4.15.16	144	ENVO:human-associated habitat
+SRS2391143.SRR5875848				MiSeqV1V3_29	V1-V3	Ciara	human	35	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	25	15	4.15.16	725	ENVO:human-associated habitat
+SRS2391141.SRR5875849				MiSeqV1V3_29	V1-V3	Ciara	human	35	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	25	15	4.15.16	725	ENVO:human-associated habitat
+SRS2391144.SRR5875850				MiSeqV1V3_29	V1-V3	Ciara	human	35	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	25	15	4.15.16	440	ENVO:human-associated habitat
+SRS2391142.SRR5875851				MiSeqV1V3_29	V1-V3	Ciara	human	36	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes		77	30	4.15.16	440	ENVO:human-associated habitat
+SRS2391145.SRR5875852				MiSeqV1V3_29	V1-V3	Ciara	human	36	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes		77	30	4.15.16	440	ENVO:human-associated habitat
+SRS2391146.SRR5875853				MiSeqV1V3_29	V1-V3	Ciara	human	36	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes		77	30	4.15.16	225	ENVO:human-associated habitat
+SRS2391147.SRR5875854				MiSeqV1V3_29	V1-V3	Ciara	human	37	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	330	90	4.15.16	225	ENVO:human-associated habitat
+SRS2391148.SRR5875855				MiSeqV1V3_29	V1-V3	Ciara	human	37	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	330	90	4.15.16	225	ENVO:human-associated habitat
+SRS2391149.SRR5875856				MiSeqV1V3_29	V1-V3	Ciara	human	37	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	330	90	4.15.16	0	ENVO:human-associated habitat
+SRS2391150.SRR5875857				MiSeqV1V3_29	V1-V3	Ciara	human	38	Left leg	Skin epidermis	Sebum	Skin swab	Border	Dry			1476	60	4.15.16	0	ENVO:human-associated habitat
+SRS2391153.SRR5875858				MiSeqV1V3_29	V1-V3	Ciara	human	38	Left leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry			1476	60	4.15.16	0	ENVO:human-associated habitat
+SRS2391151.SRR5875859				MiSeqV1V3_29	V1-V3	Ciara	human	38	Right leg	Skin epidermis	Sebum	Skin swab	Normal	Dry			1476	60	4.15.16	300	ENVO:human-associated habitat
+SRS2391152.SRR5875860				MiSeqV1V3_29	V1-V3	Ciara	human	39	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	272	20	4.15.16	400	ENVO:human-associated habitat
+SRS2391154.SRR5875861				MiSeqV1V3_29	V1-V3	Ciara	human	39	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	272	20	4.15.16	400	ENVO:human-associated habitat
+SRS2391156.SRR5875862				MiSeqV1V3_29	V1-V3	Ciara	human	39	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	272	20	4.15.16	400	ENVO:human-associated habitat
+SRS2391155.SRR5875863				MiSeqV1V3_29	V1-V3	Ciara	human	40	Right arm	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	1377	45	4.15.16	210	ENVO:human-associated habitat
+SRS2391157.SRR5875864				MiSeqV1V3_29	V1-V3	Ciara	human	40	Right arm	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	1377	45	4.15.16	210	ENVO:human-associated habitat
+SRS2391158.SRR5875865				MiSeqV1V3_29	V1-V3	Ciara	human	40	Left arm	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	1377	45	4.15.16	210	ENVO:human-associated habitat
+SRS2391161.SRR5875866				MiSeqV1V3_29	V1-V3	Ciara	human	41	Left chest	Skin epidermis	Sebum	Skin swab	Border	Sebaceous	Yes	2	30	20	4.15.16	130	ENVO:human-associated habitat
+SRS2391162.SRR5875867				MiSeqV1V3_29	V1-V3	Ciara	human	41	Left chest	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	2	30	20	4.15.16	130	ENVO:human-associated habitat
+SRS2391159.SRR5875868				MiSeqV1V3_29	V1-V3	Ciara	human	41	Right chest	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	2	30	20	4.15.16	110	ENVO:human-associated habitat
+SRS2391160.SRR5875869				MiSeqV1V3_29	V1-V3	Ciara	human	42	Back	Skin epidermis	Sebum	Skin swab	Border	Sebaceous	Yes	1	255	30	4.15.16	110	ENVO:human-associated habitat
+SRS2391165.SRR5875870				MiSeqV1V3_29	V1-V3	Ciara	human	42	Back	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	1	255	30	4.15.16	110	ENVO:human-associated habitat
+SRS2391163.SRR5875871				MiSeqV1V3_29	V1-V3	Ciara	human	42	Back	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	1	255	30	4.15.16	378	ENVO:human-associated habitat
+SRS2391167.SRR5875872				MiSeqV1V3_29	V1-V3	Ciara	human	43	Right leg	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	216	30	4.15.16	378	ENVO:human-associated habitat
+SRS2391168.SRR5875873				MiSeqV1V3_29	V1-V3	Ciara	human	43	Right leg	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	216	30	4.15.16	378	ENVO:human-associated habitat
+SRS2391164.SRR5875874				MiSeqV1V3_29	V1-V3	Ciara	human	43	Left leg	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	216	30	4.15.16	260	ENVO:human-associated habitat
+SRS2391166.SRR5875875				MiSeqV1V3_29	V1-V3	Ciara	human	44	Abdomen	Skin epidermis	Sebum	Skin swab	Border	Sebaceous	Yes	1	207	40	4.15.16	260	ENVO:human-associated habitat
+SRS2391169.SRR5875876				MiSeqV1V3_29	V1-V3	Ciara	human	44	Abdomen	Skin epidermis	Sebum	Skin swab	Lesion	Sebaceous	Yes	1	207	40	4.15.16	400	ENVO:human-associated habitat
+SRS2391170.SRR5875877				MiSeqV1V3_29	V1-V3	Ciara	human	44	Abdomen	Skin epidermis	Sebum	Skin swab	Normal	Sebaceous	Yes	1	207	40	4.15.16	400	ENVO:human-associated habitat
+SRS2391172.SRR5875878				MiSeqV1V3_29	V1-V3	Ciara	human	45	Left thigh	Skin epidermis	Sebum	Skin swab	Border	Dry	Yes	1	340	90	4.15.16		ENVO:human-associated habitat
+SRS2391173.SRR5875879				MiSeqV1V3_29	V1-V3	Ciara	human	45	Left thigh	Skin epidermis	Sebum	Skin swab	Lesion	Dry	Yes	1	340	90	4.15.16		ENVO:human-associated habitat
+SRS2391171.SRR5875880				MiSeqV1V3_29	V1-V3	Ciara	human	45	Right thigh	Skin epidermis	Sebum	Skin swab	Normal	Dry	Yes	1	340	90	4.15.16	441	ENVO:human-associated habitat

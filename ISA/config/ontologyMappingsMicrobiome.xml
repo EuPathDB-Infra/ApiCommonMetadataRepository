@@ -82,6 +82,9 @@
     <function>splitUnitFromValue</function>
     <function>setUnitToYear</function>
   </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000671" type="characteristicQualifier">
+    <name>sample from organism</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000579" type="characteristicQualifier" parent="Source">
     <name>day_of_life</name>
   </ontologyTerm>
