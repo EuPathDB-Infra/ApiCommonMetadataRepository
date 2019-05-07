@@ -1,10 +1,10 @@
 Name	Description	sourcemtoverride	samplemtoverride	Characteristics [sex]	Characteristics [age]	Characteristics [parasite_density_by_microscope]	PCR	characteristics[parasite organism]
-C1				N.A.	21 Ð 42 years	N.A.	N.A.	Plasmodium falciparum
-C2				N.A.	21 Ð 42 years	N.A.	N.A.	Plasmodium falciparum
-C3				N.A.	21 Ð 42 years	N.A.	N.A.	Plasmodium falciparum
-C4				N.A.	21 Ð 42 years	N.A.	N.A.	Plasmodium falciparum
-C5				N.A.	21 Ð 42 years	N.A.	N.A.	Plasmodium falciparum
-C6				N.A.	21 Ð 42 years	N.A.	N.A.	Plasmodium falciparum
+C1				N.A.	21-42 years	N.A.	N.A.	Plasmodium falciparum
+C2				N.A.	21-42 years	N.A.	N.A.	Plasmodium falciparum
+C3				N.A.	21-42 years	N.A.	N.A.	Plasmodium falciparum
+C4				N.A.	21-42 years	N.A.	N.A.	Plasmodium falciparum
+C5				N.A.	21-42 years	N.A.	N.A.	Plasmodium falciparum
+C6				N.A.	21-42 years	N.A.	N.A.	Plasmodium falciparum
 18				M	6 years	26000 parasite/ul	+	Plasmodium falciparum
 22				M	16 years	5600 parasite/ul	+	Plasmodium falciparum
 31				F	12 years	11200 parasite/ul	+	Plasmodium falciparum
