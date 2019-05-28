@@ -552,6 +552,10 @@
   <ontologyTerm source_id="EUPATH_0000748" type="characteristicQualifier" parent="Sample">
     <name>iPCR result</name>
   </ontologyTerm>
+
+  <ontologyTerm source_id="EUPATH_0005033" type="characteristicQualifier" parent="Sample">
+    <name>PCR result</name>
+  </ontologyTerm>
   
   <ontologyTerm source_id="EUPATH_0000289" type="characteristicQualifier" parent="Sample">
     <name>haplogroup</name>
