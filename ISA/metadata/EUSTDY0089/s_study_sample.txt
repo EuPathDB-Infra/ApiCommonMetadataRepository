@@ -1,100 +1,34 @@
 Name	Description	sourcemtoverride	samplemtoverride	Characteristics [sex]	Characteristics [age]	Characteristics [parasite_density_by_microscope]	Characteristics [PCR result]	Characteristics [fever]	characteristics[parasite organism]
-bioinf_C1					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-bioinf_C2					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-bioinf_C3					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-bioinf_C4					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-bioinf_C5					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-bioinf_C6					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-bioinf_18				Male	6 years	26000 parasite/ul	positive	Yes	Plasmodium falciparum
-bioinf_22				Male	16 years	5600 parasite/ul	positive	No	Plasmodium falciparum
-bioinf_31				Female	12 years	11200 parasite/ul	positive	Yes	Plasmodium falciparum
-bioinf_35				Female	50 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-bioinf_37				Male	10 years	23200 parasite/ul	positive	Yes	Plasmodium falciparum
-bioinf_75				Female	47 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-bioinf_86				Female	50 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-bioinf_102				Male	25 years	200 parasite/ul	positive	No	Plasmodium falciparum
-bioinf_121				Female	48 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-bioinf_133				Male	45 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-bioinf_151				Female	50 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-bioinf_167				Female	40 years	2240 parasite/ul	positive	N.A.	Plasmodium falciparum
-bioinf_199				Female	53 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-bioinf_207				Female	0.67 years	8000 parasite/ul	positive	No	Plasmodium falciparum
-bioinf_216				Male	13 years	13600 parasite/ul	positive	No	Plasmodium falciparum
-bioinf_223				Male	32 years	3040 parasite/ul	positive	N.A.	Plasmodium falciparum
-bioinf_226				Female	56 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-bioinf_234				Female	50 years	0 parasite/ul	barely detectable	N.A.	Plasmodium falciparum
-bioinf_235				Female	18 years	4240 parasite/ul	positive	N.A.	Plasmodium falciparum
-bioinf_241				Female	54 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-bioinf_258				Female	49 years	0 parasite/ul	barely detectable	N.A.	Plasmodium falciparum
-bioinf_261				Male	7 years	7080 parasite/ul	positive	No	Plasmodium falciparum
-bioinf_272				Male	54 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-bioinf_276				Female	48 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-bioinf_290				Female	50 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-bioinf_292				Female	53 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-bioinf_294				Female	49 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum 
-random_C1					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-random_C2					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-random_C3					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-random_C4					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-random_C5					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-random_C6					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-random_18				Male	6 years	26000 parasite/ul	positive	Yes	Plasmodium falciparum
-random_22				Male	16 years	5600 parasite/ul	positive	No	Plasmodium falciparum
-random_31				Female	12 years	11200 parasite/ul	positive	Yes	Plasmodium falciparum
-random_35				Female	50 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-random_37				Male	10 years	23200 parasite/ul	positive	Yes	Plasmodium falciparum
-random_75				Female	47 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-random_86				Female	50 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-random_102				Male	25 years	200 parasite/ul	positive	No	Plasmodium falciparum
-random_121				Female	48 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-random_133				Male	45 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-random_151				Female	50 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-random_167				Female	40 years	2240 parasite/ul	positive	N.A.	Plasmodium falciparum
-random_199				Female	53 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-random_207				Female	0.67 years	8000 parasite/ul	positive	No	Plasmodium falciparum
-random_216				Male	13 years	13600 parasite/ul	positive	No	Plasmodium falciparum
-random_223				Male	32 years	3040 parasite/ul	positive	N.A.	Plasmodium falciparum
-random_226				Female	56 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-random_234				Female	50 years	0 parasite/ul	barely detectable	N.A.	Plasmodium falciparum
-random_235				Female	18 years	4240 parasite/ul	positive	N.A.	Plasmodium falciparum
-random_241				Female	54 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-random_258				Female	49 years	0 parasite/ul	barely detectable	N.A.	Plasmodium falciparum
-random_261				Male	7 years	7080 parasite/ul	positive	No	Plasmodium falciparum
-random_272				Male	54 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-random_276				Female	48 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-random_290				Female	50 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-random_292				Female	53 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-random_294				Female	49 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum 
-vaccine_C1					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-vaccine_C2					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-vaccine_C3					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-vaccine_C4					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-vaccine_C5					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-vaccine_C6					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
-vaccine_18				Male	6 years	26000 parasite/ul	positive	Yes	Plasmodium falciparum
-vaccine_22				Male	16 years	5600 parasite/ul	positive	No	Plasmodium falciparum
-vaccine_31				Female	12 years	11200 parasite/ul	positive	Yes	Plasmodium falciparum
-vaccine_35				Female	50 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-vaccine_37				Male	10 years	23200 parasite/ul	positive	Yes	Plasmodium falciparum
-vaccine_75				Female	47 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-vaccine_86				Female	50 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-vaccine_102				Male	25 years	200 parasite/ul	positive	No	Plasmodium falciparum
-vaccine_121				Female	48 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-vaccine_133				Male	45 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-vaccine_151				Female	50 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-vaccine_167				Female	40 years	2240 parasite/ul	positive	N.A.	Plasmodium falciparum
-vaccine_199				Female	53 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-vaccine_207				Female	0.67 years	8000 parasite/ul	positive	No	Plasmodium falciparum
-vaccine_216				Male	13 years	13600 parasite/ul	positive	No	Plasmodium falciparum
-vaccine_223				Male	32 years	3040 parasite/ul	positive	N.A.	Plasmodium falciparum
-vaccine_226				Female	56 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-vaccine_234				Female	50 years	0 parasite/ul	barely detectable	N.A.	Plasmodium falciparum
-vaccine_235				Female	18 years	4240 parasite/ul	positive	N.A.	Plasmodium falciparum
-vaccine_241				Female	54 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
-vaccine_258				Female	49 years	0 parasite/ul	barely detectable	N.A.	Plasmodium falciparum
-vaccine_261				Male	7 years	7080 parasite/ul	positive	No	Plasmodium falciparum
-vaccine_272				Male	54 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-vaccine_276				Female	48 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-vaccine_290				Female	50 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-vaccine_292				Female	53 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
-vaccine_294				Female	49 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
+C1					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
+C2					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
+C3					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
+C4					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
+C5					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
+C6					21-42 years	N.A.	N.A.	N.A.	Plasmodium falciparum
+18				Male	6 years	26000 parasite/ul	positive	Yes	Plasmodium falciparum
+22				Male	16 years	5600 parasite/ul	positive	No	Plasmodium falciparum
+31				Female	12 years	11200 parasite/ul	positive	Yes	Plasmodium falciparum
+35				Female	50 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
+37				Male	10 years	23200 parasite/ul	positive	Yes	Plasmodium falciparum
+75				Female	47 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
+86				Female	50 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
+102				Male	25 years	200 parasite/ul	positive	No	Plasmodium falciparum
+121				Female	48 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
+133				Male	45 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
+151				Female	50 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
+167				Female	40 years	2240 parasite/ul	positive	N.A.	Plasmodium falciparum
+199				Female	53 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
+207				Female	0.67 years	8000 parasite/ul	positive	No	Plasmodium falciparum
+216				Male	13 years	13600 parasite/ul	positive	No	Plasmodium falciparum
+223				Male	32 years	3040 parasite/ul	positive	N.A.	Plasmodium falciparum
+226				Female	56 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
+234				Female	50 years	0 parasite/ul	barely detectable	N.A.	Plasmodium falciparum
+235				Female	18 years	4240 parasite/ul	positive	N.A.	Plasmodium falciparum
+241				Female	54 years	0 parasite/ul	positive	N.A.	Plasmodium falciparum
+258				Female	49 years	0 parasite/ul	barely detectable	N.A.	Plasmodium falciparum
+261				Male	7 years	7080 parasite/ul	positive	No	Plasmodium falciparum
+272				Male	54 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
+276				Female	48 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
+290				Female	50 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
+292				Female	53 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
+294				Female	49 years	0 parasite/ul	negative	N.A.	Plasmodium falciparum
