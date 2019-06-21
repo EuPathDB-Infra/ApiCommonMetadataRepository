@@ -1,0 +1,30 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Host Organism	Country	Location
+Sample 1						
+Sample 2						
+Sample 3						
+Sample 4						
+Sample 5				pig	Brazil	Alto Médio Canindé
+Sample 6				pig	Brazil	Floriano
+Sample 7				pig	Brazil	Alto Médio Canindé
+Sample 8				pig	Brazil	Alto Médio Canindé
+Sample 9				pig	Brazil	Alto Médio Canindé
+Sample 10				pig	Brazil	Alto Médio Canindé
+Sample 11				goat	Brazil	Litoral do Piauí
+Sample 12				pig	Brazil	Alto Médio Canindé
+Sample 13				pig	Brazil	Litoral do Piauí
+Sample 14				pig	Brazil	Litoral do Piauí
+Sample 15				goat	Brazil	Litoral do Piauí
+Sample 16				pig	Brazil	Alto Médio Canindé
+Sample 17				pig	Brazil	Alto Médio Canindé
+Sample 18				pig	Brazil	Alto Médio Canindé
+Sample 19				goat	Brazil	Alto Médio Canindé
+Sample 20				pig	Brazil	Litoral do Piauí
+Sample 21				goat	Brazil	Alto Médio Canindé
+Sample 22				goat	Brazil	Alto Médio Canindé
+Sample 23				goat	Brazil	Alto Médio Canindé
+Sample 24				goat	Brazil	Alto Médio Canindé
+Sample 25				goat	Brazil	Alto Médio Canindé
+Sample 26				goat	Brazil	Alto Médio Canindé
+Sample 27				pig	Brazil	Litoral do Piauí
+Sample 28				pig	Brazil	Floriano
+Sample 29				pig	Brazil	Litoral do Piauí
