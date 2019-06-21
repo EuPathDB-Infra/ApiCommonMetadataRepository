@@ -1,0 +1,26 @@
+<investigation identifierRegex="^(EUSTDY)\d+$" identifierIsDirectoryName="true">
+
+  <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>StudyResult_Bird_RFLP_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="RFLP assay"/>
+    <node name="DataTransformation" suffix="RFLPGenotype"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>RFLP assay</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+</investigation>
