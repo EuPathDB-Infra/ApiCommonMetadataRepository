@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Host Organism	Country	Location
+Name	Description	SourceMTOverride	SampleMTOverride	Host Organism	Country	City
 Sample 1				Rupornis magnirostris	Brazil	Belo Horizonte
 Sample 2				Colaptes campestris	Brazil	Belo Horizonte
 Sample 3				Megascops choliba	Brazil	Belo Horizonte
