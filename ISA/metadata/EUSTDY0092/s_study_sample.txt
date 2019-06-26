@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Host Organism	Country	City
+Name	Description	SourceMTOverride	SampleMTOverride	Host	Country	City
 Sample 1				pig	Brazil	Alto Médio Canindé
 Sample 2				pig	Brazil	Floriano
 Sample 3				pig	Brazil	Alto Médio Canindé
