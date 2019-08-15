@@ -20,6 +20,7 @@
   <ontologyTerm source_id="OBI_0001619" type="protocolParameter" parent="specimen collection">
     <name>Collection date</name>
     <name>collection_timestamp</name>
+    <name>Date Collected</name>
     <function>formatDate</function> 
   </ontologyTerm>
 
@@ -27,6 +28,11 @@
     <name>ExtractionDate</name>
     <function>formatDate</function> 
   </ontologyTerm>
+
+  <ontologyTerm source_id="EUPATH_0009021" type="protocolParameter" parent="DNA extraction">
+    <name>extraction_kit</name>
+  </ontologyTerm>
+
 
   <!-- Material Entity Types -->
   <ontologyTerm source_id="EUPATH_0000591" type="materialType">
@@ -75,6 +81,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000452" type="characteristicQualifier" parent="Source">
     <name>village</name>
+    <name>Location</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
     <name>age</name>
@@ -90,6 +97,22 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000512" type="characteristicQualifier" parent="Source">
     <name>host_common_name</name>
+    <name>species common name</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009024" type="characteristicQualifier" parent="Source">
+    <name>species</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009019" type="characteristicQualifier" parent="Source">
+    <name>genus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009020" type="characteristicQualifier" parent="Source">
+    <name>subspecies</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009023" type="characteristicQualifier" parent="Source">
+    <name>habitat</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009022" type="characteristicQualifier" parent="Source">
+    <name>Weight_to_use</name>
   </ontologyTerm>
   <ontologyTerm source_id="PATO_0000047" type="characteristicQualifier" parent="Source">
     <name>sex</name>
@@ -120,10 +143,12 @@
   <ontologyTerm source_id="OBI_0001620" type="characteristicQualifier" parent="Source">
     <name>latitude coordinate measurement datum</name>
     <name>latitude</name>
+    <function>parseDmsCoordinate</function>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001621" type="characteristicQualifier" parent="Source">
     <name>longitude coordinate measurement datum</name>
     <name>longitude</name>
+    <function>parseDmsCoordinate</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000578" type="characteristicQualifier" parent="Source">
     <name>depth</name>
@@ -241,6 +266,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000604" type="characteristicQualifier" parent="Source">
     <name>run_prefix_prep</name>
+    <name>miseq_run_number</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009002" type="characteristicQualifier" parent="Source">
     <name>source</name>
@@ -423,6 +449,36 @@
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00003750" type="characteristicValue" parent="characteristicQualifier">
     <name>Bangladesh</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001086" type="characteristicValue" parent="characteristicQualifier">
+    <name>Democratic Republic of the Congo</name>
+   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001088" type="characteristicValue" parent="characteristicQualifier">
+    <name>Republic of the Congo</name>
+   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000912" type="characteristicValue" parent="characteristicQualifier">
+    <name>Nigeria</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001107" type="characteristicValue" parent="characteristicQualifier">
+    <name>Zambia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001103" type="characteristicValue" parent="characteristicQualifier">
+    <name>Tanzania</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001102" type="characteristicValue" parent="characteristicQualifier">
+    <name>Uganda</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000906" type="characteristicValue" parent="characteristicQualifier">
+    <name>Ivory Coast</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000909" type="characteristicValue" parent="characteristicQualifier">
+    <name>Guinea</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002560" type="characteristicValue" parent="characteristicQualifier">
+    <name>Canada</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001093" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cameroon</name>
   </ontologyTerm>
  
   <!-- UBERON terms -->
