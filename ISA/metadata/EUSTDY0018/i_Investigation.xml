@@ -4,18 +4,22 @@
     <dataset>pfal3D7_chipChipExper_Artur_Scherf_RSRC</dataset>
 
 
-<node name="Source" type="cell culture" suffix="Source"/>  
+    <node name="Source" type="cell culture" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node isaObject="Extract" name="Extract1" type="DNA extract" suffix="DNA Extract"/>
+    <node isaObject="Extract" name="Extract2" type="DNA extract" suffix="IP Extract"/>
     <node name="Assay" suffix="ChIP-chip assay"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
     </edge>
-    <edge input="Sample" output="Extract">
+    <edge input="Sample" output="Extract1">
       <protocol>DNA extraction</protocol>
     </edge>
-    <edge input="Extract" output="Assay">
+    <edge input="Extract1" output="Extract2">
+        <protocol>sample preparation for assay</protocol>
+    </edge>
+    <edge input="Extract2" output="Assay">
         <protocol>ChIP-chip assay</protocol>
     </edge>
   </study>

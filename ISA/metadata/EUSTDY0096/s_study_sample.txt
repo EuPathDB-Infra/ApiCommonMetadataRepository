@@ -1,0 +1,18 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [organism]	Characteristics [specimen]	Characteristics [health_status]	Characteristics [fungus organism]	Characteristics [fungal strain]
+IFM62516	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	Chronic necrotizing pulmonary aspergillosis (CNPA)	Aspergillus fumigatus	Aspergillus fumigatus IFM62516
+IFM61610	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	Chronic necrotizing pulmonary aspergillosis (CNPA)	Aspergillus fumigatus	Aspergillus fumigatus IFM61610
+IFM55369	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	pulmonary aspergilloma (PA)	Aspergillus fumigatus	Aspergillus fumigatus IFM55369
+IFM62115	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	Chronic necrotizing pulmonary aspergillosis (CNPA)	Aspergillus fumigatus	Aspergillus fumigatus IFM62115
+IFM59365	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	pulmonary aspergilloma (PA)	Aspergillus fumigatus	Aspergillus fumigatus IFM59365
+IFM59073	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	Chronic necrotizing pulmonary aspergillosis (CNPA)	Aspergillus fumigatus	Aspergillus fumigatus IFM59073
+IFM61578	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	Chronic necrotizing pulmonary aspergillosis (CNPA)	Aspergillus fumigatus	Aspergillus fumigatus IFM61578
+IFM59056	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	pulmonary aspergilloma (PA)	Aspergillus fumigatus	Aspergillus fumigatus IFM59056
+IFM59361	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	pulmonary aspergilloma (PA)	Aspergillus fumigatus	Aspergillus fumigatus IFM59361
+IFM58026	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	pulmonary aspergilloma (PA)	Aspergillus fumigatus	Aspergillus fumigatus IFM58026
+IFM61407	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	Chronic necrotizing pulmonary aspergillosis (CNPA)	Aspergillus fumigatus	Aspergillus fumigatus IFM61407
+IFM58401	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	pulmonary aspergilloma (PA)	Aspergillus fumigatus	Aspergillus fumigatus IFM58401
+IFM59777	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	pulmonary aspergilloma (PA)	Aspergillus fumigatus	Aspergillus fumigatus IFM59777
+IFM59359	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	pulmonary aspergilloma (PA)	Aspergillus fumigatus	Aspergillus fumigatus IFM59359
+IFM58029	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	Chronic necrotizing pulmonary aspergillosis (CNPA)	Aspergillus fumigatus	Aspergillus fumigatus IFM58029
+IFM60514	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	Chronic necrotizing pulmonary aspergillosis (CNPA)	Aspergillus fumigatus	Aspergillus fumigatus IFM60514
+IFM61118	SNP calls on WGS of Aspergillus fumigatus strains isolated from patients with PA and CNPA			Human	Clinical	Chronic necrotizing pulmonary aspergillosis (CNPA)	Aspergillus fumigatus	Aspergillus fumigatus IFM61118
