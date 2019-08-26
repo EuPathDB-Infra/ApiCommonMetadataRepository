@@ -1,79 +1,58 @@
 <project name="ApiCommonMetadataRepository" default="Installation" basedir=".">
 
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
-  <!-- oooooooooooooooooooooooooo  Dependencies  oooooooooooooooooooooooooo -->
-  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
-
-
-  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
-  <!-- oooooooooooooooooooooooooo    Checkout    oooooooooooooooooooooooooo -->
-  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
-
-  <target name="ApiCommonMetadataRepository-ChildCheckout">
-    <available file="../ApiCommonWorkflow" type="dir" property="ApiCommonWorkflow.present" />
-    <antcall target="ApiCommonWorkflow-Checkout" />
-  </target>
-  
-  
-  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
-  <!-- oooooooooooooooooooooooooo    Update    oooooooooooooooooooooooooo -->
-  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
-
-  <target name="ApiCommonMetadataRepository-ChildUpdate" >
-    <ant target="defaultProjectUpdate">
-      <property name="project" value="ApiCommonWorkflow"/>
-    </ant>
-  </target>
-
-  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
   <!-- oooooooooooooooooooooooooo  Installation  oooooooooooooooooooooooooo -->
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
 
-  <target name="ApiCommonMetadataRepository-Installation" depends="ApiCommonMetadataRepository/ISA-Installation">
+  <target name="ApiCommonMetadataRepository-Installation"
+          depends="ApiCommonMetadataRepository/ISA-Installation">
     <ant target="defaultProjectInstall">
-      <property name="project" value="ApiCommonMetadataRepository"/>
+      <property name="project" value="ApiCommonMetadataRepository" />
     </ant>
-  </target>  
-   
+  </target>
+
 
   <!-- oooooooooooooooooo  Installation Postprocess  ooooooooooooooooooooo -->
 
   <target name="ApiCommonMetadataRepository-Installation-postprocess">
-    <echo message="Postprocessing the ApiCommonMetadataRepository installation"/>
+    <echo
+      message="Postprocessing the ApiCommonMetadataRepository installation" />
 
-    <replace dir="${targetDir}/bin" 
-             propertyFile="${targetDir}/config/replacements.prop" > 
+    <replace dir="${targetDir}/bin"
+             propertyFile="${targetDir}/config/replacements.prop">
       <include name="**/*" />
-      <replacefilter token="@perl@" property="perl"/>
-    </replace> 
+      <replacefilter token="@perl@" property="perl" />
+    </replace>
 
   </target>
 
 
   <!-- ooooooooooooooooooooooo  Install Components  ooooooooooooooooooooooo -->
 
-  <target name="ApiCommonMetadataRepository/ISA-Installation" depends="ProjectTree">
+  <target name="ApiCommonMetadataRepository/ISA-Installation"
+          depends="ProjectTree">
     <ant target="defaultComponentInstall">
-      <property name="project" value="ApiCommonMetadataRepository"/>
-      <property name="component" value="ISA"/>
+      <property name="project" value="ApiCommonMetadataRepository" />
+      <property name="component" value="ISA" />
     </ant>
 
 
-  </target>  
- 
+  </target>
+
 
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
   <!-- oooooooooooooooooooooooooo  Distributable  ooooooooooooooooooooooooo -->
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
 
-  <target name="ApiCommonMetadataRepository-Distributable" depends="ProjectTree">
+  <target name="ApiCommonMetadataRepository-Distributable"
+          depends="ProjectTree">
 
     <copy todir="${targetDir}">
-      <fileset dir="${projectsDir}" >
+      <fileset dir="${projectsDir}">
         <exclude name="**/CVS/*" />
       </fileset>
-    </copy>  
-  </target>  
+    </copy>
+  </target>
 
 
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
@@ -81,8 +60,8 @@
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
 
   <target name="ProjectTree" if="${checkout}">
-    <ant target="projectCheckOut"/>
-  </target>  
+    <ant target="projectCheckOut" />
+  </target>
 
 </project>
 
