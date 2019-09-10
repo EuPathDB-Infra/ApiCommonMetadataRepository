@@ -2,7 +2,7 @@
 
 <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
 
-  <dataset>bdenJEL423_Fisher_HammersmithBGI_SNP_RSRC</dataset>
+  <dataset>bdenJEL423_Fisher_Hammersmith_SNP_RSRC</dataset>
 
   <node name="Source" type="host" suffix="Source"/>  
   <node name="Sample" type="sample from organism"/>  
