@@ -1,0 +1,12 @@
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collection year	Characteristics[country]	Characteristics [city]	Characteristics [host_common_name]	Characteristics [fungus organism]	Characteristics [fungal strain]
+BR1	BGI SNPs			2011	Switzerland	Brandsitengraben	Alexteroon obstetricans	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis BR1
+CH4	BGI SNPs			2011	Switzerland	Chnubel	Alexteroon obstetricans	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis CH4
+CHAL3	BGI SNPs			2011	Switzerland	Chalchofen	Alexteroon obstetricans	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis CHAL3
+HER3	BGI SNPs			2011	Switzerland	Hergiswald	Alexteroon obstetricans	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis HER3
+LHURS8	BGI SNPs			2011	France	Pyrenees	Alexteroon obstetricans	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis LHURS8
+MAL05	BGI SNPs			2011	United Kingdom	Kent	Microhylidae alpestris	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis MAL05
+RAS3	BGI SNPs			2011	Switzerland	Raschenhaus	Alexteroon obstetricans	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis RAS3
+SCH	BGI SNPs			2011	Switzerland	Schauensee	Alexteroon obstetricans	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis SCH
+STR3	BGI SNPs			2011	Switzerland	Strickrain	Alexteroon obstetricans	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis STR3
+TORO1	BGI SNPs			2011	Spain	Mainland	Alexteroon obstetricans	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis TORO1
+VOR3	BGI SNPs			2011	Switzerland	Vorder Birnbaum	Alexteroon obstetricans	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis VOR3
