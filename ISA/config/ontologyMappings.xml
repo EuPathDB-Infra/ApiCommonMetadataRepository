@@ -1089,7 +1089,10 @@
   <ontologyTerm source_id="GAZ_00002932" type="characteristicValue" parent="characteristicQualifier">
     <name>Peru</name>
   </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00005275" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="GAZ_00002941" type="characteristicValue" parent="characteristicQualifier">
+    <name>Switzerland</name>
+  </ontologyTerm> 
+ <ontologyTerm source_id="GAZ_00005275" type="characteristicValue" parent="characteristicQualifier">
     <name>Solomon Islands</name>
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00003744" type="characteristicValue" parent="characteristicQualifier">
