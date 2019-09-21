@@ -8,7 +8,7 @@ BLI1	Hammersmith SNPs			2010	Switzerland	Itingen	Alexteroon obstetricans	Batrach
 CON2A	Hammersmith SNPs			2007	Switzerland	Gamlikon	Alexteroon obstetricans	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis CON2A
 ETH2	Hammersmith SNPs			2011	Ethiopia	Hotcho	Afrixalus enseticola	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis ETH2
 ETH4	Hammersmith SNPs			2011	Ethiopia	Telilia Stream near Rira	Leptopelis species	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis ETH4
-JEL423	Hammersmith SNPs			2004	Panama	Guabal	Pachylemur lemur	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis JEL423
+JEL423_reference1	Hammersmith SNPs			2004	Panama	Guabal	Pachylemur lemur	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis JEL423_reference1
 MAD	Hammersmith SNPs			2010	France	Madamette	Alexteroon obstetricans	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis MAD
 MG1	Hammersmith SNPs			2010	South Africa	Mount, KZN	Amietia vertebralis	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis MG1
 MG4	Hammersmith SNPs			2010	South Africa	SilverMine, KZN	Amietia fuscigula	Batrachochytrium dendrobatidis	Batrachochytrium dendrobatidis MG4
