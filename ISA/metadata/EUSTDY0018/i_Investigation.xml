@@ -1,18 +1,17 @@
-<investigation identifierRegex="^(EUSTDY)\d+$" identifierIsDirectoryName="true">
+<investigation identifierRegex="^(EUSTDY)\d+$" identifierIsDirectoryName="true">                                                                                                                           
 
   <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
     <dataset>pfal3D7_chipChipExper_Artur_Scherf_RSRC</dataset>
 
-
-    <node name="Source" type="cell culture" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
     <node isaObject="Extract" name="Extract1" type="DNA extract" suffix="DNA Extract"/>
     <node isaObject="Extract" name="Extract2" type="DNA extract" suffix="IP Extract"/>
-    <node name="Assay" suffix="ChIP-chip assay"/>
+    <node name="Assay" suffix="Hybridization"/>
+    <node name="DataFile" suffix="Raw Data"/>
+    <node isaObject="DataTransformation" name="Smoothed" suffix="_smoothed (ChIP-chip)" useExactSuffix="true"/>
+    <node isaObject="DataTransformation" name="Peaks" suffix="_peaks (ChIP-chip)" useExactSuffix="true"/>
 
-    <edge input="Source" output="Sample">
-        <protocol>specimen collection</protocol>
-    </edge>
+
     <edge input="Sample" output="Extract1">
       <protocol>DNA extraction</protocol>
     </edge>
@@ -20,8 +19,19 @@
         <protocol>sample preparation for assay</protocol>
     </edge>
     <edge input="Extract2" output="Assay">
-        <protocol>ChIP-chip assay</protocol>
+        <protocol>labeling</protocol>
+        <protocol>nucleic acid hybridization</protocol>
     </edge>
+    <edge input="Assay" output="DataFile">
+        <protocol>data collection</protocol>
+    </edge>
+    <edge input="DataFile" output="Smoothed">
+        <protocol>data transformation</protocol>
+    </edge>
+    <edge input="DataFile" output="Peaks">
+        <protocol>data transformation</protocol>
+    </edge>
+
   </study>
 
 </investigation>
