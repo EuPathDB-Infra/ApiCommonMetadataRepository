@@ -1,5 +1,5 @@
 Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [specimen]	Characteristics [parasite organism]	Characteristics [parasite lifecycle stage]	Characteristics [parasite strain]
-H3K9ac_troph_smoothed	H3K9ac_troph			cell specimen	Plasmodium falciparum	trophozoite	Plasmodium falciparum 3D7
-H4_ring_smoothed	H4_ring			cell specimen	Plasmodium falciparum	ring	Plasmodium falciparum 3D7
-H4_schizont_smoothed	H4_schizont			cell specimen	Plasmodium falciparum	schizont	Plasmodium falciparum 3D7
-H4_trophozoite_smoothed	H4_trophozoite			cell specimen	Plasmodium falciparum	trophozoite	Plasmodium falciparum 3D7
+H3K9ac_troph	H3K9ac_troph			cell specimen	Plasmodium falciparum	trophozoite	Plasmodium falciparum 3D7
+H4_ring	H4_ring			cell specimen	Plasmodium falciparum	ring	Plasmodium falciparum 3D7
+H4_schizont	H4_schizont			cell specimen	Plasmodium falciparum	schizont	Plasmodium falciparum 3D7
+H4_trophozoite	H4_trophozoite			cell specimen	Plasmodium falciparum	trophozoite	Plasmodium falciparum 3D7
