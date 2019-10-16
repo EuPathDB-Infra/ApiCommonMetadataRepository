@@ -66,7 +66,6 @@
   <!-- Characteristics associated with Source -->
   <ontologyTerm source_id="EUPATH_0015400" type="characteristicQualifier" parent="Source">
     <name>age_months</name>
-    <name>Age of donor at time of fecal sample collection (months)</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0010367" type="characteristicQualifier" parent="Source">
     <name>age_factor</name>
@@ -340,7 +339,9 @@
   <ontologyTerm source_id="EUPATH_0011894" type="characteristicQualifier" parent="Source">
     <name>HAZ</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="EUPATH_0009030" type="characteristicQualifier" parent="Source">
+    <name>SRA study ID</name>
+  </ontologyTerm>
 
   <!-- Characteristics associated with Sample -->
 
@@ -402,6 +403,17 @@
   <ontologyTerm source_id="EUPATH_0009026" type="characteristicQualifier" parent="Sample">
     <name>run</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009028" type="characteristicQualifier" parent="Sample">
+    <name>Monthly Sample</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009029" type="characteristicQualifier" parent="Sample">
+    <name>Age (months)</name>
+    <name>Age of donor at time of fecal sample collection (months)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009031" type="characteristicQualifier" parent="Sample">
+    <name>Barcode Sequence</name>
+  </ontologyTerm>
+
   
 <!-- characteristicValues -->
   <!-- PATO terms -->
