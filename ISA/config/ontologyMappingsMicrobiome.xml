@@ -64,8 +64,16 @@
   </ontologyTerm> 
 
   <!-- Characteristics associated with Source -->
+
+  <ontologyTerm source_id="EUPATH_0000138" type="characteristicQualifier" parent="Source">
+    <name>observation period</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0011678" type="characteristicQualifier" parent="Source">
+    <name>number of who food groups</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0015400" type="characteristicQualifier" parent="Source">
     <name>age_months</name>
+    <name>age in months</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0010367" type="characteristicQualifier" parent="Source">
     <name>age_factor</name>
@@ -205,6 +213,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000493" type="characteristicQualifier" parent="Source">
     <name>family</name>
+    <name>family id</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000494" type="characteristicQualifier" parent="Source">
     <name>house</name>
@@ -368,6 +377,7 @@
   <ontologyTerm source_id="OBI_0100051" type="characteristicQualifier" parent="Sample">
     <name>sample_type</name>
     <name>sampletype</name>
+    <name>sample type</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001891" type="characteristicQualifier" parent="Sample">
     <name>sequencecenter</name>
