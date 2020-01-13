@@ -377,7 +377,6 @@
   <ontologyTerm source_id="OBI_0100051" type="characteristicQualifier" parent="Sample">
     <name>sample_type</name>
     <name>sampletype</name>
-    <name>sample type</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001891" type="characteristicQualifier" parent="Sample">
     <name>sequencecenter</name>
