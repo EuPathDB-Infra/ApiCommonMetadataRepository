@@ -1,7 +1,7 @@
 <investigation identifierRegex="^(MBSTDY)\d+$" identifierIsDirectoryName="true">
 
-  <study fileName="s_study_sample_MALED-diarrhea.txt" identifierSuffix="-14" sampleRegex="MBSMPL">
-    <dataset>otuDADA2_MALED-diarrhea_RSRC</dataset>
+  <study fileName="s_study_sample_MALED_diarrhea.txt" identifierSuffix="-14" sampleRegex="MBSMPL">
+    <dataset>otuDADA2_MALED_diarrhea_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>
     <node name="Sample" type="sample from organism"/>
