@@ -65,6 +65,81 @@
 
   <!-- Characteristics associated with Source -->
 
+  <ontologyTerm source_id="EuPathDB_0009032" type="characteristicQualifier" parent="Source">
+  <name>born stunted</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009033" type="characteristicQualifier" parent="Source">
+  <name>severely stunted at sampling</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009034" type="characteristicQualifier" parent="Source">
+  <name>stunted 3 months after sampling</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009035" type="characteristicQualifier" parent="Source">
+  <name>stunted at sampling</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009036" type="characteristicQualifier" parent="Source">
+  <name>laz 1 month after sampling</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009037" type="characteristicQualifier" parent="Source">
+  <name>laz 3 months after sampling</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009038" type="characteristicQualifier" parent="Source">
+  <name>laz at enrollment</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009039" type="characteristicQualifier" parent="Source">
+  <name>laz at sampling</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009040" type="characteristicQualifier" parent="Source">
+  <name>mean daily feeds at breast</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009041" type="characteristicQualifier" parent="Source">
+  <name>mean duration of campylobacter-negative diarrheal episodes in days</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009042" type="characteristicQualifier" parent="Source">
+  <name>mean duration of campylobacter-positive diarrheal episodes in days</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009043" type="characteristicQualifier" parent="Source">
+  <name>mean duration of diarrheal episodes in days</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009044" type="characteristicQualifier" parent="Source">
+  <name>mean severity of campylobacter-negative diarrheal episodes</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009045" type="characteristicQualifier" parent="Source">
+  <name>mean severity of campylobacter-positive diarrheal episodes</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009046" type="characteristicQualifier" parent="Source">
+  <name>mean severity of diarrheal episodes</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009047" type="characteristicQualifier" parent="Source">
+  <name>number of campylobacter-negative diarrheal episodes</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009048" type="characteristicQualifier" parent="Source">
+  <name>number of campylobacter-positive diarrheal episodes</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009049" type="characteristicQualifier" parent="Source">
+  <name>number of diarrheal episodes</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009050" type="characteristicQualifier" parent="Source">
+  <name>pathogens per month</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009051" type="characteristicQualifier" parent="Source">
+  <name>percentage of diarrheal samples positive for campylobacter</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009052" type="characteristicQualifier" parent="Source">
+  <name>percentage of surveillance samples positive for pathogens excluding campylobacter</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009053" type="characteristicQualifier" parent="Source">
+  <name>percentage of surveillance stools positive for campylobacter</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009054" type="characteristicQualifier" parent="Source">
+  <name>days on antibiotics</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009055" type="characteristicQualifier" parent="Source">
+  <name>days since last diarrheal episode</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EuPathDB_0009056" type="characteristicQualifier" parent="Source">
+  <name>pathogens per month excluding campylobacter</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000138" type="characteristicQualifier" parent="Source">
     <name>observation period</name>
   </ontologyTerm>
