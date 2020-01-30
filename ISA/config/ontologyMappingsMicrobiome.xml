@@ -146,10 +146,6 @@
   <ontologyTerm source_id="EUPATH_0011678" type="characteristicQualifier" parent="Source">
     <name>number of who food groups</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0015400" type="characteristicQualifier" parent="Source">
-    <name>age_months</name>
-    <name>age in months</name>
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0010367" type="characteristicQualifier" parent="Source">
     <name>age_factor</name>
   </ontologyTerm>
@@ -493,6 +489,7 @@
   <ontologyTerm source_id="EUPATH_0009029" type="characteristicQualifier" parent="Sample">
     <name>Age (months)</name>
     <name>Age of donor at time of fecal sample collection (months)</name>
+    <name>age in months</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009031" type="characteristicQualifier" parent="Sample">
     <name>Barcode Sequence</name>
