@@ -1,4 +1,17 @@
 Qualifier	Qualifier ID	Values	Mapped Terms
+days since last diarrheal episode	EuPathDB_0009055	NA	:::UNDEF:::
+percentage of diarrheal samples for campylobacter-pos	EuPathDB_0009051	NA	:::UNDEF:::
+percentage of surveillance stools for campylobacter-pos	EuPathDB_0009053	NA	:::UNDEF:::
+mean severity of campylobacter-neg diarrheal episodes	EuPathDB_0009044	NA	:::UNDEF:::
+mean severity of diarrheal episodes	EuPathDB_0009046	NA	:::UNDEF:::
+mean duration of campylobacter-neg diarrheal episodes (days)	EuPathDB_0009041	NA	:::UNDEF:::
+mean duration of campylobacter-pos diarrheal episodes (days)	EuPathDB_0009042	NA	:::UNDEF:::
+number of campylobacter-neg diarrheal episodes	EuPathDB_0009047	NA	:::UNDEF:::
+number of campylobacter-pos diarrheal episodes	EuPathDB_0009048	NA	:::UNDEF:::
+mean duration of diarrheal episodes (days)	EuPathDB_0009043	NA	:::UNDEF:::
+mean severity of campylobacter-pos diarrheal episodes	EuPathDB_0009045	NA	:::UNDEF:::
+laz 1 month after sampling	EuPathDB_0009036	NA	:::UNDEF:::
+laz 3 months after sampling	EuPathDB_0009037	NA	:::UNDEF:::
 antibiotic exposure	EUPATH_0000580	n	No
 antibiotic exposure	EUPATH_0000580	y	Yes
 colony tetracycline	EUPATH_0000583	12/30/1899	No
