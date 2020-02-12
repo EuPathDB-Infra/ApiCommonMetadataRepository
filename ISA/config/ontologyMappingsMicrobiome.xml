@@ -704,11 +704,13 @@
   <ontologyTerm source_id="UBERON_0001137" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:back</name>
     <name>back</name>
+    <name>left back</name>
+    <name>right back</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009019" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="FMA_73100" type="characteristicValue" parent="characteristicQualifier">
     <name>left chest</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009020" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="FMA_73099" type="characteristicValue" parent="characteristicQualifier">
     <name>right chest</name>
   </ontologyTerm>
   <ontologyTerm source_id="FMA_24971" type="characteristicValue" parent="characteristicQualifier">
@@ -722,12 +724,6 @@
   </ontologyTerm>
   <ontologyTerm source_id="FMA_24895" type="characteristicValue" parent="characteristicQualifier">
     <name>right arm</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009017" type="characteristicValue" parent="characteristicQualifier">
-    <name>left back</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009018" type="characteristicValue" parent="characteristicQualifier">
-    <name>right back</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000974" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:neck</name>
