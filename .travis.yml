@@ -1,0 +1,19 @@
+language: perl
+
+perl:
+ - '5.18'
+
+sudo: false
+
+env:
+ SPARQLPATH: scripts/lib/ApiCommonData/Load/lib/SPARQL/
+
+before_install:
+ - git clone --depth 1 https://github.com/VEuPathDB/ApiCommonData scripts/lib/ApiCommonData
+ - mv scripts/lib/ApiCommonData/Load/lib/perl/OwlReader.pm scripts/lib/ApiCommonData/Load/OwlReader.pm
+
+install:
+ - cpanm --local-lib-contained scripts/extlib --notest RDF::Trine
+ - cpanm --local-lib-contained scripts/extlib --notest RDF::Query
+script:
+ - prove scripts/microbiomedb.t

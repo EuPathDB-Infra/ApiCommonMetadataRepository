@@ -17,8 +17,8 @@
 /*/target/
 
 # Dependencies
-node_modules/
-
+scripts/lib/ApiCommonData/
+scripts/extlib/
 
 # Gradle meta
 .gradle/
@@ -30,3 +30,4 @@ node_modules/
 
 # Other version control
 .svn/
+

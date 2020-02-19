@@ -12,20 +12,20 @@ sub new {
    my %name_to_ontologyTerm;
    for my $ontologyTerm (@{$xml->{ontologyTerm}}){
       my @names = ref $ontologyTerm->{name} ? @{$ontologyTerm->{name}} : ($ontologyTerm->{name});
-      $name_to_ontologyTerm{$_} = $ontologyTerm for @names;
+      $name_to_ontologyTerm{lc $_} = $ontologyTerm for @names;
    }
 
    return bless {xml => $xml, name_to_ontologyTerm => \%name_to_ontologyTerm}, $class;
 }
 
-sub get_term_by_name {
+sub getTermByName {
     my ($self, $name) = @_;
-    return $self->{name_to_ontologyTerm}{$name};
+    return $self->{name_to_ontologyTerm}{lc $name};
 }
 
-sub get_parent_and_term_string_by_name {
+sub getParentAndTermStringByName {
     my ($self, $name) = @_;
-    my $ontologyTerm = $self->get_term_by_name($name);
+    my $ontologyTerm = $self->getTermByName($name);
     return unless $ontologyTerm;
     return $ontologyTerm->{parent}, sprintf("%s:%s", $ontologyTerm->{source_id}, $name);
 }
