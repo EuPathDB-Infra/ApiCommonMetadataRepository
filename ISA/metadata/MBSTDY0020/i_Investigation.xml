@@ -1,6 +1,6 @@
 <investigation identifierRegex="^(MBSTDY)\d+$" identifierIsDirectoryName="true">
 
-  <study fileName="s_study_sample_MALED_diarrhea.txt" identifierSuffix="-14" sampleRegex="MBSMPL">
+  <study fileName="MALED_diarrhea.txt" identifierSuffix="-14" sampleRegex="MBSMPL">
     <dataset>otuDADA2_MALED_diarrhea_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>
@@ -23,7 +23,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_Bangladesh_healthy_5yr.txt" identifierSuffix="-13" sampleRegex="MBSMPL">
+  <study fileName="Bangladesh_healthy_5yr.txt" identifierSuffix="-13" sampleRegex="MBSMPL">
     <dataset>otuDADA2_Bangladesh_healthy_5yr_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>
@@ -48,7 +48,7 @@
 
 
 
-  <study fileName="s_study_sample_MALED.txt" identifierSuffix="-12" sampleRegex="MBSMPL">
+  <study fileName="MALED_healthy.txt" identifierSuffix="-12" sampleRegex="MBSMPL">
     <dataset>otuDADA2_MALED_healthy_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>
@@ -72,7 +72,7 @@
   </study>
 
 
-  <study fileName="s_study_sample_CiaraV4.txt" identifierSuffix="-11" sampleRegex="MBSMPL">
+  <study fileName="Ciara_V4.txt" identifierSuffix="-11" sampleRegex="MBSMPL">
     <dataset>otuDADA2_Ciara_V4_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>
@@ -96,7 +96,7 @@
   </study>
 
 
-  <study fileName="s_study_sample_CiaraV1V3.txt" identifierSuffix="-10" sampleRegex="MBSMPL">
+  <study fileName="Ciara_V1V3.txt" identifierSuffix="-10" sampleRegex="MBSMPL">
     <dataset>otuDADA2_Ciara_V1V3_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>
@@ -120,7 +120,7 @@
   </study>
 
 
-  <study fileName="s_study_sample_CAMP.txt" identifierSuffix="-9" sampleRegex="MBSMPL">
+  <study fileName="CAMP.txt" identifierSuffix="-9" sampleRegex="MBSMPL">
     <dataset>otuDADA2_CAMP_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>
@@ -144,7 +144,7 @@
   </study>
 
 
-  <study fileName="s_study_sample_CanineIBD.txt" identifierSuffix="-8" sampleRegex="MBSMPL">
+  <study fileName="ENTiCE.txt" identifierSuffix="-8" sampleRegex="MBSMPL">
     <dataset>otuDADA2_ENTiCE_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>
@@ -167,7 +167,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_MSD1000.txt" identifierSuffix="-7" sampleRegex="MBSMPL">
+  <study fileName="GEMS.txt" identifierSuffix="-7" sampleRegex="MBSMPL">
     <dataset>otuDADA2_GEMS_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>
@@ -190,7 +190,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_1064.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+  <study fileName="EMP_1064_Bee_Microbiome.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EMP_1064_Bee_Microbiome_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
@@ -213,7 +213,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_797.txt" identifierSuffix="-2" sampleRegex="MBSMPL">
+  <study fileName="EMP_797_Song_Family.txt" identifierSuffix="-2" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EMP_797_Song_Family_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
@@ -236,7 +236,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_1927.txt" identifierSuffix="-3" sampleRegex="MBSMPL">
+  <study fileName="EMP_1927_HMP_V13.txt" identifierSuffix="-3" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EMP_1927_HMP_V13_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
@@ -259,7 +259,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_1928.txt" identifierSuffix="-4" sampleRegex="MBSMPL">
+  <study fileName="EMP_1928_HMP_V35.txt" identifierSuffix="-4" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EMP_1928_HMP_V35_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
@@ -282,7 +282,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_2192.txt" identifierSuffix="-5" sampleRegex="MBSMPL">
+  <study fileName="EMP_2192_Gilbert_House.txt" identifierSuffix="-5" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EMP_2192_Gilbert_House_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
@@ -305,7 +305,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_10249.txt" identifierSuffix="-6" sampleRegex="MBSMPL">
+  <study fileName="EMP_10249_ECAM.txt" identifierSuffix="-6" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EMP_10249_ECAM_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
