@@ -1,3 +1,5 @@
+use strict;
+use warnings;
 use FindBin;
 
 use lib "$FindBin::Bin/lib";
@@ -16,18 +18,24 @@ my ($labelsBySourceId, $__) = $owl->getLabelsAndParentsHashes;
 my $ontologyMappings = OntologyMappings->new("$FindBin::Bin/../ISA/config/ontologyMappingsMicrobiome.xml");
 # my $valueMappingFile = "$FindBin::Bin/../../ISA/config/valueMappingsMicrobiome.txt";
 
+# just the word age, meaning age in years: OBI_0001169
+my @requiredSourceIds = qw/OBI_0100051 OBI_0001627 EUPATH_0009029 EUPATH_0000512 UBERON_0000466 UBERON_0000061 UBERON_0000463/;
 
 my $mbioDir = "$FindBin::Bin/../ISA/metadata/MBSTDY0020";
 # my $ontologyMappingOverrideFile = "$mbioDir/ontologyMappingOverride.xml";
 
 opendir(my $dh, $mbioDir) or die "Can't open metadata dir: $!";
+my @isaNames = sort grep {$_ !~ /changesMade/} grep {/\.txt$/} readdir $dh; 
 
-for my $isaName (grep {$_ !~ /changesMade/} grep {/\.txt$/} readdir $dh){
+
+our %termIds;
+for my $isaName (@isaNames){
   subtest($isaName => sub {
     my $isaSummary = IsaSummary->new("$mbioDir/$isaName");
     for my $sampleDetail ($isaSummary->sampleDetails){
        my $term = $ontologyMappings->getTermByName($sampleDetail);
        if($term){
+         $termIds{$term->{source_id}}{$isaName}++;
          ok($labelsBySourceId->{$term->{source_id}}, $sampleDetail)
 	   or do {
 	     diag "Couldn't map $sampleDetail, with values: " . $isaSummary->valuesSummary($sampleDetail);
@@ -40,5 +48,13 @@ for my $isaName (grep {$_ !~ /changesMade/} grep {/\.txt$/} readdir $dh){
        }
     }
   });
+}
+
+for my $requiredTermId (@requiredSourceIds){
+  my @isasWhereTermPresent = grep {$termIds{$requiredTermId}{$_}} @isaNames;
+  my @isasWhereTermMissing = grep {not $termIds{$requiredTermId}{$_}} @isaNames;
+  
+  ok(not (@isasWhereTermMissing), "Required $requiredTermId " . $labelsBySourceId->{$requiredTermId})
+    or diag explain {"present" => \@isasWhereTermPresent, "missing" => \@isasWhereTermMissing};
 }
 done_testing;
