@@ -16,6 +16,8 @@ install:
  - cpanm --local-lib-contained scripts/extlib --notest RDF::Trine
  - cpanm --local-lib-contained scripts/extlib --notest RDF::Query
  - cpanm --local-lib-contained scripts/extlib --notest Text::CSV
+ - cpanm --local-lib-contained scripts/extlib --notest XML::Simple
+
 
 script:
  - prove scripts/microbiomedb.t
