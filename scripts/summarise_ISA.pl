@@ -30,7 +30,7 @@ sub putative_parent_and_values_summary {
   my ($values) = @_;
   my %h;
   $h{$_}++ for @{$values};
-  my @distinct_values = keys %h;
+  my @distinct_values =  map {$_ =~/^$/ ? '""' : $_ } keys %h;
   my @values_that_are_numbers = grep {looks_like_number $_} @distinct_values;
   my @values_that_are_not_numbers = grep {not (looks_like_number $_)} @distinct_values;
   my ($values_summary, $parent);
@@ -54,7 +54,7 @@ sub putative_parent_and_values_summary {
 my %o;
 for my $attribute_name (keys %attributes){
   my ($putative_parent, $values_summary) = putative_parent_and_values_summary($attributes{$attribute_name});
-  my ($parent, $term_string) = $ontology_mappings->get_parent_and_term_string_by_name($attribute_name);
+  my ($parent, $term_string) = $ontology_mappings->getParentAndTermStringByName($attribute_name);
   $parent //= $putative_parent;
   $term_string //= "...$attribute_name";
   $o{$parent}{$term_string} = $values_summary;
