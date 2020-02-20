@@ -209,12 +209,12 @@ name	description	sourcemtoverride	samplemtoverride	region	country	host_subject_i
 12245	Mila_d0_DogStomach			V4	GAZ:United States of America	C166_38	Dog	Dietary Therapy In Canine Chronic Enteritis	0		Mixed	Female	5	Stomach	gastric juice	Stomach	Stomach biopsy	ENVO:animal-associated habitat
 12643	Mock_d_			V4	GAZ:United States of America	Mock	Dog	Dietary Therapy In Canine Chronic Enteritis										ENVO:animal-associated habitat
 12653	Mock_d_			V4	GAZ:United States of America	Control	Dog	Dietary Therapy In Canine Chronic Enteritis										ENVO:animal-associated habitat
-11196	_d_DogBlank			V4	GAZ:United States of America		Dog	Dietary Therapy In Canine Chronic Enteritis									Blank	ENVO:animal-associated habitat
-11214	_d_DogBlank			V4	GAZ:United States of America		Dog	Dietary Therapy In Canine Chronic Enteritis									Blank	ENVO:animal-associated habitat
-11695	_d_Control			V4	GAZ:United States of America		Dog	Dietary Therapy In Canine Chronic Enteritis									Control	ENVO:animal-associated habitat
-11747	_d_Blank			V4	GAZ:United States of America		Dog	Dietary Therapy In Canine Chronic Enteritis									Blank	ENVO:animal-associated habitat
-11751	_d_Blank			V4	GAZ:United States of America		Dog	Dietary Therapy In Canine Chronic Enteritis									Blank	ENVO:animal-associated habitat
-11866	_d_Blank			V4	GAZ:United States of America		Dog	Dietary Therapy In Canine Chronic Enteritis									Blank	ENVO:animal-associated habitat
+11196	_d_DogBlank			V4	GAZ:United States of America		Dog	Dietary Therapy In Canine Chronic Enteritis										ENVO:animal-associated habitat
+11214	_d_DogBlank			V4	GAZ:United States of America		Dog	Dietary Therapy In Canine Chronic Enteritis										ENVO:animal-associated habitat
+11695	_d_Control			V4	GAZ:United States of America		Dog	Dietary Therapy In Canine Chronic Enteritis										ENVO:animal-associated habitat
+11747	_d_Blank			V4	GAZ:United States of America		Dog	Dietary Therapy In Canine Chronic Enteritis										ENVO:animal-associated habitat
+11751	_d_Blank			V4	GAZ:United States of America		Dog	Dietary Therapy In Canine Chronic Enteritis										ENVO:animal-associated habitat
+11866	_d_Blank			V4	GAZ:United States of America		Dog	Dietary Therapy In Canine Chronic Enteritis										ENVO:animal-associated habitat
 12236	Mila__			V4	GAZ:United States of America	C166_38	Dog	Dietary Therapy In Canine Chronic Enteritis										ENVO:animal-associated habitat
 10577	Olivia_d42_DogRectal			V4	GAZ:United States of America	C166_09	Dog	Dietary Therapy In Canine Chronic Enteritis	42	Non-diet responsive	Dachshund	Female	3	Rectum	UBERON:feces	Rectum	Rectal swab	ENVO:animal-associated habitat
 10579	Olivia_d0_DogRectal			V4	GAZ:United States of America	C166_09	Dog	Dietary Therapy In Canine Chronic Enteritis	0	Non-diet responsive	Dachshund	Female	5	Rectum	UBERON:feces	Rectum	Rectal swab	ENVO:animal-associated habitat
