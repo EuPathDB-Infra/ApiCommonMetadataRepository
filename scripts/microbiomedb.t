@@ -19,7 +19,7 @@ my $ontologyMappings = OntologyMappings->new("$FindBin::Bin/../ISA/config/ontolo
 # my $valueMappingFile = "$FindBin::Bin/../../ISA/config/valueMappingsMicrobiome.txt";
 
 # just the word age, meaning age in years: OBI_0001169
-my @requiredSourceIds = qw/OBI_0100051 OBI_0001627 EUPATH_0009029 EUPATH_0000512 UBERON_0000466 UBERON_0000061 UBERON_0000463/;
+my @requiredSourceIds = qw/OBI_0100051 OBI_0001627 EUPATH_0000512 UBERON_0000466 UBERON_0000061 UBERON_0000463/;
 
 my $mbioDir = "$FindBin::Bin/../ISA/metadata/MBSTDY0020";
 # my $ontologyMappingOverrideFile = "$mbioDir/ontologyMappingOverride.xml";
@@ -49,12 +49,16 @@ for my $isaName (@isaNames){
     }
   });
 }
-
+my %exceptions = (
+  OBI_0001627 => {
+    "Ciara_V4.txt" => "Lab setting, no need for country"
+  }
+);
 for my $requiredTermId (@requiredSourceIds){
+  my @isasWhereTermExpectedMissing = keys %{$exceptions{$requiredTermId}};
   my @isasWhereTermPresent = grep {$termIds{$requiredTermId}{$_}} @isaNames;
-  my @isasWhereTermMissing = grep {not $termIds{$requiredTermId}{$_}} @isaNames;
-  
+  my @isasWhereTermMissing = grep {not $termIds{$requiredTermId}{$_} and not $exceptions{$requiredTermId}{$_}} @isaNames;
   ok(not (@isasWhereTermMissing), "Required $requiredTermId " . $labelsBySourceId->{$requiredTermId})
-    or diag explain {"present" => \@isasWhereTermPresent, "missing" => \@isasWhereTermMissing};
+    or diag explain {"present" => \@isasWhereTermPresent, "missing" => \@isasWhereTermMissing, "expected not present" => \@isasWhereTermExpectedMissing};
 }
 done_testing;
