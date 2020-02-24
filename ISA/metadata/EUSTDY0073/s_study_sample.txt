@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	Characteristics [specimen]	Mating type	Communication group	CGH organization	Characteristics [parasite organism]	Characteristics [parasite strain]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	Characteristics [specimen]	Mating type	Communication group	CGH organization	Characteristics [fungus organism]	Characteristics [fungal strain]
 D111	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	a	2/3	4	Neurospora crassa	Neurospora crassa D111
 D112	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	A	2	2	Neurospora crassa	Neurospora crassa D112
 D113	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	a	3	3	Neurospora crassa	Neurospora crassa D113
