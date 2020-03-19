@@ -1,0 +1,14 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [GeographicLocation]	Characteristics [health_status]	Characteristics [organism]	Characteristics[specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
+V130-54	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	Pus shoulder	Aspergillus fumigatus	Aspergillus fumigatus V130-54
+V130-18	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	Tissue shoulder 	Aspergillus fumigatus	Aspergillus fumigatus V130-18
+V130-14	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	Pus shoulder 	Aspergillus fumigatus	Aspergillus fumigatus V130-14
+V130-15	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	"Fluid, mass around clavicle"	Aspergillus fumigatus	Aspergillus fumigatus V130-15
+V157-48	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	bronchoalveolar lavage	Aspergillus fumigatus	Aspergillus fumigatus V157-48
+V157-40	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	bronchoalveolar lavage	Aspergillus fumigatus	Aspergillus fumigatus V157-40
+V157-39	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	bronchoalveolar lavage	Aspergillus fumigatus	Aspergillus fumigatus V157-39
+V157-59	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	bronchoalveolar lavage	Aspergillus fumigatus	Aspergillus fumigatus V157-59
+V157-47	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	bronchoalveolar lavage	Aspergillus fumigatus	Aspergillus fumigatus V157-47
+V157-62	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	bronchoalveolar lavage	Aspergillus fumigatus	Aspergillus fumigatus V157-62
+V157-61	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	bronchoalveolar lavage	Aspergillus fumigatus	Aspergillus fumigatus V157-61
+V157-60	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	bronchoalveolar lavage	Aspergillus fumigatus	Aspergillus fumigatus V157-60
+V157-80	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	bronchoalveolar lavage	Aspergillus fumigatus	Aspergillus fumigatus V157-80
