@@ -527,6 +527,9 @@
   <ontologyTerm source_id="EUPATH_0000761" type="characteristicQualifier" parent="Sample">
     <name>parasite strain</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005034" type="characteristicQualifier" parent="Sample">
+    <name>isolate group</name>
+  </ontologyTerm>
   <ontologyTerm source_id="OPL_0000181" type="characteristicQualifier" parent="Sample">
     <name>parasite lifecycle stage</name>
   </ontologyTerm>
