@@ -1,187 +1,187 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	specimen collection year	Characteristics [parasite organism]	Characteristics [parasite strain]	Characteristics [organism]	Characteristics [host_common_name]	
-BD09	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Muktagacha	2006	Leishmania donovani	Leishmania donovani BD09	Homo sapiens	human
-BD12	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	Leishmania donovani	Leishmania donovani BD12	Homo sapiens	human
-BD14	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	Leishmania donovani	Leishmania donovani BD14	Homo sapiens	human
-BD15	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Guforgaon	2006	Leishmania donovani	Leishmania donovani BD15	Homo sapiens	human
-BD17	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	Leishmania donovani	Leishmania donovani BD17	Homo sapiens	human
-BD21	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	Leishmania donovani	Leishmania donovani BD21	Homo sapiens	human
-BD24	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	Leishmania donovani	Leishmania donovani BD24	Homo sapiens	human
-BD25	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	Leishmania donovani	Leishmania donovani BD25	Homo sapiens	human
-BHU1011_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Beruwa, Saraiya, Bangra Ravi	2010	Leishmania donovani	Leishmania donovani BHU1011_0	Homo sapiens	human
-BHU1032_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Karnaul, Sahebganj, Malhur Sikandar	2010	Leishmania donovani	Leishmania donovani BHU1032_0	Homo sapiens	human
-BHU1042_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Dewariya, Paru, Dewariya Kothi	2010	Leishmania donovani	Leishmania donovani BHU1042_1	Homo sapiens	human
-BHU1052_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Marwan, Karja, Makdumpur Kodariya	2010	Leishmania donovani	Leishmania donovani BHU1052_0	Homo sapiens	human
-BHU1062_4	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Chainpur, Maniyari, Chainpur	2010	Leishmania donovani	Leishmania donovani BHU1062_4	Homo sapiens	human
-BHU1065_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Marwan, Karja, Mokadampur Kodariya	2010	Leishmania donovani	Leishmania donovani BHU1065_0	Homo sapiens	human
-BHU1080_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Sohashi, Devaria Kothi, Chand Kewari	2010	Leishmania donovani	Leishmania donovani BHU1080_1	Homo sapiens	human
-BHU1081_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kerma, Kudhani, Kerma	2010	Leishmania donovani	Leishmania donovani BHU1081_0	Homo sapiens	human
-BHU1092_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Dharbhanga, Ladora, Simri, Harpur Hanuman Nagar	2010	Leishmania donovani	Leishmania donovani BHU1092_0	Homo sapiens	human
-BHU1104_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Dharbhanga, Ladora, Simri, Harpur Hanuman Nagar	2010	Leishmania donovani	Leishmania donovani BHU1104_0	Homo sapiens	human
-BHU1113_7	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Motiour, nariyar Panapur	2010	Leishmania donovani	Leishmania donovani BHU1113_7	Homo sapiens	human
-BHU1139_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Uttar Paradesh, Jaunpur	2010	Leishmania donovani	Leishmania donovani BHU1139_0	Homo sapiens	human
-BHU1146_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Aurai, Ratwara	2010	Leishmania donovani	Leishmania donovani BHU1146_0	Homo sapiens	human
-BHU1153_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Sitamadhi, lalpur, Runni saidpur, kauria lalpur	2010	Leishmania donovani	Leishmania donovani BHU1153_1	Homo sapiens	human
-BHU1163_4	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Karnaul, sahebganj, Baluahi Sikandar	2010	Leishmania donovani	Leishmania donovani BHU1163_4	Homo sapiens	human
-BHU1164_4	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Jaitpur, Karza, Amitha Panapur	2010	Leishmania donovani	Leishmania donovani BHU1164_4	Homo sapiens	human
-BHU1199_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, sabai Patti, Rampur ratan	2010	Leishmania donovani	Leishmania donovani BHU1199_0	Homo sapiens	human
-BHU1216_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, saraiya, naya tola mohammadpur	2011	Leishmania donovani	Leishmania donovani BHU1216_0	Homo sapiens	human
-BHU171_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Chajan, Kudhani, Chajan	2005	Leishmania donovani	Leishmania donovani BHU171_0	Homo sapiens	human
-BHU172_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Uttar Pradesh, Varanasi	2005	Leishmania donovani	Leishmania donovani BHU172_0	Homo sapiens	human
-BHU180_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Vaishali, Bhagwanpur, Sahtha	2006	Leishmania donovani	Leishmania donovani BHU180_0	Homo sapiens	human
-BHU188_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pilki, Dholi Sakra, Pilki	2006	Leishmania donovani	Leishmania donovani BHU188_0	Homo sapiens	human
-BHU198_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Sahebganj, Jita Chapra	2006	Leishmania donovani	Leishmania donovani BHU198_0	Homo sapiens	human
-BHU200_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Gorigama DIH, Karja, Fanda	2006	Leishmania donovani	Leishmania donovani BHU200_0	Homo sapiens	human
-BHU201_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Fanda, Karja, Gorigama Dih	2006	Leishmania donovani	Leishmania donovani BHU201_0	Homo sapiens	human
-BHU202_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Fanda, Karja, Gorigama Dih	2006	Leishmania donovani	Leishmania donovani BHU202_0	Homo sapiens	human
-BHU205_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Dewariya, Paru, Darphari	2006	Leishmania donovani	Leishmania donovani BHU205_0	Homo sapiens	human
-BHU210_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Dewariya,  Darphari	2006	Leishmania donovani	Leishmania donovani BHU210_0	Homo sapiens	human
-BHU213_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Sitamadhi, Belsand, madhkaul	2006	Leishmania donovani	Leishmania donovani BHU213_0	Homo sapiens	human
-BHU215_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Bishunpur patti, saraia, Bishunpur Basant	2006	Leishmania donovani	Leishmania donovani BHU215_0	Homo sapiens	human
-BHU216_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Dewariya,  Darphari	2006	Leishmania donovani	Leishmania donovani BHU216_0	Homo sapiens	human
-BHU220_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, saraiya, bhakhra	2006	Leishmania donovani	Leishmania donovani BHU220_0	Homo sapiens	human
-BHU222_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pratappur, Karza, chainpur	2006	Leishmania donovani	Leishmania donovani BHU222_0	Homo sapiens	human
-BHU224_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur,Jita Chapra, Sahebganj	2006	Leishmania donovani	Leishmania donovani BHU224_0	Homo sapiens	human
-BHU230_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pratappur, Karza, chainpur	2006	Leishmania donovani	Leishmania donovani BHU230_0	Homo sapiens	human
-BHU233_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kurhani, Kerma	2006	Leishmania donovani	Leishmania donovani BHU233_0	Homo sapiens	human
-BHU234_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Chainpur , Karja, Partapur	2006	Leishmania donovani	Leishmania donovani BHU234_0	Homo sapiens	human
-BHU238_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Baruraj,laximinia	2006	Leishmania donovani	Leishmania donovani BHU238_0	Homo sapiens	human
-BHU239_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Susta, Maniyari, Bishunpur Gidha	2006	Leishmania donovani	Leishmania donovani BHU239_0	Homo sapiens	human
-BHU241_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Nirpur, Sahebganj, Jita Chapra	2006	Leishmania donovani	Leishmania donovani BHU241_0	Homo sapiens	human
-BHU242_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Birahima, Sahebganj, Jita Chapra	2006	Leishmania donovani	Leishmania donovani BHU242_0	Homo sapiens	human
-BHU250_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Jasauli Pakri, Baruraj, Mahadipur	2006	Leishmania donovani	Leishmania donovani BHU250_0	Homo sapiens	human
-BHU254_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pokhraira, Saraiya, Ramkrishan Dubiyahi	2006	Leishmania donovani	Leishmania donovani BHU254_0	Homo sapiens	human
-BHU267_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kerma, Kudhani, Kerma	2007	Leishmania donovani	Leishmania donovani BHU267_0	Homo sapiens	human
-BHU268_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Barkagaon, Karja, Kathan	2007	Leishmania donovani	Leishmania donovani BHU268_0	Homo sapiens	human
-BHU269_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, rajwara, sahebganj	2007	Leishmania donovani	Leishmania donovani BHU269_0	Homo sapiens	human
-BHU271_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	unknown	2007	Leishmania donovani	Leishmania donovani BHU271_0	Homo sapiens	human
-BHU273_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	unknown	2007	Leishmania donovani	Leishmania donovani BHU273_0	Homo sapiens	human
-BHU274_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Partapur, Karja, Mohammadpur	2007	Leishmania donovani	Leishmania donovani BHU274_0	Homo sapiens	human
-BHU275_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Nariyarpur, Motipur, Nariyarpur	2007	Leishmania donovani	Leishmania donovani BHU275_0	Homo sapiens	human
-BHU278_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kurhani, Sumera	2007	Leishmania donovani	Leishmania donovani BHU278_0	Homo sapiens	human
-BHU281_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kurhani, Ladura Pakri	2007	Leishmania donovani	Leishmania donovani BHU281_0	Homo sapiens	human
-BHU283_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pathahi, Karja, Pakri Pakohi	2007	Leishmania donovani	Leishmania donovani BHU283_0	Homo sapiens	human
-BHU293_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Turki, Minapur, Nariyar Panapur	2007	Leishmania donovani	Leishmania donovani BHU293_0	Homo sapiens	human
-BHU296_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	unknown		Leishmania donovani	Leishmania donovani BHU296_0	Homo sapiens	human
-BHU297_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	unknown	2007	Leishmania donovani	Leishmania donovani BHU297_0	Homo sapiens	human
-BHU298_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Sahebganj, rajwara	2007	Leishmania donovani	Leishmania donovani BHU298_0	Homo sapiens	human
-BHU301_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Birbaliya, Baruraj, Tola Muza	2007	Leishmania donovani	Leishmania donovani BHU301_0	Homo sapiens	human
-BHU315_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, fatiyabad, Paru	2007	Leishmania donovani	Leishmania donovani BHU315_0	Homo sapiens	human
-BHU339_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, saraiya, bakhra, Visunpur Basaitha	2007	Leishmania donovani	Leishmania donovani BHU339_0	Homo sapiens	human
-BHU345_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Uttar Pradesh, Barabanki	2007	Leishmania donovani	Leishmania donovani BHU345_0	Homo sapiens	human
-BHU568cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzzafarpur, Gola Bhagwanpur, Kudhani, Gaushi Khan	2009	Leishmania donovani	Leishmania donovani BHU568cl1	Homo sapiens	human
-BHU573cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Sitamadhi	2009	Leishmania donovani	Leishmania donovani BHU573cl3	Homo sapiens	human
-BHU744_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur	2009	Leishmania donovani	Leishmania donovani BHU744_0	Homo sapiens	human
-BHU774_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, Barka Gaon, Karja, Madho Chapra	2009	Leishmania donovani	Leishmania donovani BHU774_0	Homo sapiens	human
-BHU783_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, Dhanaiya, Sahebganj, Dhanaiya	2010	Leishmania donovani	Leishmania donovani BHU783_0	Homo sapiens	human
-BHU796_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, saraiya, Ajitpur, bahnagari	2010	Leishmania donovani	Leishmania donovani BHU796_0	Homo sapiens	human
-BHU797_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, Kalbari, Kanti, Madhuban	2010	Leishmania donovani	Leishmania donovani BHU797_0	Homo sapiens	human
-BHU798_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Rupan	2010	Leishmania donovani	Leishmania donovani BHU798_0	Homo sapiens	human
-BHU800_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, sahebganj, rajwara, Rajwara purvi tola	2010	Leishmania donovani	Leishmania donovani BHU800_1	Homo sapiens	human
-BHU808_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur,Baruraj , Chaur Ghata, Bakhari	2010	Leishmania donovani	Leishmania donovani BHU808_0	Homo sapiens	human
-BHU815_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur,Baruraj , Birhima	2010	Leishmania donovani	Leishmania donovani BHU815_0	Homo sapiens	human
-BHU816_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur,Minapur, Tnaraha, Koyali Baraw	2010	Leishmania donovani	Leishmania donovani BHU816_1	Homo sapiens	human
-BHU824_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur,Bochaha, Chambuk,Wazidpur	2010	Leishmania donovani	Leishmania donovani BHU824_0	Homo sapiens	human
-BHU828_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Barji, Motipur, Baraji	2010	Leishmania donovani	Leishmania donovani BHU828_0	Homo sapiens	human
-BHU844_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Mirzapur, Ahiyapur, Patiyasa	2010	Leishmania donovani	Leishmania donovani BHU844_0	Homo sapiens	human
-BHU850_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Patahi, Karza, Pakri Pakohi	2010	Leishmania donovani	Leishmania donovani BHU850_0	Homo sapiens	human
-BHU869_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Rajla, Kudhani, Fatehpur	2010	Leishmania donovani	Leishmania donovani BHU869_0	Homo sapiens	human
-BHU872_6	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Motipur, Motipur, Singhwari	2010	Leishmania donovani	Leishmania donovani BHU872_6	Homo sapiens	human
-BHU889_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Paru, Saraiya, Chandan Ratwara	2010	Leishmania donovani	Leishmania donovani BHU889_0	Homo sapiens	human
-BHU902_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Marwan, Karja, Mukdumpur Kodariya	2010	Leishmania donovani	Leishmania donovani BHU902_1	Homo sapiens	human
-BHU906_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pakri, Karja, Pakri Pakohi	2010	Leishmania donovani	Leishmania donovani BHU906_0	Homo sapiens	human
-BHU931_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Marwan, Karja, Mokadampur Kodariya	2010	Leishmania donovani	Leishmania donovani BHU931_0	Homo sapiens	human
-BHU975_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pakri, Kudhani, Ladaura	2010	Leishmania donovani	Leishmania donovani BHU975_0	Homo sapiens	human
-BHU982_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Motipur, Motipur, Ajana Kot	2010	Leishmania donovani	Leishmania donovani BHU982_0	Homo sapiens	human
-BHU994_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Jalalpur, Mushari, Baikatpur	2010	Leishmania donovani	Leishmania donovani BHU994_1	Homo sapiens	human
-BPK025_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Chandbela	2002	Leishmania donovani	Leishmania donovani BPK025_0cl1	Homo sapiens	human
-BPK026_0cl5	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Bhojpur, Bastim	2002	Leishmania donovani	Leishmania donovani BPK026_0cl5	Homo sapiens	human
-BPK029_0cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Purwa Kusaha	2002	Leishmania donovani	Leishmania donovani BPK029_0cl6	Homo sapiens	human
-BPK035_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Bhagani	2002	Leishmania donovani	Leishmania donovani BPK035_0cl1	Homo sapiens	human
-BPK043_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Chatra	2002	Leishmania donovani	Leishmania donovani BPK043_0cl2	Homo sapiens	human
-BPK066_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Aurabani	2002	Leishmania donovani	Leishmania donovani BPK066_0	Homo sapiens	human
-BPK067_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2002	Leishmania donovani	Leishmania donovani BPK067_0cl2	Homo sapiens	human
-BPK077_0cl5	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Phattepur	2002	Leishmania donovani	Leishmania donovani BPK077_0cl5	Homo sapiens	human
-BPK080_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Ithahari	2002	Leishmania donovani	Leishmania donovani BPK080_0cl1	Homo sapiens	human
-BPK081_0cl8	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Pakali	2002	Leishmania donovani	Leishmania donovani BPK081_0cl8	Homo sapiens	human
-BPK085_0cl8	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Kamalpur	2002	Leishmania donovani	Leishmania donovani BPK085_0cl8	Homo sapiens	human
-BPK087_0cl11	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Bhodaha	2002	Leishmania donovani	Leishmania donovani BPK087_0cl11	Homo sapiens	human
-BPK090_0cl4	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Itahari	2002	Leishmania donovani	Leishmania donovani BPK090_0cl4	Homo sapiens	human
-BPK156_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Bhojpur, Yampang	2002	Leishmania donovani	Leishmania donovani BPK156_0	Homo sapiens	human
-BPK158_0cl9	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Jhapa, Damak	2002	Leishmania donovani	Leishmania donovani BPK158_0cl9	Homo sapiens	human
-BPK173_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sarlahi, Pirari	2002	Leishmania donovani	Leishmania donovani BPK173_0cl3	Homo sapiens	human
-BPK173_1cl9	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sarlahi, Pirari	2003	Leishmania donovani	Leishmania donovani BPK173_1cl9	Homo sapiens	human
-BPK177_0cl7	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Dhanusa, Sarsa	2002	Leishmania donovani	Leishmania donovani BPK177_0cl7	Homo sapiens	human
-BPK178_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Inaruwa	2002	Leishmania donovani	Leishmania donovani BPK178_0cl3	Homo sapiens	human
-BPK181_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dumraha	2003	Leishmania donovani	Leishmania donovani BPK181_0cl1	Homo sapiens	human
-BPK181_12	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dumraha	2003	Leishmania donovani	Leishmania donovani BPK181_12	Homo sapiens	human
-BPK190_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Govindpur	2003	Leishmania donovani	Leishmania donovani BPK190_0cl3	Homo sapiens	human
-BPK206_0cl10	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Ithahari	2003	Leishmania donovani	Leishmania donovani BPK206_0cl10	Homo sapiens	human
-BPK208_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Itahari	2003	Leishmania donovani	Leishmania donovani BPK208_0cl2	Homo sapiens	human
-BPK274_0cl5	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Itahari	2003	Leishmania donovani	Leishmania donovani BPK274_0cl5	Homo sapiens	human
-BPK275_0cl18	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Schanischare	2003	Leishmania donovani	Leishmania donovani BPK275_0cl18	Homo sapiens	human
-BPK275_1cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Schanischare	2003	Leishmania donovani	Leishmania donovani BPK275_1cl3	Homo sapiens	human
-BPK276_0cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Itahari	2003	Leishmania donovani	Leishmania donovani BPK276_0cl6	Homo sapiens	human
-BPK279_0cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sanischare	2003	Leishmania donovani	Leishmania donovani BPK279_0cl6	Homo sapiens	human
-BPK280_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Somnath	2003	Leishmania donovani	Leishmania donovani BPK280_0	Homo sapiens	human
-BPK282_0cl4	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Inaruwa	2003	Leishmania donovani	Leishmania donovani BPK282_0cl4	Homo sapiens	human
-BPK288_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Sitapur	2003	Leishmania donovani	Leishmania donovani BPK288_0	Homo sapiens	human
-BPK293_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Inaruwa	2003	Leishmania donovani	Leishmania donovani BPK293_0	Homo sapiens	human
-BPK294_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Siraha, Bishnupur	2003	Leishmania donovani	Leishmania donovani BPK294_0cl1	Homo sapiens	human
-BPK295_0cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Siraha, Pipra	2003	Leishmania donovani	Leishmania donovani BPK295_0cl6	Homo sapiens	human
-BPK298_0cl8	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Ithahari	2003	Leishmania donovani	Leishmania donovani BPK298_0cl8	Homo sapiens	human
-BPK344_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Sitapur	2004	Leishmania donovani	Leishmania donovani BPK344_0	Homo sapiens	human
-BPK345_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	unknown	2004	Leishmania donovani	Leishmania donovani BPK345_0	Homo sapiens	human
-BPK375_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	unknown	2004	Leishmania donovani	Leishmania donovani BPK375_0	Homo sapiens	human
-BPK380_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	unknown	2004	Leishmania donovani	Leishmania donovani BPK380_0	Homo sapiens	human
-BPK411_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dharan	2009	Leishmania donovani	Leishmania donovani BPK411_0	Homo sapiens	human
-BPK413_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dharan	2009	Leishmania donovani	Leishmania donovani BPK413_0	Homo sapiens	human
-BPK433_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Duhabi	2009	Leishmania donovani	Leishmania donovani BPK433_0	Homo sapiens	human
-BPK455_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2009	Leishmania donovani	Leishmania donovani BPK455_0cl2	Homo sapiens	human
-BPK455_5cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2010	Leishmania donovani	Leishmania donovani BPK455_5cl3	Homo sapiens	human
-BPK471_7	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Rajgung Sinuwari	2010	Leishmania donovani	Leishmania donovani BPK471_7	Homo sapiens	human
-BPK475_9	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Rajgung Sinuwari	2010	Leishmania donovani	Leishmania donovani BPK475_9	Homo sapiens	human
-BPK486_7	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Odhara	2010	Leishmania donovani	Leishmania donovani BPK486_7	Homo sapiens	human
-BPK491_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Odhara	2009	Leishmania donovani	Leishmania donovani BPK491_0	Homo sapiens	human
-BPK495_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2009	Leishmania donovani	Leishmania donovani BPK495_0	Homo sapiens	human
-BPK496_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2009	Leishmania donovani	Leishmania donovani BPK496_0	Homo sapiens	human
-BPK497_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Diwan	2009	Leishmania donovani	Leishmania donovani BPK497_0	Homo sapiens	human
-BPK498_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Katahari	2009	Leishmania donovani	Leishmania donovani BPK498_0	Homo sapiens	human
-BPK499_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Odhara	2009	Leishmania donovani	Leishmania donovani BPK499_0	Homo sapiens	human
-BPK500_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Odhara	2009	Leishmania donovani	Leishmania donovani BPK500_0	Homo sapiens	human
-BPK501_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2009	Leishmania donovani	Leishmania donovani BPK501_0	Homo sapiens	human
-BPK502_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Hansposa	2009	Leishmania donovani	Leishmania donovani BPK502_0	Homo sapiens	human
-BPK505_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Ramnagar	2009	Leishmania donovani	Leishmania donovani BPK505_0	Homo sapiens	human
-BPK506_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Bhogwatupur	2009	Leishmania donovani	Leishmania donovani BPK506_0	Homo sapiens	human
-BPK507_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Jhapa, Topgachi	2009	Leishmania donovani	Leishmania donovani BPK507_0	Homo sapiens	human
-BPK509_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Joganiya	2009	Leishmania donovani	Leishmania donovani BPK509_0	Homo sapiens	human
-BPK509_2	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Joganiya	2010	Leishmania donovani	Leishmania donovani BPK509_2	Homo sapiens	human
-BPK513_0cl8	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Odhara	2010	Leishmania donovani	Leishmania donovani BPK513_0cl8	Homo sapiens	human
-BPK514_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Gacchiya	2010	Leishmania donovani	Leishmania donovani BPK514_0	Homo sapiens	human
-BPK515_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Jhapa, Baundange	2010	Leishmania donovani	Leishmania donovani BPK515_0	Homo sapiens	human
-BPK516_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2010	Leishmania donovani	Leishmania donovani BPK516_0	Homo sapiens	human
-BPK518_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Nayabazar	2010	Leishmania donovani	Leishmania donovani BPK518_0	Homo sapiens	human
-BPK519_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Aurabani	2010	Leishmania donovani	Leishmania donovani BPK519_0	Homo sapiens	human
-BPK519_12	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Aurabani	2011	Leishmania donovani	Leishmania donovani BPK519_12	Homo sapiens	human
-BPK520_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2010	Leishmania donovani	Leishmania donovani BPK520_0	Homo sapiens	human
-BPK526_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2010	Leishmania donovani	Leishmania donovani BPK526_0	Homo sapiens	human
-BPK530_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Manaha	2010	Leishmania donovani	Leishmania donovani BPK530_0	Homo sapiens	human
-BPK562_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Odraha	2010	Leishmania donovani	Leishmania donovani BPK562_0	Homo sapiens	human
-BPK569_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Negada	2010	Leishmania donovani	Leishmania donovani BPK569_0	Homo sapiens	human
-BPK594_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Bisahariya	2011	Leishmania donovani	Leishmania donovani BPK594_0	Homo sapiens	human
-BPK602_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Amardaha	2011	Leishmania donovani	Leishmania donovani BPK602_0	Homo sapiens	human
-BPK604_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Khotang, Phaktang	2011	Leishmania donovani	Leishmania donovani BPK604_0	Homo sapiens	human
-BPK608_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Siraha, Muksar	2011	Leishmania donovani	Leishmania donovani BPK608_0	Homo sapiens	human
-BPK609_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Ramnagar	2011	Leishmania donovani	Leishmania donovani BPK609_0	Homo sapiens	human
-BPK612_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sankhuwasabha, Ankhibhai	2011	Leishmania donovani	Leishmania donovani BPK612_0	Homo sapiens	human
-BPK615_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Siraha, Bastipur	2011	Leishmania donovani	Leishmania donovani BPK615_0	Homo sapiens	human
-BPK616_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Jalpapur	2011	Leishmania donovani	Leishmania donovani BPK616_0	Homo sapiens	human
-BPK619_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Khotang, Suntale	2011	Leishmania donovani	Leishmania donovani BPK619_0	Homo sapiens	human
-BPK623_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Fatepur	2011	Leishmania donovani	Leishmania donovani BPK623_0	Homo sapiens	human
-BPK648_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sankhuwasabha, Aakhibhui	2011	Leishmania donovani	Leishmania donovani BPK648_0	Homo sapiens	human
-BPK649_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Rautahat, Paurahi	2011	Leishmania donovani	Leishmania donovani BPK649_0	Homo sapiens	human
-BPK650_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Fatepur	2011	Leishmania donovani	Leishmania donovani BPK650_0	Homo sapiens	human
-NEP021_6cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Parsabani	2004	Leishmania donovani	Leishmania donovani NEP021_6cl6	Homo sapiens	human
-NEP052_3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Jagatpur	2004	Leishmania donovani	Leishmania donovani NEP052_3	Homo sapiens	human
-NEP098_6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Siraha, Lahan	2004	Leishmania donovani	Leishmania donovani NEP098_6	Homo sapiens	human
-NEP107_6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Portaha	2004	Leishmania donovani	Leishmania donovani NEP107_6	Homo sapiens	human
-NEP123_6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Amahibelaha	2004	Leishmania donovani	Leishmania donovani NEP123_6	Homo sapiens	human
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	specimen collection year	isolate group	Characteristics [parasite organism]	Characteristics [parasite strain]	Characteristics [organism]	Characteristics [host_common_name]
+BD09	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Muktagacha	2006	ISC2	Leishmania donovani	Leishmania donovani BD09	Homo sapiens	human
+BD12	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	ISC2	Leishmania donovani	Leishmania donovani BD12	Homo sapiens	human
+BD14	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	ISC2	Leishmania donovani	Leishmania donovani BD14	Homo sapiens	human
+BD15	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Guforgaon	2006	ISC2	Leishmania donovani	Leishmania donovani BD15	Homo sapiens	human
+BD17	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	ISC2	Leishmania donovani	Leishmania donovani BD17	Homo sapiens	human
+BD21	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	ISC2	Leishmania donovani	Leishmania donovani BD21	Homo sapiens	human
+BD24	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	ISC2	Leishmania donovani	Leishmania donovani BD24	Homo sapiens	human
+BD25	Genomic diversity in Leishmania donovani in Indian subcontinent			Bangladesh	Fulbaria	2006	ISC2	Leishmania donovani	Leishmania donovani BD25	Homo sapiens	human
+BHU1011_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Beruwa, Saraiya, Bangra Ravi	2010	Ungrouped	Leishmania donovani	Leishmania donovani BHU1011_0	Homo sapiens	human
+BHU1032_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Karnaul, Sahebganj, Malhur Sikandar	2010	Ungrouped	Leishmania donovani	Leishmania donovani BHU1032_0	Homo sapiens	human
+BHU1042_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Dewariya, Paru, Dewariya Kothi	2010	ISC5	Leishmania donovani	Leishmania donovani BHU1042_1	Homo sapiens	human
+BHU1052_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Marwan, Karja, Makdumpur Kodariya	2010	ISC8	Leishmania donovani	Leishmania donovani BHU1052_0	Homo sapiens	human
+BHU1062_4	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Chainpur, Maniyari, Chainpur	2010	Ungrouped	Leishmania donovani	Leishmania donovani BHU1062_4	Homo sapiens	human
+BHU1065_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Marwan, Karja, Mokadampur Kodariya	2010	ISC8	Leishmania donovani	Leishmania donovani BHU1065_0	Homo sapiens	human
+BHU1080_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Sohashi, Devaria Kothi, Chand Kewari	2010	ISC5	Leishmania donovani	Leishmania donovani BHU1080_1	Homo sapiens	human
+BHU1081_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kerma, Kudhani, Kerma	2010	ISC5	Leishmania donovani	Leishmania donovani BHU1081_0	Homo sapiens	human
+BHU1092_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Dharbhanga, Ladora, Simri, Harpur Hanuman Nagar	2010	Ungrouped	Leishmania donovani	Leishmania donovani BHU1092_0	Homo sapiens	human
+BHU1104_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Dharbhanga, Ladora, Simri, Harpur Hanuman Nagar	2010	ISC5	Leishmania donovani	Leishmania donovani BHU1104_0	Homo sapiens	human
+BHU1113_7	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Motiour, nariyar Panapur	2010	ISC10	Leishmania donovani	Leishmania donovani BHU1113_7	Homo sapiens	human
+BHU1139_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Uttar Paradesh, Jaunpur	2010	ISC3	Leishmania donovani	Leishmania donovani BHU1139_0	Homo sapiens	human
+BHU1146_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Aurai, Ratwara	2010	ISC4	Leishmania donovani	Leishmania donovani BHU1146_0	Homo sapiens	human
+BHU1153_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Sitamadhi, lalpur, Runni saidpur, kauria lalpur	2010	ISC9	Leishmania donovani	Leishmania donovani BHU1153_1	Homo sapiens	human
+BHU1163_4	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Karnaul, sahebganj, Baluahi Sikandar	2010	ISC5	Leishmania donovani	Leishmania donovani BHU1163_4	Homo sapiens	human
+BHU1164_4	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Jaitpur, Karza, Amitha Panapur	2010	ISC5	Leishmania donovani	Leishmania donovani BHU1164_4	Homo sapiens	human
+BHU1199_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, sabai Patti, Rampur ratan	2010	ISC9	Leishmania donovani	Leishmania donovani BHU1199_0	Homo sapiens	human
+BHU1216_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, saraiya, naya tola mohammadpur	2011	ISC5	Leishmania donovani	Leishmania donovani BHU1216_0	Homo sapiens	human
+BHU171_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Chajan, Kudhani, Chajan	2005	ISC5	Leishmania donovani	Leishmania donovani BHU171_0	Homo sapiens	human
+BHU172_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Uttar Pradesh, Varanasi	2005	ISC5	Leishmania donovani	Leishmania donovani BHU172_0	Homo sapiens	human
+BHU180_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Vaishali, Bhagwanpur, Sahtha	2006	ISC5	Leishmania donovani	Leishmania donovani BHU180_0	Homo sapiens	human
+BHU188_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pilki, Dholi Sakra, Pilki	2006	ISC5	Leishmania donovani	Leishmania donovani BHU188_0	Homo sapiens	human
+BHU198_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Sahebganj, Jita Chapra	2006	ISC5	Leishmania donovani	Leishmania donovani BHU198_0	Homo sapiens	human
+BHU200_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Gorigama DIH, Karja, Fanda	2006	ISC7	Leishmania donovani	Leishmania donovani BHU200_0	Homo sapiens	human
+BHU201_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Fanda, Karja, Gorigama Dih	2006	ISC7	Leishmania donovani	Leishmania donovani BHU201_0	Homo sapiens	human
+BHU202_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Fanda, Karja, Gorigama Dih	2006	ISC7	Leishmania donovani	Leishmania donovani BHU202_0	Homo sapiens	human
+BHU205_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Dewariya, Paru, Darphari	2006	ISC7	Leishmania donovani	Leishmania donovani BHU205_0	Homo sapiens	human
+BHU210_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Dewariya,  Darphari	2006	ISC5	Leishmania donovani	Leishmania donovani BHU210_0	Homo sapiens	human
+BHU213_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Sitamadhi, Belsand, madhkaul	2006	ISC5	Leishmania donovani	Leishmania donovani BHU213_0	Homo sapiens	human
+BHU215_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Bishunpur patti, saraia, Bishunpur Basant	2006	ISC5	Leishmania donovani	Leishmania donovani BHU215_0	Homo sapiens	human
+BHU216_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Dewariya,  Darphari	2006	ISC7	Leishmania donovani	Leishmania donovani BHU216_0	Homo sapiens	human
+BHU220_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, saraiya, bhakhra	2006	ISC7	Leishmania donovani	Leishmania donovani BHU220_0	Homo sapiens	human
+BHU222_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pratappur, Karza, chainpur	2006	ISC7	Leishmania donovani	Leishmania donovani BHU222_0	Homo sapiens	human
+BHU224_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur,Jita Chapra, Sahebganj	2006	ISC7	Leishmania donovani	Leishmania donovani BHU224_0	Homo sapiens	human
+BHU230_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pratappur, Karza, chainpur	2006	ISC7	Leishmania donovani	Leishmania donovani BHU230_0	Homo sapiens	human
+BHU233_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kurhani, Kerma	2006	ISC7	Leishmania donovani	Leishmania donovani BHU233_0	Homo sapiens	human
+BHU234_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Chainpur , Karja, Partapur	2006	ISC7	Leishmania donovani	Leishmania donovani BHU234_0	Homo sapiens	human
+BHU238_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Baruraj,laximinia	2006	ISC7	Leishmania donovani	Leishmania donovani BHU238_0	Homo sapiens	human
+BHU239_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Susta, Maniyari, Bishunpur Gidha	2006	ISC5	Leishmania donovani	Leishmania donovani BHU239_0	Homo sapiens	human
+BHU241_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Nirpur, Sahebganj, Jita Chapra	2006	ISC5	Leishmania donovani	Leishmania donovani BHU241_0	Homo sapiens	human
+BHU242_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Birahima, Sahebganj, Jita Chapra	2006	ISC7	Leishmania donovani	Leishmania donovani BHU242_0	Homo sapiens	human
+BHU250_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Jasauli Pakri, Baruraj, Mahadipur	2006	ISC7	Leishmania donovani	Leishmania donovani BHU250_0	Homo sapiens	human
+BHU254_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pokhraira, Saraiya, Ramkrishan Dubiyahi	2006	ISC5	Leishmania donovani	Leishmania donovani BHU254_0	Homo sapiens	human
+BHU267_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kerma, Kudhani, Kerma	2007	ISC5	Leishmania donovani	Leishmania donovani BHU267_0	Homo sapiens	human
+BHU268_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Barkagaon, Karja, Kathan	2007	ISC5	Leishmania donovani	Leishmania donovani BHU268_0	Homo sapiens	human
+BHU269_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, rajwara, sahebganj	2007	ISC5	Leishmania donovani	Leishmania donovani BHU269_0	Homo sapiens	human
+BHU271_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	unknown	2007	ISC5	Leishmania donovani	Leishmania donovani BHU271_0	Homo sapiens	human
+BHU273_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	unknown	2007	ISC5	Leishmania donovani	Leishmania donovani BHU273_0	Homo sapiens	human
+BHU274_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Partapur, Karja, Mohammadpur	2007	Ungrouped	Leishmania donovani	Leishmania donovani BHU274_0	Homo sapiens	human
+BHU275_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Nariyarpur, Motipur, Nariyarpur	2007	ISC5	Leishmania donovani	Leishmania donovani BHU275_0	Homo sapiens	human
+BHU278_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kurhani, Sumera	2007	ISC5	Leishmania donovani	Leishmania donovani BHU278_0	Homo sapiens	human
+BHU281_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Kurhani, Ladura Pakri	2007	ISC5	Leishmania donovani	Leishmania donovani BHU281_0	Homo sapiens	human
+BHU283_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pathahi, Karja, Pakri Pakohi	2007	ISC7	Leishmania donovani	Leishmania donovani BHU283_0	Homo sapiens	human
+BHU293_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Turki, Minapur, Nariyar Panapur	2007	ISC5	Leishmania donovani	Leishmania donovani BHU293_0	Homo sapiens	human
+BHU296_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	unknown		ISC5	Leishmania donovani	Leishmania donovani BHU296_0	Homo sapiens	human
+BHU297_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	unknown	2007	ISC5	Leishmania donovani	Leishmania donovani BHU297_0	Homo sapiens	human
+BHU298_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Sahebganj, rajwara	2007	ISC7	Leishmania donovani	Leishmania donovani BHU298_0	Homo sapiens	human
+BHU301_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Birbaliya, Baruraj, Tola Muza	2007	ISC7	Leishmania donovani	Leishmania donovani BHU301_0	Homo sapiens	human
+BHU315_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, fatiyabad, Paru	2007	ISC5	Leishmania donovani	Leishmania donovani BHU315_0	Homo sapiens	human
+BHU339_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, saraiya, bakhra, Visunpur Basaitha	2007	ISC5	Leishmania donovani	Leishmania donovani BHU339_0	Homo sapiens	human
+BHU345_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Uttar Pradesh, Barabanki	2007	ISC9	Leishmania donovani	Leishmania donovani BHU345_0	Homo sapiens	human
+BHU568cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzzafarpur, Gola Bhagwanpur, Kudhani, Gaushi Khan	2009	ISC5	Leishmania donovani	Leishmania donovani BHU568cl1	Homo sapiens	human
+BHU573cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Sitamadhi	2009	ISC5	Leishmania donovani	Leishmania donovani BHU573cl3	Homo sapiens	human
+BHU744_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur	2009	Ungrouped	Leishmania donovani	Leishmania donovani BHU744_0	Homo sapiens	human
+BHU774_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, Barka Gaon, Karja, Madho Chapra	2009	Ungrouped	Leishmania donovani	Leishmania donovani BHU774_0	Homo sapiens	human
+BHU783_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, Dhanaiya, Sahebganj, Dhanaiya	2010	ISC10	Leishmania donovani	Leishmania donovani BHU783_0	Homo sapiens	human
+BHU796_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, saraiya, Ajitpur, bahnagari	2010	ISC5	Leishmania donovani	Leishmania donovani BHU796_0	Homo sapiens	human
+BHU797_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, Kalbari, Kanti, Madhuban	2010	ISC8	Leishmania donovani	Leishmania donovani BHU797_0	Homo sapiens	human
+BHU798_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Rupan	2010	ISC7	Leishmania donovani	Leishmania donovani BHU798_0	Homo sapiens	human
+BHU800_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur, sahebganj, rajwara, Rajwara purvi tola	2010	ISC5	Leishmania donovani	Leishmania donovani BHU800_1	Homo sapiens	human
+BHU808_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur,Baruraj , Chaur Ghata, Bakhari	2010	ISC7	Leishmania donovani	Leishmania donovani BHU808_0	Homo sapiens	human
+BHU815_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur,Baruraj , Birhima	2010	Ungrouped	Leishmania donovani	Leishmania donovani BHU815_0	Homo sapiens	human
+BHU816_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur,Minapur, Tnaraha, Koyali Baraw	2010	ISC10	Leishmania donovani	Leishmania donovani BHU816_1	Homo sapiens	human
+BHU824_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar,Muzaffarpur,Bochaha, Chambuk,Wazidpur	2010	ISC7	Leishmania donovani	Leishmania donovani BHU824_0	Homo sapiens	human
+BHU828_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Barji, Motipur, Baraji	2010	ISC8	Leishmania donovani	Leishmania donovani BHU828_0	Homo sapiens	human
+BHU844_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Mirzapur, Ahiyapur, Patiyasa	2010	Ungrouped	Leishmania donovani	Leishmania donovani BHU844_0	Homo sapiens	human
+BHU850_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Patahi, Karza, Pakri Pakohi	2010	ISC5	Leishmania donovani	Leishmania donovani BHU850_0	Homo sapiens	human
+BHU869_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Rajla, Kudhani, Fatehpur	2010	ISC8	Leishmania donovani	Leishmania donovani BHU869_0	Homo sapiens	human
+BHU872_6	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Motipur, Motipur, Singhwari	2010	ISC3	Leishmania donovani	Leishmania donovani BHU872_6	Homo sapiens	human
+BHU889_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Paru, Saraiya, Chandan Ratwara	2010	ISC7	Leishmania donovani	Leishmania donovani BHU889_0	Homo sapiens	human
+BHU902_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Marwan, Karja, Mukdumpur Kodariya	2010	ISC8	Leishmania donovani	Leishmania donovani BHU902_1	Homo sapiens	human
+BHU906_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pakri, Karja, Pakri Pakohi	2010	ISC8	Leishmania donovani	Leishmania donovani BHU906_0	Homo sapiens	human
+BHU931_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Marwan, Karja, Mokadampur Kodariya	2010	ISC8	Leishmania donovani	Leishmania donovani BHU931_0	Homo sapiens	human
+BHU975_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Pakri, Kudhani, Ladaura	2010	ISC5	Leishmania donovani	Leishmania donovani BHU975_0	Homo sapiens	human
+BHU982_0	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Motipur, Motipur, Ajana Kot	2010	ISC9	Leishmania donovani	Leishmania donovani BHU982_0	Homo sapiens	human
+BHU994_1	Genomic diversity in Leishmania donovani in Indian subcontinent			India	Bihar, Muzaffarpur, Jalalpur, Mushari, Baikatpur	2010	ISC5	Leishmania donovani	Leishmania donovani BHU994_1	Homo sapiens	human
+BPK025_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Chandbela	2002	ISC4	Leishmania donovani	Leishmania donovani BPK025_0cl1	Homo sapiens	human
+BPK026_0cl5	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Bhojpur, Bastim	2002	ISC1	Leishmania donovani	Leishmania donovani BPK026_0cl5	Homo sapiens	human
+BPK029_0cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Purwa Kusaha	2002	ISC4	Leishmania donovani	Leishmania donovani BPK029_0cl6	Homo sapiens	human
+BPK035_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Bhagani	2002	Ungrouped	Leishmania donovani	Leishmania donovani BPK035_0cl1	Homo sapiens	human
+BPK043_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Chatra	2002	Ungrouped	Leishmania donovani	Leishmania donovani BPK043_0cl2	Homo sapiens	human
+BPK066_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Aurabani	2002	ISC3	Leishmania donovani	Leishmania donovani BPK066_0	Homo sapiens	human
+BPK067_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2002	ISC3	Leishmania donovani	Leishmania donovani BPK067_0cl2	Homo sapiens	human
+BPK077_0cl5	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Phattepur	2002	ISC6	Leishmania donovani	Leishmania donovani BPK077_0cl5	Homo sapiens	human
+BPK080_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Ithahari	2002	ISC4	Leishmania donovani	Leishmania donovani BPK080_0cl1	Homo sapiens	human
+BPK081_0cl8	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Pakali	2002	ISC4	Leishmania donovani	Leishmania donovani BPK081_0cl8	Homo sapiens	human
+BPK085_0cl8	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Kamalpur	2002	ISC6	Leishmania donovani	Leishmania donovani BPK085_0cl8	Homo sapiens	human
+BPK087_0cl11	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Bhodaha	2002	ISC4	Leishmania donovani	Leishmania donovani BPK087_0cl11	Homo sapiens	human
+BPK090_0cl4	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Itahari	2002	ISC4	Leishmania donovani	Leishmania donovani BPK090_0cl4	Homo sapiens	human
+BPK156_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Bhojpur, Yampang	2002	ISC1	Leishmania donovani	Leishmania donovani BPK156_0	Homo sapiens	human
+BPK158_0cl9	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Jhapa, Damak	2002	Ungrouped	Leishmania donovani	Leishmania donovani BPK158_0cl9	Homo sapiens	human
+BPK173_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sarlahi, Pirari	2002	ISC5	Leishmania donovani	Leishmania donovani BPK173_0cl3	Homo sapiens	human
+BPK173_1cl9	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sarlahi, Pirari	2003	ISC5	Leishmania donovani	Leishmania donovani BPK173_1cl9	Homo sapiens	human
+BPK177_0cl7	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Dhanusa, Sarsa	2002	ISC5	Leishmania donovani	Leishmania donovani BPK177_0cl7	Homo sapiens	human
+BPK178_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Inaruwa	2002	ISC6	Leishmania donovani	Leishmania donovani BPK178_0cl3	Homo sapiens	human
+BPK181_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dumraha	2003	ISC6	Leishmania donovani	Leishmania donovani BPK181_0cl1	Homo sapiens	human
+BPK181_12	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dumraha	2003	ISC6	Leishmania donovani	Leishmania donovani BPK181_12	Homo sapiens	human
+BPK190_0cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Govindpur	2003	ISC4	Leishmania donovani	Leishmania donovani BPK190_0cl3	Homo sapiens	human
+BPK206_0cl10	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Ithahari	2003	ISC4	Leishmania donovani	Leishmania donovani BPK206_0cl10	Homo sapiens	human
+BPK208_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Itahari	2003	ISC4	Leishmania donovani	Leishmania donovani BPK208_0cl2	Homo sapiens	human
+BPK274_0cl5	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Itahari	2003	ISC4	Leishmania donovani	Leishmania donovani BPK274_0cl5	Homo sapiens	human
+BPK275_0cl18	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Schanischare	2003	ISC5	Leishmania donovani	Leishmania donovani BPK275_0cl18	Homo sapiens	human
+BPK275_1cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Schanischare	2003	ISC5	Leishmania donovani	Leishmania donovani BPK275_1cl3	Homo sapiens	human
+BPK276_0cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Itahari	2003	ISC4	Leishmania donovani	Leishmania donovani BPK276_0cl6	Homo sapiens	human
+BPK279_0cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sanischare	2003	ISC4	Leishmania donovani	Leishmania donovani BPK279_0cl6	Homo sapiens	human
+BPK280_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Somnath	2003	Ungrouped	Leishmania donovani	Leishmania donovani BPK280_0	Homo sapiens	human
+BPK282_0cl4	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Inaruwa	2003	ISC6	Leishmania donovani	Leishmania donovani BPK282_0cl4	Homo sapiens	human
+BPK288_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Sitapur	2003	ISC6	Leishmania donovani	Leishmania donovani BPK288_0	Homo sapiens	human
+BPK293_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Inaruwa	2003	ISC4	Leishmania donovani	Leishmania donovani BPK293_0	Homo sapiens	human
+BPK294_0cl1	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Siraha, Bishnupur	2003	ISC9	Leishmania donovani	Leishmania donovani BPK294_0cl1	Homo sapiens	human
+BPK295_0cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Siraha, Pipra	2003	ISC6	Leishmania donovani	Leishmania donovani BPK295_0cl6	Homo sapiens	human
+BPK298_0cl8	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Ithahari	2003	ISC4	Leishmania donovani	Leishmania donovani BPK298_0cl8	Homo sapiens	human
+BPK344_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Sitapur	2004	ISC9	Leishmania donovani	Leishmania donovani BPK344_0	Homo sapiens	human
+BPK345_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	unknown	2004	ISC9	Leishmania donovani	Leishmania donovani BPK345_0	Homo sapiens	human
+BPK375_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	unknown	2004	ISC6	Leishmania donovani	Leishmania donovani BPK375_0	Homo sapiens	human
+BPK380_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	unknown	2004	ISC9	Leishmania donovani	Leishmania donovani BPK380_0	Homo sapiens	human
+BPK411_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dharan	2009	ISC1	Leishmania donovani	Leishmania donovani BPK411_0	Homo sapiens	human
+BPK413_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Dharan	2009	ISC1	Leishmania donovani	Leishmania donovani BPK413_0	Homo sapiens	human
+BPK433_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Duhabi	2009	ISC6	Leishmania donovani	Leishmania donovani BPK433_0	Homo sapiens	human
+BPK455_0cl2	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2009	ISC4	Leishmania donovani	Leishmania donovani BPK455_0cl2	Homo sapiens	human
+BPK455_5cl3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2010	ISC4	Leishmania donovani	Leishmania donovani BPK455_5cl3	Homo sapiens	human
+BPK471_7	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Rajgung Sinuwari	2010	ISC4	Leishmania donovani	Leishmania donovani BPK471_7	Homo sapiens	human
+BPK475_9	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Rajgung Sinuwari	2010	ISC4	Leishmania donovani	Leishmania donovani BPK475_9	Homo sapiens	human
+BPK486_7	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Odhara	2010	ISC6	Leishmania donovani	Leishmania donovani BPK486_7	Homo sapiens	human
+BPK491_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Odhara	2009	ISC6	Leishmania donovani	Leishmania donovani BPK491_0	Homo sapiens	human
+BPK495_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2009	ISC4	Leishmania donovani	Leishmania donovani BPK495_0	Homo sapiens	human
+BPK496_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2009	ISC4	Leishmania donovani	Leishmania donovani BPK496_0	Homo sapiens	human
+BPK497_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Diwan	2009	ISC6	Leishmania donovani	Leishmania donovani BPK497_0	Homo sapiens	human
+BPK498_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Katahari	2009	ISC5	Leishmania donovani	Leishmania donovani BPK498_0	Homo sapiens	human
+BPK499_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Odhara	2009	ISC6	Leishmania donovani	Leishmania donovani BPK499_0	Homo sapiens	human
+BPK500_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Odhara	2009	ISC6	Leishmania donovani	Leishmania donovani BPK500_0	Homo sapiens	human
+BPK501_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2009	ISC4	Leishmania donovani	Leishmania donovani BPK501_0	Homo sapiens	human
+BPK502_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Hansposa	2009	ISC6	Leishmania donovani	Leishmania donovani BPK502_0	Homo sapiens	human
+BPK505_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Ramnagar	2009	ISC6	Leishmania donovani	Leishmania donovani BPK505_0	Homo sapiens	human
+BPK506_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Bhogwatupur	2009	ISC6	Leishmania donovani	Leishmania donovani BPK506_0	Homo sapiens	human
+BPK507_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Jhapa, Topgachi	2009	ISC3	Leishmania donovani	Leishmania donovani BPK507_0	Homo sapiens	human
+BPK509_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Joganiya	2009	ISC4	Leishmania donovani	Leishmania donovani BPK509_0	Homo sapiens	human
+BPK509_2	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Joganiya	2010	ISC4	Leishmania donovani	Leishmania donovani BPK509_2	Homo sapiens	human
+BPK513_0cl8	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Odhara	2010	ISC6	Leishmania donovani	Leishmania donovani BPK513_0cl8	Homo sapiens	human
+BPK514_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Gacchiya	2010	ISC4	Leishmania donovani	Leishmania donovani BPK514_0	Homo sapiens	human
+BPK515_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Jhapa, Baundange	2010	ISC3	Leishmania donovani	Leishmania donovani BPK515_0	Homo sapiens	human
+BPK516_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2010	ISC4	Leishmania donovani	Leishmania donovani BPK516_0	Homo sapiens	human
+BPK518_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Nayabazar	2010	ISC3	Leishmania donovani	Leishmania donovani BPK518_0	Homo sapiens	human
+BPK519_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Aurabani	2010	ISC3	Leishmania donovani	Leishmania donovani BPK519_0	Homo sapiens	human
+BPK519_12	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Aurabani	2011	ISC1	Leishmania donovani	Leishmania donovani BPK519_12	Homo sapiens	human
+BPK520_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2010	ISC6	Leishmania donovani	Leishmania donovani BPK520_0	Homo sapiens	human
+BPK526_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Sundarpur	2010	ISC4	Leishmania donovani	Leishmania donovani BPK526_0	Homo sapiens	human
+BPK530_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Manaha	2010	ISC6	Leishmania donovani	Leishmania donovani BPK530_0	Homo sapiens	human
+BPK562_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Odraha	2010	ISC6	Leishmania donovani	Leishmania donovani BPK562_0	Homo sapiens	human
+BPK569_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Negada	2010	ISC6	Leishmania donovani	Leishmania donovani BPK569_0	Homo sapiens	human
+BPK594_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Bisahariya	2011	ISC1	Leishmania donovani	Leishmania donovani BPK594_0	Homo sapiens	human
+BPK602_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Morang, Amardaha	2011	ISC9	Leishmania donovani	Leishmania donovani BPK602_0	Homo sapiens	human
+BPK604_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Khotang, Phaktang	2011	ISC1	Leishmania donovani	Leishmania donovani BPK604_0	Homo sapiens	human
+BPK608_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Siraha, Muksar	2011	ISC9	Leishmania donovani	Leishmania donovani BPK608_0	Homo sapiens	human
+BPK609_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Ramnagar	2011	Ungrouped	Leishmania donovani	Leishmania donovani BPK609_0	Homo sapiens	human
+BPK612_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sankhuwasabha, Ankhibhai	2011	ISC1	Leishmania donovani	Leishmania donovani BPK612_0	Homo sapiens	human
+BPK615_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Siraha, Bastipur	2011	Ungrouped	Leishmania donovani	Leishmania donovani BPK615_0	Homo sapiens	human
+BPK616_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Jalpapur	2011	ISC9	Leishmania donovani	Leishmania donovani BPK616_0	Homo sapiens	human
+BPK619_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Khotang, Suntale	2011	ISC6	Leishmania donovani	Leishmania donovani BPK619_0	Homo sapiens	human
+BPK623_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Fatepur	2011	ISC1	Leishmania donovani	Leishmania donovani BPK623_0	Homo sapiens	human
+BPK648_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sankhuwasabha, Aakhibhui	2011	ISC1	Leishmania donovani	Leishmania donovani BPK648_0	Homo sapiens	human
+BPK649_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Rautahat, Paurahi	2011	ISC5	Leishmania donovani	Leishmania donovani BPK649_0	Homo sapiens	human
+BPK650_0	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Fatepur	2011	ISC6	Leishmania donovani	Leishmania donovani BPK650_0	Homo sapiens	human
+NEP021_6cl6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Parsabani	2004	ISC6	Leishmania donovani	Leishmania donovani NEP021_6cl6	Homo sapiens	human
+NEP052_3	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Jagatpur	2004	ISC6	Leishmania donovani	Leishmania donovani NEP052_3	Homo sapiens	human
+NEP098_6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Siraha, Lahan	2004	ISC5	Leishmania donovani	Leishmania donovani NEP098_6	Homo sapiens	human
+NEP107_6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Saptari, Portaha	2004	ISC6	Leishmania donovani	Leishmania donovani NEP107_6	Homo sapiens	human
+NEP123_6	Genomic diversity in Leishmania donovani in Indian subcontinent			Nepal	Sunsari, Amahibelaha	2004	ISC3	Leishmania donovani	Leishmania donovani NEP123_6	Homo sapiens	human
