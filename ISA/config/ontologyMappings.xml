@@ -1026,7 +1026,7 @@
     <name>South Africa</name>
     <name>S. Africa</name>
   </ontologyTerm>  
-   <ontologyTerm source_id="GAZ:00000464" type="characteristicValue" parent="characteristicQualifier">
+   <ontologyTerm source_id="GAZ_00000464" type="characteristicValue" parent="characteristicQualifier">
     <name>Europe</name>
   </ontologyTerm>
  <ontologyTerm source_id="GAZ_00002476" type="characteristicValue" parent="characteristicQualifier">
