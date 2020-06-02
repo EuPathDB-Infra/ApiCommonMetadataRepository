@@ -1,7 +1,6 @@
 use strict;
 use warnings;
 use FindBin;
-
 use lib "$FindBin::Bin/lib";
 use lib "$FindBin::Bin/extlib/lib/perl5";
 
@@ -10,7 +9,9 @@ use OntologyMappings;
 use ApiCommonData::Load::OwlReader;
 use Test::More;
 
+die "Usage: SPARQLPATH=scripts/lib/ApiCommonData/Load/lib/SPARQL/ perl scripts/microbiome.t" unless $ENV{SPARQLPATH};
 my $owlFile = "$FindBin::Bin/lib/ApiCommonData/Load/ontology/Microbiome/microbiome.owl";
+ok(-f $owlFile, $owlFile);
 my $owl = ApiCommonData::Load::OwlReader->new($owlFile);
 my ($labelsBySourceId, $__) = $owl->getLabelsAndParentsHashes;
 

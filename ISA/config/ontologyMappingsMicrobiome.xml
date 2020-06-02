@@ -153,6 +153,7 @@
     <name>case_control</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
+      <name>country</name>
     <name>country name</name>
     <name>country</name>
     <name>geo_loc_name</name>
@@ -194,6 +195,7 @@
     <name>Weight_to_use</name>
   </ontologyTerm>
   <ontologyTerm source_id="PATO_0000047" type="characteristicQualifier" parent="Source">
+      <name>gender</name>
     <name>sex</name>
     <name>host_sex</name>
     <function>valueIsOntologyTerm</function>
@@ -273,6 +275,7 @@
     <name>course_num</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000581" type="characteristicQualifier" parent="Source">
+      <name>csection</name>
     <name>delivery</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000585" type="characteristicQualifier" parent="Source">
@@ -375,6 +378,7 @@
     <name>Days post-infection</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000639" type="characteristicQualifier" parent="Source">
+      <name>cohort</name>
     <name>Group</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009010" type="characteristicQualifier" parent="Source">
@@ -411,18 +415,167 @@
     <name>DTH</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0011895" type="characteristicQualifier" parent="Source">
+      <name>waz_last</name>
     <name>WHZ</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000733" type="characteristicQualifier" parent="Source">
     <name>WAZ</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0011894" type="characteristicQualifier" parent="Source">
+      <name>haz_last</name>
     <name>HAZ</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009030" type="characteristicQualifier" parent="Source">
     <name>SRA study ID</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="EUPATH_0009045" type="characteristicValue" parent="Source">
+    <name>GADA</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009037" type="characteristicValue" parent="Source">
+    <name>HLA_risk_class</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009046" type="characteristicValue" parent="Source">
+    <name>IA2A</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009044" type="characteristicValue" parent="Source">
+    <name>IAA</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009048" type="characteristicValue" parent="Source">
+    <name>ICA</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009047" type="characteristicValue" parent="Source">
+    <name>ZNT8A</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009036" type="characteristicValue" parent="Source">
+    <name>abx_while_pregnant</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009042" type="characteristicValue" parent="Source">
+    <name>age_at_t1d_onset</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009041" type="characteristicValue" parent="Source">
+    <name>age_second_pos</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009053" type="characteristicValue" parent="Source">
+    <name>agedays_haz_last</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009054" type="characteristicValue" parent="Source">
+    <name>agedays_waz_last</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009055" type="characteristicValue" parent="Source">
+    <name>agedays_zBMI_last</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009038" type="characteristicValue" parent="Source">
+    <name>bf_length</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009039" type="characteristicValue" parent="Source">
+    <name>bf_length_exclusive</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0011928" type="characteristicValue" parent="Source">
+    <name>birth_location</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009057" type="characteristicValue" parent="Source">
+    <name>compound_apple</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009058" type="characteristicValue" parent="Source">
+    <name>compound_banana</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009059" type="characteristicValue" parent="Source">
+    <name>compound_barley</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009060" type="characteristicValue" parent="Source">
+    <name>compound_beef</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009062" type="characteristicValue" parent="Source">
+    <name>compound_berries</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009063" type="characteristicValue" parent="Source">
+    <name>compound_cabbs</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009064" type="characteristicValue" parent="Source">
+    <name>compound_carrot</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009065" type="characteristicValue" parent="Source">
+    <name>compound_corn</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009066" type="characteristicValue" parent="Source">
+    <name>compound_cowsmilk</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009067" type="characteristicValue" parent="Source">
+    <name>compound_egg</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009068" type="characteristicValue" parent="Source">
+    <name>compound_fish</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009071" type="characteristicValue" parent="Source">
+    <name>compound_milkprod</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009072" type="characteristicValue" parent="Source">
+    <name>compound_oat</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009073" type="characteristicValue" parent="Source">
+    <name>compound_pear</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009074" type="characteristicValue" parent="Source">
+    <name>compound_peas</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009075" type="characteristicValue" parent="Source">
+    <name>compound_plum</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009076" type="characteristicValue" parent="Source">
+    <name>compound_pork</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009077" type="characteristicValue" parent="Source">
+    <name>compound_potato</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009078" type="characteristicValue" parent="Source">
+    <name>compound_poultry</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009079" type="characteristicValue" parent="Source">
+    <name>compound_rice</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009080" type="characteristicValue" parent="Source">
+    <name>compound_rye</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009056" type="characteristicValue" parent="Source">
+    <name>compound_solid_start_approx</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009083" type="characteristicValue" parent="Source">
+    <name>compound_sweetpota</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009084" type="characteristicValue" parent="Source">
+    <name>compound_tomato</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009086" type="characteristicValue" parent="Source">
+    <name>compound_wheat</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009035" type="characteristicValue" parent="Source">
+    <name>gestational_diabetes</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009050" type="characteristicValue" parent="Source">
+    <name>length_growth_pace_during_three_years</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009052" type="characteristicValue" parent="Source">
+    <name>length_growth_pace_during_year_one</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009040" type="characteristicValue" parent="Source">
+    <name>milk_first_three_days</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009034" type="characteristicValue" parent="Source">
+    <name>mom_age_at_birth</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009043" type="characteristicValue" parent="Source">
+    <name>t1d_diagnosed</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009049" type="characteristicValue" parent="Source">
+    <name>weight_growth_pace_during_three_years</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009051" type="characteristicValue" parent="Source">
+    <name>weight_growth_pace_during_year_one</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000662" type="characteristicValue" parent="Source">
+    <name>zBMI_last</name>
+  </ontologyTerm>
   <!-- Characteristics associated with Sample -->
 
   <ontologyTerm source_id="UBERON_0000463" type="characteristicQualifier" parent="Sample">
@@ -487,6 +640,7 @@
     <name>Monthly Sample</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009029" type="characteristicQualifier" parent="Sample">
+      <name>age_at_collection_months</name>
     <name>Age (months)</name>
     <name>Age of donor at time of fecal sample collection (months)</name>
     <name>age in months</name>

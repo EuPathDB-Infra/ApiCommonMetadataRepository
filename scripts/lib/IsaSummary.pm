@@ -9,7 +9,7 @@ use List::Util qw/all max min/;
 sub summariseValues {
   my ($values) = @_;
   my %h;
-  $h{$_}++ for @{$values};
+  $h{$_//""}++ for @{$values};
   my @distinct_values = keys %h;
   my @values_that_are_numbers = grep {looks_like_number $_} @distinct_values;
   my @values_that_are_not_numbers = grep {not (looks_like_number $_)} @distinct_values;
