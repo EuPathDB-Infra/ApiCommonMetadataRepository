@@ -2,7 +2,7 @@ Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Cha
 V130-54	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	Pus shoulder	Aspergillus fumigatus	Aspergillus fumigatus V130-54
 V130-18	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	Tissue shoulder 	Aspergillus fumigatus	Aspergillus fumigatus V130-18
 V130-14	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	Pus shoulder 	Aspergillus fumigatus	Aspergillus fumigatus V130-14
-V130-15	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	"Fluid, mass around clavicle"	Aspergillus fumigatus	Aspergillus fumigatus V130-15
+V130-15	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	Fluid, mass around clavicle	Aspergillus fumigatus	Aspergillus fumigatus V130-15
 V157-48	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	bronchoalveolar lavage	Aspergillus fumigatus	Aspergillus fumigatus V157-48
 V157-40	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	bronchoalveolar lavage	Aspergillus fumigatus	Aspergillus fumigatus V157-40
 V157-39	WGS of 13 clinical isogenic A. fumigatus isolates			Netherlands	Europe	Invasive aspergillosis	Homo sapiens	bronchoalveolar lavage	Aspergillus fumigatus	Aspergillus fumigatus V157-39
