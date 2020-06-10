@@ -1,68 +1,68 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [specimen]	Characteristics [alternative sample ID]	Characteristics [fungus organism]	Characteristics [city]	specimen collection year	Characteristics [country]	Characteristics [organism]	specimen collector
-SJV_1				specimen from organism	TGC0593	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_2				specimen from organism	TGC0595	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_3				specimen from organism	TGC0597	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_4				specimen from organism	TGC0598	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_5				specimen from organism	TGC0599	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_6				specimen from organism	TGC0600	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_7				specimen from organism	TGC0601	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_8				specimen from organism	TGC0604	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_9				specimen from organism	TGC0605	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-SJV_10				specimen from organism	TGC0606	Coccidioides immitis	San Joaquin Valley, California		USA		University of Arizona
-SJV_11				specimen from organism	TGC0607	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona
-Tucson_1				lymph node	TGC0609	Coccidioides posadasii	Tucson, Arizona		USA	Human	University of Arizona
-Tucson_2				specimen from organism	TGC0611	Coccidioides posadasii	Tucson, Arizona		USA	Human	University of Arizona
-Tucson_3				sputum	TGC0613	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
-Tucson_4				specimen from organism	TGC0614	Coccidioides posadasii	Tucson, Arizona		USA	Human	University of Arizona
-Tucson_5				bronchoalveolar lavage	TGC0615	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
-Tucson_6				pleural fluid	TGC0618	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
-Tucson_7				sputum	TGC0619	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
-Tucson_8				specimen from organism	TGC0620	Coccidioides posadasii	Tucson, Arizona		USA	Human	University of Arizona
-Tucson_9				TGH mold iso	TGC0621	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_10				TGH	TGC0622	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_11				lung nodule	TGC0623	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_12				bronchoalveolar lavage	TGC0625	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_13				lung mold bronch	TGC0626	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_14				blood	TGC0627	Coccidioides posadasii	Tucson, Arizona	1989	USA	Human	University of Arizona
-Tucson_15				sputum	TGC0629	Coccidioides posadasii	Tucson, Arizona	1989	USA	Human	University of Arizona
-Tucson_16				lung	TGC0630	Coccidioides posadasii	Tucson, Arizona	1989	USA	Human	University of Arizona
-Tucson_17				sputum	TGC0632	Coccidioides posadasii	Tucson, Arizona	1986	USA	Human	University of Arizona
-Tucson_18				sputum	TGC0633	Coccidioides posadasii	Tucson, Arizona	1987	USA	Human	University of Arizona
-Tucson_19				lung aspirate	TGC0634	Coccidioides posadasii	Tucson, Arizona	1987	USA	Human	University of Arizona
-Tucson_20				lung aspirate	TGC0635	Coccidioides posadasii	Tucson, Arizona	1987	USA	Human	University of Arizona
-Tucson_21				specimen from organism	TGC0637	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_22				bronchoalveolar lavage	TGC0639	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona
-Tucson_23				lung lesion	TGC0640	Coccidioides posadasii	Tucson, Arizona	1976	USA	Human	University of Arizona
-Michoacan_2				specimen from organism	TGC0642	Coccidioides immitis	Michoacan, South Mexico		Mexico		University of Arizona
-Guerrero_1				specimen from organism	TGC0643	Coccidioides immitis	Guerrero		Mexico	Human	University of Arizona
-San_Diego_1				specimen from organism	TGC0645	Coccidioides immitis	San Diego, California		USA	Human	University of Arizona
-San_Antonio_1				specimen from organism	TGC0646	Coccidioides posadasii	San Antonio, Texas		USA		
-Colorado_Springs_1				cerebral spinal fluid	TGC0647	Coccidioides posadasii	Colorado Springs, Colorado	1997	USA	Human	University of Arizona
-Nuevo_Leon_1				specimen from organism	TGC0648	Coccidioides posadasii	Nuevo Leon , Central Mexico		Mexico		University of Arizona
-Nuevo_Leon_2				specimen from organism	TGC0649	Coccidioides posadasii	Nuevo Leon , Central Mexico		Mexico		University of Arizona
-Michoacan_1				specimen from organism	TGC0650	Coccidioides posadasii	Michoacan, South Mexico		Mexico		University of Arizona
-Sonora_1				specimen from organism	TGC0651	Coccidioides posadasii	Sonora, North Mexico		Mexico		University of Arizona
-Sonora_2				specimen from organism	TGC0652	Coccidioides posadasii	Sonora, North Mexico		Mexico		University of Arizona
-Tucson_24				lung	TGC0653	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona
-Coahuila_1				specimen from organism	TGC0654	Coccidioides posadasii	Coahuila, North Mexico		Mexico		
-Coahuila_2				specimen from organism	TGC0655	Coccidioides posadasii	Coahuila, North Mexico		Mexico		University of Arizona
-Phoenix_1				bronchial wash	TGC0656	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-Phoenix_2				bronchial wash	TGC0657	Coccidioides posadasii	Maricopa, Arizona	2003	USA	Human	University of Arizona
-Phoenix_3				sputum	TGC0658	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-Phoenix_4				bronchial wash	TGC0659	Coccidioides posadasii	Maricopa, Arizona	2003	USA	Human	University of Arizona
-Phoenix_5				pleural fluid	TGC0660	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-Phoenix_6				bone marrow	TGC0661	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-Phoenix_7				sputum	TGC0662	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-Phoenix_8				bronchial wash	TGC0663	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-Phoenix_9				bronchial wash	TGC0664	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona
-B0727_Argentina				specimen from organism		Coccidioides immitis			Argentina		CDC
-B0858_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC
-B10757_Nevada				specimen from organism		Coccidioides posadasii	Nevada		USA		CDC
-B10813_Texas				specimen from organism		Coccidioides posadasii	Texas		USA		CDC
-B1249_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC
-B5773_Brazil				specimen from organism		Coccidioides posadasii			Brazil		CDC
-GT017_Paraguay				specimen from organism		Coccidioides posadasii			Paraguay		University of California, Irvine
-GT002_Texas				specimen from organism		Coccidioides posadasii	Texas		USA		University of California, Irvine
-730332_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC
-730333_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC
-730334_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [specimen]	Characteristics [alternative sample ID]	Characteristics [fungus organism]	Characteristics [city]	specimen collection year	Characteristics [country]	Characteristics [organism]	specimen collector	Characteristics [sample ID]
+SJV_1				specimen from organism	TGC0593	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona	SJV_1
+SJV_2				specimen from organism	TGC0595	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona	SJV_2
+SJV_3				specimen from organism	TGC0597	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona	SJV_3
+SJV_4				specimen from organism	TGC0598	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona	SJV_4
+SJV_5				specimen from organism	TGC0599	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona	SJV_5
+SJV_6				specimen from organism	TGC0600	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona	SJV_6
+SJV_7				specimen from organism	TGC0601	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona	SJV_7
+SJV_8				specimen from organism	TGC0604	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona	SJV_8
+SJV_9				specimen from organism	TGC0605	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona	SJV_9
+SJV_10				specimen from organism	TGC0606	Coccidioides immitis	San Joaquin Valley, California		USA		University of Arizona	SJV_10
+SJV_11				specimen from organism	TGC0607	Coccidioides immitis	San Joaquin Valley, California		USA	Human	University of Arizona	SJV_11
+Tucson_1				lymph node	TGC0609	Coccidioides posadasii	Tucson, Arizona		USA	Human	University of Arizona	Tucson_1
+Tucson_2				specimen from organism	TGC0611	Coccidioides posadasii	Tucson, Arizona		USA	Human	University of Arizona	Tucson_2
+Tucson_3				sputum	TGC0613	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona	Tucson_3
+Tucson_4				specimen from organism	TGC0614	Coccidioides posadasii	Tucson, Arizona		USA	Human	University of Arizona	Tucson_4
+Tucson_5				bronchoalveolar lavage	TGC0615	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona	Tucson_5
+Tucson_6				pleural fluid	TGC0618	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona	Tucson_6
+Tucson_7				sputum	TGC0619	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona	Tucson_7
+Tucson_8				specimen from organism	TGC0620	Coccidioides posadasii	Tucson, Arizona		USA	Human	University of Arizona	Tucson_8
+Tucson_9				TGH mold iso	TGC0621	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona	Tucson_9
+Tucson_10				TGH	TGC0622	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona	Tucson_10
+Tucson_11				lung nodule	TGC0623	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona	Tucson_11
+Tucson_12				bronchoalveolar lavage	TGC0625	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona	Tucson_12
+Tucson_13				lung mold bronch	TGC0626	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona	Tucson_13
+Tucson_14				blood	TGC0627	Coccidioides posadasii	Tucson, Arizona	1989	USA	Human	University of Arizona	Tucson_14
+Tucson_15				sputum	TGC0629	Coccidioides posadasii	Tucson, Arizona	1989	USA	Human	University of Arizona	Tucson_15
+Tucson_16				lung	TGC0630	Coccidioides posadasii	Tucson, Arizona	1989	USA	Human	University of Arizona	Tucson_16
+Tucson_17				sputum	TGC0632	Coccidioides posadasii	Tucson, Arizona	1986	USA	Human	University of Arizona	Tucson_17
+Tucson_18				sputum	TGC0633	Coccidioides posadasii	Tucson, Arizona	1987	USA	Human	University of Arizona	Tucson_18
+Tucson_19				lung aspirate	TGC0634	Coccidioides posadasii	Tucson, Arizona	1987	USA	Human	University of Arizona	Tucson_19
+Tucson_20				lung aspirate	TGC0635	Coccidioides posadasii	Tucson, Arizona	1987	USA	Human	University of Arizona	Tucson_20
+Tucson_21				specimen from organism	TGC0637	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona	Tucson_21
+Tucson_22				bronchoalveolar lavage	TGC0639	Coccidioides posadasii	Tucson, Arizona	1988	USA	Human	University of Arizona	Tucson_22
+Tucson_23				lung lesion	TGC0640	Coccidioides posadasii	Tucson, Arizona	1976	USA	Human	University of Arizona	Tucson_23
+Michoacan_2				specimen from organism	TGC0642	Coccidioides immitis	Michoacan, South Mexico		Mexico		University of Arizona	Michoacan_2
+Guerrero_1				specimen from organism	TGC0643	Coccidioides immitis	Guerrero		Mexico	Human	University of Arizona	Guerrero_1
+San_Diego_1				specimen from organism	TGC0645	Coccidioides immitis	San Diego, California		USA	Human	University of Arizona	San_Diego_1
+San_Antonio_1				specimen from organism	TGC0646	Coccidioides posadasii	San Antonio, Texas		USA			San_Antonio_1
+Colorado_Springs_1				cerebral spinal fluid	TGC0647	Coccidioides posadasii	Colorado Springs, Colorado	1997	USA	Human	University of Arizona	Colorado_Springs_1
+Nuevo_Leon_1				specimen from organism	TGC0648	Coccidioides posadasii	Nuevo Leon , Central Mexico		Mexico		University of Arizona	Nuevo_Leon_1
+Nuevo_Leon_2				specimen from organism	TGC0649	Coccidioides posadasii	Nuevo Leon , Central Mexico		Mexico		University of Arizona	Nuevo_Leon_2
+Michoacan_1				specimen from organism	TGC0650	Coccidioides posadasii	Michoacan, South Mexico		Mexico		University of Arizona	Michoacan_1
+Sonora_1				specimen from organism	TGC0651	Coccidioides posadasii	Sonora, North Mexico		Mexico		University of Arizona	Sonora_1
+Sonora_2				specimen from organism	TGC0652	Coccidioides posadasii	Sonora, North Mexico		Mexico		University of Arizona	Sonora_2
+Tucson_24				lung	TGC0653	Coccidioides posadasii	Tucson, Arizona	1991	USA	Human	University of Arizona	Tucson_24
+Coahuila_1				specimen from organism	TGC0654	Coccidioides posadasii	Coahuila, North Mexico		Mexico			Coahuila_1
+Coahuila_2				specimen from organism	TGC0655	Coccidioides posadasii	Coahuila, North Mexico		Mexico		University of Arizona	Coahuila_2
+Phoenix_1				bronchial wash	TGC0656	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona	Phoenix_1
+Phoenix_2				bronchial wash	TGC0657	Coccidioides posadasii	Maricopa, Arizona	2003	USA	Human	University of Arizona	Phoenix_2
+Phoenix_3				sputum	TGC0658	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona	Phoenix_3
+Phoenix_4				bronchial wash	TGC0659	Coccidioides posadasii	Maricopa, Arizona	2003	USA	Human	University of Arizona	Phoenix_4
+Phoenix_5				pleural fluid	TGC0660	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona	Phoenix_5
+Phoenix_6				bone marrow	TGC0661	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona	Phoenix_6
+Phoenix_7				sputum	TGC0662	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona	Phoenix_7
+Phoenix_8				bronchial wash	TGC0663	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona	Phoenix_8
+Phoenix_9				bronchial wash	TGC0664	Coccidioides posadasii	Maricopa, Arizona	2002	USA	Human	University of Arizona	Phoenix_9
+B0727_Argentina				specimen from organism		Coccidioides immitis			Argentina		CDC	B0727_Argentina
+B0858_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC	B0858_Guatemala
+B10757_Nevada				specimen from organism		Coccidioides posadasii	Nevada		USA		CDC	B10757_Nevada
+B10813_Texas				specimen from organism		Coccidioides posadasii	Texas		USA		CDC	B10813_Texas
+B1249_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC	B1249_Guatemala
+B5773_Brazil				specimen from organism		Coccidioides posadasii			Brazil		CDC	B5773_Brazil
+GT017_Paraguay				specimen from organism		Coccidioides posadasii			Paraguay		University of California, Irvine	GT017_Paraguay
+GT002_Texas				specimen from organism		Coccidioides posadasii	Texas		USA		University of California, Irvine	GT002_Texas
+730332_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC	730332_Guatemala
+730333_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC	730333_Guatemala
+730334_Guatemala				specimen from organism		Coccidioides posadasii			Guatemala		CDC	730334_Guatemala
