@@ -653,6 +653,9 @@
   <ontologyTerm source_id="EUPATH_0005006" type="characteristicQualifier" parent="Sample">
     <name>VNI subdivision</name>
   </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001616" type="characteristicQualifier" parent="Sample">
+    <name>sample ID</name>
+  </ontologyTerm>
 
 <!-- characteristicValues -->
 
