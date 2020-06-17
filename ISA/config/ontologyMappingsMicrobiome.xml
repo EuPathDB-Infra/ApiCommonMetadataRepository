@@ -13,6 +13,7 @@
   <ontologySource>NCBITAXON</ontologySource>
   <ontologySource>EFO</ontologySource>
   <ontologySource>UO</ontologySource>
+  <ontologySource>HP</ontologySource>
   
 
   <!-- Protocol Params -->
@@ -162,6 +163,7 @@
   <ontologyTerm source_id="EUPATH_0000452" type="characteristicQualifier" parent="Source">
     <name>village</name>
     <name>Location</name>
+    <name>location</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
     <name>age</name>
@@ -576,6 +578,9 @@
   <ontologyTerm source_id="EUPATH_0000662" type="characteristicValue" parent="Source">
     <name>zBMI_last</name>
   </ontologyTerm>
+  <ontologyTerm source_id="HP_0000238" type="characteristicValue" parent="Source">
+    <name>hydrocephalus</name>
+  </ontologyTerm>
   <!-- Characteristics associated with Sample -->
 
   <ontologyTerm source_id="UBERON_0000463" type="characteristicQualifier" parent="Sample">
@@ -984,7 +989,14 @@ r">
   <ontologyTerm source_id="UBERON_0016486" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:posterior fornix of vagina</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="UBERON_0001359" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:cerebrospinal fluid</name>
+    <name>cerebrospinal fluid</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0002240" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:spinal cord</name>
+    <name>spinal cord</name>
+  </ontologyTerm>
   <!--units-->
   <ontologyTerm source_id="UO_0000036" type="unit">
     <name>year</name>
