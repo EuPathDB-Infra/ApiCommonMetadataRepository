@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 package IsaSummary;
-use Text::CSV qw( csv );
+use List::MoreUtils qw/zip/;
 use Scalar::Util qw/looks_like_number/;
 use List::Util qw/all max min/;
 
@@ -40,10 +40,22 @@ sub new {
   my ($class, $isa_path) = @_;
   return undef unless -f $isa_path;
 
-  my $aoh = csv(in => $isa_path, headers => "auto", sep => "\t");
+  open(my $fh, "<", $isa_path) or die $isa_path;
+  my $l = <$fh>;
+  chomp $l;
+  my @hs = split "\t", $l;
+
+  my @aoh;
+  while (my $l = <$fh>){
+    chomp $l;
+    my @xs = split "\t", $l;
+    my %h = zip @hs, @xs;
+    push @aoh, \%h;
+  }
+
   my %sampleDetails;
   my %samples;
-  for my $h (@{$aoh}){
+  for my $h (@aoh){
     delete $h->{$_} for ("name", "description", "sourcemtoverride", "samplemtoverride");
     for my $k (keys %$h){
       push @{$sampleDetails{$k}}, $h->{$k};

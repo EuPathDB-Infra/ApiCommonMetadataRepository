@@ -20,7 +20,7 @@ my $ontologyMappings = OntologyMappings->new("$FindBin::Bin/../ISA/config/ontolo
 # my $valueMappingFile = "$FindBin::Bin/../../ISA/config/valueMappingsMicrobiome.txt";
 
 # just the word age, meaning age in years: OBI_0001169
-my @requiredSourceIds = qw/OBI_0100051 OBI_0001627 EUPATH_0000512 UBERON_0000466 UBERON_0000061 UBERON_0000463/;
+my @requiredSourceIds = qw/OBI_0100051 OBI_0001627 EUPATH_0000512 UBERON_0000466 UBERON_0000061 UBERON_0000463 ENVO_00002297/;
 
 my $mbioDir = "$FindBin::Bin/../ISA/metadata/MBSTDY0020";
 # my $ontologyMappingOverrideFile = "$mbioDir/ontologyMappingOverride.xml";
