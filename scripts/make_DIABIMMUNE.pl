@@ -241,8 +241,9 @@ close $ontologyOutFh;
 `mv $ontologyMappings.out $ontologyMappings`;
 
 # cut -f 16,17,18,19,20 MALED_healthy.txt
-my @extraKeys = qw/body_product body_site host_common_name sample_type body_habitat/;
-my @extraValues = qw/UBERON:feces colon Human Stool colon/;
+# plus env_feature
+my @extraKeys = qw/body_product body_site host_common_name sample_type body_habitat env_feature/;
+my @extraValues = qw/UBERON:feces colon Human Stool colon Human/;
 open (my $outFh, ">", $outTsv) or die "Could not open for writing: $outTsv";
 
 
