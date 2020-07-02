@@ -31,6 +31,12 @@ my %countryCodes = (
   RUS => "Russia",
   EST => "Estonia",
 );
+my %cohortCodes = (
+  abx => "Antibiotics cohort",
+  karelia => "Three country cohort (Karelia)",
+  t1d => "Type I Diabetes (T1D) cohort",
+);
+
 for my $r (@samplesRows) {
   my ($subject, $country, $sample, $ageAtCollection, $cohort) = @{$r};
   $sample = int $sample;
@@ -38,7 +44,7 @@ for my $r (@samplesRows) {
   $sampleToSubject{$sample} = $subject;
   $samples{$sample} = {
     age_at_collection_months => int ($ageAtCollection * 12 / 365.25 ),
-    cohort => $cohort,
+    cohort => $cohortCodes{$cohort},
   };
 }
 
@@ -256,6 +262,7 @@ say $outFh join("\t", "name", "description", "sourcemtoverride", "samplemtoverri
 for my $sample (sort keys %props){
   my %h = %{$props{$sample}};
   
+  $h{csection} = $h{csection} ? "Cesarean" : "Vaginal";
   $h{$_} = goodTruths($h{$_}) for qw/csection gestational_diabetes abx_while_pregnant t1d_diagnosed IAA GADA IA2A ZNT8A ICA/;
   if($h{milk_first_three_days}){
     $h{milk_first_three_days} =~s/_/ /g;
