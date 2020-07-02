@@ -8,8 +8,8 @@ my $header = <>;
 chomp $header;
 my ($accessionH, @header) = split "\t", $header;
 
-my @extraKeys = qw/body_product body_site host_common_name sample_type body_habitat country/;
-my @extraValues = ("UBERON:cerebrospinal fluid", "spinal cord", "Human", "cerebrospinal fluid", "spinal cord", "Uganda");
+my @extraKeys = qw/body_product body_site host_common_name sample_type body_habitat country env_feature region/;
+my @extraValues = ("UBERON:cerebrospinal fluid", "spinal cord", "Human", "cerebrospinal fluid", "spinal cord", "Uganda", "Human", "V12");
 
 say join("\t", "name", "description", "sourcemtoverride", "samplemtoverride", "age_at_collection_months", "sex", "location", "hydrocephalus", @extraKeys);
 while(<>){
