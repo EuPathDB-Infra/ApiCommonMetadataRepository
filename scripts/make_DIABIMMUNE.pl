@@ -45,6 +45,7 @@ for my $r (@samplesRows) {
   $samples{$sample} = {
     age_at_collection_months => int ($ageAtCollection * 12 / 365.25 ),
     cohort => $cohortCodes{$cohort},
+    subject => $subject,
   };
 }
 
@@ -160,6 +161,7 @@ for my $r (@newTermsRows){
 my %propToCurrentIri = (
   age_at_collection_months => "EUPATH_0009029",
   compound_solid_start_approx => "EUPATH_0009056",
+  subject => "EUPATH_0000606",
 );
 
 my %propToNewTerm = (
