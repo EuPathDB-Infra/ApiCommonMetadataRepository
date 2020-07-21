@@ -1,0 +1,15 @@
+Name	Description	SourceMTOverride	SampleMTOverride	collection year	Characteristics[specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
+B12496	SNPs called on WGS of isolates from Venezuela and surrounding areas			2016	Knee wound	Coccidioides immitis	Coccidioides immitis B12496
+B13956	SNPs called on WGS of isolates from Venezuela and surrounding areas			2017	Bronchoalveolar lavage	Coccidioides immitis	Coccidioides immitis B13956
+B12398	SNPs called on WGS of isolates from Venezuela and surrounding areas			2016	blood	Coccidioides immitis	Coccidioides immitis B12398
+B12495	SNPs called on WGS of isolates from Venezuela and surrounding areas			2016	cerebrospinal fluid	Coccidioides immitis	Coccidioides immitis B12495
+B11863	SNPs called on WGS of isolates from Venezuela and surrounding areas			2016	sputum	Coccidioides immitis	Coccidioides immitis B11863
+B11873	SNPs called on WGS of isolates from Venezuela and surrounding areas			2016	Bronchial washings	Coccidioides immitis	Coccidioides immitis B11873
+B11518	SNPs called on WGS of isolates from Venezuela and surrounding areas			2016	Testicle	Coccidioides immitis	Coccidioides immitis B11518
+B11587	SNPs called on WGS of isolates from Venezuela and surrounding areas			2016	Tissue	Coccidioides immitis	Coccidioides immitis B11587
+B11080	SNPs called on WGS of isolates from Venezuela and surrounding areas			2015	Neck	Coccidioides immitis	Coccidioides immitis B11080
+B11035	SNPs called on WGS of isolates from Venezuela and surrounding areas			2015	cerebrospinal fluid	Coccidioides immitis	Coccidioides immitis B11035
+B11198	SNPs called on WGS of isolates from Venezuela and surrounding areas			2015	Tissue	Coccidioides immitis	Coccidioides immitis B11198
+B11517	SNPs called on WGS of isolates from Venezuela and surrounding areas			2016	throat	Coccidioides immitis	Coccidioides immitis B11517
+B11019	SNPs called on WGS of isolates from Venezuela and surrounding areas			2014	Bronchoalveolar lavage	Coccidioides immitis	Coccidioides immitis B11019
+B11034	SNPs called on WGS of isolates from Venezuela and surrounding areas			2014	lung	Coccidioides immitis	Coccidioides immitis B11034
