@@ -9,7 +9,7 @@ use OntologyMappings;
 use ApiCommonData::Load::OwlReader;
 use Test::More;
 
-die "Usage: SPARQLPATH=scripts/lib/ApiCommonData/Load/lib/SPARQL/ perl scripts/microbiome.t" unless $ENV{SPARQLPATH};
+die "Usage: SPARQLPATH=scripts/lib/ApiCommonData/Load/lib/SPARQL/ perl $0" unless $ENV{SPARQLPATH};
 my $owlFile = "$FindBin::Bin/lib/ApiCommonData/Load/ontology/Microbiome/microbiome.owl";
 ok(-f $owlFile, $owlFile);
 my $owl = ApiCommonData::Load::OwlReader->new($owlFile);
@@ -20,7 +20,7 @@ my $ontologyMappings = OntologyMappings->new("$FindBin::Bin/../ISA/config/ontolo
 # my $valueMappingFile = "$FindBin::Bin/../../ISA/config/valueMappingsMicrobiome.txt";
 
 # just the word age, meaning age in years: OBI_0001169
-my @requiredSourceIds = qw/OBI_0100051 OBI_0001627 EUPATH_0000512 UBERON_0000466 UBERON_0000061 UBERON_0000463/;
+my @requiredSourceIds = qw/OBI_0100051 OBI_0001627 EUPATH_0000512 UBERON_0000466 UBERON_0000061 UBERON_0000463 ENVO_00002297 SO_0001000/;
 
 my $mbioDir = "$FindBin::Bin/../ISA/metadata/MBSTDY0020";
 # my $ontologyMappingOverrideFile = "$mbioDir/ontologyMappingOverride.xml";
@@ -53,6 +53,9 @@ for my $isaName (@isaNames){
 my %exceptions = (
   OBI_0001627 => {
     "Ciara_V4.txt" => "Lab setting, no need for country"
+  },
+  SO_0001000 => {
+    "EMP_1064_Bee_Microbiome.txt" => "Bees are missing sequencing region, not worth the time finding out what it is"
   }
 );
 for my $requiredTermId (@requiredSourceIds){
