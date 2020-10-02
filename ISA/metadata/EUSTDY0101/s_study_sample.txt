@@ -1,9 +1,9 @@
 Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [host_common_name]	Characteristics [Health status]	Characteristics [country]	specimen collection year	Characteristics [specimen]	Characteristics[specimen]
 DS4-868	Genome sequencing of clinical strains of Entamoeba histolytica.			human	diarrhea/dysentery	Bangladesh	2001	Axenic	Stool sample
-HM-1:IMSS-A	Genome sequencing of clinical strains of Entamoeba histolytica.			human	diarrhea/dysentery	Germany	2011	Axenic	Stool sample
-HM-1:IMSS-B	Genome sequencing of clinical strains of Entamoeba histolytica.			human	diarrhea/dysentery	Germany	2011	Axenic	Stool sample
+HM1IMSS-A	Genome sequencing of clinical strains of Entamoeba histolytica.			human	diarrhea/dysentery	Germany	2011	Axenic	Stool sample
+HM1IMSS-B	Genome sequencing of clinical strains of Entamoeba histolytica.			human	diarrhea/dysentery	Germany	2011	Axenic	Stool sample
 KU50	Genome sequencing of clinical strains of Entamoeba histolytica.			human	diarrhea/dysentery	Japan	2007	Axenic	Stool sample
 MS96-3382	Genome sequencing of clinical strains of Entamoeba histolytica.			human	asymptomatic	Bangladesh	2008	Xenic	Stool sample
 KU27	Genome sequencing of clinical strains of Entamoeba histolytica.			human	asymptomatic	Japan	2001	Monoxenic	Stool sample
-HM-3:IMSS	Genome sequencing of clinical strains of Entamoeba histolytica.			human	asymptomatic	Mexico	1972	Axenic	liver asperate
+HM3IMSS	Genome sequencing of clinical strains of Entamoeba histolytica.			human	asymptomatic	Mexico	1972	Axenic	liver asperate
 KU48	Genome sequencing of clinical strains of Entamoeba histolytica.			human	liver abscess	Japan	2006	Axenic	liver asperate
