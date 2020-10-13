@@ -154,7 +154,7 @@
   <ontologyTerm source_id="EUPATH_0010375" type="characteristicQualifier" parent="Source">
     <name>case_control</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ENVO_00000004" type="characteristicQualifier" parent="Source">
     <name>country name</name>
     <name>country</name>
     <name>geo_loc_name</name>
@@ -613,11 +613,9 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009092" type="characteristicQualifier" parent="Source">
     <name>Mutation 1</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009093" type="characteristicQualifier" parent="Source">
     <name>Mutation 2</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009093" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="NCIT_C83101" type="characteristicQualifier" parent="Source">
     <name>Visit Number</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009098" type="characteristicQualifier" parent="Source">
@@ -730,11 +728,13 @@
   <ontologyTerm source_id="NCIT_C120707" type="characteristicQualifier" parent="Sample">
     <name>Mixed Commensal Flora (MCF)</name>
   </ontologyTerm>
-  <ontologyTerm source_id="NCBITaxon_286" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="EUPATH_0009106" type="characteristicQualifier" parent="Sample">
     <name>Pseudomonas (nonmucoid)</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009105" type="characteristicQualifier" parent="Sample">
+    <name>Pseudomonas (mucoid)</name>
+  </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_562" type="characteristicQualifier" parent="Sample">
-    <name>Escherichia coli</name>
     <name>Escherichia.coli</name>
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_222" type="characteristicQualifier" parent="Sample">
