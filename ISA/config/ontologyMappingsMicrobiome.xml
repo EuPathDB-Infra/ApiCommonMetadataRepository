@@ -1049,8 +1049,6 @@
   <ontologyTerm source_id="UBERON_0001137" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:back</name>
     <name>back</name>
-    <name>left back</name>
-    <name>right back</name>
   </ontologyTerm>
   <ontologyTerm source_id="FMA_73100" type="characteristicValue" parent="characteristicQualifier">
     <name>left chest</name>
@@ -1182,6 +1180,12 @@ r">
   <ontologyTerm source_id="UBERON_0002240" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:spinal cord</name>
     <name>spinal cord</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_8000006" type="characteristicValue" parent="characteristicQualifier">
+    <name>left back</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_8000007" type="characteristicValue" parent="characteristicQualifier">
+    <name>right back</name>
   </ontologyTerm>
   <!--units-->
   <ontologyTerm source_id="UO_0000036" type="unit">
