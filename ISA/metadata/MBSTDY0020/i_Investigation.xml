@@ -1,5 +1,28 @@
 <investigation identifierRegex="^(MBSTDY)\d+$" identifierIsDirectoryName="true">
 
+  <study fileName="Pig_pregnancy.txt" identifierSuffix="-17" sampleRegex="MBSMPL">
+    <dataset>otuDADA2_Pig_pregnancy_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>
+    <node name="Sample" type="sample from organism"/>
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node isaObject="Assay" name="WGS sequence" suffix="Assay" />
+
+    <node isaObject="DataTransformation" name="WGS OTU+Functional profiles" suffix=" (OTU and functional profiles from WGS)" useExactSuffix="true"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="WGS sequence">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="WGS sequence" output="WGS OTU+Functional profiles">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
 
   <study fileName="PIH_Uganda.txt" identifierSuffix="-16" sampleRegex="MBSMPL">
     <dataset>otuDADA2_PIH_Uganda_RSRC</dataset>
@@ -30,8 +53,11 @@
     <node name="Source" type="host" suffix="Source"/>
     <node name="Sample" type="sample from organism"/>
     <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node isaObject="Assay" name="Amplicon sequence" suffix="Assay1"/>
+    <node isaObject="Assay" name="WGS sequence" suffix="Assay2" />
+
+    <node isaObject="DataTransformation" name="Amplicon OTU" suffix=" (OTU from Amplicon)" useExactSuffix="true"/>
+    <node isaObject="DataTransformation" name="WGS OTU+Functional profiles" suffix=" (OTU and functional profiles from WGS)" useExactSuffix="true"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -39,10 +65,16 @@
     <edge input="Sample" output="Extract">
       <protocol>DNA extraction</protocol>
     </edge>
-    <edge input="Extract" output="Assay">
+    <edge input="Extract" output="Amplicon sequence">
         <protocol>DNA sequencing</protocol>
     </edge>
-    <edge input="Assay" output="DataTransformation">
+    <edge input="Extract" output="WGS sequence">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Amplicon sequence" output="Amplicon OTU">
+        <protocol>data transformation</protocol>
+    </edge>
+    <edge input="WGS sequence" output="WGS OTU+Functional profiles">
         <protocol>data transformation</protocol>
     </edge>
   </study>

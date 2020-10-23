@@ -1,0 +1,91 @@
+name	description	sourcemtoverride	samplemtoverride	mom_child	sex	subject	body_product	body_site	host_common_name	sample_type	body_habitat	env_feature
+SRS6989915	Piglet 7F			Piglet	female	7F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989914	Piglet 9M			Piglet	male	9M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989913	Piglet 3M			Piglet	male	3M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989912	Sow 8907 P5			Sow	female	8907 P5	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989911	Piglet 11F			Piglet	female	11F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989910	Sow 8907 P5			Sow	female	8907 P5	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989909	Piglet 4F			Piglet	female	4F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989908	Piglet 3M			Piglet	male	3M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989907	Piglet 1F			Piglet	female	1F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989906	Sow 7168 P5			Sow	female	7168 P5	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989904	Sow 7168 P5			Sow	female	7168 P5	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989905	Piglet 5M			Piglet	male	5M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989903	Piglet 8M			Piglet	male	8M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989902	Piglet 5F			Piglet	female	5F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989901	Sow 5545 P6			Sow	female	5545 P6	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989900	Piglet 10M			Piglet	male	10M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989899	Sow 5545 P6			Sow	female	5545 P6	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989898	Piglet 6M			Piglet	male	6M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989897	Piglet 4M			Piglet	male	4M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989896	Sow 5161 P3			Sow	female	5161 P3	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989895	Piglet 11F			Piglet	female	11F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989894	Sow 5161 P3			Sow	female	5161 P3	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989893	Sow 1002 P3			Sow	female	1002 P3	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989892	Piglet 9F			Piglet	female	9F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989891	Piglet 4M			Piglet	male	4M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989890	Sow 4662 P3			Sow	female	4662 P3	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989889	Piglet 11F			Piglet	female	11F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989888	Sow 4662 P3			Sow	female	4662 P3	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989887	Piglet 9F			Piglet	female	9F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989886	Piglet 8F			Piglet	female	8F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989885	Piglet 4M			Piglet	male	4M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989884	Sow 4108 P0			Sow	female	4108 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989883	Sow 4108 P0			Sow	female	4108 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989882	Piglet 10F			Piglet	female	10F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989881	Piglet 9F			Piglet	female	9F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989880	Piglet 6F			Piglet	female	6F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989879	Piglet 12F			Piglet	female	12F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989878	Sow 4107 P0			Sow	female	4107 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989877	Sow 4107 P0			Sow	female	4107 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989876	Piglet 9F			Piglet	female	9F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989875	Piglet 4M			Piglet	male	4M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989874	Piglet 12F			Piglet	female	12F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989873	Sow 4104 P0			Sow	female	4104 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989872	Sow 4104 P0			Sow	female	4104 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989871	Sow 1002 P3			Sow	female	1002 P3	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989870	Piglet 5M			Piglet	male	5M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989869	Piglet 12F			Piglet	female	12F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989868	Sow 4096 P0			Sow	female	4096 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989867	Piglet 10F			Piglet	female	10F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989866	Sow 4096 P0			Sow	female	4096 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989865	Piglet 8F			Piglet	female	8F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989864	Piglet 6M			Piglet	male	6M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989863	Sow 4087 P0			Sow	female	4087 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989862	Piglet 10F			Piglet	female	10F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989861	Sow 4087 P0			Sow	female	4087 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989860	Piglet 8F			Piglet	female	8F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989859	Piglet 9M			Piglet	male	9M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989858	Piglet 8M			Piglet	male	8M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989857	Sow 4081 P0			Sow	female	4081 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989856	Piglet 10F			Piglet	female	10F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989855	Sow 4081 P0			Sow	female	4081 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989854	Piglet 9F			Piglet	female	9F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989853	Piglet 1M			Piglet	male	1M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989852	Piglet 12F			Piglet	female	12F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989851	Sow 4074 P0			Sow	female	4074 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989850	Sow 4074 P0			Sow	female	4074 P0	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989849	Piglet 6M			Piglet	male	6M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989848	Piglet 5F			Piglet	female	5F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989847	Piglet 2M			Piglet	male	2M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989846	Piglet 1M			Piglet	male	1M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989845	Sow 2360 P7			Sow	female	2360 P7	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989844	Sow 2360 P7			Sow	female	2360 P7	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989843	Piglet 8F			Piglet	female	8F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989842	Piglet 5M			Piglet	male	5M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989841	Piglet 4M			Piglet	male	4M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989840	Sow 214 P4			Sow	female	214 P4	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989839	Sow 214 P4			Sow	female	214 P4	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989838	Piglet 5M			Piglet	male	5M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989837	Piglet 3F			Piglet	female	3F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989836	Piglet 2M			Piglet	male	2M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989835	Piglet 1M			Piglet	male	1M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989834	Sow 1962 P4			Sow	female	1962 P4	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989833	Sow 1962 P4			Sow	female	1962 P4	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989832	Piglet 4F			Piglet	female	4F	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989831	Piglet 2M			Piglet	male	2M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989830	Piglet 1M			Piglet	male	1M	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989829	Sow 1958 P3			Sow	female	1958 P3	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989828	Sow 1958 P3			Sow	female	1958 P3	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989827	Sow 34 P7			Sow	female	34 P7	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
+SRS6989826	Sow 34 P7			Sow	female	34 P7	UBERON:feces	colon	Pig	Stool	colon	Veterinary animal
