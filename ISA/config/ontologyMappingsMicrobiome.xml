@@ -136,6 +136,9 @@
   <ontologyTerm source_id="EuPathDB_0009054" type="characteristicQualifier" parent="Source">
   <name>days on antibiotics</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009102" type="characteristicQualifier" parent="Source">
+  <name>Percentage of life on antibiotics</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EuPathDB_0009055" type="characteristicQualifier" parent="Source">
   <name>days since last diarrheal episode</name>
   </ontologyTerm>
@@ -281,6 +284,7 @@
   <ontologyTerm source_id="EUPATH_0000581" type="characteristicQualifier" parent="Source">
       <name>csection</name>
     <name>delivery</name>
+    <name>baby_delivery_mode</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000585" type="characteristicQualifier" parent="Source">
     <name>diet_2_month</name>
@@ -642,6 +646,7 @@
 
   <ontologyTerm source_id="OBI_0001616" type="characteristicQualifier" parent="Sample">
     <name>clinepi_sample</name>
+    <name>submitted_sample_id</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000463" type="characteristicQualifier" parent="Sample">
     <name>host_body_product</name>
