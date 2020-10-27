@@ -821,6 +821,9 @@
   <ontologyTerm source_id="EUPATH_0009112" type="characteristicQualifier" parent="Sample">
     <name>Shewanella putrifaciens</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_544" type="characteristicQualifier" parent="Sample">
+    <name>Citrobacter</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009113" type="characteristicQualifier" parent="Sample">
     <name>Citrobacter freundii</name>
   </ontologyTerm>
