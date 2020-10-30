@@ -789,7 +789,7 @@
     <name>Pseudomonas (mucoid)</name>
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_562" type="characteristicQualifier" parent="Sample">
-    <name>Escherichia.coli</name>
+    <name>Escherichia coli</name>
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_222" type="characteristicQualifier" parent="Sample">
     <name>Achromobacter</name>
