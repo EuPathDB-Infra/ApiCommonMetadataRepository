@@ -259,6 +259,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000602" type="characteristicQualifier" parent="Source">
     <name>pet_farm_animal</name>
+    <name>presence_of_pets</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000607" type="characteristicQualifier" parent="Source">
     <name>weight_loss_3_month</name>
@@ -272,6 +273,11 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000580" type="characteristicQualifier" parent="Source">
     <name>antiexposedall</name>
+    <name>antibiotic_exposure</name>
+    <function>enforceYesNoForBoolean</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009123" type="characteristicQualifier" parent="Source">
+    <name>antifungal_exposure</name>
     <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000583" type="characteristicQualifier" parent="Source">
@@ -292,6 +298,7 @@
   <ontologyTerm source_id="EUPATH_0000584" type="characteristicQualifier" parent="Source">
     <name>diet_3</name>
     <name>diet_2</name>
+    <name>child_diet</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000493" type="characteristicQualifier" parent="Source">
     <name>family</name>
@@ -644,8 +651,9 @@
   <ontologyTerm source_id="HP_0032319" type="characteristicQualifier" parent="Source">
     <name>Clinical Status</name>
   </ontologyTerm>
-
-
+  <ontologyTerm source_id="EUPATH_0011036" type="characteristicQualifier" parent="Source">
+    <name>age_first_solid_food_given_days</name>
+  </ontologyTerm>
   <!-- Characteristics associated with Sample -->
 
   <ontologyTerm source_id="OBI_0001616" type="characteristicQualifier" parent="Sample">
@@ -671,6 +679,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000608" type="characteristicQualifier" parent="Sample">
     <name>samp_collect_device</name>
+    <name>sample_collection_method</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0100051" type="characteristicQualifier" parent="Sample">
     <name>sample_type</name>
