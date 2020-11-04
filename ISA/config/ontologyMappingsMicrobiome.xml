@@ -761,7 +761,7 @@
   <ontologyTerm source_id="EUPATH_0009103" type="characteristicQualifier" parent="Sample">
     <name>Influenza</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009107" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="EUPATH_9936420" type="characteristicQualifier" parent="Sample">
     <name>Influenza A 2009</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009111" type="characteristicQualifier" parent="Sample">
@@ -770,7 +770,7 @@
   <ontologyTerm source_id="EUPATH_9912814" type="characteristicQualifier" parent="Sample">
     <name>Respiratory syncytial virus</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009008" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="EUPATH_9911216" type="characteristicQualifier" parent="Sample">
     <name>parainfluenza 3</name>
   </ontologyTerm>
   <ontologyTerm source_id="ARO_3004306" type="characteristicQualifier" parent="Sample">
@@ -818,22 +818,22 @@
   <ontologyTerm source_id="EUPATH_9987883" type="characteristicQualifier" parent="Sample">
     <name>Burkholderia multivorans</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009109" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="EUPATH_99614" type="characteristicQualifier" parent="Sample">
     <name>Serratia liquifaciens</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009110" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="EUPATH_99615" type="characteristicQualifier" parent="Sample">
     <name>Serratia marcescens</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_99253" type="characteristicQualifier" parent="Sample">
     <name>Chryseobacterium indologenes</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009112" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="EUPATH_9924" type="characteristicQualifier" parent="Sample">
     <name>Shewanella putrifaciens</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_99544" type="characteristicQualifier" parent="Sample">
     <name>Citrobacter</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009113" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="EUPATH_99546" type="characteristicQualifier" parent="Sample">
     <name>Citrobacter freundii</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_99487" type="characteristicQualifier" parent="Sample">
@@ -842,7 +842,7 @@
   <ontologyTerm source_id="EUPATH_991817" type="characteristicQualifier" parent="Sample">
     <name>Nocardia</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009116" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="EUPATH_9936809" type="characteristicQualifier" parent="Sample">
     <name>Mycobacterium abcessus</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_99547" type="characteristicQualifier" parent="Sample">
@@ -851,7 +851,7 @@
   <ontologyTerm source_id="EUPATH_991314" type="characteristicQualifier" parent="Sample">
     <name>Streptococcus pyogenes</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009115" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="EUPATH_9985698" type="characteristicQualifier" parent="Sample">
     <name>Achromobacter xyloxidans</name>
   </ontologyTerm>
   <ontologyTerm source_id="SNOMEDCT_83088009" type="characteristicQualifier" parent="Sample">
@@ -863,13 +863,13 @@
   <ontologyTerm source_id="EUPATH_99253" type="characteristicQualifier" parent="Sample">
     <name>Chryseobacterium indologenes</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009118" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="EUPATH_99727" type="characteristicQualifier" parent="Sample">
     <name>Haemophilus influenza</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_99571" type="characteristicQualifier" parent="Sample">
     <name>Klebsiella oxytoca</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009114" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="EUPATH_99573" type="characteristicQualifier" parent="Sample">
     <name>Klebsiella pneumoniae</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009117" type="characteristicQualifier" parent="Sample">
