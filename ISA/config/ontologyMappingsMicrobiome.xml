@@ -215,7 +215,7 @@
     <name>env_biome</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
-  <ontologyTerm source_id="ENVO_00002297" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ENVO_01000739" type="characteristicQualifier" parent="Source">
     <name>env_feature</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
