@@ -1,11 +1,11 @@
-Name	Description	SourceMTOverride	SourceMTOverride	Characteristics[country]	Characteristics	[fungus	organism]	Characteristics	[fungal	strain]
-4545	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides 4545
-4545-MICE	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides 4545-MICE
-4542	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides 4542
-34698	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides 34698
-3796	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides 3796
-2566	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides 2566
-JTORRES	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides JTORRES
-3490	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Mexico	Coccidioides	Coccidioides 3490
-GT120	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			USA	Coccidioides	Coccidioides GT120
-GT162	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			USA	Coccidioides	Coccidioides GT162
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics[country]	Characteristics[fungus organism]	Characteristics[fungal strain]
+4545	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides posadasii 4545
+4545-MICE	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides posadasii 4545-MICE
+4542	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides posadasii 4542
+34698	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides posadasii 34698
+3796	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides posadasii 3796
+2566	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides posadasii 2566
+JTORRES	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Venezuela	Coccidioides	Coccidioides posadasii JTORRES
+3490	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			Mexico	Coccidioides	Coccidioides posadasii 3490
+GT120	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			USA	Coccidioides	Coccidioides posadasii GT120
+GT162	SNPs called on WGS of isolates Coccidioides posadasii from regions bordering the Caribbean Sea			USA	Coccidioides	Coccidioides posadasii GT162
