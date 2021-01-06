@@ -1154,6 +1154,9 @@
   <ontologyTerm source_id="GAZ_00000859" type="characteristicValue" parent="characteristicQualifier">
     <name>Indochina</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000465" type="characteristicValue" parent="characteristicQualifier">
+    <name>Asia</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00000559" type="characteristicValue" parent="characteristicQualifier">
     <name>Southeast Asia</name>
   </ontologyTerm>
@@ -1265,6 +1268,9 @@
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00000915" type="characteristicValue" parent="characteristicQualifier">
     <name>Togo</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000458" type="characteristicValue" parent="characteristicQualifier">
+    <name>North America</name>
   </ontologyTerm>
 
 <!-- parasite lifecycle stage -->
