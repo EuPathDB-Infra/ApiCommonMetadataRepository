@@ -220,6 +220,10 @@
     <name>GeographicLocation</name>    
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000013" type="characteristicQualifier" parent="Source">
+    <name>continent</name>  
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
   <ontologyTerm source_id="ENVO_00000856" type="characteristicQualifier" parent="Source">
     <name>city</name>
   </ontologyTerm>
@@ -1029,10 +1033,7 @@
     <name>South Africa</name>
     <name>S. Africa</name>
   </ontologyTerm>  
-   <ontologyTerm source_id="GAZ_00000464" type="characteristicValue" parent="characteristicQualifier">
-    <name>Europe</name>
-  </ontologyTerm>
- <ontologyTerm source_id="GAZ_00002476" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="GAZ_00002476" type="characteristicValue" parent="characteristicQualifier">
     <name>Israel</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002938" type="characteristicValue" parent="characteristicQualifier">
@@ -1266,6 +1267,18 @@
   <ontologyTerm source_id="GAZ_00000915" type="characteristicValue" parent="characteristicQualifier">
     <name>Togo</name>
   </ontologyTerm>
+
+<!-- continent -->
+  <ontologyTerm source_id="GAZ_00000464" type="characteristicValue" parent="characteristicQualifier">
+    <name>Europe</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000458" type="characteristicValue" parent="characteristicQualifier">
+    <name>North America</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000465" type="characteristicValue" parent="characteristicQualifier">
+    <name>Asia</name>
+  </ontologyTerm>
+
 
 <!-- parasite lifecycle stage -->
   <ontologyTerm source_id="OPL_0000057" type="characteristicValue" parent="characteristicQualifier">
