@@ -1,50 +1,21 @@
-Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [host_common_name]	Characteristics [country]	Characteristics [city]	Mating type	Characteristics [fungus organism]	Characteristics [fungal strain]
-P75063	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	France, Europe		a/alpha	Candida albicans	Candida albicans P75063
-P76055	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA, North America	Iowa	a/alpha	Candida albicans	Candida albicans P76055
-P37037	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA, North America	Wisconsin	a/alpha	Candida albicans	Candida albicans P37037
-P87	SNP calls on 20 Candida albicans clinical isolates							Candida albicans	Candida albicans P87
-P57072	SNP calls on 20 Candida albicans clinical isolates							Candida albicans	Candida albicans P57072
-P75010	SNP calls on 20 Candida albicans clinical isolates							Candida albicans	Candida albicans P75010
-P57055	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA, North America	Omaha, Nebraska	a/alpha	Candida albicans	Candida albicans P57055
-L26	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA, North America	Iowa	a/a	Candida albicans	Candida albicans L26
-GC75	SNP calls on 20 Candida albicans clinical isolates							Candida albicans	Candida albicans GC75
-P37039	SNP calls on 20 Candida albicans clinical isolates							Candida albicans	Candida albicans P37039
-P94015	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA, North America	Utah	a/a	Candida albicans	Candida albicans P94015
-P34048	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	Turkey, Asia		alpha/alpha	Candida albicans	Candida albicans P34048
-P37005	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA, North America	Florida	a/a	Candida albicans	Candida albicans P37005
-P76067	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	Canada, North America	Ontario	a/alpha	Candida albicans	Candida albicans P76067
-P78048	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	Canada, North America	Manitoba	alpha/alpha	Candida albicans	Candida albicans P78048
-P78042	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA, North America	Indianapolis	a/alpha	Candida albicans	Candida albicans P78042
-P75016	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	Israel, Asia		a/alpha	Candida albicans	Candida albicans P75016
-19F	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA, North America	Michigan	alpha/alpha	Candida albicans	Candida albicans 19F
-12C	SNP calls on 20 Candida albicans clinical isolates							Candida albicans	Candida albicans 12C
-P60002	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA, North America	Arizona	a/a	Candida albicans	Candida albicans P60002
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [host_common_name]	Characteristics [country]	Characteristics [GeographicLocation]	Characteristics [city]	Mating type	Characteristics [fungus organism]	Characteristics [fungal strain]
+P75063	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	France	Europe		a/alpha	Candida albicans	Candida albicans P75063
+P76055	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA	North America	Iowa	a/alpha	Candida albicans	Candida albicans P76055
+P37037	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA	North America	Wisconsin	a/alpha	Candida albicans	Candida albicans P37037
+P87	SNP calls on 20 Candida albicans clinical isolates								Candida albicans	Candida albicans P87
+P57072	SNP calls on 20 Candida albicans clinical isolates								Candida albicans	Candida albicans P57072
+P75010	SNP calls on 20 Candida albicans clinical isolates								Candida albicans	Candida albicans P75010
+P57055	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA	North America	Omaha, Nebraska	a/alpha	Candida albicans	Candida albicans P57055
+L26	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA	North America	Iowa	a/a	Candida albicans	Candida albicans L26
+GC75	SNP calls on 20 Candida albicans clinical isolates								Candida albicans	Candida albicans GC75
+P37039	SNP calls on 20 Candida albicans clinical isolates								Candida albicans	Candida albicans P37039
+P94015	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA	North America	Utah	a/a	Candida albicans	Candida albicans P94015
+P34048	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	Turkey	Asia		alpha/alpha	Candida albicans	Candida albicans P34048
+P37005	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA	North America	Florida	a/a	Candida albicans	Candida albicans P37005
+P76067	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	Canada	North America	Ontario	a/alpha	Candida albicans	Candida albicans P76067
+P78048	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	Canada	North America	Manitoba	alpha/alpha	Candida albicans	Candida albicans P78048
+P78042	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA	North America	Indianapolis	a/alpha	Candida albicans	Candida albicans P78042
+P75016	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	Israel	Asia		a/alpha	Candida albicans	Candida albicans P75016
+19F	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA	North America	Michigan	alpha/alpha	Candida albicans	Candida albicans 19F
+12C	SNP calls on 20 Candida albicans clinical isolates								Candida albicans	Candida albicans 12C
+P60002	SNP calls on 20 Candida albicans clinical isolates			Homo sapiens	USA	North America	Arizona	a/a	Candida albicans	Candida albicans P60002
