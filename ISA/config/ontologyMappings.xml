@@ -220,6 +220,10 @@
     <name>GeographicLocation</name>    
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000013" type="characteristicQualifier" parent="Source">
+    <name>continent</name>  
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
   <ontologyTerm source_id="ENVO_00000856" type="characteristicQualifier" parent="Source">
     <name>city</name>
   </ontologyTerm>
@@ -1015,29 +1019,22 @@
   <ontologyTerm source_id="GAZ_00002459" type="characteristicValue" parent="characteristicQualifier">
     <name>USA</name>
     <name>United States of America</name>
-    <name>USA, North America</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002912" type="characteristicValue" parent="characteristicQualifier">
     <name>Ecuador</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002560" type="characteristicValue" parent="characteristicQualifier">
     <name>Canada</name>
-    <name>Canada, North America</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00000558" type="characteristicValue" parent="characteristicQualifier">
     <name>Turkey</name>
-    <name>Turkey, Asia</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00000553" type="characteristicValue" parent="characteristicQualifier">
     <name>South Africa</name>
     <name>S. Africa</name>
   </ontologyTerm>  
-   <ontologyTerm source_id="GAZ_00000464" type="characteristicValue" parent="characteristicQualifier">
-    <name>Europe</name>
-  </ontologyTerm>
- <ontologyTerm source_id="GAZ_00002476" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="GAZ_00002476" type="characteristicValue" parent="characteristicQualifier">
     <name>Israel</name>
-    <name>Israel, Asia</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002938" type="characteristicValue" parent="characteristicQualifier">
     <name>Belgium</name>
@@ -1067,7 +1064,6 @@
   <ontologyTerm source_id="GAZ_00002940" type="characteristicValue" parent="characteristicQualifier">
     <name>France</name>
     <name>French republic</name>
-    <name>France, Europe</name>
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002935" type="characteristicValue" parent="characteristicQualifier">
     <name>El Salvador</name>
@@ -1158,9 +1154,6 @@
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00000859" type="characteristicValue" parent="characteristicQualifier">
     <name>Indochina</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00000465" type="characteristicValue" parent="characteristicQualifier">
-    <name>Asia</name>
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00000559" type="characteristicValue" parent="characteristicQualifier">
     <name>Southeast Asia</name>
@@ -1274,9 +1267,18 @@
   <ontologyTerm source_id="GAZ_00000915" type="characteristicValue" parent="characteristicQualifier">
     <name>Togo</name>
   </ontologyTerm>
+
+<!-- continent -->
+  <ontologyTerm source_id="GAZ_00000464" type="characteristicValue" parent="characteristicQualifier">
+    <name>Europe</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00000458" type="characteristicValue" parent="characteristicQualifier">
     <name>North America</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000465" type="characteristicValue" parent="characteristicQualifier">
+    <name>Asia</name>
+  </ontologyTerm>
+
 
 <!-- parasite lifecycle stage -->
   <ontologyTerm source_id="OPL_0000057" type="characteristicValue" parent="characteristicQualifier">
