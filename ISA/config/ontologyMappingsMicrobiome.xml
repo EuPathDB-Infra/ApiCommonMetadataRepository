@@ -638,6 +638,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009099" type="characteristicQualifier" parent="Source">
     <name>Hospital room type</name>
+    <name>Room_Type</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009100" type="characteristicQualifier" parent="Source">
     <name>Breast milk by percent volume</name>
@@ -654,6 +655,161 @@
   <ontologyTerm source_id="EUPATH_0011036" type="characteristicQualifier" parent="Source">
     <name>age_first_solid_food_given_days</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009125" type="characteristicQualifier" parent="Source">
+    <name>Antibiotic_Treatment</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009126" type="characteristicQualifier" parent="Source">
+    <name>Indication</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009128" type="characteristicQualifier" parent="Source">
+    <name>Gentamicin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009129" type="characteristicQualifier" parent="Source">
+    <name>Cefazolin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009130" type="characteristicQualifier" parent="Source">
+    <name>Ampicillin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009131" type="characteristicQualifier" parent="Source">
+    <name>Trimethoprim-Sulfamathoxazole</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009132" type="characteristicQualifier" parent="Source">
+    <name>Meropenem</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009133" type="characteristicQualifier" parent="Source">
+    <name>Vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009134" type="characteristicQualifier" parent="Source">
+    <name>Ticarcillin-Clavulanate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009135" type="characteristicQualifier" parent="Source">
+    <name>Clindamycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009136" type="characteristicQualifier" parent="Source">
+    <name>Cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009137" type="characteristicQualifier" parent="Source">
+    <name>Total_abx</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009139" type="characteristicQualifier" parent="Source">
+    <name>r_Gentamicin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009140" type="characteristicQualifier" parent="Source">
+    <name>r_Meropenem</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009141" type="characteristicQualifier" parent="Source">
+    <name>r_Ticarcillin-Clavulanate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009142" type="characteristicQualifier" parent="Source">
+    <name>r_Vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009143" type="characteristicQualifier" parent="Source">
+    <name>r_Ampicillin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009144" type="characteristicQualifier" parent="Source">
+    <name>r_Cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009145" type="characteristicQualifier" parent="Source">
+    <name>r_TOTAL</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009146" type="characteristicQualifier" parent="Source">
+    <name>Room</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009147" type="characteristicQualifier" parent="Source">
+    <name>Bed_Number</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009149" type="characteristicQualifier" parent="Source">
+    <name>Human Milk</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009150" type="characteristicQualifier" parent="Source">
+    <name>Maternal Milk</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009151" type="characteristicQualifier" parent="Source">
+    <name>Pasteurized Donor Milk</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009152" type="characteristicQualifier" parent="Source">
+    <name>Formula without cows-milk-based fortifications</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009153" type="characteristicQualifier" parent="Source">
+    <name>Formula with cows-milk-based fortifications</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009155" type="characteristicQualifier" parent="Source">
+    <name>Vitamin_A</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009156" type="characteristicQualifier" parent="Source">
+    <name>Caffeine</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009157" type="characteristicQualifier" parent="Source">
+    <name>Iron</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009158" type="characteristicQualifier" parent="Source">
+    <name>Furosemide_Lasix</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009160" type="characteristicQualifier" parent="Source">
+    <name>m_ampicillin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009161" type="characteristicQualifier" parent="Source">
+    <name>m_ceftriaxone</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009162" type="characteristicQualifier" parent="Source">
+    <name>m_azithromycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009163" type="characteristicQualifier" parent="Source">
+    <name>m_amoxicillin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009164" type="characteristicQualifier" parent="Source">
+    <name>m_cefazolin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009165" type="characteristicQualifier" parent="Source">
+    <name>m_erythromycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009166" type="characteristicQualifier" parent="Source">
+    <name>m_gentamicin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009167" type="characteristicQualifier" parent="Source">
+    <name>m_penicillin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009168" type="characteristicQualifier" parent="Source">
+    <name>m_vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009169" type="characteristicQualifier" parent="Source">
+    <name>m_clindamycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009170" type="characteristicQualifier" parent="Source">
+    <name>m_cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009172" type="characteristicQualifier" parent="Source">
+    <name>GBS</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009173" type="characteristicQualifier" parent="Source">
+    <name>pre-eclampsia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009174" type="characteristicQualifier" parent="Source">
+    <name>dur_membrane_rupture</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009175" type="characteristicQualifier" parent="Source">
+    <name>chorioamnionitis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009176" type="characteristicQualifier" parent="Source">
+    <name>antenatal_steroids</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009177" type="characteristicQualifier" parent="Source">
+    <name>necrotizing_enterocolitis_status</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009180" type="characteristicQualifier" parent="Source">
+    <name>urine</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009181" type="characteristicQualifier" parent="Source">
+    <name>tracheal</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009183" type="characteristicQualifier" parent="Source">
+    <name>Klebsiella_species</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009184" type="characteristicQualifier" parent="Source">
+    <name>Stenotrophomonas_maltophilia</name>
+  </ontologyTerm>
+
+
   <!-- Characteristics associated with Sample -->
 
   <ontologyTerm source_id="OBI_0001616" type="characteristicQualifier" parent="Sample">
