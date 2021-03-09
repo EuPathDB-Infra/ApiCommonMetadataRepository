@@ -7,7 +7,7 @@
     <node name="Sample" type="sample from organism"/>
     <node name="Extract" type="DNA extract" suffix="Extract"/>
     <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="DataTransformation" suffix=" (OTU and functional profiles from WGS)"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
