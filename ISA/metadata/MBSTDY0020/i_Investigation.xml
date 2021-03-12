@@ -1,7 +1,7 @@
 <investigation identifierRegex="^(MBSTDY)\d+$" identifierIsDirectoryName="true">
 
-  <study fileName="ResistomeWGS.txt" identifierSuffix="-21" sampleRegex="MBSMPL">
-    <dataset>otuDADA2_ResistomeWGS_RSRC</dataset>
+  <study fileName="ResistomeWgs.txt" identifierSuffix="-21" sampleRegex="MBSMPL">
+    <dataset>otuDADA2_ResistomeWgs_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>
     <node name="Sample" type="sample from organism"/>
