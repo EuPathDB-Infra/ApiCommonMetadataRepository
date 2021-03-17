@@ -1,0 +1,7 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics[country]	Characteristics [city]	Characteristics [organism]	Characteristics [Health status]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
+CNM-CM6069	Aspergillus lentulus IFM 54703 Genome Sequence and Annotation			Spain	León	Homo sapiens	Unknown	Sputum	Alentulus IFM 54703	Alentulus IFM 54703 CNM-CM6069
+CNM-CM6936	Aspergillus lentulus IFM 54703 Genome Sequence and Annotation			Spain	Madrid	Homo sapiens	COPD	Sputum	Alentulus IFM 54703	Alentulus IFM 54703 CNM-CM6936
+CNM-CM7927	Aspergillus lentulus IFM 54703 Genome Sequence and Annotation			Spain	Madrid	Homo sapiens	Hepatic Transplant	BAS	Alentulus IFM 54703	Alentulus IFM 54703 CNM-CM7927
+CNM-CM8060	Aspergillus lentulus IFM 54703 Genome Sequence and Annotation			Spain	Madrid	Homo sapiens	Haematological patient	Sputum	Alentulus IFM 54703	Alentulus IFM 54703 CNM-CM8060
+CNM-CM8694	Aspergillus lentulus IFM 54703 Genome Sequence and Annotation			Spain	Madrid	Homo sapiens	Haematological patient	BAL	Alentulus IFM 54703	Alentulus IFM 54703 CNM-CM8694
+CNM-CM8927	Aspergillus lentulus IFM 54703 Genome Sequence and Annotation			Spain	Madrid	Homo sapiens	ICU	BAS	Alentulus IFM 54703	Alentulus IFM 54703 CNM-CM8927
