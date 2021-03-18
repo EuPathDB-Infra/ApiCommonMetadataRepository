@@ -1,0 +1,750 @@
+name	description	subject_id	host_common_name	country	Sex	Age (years)	body_habitat	body_site	body_product	sample_type	env_feature
+SRS021948	Subject 158256496, Colon	158256496	Human	GAZ:United States of America	female	27	Colon	Colon	Feces	Stool	Human
+SRS021954	Subject 158256496, Tongue dorsum	158256496	Human	GAZ:United States of America	female	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS021960	Subject 158256496, Supragingival plaque	158256496	Human	GAZ:United States of America	female	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS021969	Subject 158256496, Posterior fornix of the vagina	158256496	Human	GAZ:United States of America	female	27	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS021986	Subject 158256496, Buccal mucosa	158256496	Human	GAZ:United States of America	female	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS022006	Subject 158256496, Nares	158256496	Human	GAZ:United States of America	female	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS012273	Subject 158337416, Colon	158337416	Human	GAZ:United States of America	female	22	Colon	Colon	Feces	Stool	Human
+SRS012279	Subject 158337416, Tongue dorsum	158337416	Human	GAZ:United States of America	female	22	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS012281	Subject 158337416, Buccal mucosa	158337416	Human	GAZ:United States of America	female	22	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS012285	Subject 158337416, Supragingival plaque	158337416	Human	GAZ:United States of America	female	22	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS012291	Subject 158337416, Nares	158337416	Human	GAZ:United States of America	female	22	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS012294	Subject 158337416, Posterior fornix of the vagina	158337416	Human	GAZ:United States of America	female	22	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS022071	Subject 158337416, Colon	158337416	Human	GAZ:United States of America	female	22	Colon	Colon	Feces	Stool	Human
+SRS022077	Subject 158337416, Tongue dorsum	158337416	Human	GAZ:United States of America	female	22	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS022079	Subject 158337416, Buccal mucosa	158337416	Human	GAZ:United States of America	female	22	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS022083	Subject 158337416, Supragingival plaque	158337416	Human	GAZ:United States of America	female	22	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS022092	Subject 158337416, Posterior fornix of the vagina	158337416	Human	GAZ:United States of America	female	22	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS022129	Subject 158337416, Nares	158337416	Human	GAZ:United States of America	female	22	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS012663	Subject 158398106, Nares	158398106	Human	GAZ:United States of America	male	31	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS011061	Subject 158458797, Colon	158458797	Human	GAZ:United States of America	female	30	Colon	Colon	Feces	Stool	Human
+SRS011086	Subject 158458797, Tongue dorsum	158458797	Human	GAZ:United States of America	female	30	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS011090	Subject 158458797, Buccal mucosa	158458797	Human	GAZ:United States of America	female	30	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS011098	Subject 158458797, Supragingival plaque	158458797	Human	GAZ:United States of America	female	30	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS011105	Subject 158458797, Nares	158458797	Human	GAZ:United States of America	female	30	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS011111	Subject 158458797, Posterior fornix of the vagina	158458797	Human	GAZ:United States of America	female	30	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS011084	Subject 158479027, Colon	158479027	Human	GAZ:United States of America	male	28	Colon	Colon	Feces	Stool	Human
+SRS011115	Subject 158479027, Tongue dorsum	158479027	Human	GAZ:United States of America	male	28	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS011126	Subject 158479027, Supragingival plaque	158479027	Human	GAZ:United States of America	male	28	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS011132	Subject 158479027, Nares	158479027	Human	GAZ:United States of America	male	28	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS021473	Subject 158479027, Buccal mucosa	158479027	Human	GAZ:United States of America	male	28	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS021477	Subject 158479027, Supragingival plaque	158479027	Human	GAZ:United States of America	male	28	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS021483	Subject 158479027, Nares	158479027	Human	GAZ:United States of America	male	28	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS021484	Subject 158479027, Colon	158479027	Human	GAZ:United States of America	male	28	Colon	Colon	Feces	Stool	Human
+SRS021496	Subject 158479027, Tongue dorsum	158479027	Human	GAZ:United States of America	male	28	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS011134	Subject 158499257, Colon	158499257	Human	GAZ:United States of America	male	25	Colon	Colon	Feces	Stool	Human
+SRS011140	Subject 158499257, Tongue dorsum	158499257	Human	GAZ:United States of America	male	25	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS011144	Subject 158499257, Buccal mucosa	158499257	Human	GAZ:United States of America	male	25	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS011152	Subject 158499257, Supragingival plaque	158499257	Human	GAZ:United States of America	male	25	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS022602	Subject 158499257, Supragingival plaque	158499257	Human	GAZ:United States of America	male	25	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS022609	Subject 158499257, Colon	158499257	Human	GAZ:United States of America	male	25	Colon	Colon	Feces	Stool	Human
+SRS022621	Subject 158499257, Tongue dorsum	158499257	Human	GAZ:United States of America	male	25	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS022625	Subject 158499257, Buccal mucosa	158499257	Human	GAZ:United States of America	male	25	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS022645	Subject 158499257, Nares	158499257	Human	GAZ:United States of America	male	25	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS011239	Subject 158742018, Colon	158742018	Human	GAZ:United States of America	female	27	Colon	Colon	Feces	Stool	Human
+SRS011243	Subject 158742018, Tongue dorsum	158742018	Human	GAZ:United States of America	female	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS011247	Subject 158742018, Buccal mucosa	158742018	Human	GAZ:United States of America	female	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS011255	Subject 158742018, Supragingival plaque	158742018	Human	GAZ:United States of America	female	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS011263	Subject 158742018, Nares	158742018	Human	GAZ:United States of America	female	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS011269	Subject 158742018, Posterior fornix of the vagina	158742018	Human	GAZ:United States of America	female	27	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS011271	Subject 158802708, Colon	158802708	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS023526	Subject 158802708, Colon	158802708	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS023534	Subject 158802708, Buccal mucosa	158802708	Human	GAZ:United States of America	male	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS023538	Subject 158802708, Supragingival plaque	158802708	Human	GAZ:United States of America	male	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS023557	Subject 158802708, Tongue dorsum	158802708	Human	GAZ:United States of America	male	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS012902	Subject 158883629, Colon	158883629	Human	GAZ:United States of America	female	29	Colon	Colon	Feces	Stool	Human
+SRS023829	Subject 158883629, Colon	158883629	Human	GAZ:United States of America	female	29	Colon	Colon	Feces	Stool	Human
+SRS023835	Subject 158883629, Tongue dorsum	158883629	Human	GAZ:United States of America	female	29	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS023837	Subject 158883629, Buccal mucosa	158883629	Human	GAZ:United States of America	female	29	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS023841	Subject 158883629, Supragingival plaque	158883629	Human	GAZ:United States of America	female	29	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS023847	Subject 158883629, Nares	158883629	Human	GAZ:United States of America	female	29	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS023850	Subject 158883629, Posterior fornix of the vagina	158883629	Human	GAZ:United States of America	female	29	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS075398	Subject 158883629, Colon	158883629	Human	GAZ:United States of America	female	29	Colon	Colon	Feces	Stool	Human
+SRS075404	Subject 158883629, Tongue dorsum	158883629	Human	GAZ:United States of America	female	29	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS075406	Subject 158883629, Buccal mucosa	158883629	Human	GAZ:United States of America	female	29	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS075410	Subject 158883629, Supragingival plaque	158883629	Human	GAZ:United States of America	female	29	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS075419	Subject 158883629, Posterior fornix of the vagina	158883629	Human	GAZ:United States of America	female	29	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS023212	Subject 158924089, Nares	158924089	Human	GAZ:United States of America	male	33	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS011302	Subject 158944319, Colon	158944319	Human	GAZ:United States of America	female	24	Colon	Colon	Feces	Stool	Human
+SRS011306	Subject 158944319, Tongue dorsum	158944319	Human	GAZ:United States of America	female	24	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS011310	Subject 158944319, Buccal mucosa	158944319	Human	GAZ:United States of America	female	24	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS011343	Subject 158944319, Supragingival plaque	158944319	Human	GAZ:United States of America	female	24	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS011355	Subject 158944319, Posterior fornix of the vagina	158944319	Human	GAZ:United States of America	female	24	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS024265	Subject 158944319, Colon	158944319	Human	GAZ:United States of America	female	24	Colon	Colon	Feces	Stool	Human
+SRS024277	Subject 158944319, Tongue dorsum	158944319	Human	GAZ:United States of America	female	24	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS024281	Subject 158944319, Buccal mucosa	158944319	Human	GAZ:United States of America	female	24	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS024289	Subject 158944319, Supragingival plaque	158944319	Human	GAZ:United States of America	female	24	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS024301	Subject 158944319, Nares	158944319	Human	GAZ:United States of America	female	24	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS024310	Subject 158944319, Posterior fornix of the vagina	158944319	Human	GAZ:United States of America	female	24	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS011397	Subject 158984779, Nares	158984779	Human	GAZ:United States of America	female	35	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS023583	Subject 159005010, Colon	159005010	Human	GAZ:United States of America	female	20	Colon	Colon	Feces	Stool	Human
+SRS023591	Subject 159005010, Buccal mucosa	159005010	Human	GAZ:United States of America	female	20	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS023595	Subject 159005010, Supragingival plaque	159005010	Human	GAZ:United States of America	female	20	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS023604	Subject 159005010, Posterior fornix of the vagina	159005010	Human	GAZ:United States of America	female	20	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS023617	Subject 159005010, Tongue dorsum	159005010	Human	GAZ:United States of America	female	20	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS011452	Subject 159146620, Colon	159146620	Human	GAZ:United States of America	male	28	Colon	Colon	Feces	Stool	Human
+SRS011529	Subject 159166850, Colon	159166850	Human	GAZ:United States of America	male	23	Colon	Colon	Feces	Stool	Human
+SRS013476	Subject 159207311, Colon	159207311	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS013502	Subject 159207311, Tongue dorsum	159207311	Human	GAZ:United States of America	male	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS013506	Subject 159207311, Buccal mucosa	159207311	Human	GAZ:United States of America	male	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS013637	Subject 159207311, Nares	159207311	Human	GAZ:United States of America	male	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS017304	Subject 159207311, Supragingival plaque	159207311	Human	GAZ:United States of America	male	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS024132	Subject 159207311, Colon	159207311	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS024138	Subject 159207311, Tongue dorsum	159207311	Human	GAZ:United States of America	male	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS024140	Subject 159207311, Buccal mucosa	159207311	Human	GAZ:United States of America	male	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS024144	Subject 159207311, Supragingival plaque	159207311	Human	GAZ:United States of America	male	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS013521	Subject 159227541, Colon	159227541	Human	GAZ:United States of America	female	22	Colon	Colon	Feces	Stool	Human
+SRS013533	Subject 159227541, Supragingival plaque	159227541	Human	GAZ:United States of America	female	22	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS013542	Subject 159227541, Posterior fornix of the vagina	159227541	Human	GAZ:United States of America	female	22	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS049147	Subject 159227541, Tongue dorsum	159227541	Human	GAZ:United States of America	female	22	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS049995	Subject 159227541, Colon	159227541	Human	GAZ:United States of America	female	22	Colon	Colon	Feces	Stool	Human
+SRS052756	Subject 159227541, Posterior fornix of the vagina	159227541	Human	GAZ:United States of America	female	22	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS078176	Subject 159227541, Colon	159227541	Human	GAZ:United States of America	female	22	Colon	Colon	Feces	Stool	Human
+SRS078182	Subject 159227541, Tongue dorsum	159227541	Human	GAZ:United States of America	female	22	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS078197	Subject 159227541, Posterior fornix of the vagina	159227541	Human	GAZ:United States of America	female	22	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS011405	Subject 159247771, Colon	159247771	Human	GAZ:United States of America	female	27	Colon	Colon	Feces	Stool	Human
+SRS011584	Subject 159247771, Posterior fornix of the vagina	159247771	Human	GAZ:United States of America	female	27	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS024009	Subject 159247771, Colon	159247771	Human	GAZ:United States of America	female	27	Colon	Colon	Feces	Stool	Human
+SRS024015	Subject 159247771, Tongue dorsum	159247771	Human	GAZ:United States of America	female	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS024017	Subject 159247771, Buccal mucosa	159247771	Human	GAZ:United States of America	female	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS024021	Subject 159247771, Supragingival plaque	159247771	Human	GAZ:United States of America	female	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS024064	Subject 159247771, Nares	159247771	Human	GAZ:United States of America	female	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS024068	Subject 159247771, Posterior fornix of the vagina	159247771	Human	GAZ:United States of America	female	27	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS013687	Subject 159268001, Colon	159268001	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS013705	Subject 159268001, Tongue dorsum	159268001	Human	GAZ:United States of America	male	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS013711	Subject 159268001, Buccal mucosa	159268001	Human	GAZ:United States of America	male	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS013723	Subject 159268001, Supragingival plaque	159268001	Human	GAZ:United States of America	male	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS023914	Subject 159268001, Colon	159268001	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS023926	Subject 159268001, Tongue dorsum	159268001	Human	GAZ:United States of America	male	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS023930	Subject 159268001, Buccal mucosa	159268001	Human	GAZ:United States of America	male	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS023938	Subject 159268001, Supragingival plaque	159268001	Human	GAZ:United States of America	male	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS013158	Subject 159369152, Colon	159369152	Human	GAZ:United States of America	male	22	Colon	Colon	Feces	Stool	Human
+SRS013164	Subject 159369152, Tongue dorsum	159369152	Human	GAZ:United States of America	male	22	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS013170	Subject 159369152, Supragingival plaque	159369152	Human	GAZ:United States of America	male	22	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS023958	Subject 159369152, Tongue dorsum	159369152	Human	GAZ:United States of America	male	22	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS023964	Subject 159369152, Supragingival plaque	159369152	Human	GAZ:United States of America	male	22	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS023970	Subject 159369152, Nares	159369152	Human	GAZ:United States of America	male	22	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS023971	Subject 159369152, Colon	159369152	Human	GAZ:United States of America	male	22	Colon	Colon	Feces	Stool	Human
+SRS023987	Subject 159369152, Buccal mucosa	159369152	Human	GAZ:United States of America	male	22	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS016944	Subject 159450072, Left retroauricular crease	159450072	Human	GAZ:United States of America	male	28	Skin	Left retroauricular crease	Sebum	Skin swab	Human
+SRS016989	Subject 159490532, Colon	159490532	Human	GAZ:United States of America	male	28	Colon	Colon	Feces	Stool	Human
+SRS017007	Subject 159490532, Tongue dorsum	159490532	Human	GAZ:United States of America	male	28	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS017013	Subject 159490532, Buccal mucosa	159490532	Human	GAZ:United States of America	male	28	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS017025	Subject 159490532, Supragingival plaque	159490532	Human	GAZ:United States of America	male	28	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS017044	Subject 159490532, Nares	159490532	Human	GAZ:United States of America	male	28	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS044474	Subject 159490532, Nares	159490532	Human	GAZ:United States of America	male	28	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS046686	Subject 159490532, Buccal mucosa	159490532	Human	GAZ:United States of America	male	28	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS052027	Subject 159490532, Colon	159490532	Human	GAZ:United States of America	male	28	Colon	Colon	Feces	Stool	Human
+SRS054430	Subject 159490532, Supragingival plaque	159490532	Human	GAZ:United States of America	male	28	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS055495	Subject 159490532, Tongue dorsum	159490532	Human	GAZ:United States of America	male	28	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS058182	Subject 159490532, Right retroauricular crease	159490532	Human	GAZ:United States of America	male	28	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS017247	Subject 159510762, Colon	159510762	Human	GAZ:United States of America	male	26	Colon	Colon	Feces	Stool	Human
+SRS024075	Subject 159510762, Colon	159510762	Human	GAZ:United States of America	male	26	Colon	Colon	Feces	Stool	Human
+SRS024081	Subject 159510762, Tongue dorsum	159510762	Human	GAZ:United States of America	male	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS024087	Subject 159510762, Supragingival plaque	159510762	Human	GAZ:United States of America	male	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS063035	Subject 159510762, Nares	159510762	Human	GAZ:United States of America	male	26	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS063932	Subject 159510762, Tongue dorsum	159510762	Human	GAZ:United States of America	male	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS064329	Subject 159510762, Supragingival plaque	159510762	Human	GAZ:United States of America	male	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS017103	Subject 159551223, Colon	159551223	Human	GAZ:United States of America	male	26	Colon	Colon	Feces	Stool	Human
+SRS017120	Subject 159551223, Tongue dorsum	159551223	Human	GAZ:United States of America	male	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS017127	Subject 159551223, Buccal mucosa	159551223	Human	GAZ:United States of America	male	26	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS017139	Subject 159551223, Supragingival plaque	159551223	Human	GAZ:United States of America	male	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS017156	Subject 159551223, Nares	159551223	Human	GAZ:United States of America	male	26	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS024318	Subject 159551223, Tongue dorsum	159551223	Human	GAZ:United States of America	male	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS024331	Subject 159551223, Colon	159551223	Human	GAZ:United States of America	male	26	Colon	Colon	Feces	Stool	Human
+SRS024347	Subject 159551223, Buccal mucosa	159551223	Human	GAZ:United States of America	male	26	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS024355	Subject 159551223, Supragingival plaque	159551223	Human	GAZ:United States of America	male	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS013155	Subject 159571453, Nares	159571453	Human	GAZ:United States of America	male	38	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS013800	Subject 159571453, Colon	159571453	Human	GAZ:United States of America	male	38	Colon	Colon	Feces	Stool	Human
+SRS013818	Subject 159571453, Tongue dorsum	159571453	Human	GAZ:United States of America	male	38	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS013825	Subject 159571453, Buccal mucosa	159571453	Human	GAZ:United States of America	male	38	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS013836	Subject 159571453, Supragingival plaque	159571453	Human	GAZ:United States of America	male	38	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS024435	Subject 159571453, Colon	159571453	Human	GAZ:United States of America	male	38	Colon	Colon	Feces	Stool	Human
+SRS024441	Subject 159571453, Tongue dorsum	159571453	Human	GAZ:United States of America	male	38	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS024447	Subject 159571453, Supragingival plaque	159571453	Human	GAZ:United States of America	male	38	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS024470	Subject 159571453, Buccal mucosa	159571453	Human	GAZ:United States of America	male	38	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS024482	Subject 159571453, Left retroauricular crease	159571453	Human	GAZ:United States of America	male	38	Skin	Left retroauricular crease	Sebum	Skin swab	Human
+SRS013215	Subject 159591683, Colon	159591683	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS013234	Subject 159591683, Tongue dorsum	159591683	Human	GAZ:United States of America	male	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS013239	Subject 159591683, Buccal mucosa	159591683	Human	GAZ:United States of America	male	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS013252	Subject 159591683, Supragingival plaque	159591683	Human	GAZ:United States of America	male	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS013258	Subject 159591683, Left retroauricular crease	159591683	Human	GAZ:United States of America	male	27	Skin	Left retroauricular crease	Sebum	Skin swab	Human
+SRS013261	Subject 159591683, Right retroauricular crease	159591683	Human	GAZ:United States of America	male	27	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS013269	Subject 159591683, Nares	159591683	Human	GAZ:United States of America	male	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS024549	Subject 159591683, Colon	159591683	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS024557	Subject 159591683, Buccal mucosa	159591683	Human	GAZ:United States of America	male	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS024561	Subject 159591683, Supragingival plaque	159591683	Human	GAZ:United States of America	male	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS024567	Subject 159591683, Nares	159591683	Human	GAZ:United States of America	male	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS024580	Subject 159591683, Tongue dorsum	159591683	Human	GAZ:United States of America	male	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS024596	Subject 159591683, Left retroauricular crease	159591683	Human	GAZ:United States of America	male	27	Skin	Left retroauricular crease	Sebum	Skin swab	Human
+SRS024598	Subject 159591683, Right retroauricular crease	159591683	Human	GAZ:United States of America	male	27	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS016954	Subject 159611913, Colon	159611913	Human	GAZ:United States of America	male	23	Colon	Colon	Feces	Stool	Human
+SRS017076	Subject 159611913, Tongue dorsum	159611913	Human	GAZ:United States of America	male	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS017080	Subject 159611913, Buccal mucosa	159611913	Human	GAZ:United States of America	male	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS017088	Subject 159611913, Supragingival plaque	159611913	Human	GAZ:United States of America	male	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS024620	Subject 159611913, Left retroauricular crease	159611913	Human	GAZ:United States of America	male	23	Skin	Left retroauricular crease	Sebum	Skin swab	Human
+SRS024625	Subject 159611913, Colon	159611913	Human	GAZ:United States of America	male	23	Colon	Colon	Feces	Stool	Human
+SRS024637	Subject 159611913, Tongue dorsum	159611913	Human	GAZ:United States of America	male	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS024641	Subject 159611913, Buccal mucosa	159611913	Human	GAZ:United States of America	male	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS024649	Subject 159611913, Supragingival plaque	159611913	Human	GAZ:United States of America	male	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS024655	Subject 159611913, Right retroauricular crease	159611913	Human	GAZ:United States of America	male	23	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS016342	Subject 159632143, Tongue dorsum	159632143	Human	GAZ:United States of America	male	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS016349	Subject 159632143, Buccal mucosa	159632143	Human	GAZ:United States of America	male	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS016360	Subject 159632143, Supragingival plaque	159632143	Human	GAZ:United States of America	male	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS017307	Subject 159632143, Colon	159632143	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS016434	Subject 159672603, Nares	159672603	Human	GAZ:United States of America	male	25	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS024375	Subject 159713063, Tongue dorsum	159713063	Human	GAZ:United States of America	female	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS024377	Subject 159713063, Buccal mucosa	159713063	Human	GAZ:United States of America	female	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS024381	Subject 159713063, Supragingival plaque	159713063	Human	GAZ:United States of America	female	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS024388	Subject 159713063, Colon	159713063	Human	GAZ:United States of America	female	27	Colon	Colon	Feces	Stool	Human
+SRS024424	Subject 159713063, Nares	159713063	Human	GAZ:United States of America	female	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS024428	Subject 159713063, Posterior fornix of the vagina	159713063	Human	GAZ:United States of America	female	27	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS011586	Subject 159733294, Colon	159733294	Human	GAZ:United States of America	female	24	Colon	Colon	Feces	Stool	Human
+SRS016495	Subject 159753524, Colon	159753524	Human	GAZ:United States of America	female	23	Colon	Colon	Feces	Stool	Human
+SRS016501	Subject 159753524, Tongue dorsum	159753524	Human	GAZ:United States of America	female	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS016503	Subject 159753524, Buccal mucosa	159753524	Human	GAZ:United States of America	female	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS016513	Subject 159753524, Nares	159753524	Human	GAZ:United States of America	female	23	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS016516	Subject 159753524, Posterior fornix of the vagina	159753524	Human	GAZ:United States of America	female	23	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS016529	Subject 159753524, Tongue dorsum	159753524	Human	GAZ:United States of America	female	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS016533	Subject 159753524, Buccal mucosa	159753524	Human	GAZ:United States of America	female	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS016541	Subject 159753524, Supragingival plaque	159753524	Human	GAZ:United States of America	female	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS016553	Subject 159753524, Nares	159753524	Human	GAZ:United States of America	female	23	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS016559	Subject 159753524, Posterior fornix of the vagina	159753524	Human	GAZ:United States of America	female	23	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS042858	Subject 159753524, Posterior fornix of the vagina	159753524	Human	GAZ:United States of America	female	23	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS053214	Subject 159753524, Colon	159753524	Human	GAZ:United States of America	female	23	Colon	Colon	Feces	Stool	Human
+SRS056157	Subject 159753524, Buccal mucosa	159753524	Human	GAZ:United States of America	female	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS077730	Subject 159753524, Colon	159753524	Human	GAZ:United States of America	female	23	Colon	Colon	Feces	Stool	Human
+SRS077736	Subject 159753524, Tongue dorsum	159753524	Human	GAZ:United States of America	female	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS077738	Subject 159753524, Buccal mucosa	159753524	Human	GAZ:United States of America	female	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS077751	Subject 159753524, Posterior fornix of the vagina	159753524	Human	GAZ:United States of America	female	23	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS017191	Subject 159814214, Colon	159814214	Human	GAZ:United States of America	male	29	Colon	Colon	Feces	Stool	Human
+SRS017209	Subject 159814214, Tongue dorsum	159814214	Human	GAZ:United States of America	male	29	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS017215	Subject 159814214, Buccal mucosa	159814214	Human	GAZ:United States of America	male	29	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS017227	Subject 159814214, Supragingival plaque	159814214	Human	GAZ:United States of America	male	29	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS017244	Subject 159814214, Nares	159814214	Human	GAZ:United States of America	male	29	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS043701	Subject 159814214, Colon	159814214	Human	GAZ:United States of America	male	29	Colon	Colon	Feces	Stool	Human
+SRS047113	Subject 159814214, Supragingival plaque	159814214	Human	GAZ:United States of America	male	29	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS047225	Subject 159814214, Nares	159814214	Human	GAZ:United States of America	male	29	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS050669	Subject 159814214, Tongue dorsum	159814214	Human	GAZ:United States of America	male	29	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS016569	Subject 159915365, Tongue dorsum	159915365	Human	GAZ:United States of America	female	31	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS016575	Subject 159915365, Supragingival plaque	159915365	Human	GAZ:United States of America	female	31	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS016581	Subject 159915365, Nares	159915365	Human	GAZ:United States of America	female	31	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS016584	Subject 159915365, Posterior fornix of the vagina	159915365	Human	GAZ:United States of America	female	31	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS016585	Subject 159915365, Colon	159915365	Human	GAZ:United States of America	female	31	Colon	Colon	Feces	Stool	Human
+SRS016600	Subject 159915365, Buccal mucosa	159915365	Human	GAZ:United States of America	female	31	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS018133	Subject 160158126, Colon	160158126	Human	GAZ:United States of America	male	26	Colon	Colon	Feces	Stool	Human
+SRS018145	Subject 160158126, Tongue dorsum	160158126	Human	GAZ:United States of America	male	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS018149	Subject 160158126, Buccal mucosa	160158126	Human	GAZ:United States of America	male	26	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS018157	Subject 160158126, Supragingival plaque	160158126	Human	GAZ:United States of America	male	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS047634	Subject 160158126, Supragingival plaque	160158126	Human	GAZ:United States of America	male	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS054569	Subject 160158126, Buccal mucosa	160158126	Human	GAZ:United States of America	male	26	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS057692	Subject 160158126, Tongue dorsum	160158126	Human	GAZ:United States of America	male	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS058770	Subject 160158126, Colon	160158126	Human	GAZ:United States of America	male	26	Colon	Colon	Feces	Stool	Human
+SRS018351	Subject 160178356, Colon	160178356	Human	GAZ:United States of America	male	24	Colon	Colon	Feces	Stool	Human
+SRS018357	Subject 160178356, Tongue dorsum	160178356	Human	GAZ:United States of America	male	24	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS018359	Subject 160178356, Buccal mucosa	160178356	Human	GAZ:United States of America	male	24	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS018369	Subject 160178356, Nares	160178356	Human	GAZ:United States of America	male	24	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS018394	Subject 160178356, Supragingival plaque	160178356	Human	GAZ:United States of America	male	24	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS018427	Subject 160218816, Colon	160218816	Human	GAZ:United States of America	male	25	Colon	Colon	Feces	Stool	Human
+SRS018439	Subject 160218816, Tongue dorsum	160218816	Human	GAZ:United States of America	male	25	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS018443	Subject 160218816, Buccal mucosa	160218816	Human	GAZ:United States of America	male	25	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS018463	Subject 160218816, Nares	160218816	Human	GAZ:United States of America	male	25	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS017433	Subject 160319967, Colon	160319967	Human	GAZ:United States of America	female	19	Colon	Colon	Feces	Stool	Human
+SRS017439	Subject 160319967, Tongue dorsum	160319967	Human	GAZ:United States of America	female	19	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS017441	Subject 160319967, Buccal mucosa	160319967	Human	GAZ:United States of America	female	19	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS017445	Subject 160319967, Supragingival plaque	160319967	Human	GAZ:United States of America	female	19	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS017451	Subject 160319967, Nares	160319967	Human	GAZ:United States of America	female	19	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS017497	Subject 160319967, Posterior fornix of the vagina	160319967	Human	GAZ:United States of America	female	19	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS018300	Subject 160380657, Tongue dorsum	160380657	Human	GAZ:United States of America	male	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS018312	Subject 160380657, Nares	160380657	Human	GAZ:United States of America	male	23	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS018313	Subject 160380657, Colon	160380657	Human	GAZ:United States of America	male	23	Colon	Colon	Feces	Stool	Human
+SRS018329	Subject 160380657, Buccal mucosa	160380657	Human	GAZ:United States of America	male	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS018337	Subject 160380657, Supragingival plaque	160380657	Human	GAZ:United States of America	male	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS020220	Subject 160400887, Tongue dorsum	160400887	Human	GAZ:United States of America	male	24	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS020222	Subject 160400887, Buccal mucosa	160400887	Human	GAZ:United States of America	male	24	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS020226	Subject 160400887, Supragingival plaque	160400887	Human	GAZ:United States of America	male	24	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS020232	Subject 160400887, Nares	160400887	Human	GAZ:United States of America	male	24	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS020233	Subject 160400887, Colon	160400887	Human	GAZ:United States of America	male	24	Colon	Colon	Feces	Stool	Human
+SRS020261	Subject 160400887, Left retroauricular crease	160400887	Human	GAZ:United States of America	male	24	Skin	Left retroauricular crease	Sebum	Skin swab	Human
+SRS020263	Subject 160400887, Right retroauricular crease	160400887	Human	GAZ:United States of America	male	24	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS016740	Subject 160421117, Tongue dorsum	160421117	Human	GAZ:United States of America	male	21	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS016746	Subject 160421117, Supragingival plaque	160421117	Human	GAZ:United States of America	male	21	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS016752	Subject 160421117, Nares	160421117	Human	GAZ:United States of America	male	21	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS016753	Subject 160421117, Colon	160421117	Human	GAZ:United States of America	male	21	Colon	Colon	Feces	Stool	Human
+SRS017511	Subject 160502038, Supragingival plaque	160502038	Human	GAZ:United States of America	female	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS017520	Subject 160502038, Posterior fornix of the vagina	160502038	Human	GAZ:United States of America	female	26	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS017521	Subject 160502038, Colon	160502038	Human	GAZ:United States of America	female	26	Colon	Colon	Feces	Stool	Human
+SRS017533	Subject 160502038, Tongue dorsum	160502038	Human	GAZ:United States of America	female	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS017537	Subject 160502038, Buccal mucosa	160502038	Human	GAZ:United States of America	female	26	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS017687	Subject 160582958, Buccal mucosa	160582958	Human	GAZ:United States of America	female	30	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS017691	Subject 160582958, Supragingival plaque	160582958	Human	GAZ:United States of America	female	30	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS017697	Subject 160582958, Nares	160582958	Human	GAZ:United States of America	female	30	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS017700	Subject 160582958, Posterior fornix of the vagina	160582958	Human	GAZ:United States of America	female	30	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS017701	Subject 160582958, Colon	160582958	Human	GAZ:United States of America	female	30	Colon	Colon	Feces	Stool	Human
+SRS017713	Subject 160582958, Tongue dorsum	160582958	Human	GAZ:United States of America	female	30	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS017808	Subject 160603188, Tongue dorsum	160603188	Human	GAZ:United States of America	male	29	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS017810	Subject 160603188, Buccal mucosa	160603188	Human	GAZ:United States of America	male	29	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS017814	Subject 160603188, Supragingival plaque	160603188	Human	GAZ:United States of America	male	29	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS017820	Subject 160603188, Nares	160603188	Human	GAZ:United States of America	male	29	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS017821	Subject 160603188, Colon	160603188	Human	GAZ:United States of America	male	29	Colon	Colon	Feces	Stool	Human
+SRS017849	Subject 160603188, Left retroauricular crease	160603188	Human	GAZ:United States of America	male	29	Skin	Left retroauricular crease	Sebum	Skin swab	Human
+SRS017851	Subject 160603188, Right retroauricular crease	160603188	Human	GAZ:United States of America	male	29	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS019968	Subject 160643649, Colon	160643649	Human	GAZ:United States of America	female	24	Colon	Colon	Feces	Stool	Human
+SRS019974	Subject 160643649, Tongue dorsum	160643649	Human	GAZ:United States of America	female	24	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS019976	Subject 160643649, Buccal mucosa	160643649	Human	GAZ:United States of America	female	24	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS019980	Subject 160643649, Supragingival plaque	160643649	Human	GAZ:United States of America	female	24	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS019986	Subject 160643649, Nares	160643649	Human	GAZ:United States of America	female	24	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS019989	Subject 160643649, Posterior fornix of the vagina	160643649	Human	GAZ:United States of America	female	24	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS020328	Subject 160704339, Colon	160704339	Human	GAZ:United States of America	female	32	Colon	Colon	Feces	Stool	Human
+SRS020334	Subject 160704339, Tongue dorsum	160704339	Human	GAZ:United States of America	female	32	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS020336	Subject 160704339, Buccal mucosa	160704339	Human	GAZ:United States of America	female	32	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS020340	Subject 160704339, Supragingival plaque	160704339	Human	GAZ:United States of America	female	32	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS020349	Subject 160704339, Posterior fornix of the vagina	160704339	Human	GAZ:United States of America	female	32	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS020386	Subject 160704339, Nares	160704339	Human	GAZ:United States of America	female	32	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS020856	Subject 160765029, Tongue dorsum	160765029	Human	GAZ:United States of America	male	31	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS020858	Subject 160765029, Buccal mucosa	160765029	Human	GAZ:United States of America	male	31	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS020862	Subject 160765029, Supragingival plaque	160765029	Human	GAZ:United States of America	male	31	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS020868	Subject 160765029, Nares	160765029	Human	GAZ:United States of America	male	31	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS020869	Subject 160765029, Colon	160765029	Human	GAZ:United States of America	male	31	Colon	Colon	Feces	Stool	Human
+SRS023346	Subject 246515023, Colon	246515023	Human	GAZ:United States of America	female	38	Colon	Colon	Feces	Stool	Human
+SRS023352	Subject 246515023, Tongue dorsum	246515023	Human	GAZ:United States of America	female	38	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS023354	Subject 246515023, Buccal mucosa	246515023	Human	GAZ:United States of America	female	38	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS023358	Subject 246515023, Supragingival plaque	246515023	Human	GAZ:United States of America	female	38	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS023468	Subject 246515023, Posterior fornix of the vagina	246515023	Human	GAZ:United States of America	female	38	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS045715	Subject 246515023, Tongue dorsum	246515023	Human	GAZ:United States of America	female	38	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS049318	Subject 246515023, Supragingival plaque	246515023	Human	GAZ:United States of America	female	38	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS055298	Subject 246515023, Posterior fornix of the vagina	246515023	Human	GAZ:United States of America	female	38	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS057022	Subject 246515023, Buccal mucosa	246515023	Human	GAZ:United States of America	female	38	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS057717	Subject 246515023, Colon	246515023	Human	GAZ:United States of America	female	38	Colon	Colon	Feces	Stool	Human
+SRS045606	Subject 338793263, Right retroauricular crease	338793263	Human	GAZ:United States of America	female	19	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS050029	Subject 338793263, Buccal mucosa	338793263	Human	GAZ:United States of America	female	19	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS051505	Subject 338793263, Posterior fornix of the vagina	338793263	Human	GAZ:United States of America	female	19	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS052227	Subject 338793263, Tongue dorsum	338793263	Human	GAZ:United States of America	female	19	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS052604	Subject 338793263, Supragingival plaque	338793263	Human	GAZ:United States of America	female	19	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS054061	Subject 338793263, Nares	338793263	Human	GAZ:United States of America	female	19	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS054590	Subject 338793263, Colon	338793263	Human	GAZ:United States of America	female	19	Colon	Colon	Feces	Stool	Human
+SRS022713	Subject 370425937, Colon	370425937	Human	GAZ:United States of America	female	22	Colon	Colon	Feces	Stool	Human
+SRS022719	Subject 370425937, Tongue dorsum	370425937	Human	GAZ:United States of America	female	22	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS022721	Subject 370425937, Buccal mucosa	370425937	Human	GAZ:United States of America	female	22	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS022725	Subject 370425937, Supragingival plaque	370425937	Human	GAZ:United States of America	female	22	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS022734	Subject 370425937, Posterior fornix of the vagina	370425937	Human	GAZ:United States of America	female	22	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS044662	Subject 370425937, Tongue dorsum	370425937	Human	GAZ:United States of America	female	22	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS052620	Subject 370425937, Posterior fornix of the vagina	370425937	Human	GAZ:United States of America	female	22	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS052668	Subject 370425937, Buccal mucosa	370425937	Human	GAZ:United States of America	female	22	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS053917	Subject 370425937, Supragingival plaque	370425937	Human	GAZ:United States of America	female	22	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS057478	Subject 370425937, Colon	370425937	Human	GAZ:United States of America	female	22	Colon	Colon	Feces	Stool	Human
+SRS042643	Subject 404239096, Tongue dorsum	404239096	Human	GAZ:United States of America	male	25	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS043755	Subject 404239096, Supragingival plaque	404239096	Human	GAZ:United States of America	male	25	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS045049	Subject 404239096, Buccal mucosa	404239096	Human	GAZ:United States of America	male	25	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS045713	Subject 404239096, Colon	404239096	Human	GAZ:United States of America	male	25	Colon	Colon	Feces	Stool	Human
+SRS050025	Subject 404239096, Nares	404239096	Human	GAZ:United States of America	male	25	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS058221	Subject 404239096, Right retroauricular crease	404239096	Human	GAZ:United States of America	male	25	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS047708	Subject 508703490, Nares	508703490	Human	GAZ:United States of America	female	24	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS050184	Subject 508703490, Posterior fornix of the vagina	508703490	Human	GAZ:United States of America	female	24	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS053335	Subject 508703490, Colon	508703490	Human	GAZ:United States of America	female	24	Colon	Colon	Feces	Stool	Human
+SRS053630	Subject 508703490, Supragingival plaque	508703490	Human	GAZ:United States of America	female	24	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS053854	Subject 508703490, Tongue dorsum	508703490	Human	GAZ:United States of America	female	24	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS058186	Subject 508703490, Buccal mucosa	508703490	Human	GAZ:United States of America	female	24	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS043001	Subject 550534656, Colon	550534656	Human	GAZ:United States of America	female	27	Colon	Colon	Feces	Stool	Human
+SRS044366	Subject 550534656, Supragingival plaque	550534656	Human	GAZ:United States of America	female	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS044373	Subject 550534656, Tongue dorsum	550534656	Human	GAZ:United States of America	female	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS050007	Subject 550534656, Buccal mucosa	550534656	Human	GAZ:United States of America	female	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS057807	Subject 550534656, Posterior fornix of the vagina	550534656	Human	GAZ:United States of America	female	27	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS043646	Subject 604812005, Buccal mucosa	604812005	Human	GAZ:United States of America	male	29	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS045004	Subject 604812005, Colon	604812005	Human	GAZ:United States of America	male	29	Colon	Colon	Feces	Stool	Human
+SRS045127	Subject 604812005, Tongue dorsum	604812005	Human	GAZ:United States of America	male	29	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS045645	Subject 604812005, Colon	604812005	Human	GAZ:United States of America	male	29	Colon	Colon	Feces	Stool	Human
+SRS046623	Subject 604812005, Buccal mucosa	604812005	Human	GAZ:United States of America	male	29	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS049268	Subject 604812005, Supragingival plaque	604812005	Human	GAZ:United States of America	male	29	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS055426	Subject 604812005, Tongue dorsum	604812005	Human	GAZ:United States of America	male	29	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS058053	Subject 604812005, Supragingival plaque	604812005	Human	GAZ:United States of America	male	29	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS022137	Subject 638754422, Colon	638754422	Human	GAZ:United States of America	female	27	Colon	Colon	Feces	Stool	Human
+SRS022143	Subject 638754422, Tongue dorsum	638754422	Human	GAZ:United States of America	female	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS022145	Subject 638754422, Buccal mucosa	638754422	Human	GAZ:United States of America	female	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS022149	Subject 638754422, Supragingival plaque	638754422	Human	GAZ:United States of America	female	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS022158	Subject 638754422, Posterior fornix of the vagina	638754422	Human	GAZ:United States of America	female	27	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS042984	Subject 638754422, Supragingival plaque	638754422	Human	GAZ:United States of America	female	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS048536	Subject 638754422, Posterior fornix of the vagina	638754422	Human	GAZ:United States of America	female	27	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS048791	Subject 638754422, Tongue dorsum	638754422	Human	GAZ:United States of America	female	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS051116	Subject 638754422, Buccal mucosa	638754422	Human	GAZ:United States of America	female	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS055982	Subject 638754422, Colon	638754422	Human	GAZ:United States of America	female	27	Colon	Colon	Feces	Stool	Human
+SRS043239	Subject 675950834, Buccal mucosa	675950834	Human	GAZ:United States of America	female	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS050244	Subject 675950834, Tongue dorsum	675950834	Human	GAZ:United States of America	female	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS053398	Subject 675950834, Colon	675950834	Human	GAZ:United States of America	female	23	Colon	Colon	Feces	Stool	Human
+SRS055401	Subject 675950834, Supragingival plaque	675950834	Human	GAZ:United States of America	female	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS056796	Subject 675950834, Posterior fornix of the vagina	675950834	Human	GAZ:United States of America	female	23	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS042457	Subject 686765762, Buccal mucosa	686765762	Human	GAZ:United States of America	male	28	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS043663	Subject 686765762, Tongue dorsum	686765762	Human	GAZ:United States of America	male	28	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS045313	Subject 686765762, Supragingival plaque	686765762	Human	GAZ:United States of America	male	28	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS049900	Subject 686765762, Colon	686765762	Human	GAZ:United States of America	male	28	Colon	Colon	Feces	Stool	Human
+SRS062761	Subject 686765762, Tongue dorsum	686765762	Human	GAZ:United States of America	male	28	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS064219	Subject 686765762, Supragingival plaque	686765762	Human	GAZ:United States of America	male	28	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS064645	Subject 686765762, Colon	686765762	Human	GAZ:United States of America	male	28	Colon	Colon	Feces	Stool	Human
+SRS065133	Subject 686765762, Buccal mucosa	686765762	Human	GAZ:United States of America	male	28	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS042428	Subject 706846339, Posterior fornix of the vagina	706846339	Human	GAZ:United States of America	female	36	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS045262	Subject 706846339, Buccal mucosa	706846339	Human	GAZ:United States of America	female	36	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS051941	Subject 706846339, Supragingival plaque	706846339	Human	GAZ:United States of America	female	36	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS052697	Subject 706846339, Colon	706846339	Human	GAZ:United States of America	female	36	Colon	Colon	Feces	Stool	Human
+SRS054687	Subject 706846339, Tongue dorsum	706846339	Human	GAZ:United States of America	female	36	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS058213	Subject 706846339, Nares	706846339	Human	GAZ:United States of America	female	36	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS047824	Subject 737052003, Tongue dorsum	737052003	Human	GAZ:United States of America	female	18	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS052590	Subject 737052003, Nares	737052003	Human	GAZ:United States of America	female	18	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS052876	Subject 737052003, Supragingival plaque	737052003	Human	GAZ:United States of America	female	18	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS054956	Subject 737052003, Colon	737052003	Human	GAZ:United States of America	female	18	Colon	Colon	Feces	Stool	Human
+SRS055118	Subject 737052003, Buccal mucosa	737052003	Human	GAZ:United States of America	female	18	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS056695	Subject 737052003, Posterior fornix of the vagina	737052003	Human	GAZ:United States of America	female	18	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS013876	Subject 763435843, Nares	763435843	Human	GAZ:United States of America	male	21	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS013879	Subject 763435843, Tongue dorsum	763435843	Human	GAZ:United States of America	male	21	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS013881	Subject 763435843, Buccal mucosa	763435843	Human	GAZ:United States of America	male	21	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS014107	Subject 763435843, Subgingival plaque	763435843	Human	GAZ:United States of America	male	21	Oral cavity	Subgingival plaque	Mucus	Oral swab	Human
+SRS015793	Subject 763435843, Nares	763435843	Human	GAZ:United States of America	male	21	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS015794	Subject 763435843, Colon	763435843	Human	GAZ:United States of America	male	21	Colon	Colon	Feces	Stool	Human
+SRS015797	Subject 763435843, Tongue dorsum	763435843	Human	GAZ:United States of America	male	21	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015799	Subject 763435843, Buccal mucosa	763435843	Human	GAZ:United States of America	male	21	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS015803	Subject 763435843, Supragingival plaque	763435843	Human	GAZ:United States of America	male	21	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS013942	Subject 763496533, Saliva	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Saliva	Mucus	Saliva	Human
+SRS013945	Subject 763496533, Buccal mucosa	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS013946	Subject 763496533, Keratinized gingiva	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Keratinized gingiva	Mucus	Oral swab	Human
+SRS013947	Subject 763496533, Palatine tonsils	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Palatine tonsils	Mucus	Oral swab	Human
+SRS013948	Subject 763496533, Throat	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Throat	Mucus	Oral swab	Human
+SRS013949	Subject 763496533, Supragingival plaque	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS013950	Subject 763496533, Subgingival plaque	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Subgingival plaque	Mucus	Oral swab	Human
+SRS013951	Subject 763496533, Colon	763496533	Human	GAZ:United States of America	male	33	Colon	Colon	Feces	Stool	Human
+SRS013956	Subject 763496533, Nares	763496533	Human	GAZ:United States of America	male	33	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS019116	Subject 763496533, Right retroauricular crease	763496533	Human	GAZ:United States of America	male	33	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS019119	Subject 763496533, Nares	763496533	Human	GAZ:United States of America	male	33	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS019120	Subject 763496533, Saliva	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Saliva	Mucus	Saliva	Human
+SRS019122	Subject 763496533, Tongue dorsum	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS019124	Subject 763496533, Buccal mucosa	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS019125	Subject 763496533, Keratinized gingiva	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Keratinized gingiva	Mucus	Oral swab	Human
+SRS019126	Subject 763496533, Palatine tonsils	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Palatine tonsils	Mucus	Oral swab	Human
+SRS019127	Subject 763496533, Throat	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Throat	Mucus	Oral swab	Human
+SRS019128	Subject 763496533, Supragingival plaque	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS019129	Subject 763496533, Subgingival plaque	763496533	Human	GAZ:United States of America	male	33	Oral cavity	Subgingival plaque	Mucus	Oral swab	Human
+SRS019161	Subject 763496533, Colon	763496533	Human	GAZ:United States of America	male	33	Colon	Colon	Feces	Stool	Human
+SRS014271	Subject 763536994, Tongue dorsum	763536994	Human	GAZ:United States of America	male	35	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS014287	Subject 763536994, Colon	763536994	Human	GAZ:United States of America	male	35	Colon	Colon	Feces	Stool	Human
+SRS047219	Subject 763536994, Tongue dorsum	763536994	Human	GAZ:United States of America	male	35	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS050422	Subject 763536994, Colon	763536994	Human	GAZ:United States of America	male	35	Colon	Colon	Feces	Stool	Human
+SRS062427	Subject 763536994, Colon	763536994	Human	GAZ:United States of America	male	35	Colon	Colon	Feces	Stool	Human
+SRS062544	Subject 763536994, Tongue dorsum	763536994	Human	GAZ:United States of America	male	35	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS063287	Subject 763536994, Buccal mucosa	763536994	Human	GAZ:United States of America	male	35	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS064493	Subject 763536994, Supragingival plaque	763536994	Human	GAZ:United States of America	male	35	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS014459	Subject 763577454, Colon	763577454	Human	GAZ:United States of America	female	28	Colon	Colon	Feces	Stool	Human
+SRS014464	Subject 763577454, Nares	763577454	Human	GAZ:United States of America	female	28	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS014465	Subject 763577454, Vaginal introitus	763577454	Human	GAZ:United States of America	female	28	Vagina	Vaginal introitus	Mucus	Vaginal swab	Human
+SRS014466	Subject 763577454, Mid vagina	763577454	Human	GAZ:United States of America	female	28	Vagina	Mid vagina	Mucus	Vaginal swab	Human
+SRS014468	Subject 763577454, Saliva	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Saliva	Mucus	Saliva	Human
+SRS014470	Subject 763577454, Tongue dorsum	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS014472	Subject 763577454, Buccal mucosa	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS014473	Subject 763577454, Keratinized gingiva	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Keratinized gingiva	Mucus	Oral swab	Human
+SRS014474	Subject 763577454, Palatine tonsils	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Palatine tonsils	Mucus	Oral swab	Human
+SRS014475	Subject 763577454, Throat	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Throat	Mucus	Oral swab	Human
+SRS014476	Subject 763577454, Supragingival plaque	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS014477	Subject 763577454, Subgingival plaque	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Subgingival plaque	Mucus	Oral swab	Human
+SRS014494	Subject 763577454, Posterior fornix of the vagina	763577454	Human	GAZ:United States of America	female	28	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS015055	Subject 763577454, Saliva	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Saliva	Mucus	Saliva	Human
+SRS015057	Subject 763577454, Tongue dorsum	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015059	Subject 763577454, Buccal mucosa	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS015060	Subject 763577454, Keratinized gingiva	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Keratinized gingiva	Mucus	Oral swab	Human
+SRS015061	Subject 763577454, Palatine tonsils	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Palatine tonsils	Mucus	Oral swab	Human
+SRS015062	Subject 763577454, Throat	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Throat	Mucus	Oral swab	Human
+SRS015063	Subject 763577454, Supragingival plaque	763577454	Human	GAZ:United States of America	female	28	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS015065	Subject 763577454, Colon	763577454	Human	GAZ:United States of America	female	28	Colon	Colon	Feces	Stool	Human
+SRS015071	Subject 763577454, Vaginal introitus	763577454	Human	GAZ:United States of America	female	28	Vagina	Vaginal introitus	Mucus	Vaginal swab	Human
+SRS015072	Subject 763577454, Mid vagina	763577454	Human	GAZ:United States of America	female	28	Vagina	Mid vagina	Mucus	Vaginal swab	Human
+SRS015073	Subject 763577454, Posterior fornix of the vagina	763577454	Human	GAZ:United States of America	female	28	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS019582	Subject 763597684, Colon	763597684	Human	GAZ:United States of America	male	37	Colon	Colon	Feces	Stool	Human
+SRS014235	Subject 763678604, Colon	763678604	Human	GAZ:United States of America	male	25	Colon	Colon	Feces	Stool	Human
+SRS019685	Subject 763678604, Colon	763678604	Human	GAZ:United States of America	male	25	Colon	Colon	Feces	Stool	Human
+SRS015154	Subject 763759525, Buccal mucosa	763759525	Human	GAZ:United States of America	female	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS015158	Subject 763759525, Supragingival plaque	763759525	Human	GAZ:United States of America	female	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS015168	Subject 763759525, Posterior fornix of the vagina	763759525	Human	GAZ:United States of America	female	23	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS015190	Subject 763759525, Colon	763759525	Human	GAZ:United States of America	female	23	Colon	Colon	Feces	Stool	Human
+SRS043018	Subject 763759525, Supragingival plaque	763759525	Human	GAZ:United States of America	female	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS043411	Subject 763759525, Colon	763759525	Human	GAZ:United States of America	female	23	Colon	Colon	Feces	Stool	Human
+SRS044742	Subject 763759525, Posterior fornix of the vagina	763759525	Human	GAZ:United States of America	female	23	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS045978	Subject 763759525, Buccal mucosa	763759525	Human	GAZ:United States of America	female	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS047210	Subject 763759525, Tongue dorsum	763759525	Human	GAZ:United States of America	female	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS056210	Subject 763759525, Nares	763759525	Human	GAZ:United States of America	female	23	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS014124	Subject 763820215, Tongue dorsum	763820215	Human	GAZ:United States of America	female	25	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS014126	Subject 763820215, Buccal mucosa	763820215	Human	GAZ:United States of America	female	25	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS014313	Subject 763820215, Colon	763820215	Human	GAZ:United States of America	female	25	Colon	Colon	Feces	Stool	Human
+SRS014343	Subject 763820215, Posterior fornix of the vagina	763820215	Human	GAZ:United States of America	female	25	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS042910	Subject 763820215, Tongue dorsum	763820215	Human	GAZ:United States of America	female	25	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS043676	Subject 763820215, Buccal mucosa	763820215	Human	GAZ:United States of America	female	25	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS051378	Subject 763820215, Supragingival plaque	763820215	Human	GAZ:United States of America	female	25	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS054962	Subject 763820215, Posterior fornix of the vagina	763820215	Human	GAZ:United States of America	female	25	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS058723	Subject 763820215, Colon	763820215	Human	GAZ:United States of America	female	25	Colon	Colon	Feces	Stool	Human
+SRS014573	Subject 763840445, Tongue dorsum	763840445	Human	GAZ:United States of America	female	38	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS014575	Subject 763840445, Buccal mucosa	763840445	Human	GAZ:United States of America	female	38	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS014578	Subject 763840445, Supragingival plaque	763840445	Human	GAZ:United States of America	female	38	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS014613	Subject 763840445, Colon	763840445	Human	GAZ:United States of America	female	38	Colon	Colon	Feces	Stool	Human
+SRS014629	Subject 763840445, Posterior fornix of the vagina	763840445	Human	GAZ:United States of America	female	38	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS062713	Subject 763840445, Nares	763840445	Human	GAZ:United States of America	female	38	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS063193	Subject 763840445, Tongue dorsum	763840445	Human	GAZ:United States of America	female	38	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS063417	Subject 763840445, Posterior fornix of the vagina	763840445	Human	GAZ:United States of America	female	38	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS063478	Subject 763840445, Buccal mucosa	763840445	Human	GAZ:United States of America	female	38	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS063999	Subject 763840445, Supragingival plaque	763840445	Human	GAZ:United States of America	female	38	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS064276	Subject 763840445, Colon	763840445	Human	GAZ:United States of America	female	38	Colon	Colon	Feces	Stool	Human
+SRS014888	Subject 763860675, Tongue dorsum	763860675	Human	GAZ:United States of America	male	33	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS014890	Subject 763860675, Buccal mucosa	763860675	Human	GAZ:United States of America	male	33	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS014894	Subject 763860675, Supragingival plaque	763860675	Human	GAZ:United States of America	male	33	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS014901	Subject 763860675, Nares	763860675	Human	GAZ:United States of America	male	33	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS014923	Subject 763860675, Colon	763860675	Human	GAZ:United States of America	male	33	Colon	Colon	Feces	Stool	Human
+SRS050925	Subject 763860675, Colon	763860675	Human	GAZ:United States of America	male	33	Colon	Colon	Feces	Stool	Human
+SRS055378	Subject 763860675, Supragingival plaque	763860675	Human	GAZ:United States of America	male	33	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS057355	Subject 763860675, Tongue dorsum	763860675	Human	GAZ:United States of America	male	33	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015038	Subject 763901136, Tongue dorsum	763901136	Human	GAZ:United States of America	female	28	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015040	Subject 763901136, Buccal mucosa	763901136	Human	GAZ:United States of America	female	28	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS015044	Subject 763901136, Supragingival plaque	763901136	Human	GAZ:United States of America	female	28	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS015051	Subject 763901136, Nares	763901136	Human	GAZ:United States of America	female	28	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS015054	Subject 763901136, Posterior fornix of the vagina	763901136	Human	GAZ:United States of America	female	28	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS015133	Subject 763901136, Colon	763901136	Human	GAZ:United States of America	female	28	Colon	Colon	Feces	Stool	Human
+SRS063603	Subject 763901136, Supragingival plaque	763901136	Human	GAZ:United States of America	female	28	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS063985	Subject 763901136, Colon	763901136	Human	GAZ:United States of America	female	28	Colon	Colon	Feces	Stool	Human
+SRS064423	Subject 763901136, Tongue dorsum	763901136	Human	GAZ:United States of America	female	28	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS064809	Subject 763901136, Buccal mucosa	763901136	Human	GAZ:United States of America	female	28	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS065278	Subject 763901136, Tongue dorsum	763901136	Human	GAZ:United States of America	female	28	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS065347	Subject 763901136, Posterior fornix of the vagina	763901136	Human	GAZ:United States of America	female	28	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS014682	Subject 763961826, Nares	763961826	Human	GAZ:United States of America	male	23	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS014683	Subject 763961826, Colon	763961826	Human	GAZ:United States of America	male	23	Colon	Colon	Feces	Stool	Human
+SRS014684	Subject 763961826, Tongue dorsum	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS014686	Subject 763961826, Buccal mucosa	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS014687	Subject 763961826, Keratinized gingiva	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Keratinized gingiva	Mucus	Oral swab	Human
+SRS014689	Subject 763961826, Throat	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Throat	Mucus	Oral swab	Human
+SRS014690	Subject 763961826, Supragingival plaque	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS014691	Subject 763961826, Subgingival plaque	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Subgingival plaque	Mucus	Oral swab	Human
+SRS014692	Subject 763961826, Saliva	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Saliva	Mucus	Saliva	Human
+SRS019015	Subject 763961826, Left retroauricular crease	763961826	Human	GAZ:United States of America	male	23	Skin	Left retroauricular crease	Sebum	Skin swab	Human
+SRS019016	Subject 763961826, Right retroauricular crease	763961826	Human	GAZ:United States of America	male	23	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS019019	Subject 763961826, Nares	763961826	Human	GAZ:United States of America	male	23	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS019022	Subject 763961826, Tongue dorsum	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS019024	Subject 763961826, Buccal mucosa	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS019025	Subject 763961826, Keratinized gingiva	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Keratinized gingiva	Mucus	Oral swab	Human
+SRS019026	Subject 763961826, Palatine tonsils	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Palatine tonsils	Mucus	Oral swab	Human
+SRS019027	Subject 763961826, Throat	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Throat	Mucus	Oral swab	Human
+SRS019028	Subject 763961826, Supragingival plaque	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS019029	Subject 763961826, Subgingival plaque	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Subgingival plaque	Mucus	Oral swab	Human
+SRS019030	Subject 763961826, Colon	763961826	Human	GAZ:United States of America	male	23	Colon	Colon	Feces	Stool	Human
+SRS019033	Subject 763961826, Right retroauricular crease	763961826	Human	GAZ:United States of America	male	23	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS019039	Subject 763961826, Nares	763961826	Human	GAZ:United States of America	male	23	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS019045	Subject 763961826, Tongue dorsum	763961826	Human	GAZ:United States of America	male	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015264	Subject 763982056, Colon	763982056	Human	GAZ:United States of America	male	37	Colon	Colon	Feces	Stool	Human
+SRS015269	Subject 763982056, Nares	763982056	Human	GAZ:United States of America	male	37	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS015272	Subject 763982056, Tongue dorsum	763982056	Human	GAZ:United States of America	male	37	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015274	Subject 763982056, Buccal mucosa	763982056	Human	GAZ:United States of America	male	37	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS015278	Subject 763982056, Supragingival plaque	763982056	Human	GAZ:United States of America	male	37	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS043772	Subject 763982056, Supragingival plaque	763982056	Human	GAZ:United States of America	male	37	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS044486	Subject 763982056, Tongue dorsum	763982056	Human	GAZ:United States of America	male	37	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS047844	Subject 763982056, Nares	763982056	Human	GAZ:United States of America	male	37	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS050299	Subject 763982056, Colon	763982056	Human	GAZ:United States of America	male	37	Colon	Colon	Feces	Stool	Human
+SRS015854	Subject 764002286, Colon	764002286	Human	GAZ:United States of America	male	39	Colon	Colon	Feces	Stool	Human
+SRS015369	Subject 764042746, Colon	764042746	Human	GAZ:United States of America	female	27	Colon	Colon	Feces	Stool	Human
+SRS015374	Subject 764042746, Buccal mucosa	764042746	Human	GAZ:United States of America	female	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS015378	Subject 764042746, Supragingival plaque	764042746	Human	GAZ:United States of America	female	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS015381	Subject 764042746, Right retroauricular crease	764042746	Human	GAZ:United States of America	female	27	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS015395	Subject 764042746, Tongue dorsum	764042746	Human	GAZ:United States of America	female	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015425	Subject 764042746, Posterior fornix of the vagina	764042746	Human	GAZ:United States of America	female	27	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS062540	Subject 764042746, Tongue dorsum	764042746	Human	GAZ:United States of America	female	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS062752	Subject 764042746, Vaginal introitus	764042746	Human	GAZ:United States of America	female	27	Vagina	Vaginal introitus	Mucus	Vaginal swab	Human
+SRS063215	Subject 764042746, Subgingival plaque	764042746	Human	GAZ:United States of America	female	27	Oral cavity	Subgingival plaque	Mucus	Oral swab	Human
+SRS063351	Subject 764042746, Palatine tonsils	764042746	Human	GAZ:United States of America	female	27	Oral cavity	Palatine tonsils	Mucus	Oral swab	Human
+SRS064376	Subject 764042746, Posterior fornix of the vagina	764042746	Human	GAZ:United States of America	female	27	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS064557	Subject 764042746, Colon	764042746	Human	GAZ:United States of America	female	27	Colon	Colon	Feces	Stool	Human
+SRS065179	Subject 764042746, Nares	764042746	Human	GAZ:United States of America	female	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS065310	Subject 764042746, Supragingival plaque	764042746	Human	GAZ:United States of America	female	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS014979	Subject 764062976, Colon	764062976	Human	GAZ:United States of America	female	20	Colon	Colon	Feces	Stool	Human
+SRS062520	Subject 764062976, Posterior fornix of the vagina	764062976	Human	GAZ:United States of America	female	20	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS063272	Subject 764062976, Buccal mucosa	764062976	Human	GAZ:United States of America	female	20	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS064449	Subject 764062976, Supragingival plaque	764062976	Human	GAZ:United States of America	female	20	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS064774	Subject 764062976, Tongue dorsum	764062976	Human	GAZ:United States of America	female	20	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS065142	Subject 764062976, Nares	764062976	Human	GAZ:United States of America	female	20	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS065504	Subject 764062976, Colon	764062976	Human	GAZ:United States of America	female	20	Colon	Colon	Feces	Stool	Human
+SRS015430	Subject 764083206, Nares	764083206	Human	GAZ:United States of America	male	35	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS015434	Subject 764083206, Tongue dorsum	764083206	Human	GAZ:United States of America	male	35	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015436	Subject 764083206, Buccal mucosa	764083206	Human	GAZ:United States of America	male	35	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS015440	Subject 764083206, Supragingival plaque	764083206	Human	GAZ:United States of America	male	35	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS015450	Subject 764083206, Nares	764083206	Human	GAZ:United States of America	male	35	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS015470	Subject 764083206, Supragingival plaque	764083206	Human	GAZ:United States of America	male	35	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS019063	Subject 764083206, Left retroauricular crease	764083206	Human	GAZ:United States of America	male	35	Skin	Left retroauricular crease	Sebum	Skin swab	Human
+SRS019064	Subject 764083206, Right retroauricular crease	764083206	Human	GAZ:United States of America	male	35	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS019067	Subject 764083206, Nares	764083206	Human	GAZ:United States of America	male	35	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS019071	Subject 764083206, Tongue dorsum	764083206	Human	GAZ:United States of America	male	35	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS019073	Subject 764083206, Buccal mucosa	764083206	Human	GAZ:United States of America	male	35	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS019077	Subject 764083206, Supragingival plaque	764083206	Human	GAZ:United States of America	male	35	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS019081	Subject 764083206, Right retroauricular crease	764083206	Human	GAZ:United States of America	male	35	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS019087	Subject 764083206, Nares	764083206	Human	GAZ:United States of America	male	35	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS015209	Subject 764143897, Tongue dorsum	764143897	Human	GAZ:United States of America	female	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015215	Subject 764143897, Supragingival plaque	764143897	Human	GAZ:United States of America	female	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS015217	Subject 764143897, Colon	764143897	Human	GAZ:United States of America	female	26	Colon	Colon	Feces	Stool	Human
+SRS015225	Subject 764143897, Posterior fornix of the vagina	764143897	Human	GAZ:United States of America	female	26	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS047335	Subject 764143897, Posterior fornix of the vagina	764143897	Human	GAZ:United States of America	female	26	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS050484	Subject 764143897, Nares	764143897	Human	GAZ:United States of America	female	26	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS051882	Subject 764143897, Colon	764143897	Human	GAZ:United States of America	female	26	Colon	Colon	Feces	Stool	Human
+SRS051930	Subject 764143897, Supragingival plaque	764143897	Human	GAZ:United States of America	female	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS056622	Subject 764143897, Tongue dorsum	764143897	Human	GAZ:United States of America	female	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS056892	Subject 764143897, Buccal mucosa	764143897	Human	GAZ:United States of America	female	26	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS048870	Subject 764184357, Colon	764184357	Human	GAZ:United States of America	female	23	Colon	Colon	Feces	Stool	Human
+SRS015745	Subject 764224817, Buccal mucosa	764224817	Human	GAZ:United States of America	male	26	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS015752	Subject 764224817, Nares	764224817	Human	GAZ:United States of America	male	26	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS015755	Subject 764224817, Supragingival plaque	764224817	Human	GAZ:United States of America	male	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS015762	Subject 764224817, Tongue dorsum	764224817	Human	GAZ:United States of America	male	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015782	Subject 764224817, Colon	764224817	Human	GAZ:United States of America	male	26	Colon	Colon	Feces	Stool	Human
+SRS046688	Subject 764224817, Right retroauricular crease	764224817	Human	GAZ:United States of America	male	26	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS047044	Subject 764224817, Colon	764224817	Human	GAZ:United States of America	male	26	Colon	Colon	Feces	Stool	Human
+SRS053584	Subject 764224817, Supragingival plaque	764224817	Human	GAZ:United States of America	male	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS054776	Subject 764224817, Buccal mucosa	764224817	Human	GAZ:United States of America	male	26	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS057205	Subject 764224817, Tongue dorsum	764224817	Human	GAZ:United States of America	male	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015537	Subject 764285508, Tongue dorsum	764285508	Human	GAZ:United States of America	male	18	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015574	Subject 764285508, Supragingival plaque	764285508	Human	GAZ:United States of America	male	18	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS015578	Subject 764285508, Colon	764285508	Human	GAZ:United States of America	male	18	Colon	Colon	Feces	Stool	Human
+SRS015893	Subject 764305738, Tongue dorsum	764305738	Human	GAZ:United States of America	male	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015895	Subject 764305738, Buccal mucosa	764305738	Human	GAZ:United States of America	male	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS015899	Subject 764305738, Supragingival plaque	764305738	Human	GAZ:United States of America	male	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS015921	Subject 764305738, Buccal mucosa	764305738	Human	GAZ:United States of America	male	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS018969	Subject 764305738, Tongue dorsum	764305738	Human	GAZ:United States of America	male	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS018971	Subject 764305738, Buccal mucosa	764305738	Human	GAZ:United States of America	male	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS018975	Subject 764305738, Supragingival plaque	764305738	Human	GAZ:United States of America	male	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS018978	Subject 764305738, Right retroauricular crease	764305738	Human	GAZ:United States of America	male	23	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS018981	Subject 764305738, Nares	764305738	Human	GAZ:United States of America	male	23	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS015937	Subject 764325968, Nares	764325968	Human	GAZ:United States of America	male	22	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS015941	Subject 764325968, Tongue dorsum	764325968	Human	GAZ:United States of America	male	22	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015947	Subject 764325968, Supragingival plaque	764325968	Human	GAZ:United States of America	male	22	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS015960	Subject 764325968, Colon	764325968	Human	GAZ:United States of America	male	22	Colon	Colon	Feces	Stool	Human
+SRS044626	Subject 764325968, Nares	764325968	Human	GAZ:United States of America	male	22	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS048411	Subject 764325968, Tongue dorsum	764325968	Human	GAZ:United States of America	male	22	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS049283	Subject 764325968, Buccal mucosa	764325968	Human	GAZ:United States of America	male	22	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS055450	Subject 764325968, Supragingival plaque	764325968	Human	GAZ:United States of America	male	22	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS056259	Subject 764325968, Colon	764325968	Human	GAZ:United States of America	male	22	Colon	Colon	Feces	Stool	Human
+SRS015985	Subject 764447348, Buccal mucosa	764447348	Human	GAZ:United States of America	male	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS015989	Subject 764447348, Supragingival plaque	764447348	Human	GAZ:United States of America	male	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS015996	Subject 764447348, Nares	764447348	Human	GAZ:United States of America	male	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS016002	Subject 764447348, Tongue dorsum	764447348	Human	GAZ:United States of America	male	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS016018	Subject 764447348, Colon	764447348	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS042628	Subject 764447348, Colon	764447348	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS047254	Subject 764447348, Nares	764447348	Human	GAZ:United States of America	male	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS057083	Subject 764447348, Right retroauricular crease	764447348	Human	GAZ:United States of America	male	27	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS057290	Subject 764447348, Supragingival plaque	764447348	Human	GAZ:United States of America	male	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS058336	Subject 764447348, Tongue dorsum	764447348	Human	GAZ:United States of America	male	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015640	Subject 764487809, Nares	764487809	Human	GAZ:United States of America	male	26	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS015644	Subject 764487809, Tongue dorsum	764487809	Human	GAZ:United States of America	male	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS015646	Subject 764487809, Buccal mucosa	764487809	Human	GAZ:United States of America	male	26	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS015650	Subject 764487809, Supragingival plaque	764487809	Human	GAZ:United States of America	male	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS015663	Subject 764487809, Colon	764487809	Human	GAZ:United States of America	male	26	Colon	Colon	Feces	Stool	Human
+SRS042131	Subject 764487809, Tongue dorsum	764487809	Human	GAZ:United States of America	male	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS047265	Subject 764487809, Supragingival plaque	764487809	Human	GAZ:United States of America	male	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS049744	Subject 764487809, Nares	764487809	Human	GAZ:United States of America	male	26	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS051031	Subject 764487809, Colon	764487809	Human	GAZ:United States of America	male	26	Colon	Colon	Feces	Stool	Human
+SRS058105	Subject 764487809, Buccal mucosa	764487809	Human	GAZ:United States of America	male	26	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS016033	Subject 764508039, Nares	764508039	Human	GAZ:United States of America	male	21	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS016037	Subject 764508039, Tongue dorsum	764508039	Human	GAZ:United States of America	male	21	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS016039	Subject 764508039, Buccal mucosa	764508039	Human	GAZ:United States of America	male	21	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS016043	Subject 764508039, Supragingival plaque	764508039	Human	GAZ:United States of America	male	21	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS016056	Subject 764508039, Colon	764508039	Human	GAZ:United States of America	male	21	Colon	Colon	Feces	Stool	Human
+SRS016086	Subject 764588959, Tongue dorsum	764588959	Human	GAZ:United States of America	female	21	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS016088	Subject 764588959, Buccal mucosa	764588959	Human	GAZ:United States of America	female	21	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS016092	Subject 764588959, Supragingival plaque	764588959	Human	GAZ:United States of America	female	21	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS016095	Subject 764588959, Colon	764588959	Human	GAZ:United States of America	female	21	Colon	Colon	Feces	Stool	Human
+SRS016105	Subject 764588959, Nares	764588959	Human	GAZ:United States of America	female	21	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS016111	Subject 764588959, Posterior fornix of the vagina	764588959	Human	GAZ:United States of America	female	21	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS016188	Subject 764649650, Nares	764649650	Human	GAZ:United States of America	female	23	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS016191	Subject 764649650, Posterior fornix of the vagina	764649650	Human	GAZ:United States of America	female	23	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS016196	Subject 764649650, Buccal mucosa	764649650	Human	GAZ:United States of America	female	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS016200	Subject 764649650, Supragingival plaque	764649650	Human	GAZ:United States of America	female	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS016203	Subject 764649650, Colon	764649650	Human	GAZ:United States of America	female	23	Colon	Colon	Feces	Stool	Human
+SRS016225	Subject 764649650, Tongue dorsum	764649650	Human	GAZ:United States of America	female	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS016267	Subject 764669880, Colon	764669880	Human	GAZ:United States of America	male	29	Colon	Colon	Feces	Stool	Human
+SRS019787	Subject 764669880, Colon	764669880	Human	GAZ:United States of America	male	29	Colon	Colon	Feces	Stool	Human
+SRS042284	Subject 764811490, Colon	764811490	Human	GAZ:United States of America	female	21	Colon	Colon	Feces	Stool	Human
+SRS047100	Subject 764811490, Supragingival plaque	764811490	Human	GAZ:United States of America	female	21	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS049237	Subject 764811490, Posterior fornix of the vagina	764811490	Human	GAZ:United States of America	female	21	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS052874	Subject 764811490, Buccal mucosa	764811490	Human	GAZ:United States of America	female	21	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS053603	Subject 764811490, Tongue dorsum	764811490	Human	GAZ:United States of America	female	21	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS019867	Subject 764892411, Nares	764892411	Human	GAZ:United States of America	male	23	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS019872	Subject 764892411, Buccal mucosa	764892411	Human	GAZ:United States of America	male	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS019894	Subject 764892411, Tongue dorsum	764892411	Human	GAZ:United States of America	male	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS019906	Subject 764892411, Supragingival plaque	764892411	Human	GAZ:United States of America	male	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS019910	Subject 764892411, Colon	764892411	Human	GAZ:United States of America	male	23	Colon	Colon	Feces	Stool	Human
+SRS018656	Subject 765013792, Colon	765013792	Human	GAZ:United States of America	female	21	Colon	Colon	Feces	Stool	Human
+SRS018661	Subject 765013792, Buccal mucosa	765013792	Human	GAZ:United States of America	female	21	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS018665	Subject 765013792, Supragingival plaque	765013792	Human	GAZ:United States of America	female	21	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS018671	Subject 765013792, Nares	765013792	Human	GAZ:United States of America	female	21	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS018739	Subject 765013792, Tongue dorsum	765013792	Human	GAZ:United States of America	female	21	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS018769	Subject 765013792, Posterior fornix of the vagina	765013792	Human	GAZ:United States of America	female	21	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS019215	Subject 765034022, Nares	765034022	Human	GAZ:United States of America	female	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS019219	Subject 765034022, Tongue dorsum	765034022	Human	GAZ:United States of America	female	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS019221	Subject 765034022, Buccal mucosa	765034022	Human	GAZ:United States of America	female	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS019225	Subject 765034022, Supragingival plaque	765034022	Human	GAZ:United States of America	female	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS019267	Subject 765034022, Colon	765034022	Human	GAZ:United States of America	female	27	Colon	Colon	Feces	Stool	Human
+SRS016292	Subject 765074482, Nares	765074482	Human	GAZ:United States of America	male	20	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS016297	Subject 765074482, Buccal mucosa	765074482	Human	GAZ:United States of America	male	20	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS016319	Subject 765074482, Tongue dorsum	765074482	Human	GAZ:United States of America	male	20	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS016331	Subject 765074482, Supragingival plaque	765074482	Human	GAZ:United States of America	male	20	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS016335	Subject 765074482, Colon	765074482	Human	GAZ:United States of America	male	20	Colon	Colon	Feces	Stool	Human
+SRS047014	Subject 765074482, Colon	765074482	Human	GAZ:United States of America	male	20	Colon	Colon	Feces	Stool	Human
+SRS049164	Subject 765074482, Colon	765074482	Human	GAZ:United States of America	male	20	Colon	Colon	Feces	Stool	Human
+SRS018569	Subject 765094712, Buccal mucosa	765094712	Human	GAZ:United States of America	male	19	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS018573	Subject 765094712, Supragingival plaque	765094712	Human	GAZ:United States of America	male	19	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS018575	Subject 765094712, Colon	765094712	Human	GAZ:United States of America	male	19	Colon	Colon	Feces	Stool	Human
+SRS018585	Subject 765094712, Nares	765094712	Human	GAZ:United States of America	male	19	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS018591	Subject 765094712, Tongue dorsum	765094712	Human	GAZ:United States of America	male	19	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS043803	Subject 765094712, Buccal mucosa	765094712	Human	GAZ:United States of America	male	19	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS045197	Subject 765094712, Supragingival plaque	765094712	Human	GAZ:United States of America	male	19	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS051600	Subject 765094712, Nares	765094712	Human	GAZ:United States of America	male	19	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS051791	Subject 765094712, Tongue dorsum	765094712	Human	GAZ:United States of America	male	19	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS052988	Subject 765094712, Right retroauricular crease	765094712	Human	GAZ:United States of America	male	19	Skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS056519	Subject 765094712, Colon	765094712	Human	GAZ:United States of America	male	19	Colon	Colon	Feces	Stool	Human
+SRS018778	Subject 765135172, Supragingival plaque	765135172	Human	GAZ:United States of America	male	27	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS018784	Subject 765135172, Nares	765135172	Human	GAZ:United States of America	male	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS018791	Subject 765135172, Tongue dorsum	765135172	Human	GAZ:United States of America	male	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS018817	Subject 765135172, Colon	765135172	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS019327	Subject 765337473, Tongue dorsum	765337473	Human	GAZ:United States of America	female	23	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS019329	Subject 765337473, Buccal mucosa	765337473	Human	GAZ:United States of America	female	23	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS019333	Subject 765337473, Supragingival plaque	765337473	Human	GAZ:United States of America	female	23	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS019339	Subject 765337473, Nares	765337473	Human	GAZ:United States of America	female	23	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS019379	Subject 765337473, Posterior fornix of the vagina	765337473	Human	GAZ:United States of America	female	23	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS019386	Subject 765560005, Nares	765560005	Human	GAZ:United States of America	male	21	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS019387	Subject 765560005, Supragingival plaque	765560005	Human	GAZ:United States of America	male	21	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS019389	Subject 765560005, Tongue dorsum	765560005	Human	GAZ:United States of America	male	21	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS019391	Subject 765560005, Buccal mucosa	765560005	Human	GAZ:United States of America	male	21	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS019397	Subject 765560005, Colon	765560005	Human	GAZ:United States of America	male	21	Colon	Colon	Feces	Stool	Human
+SRS062878	Subject 765560005, Hard palate	765560005	Human	GAZ:United States of America	male	21	Oral cavity	Hard palate	Mucus	Oral swab	Human
+SRS063178	Subject 765560005, Nares	765560005	Human	GAZ:United States of America	male	21	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS065335	Subject 765560005, Throat	765560005	Human	GAZ:United States of America	male	21	Oral cavity	Throat	Mucus	Oral swab	Human
+SRS019587	Subject 765620695, Buccal mucosa	765620695	Human	GAZ:United States of America	female	21	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS019591	Subject 765620695, Supragingival plaque	765620695	Human	GAZ:United States of America	female	21	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS019597	Subject 765620695, Nares	765620695	Human	GAZ:United States of America	female	21	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS019600	Subject 765620695, Posterior fornix of the vagina	765620695	Human	GAZ:United States of America	female	21	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS019601	Subject 765620695, Colon	765620695	Human	GAZ:United States of America	female	21	Colon	Colon	Feces	Stool	Human
+SRS019607	Subject 765620695, Tongue dorsum	765620695	Human	GAZ:United States of America	female	21	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS050752	Subject 765640925, Colon	765640925	Human	GAZ:United States of America	female	39	Colon	Colon	Feces	Stool	Human
+SRS052330	Subject 765640925, Posterior fornix of the vagina	765640925	Human	GAZ:United States of America	female	39	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS053437	Subject 765640925, Nares	765640925	Human	GAZ:United States of America	female	39	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS054653	Subject 765640925, Supragingival plaque	765640925	Human	GAZ:United States of America	female	39	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS056323	Subject 765640925, Tongue dorsum	765640925	Human	GAZ:United States of America	female	39	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS046973	Subject 765701615, Nares	765701615	Human	GAZ:United States of America	male	39	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS049389	Subject 765701615, Tongue dorsum	765701615	Human	GAZ:United States of America	male	39	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS049959	Subject 765701615, Colon	765701615	Human	GAZ:United States of America	male	39	Colon	Colon	Feces	Stool	Human
+SRS050628	Subject 765701615, Buccal mucosa	765701615	Human	GAZ:United States of America	male	39	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS058808	Subject 765701615, Supragingival plaque	765701615	Human	GAZ:United States of America	male	39	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS022524	Subject 809635352, Colon	809635352	Human	GAZ:United States of America	female	26	Colon	Colon	Feces	Stool	Human
+SRS022530	Subject 809635352, Tongue dorsum	809635352	Human	GAZ:United States of America	female	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS022532	Subject 809635352, Buccal mucosa	809635352	Human	GAZ:United States of America	female	26	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS022536	Subject 809635352, Supragingival plaque	809635352	Human	GAZ:United States of America	female	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS022545	Subject 809635352, Posterior fornix of the vagina	809635352	Human	GAZ:United States of America	female	26	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS063040	Subject 809635352, Colon	809635352	Human	GAZ:United States of America	female	26	Colon	Colon	Feces	Stool	Human
+SRS063288	Subject 809635352, Tongue dorsum	809635352	Human	GAZ:United States of America	female	26	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS064704	Subject 809635352, Posterior fornix of the vagina	809635352	Human	GAZ:United States of America	female	26	Vagina	Posterior fornix of the vagina	Mucus	Vaginal swab	Human
+SRS065099	Subject 809635352, Supragingival plaque	809635352	Human	GAZ:United States of America	female	26	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS065431	Subject 809635352, Buccal mucosa	809635352	Human	GAZ:United States of America	female	26	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS046344	Subject 823052294, Nares	823052294	Human	GAZ:United States of America	male	27	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS048719	Subject 823052294, Buccal mucosa	823052294	Human	GAZ:United States of America	male	27	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS049712	Subject 823052294, Colon	823052294	Human	GAZ:United States of America	male	27	Colon	Colon	Feces	Stool	Human
+SRS057791	Subject 823052294, Tongue dorsum	823052294	Human	GAZ:United States of America	male	27	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human
+SRS045254	Subject 861967750, Buccal mucosa	861967750	Human	GAZ:United States of America	male	21	Oral cavity	Buccal mucosa	Mucus	Oral swab	Human
+SRS048164	Subject 861967750, Colon	861967750	Human	GAZ:United States of America	male	21	Colon	Colon	Feces	Stool	Human
+SRS051244	Subject 861967750, Supragingival plaque	861967750	Human	GAZ:United States of America	male	21	Oral cavity	Supragingival plaque	Mucus	Oral swab	Human
+SRS051613	Subject 861967750, Nares	861967750	Human	GAZ:United States of America	male	21	Nasal cavity	Nares	Mucus	Nostril swab	Human
+SRS057539	Subject 861967750, Tongue dorsum	861967750	Human	GAZ:United States of America	male	21	Oral cavity	Tongue dorsum	Mucus	Oral swab	Human

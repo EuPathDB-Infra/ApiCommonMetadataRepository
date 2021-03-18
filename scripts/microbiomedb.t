@@ -51,11 +51,13 @@ for my $isaName (@isaNames){
   });
 }
 my %exceptions = (
-  OBI_0001627 => {
+  ENVO_00000004 => {
     "Ciara_V4.txt" => "Lab setting, no need for country"
   },
   SO_0001000 => {
     "EMP_1064_Bee_Microbiome.txt" => "Bees are missing sequencing region, not worth the time finding out what it is"
+    'HMPWgs.txt' => "WGS, no specific region",
+    'ResistomeWgs.txt' => "WGS, no specific region"
   }
 );
 for my $requiredTermId (@requiredSourceIds){
