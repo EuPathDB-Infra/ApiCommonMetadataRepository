@@ -1457,6 +1457,9 @@ r">
   <ontologyTerm source_id="UBERON_0009471" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:dorsum of tongue</name>
   </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0002109" type="characteristicValue" parent="characteristicQualifier">
+    <name>Nares</name>
+  </ontologyTerm>
   <!--units-->
   <ontologyTerm source_id="UO_0000036" type="unit">
     <name>year</name>
