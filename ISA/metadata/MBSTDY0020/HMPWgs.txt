@@ -1,4 +1,4 @@
-name	description	subject_id	host_common_name	country	Sex	Age (years) years	body_habitat	body_site	body_product	sample_type	env_feature
+name	description	subject_id	host_common_name	country	Sex	Age (years)	body_habitat	body_site	body_product	sample_type	env_feature
 SRS021948	Subject 158256496, colon	158256496	Human	GAZ:United States of America	female	27 years	Colon	Colon	Feces	Stool	Human
 SRS021954	Subject 158256496, tongue dorsum	158256496	Human	GAZ:United States of America	female	27 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS021960	Subject 158256496, supragingival plaque	158256496	Human	GAZ:United States of America	female	27 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
