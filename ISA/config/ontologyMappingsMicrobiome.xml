@@ -1460,6 +1460,11 @@ r">
   <ontologyTerm source_id="UBERON_0002109" type="characteristicValue" parent="characteristicQualifier">
     <name>Nares</name>
   </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0001459" type="characteristicValue" parent="characteristicQualifier">  
+    <name>Left retroauricular crease</name>
+    <name>Right retroauricular crease</name>
+    <name>skin of external ear</name>
+  </ontologyTerm>
   <!--units-->
   <ontologyTerm source_id="UO_0000036" type="unit">
     <name>year</name>
