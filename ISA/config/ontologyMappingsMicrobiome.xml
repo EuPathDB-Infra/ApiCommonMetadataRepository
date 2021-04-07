@@ -69,6 +69,7 @@
 
   <ontologyTerm source_id="EuPathDB_0009032" type="characteristicQualifier" parent="Source">
   <name>born stunted</name>
+  <name>IUGR</name>
   </ontologyTerm>
   <ontologyTerm source_id="EuPathDB_0009033" type="characteristicQualifier" parent="Source">
   <name>severely stunted at sampling</name>
@@ -199,6 +200,7 @@
     <name>habitat</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009022" type="characteristicQualifier" parent="Source">
+    <name>birth_weight</name>
     <name>Weight_to_use</name>
   </ontologyTerm>
   <ontologyTerm source_id="PATO_0000047" type="characteristicQualifier" parent="Source">
@@ -647,6 +649,7 @@
     <name>Percentage of life on antibiotics</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009095" type="characteristicQualifier" parent="Source">
+    <name>gestational_age</name>
     <name>Gestational age at birth (days)</name>
   </ontologyTerm>
   <ontologyTerm source_id="HP_0032319" type="characteristicQualifier" parent="Source">
