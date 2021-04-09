@@ -1,7 +1,7 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [organism]	Characteristics [country]	Characteristics[specimen]	Characteristics [parasite organism]
-PvSY43				Pan troglodytes troglodytes	Cameroon	Blood	Plasmodium vivax
-PvSY56				Pan troglodytes ellioti	Cameroon	Blood	Plasmodium vivax
-PvSY81				Pan troglodytes troglodytes	Cameroon	Blood	Plasmodium vivax
-PvSY90				Pan troglodytes ellioti	Cameroon	Blood	Plasmodium vivax
-PvSagu				Pan troglodytes verus	Cote d'Ivoire	Blood	Plasmodium vivax
-PvGor3157				Gorilla gorilla	Cameroon	Blood	Plasmodium vivax
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [organism]	Characteristics [country]	Characteristics[specimen]	Parameter Value[collection date]	Characteristics [parasite organism]	Characteristics[parasite strain]
+PvSY43				Pan troglodytes troglodytes	Cameroon	Blood	10/19/12	Plasmodium vivax	Plasmodium vivax PvSY43
+PvSY56				Pan troglodytes ellioti	Cameroon	Blood	2/15/13	Plasmodium vivax	Plasmodium vivax PvSY56
+PvSY81				Pan troglodytes troglodytes	Cameroon	Blood	10/14/13	Plasmodium vivax	Plasmodium vivax PvSY81
+PvSY90				Pan troglodytes ellioti	Cameroon	Blood	11/20/13	Plasmodium vivax	Plasmodium vivax PvSY90
+PvSagu				Pan troglodytes verus	Cote d'Ivoire	Blood	5/1/09	Plasmodium vivax	Plasmodium vivax PvSagu
+PvGor3157				Gorilla gorilla	Cameroon	Blood	8/31/01	Plasmodium vivax	Plasmodium vivax PvGor3157
