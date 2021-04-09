@@ -798,6 +798,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009177" type="characteristicQualifier" parent="Source">
     <name>necrotizing_enterocolitis_status</name>
+    <name>NEC</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009180" type="characteristicQualifier" parent="Source">
     <name>urine</name>
@@ -933,6 +934,7 @@
     <name>parainfluenza 3</name>
   </ontologyTerm>
   <ontologyTerm source_id="ARO_3004306" type="characteristicQualifier" parent="Sample">
+    <name>MRSA_screen</name>
     <name>methicillin resistant Staphylococcus aureus (MRSA)</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009096" type="characteristicQualifier" parent="Sample">
