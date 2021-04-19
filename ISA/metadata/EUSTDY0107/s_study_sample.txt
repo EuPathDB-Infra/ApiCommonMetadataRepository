@@ -5,7 +5,7 @@ B11792	SNPs C. haemulonii			Blood	Colombia	2016		Candida haemulonis	Candida haem
 B11798	SNPs C. haemulonii			Blood	Colombia	2016		Candida haemulonis	Candida haemulonis B11798
 B11803	SNPs C. haemulonii			Blood	Colombia	2016		Candida haemulonis	Candida haemulonis B11803
 B11898	SNPs C. haemulonii			Wound	Israel	2014		Candida haemulonis	Candida haemulonis B11898
-B11899	SNPs C. haemulonii			Wound	Israel	2015		Candida haemulonis	Candida haemulonis B11899
+B11899_resequence1	SNPs C. haemulonii			Wound	Israel	2015		Candida haemulonis	Candida haemulonis B11899_resequence1
 B11900	SNPs C. haemulonii			Wound	Israel	2015		Candida haemulonis	Candida haemulonis B11900
 B12068	SNPs C. haemulonii			Bronchial Wash	USA	2018	Alabama	Candida haemulonis	Candida haemulonis B12068
 B12109	SNPs C. haemulonii			Blood	Venezuela	2011		Candida haemulonis	Candida haemulonis B12109
