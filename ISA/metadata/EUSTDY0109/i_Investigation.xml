@@ -1,0 +1,25 @@
+<investigation identifierRegex="^(EUSTDY)\d+$" identifierIsDirectoryName="true">
+
+<study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+
+  <dataset>mory70-15_HTS_SNP_Gladieux_Magnaporthe_Field_RSRC</dataset>
+
+  <node name="Source" type="host" suffix="Source"/>  
+  <node name="Sample" type="sample from organism"/>  
+  <node name="Extract" type="DNA extract" suffix="Extract"/>
+  <node name="Assay" suffix="DNA Sequencing"/>
+
+  <edge input="Source" output="Sample">
+    <protocol>specimen collection</protocol>
+  </edge>
+
+  <edge input="Sample" output="Extract">
+    <protocol>DNA extraction</protocol>
+  </edge>
+
+  <edge input="Extract" output="Assay">
+    <protocol>DNA sequencing</protocol>
+  </edge>
+</study>
+
+</investigation>

@@ -1,0 +1,14 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [organism]	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [fungus organism]	Characteristics [fungal strain]
+76.3	SNP calls on WGS of Magnaporthe field-isolate			Oryza sativa	1990	China	Unknown	Pyricularia oryzae	Pyricularia oryzae 76.3
+90.4.1	SNP calls on WGS of Magnaporthe field-isolate			Oryza sativa	1993	China	Unknown	Pyricularia oryzae	Pyricularia oryzae 90.4.1
+GLHN4	SNP calls on WGS of Magnaporthe field-isolate			Oryza sativa	1990	China	Hangzhou	Pyricularia oryzae	Pyricularia oryzae GLHN4
+Guy11	SNP calls on WGS of Magnaporthe field-isolate			Oryza sativa	1988	France	French Guyana	Pyricularia oryzae	Pyricularia oryzae Guy11
+TH3	SNP calls on WGS of Magnaporthe field-isolate			Oryza sativa	ND	Thailand	Unknown	Pyricularia oryzae	Pyricularia oryzae TH3
+VO113	SNP calls on WGS of Magnaporthe field-isolate			Oryza sativa	1967	USA	Texas	Pyricularia oryzae	Pyricularia oryzae VO113
+82.0835	SNP calls on WGS of Magnaporthe field-isolate			Oryza sativa	1990	China	Unknown	Pyricularia oryzae	Pyricularia oryzae 82.0835
+87.120.2	SNP calls on WGS of Magnaporthe field-isolate			Oryza sativa	ND	China	Unknown	Pyricularia oryzae	Pyricularia oryzae 87.120.2
+GLHN3	SNP calls on WGS of Magnaporthe field-isolate			Oryza sativa	1990	China	Hangzhou	Pyricularia oryzae	Pyricularia oryzae GLHN3
+Ina168	SNP calls on WGS of Magnaporthe field-isolate			Oryza sativa	1958	Japan	Aichi	Pyricularia oryzae	Pyricularia oryzae Ina168
+VO104	SNP calls on WGS of Magnaporthe field-isolate			Oryza sativa	1987	Puerto Rico	Unknown	Pyricularia oryzae	Pyricularia oryzae VO104
+VO108	SNP calls on WGS of Magnaporthe field-isolate			Oryza sativa	1964	USA	Louisiana	Pyricularia oryzae	Pyricularia oryzae VO108
+VO107	SNP calls on WGS of Magnaporthe field-isolate			Digitaria sanguinalis	1981	USA	Texas	Pyricularia grisea	Pyricularia grisea VO107
