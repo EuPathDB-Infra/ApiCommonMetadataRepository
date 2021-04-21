@@ -968,8 +968,12 @@
   <ontologyTerm source_id="NCBITaxon_178876" type="characteristicValue" parent="characteristicQualifier">
     <name>Cryptococcus neoformans var. grubii</name>
   </ontologyTerm>
-
-
+  <ontologyTerm source_id="NCBITaxon_4530" type="characteristicValue" parent="characteristicQualifier">
+    <name>Oryza sativa</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_121769" type="characteristicValue" parent="characteristicQualifier">
+    <name>Digitaria sanguinalis</name>
+  </ontologyTerm>
 
 <!-- GAZ country values  -->
   <ontologyTerm source_id="GAZ_00002945" type="characteristicValue" parent="characteristicQualifier">
