@@ -398,7 +398,8 @@
     <name>Days post-infection</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000639" type="characteristicQualifier" parent="Source">
-      <name>cohort</name>
+    <name>cohort</name>
+    <name>Study cohort</name>
     <name>Group</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009010" type="characteristicQualifier" parent="Source">
@@ -783,6 +784,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009172" type="characteristicQualifier" parent="Source">
     <name>GBS</name>
+    <name>mother_group_b_streptococcus</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009173" type="characteristicQualifier" parent="Source">
     <name>pre-eclampsia</name>
@@ -812,10 +814,96 @@
   <ontologyTerm source_id="EUPATH_0009184" type="characteristicQualifier" parent="Source">
     <name>Stenotrophomonas_maltophilia</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009186" type="characteristicQualifier" parent="Source">
+    <name>birth_plurality</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009189" type="characteristicQualifier" parent="Source">
+    <name>fraternal_or_identical_twins</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009187" type="characteristicQualifier" parent="Source">
+    <name>amnionicity</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009188" type="characteristicQualifier" parent="Source">
+    <name>chorionicity</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009215" type="characteristicQualifier" parent="Source">
+    <name>sibling_set_id</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009212" type="characteristicQualifier" parent="Source">
+    <name>birth_study_day</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009211" type="characteristicQualifier" parent="Source">
+    <name>survived</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009209" type="characteristicQualifier" parent="Source">
+    <name>season_of_birth</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009210" type="characteristicQualifier" parent="Source">
+    <name>Sepsis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009191" type="characteristicQualifier" parent="Source">
+    <name>maternal_antepartum_antibiotics</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009192" type="characteristicQualifier" parent="Source">
+    <name>maternal_antepartum_antibiotics_timing_prior_to_delivery</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009214" type="characteristicQualifier" parent="Source">
+    <name>days_to_first_NEC</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009213" type="characteristicQualifier" parent="Source">
+    <name>day_of_NEC</name>
+  </ontologyTerm>
+
 
 
   <!-- Characteristics associated with Sample -->
 
+
+  <ontologyTerm source_id="EUPATH_0009194" type="characteristicQualifier" parent="Sample">
+    <name>sample_acyclovir</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009195" type="characteristicQualifier" parent="Sample">
+    <name>sample_amoxicillin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009196" type="characteristicQualifier" parent="Sample">
+    <name>sample_ampicillin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009197" type="characteristicQualifier" parent="Sample">
+    <name>sample_cefazolin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009198" type="characteristicQualifier" parent="Sample">
+    <name>sample_cefepime</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009199" type="characteristicQualifier" parent="Sample">
+    <name>sample_cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009200" type="characteristicQualifier" parent="Sample">
+    <name>sample_claforan</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009201" type="characteristicQualifier" parent="Sample">
+    <name>sample_clindamycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009202" type="characteristicQualifier" parent="Sample">
+    <name>sample_fluconazole</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009203" type="characteristicQualifier" parent="Sample">
+    <name>sample_gentamycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009204" type="characteristicQualifier" parent="Sample">
+    <name>sample_nafcillin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009205" type="characteristicQualifier" parent="Sample">
+    <name>sample_nystatin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009206" type="characteristicQualifier" parent="Sample">
+    <name>sample_ofloxacin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009207" type="characteristicQualifier" parent="Sample">
+    <name>sample_vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009208" type="characteristicQualifier" parent="Sample">
+    <name>sample_zosyn</name>
+  </ontologyTerm>
   <ontologyTerm source_id="OBI_0001616" type="characteristicQualifier" parent="Sample">
     <name>clinepi_sample</name>
     <name>submitted_sample_id</name>
@@ -936,6 +1024,7 @@
   <ontologyTerm source_id="ARO_3004306" type="characteristicQualifier" parent="Sample">
     <name>MRSA_screen</name>
     <name>methicillin resistant Staphylococcus aureus (MRSA)</name>
+    <name>Methicillin-resistant Staphylococcus aureus (MRSA) screen</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009096" type="characteristicQualifier" parent="Sample">
     <name>methicillin sensitive Staphylococcus aureus (MSSA)</name>
@@ -1127,6 +1216,7 @@
   <!-- GAZ terms -->
   <ontologyTerm source_id="GAZ_00002459" type="characteristicValue" parent="characteristicQualifier">
     <name>GAZ:United States of America</name>
+    <name>United States of America</name>
     <name>USA</name>
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00003147" type="characteristicValue" parent="characteristicQualifier">
