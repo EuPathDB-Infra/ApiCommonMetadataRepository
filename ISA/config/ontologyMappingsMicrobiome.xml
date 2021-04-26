@@ -70,6 +70,7 @@
   <ontologyTerm source_id="EuPathDB_0009032" type="characteristicQualifier" parent="Source">
   <name>born stunted</name>
   <name>IUGR</name>
+  <name>Intrauterine Growth Restriction (IUGR)</name>
   </ontologyTerm>
   <ontologyTerm source_id="EuPathDB_0009033" type="characteristicQualifier" parent="Source">
   <name>severely stunted at sampling</name>
@@ -800,6 +801,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009177" type="characteristicQualifier" parent="Source">
     <name>necrotizing_enterocolitis_status</name>
+    <name>Nectrotizing Enterocolitis (NEC)</name>
     <name>NEC</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009180" type="characteristicQualifier" parent="Source">
