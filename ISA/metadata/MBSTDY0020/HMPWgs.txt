@@ -127,7 +127,7 @@ SRS023964	Subject 159369152, supragingival plaque	159369152	Human	GAZ:United Sta
 SRS023970	Subject 159369152, nares	159369152	Human	GAZ:United States of America	male	22 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS023971	Subject 159369152, colon	159369152	Human	GAZ:United States of America	male	22 years	Colon	Colon	Feces	Stool	Human
 SRS023987	Subject 159369152, buccal mucosa	159369152	Human	GAZ:United States of America	male	22 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
-SRS016944	Subject 159450072, left retroauricular crease	159450072	Human	GAZ:United States of America	male	28 years	UBERON:skin	Left retroauricular crease	Sebum	Skin swab	Human
+SRS016944	Subject 159450072, left retroauricular crease	159450072	Human	GAZ:United States of America	male	28 years	UBERON:skin crease	left external ear	Sebum	Skin swab	Human
 SRS016989	Subject 159490532, colon	159490532	Human	GAZ:United States of America	male	28 years	Colon	Colon	Feces	Stool	Human
 SRS017007	Subject 159490532, tongue dorsum	159490532	Human	GAZ:United States of America	male	28 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS017013	Subject 159490532, buccal mucosa	159490532	Human	GAZ:United States of America	male	28 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
@@ -138,7 +138,7 @@ SRS046686	Subject 159490532, buccal mucosa	159490532	Human	GAZ:United States of 
 SRS052027	Subject 159490532, colon	159490532	Human	GAZ:United States of America	male	28 years	Colon	Colon	Feces	Stool	Human
 SRS054430	Subject 159490532, supragingival plaque	159490532	Human	GAZ:United States of America	male	28 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS055495	Subject 159490532, tongue dorsum	159490532	Human	GAZ:United States of America	male	28 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
-SRS058182	Subject 159490532, right retroauricular crease	159490532	Human	GAZ:United States of America	male	28 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS058182	Subject 159490532, right retroauricular crease	159490532	Human	GAZ:United States of America	male	28 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS017247	Subject 159510762, colon	159510762	Human	GAZ:United States of America	male	26 years	Colon	Colon	Feces	Stool	Human
 SRS024075	Subject 159510762, colon	159510762	Human	GAZ:United States of America	male	26 years	Colon	Colon	Feces	Stool	Human
 SRS024081	Subject 159510762, tongue dorsum	159510762	Human	GAZ:United States of America	male	26 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
@@ -164,31 +164,31 @@ SRS024435	Subject 159571453, colon	159571453	Human	GAZ:United States of America	
 SRS024441	Subject 159571453, tongue dorsum	159571453	Human	GAZ:United States of America	male	38 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS024447	Subject 159571453, supragingival plaque	159571453	Human	GAZ:United States of America	male	38 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS024470	Subject 159571453, buccal mucosa	159571453	Human	GAZ:United States of America	male	38 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
-SRS024482	Subject 159571453, left retroauricular crease	159571453	Human	GAZ:United States of America	male	38 years	UBERON:skin	Left retroauricular crease	Sebum	Skin swab	Human
+SRS024482	Subject 159571453, left retroauricular crease	159571453	Human	GAZ:United States of America	male	38 years	UBERON:skin crease	left external ear	Sebum	Skin swab	Human
 SRS013215	Subject 159591683, colon	159591683	Human	GAZ:United States of America	male	27 years	Colon	Colon	Feces	Stool	Human
 SRS013234	Subject 159591683, tongue dorsum	159591683	Human	GAZ:United States of America	male	27 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS013239	Subject 159591683, buccal mucosa	159591683	Human	GAZ:United States of America	male	27 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
 SRS013252	Subject 159591683, supragingival plaque	159591683	Human	GAZ:United States of America	male	27 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
-SRS013258	Subject 159591683, left retroauricular crease	159591683	Human	GAZ:United States of America	male	27 years	UBERON:skin	Left retroauricular crease	Sebum	Skin swab	Human
-SRS013261	Subject 159591683, right retroauricular crease	159591683	Human	GAZ:United States of America	male	27 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS013258	Subject 159591683, left retroauricular crease	159591683	Human	GAZ:United States of America	male	27 years	UBERON:skin crease	left external ear	Sebum	Skin swab	Human
+SRS013261	Subject 159591683, right retroauricular crease	159591683	Human	GAZ:United States of America	male	27 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS013269	Subject 159591683, nares	159591683	Human	GAZ:United States of America	male	27 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS024549	Subject 159591683, colon	159591683	Human	GAZ:United States of America	male	27 years	Colon	Colon	Feces	Stool	Human
 SRS024557	Subject 159591683, buccal mucosa	159591683	Human	GAZ:United States of America	male	27 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
 SRS024561	Subject 159591683, supragingival plaque	159591683	Human	GAZ:United States of America	male	27 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS024567	Subject 159591683, nares	159591683	Human	GAZ:United States of America	male	27 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS024580	Subject 159591683, tongue dorsum	159591683	Human	GAZ:United States of America	male	27 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
-SRS024596	Subject 159591683, left retroauricular crease	159591683	Human	GAZ:United States of America	male	27 years	UBERON:skin	Left retroauricular crease	Sebum	Skin swab	Human
-SRS024598	Subject 159591683, right retroauricular crease	159591683	Human	GAZ:United States of America	male	27 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS024596	Subject 159591683, left retroauricular crease	159591683	Human	GAZ:United States of America	male	27 years	UBERON:skin crease	left external ear	Sebum	Skin swab	Human
+SRS024598	Subject 159591683, right retroauricular crease	159591683	Human	GAZ:United States of America	male	27 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS016954	Subject 159611913, colon	159611913	Human	GAZ:United States of America	male	23 years	Colon	Colon	Feces	Stool	Human
 SRS017076	Subject 159611913, tongue dorsum	159611913	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS017080	Subject 159611913, buccal mucosa	159611913	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
 SRS017088	Subject 159611913, supragingival plaque	159611913	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
-SRS024620	Subject 159611913, left retroauricular crease	159611913	Human	GAZ:United States of America	male	23 years	UBERON:skin	Left retroauricular crease	Sebum	Skin swab	Human
+SRS024620	Subject 159611913, left retroauricular crease	159611913	Human	GAZ:United States of America	male	23 years	UBERON:skin crease	left external ear	Sebum	Skin swab	Human
 SRS024625	Subject 159611913, colon	159611913	Human	GAZ:United States of America	male	23 years	Colon	Colon	Feces	Stool	Human
 SRS024637	Subject 159611913, tongue dorsum	159611913	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS024641	Subject 159611913, buccal mucosa	159611913	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
 SRS024649	Subject 159611913, supragingival plaque	159611913	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
-SRS024655	Subject 159611913, right retroauricular crease	159611913	Human	GAZ:United States of America	male	23 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS024655	Subject 159611913, right retroauricular crease	159611913	Human	GAZ:United States of America	male	23 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS016342	Subject 159632143, tongue dorsum	159632143	Human	GAZ:United States of America	male	27 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS016349	Subject 159632143, buccal mucosa	159632143	Human	GAZ:United States of America	male	27 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
 SRS016360	Subject 159632143, supragingival plaque	159632143	Human	GAZ:United States of America	male	27 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
@@ -266,8 +266,8 @@ SRS020222	Subject 160400887, buccal mucosa	160400887	Human	GAZ:United States of 
 SRS020226	Subject 160400887, supragingival plaque	160400887	Human	GAZ:United States of America	male	24 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS020232	Subject 160400887, nares	160400887	Human	GAZ:United States of America	male	24 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS020233	Subject 160400887, colon	160400887	Human	GAZ:United States of America	male	24 years	Colon	Colon	Feces	Stool	Human
-SRS020261	Subject 160400887, left retroauricular crease	160400887	Human	GAZ:United States of America	male	24 years	UBERON:skin	Left retroauricular crease	Sebum	Skin swab	Human
-SRS020263	Subject 160400887, right retroauricular crease	160400887	Human	GAZ:United States of America	male	24 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS020261	Subject 160400887, left retroauricular crease	160400887	Human	GAZ:United States of America	male	24 years	UBERON:skin crease	left external ear	Sebum	Skin swab	Human
+SRS020263	Subject 160400887, right retroauricular crease	160400887	Human	GAZ:United States of America	male	24 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS016740	Subject 160421117, tongue dorsum	160421117	Human	GAZ:United States of America	male	21 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS016746	Subject 160421117, supragingival plaque	160421117	Human	GAZ:United States of America	male	21 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS016752	Subject 160421117, nares	160421117	Human	GAZ:United States of America	male	21 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
@@ -288,8 +288,8 @@ SRS017810	Subject 160603188, buccal mucosa	160603188	Human	GAZ:United States of 
 SRS017814	Subject 160603188, supragingival plaque	160603188	Human	GAZ:United States of America	male	29 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS017820	Subject 160603188, nares	160603188	Human	GAZ:United States of America	male	29 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS017821	Subject 160603188, colon	160603188	Human	GAZ:United States of America	male	29 years	Colon	Colon	Feces	Stool	Human
-SRS017849	Subject 160603188, left retroauricular crease	160603188	Human	GAZ:United States of America	male	29 years	UBERON:skin	Left retroauricular crease	Sebum	Skin swab	Human
-SRS017851	Subject 160603188, right retroauricular crease	160603188	Human	GAZ:United States of America	male	29 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS017849	Subject 160603188, left retroauricular crease	160603188	Human	GAZ:United States of America	male	29 years	UBERON:skin crease	left external ear	Sebum	Skin swab	Human
+SRS017851	Subject 160603188, right retroauricular crease	160603188	Human	GAZ:United States of America	male	29 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS019968	Subject 160643649, colon	160643649	Human	GAZ:United States of America	female	24 years	Colon	Colon	Feces	Stool	Human
 SRS019974	Subject 160643649, tongue dorsum	160643649	Human	GAZ:United States of America	female	24 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS019976	Subject 160643649, buccal mucosa	160643649	Human	GAZ:United States of America	female	24 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
@@ -317,7 +317,7 @@ SRS049318	Subject 246515023, supragingival plaque	246515023	Human	GAZ:United Sta
 SRS055298	Subject 246515023, posterior fornix of the vagina	246515023	Human	GAZ:United States of America	female	38 years	UBERON:vagina	UBERON:posterior fornix of vagina	Mucus	Vaginal swab	Human
 SRS057022	Subject 246515023, buccal mucosa	246515023	Human	GAZ:United States of America	female	38 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
 SRS057717	Subject 246515023, colon	246515023	Human	GAZ:United States of America	female	38 years	Colon	Colon	Feces	Stool	Human
-SRS045606	Subject 338793263, right retroauricular crease	338793263	Human	GAZ:United States of America	female	19 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS045606	Subject 338793263, right retroauricular crease	338793263	Human	GAZ:United States of America	female	19 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS050029	Subject 338793263, buccal mucosa	338793263	Human	GAZ:United States of America	female	19 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
 SRS051505	Subject 338793263, posterior fornix of the vagina	338793263	Human	GAZ:United States of America	female	19 years	UBERON:vagina	UBERON:posterior fornix of vagina	Mucus	Vaginal swab	Human
 SRS052227	Subject 338793263, tongue dorsum	338793263	Human	GAZ:United States of America	female	19 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
@@ -339,7 +339,7 @@ SRS043755	Subject 404239096, supragingival plaque	404239096	Human	GAZ:United Sta
 SRS045049	Subject 404239096, buccal mucosa	404239096	Human	GAZ:United States of America	male	25 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
 SRS045713	Subject 404239096, colon	404239096	Human	GAZ:United States of America	male	25 years	Colon	Colon	Feces	Stool	Human
 SRS050025	Subject 404239096, nares	404239096	Human	GAZ:United States of America	male	25 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
-SRS058221	Subject 404239096, right retroauricular crease	404239096	Human	GAZ:United States of America	male	25 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS058221	Subject 404239096, right retroauricular crease	404239096	Human	GAZ:United States of America	male	25 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS047708	Subject 508703490, nares	508703490	Human	GAZ:United States of America	female	24 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS050184	Subject 508703490, posterior fornix of the vagina	508703490	Human	GAZ:United States of America	female	24 years	UBERON:vagina	UBERON:posterior fornix of vagina	Mucus	Vaginal swab	Human
 SRS053335	Subject 508703490, colon	508703490	Human	GAZ:United States of America	female	24 years	Colon	Colon	Feces	Stool	Human
@@ -412,7 +412,7 @@ SRS013949	Subject 763496533, supragingival plaque	763496533	Human	GAZ:United Sta
 SRS013950	Subject 763496533, subgingival plaque	763496533	Human	GAZ:United States of America	male	33 years	Oral cavity	UBERON:subgingival dental plaque	Mucus	Oral swab	Human
 SRS013951	Subject 763496533, colon	763496533	Human	GAZ:United States of America	male	33 years	Colon	Colon	Feces	Stool	Human
 SRS013956	Subject 763496533, nares	763496533	Human	GAZ:United States of America	male	33 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
-SRS019116	Subject 763496533, right retroauricular crease	763496533	Human	GAZ:United States of America	male	33 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS019116	Subject 763496533, right retroauricular crease	763496533	Human	GAZ:United States of America	male	33 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS019119	Subject 763496533, nares	763496533	Human	GAZ:United States of America	male	33 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS019120	Subject 763496533, saliva	763496533	Human	GAZ:United States of America	male	33 years	Oral cavity	Saliva	Mucus	Saliva	Human
 SRS019122	Subject 763496533, tongue dorsum	763496533	Human	GAZ:United States of America	male	33 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
@@ -517,8 +517,8 @@ SRS014689	Subject 763961826, throat	763961826	Human	GAZ:United States of America
 SRS014690	Subject 763961826, supragingival plaque	763961826	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS014691	Subject 763961826, subgingival plaque	763961826	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:subgingival dental plaque	Mucus	Oral swab	Human
 SRS014692	Subject 763961826, saliva	763961826	Human	GAZ:United States of America	male	23 years	Oral cavity	Saliva	Mucus	Saliva	Human
-SRS019015	Subject 763961826, left retroauricular crease	763961826	Human	GAZ:United States of America	male	23 years	UBERON:skin	Left retroauricular crease	Sebum	Skin swab	Human
-SRS019016	Subject 763961826, right retroauricular crease	763961826	Human	GAZ:United States of America	male	23 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS019015	Subject 763961826, left retroauricular crease	763961826	Human	GAZ:United States of America	male	23 years	UBERON:skin crease	left external ear	Sebum	Skin swab	Human
+SRS019016	Subject 763961826, right retroauricular crease	763961826	Human	GAZ:United States of America	male	23 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS019019	Subject 763961826, nares	763961826	Human	GAZ:United States of America	male	23 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS019022	Subject 763961826, tongue dorsum	763961826	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS019024	Subject 763961826, buccal mucosa	763961826	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
@@ -528,7 +528,7 @@ SRS019027	Subject 763961826, throat	763961826	Human	GAZ:United States of America
 SRS019028	Subject 763961826, supragingival plaque	763961826	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS019029	Subject 763961826, subgingival plaque	763961826	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:subgingival dental plaque	Mucus	Oral swab	Human
 SRS019030	Subject 763961826, colon	763961826	Human	GAZ:United States of America	male	23 years	Colon	Colon	Feces	Stool	Human
-SRS019033	Subject 763961826, right retroauricular crease	763961826	Human	GAZ:United States of America	male	23 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS019033	Subject 763961826, right retroauricular crease	763961826	Human	GAZ:United States of America	male	23 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS019039	Subject 763961826, nares	763961826	Human	GAZ:United States of America	male	23 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS019045	Subject 763961826, tongue dorsum	763961826	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS015264	Subject 763982056, colon	763982056	Human	GAZ:United States of America	male	37 years	Colon	Colon	Feces	Stool	Human
@@ -544,7 +544,7 @@ SRS015854	Subject 764002286, colon	764002286	Human	GAZ:United States of America	
 SRS015369	Subject 764042746, colon	764042746	Human	GAZ:United States of America	female	27 years	Colon	Colon	Feces	Stool	Human
 SRS015374	Subject 764042746, buccal mucosa	764042746	Human	GAZ:United States of America	female	27 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
 SRS015378	Subject 764042746, supragingival plaque	764042746	Human	GAZ:United States of America	female	27 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
-SRS015381	Subject 764042746, right retroauricular crease	764042746	Human	GAZ:United States of America	female	27 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS015381	Subject 764042746, right retroauricular crease	764042746	Human	GAZ:United States of America	female	27 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS015395	Subject 764042746, tongue dorsum	764042746	Human	GAZ:United States of America	female	27 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS015425	Subject 764042746, posterior fornix of the vagina	764042746	Human	GAZ:United States of America	female	27 years	UBERON:vagina	UBERON:posterior fornix of vagina	Mucus	Vaginal swab	Human
 SRS062540	Subject 764042746, tongue dorsum	764042746	Human	GAZ:United States of America	female	27 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
@@ -568,13 +568,13 @@ SRS015436	Subject 764083206, buccal mucosa	764083206	Human	GAZ:United States of 
 SRS015440	Subject 764083206, supragingival plaque	764083206	Human	GAZ:United States of America	male	35 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS015450	Subject 764083206, nares	764083206	Human	GAZ:United States of America	male	35 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS015470	Subject 764083206, supragingival plaque	764083206	Human	GAZ:United States of America	male	35 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
-SRS019063	Subject 764083206, left retroauricular crease	764083206	Human	GAZ:United States of America	male	35 years	UBERON:skin	Left retroauricular crease	Sebum	Skin swab	Human
-SRS019064	Subject 764083206, right retroauricular crease	764083206	Human	GAZ:United States of America	male	35 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS019063	Subject 764083206, left retroauricular crease	764083206	Human	GAZ:United States of America	male	35 years	UBERON:skin crease	left external ear	Sebum	Skin swab	Human
+SRS019064	Subject 764083206, right retroauricular crease	764083206	Human	GAZ:United States of America	male	35 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS019067	Subject 764083206, nares	764083206	Human	GAZ:United States of America	male	35 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS019071	Subject 764083206, tongue dorsum	764083206	Human	GAZ:United States of America	male	35 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS019073	Subject 764083206, buccal mucosa	764083206	Human	GAZ:United States of America	male	35 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
 SRS019077	Subject 764083206, supragingival plaque	764083206	Human	GAZ:United States of America	male	35 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
-SRS019081	Subject 764083206, right retroauricular crease	764083206	Human	GAZ:United States of America	male	35 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS019081	Subject 764083206, right retroauricular crease	764083206	Human	GAZ:United States of America	male	35 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS019087	Subject 764083206, nares	764083206	Human	GAZ:United States of America	male	35 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS015209	Subject 764143897, tongue dorsum	764143897	Human	GAZ:United States of America	female	26 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS015215	Subject 764143897, supragingival plaque	764143897	Human	GAZ:United States of America	female	26 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
@@ -592,7 +592,7 @@ SRS015752	Subject 764224817, nares	764224817	Human	GAZ:United States of America	
 SRS015755	Subject 764224817, supragingival plaque	764224817	Human	GAZ:United States of America	male	26 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS015762	Subject 764224817, tongue dorsum	764224817	Human	GAZ:United States of America	male	26 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS015782	Subject 764224817, colon	764224817	Human	GAZ:United States of America	male	26 years	Colon	Colon	Feces	Stool	Human
-SRS046688	Subject 764224817, right retroauricular crease	764224817	Human	GAZ:United States of America	male	26 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS046688	Subject 764224817, right retroauricular crease	764224817	Human	GAZ:United States of America	male	26 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS047044	Subject 764224817, colon	764224817	Human	GAZ:United States of America	male	26 years	Colon	Colon	Feces	Stool	Human
 SRS053584	Subject 764224817, supragingival plaque	764224817	Human	GAZ:United States of America	male	26 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS054776	Subject 764224817, buccal mucosa	764224817	Human	GAZ:United States of America	male	26 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
@@ -607,7 +607,7 @@ SRS015921	Subject 764305738, buccal mucosa	764305738	Human	GAZ:United States of 
 SRS018969	Subject 764305738, tongue dorsum	764305738	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS018971	Subject 764305738, buccal mucosa	764305738	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:buccal mucosa	Mucus	Oral swab	Human
 SRS018975	Subject 764305738, supragingival plaque	764305738	Human	GAZ:United States of America	male	23 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
-SRS018978	Subject 764305738, right retroauricular crease	764305738	Human	GAZ:United States of America	male	23 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS018978	Subject 764305738, right retroauricular crease	764305738	Human	GAZ:United States of America	male	23 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS018981	Subject 764305738, nares	764305738	Human	GAZ:United States of America	male	23 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS015937	Subject 764325968, nares	764325968	Human	GAZ:United States of America	male	22 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS015941	Subject 764325968, tongue dorsum	764325968	Human	GAZ:United States of America	male	22 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
@@ -625,7 +625,7 @@ SRS016002	Subject 764447348, tongue dorsum	764447348	Human	GAZ:United States of 
 SRS016018	Subject 764447348, colon	764447348	Human	GAZ:United States of America	male	27 years	Colon	Colon	Feces	Stool	Human
 SRS042628	Subject 764447348, colon	764447348	Human	GAZ:United States of America	male	27 years	Colon	Colon	Feces	Stool	Human
 SRS047254	Subject 764447348, nares	764447348	Human	GAZ:United States of America	male	27 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
-SRS057083	Subject 764447348, right retroauricular crease	764447348	Human	GAZ:United States of America	male	27 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS057083	Subject 764447348, right retroauricular crease	764447348	Human	GAZ:United States of America	male	27 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS057290	Subject 764447348, supragingival plaque	764447348	Human	GAZ:United States of America	male	27 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS058336	Subject 764447348, tongue dorsum	764447348	Human	GAZ:United States of America	male	27 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
 SRS015640	Subject 764487809, nares	764487809	Human	GAZ:United States of America	male	26 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
@@ -694,7 +694,7 @@ SRS043803	Subject 765094712, buccal mucosa	765094712	Human	GAZ:United States of 
 SRS045197	Subject 765094712, supragingival plaque	765094712	Human	GAZ:United States of America	male	19 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS051600	Subject 765094712, nares	765094712	Human	GAZ:United States of America	male	19 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human
 SRS051791	Subject 765094712, tongue dorsum	765094712	Human	GAZ:United States of America	male	19 years	Oral cavity	UBERON:dorsum of tongue	Mucus	Oral swab	Human
-SRS052988	Subject 765094712, right retroauricular crease	765094712	Human	GAZ:United States of America	male	19 years	UBERON:skin	Right retroauricular crease	Sebum	Skin swab	Human
+SRS052988	Subject 765094712, right retroauricular crease	765094712	Human	GAZ:United States of America	male	19 years	UBERON:skin crease	right external ear	Sebum	Skin swab	Human
 SRS056519	Subject 765094712, colon	765094712	Human	GAZ:United States of America	male	19 years	Colon	Colon	Feces	Stool	Human
 SRS018778	Subject 765135172, supragingival plaque	765135172	Human	GAZ:United States of America	male	27 years	Oral cavity	UBERON:supragingival dental plaque	Mucus	Oral swab	Human
 SRS018784	Subject 765135172, nares	765135172	Human	GAZ:United States of America	male	27 years	UBERON:nasal cavity	Nares	Mucus	Nostril swab	Human

@@ -1373,6 +1373,9 @@
     <name>UBERON:skin</name>
     <name>skin epidermis</name>
   </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0019243" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:skin crease</name>
+  </ontologyTerm>
   <ontologyTerm source_id="UBERON_0002114" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:duodenum</name>
     <name>duodenum</name>
@@ -1558,8 +1561,6 @@ r">
     <name>Nares</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0001459" type="characteristicValue" parent="characteristicQualifier">  
-    <name>Left retroauricular crease</name>
-    <name>Right retroauricular crease</name>
     <name>skin of external ear</name>
   </ontologyTerm>
   <!--units-->
