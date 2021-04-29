@@ -1151,12 +1151,6 @@
   <ontologyTerm source_id="NCBITaxon_1313" type="characteristicQualifier" parent="Sample">
     <name>Streptococcus pneumoniae</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009094" type="characteristicQualifier" parent="Sample">
-    <name>Age at sample collection (days)</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009097" type="characteristicQualifier" parent="Sample">
-    <name>Postmenstrual age at sample collection (days)</name>
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009101" type="characteristicQualifier" parent="Sample">
     <name>Blood culture results</name>
   </ontologyTerm>

@@ -164,7 +164,7 @@ my %dataBySrr;
 
 push @sampleHeaders, ("days_to_first_NEC", "day_of_NEC");
 for my $subjectId (keys %necTimes){
-  my @necs = sort {$a->[0] cmp $b->[0]} @{$necTimes{$subjectId}};
+  my @necs = sort {$a->[0] <=> $b->[0]} @{$necTimes{$subjectId}};
   my ($firstNecStart, $firstNecEnd) = @{$necs[0]};
   for my $srr (@{$srrsBySubject{$subjectId}}){
      my $dol = $dolsBySrr{$srr};
@@ -172,10 +172,14 @@ for my $subjectId (keys %necTimes){
      if ($dol <= $firstNecStart){
         $dataBySrr{$srr}{days_to_first_NEC} = $firstNecStart - $dol;
      }
-     for my $nec (@necs){
-        my ($necStart, $necEnd) = @{$nec};
-        if ($dol >= $necStart && ($necEnd eq 'unk' || $necEnd eq '?' || $dol <= $necEnd)){
-           $dataBySrr{$srr}{day_of_NEC} = $dol - $necStart + 1;
+     for my $ix (0..$#necs){
+        my ($prevNecStart, $prevNecEnd) = @{$ix > 0 ? $necs[$ix]: [0,0]};
+        my ($necStart, $necEnd) = @{$necs[$ix]};
+        if ($prevNecEnd eq 'unk' || $prevNecEnd eq '?'){
+          $prevNecEnd = $necStart;
+        }
+        if ($dol >= $prevNecEnd && ($necEnd eq 'unk' || $necEnd eq '?' || $dol <= $necEnd)){
+           $dataBySrr{$srr}{day_of_NEC} = $dol - $necStart;
         }
      }
   }
@@ -215,15 +219,17 @@ for my $antibioticName (@antibioticNames){
 }
 my @extraKeys = qw/body_product body_site host_common_name sample_type body_habitat env_feature/;
 my @extraValues = qw/UBERON:feces colon Human Stool colon Human/;
-say join "\t", ("name", "description","subject_id", "age", @extraKeys, @subjectHeaders, @sampleHeaders); 
+#say join "\t", ("name", "description","subject_id", "age", @extraKeys, @subjectHeaders, @sampleHeaders); 
+say join "\t", "name", "subject_id", "age", "day_of_NEC_2";
 for my $subjectId (sort {$a <=> $b} keys %srrsBySubject){
   for my $srr (sort {$dolsBySrr{$a} <=> $dolsBySrr{$b}} @{$srrsBySubject{$subjectId}}){
     my $dol = $dolsBySrr{$srr};
-    say join "\t", (
-      $srr, "Infant $subjectId, $dol days", $subjectId, "$dol days",
-      @extraValues,
-      (map {$dataBySubject{$subjectId}{$_} // ""} @subjectHeaders),
-      (map {$dataBySrr{$srr}{$_} // ""} @sampleHeaders),
-    );
+    #    say join "\t", (
+    # $srr, "Infant $subjectId, $dol days", $subjectId, "$dol days",
+    # @extraValues,
+    # (map {$dataBySubject{$subjectId}{$_} // ""} @subjectHeaders),
+    # (map {$dataBySrr{$srr}{$_} // ""} @sampleHeaders),
+    #);
+    say join "\t", $srr, $subjectId,  "$dol days", ($dataBySrr{$srr}{day_of_NEC}//"NA");
   }
 }
