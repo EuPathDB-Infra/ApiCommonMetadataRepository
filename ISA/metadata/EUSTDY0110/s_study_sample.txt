@@ -1,0 +1,65 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Day of treatment	heteroresistant?	Characteristics [health_status]	Characteristics [specimen]	Characteristics[country]	specimen collector	Therapy	Characteristics [fungus organism]	Characteristics [fungal strain]
+DAR0101	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0101
+DAR0101R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0101R
+DAR0122	Cneoformans het			22		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0122
+DAR01690	Cneoformans het			90		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR01690
+DAR01690R	Cneoformans het			90	heteroresistant	HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR01690R
+DAR0190	Cneoformans het			90		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0190
+DAR0201	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0201
+DAR0201R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0201R
+DAR02150	Cneoformans het			50		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR02150
+DAR02356	Cneoformans het			356		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR02356
+DAR0290	Cneoformans het			90		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0290
+DAR0301	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0301
+DAR0301R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0301R
+DAR0601	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0601
+DAR0601R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0601R
+DAR0704	Cneoformans het			4		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0704
+DAR0704R	Cneoformans het			4	heteroresistant	HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0704R
+DAR0715C1	Cneoformans het			15		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0715C1
+DAR0715C2	Cneoformans het			15		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0715C2
+DAR0801	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0801
+DAR0801R1	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0801R1
+DAR0801R2	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0801R2
+DAR0815	Cneoformans het			15		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0815
+DAR0815R1	Cneoformans het			15	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0815R1
+DAR0815R2	Cneoformans het			15	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0815R2
+DAR0901	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0901
+DAR0901R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0901R
+DAR0914	Cneoformans het			14		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR0914
+DAR1001	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1001
+DAR1001R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1001R
+DAR1011	Cneoformans het			11		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1011
+DAR1101	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1101
+DAR1101R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1101R
+DAR1107	Cneoformans het			7		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1107
+DAR1301	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1301
+DAR1301R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1301R
+DAR1401	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1401
+DAR1401R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1401R
+DAR1405	Cneoformans het			5		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1405
+DAR1501	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1501
+DAR1501R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1501R
+DAR1513	Cneoformans het			13		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1513
+DAR1513R1	Cneoformans het			13	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1513R1
+DAR1513R2	Cneoformans het			13	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1513R2
+DAR1601	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1601
+DAR1601R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1601R
+DAR1701	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1701
+DAR1703R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1703R
+DAR1717	Cneoformans het			17		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC	Cryptococcus neoformans	Cryptococcus neoformans DAR1717
+DAR1801	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC and 5FC	Cryptococcus neoformans	Cryptococcus neoformans DAR1801
+DAR1801R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC and 5FC	Cryptococcus neoformans	Cryptococcus neoformans DAR1801R
+DAR1805	Cneoformans het			5		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC and 5FC	Cryptococcus neoformans	Cryptococcus neoformans DAR1805
+DAR1901	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC and 5FC	Cryptococcus neoformans	Cryptococcus neoformans DAR1901
+DAR1901R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Amana Hospital	FLC and 5FC	Cryptococcus neoformans	Cryptococcus neoformans DAR1901R
+DAR1914	Cneoformans het			14		HIV+	Lumbar punctures	Tanzania	Mwananyamala Hospital	FLC and 5FC	Cryptococcus neoformans	Cryptococcus neoformans DAR1914
+DAR2101	Cneoformans het			2		HIV+	Lumbar punctures	Tanzania	Mwananyamala Hospital	FLC and 5FC	Cryptococcus neoformans	Cryptococcus neoformans DAR2101
+DAR2101R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Mwananyamala Hospital	FLC and 5FC	Cryptococcus neoformans	Cryptococcus neoformans DAR2101R
+DAR2301	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Mwananyamala Hospital	FLC and 5FC	Cryptococcus neoformans	Cryptococcus neoformans DAR2301
+DAR2301R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Mwananyamala Hospital	FLC and 5FC	Cryptococcus neoformans	Cryptococcus neoformans DAR2301R
+DAR2401	Cneoformans het			1		HIV+	Lumbar punctures	Tanzania	Mwananyamala Hospital	FLC and 5FC	Cryptococcus neoformans	Cryptococcus neoformans DAR2401
+DAR2401R	Cneoformans het			1	heteroresistant	HIV+	Lumbar punctures	Tanzania	Mwananyamala Hospital	FLC and 5FC	Cryptococcus neoformans	Cryptococcus neoformans DAR2401R
+TAU02356	Cneoformans het			n/a	Lab strain	n/a	n/a	n/a	n/a	n/a	Cryptococcus neoformans	Cryptococcus neoformans TAU02356
+TAU1501	Cneoformans het			n/a	Lab strain	n/a	n/a	n/a	n/a	n/a	Cryptococcus neoformans	Cryptococcus neoformans TAU1501
+TAU190	Cneoformans het			n/a	Lab strain	n/a	n/a	n/a	n/a	n/a	Cryptococcus neoformans	Cryptococcus neoformans TAU190
