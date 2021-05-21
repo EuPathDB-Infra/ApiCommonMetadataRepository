@@ -1,0 +1,52 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [specimen]	Characteristics [country]	specimen collection year	Characteristics [city]	Characteristics [fungus organism]	Characteristics [fungal strain]
+B10441	SNPs C. haemulonii			Fish CBS 5149	USA	1962	Florida	Candida haemulonis	Candida haemulonis B10441
+B11786	SNPs C. haemulonii			Blood	Colombia	2016		Candida haemulonis	Candida haemulonis B11786
+B11792	SNPs C. haemulonii			Blood	Colombia	2016		Candida haemulonis	Candida haemulonis B11792
+B11798	SNPs C. haemulonii			Blood	Colombia	2016		Candida haemulonis	Candida haemulonis B11798
+B11803	SNPs C. haemulonii			Blood	Colombia	2016		Candida haemulonis	Candida haemulonis B11803
+B11898	SNPs C. haemulonii			Wound	Israel	2014		Candida haemulonis	Candida haemulonis B11898
+B11899	SNPs C. haemulonii			Wound	Israel	2015		Candida haemulonis	Candida haemulonis B11899
+B11900	SNPs C. haemulonii			Wound	Israel	2015		Candida haemulonis	Candida haemulonis B11900
+B12068	SNPs C. haemulonii			Bronchial Wash	USA	2018	Alabama	Candida haemulonis	Candida haemulonis B12068
+B12109	SNPs C. haemulonii			Blood	Venezuela	2011		Candida haemulonis	Candida haemulonis B12109
+B12112	SNPs C. haemulonii			Blood	Venezuela	2012		Candida haemulonis	Candida haemulonis B12112
+B12126	SNPs C. haemulonii			Blood	Venezuela	2013		Candida haemulonis	Candida haemulonis B12126
+B12127	SNPs C. haemulonii			Blood	Venezuela	2014		Candida haemulonis	Candida haemulonis B12127
+B12128	SNPs C. haemulonii			Blood	Venezuela	2014		Candida haemulonis	Candida haemulonis B12128
+B12129	SNPs C. haemulonii			Blood	Venezuela	2014		Candida haemulonis	Candida haemulonis B12129
+B12185	SNPs C. haemulonii			Blood	Venezuela	2016		Candida haemulonis	Candida haemulonis B12185
+B12201	SNPs C. haemulonii			Foot	USA	2016	Michigan	Candida haemulonis	Candida haemulonis B12201
+B12343	SNPs C. haemulonii			Wound	USA	2016	Georgia	Candida haemulonis	Candida haemulonis B12343
+B12615	SNPs C. haemulonii			Wound (big toe)	USA	2017	 Indiana	Candida haemulonis	Candida haemulonis B12615
+B12643	SNPs C. haemulonii			Wound	USA	2017	Washington	Candida haemulonis	Candida haemulonis B12643
+B12989	SNPs C. haemulonii			Foot	USA	2017	Wisconsin	Candida haemulonis	Candida haemulonis B12989
+B13065	SNPs C. haemulonii			Vaginal secretion	Panama	2016		Candida haemulonis	Candida haemulonis B13065
+B13067	SNPs C. haemulonii			Toenail	Panama	2017		Candida haemulonis	Candida haemulonis B13067
+B13068	SNPs C. haemulonii			Blood	Panama	2017		Candida haemulonis	Candida haemulonis B13068
+B13081	SNPs C. haemulonii			Catheter	Panama	2017		Candida haemulonis	Candida haemulonis B13081
+B13273	SNPs C. haemulonii			Bone	USA	2017	Wisconsin	Candida haemulonis	Candida haemulonis B13273
+B13444	SNPs C. haemulonii			Wound	USA	2017	Tennessee	Candida haemulonis	Candida haemulonis B13444
+B13704	SNPs C. haemulonii			Bone	USA	2017	Florida	Candida haemulonis	Candida haemulonis B13704
+B13909	SNPs C. haemulonii			Blood	USA	2017	Virginia	Candida haemulonis	Candida haemulonis B13909
+B15318	SNPs C. haemulonii			Unknown	USA	2018	Hawaii	Candida haemulonis	Candida haemulonis B15318
+B15393	SNPs C. haemulonii			Blood	Colombia	2016		Candida haemulonis	Candida haemulonis B15393
+B15394	SNPs C. haemulonii			Blood	Colombia	2016		Candida haemulonis	Candida haemulonis B15394
+B15400	SNPs C. haemulonii			Urine	Colombia	2017		Candida haemulonis	Candida haemulonis B15400
+B15401	SNPs C. haemulonii			Nail	Colombia	2017		Candida haemulonis	Candida haemulonis B15401
+B15406	SNPs C. haemulonii			Blood	Colombia	2017		Candida haemulonis	Candida haemulonis B15406
+B15408	SNPs C. haemulonii			Peritoneal fluid	Colombia	2017		Candida haemulonis	Candida haemulonis B15408
+B15409	SNPs C. haemulonii			Blood	Colombia	2018		Candida haemulonis	Candida haemulonis B15409
+B16299	SNPs C. haemulonii			Foot tissue	USA	2018	Florida	Candida haemulonis	Candida haemulonis B16299
+B09383	SNPs C. haemulonii			Blood	USA	2011	Tennessee	Candida haemulonis	Candida haemulonis B09383
+B10440	SNPs C. haemulonii			Foot ulcer	USA	1990	Alabama	Candida haemulonis	Candida haemulonis B10440
+B11839	SNPs C. haemulonii			Blood	USA	2016	Mississippi	Candida haemulonis	Candida haemulonis B11839
+B12075	SNPs C. haemulonii			Scalp Tissue	USA	2016	Kentucky	Candida haemulonis	Candida haemulonis B12075
+B12111	SNPs C. haemulonii			Blood		2011	Venezuela	Candida haemulonis	Candida haemulonis B12111
+B12240	SNPs C. haemulonii			Foot	USA	2016	Florida	Candida haemulonis	Candida haemulonis B12240
+B12437	SNPs C. haemulonii			Unknown			Guatemala	Candida haemulonis	Candida haemulonis B12437
+B12484	SNPs C. haemulonii			Skin	USA	2017	Florida	Candida haemulonis	Candida haemulonis B12484
+B12492	SNPs C. haemulonii			Ear fluid	USA	2017	Florida	Candida haemulonis	Candida haemulonis B12492
+B12539	SNPs C. haemulonii			Skin	USA	2017	Florida	Candida haemulonis	Candida haemulonis B12539
+B12593	SNPs C. haemulonii			Wound (foot)	USA	2017	Florida	Candida haemulonis	Candida haemulonis B12593
+B12594	SNPs C. haemulonii			Wound (toe)	USA	2017	Mississippi	Candida haemulonis	Candida haemulonis B12594
+B12613	SNPs C. haemulonii			Wound (toe)	USA	2017	Florida	Candida haemulonis	Candida haemulonis B12613

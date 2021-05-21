@@ -1,0 +1,7 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [lab host]	Characteristics [GeographicLocation]	Characteristics[specimen]	Characteristics [Parasite Organism]	specimen collection year	Characteristics [Parasite strain]
+ATCCPRA99_reference_reads	Six Babesia microti isolates			Homo sapiens	USA	blood smear	Babesia microti	1973	Babesia microti ATCCPRA99_reference_reads
+Naushon_reference_reads	Six Babesia microti isolates			Ixodes scapularis	USA	blood smear	Babesia microti	1986	Babesia microti Naushon_reference_reads
+GI_reference_reads	Six Babesia microti isolates			Homo sapiens	USA	blood smear	Babesia microti	1981	Babesia microti GI_reference_reads
+NanHs2011N11-50_reference_reads	Six Babesia microti isolates			Homo sapiens	USA	blood smear	Babesia microti	2011	Babesia microti NanHs2011N11-50_reference_reads
+GreenwichYaleLab1_reference_reads	Six Babesia microti isolates			Peromyscus leucopus	USA	blood smear	Babesia microti	2002	Babesia microti GreenwichYaleLab1_reference_reads
+ATCC30222_reference_reads	Six Babesia microti isolates			Thamnomys surdaster	Democratic Republic of the Congo	blood smear	Babesia microti	1950	Babesia microti ATCC30222_reference_reads

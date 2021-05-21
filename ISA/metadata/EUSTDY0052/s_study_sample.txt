@@ -1,10 +1,10 @@
-Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [organism]	Characteristics [health_status]	Characteristics [age]	Characteristics [Gender]	Characteristics [body_temperature]	Characteristics [parasite organism]	Characteristics [parasite_density_by_microscope]	Characteristics [lab host]	specimen collector	Characteristics [specimen]
-M15				2010	Madagascar		human	malaria				Plasmodium vivax			Didier Menard et al.	blood
-M08				2010	Madagascar	Ampasimpotsy	human	malaria	3 years	Female	37.6	Plasmodium vivax	18,000			blood
-M19				2010	Madagascar	Ampasimpotsy	human	malaria	3 years	Female	37.7	Plasmodium vivax	8,000			blood
-C15				2011	Cambodia	Takavit	human	malaria	20 years	male	39	Plasmodium vivax	50,000			blood
-C08				2011	Cambodia	Pailin	human	malaria	20 years	male	37.2	Plasmodium vivax	20,000			blood
-C127				2011	Cambodia	Takavit	human	malaria	14 years	male	40	Plasmodium vivax	20,000			blood
-Belem				1980	Brazil	Belem, Brazil	human	malaria				Plasmodium vivax		squirrel monkey	Mercia de Arruda	blood
-Sal1				1971	El Salvador	San Salvador	human	malaria				Plasmodium vivax		monkey	Central America Malaria Research Station	blood
-Chesson				1944	Papua New Guinea	New Guinea	human	malaria				Plasmodium vivax		Aotus monkey	Ehrman et al.	blood
+Name	Description	SourceMTOverride	SampleMTOverride	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [organism]	Characteristics [health_status]	Characteristics [age]	Characteristics [Gender]	Characteristics [body_temperature]	Characteristics [parasite organism]	Characteristics [parasite_density_by_microscope]	Characteristics [lab host]	specimen collector	Characteristics [specimen]	Characteristics[parasite strain]
+M15				2010	Madagascar		human	malaria				Plasmodium vivax			Didier Menard et al.	blood	Plasmodium vivax M15
+M08				2010	Madagascar	Ampasimpotsy	human	malaria	3 years	Female	37.6	Plasmodium vivax	"18,000"			blood	Plasmodium vivax M08
+M19				2010	Madagascar	Ampasimpotsy	human	malaria	3 years	Female	37.7	Plasmodium vivax	"8,000"			blood	Plasmodium vivax M19
+C15				2011	Cambodia	Takavit	human	malaria	20 years	male	39	Plasmodium vivax	"50,000"			blood	Plasmodium vivax C15
+C08				2011	Cambodia	Pailin	human	malaria	20 years	male	37.2	Plasmodium vivax	"20,000"			blood	Plasmodium vivax C08
+C127				2011	Cambodia	Takavit	human	malaria	14 years	male	40	Plasmodium vivax	"20,000"			blood	Plasmodium vivax C127
+Belem				1980	Brazil	"Belem, Brazil"	human	malaria				Plasmodium vivax		squirrel monkey	Mercia de Arruda	blood	Plasmodium vivax Belem
+Sal1				1971	El Salvador	San Salvador	human	malaria				Plasmodium vivax		monkey	Central America Malaria Research Station	blood	Plasmodium vivax Sal1
+Chesson				1944	Papua New Guinea	New Guinea	human	malaria				Plasmodium vivax		Aotus monkey	Ehrman et al.	blood	Plasmodium vivax Chesson

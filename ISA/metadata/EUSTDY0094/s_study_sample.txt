@@ -5,6 +5,7 @@ Zc04	Zambian Cng Isolate			VNB-II	Zambia	alpha	Homo sapiens	Clinical	Cryptococcu
 Zc05	Zambian Cng Isolate			VNI	Zambia	alpha	Homo sapiens	Clinical	Cryptococcus neoformans	Cryptococcus neoformans Zc05
 Zc06	Zambian Cng Isolate			VNII	Zambia	alpha	Homo sapiens	Clinical	Cryptococcus neoformans	Cryptococcus neoformans Zc06
 Zc07	Zambian Cng Isolate			VNB-II	Zambia	alpha	Homo sapiens	Clinical	Cryptococcus neoformans	Cryptococcus neoformans Zc07
+Zc08	Zambian Cng Isolate			VNI	Zambia	alpha	Homo sapiens	Clinical	Cryptococcus neoformans	Cryptococcus neoformans Zc08
 Zc10	Zambian Cng Isolate			VNI	Zambia	alpha	Homo sapiens	Clinical	Cryptococcus neoformans	Cryptococcus neoformans Zc10
 Zc12	Zambian Cng Isolate			VNI	Zambia	alpha	Homo sapiens	Clinical	Cryptococcus neoformans	Cryptococcus neoformans Zc12
 Zc13	Zambian Cng Isolate			VNI	Zambia	alpha	Homo sapiens	Clinical	Cryptococcus neoformans	Cryptococcus neoformans Zc13

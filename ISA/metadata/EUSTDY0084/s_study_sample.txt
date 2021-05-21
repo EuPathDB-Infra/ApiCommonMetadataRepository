@@ -1,12 +1,12 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	specimen collection year	Characteristics [parasite organism]	Characteristics [organism]	Characteristics [host_common_name]
-Pvl01	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
-Pvl02	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
-Pvl03	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
-Pvl04	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
-Pvl05	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
-Pvl06	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
-Pvl07	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
-Pvl08	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
-Pvl09	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Anopheles sp.	mosquitoes
-Pvl10	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
-Pvl11	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	specimen collection year	Characteristics [parasite organism]	Characteristics [organism]	Characteristics [host_common_name]	Characteristics[parasite strain]
+Pvl01	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee	Plasmodium vivax-like Pvl01
+Pvl02	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee	Plasmodium vivax-like Pvl02
+Pvl03	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee	Plasmodium vivax-like Pvl03
+Pvl04	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee	Plasmodium vivax-like Pvl04
+Pvl05	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee	Plasmodium vivax-like Pvl05
+Pvl06	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee	Plasmodium vivax-like Pvl06
+Pvl07	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee	Plasmodium vivax-like Pvl07
+Pvl08	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee	Plasmodium vivax-like Pvl08
+Pvl09	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Anopheles sp.	mosquitoes	Plasmodium vivax-like Pvl09
+Pvl10	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2013	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee	Plasmodium vivax-like Pvl10
+Pvl11	Plasmodium vivax-like SNPs			Gabon	The Lekedi National Park	2012	Plasmodium vivax-like	Pan troglodytes troglodytes	Central chimpanzee	Plasmodium vivax-like Pvl11
