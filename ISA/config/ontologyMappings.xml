@@ -360,7 +360,7 @@
   <ontologyTerm source_id="EUPATH_0000032" type="characteristicQualifier" parent="Source">
     <name>date_of_birth</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000516" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="HP_0003111" type="characteristicQualifier" parent="Source">
     <name>electrolyte_disturbances</name>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000518" type="characteristicQualifier" parent="Source">
@@ -623,7 +623,7 @@
     <name>technical replicate</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="EUPATH_0000573" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="APOLLO_SV_00000232" type="characteristicQualifier" parent="Sample">
     <name>Fingerprint Clade</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000574" type="characteristicQualifier" parent="Sample">
