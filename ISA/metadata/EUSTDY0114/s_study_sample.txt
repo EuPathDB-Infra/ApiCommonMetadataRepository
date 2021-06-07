@@ -1,0 +1,2 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [host_common_name]	Characteristics [country]	Characteristics [city]	Characteristics [parasite organism]	Characteristics [parasite strain]
+503_s	Trypanosoma brucei RUMP 503			Cow	Kenya	Nyanza	Trypanosoma brucei	Trypanosoma brucei 503_s
