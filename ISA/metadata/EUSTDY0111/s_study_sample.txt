@@ -146,7 +146,7 @@ B11892	Aligned genome sequence reads - Candida auris clinical isolates			15-Oct-
 B11855	Aligned genome sequence reads - Candida auris clinical isolates			8-Aug-16	Colombia	South America	 Bogota	Homo sapiens	secretion	Candida infection or colonization	Candida auris	Candida auris B11855
 B11854	Aligned genome sequence reads - Candida auris clinical isolates			28-Jul-16	Colombia	South America	 Bogota	Homo sapiens	blood	Candida infection or colonization	Candida auris	Candida auris B11854
 B11809	Aligned genome sequence reads - Candida auris clinical isolates			15-Jan-04	South Korea	Asia		Homo sapiens	Auditory canal	Candida infection or colonization	Candida auris	Candida auris B11809
-B11808	Aligned genome sequence reads - Candida auris clinical isolates			15-Jan-04	South Korea	Asia		Homo sapiens	Auditory canal	Candida infection or colonization	Candida auris	Candida auris B11808
+B11808_resequence1	Aligned genome sequence reads - Candida auris clinical isolates			15-Jan-04	South Korea	Asia		Homo sapiens	Auditory canal	Candida infection or colonization	Candida auris	Candida auris B11808_resequence1
 B11796	Aligned genome sequence reads - Candida auris clinical isolates			12-Mar-16	Colombia	South America	 Barranquilla	Homo sapiens	blood	Candidemia	Candida auris	Candida auris B11796
 AA-214	Aligned genome sequence reads - Candida auris clinical isolates			15-Nov-16	Spain	Europe	 Valencia	Homo sapiens	blood	Candidemia	Candida auris	Candida auris AA-214
 AA-200	Aligned genome sequence reads - Candida auris clinical isolates			28-Aug-16	Spain	Europe	 Valencia	Homo sapiens	blood	Candidemia	Candida auris	Candida auris AA-200
@@ -159,4 +159,4 @@ B13916	Aligned genome sequence reads - Candida auris clinical isolates			11-Sep-
 B13916	Aligned genome sequence reads - Candida auris clinical isolates			11-Sep-17	United Arab Emirates	Asia		Homo sapiens	blood	Candidemia	Candida auris	Candida auris B13916
 B12037	Aligned genome sequence reads - Candida auris clinical isolates			18-Oct-12	Canada	North America	 Quebec	Homo sapiens	ear fluid	Candida infection or colonization	Candida auris	Candida auris B12037
 B13463	Aligned genome sequence reads - Candida auris clinical isolates			7-Apr-14	Canada	North America	 Alberta	Homo sapiens	ear fluid	Candida infection or colonization	Candida auris	Candida auris B13463
-B11809	Aligned genome sequence reads - Candida auris clinical isolates			15-Jan-04	South Korea	Asia		Homo sapiens	Auditory canal	Candida infection or colonization	Candida auris	Candida auris B11809
+B11809_resequence1	Aligned genome sequence reads - Candida auris clinical isolates			15-Jan-04	South Korea	Asia		Homo sapiens	Auditory canal	Candida infection or colonization	Candida auris	Candida auris B11809_resequence1
