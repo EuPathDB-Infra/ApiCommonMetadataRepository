@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [parasite organism]	Characteristics [parasite strain]	Characteristics [country]	Characteristics [study_type]	Characteristics [continent]	Characteristics [GeographicLocation]
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [parasite organism]	Characteristics [parasite strain]	Characteristics [country]	Characteristics [study_type]	Characteristics [continent]	Characteristics [city]
 CpBunchgrass	WGS of 4 laboratory strains.			Cryptosporidium parvum	Cryptosporidium parvum CpBunchgrass	USA	Bunchgrass Farms	North America	Deary ID
 CpSterling	WGS of 4 laboratory strains.			Cryptosporidium parvum	Cryptosporidium parvum CpSterling	USA	Sterling Farms	North America	Tucson AZ
 CpWA5DBov99	WGS of 4 laboratory strains.			Cryptosporidium parvum	Cryptosporidium parvum CpWA5DBov99	USA	Farm 5D	North America	Pullman WA
