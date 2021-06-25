@@ -1,0 +1,2 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [parasite organism]	Characteristics [parasite strain]
+PCSEF	Plasmodium chabaudi resequenced strain			Plasmodium chabaudi	Plasmodium chabaudi esekanensis EF

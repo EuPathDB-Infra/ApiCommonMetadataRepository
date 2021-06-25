@@ -1,0 +1,6 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [parasite organism]	Characteristics [parasite strain]
+py_yoelii_33X	Plasmodium chabaudi resequenced strain			Plasmodium yoelii yoelii 33X
+py_yoelii_AR	Plasmodium chabaudi resequenced strain			Plasmodium yoelii yoelii AR
+py_yoelii_CN	Plasmodium chabaudi resequenced strain			Plasmodium yoelii yoelii CN
+py_nigeriensis_D	Plasmodium chabaudi resequenced strain			Plasmodium yoelii nigeriensis D
+py_cameronensis_EL	Plasmodium chabaudi resequenced strain			Plasmodium yoelii cameronensis EL
