@@ -43,9 +43,9 @@ B13917	Aligned genome sequence reads - Candida auris clinical isolates			15-Sep-
 B13916	Aligned genome sequence reads - Candida auris clinical isolates			11-Sep-17	United Arab Emirates	Asia		Homo sapiens	blood	Candidemia	Candida auris	Candida auris B13916
 B13464	Aligned genome sequence reads - Candida auris clinical isolates			15-May-17	Canada	North America	 Manitoba	Homo sapiens	ear fluid	Candida infection or colonization	Candida auris	Candida auris B13464
 B13463	Aligned genome sequence reads - Candida auris clinical isolates			7-Apr-14	Canada	North America	 Alberta	Homo sapiens	ear fluid	Candida infection or colonization	Candida auris	Candida auris B13463
-B13282	Aligned genome sequence reads - Candida auris clinical isolates			4-May-17	USA	North America	 New York	Homo sapiens	blood	Candidemia	Candida auris	Candida auris B13282
-B13279	Aligned genome sequence reads - Candida auris clinical isolates			22-Apr-17	USA	North America	 New York	Homo sapiens	sputum	Candida infection or colonization	Candida auris	Candida auris B13279
-B13277	Aligned genome sequence reads - Candida auris clinical isolates			4-Apr-17	USA	North America	 New York	Homo sapiens	bile	Candida infection or colonization	Candida auris	Candida auris B13277
+B13282	Aligned genome sequence reads - Candida auris clinical isolates			4-May-17	USA	North America	New York	Homo sapiens	blood	Candidemia	Candida auris	Candida auris B13282
+B13279	Aligned genome sequence reads - Candida auris clinical isolates			22-Apr-17	USA	North America	New York	Homo sapiens	sputum	Candida infection or colonization	Candida auris	Candida auris B13279
+B13277	Aligned genome sequence reads - Candida auris clinical isolates			4-Apr-17	USA	North America	New York	Homo sapiens	bile	Candida infection or colonization	Candida auris	Candida auris B13277
 B12135	Aligned genome sequence reads - Candida auris clinical isolates			18-Jul-12	Venezuela	South America	 Maracaibo	Homo sapiens	wound	Candida infection or colonization	Candida auris	Candida auris B12135
 B12134	Aligned genome sequence reads - Candida auris clinical isolates			10-Dec-12	Venezuela	South America	 Maracaibo	Homo sapiens	urine	Candida infection or colonization	Candida auris	Candida auris B12134
 B12133	Aligned genome sequence reads - Candida auris clinical isolates			17-Apr-12	Venezuela	South America	 Maracaibo	Homo sapiens	urine	Candida infection or colonization	Candida auris	Candida auris B12133
@@ -67,10 +67,10 @@ B12104	Aligned genome sequence reads - Candida auris clinical isolates			17-Aug-
 B12103	Aligned genome sequence reads - Candida auris clinical isolates			25-Jul-16	Panama	North America	 Panama City	Homo sapiens	urine	Candida infection or colonization	Candida auris	Candida auris B12103
 B12102	Aligned genome sequence reads - Candida auris clinical isolates			7-Sep-16	Panama	North America	 Panama City	Homo sapiens	urine	Candida infection or colonization	Candida auris	Candida auris B12102
 B12101	Aligned genome sequence reads - Candida auris clinical isolates			22-Sep-16	Panama	North America	 Panama City	Homo sapiens	urine	Candida infection or colonization	Candida auris	Candida auris B12101
-B13276	Aligned genome sequence reads - Candida auris clinical isolates			9-Apr-17	USA	North America	 New York	Homo sapiens	blood	Candidemia	Candida auris	Candida auris B13276
-B13274	Aligned genome sequence reads - Candida auris clinical isolates			18-Apr-17	USA	North America	 New York	Homo sapiens	urine	Candida infection or colonization	Candida auris	Candida auris B13274
-B12802	Aligned genome sequence reads - Candida auris clinical isolates			12-Apr-17	USA	North America	 New York	Homo sapiens	sputum	Candida infection or colonization	Candida auris	Candida auris B12802
-B12421	Aligned genome sequence reads - Candida auris clinical isolates			18-Nov-16	USA	North America	 New York	Homo sapiens	blood	Candidemia	Candida auris	Candida auris B12421
+B13276	Aligned genome sequence reads - Candida auris clinical isolates			9-Apr-17	USA	North America	New York	Homo sapiens	blood	Candidemia	Candida auris	Candida auris B13276
+B13274	Aligned genome sequence reads - Candida auris clinical isolates			18-Apr-17	USA	North America	New York	Homo sapiens	urine	Candida infection or colonization	Candida auris	Candida auris B13274
+B12802	Aligned genome sequence reads - Candida auris clinical isolates			12-Apr-17	USA	North America	New York	Homo sapiens	sputum	Candida infection or colonization	Candida auris	Candida auris B12802
+B12421	Aligned genome sequence reads - Candida auris clinical isolates			18-Nov-16	USA	North America	New York	Homo sapiens	blood	Candidemia	Candida auris	Candida auris B12421
 B12284	Aligned genome sequence reads - Candida auris clinical isolates			15-Dec-16	Colombia	South America	 Bogota	Homo sapiens	axilla swab	Candida infection or colonization	Candida auris	Candida auris B12284
 B12279	Aligned genome sequence reads - Candida auris clinical isolates			30-Sep-16	Colombia	South America	 Bogota	Homo sapiens	rectum swab	Candida infection or colonization	Candida auris	Candida auris B12279
 B12277	Aligned genome sequence reads - Candida auris clinical isolates			15-Aug-15	Colombia	South America	 Santa Marta	Homo sapiens	blood	Candidemia	Candida auris	Candida auris B12277

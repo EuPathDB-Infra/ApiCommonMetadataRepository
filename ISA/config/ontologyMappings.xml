@@ -1023,6 +1023,9 @@
   <ontologyTerm source_id="GAZ_00002459" type="characteristicValue" parent="characteristicQualifier">
     <name>USA</name>
     <name>United States of America</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00005279" type="characteristicValue" parent="characteristicQualifier">
+    <name>Saudi Arabia</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002912" type="characteristicValue" parent="characteristicQualifier">
     <name>Ecuador</name>
@@ -1036,6 +1039,10 @@
   <ontologyTerm source_id="GAZ_00000553" type="characteristicValue" parent="characteristicQualifier">
     <name>South Africa</name>
     <name>S. Africa</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000459" type="characteristicValue" parent="characteristicQualifier">
+    <name>South America</name>
+    <name>S. America</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002476" type="characteristicValue" parent="characteristicQualifier">
     <name>Israel</name>
@@ -1288,7 +1295,37 @@
   <ontologyTerm source_id="GAZ_00000465" type="characteristicValue" parent="characteristicQualifier">
     <name>Asia</name>
   </ontologyTerm>
-
+<!--State-->
+  <ontologyTerm source_id="NCIT_C43468" type="characteristicValue" parent="characteristicQualifier">
+    <name>New York</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C43483" type="characteristicValue" parent="characteristicQualifier">
+    <name>Indiana</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C43467" type="characteristicValue" parent="characteristicQualifier">
+    <name>New Jersey</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C43463" type="characteristicValue" parent="characteristicQualifier">
+    <name>Massachusetts</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C43471" type="characteristicValue" parent="characteristicQualifier">
+    <name>Maryland</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C43491" type="characteristicValue" parent="characteristicQualifier">
+    <name>Illinois</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C43466" type="characteristicValue" parent="characteristicQualifier">
+    <name>Connecticut</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C43509" type="characteristicValue" parent="characteristicQualifier">
+    <name>California</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C43478" type="characteristicValue" parent="characteristicQualifier">
+    <name>Florida</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C43497" type="characteristicValue" parent="characteristicQualifier">
+    <name>Oklahoma</name>
+  </ontologyTerm>
 
 <!-- parasite lifecycle stage -->
   <ontologyTerm source_id="OPL_0000057" type="characteristicValue" parent="characteristicQualifier">
