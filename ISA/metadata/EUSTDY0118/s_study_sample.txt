@@ -3,7 +3,7 @@ Pv_vinckei_CY	Plasmodium vinckei resequenced strains			Plasmodium vinckei	Plasmo
 Pv_brucechwatti_DA	Plasmodium vinckei resequenced strains			Plasmodium vinckei	Plasmodium vinckei brucechwatti DA
 Pv_brucechwatti_DB	Plasmodium vinckei resequenced strains			Plasmodium vinckei	Plasmodium vinckei brucechwatti DB
 Pv_lentum_DE	Plasmodium vinckei resequenced strains			Plasmodium vinckei	Plasmodium vinckei lentum DE
-Pv_lentum_DS	Plasmodium vinckei resequenced strains			Plasmodium vinckei	smodium vinckei lentum DS
+Pv_lentum_DS	Plasmodium vinckei resequenced strains			Plasmodium vinckei	Plasmodium vinckei lentum DS
 Pv_petteri_CR	Plasmodium vinckei resequenced strains			Plasmodium vinckei	Plasmodium vinckei petteri CR
 Pv_baforti_EH	Plasmodium vinckei resequenced strains			Plasmodium vinckei	Plasmodium vinckei baforti EH
 Pv_baforti_EL	Plasmodium vinckei resequenced strains			Plasmodium vinckei	Plasmodium vinckei baforti EL
