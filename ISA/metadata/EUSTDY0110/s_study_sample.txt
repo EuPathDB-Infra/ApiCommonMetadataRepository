@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SourceMTOverride	Characteristics[treatment]	Characteristics[parasite phenotype]	Characteristics [health_status]	Characteristics [specimen]	Characteristics[country]	specimen collector	Characteristics [fungus organism]	Characteristics [fungal strain]
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics[treatment]	Characteristics[fungal phenotype]	Characteristics [health_status]	Characteristics [specimen]	Characteristics[country]	specimen collector	Characteristics [fungus organism]	Characteristics [fungal strain]
 DAR0101	Cneoformans het			FLC - 1 day		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	Cryptococcus neoformans	Cryptococcus neoformans DAR0101
 DAR0101R	Cneoformans het			FLC - 1 day	heteroresistant	HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	Cryptococcus neoformans	Cryptococcus neoformans DAR0101R
 DAR0122	Cneoformans het			FLC - 22 days		HIV+	Lumbar punctures	Tanzania	Muhimbili Hospital	Cryptococcus neoformans	Cryptococcus neoformans DAR0122
