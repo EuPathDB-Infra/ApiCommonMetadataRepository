@@ -550,6 +550,9 @@
   <ontologyTerm source_id="EUPATH_0000758" type="characteristicQualifier" parent="Sample">
     <name>fungal genotype</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005035" type="characteristicQualifier" parent="Sample">
+    <name>fungal phenotype</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000757" type="characteristicQualifier" parent="Sample">
     <name>parasite phenotype</name>
   </ontologyTerm>
