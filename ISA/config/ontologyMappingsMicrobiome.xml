@@ -1618,6 +1618,14 @@ r">
   <ontologyTerm source_id="UBERON_0001459" type="characteristicValue" parent="characteristicQualifier">  
     <name>skin of external ear</name>
   </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0001002" type="characteristicValue" parent="characteristicQualifier">  
+    <name>cuticle</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0013702" type="characteristicValue" parent="characteristicQualifier">  
+    <name>internal organs</name>
+    <name>whole body</name>
+    <name>body proper</name>
+  </ontologyTerm>
   <!--units-->
   <ontologyTerm source_id="UO_0000036" type="unit">
     <name>year</name>
