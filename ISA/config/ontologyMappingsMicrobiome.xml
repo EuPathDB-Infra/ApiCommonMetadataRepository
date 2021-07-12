@@ -1354,6 +1354,9 @@
   <ontologyTerm source_id="GAZ_00002699" type="characteristicValue" parent="characteristicQualifier">
     <name>Norway</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002936" type="characteristicValue" parent="characteristicQualifier">
+    <name>Guatemala</name>
+  </ontologyTerm>
 
   <!-- UBERON terms -->
   <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
