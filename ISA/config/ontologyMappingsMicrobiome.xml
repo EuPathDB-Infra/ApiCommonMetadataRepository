@@ -872,14 +872,17 @@
   <ontologyTerm source_id="EUPATH_0031068" type="characteristicQualifier" parent="Source">
     <name>breastmilk</name>
     <name>Breastmilk in diet</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="FOODON_03303130" type="characteristicQualifier" parent="Source">
     <name>formula</name>
     <name>Formula in diet</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009244" type="characteristicQualifier" parent="Source">
     <name>table food</name>
     <name>Table food in diet</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="ECTO_9002101" type="characteristicQualifier" parent="Source">
     <name>Pyrethroid insecticide exposure</name>
@@ -889,27 +892,29 @@
     <name>Body length (cm)</name>
     <name>Recumbent length (cm)</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0031068" type="characteristicQualifier" parent="Source">
-    <name>Breastmilk</name>
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009245" type="characteristicQualifier" parent="Source">
     <name>Fecal fat percentage</name>
     <name>Fecal fat %</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009246" type="characteristicQualifier" parent="Source">
     <name>Is low length</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009241" type="characteristicQualifier" parent="Source">
     <name>Is low weight</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="HP_0001738" type="characteristicQualifier" parent="Source">
     <name>Pancreatic insufficiency</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009247" type="characteristicQualifier" parent="Source">
     <name>Received acid blocker</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009248" type="characteristicQualifier" parent="Source">
     <name>Received protein pump inhibitor</name>
+    <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
 
 
@@ -1348,6 +1353,9 @@
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002699" type="characteristicValue" parent="characteristicQualifier">
     <name>Norway</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002936" type="characteristicValue" parent="characteristicQualifier">
+    <name>Guatemala</name>
   </ontologyTerm>
 
   <!-- UBERON terms -->
