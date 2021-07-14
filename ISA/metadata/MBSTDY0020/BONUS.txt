@@ -47,7 +47,7 @@ name	description	cohort	subject_id	age_at_collection_months	Host weight (kg)	Bod
 4-14-1010-05	Control subject 4-14-1010, 5 months	Control	4-14-1010	5	5.954	59.1	Y	N		N	66.67								N	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1010-10	Control subject 4-14-1010, 10 months	Control	4-14-1010	10	7.258	64.8	Y	N		N	25	253.6							N	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1010-15	Control subject 4-14-1010, 15 months	Control	4-14-1010	15	7.938	69.2	Y	N		N	25	107.2							N	UBERON:feces	colon	Human	Stool	colon	Human
-4-14-1010-20	Control subject 4-14-1010, 20 months	Control	4-14-1010	20		NA					0	15.6							N	UBERON:feces	colon	Human	Stool	colon	Human
+4-14-1010-20	Control subject 4-14-1010, 20 months	Control	4-14-1010	20							0	15.6							N	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1010-25	Control subject 4-14-1010, 25 months	Control	4-14-1010	25	9.696	76.8	N	Y			1	38.7							N	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1011-05	Control subject 4-14-1011, 5 months	Control	4-14-1011	5	5.36	60.3	Y	N		N	40								N	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1011-10	Control subject 4-14-1011, 10 months	Control	4-14-1011	10	6.32	67.3	Y	N		N									N	UBERON:feces	colon	Human	Stool	colon	Human
@@ -91,7 +91,7 @@ name	description	cohort	subject_id	age_at_collection_months	Host weight (kg)	Bod
 4-14-1021-05	Control subject 4-14-1021, 5 months	Control	4-14-1021	5	5.9	59.1	Y	Y		N	53.33	286.3							N	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1021-10	Control subject 4-14-1021, 10 months	Control	4-14-1021	10	7.14	64.8	Y	N		N	23.53	15.6							N	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1021-15	Control subject 4-14-1021, 15 months	Control	4-14-1021	15	8.08	71.1	Y	Y		N	14.29	15.6							N	UBERON:feces	colon	Human	Stool	colon	Human
-4-14-1021-20	Control subject 4-14-1021, 20 months	Control	4-14-1021	20		NA				N	1	15.6							N	UBERON:feces	colon	Human	Stool	colon	Human
+4-14-1021-20	Control subject 4-14-1021, 20 months	Control	4-14-1021	20						N	1	15.6							N	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1021-25	Control subject 4-14-1021, 25 months	Control	4-14-1021	25	10.064	79.4	N	Y		N	1	15.6							N	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1022-05	Control subject 4-14-1022, 5 months	Control	4-14-1022	5	5.046	55.2	N	Y		Y	66.67	89.5							N	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1022-10	Control subject 4-14-1022, 10 months	Control	4-14-1022	10	6.521	63.5	N	Y		Y	50	247.9							N	UBERON:feces	colon	Human	Stool	colon	Human
@@ -105,7 +105,7 @@ name	description	cohort	subject_id	age_at_collection_months	Host weight (kg)	Bod
 4-14-1023-25	Control subject 4-14-1023, 25 months	Control	4-14-1023	25	7.768	72.4	N	N		N	1	41.5							Y	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1024-05	Control subject 4-14-1024, 5 months	Control	4-14-1024	5	5.528	59.1	N	Y		N	1	73.4							Y	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1024-10	Control subject 4-14-1024, 10 months	Control	4-14-1024	10	6.577	61	N	Y		N									Y	UBERON:feces	colon	Human	Stool	colon	Human
-4-14-1024-15	Control subject 4-14-1024, 15 months	Control	4-14-1024	15		NA					33.33	22.6							Y	UBERON:feces	colon	Human	Stool	colon	Human
+4-14-1024-15	Control subject 4-14-1024, 15 months	Control	4-14-1024	15							33.33	22.6							Y	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1026-05	Control subject 4-14-1026, 5 months	Control	4-14-1026	5	5.216	55.9	N	Y		N		72.9							N	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1026-10	Control subject 4-14-1026, 10 months	Control	4-14-1026	10	7.371	63.5	N	Y		N		40.7							N	UBERON:feces	colon	Human	Stool	colon	Human
 4-14-1026-15	Control subject 4-14-1026, 15 months	Control	4-14-1026	15	8.335	69.2	N	Y		N	1	20.3							N	UBERON:feces	colon	Human	Stool	colon	Human
@@ -239,7 +239,7 @@ B069-M12	CF patient B069, 12 months	Cystic fibrosis	B069	12	11.4	74.5	N	Y	Y	N	46
 B071-M03	CF patient B071, 3 months	Cystic fibrosis	B071	3	5.2	56.5	N	Y	Y	Y	75	21.1	Male	N	N	Y	Homozygous F508del	Y	N	UBERON:feces	colon	Human	Stool	colon	Human
 B071-M04	CF patient B071, 4 months	Cystic fibrosis	B071	4	6.115	59.5	N	Y	Y	Y	71.43	111	Male	N	N	Y	Homozygous F508del	Y	N	UBERON:feces	colon	Human	Stool	colon	Human
 B071-M06	CF patient B071, 6 months	Cystic fibrosis	B071	6	8.33	65.1	N	Y	Y	Y	25	18	Male	N	N	Y	Homozygous F508del	Y	N	UBERON:feces	colon	Human	Stool	colon	Human
-B079-M02	CF patient B079, 2 months	Cystic fibrosis	B079	2		NA	N	Y	N	N	100	79	Female	N	Y	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
+B079-M02	CF patient B079, 2 months	Cystic fibrosis	B079	2			N	Y	N	N	100	79	Female	N	Y	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
 B079-M05	CF patient B079, 5 months	Cystic fibrosis	B079	5	5.835	62.1	N	Y	Y	N	62.5	58.3	Female	N	Y	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
 B079-M08	CF patient B079, 8 months	Cystic fibrosis	B079	8	6.95	68.15	N	Y	Y	N	28.57	50.6	Female	N	Y	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
 B079-M10	CF patient B079, 10 months	Cystic fibrosis	B079	10	7.81	72.15	N	Y	Y	N	71.43	290.7	Female	N	Y	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
@@ -833,7 +833,7 @@ B405-M08	CF patient B405, 8 months	Cystic fibrosis	B405	8	7	66	N	Y	N	Y	88.89	181
 B405-M10	CF patient B405, 10 months	Cystic fibrosis	B405	10	8.12	72.5	N	Y	Y	Y	61.54	75	Male	N	N	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
 B405-M12	CF patient B405, 12 months	Cystic fibrosis	B405	12	8.16	72.5	N	Y	Y	Y		69	Male	N	N	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
 B411-M04	CF patient B411, 4 months	Cystic fibrosis	B411	4	8.1	66.25	Y	N	N	N	83.33	434.8	Male			Y	Homozygous F508del	N	Y	UBERON:feces	colon	Human	Stool	colon	Human
-B412-M03	CF patient B412, 3 months	Cystic fibrosis	B412	3		NA	Y	Y	Y	N		229.1	Male			Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
+B412-M03	CF patient B412, 3 months	Cystic fibrosis	B412	3			Y	Y	Y	N		229.1	Male			Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
 B419-M04	CF patient B419, 4 months	Cystic fibrosis	B419	4	5.97	62.5	N	Y	N	Y		329.3	Male	N	N	Y	Homozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
 B419-M05	CF patient B419, 5 months	Cystic fibrosis	B419	5	6.6	64.65	N	Y	Y	Y	75	1571.5	Male	N	N	Y	Homozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
 B419-M06	CF patient B419, 6 months	Cystic fibrosis	B419	6	7.4	69.1	N	Y	Y	Y		1808.7	Male	N	N	Y	Homozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
@@ -936,8 +936,8 @@ B493-M04	CF patient B493, 4 months	Cystic fibrosis	B493	4	5.2	57.7	Y	Y	Y	N		218.
 B493-M05	CF patient B493, 5 months	Cystic fibrosis	B493	5	5.81	57.7	Y	Y	Y	N	66.67	154.6	Female	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
 B493-M06	CF patient B493, 6 months	Cystic fibrosis	B493	6	6.56	61.75	Y	Y	Y	N		69.5	Female	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
 B493-M08	CF patient B493, 8 months	Cystic fibrosis	B493	8	7.58	65.75	Y	Y	Y	N	54.55	1318	Female	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
-B493-M10	CF patient B493, 10 months	Cystic fibrosis	B493	10		NA	Y	Y	Y	N	40	52.2	Female	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
-B493-M12	CF patient B493, 12 months	Cystic fibrosis	B493	12		NA	N	Y	Y	N	22.22	95.3	Female	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
+B493-M10	CF patient B493, 10 months	Cystic fibrosis	B493	10			Y	Y	Y	N	40	52.2	Female	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
+B493-M12	CF patient B493, 12 months	Cystic fibrosis	B493	12			N	Y	Y	N	22.22	95.3	Female	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
 B503-M02	CF patient B503, 2 months	Cystic fibrosis	B503	2	5.9	59.6	N	Y	Y	N	80	169.3	Male	N	N	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
 B503-M03	CF patient B503, 3 months	Cystic fibrosis	B503	3	6.65	59.65	N	Y	Y	Y	88.89	180.5	Male	N	N	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
 B503-M04	CF patient B503, 4 months	Cystic fibrosis	B503	4	7.8	66.1	N	Y	Y	Y	28.57	101	Male	N	N	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
@@ -1065,7 +1065,7 @@ B645-M04	CF patient B645, 4 months	Cystic fibrosis	B645	4	6.61	60.05	N	Y	N	N	66.
 B645-M05	CF patient B645, 5 months	Cystic fibrosis	B645	5	7.5	65.6	N	Y	N	N	54.55	339.5	Female	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
 B645-M06	CF patient B645, 6 months	Cystic fibrosis	B645	6	8.8	66.6	N	Y	N	N	57.14	548.5	Female	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
 B645-M10	CF patient B645, 10 months	Cystic fibrosis	B645	10	10.12	72.5	N	Y	Y	N	60	58.4	Female	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
-B645-M12	CF patient B645, 12 months	Cystic fibrosis	B645	12	10.805	NA	N	Y	Y	N	55.56	286.2	Female	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
+B645-M12	CF patient B645, 12 months	Cystic fibrosis	B645	12	10.805		N	Y	Y	N	55.56	286.2	Female	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
 B651-M03	CF patient B651, 3 months	Cystic fibrosis	B651	3	5.3	57.55	N	Y	N	Y	66.67	81.8	Male	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
 B651-M04	CF patient B651, 4 months	Cystic fibrosis	B651	4	6.1	61.8	N	Y	Y	Y	66.67	128.9	Male	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
 B651-M05	CF patient B651, 5 months	Cystic fibrosis	B651	5	6.47	62.65	N	Y	Y	Y	81.82	45.6	Male	N	N	Y	Heterozygous F508del	Y	Y	UBERON:feces	colon	Human	Stool	colon	Human
