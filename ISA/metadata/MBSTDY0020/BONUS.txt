@@ -1,3 +1,4 @@
+name	description	cohort	subject_id	age_at_collection_months	Host weight (kg)	Body length (cm)	Breastmilk in diet	Formula in diet	Table food in diet	antibiotic_exposure	Fecal fat percentage	Calprotectin	sex	Is low length	Is low weight	Pancreatic insufficiency	F508del-CFTR genotype	Received protein pump inhibitor	Received acid blocker	body_product	body_site	host_common_name	sample_type	body_habitat	env_feature
 SRR8353572	Control subject 4-14-1001, 5 months	Control	4-14-1001	5	4.536	57.8	Y	Y		N	84.21	220.5							Y	UBERON:feces	colon	Human	Stool	colon	Human
 SRR8353568	Control subject 4-14-1001, 10 months	Control	4-14-1001	10	6.634	62.9	N	Y		N	45.45	28.4							Y	UBERON:feces	colon	Human	Stool	colon	Human
 SRR8353566	Control subject 4-14-1001, 15 months	Control	4-14-1001	15	7.796	67.3	N	Y		N	1	15.6							Y	UBERON:feces	colon	Human	Stool	colon	Human
@@ -1269,4 +1270,3 @@ SRR8427563	CF patient B988, 5 months	Cystic fibrosis	B988	5	6.3	62.7	N	Y	Y	N	42.
 SRR8353919	CF patient B988, 6 months	Cystic fibrosis	B988	6	6.8	64.3	N	Y	Y	Y		107.4	Male	N	N	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
 SRR8353753	CF patient B988, 8 months	Cystic fibrosis	B988	8	7.4	66.85	N	Y	Y	Y		88.8	Male	N	N	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
 SRR8353998	CF patient B988, 10 months	Cystic fibrosis	B988	10	8.2	70.5	N	Y	Y	Y	33.33	208.9	Male	N	N	Y	Heterozygous F508del	N	N	UBERON:feces	colon	Human	Stool	colon	Human
-srr	description	cohort	subject_id	age_at_collection_months	Host weight (kg)	Body length (cm)	Breastmilk in diet	Formula in diet	Table food in diet	antibiotic_exposure	Fecal fat percentage	Calprotectin	sex	Is low length	Is low weight	Pancreatic insufficiency	F508del-CFTR genotype	Received protein pump inhibitor	Received acid blocker	body_product	body_site	host_common_name	sample_type	body_habitat	env_feature
