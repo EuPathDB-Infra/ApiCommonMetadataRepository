@@ -47,14 +47,14 @@ for my $row (@subjectRows){
 }
 my $sampleSheet= $o->sheet('SuppTable2');
 my ($sampleHeader, @sampleRows) = $sampleSheet->rows;
-my @sampleHeaders = ("age_at_collection_months", "Host weight (g)", "Body length (cm)", "Breastmilk in diet", "Formula in diet", "Table food in diet", "antibiotic_exposure", "Fecal fat percentage", "Calprotectin"), 
+my @sampleHeaders = ("age_at_collection_months", "Host weight (kg)", "Body length (cm)", "Breastmilk in diet", "Formula in diet", "Table food in diet", "antibiotic_exposure", "Fecal fat percentage", "Calprotectin"), 
 my %dataBySample;
 for my $row (@sampleRows){
   my ($sampleId, $month, $weight, $weightPerc, $length, $lengthPerc, $breastmilk, $formula, $tablefood, $currentorpriorantibiotics, $fecalfatPerc2, $calprotectin3) = @{$row};
 
   $dataBySample{$sampleId}{age_at_collection_months} = $month;
-  $dataBySample{$sampleId}{"Host weight (g)"} = $weight && $weight ne 'NA' ? $weight * 1000 : "";
-  $dataBySample{$sampleId}{"Body length (cm)"} = $length;
+  $dataBySample{$sampleId}{"Host weight (kg)"} = $weight && $weight ne 'NA' ? $weight : "";
+  $dataBySample{$sampleId}{"Body length (cm)"} = $length && $length ne 'NA' ? $length : "";
   $dataBySample{$sampleId}{"Breastmilk in diet"} = goodTruth($breastmilk);
   $dataBySample{$sampleId}{"Formula in diet"} = goodTruth($formula);
   $dataBySample{$sampleId}{"Table food in diet"} = goodTruth($tablefood);
