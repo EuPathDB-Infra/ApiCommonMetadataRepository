@@ -896,7 +896,7 @@
     <name>Fecal fat percentage</name>
     <name>Fecal fat %</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009246" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0009261" type="characteristicQualifier" parent="Source">
     <name>Is low length</name>
     <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
@@ -908,11 +908,11 @@
     <name>Pancreatic insufficiency</name>
     <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009247" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0009262" type="characteristicQualifier" parent="Source">
     <name>Received acid blocker</name>
     <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0009248" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0009263" type="characteristicQualifier" parent="Source">
     <name>Received protein pump inhibitor</name>
     <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
