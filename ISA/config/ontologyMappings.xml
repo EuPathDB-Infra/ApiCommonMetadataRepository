@@ -1292,6 +1292,13 @@
     <name>Kingdom of Denmark</name>
     <name>Denmark</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000565" type="characteristicValue" parent="characteristicQualifier">
+    <name>Morocco</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001086" type="characteristicValue" parent="characteristicQualifier">
+    <name>Democratic Republic of the Congo</name>
+    <name>Zaire</name>
+  </ontologyTerm>
 <!-- continent -->
   <ontologyTerm source_id="GAZ_00000464" type="characteristicValue" parent="characteristicQualifier">
     <name>Europe</name>
