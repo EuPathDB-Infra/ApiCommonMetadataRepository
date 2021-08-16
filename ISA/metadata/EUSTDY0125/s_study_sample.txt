@@ -1,0 +1,183 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [specimen]	Characteristics[country]	Characteristics [continent]	Characteristics [city]	Characteristics [specimen]	Characteristics [organism]	Characteristics [fungus organism]	Characteristics [fungal strain]
+CEC3676				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3676
+CEC3531				cell culture	France	Europe	Palaiseau	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3531
+CEC3532				cell culture	France	Europe	Palaiseau	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3532
+CEC3529				cell culture	France	Europe	Palaiseau	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3529
+CEC3530				cell culture	France	Europe	Palaiseau	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3530
+CEC2876				cell culture	South Korea	Asia	n/a	blood	Homo sapiens	Candida albicans	Candida albicans CEC2876
+CEC3494				cell culture	Belgium	Europe	n/a	feces	Homo sapiens	Candida albicans	Candida albicans CEC3494
+CEC2871				cell culture	South Korea	Asia	n/a	blood	Homo sapiens	Candida albicans	Candida albicans CEC2871
+CEC2872				cell culture	South Korea	Asia	n/a	blood	Homo sapiens	Candida albicans	Candida albicans CEC2872
+CEC2022				cell culture	France	Europe	Rouen	Disseminated candidiasis	Homo sapiens	Candida albicans	Candida albicans CEC2022
+CEC2023				cell culture	French Guiana	South America	Trois Sauts	feces	Homo sapiens	Candida albicans	Candida albicans CEC2023
+CEC4879				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4879
+CEC4878				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4878
+CEC3686				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3686
+CEC3704				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3704
+CEC3683				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3683
+CEC3685				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3685
+CEC3681				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3681
+CEC3682				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3682
+CEC4858				cell culture	Madagascar	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4858
+CEC4857				cell culture	Angola	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4857
+CEC4860				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4860
+CEC4859				cell culture	Madagascar	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4859
+CEC4864				cell culture	China	Asia	n/a	Gland penis	Homo sapiens	Candida albicans	Candida albicans CEC4864
+CEC4861				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4861
+CEC4877				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4877
+CEC4865				cell culture	China	Asia	n/a	Gland penis	Homo sapiens	Candida albicans	Candida albicans CEC4865
+CEC3637				cell culture	Niger	Africa	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3637
+CEC3636				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3636
+CEC3622				cell culture	Brazil	South America	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3622
+CEC3621				cell culture	Brazil	South America	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3621
+CEC3619				cell culture	Belgium	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3619
+CEC3618				cell culture	Belgium	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3618
+CEC3634				cell culture	Brazil	South America	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3634
+CEC3627				cell culture	Brazil	South America	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3627
+CEC3626				cell culture	Belgium	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3626
+CEC3623				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3623
+CEC4855				cell culture	Italy	Europe	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4855
+CEC4856				cell culture	Angola	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4856
+CEC4499				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4499
+CEC4500				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4500
+CEC4525				cell culture	France	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC4525
+CEC4854				cell culture	Italy	Europe	Messina	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4854
+CEC4495				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4495
+CEC4496				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4496
+CEC4497				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4497
+CEC4498				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4498
+CEC3661				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3661
+CEC3662				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3662
+CEC3663				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3663
+CEC3664				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3664
+CEC3638				cell culture	Belgium	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3638
+CEC3658				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3658
+CEC3659				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3659
+CEC3660				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3660
+CEC3665				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3665
+CEC3668				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3668
+CEC4494				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4494
+CEC4493				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4493
+CEC4486				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4486
+CEC4485				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4485
+CEC4484				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4484
+CEC4482				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4482
+CEC4492				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4492
+CEC4489				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4489
+CEC4488				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4488
+CEC4487				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4487
+CEC3561				cell culture	Belgium	Europe	n/a	feces	Homo sapiens	Candida albicans	Candida albicans CEC3561
+CEC3560				cell culture	Niger	Africa	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3560
+CEC3596				cell culture	France	Europe	Lyon	blood	Homo sapiens	Candida albicans	Candida albicans CEC3596
+CEC3579				cell culture	France	Europe	Palaiseau	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3579
+CEC3600				cell culture	France	Europe	Rennes	feces	Sturnus vulgaris	Candida albicans	Candida albicans CEC3600
+CEC3597				cell culture	France	Europe	Lyon	blood	Homo sapiens	Candida albicans	Candida albicans CEC3597
+CEC3602				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3602
+CEC3601				cell culture	Belgium	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3601
+CEC3605				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3605
+CEC3603				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3603
+CEC3707				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3707
+CEC4261				cell culture	France	Europe	Grenoble	bile	Homo sapiens	Candida albicans	Candida albicans CEC4261
+CEC4479				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4479
+CEC4256				cell culture	France	Europe	Grenoble	urine	Homo sapiens	Candida albicans	Candida albicans CEC4256
+CEC4259				cell culture	France	Europe	Grenoble	skin	Homo sapiens	Candida albicans	Candida albicans CEC4259
+CEC4108				cell culture	Senegal	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4108
+CEC4254				cell culture	France	Europe	Grenoble	blood	Homo sapiens	Candida albicans	Candida albicans CEC4254
+CEC4106				cell culture	Senegal	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4106
+CEC4107				cell culture	Senegal	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4107
+CEC4480				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4480
+CEC4481				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4481
+CEC3610				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3610
+CEC3611				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3611
+CEC3607				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3607
+CEC3609				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3609
+CEC3614				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3614
+CEC3615				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3615
+CEC3612				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3612
+CEC3613				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3613
+CEC3616				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3616
+CEC3617				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3617
+CEC3708				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3708
+CEC723				cell culture	France	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC723
+CEC718				cell culture	France	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC718
+CEC3711				cell culture	France	Europe	n/a	urine	Homo sapiens	Candida albicans	Candida albicans CEC3711
+CEC3679				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3679
+CEC4035				cell culture	United Kingdom	Europe	Birmingham	Burn	Homo sapiens	Candida albicans	Candida albicans CEC4035
+CEC4032				cell culture	United Kingdom	Europe	Birmingham	sputum	Homo sapiens	Candida albicans	Candida albicans CEC4032
+CEC4039				cell culture	United Kingdom	Europe	Birmingham	sputum	Homo sapiens	Candida albicans	Candida albicans CEC4039
+CEC4038				cell culture	United Kingdom	Europe	Birmingham	wound	Homo sapiens	Candida albicans	Candida albicans CEC4038
+CEC3715				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3715
+CEC3712				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3712
+CEC3786				cell culture	South Korea	Asia	n/a	blood	Homo sapiens	Candida albicans	Candida albicans CEC3786
+CEC3716				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3716
+CEC3706				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3706
+CEC4104				cell culture	Senegal	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4104
+CEC4103				cell culture	Senegal	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4103
+CEC3544				cell culture	Belgium	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3544
+CEC3541				cell culture	France	Europe	Nantes	blood	Homo sapiens	Candida albicans	Candida albicans CEC3541
+CEC3540				cell culture	France	Europe	Strasbourg	blood	Homo sapiens	Candida albicans	Candida albicans CEC3540
+CEC3537				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3537
+CEC3536				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3536
+CEC3535				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3535
+CEC3534				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3534
+CEC3533				cell culture	France	Europe	Palaiseau	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3533
+CEC3678				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3678
+CEC3548				cell culture	Belgium	Europe	n/a	Gastro-intestinal tract	Homo sapiens	Candida albicans	Candida albicans CEC3548
+CEC3547				cell culture	Belgium	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3547
+CEC5027				cell culture	United Kingdom	Europe	London	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC5027
+CEC5028				cell culture	United Kingdom	Europe	Coventry	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC5028
+CEC5029				cell culture	United Kingdom	Europe	Stoke	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC5029
+CEC5030				cell culture	United Kingdom	Europe	Bristol	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC5030
+CEC704				cell culture	France	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC704
+CEC708				cell culture	France	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC708
+CEC709				cell culture	France	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC709
+CEC711				cell culture	France	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC711
+CEC712				cell culture	France	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC712
+CEC716				cell culture	France	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC716
+CEC3680				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3680
+CEC3549				cell culture	Belgium	Europe	n/a	Gastro-intestinal tract	Homo sapiens	Candida albicans	Candida albicans CEC3549
+CEC3550				cell culture	France	Europe	Rennes	feces	Sturnus vulgaris	Candida albicans	Candida albicans CEC3550
+CEC3551				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3551
+CEC3553				cell culture	Belgium	Europe	n/a	Gastro-intestinal tract	Homo sapiens	Candida albicans	Candida albicans CEC3553
+CEC3554				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3554
+CEC3555				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3555
+CEC3556				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3556
+CEC3557				cell culture	Belgium	Europe	n/a	feces	Homo sapiens	Candida albicans	Candida albicans CEC3557
+CEC3558				cell culture	Belgium	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3558
+CEC3559				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3559
+CEC5026				cell culture	United Kingdom	Europe	Epsom	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC5026
+CEC5025				cell culture	United Kingdom	Europe	Bangor	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC5025
+CEC5024				cell culture	United Kingdom	Europe	Crewe	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC5024
+CEC5023				cell culture	United Kingdom	Europe	Crewe	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC5023
+CEC5022				cell culture	United Kingdom	Europe	Portsmouth	Genital	Homo sapiens	Candida albicans	Candida albicans CEC5022
+CEC5021				cell culture	United Kingdom	Europe	Bath	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC5021
+CEC5020				cell culture	United Kingdom	Europe	Ipswich	Genital	Homo sapiens	Candida albicans	Candida albicans CEC5020
+CEC5019				cell culture	United Kingdom	Europe	Wrexham	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC5019
+CEC4946				cell culture	India	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4946
+CEC4945				cell culture	India	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4945
+CEC2018				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC2018
+CEC2019				cell culture	Niger	Africa	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC2019
+CEC1427				cell culture	France	Europe	Lyon	blood	Homo sapiens	Candida albicans	Candida albicans CEC1427
+CEC1492				cell culture	n/a	n/a	n/a		Homo sapiens	Candida albicans	Candida albicans CEC1492
+CEC1424				cell culture	Niger	Africa	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC1424
+CEC1426				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC1426
+SC5314				cell culture	USA	North America	n/a	Disseminated candidiasis	Homo sapiens	Candida albicans	Candida albicans SC5314
+CEC1289				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC1289
+CEC2020				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC2020
+CEC2021				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC2021
+CEC3675				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3675
+CEC3674				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3674
+CEC4943				cell culture	India	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4943
+CEC4944				cell culture	India	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4944
+CEC3671				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3671
+CEC3669				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3669
+CEC3673				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3673
+CEC3672				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3672
+CEC4883				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4883
+CEC4884				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4884
+CEC4881				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4881
+CEC4882				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4882
+CEC4888				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4888
+CEC4889				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4889
+CEC4886				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4886
+CEC4887				cell culture	China	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4887
