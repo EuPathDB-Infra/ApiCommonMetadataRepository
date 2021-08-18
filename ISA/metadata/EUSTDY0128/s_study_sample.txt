@@ -1,0 +1,5 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [fungus organism]	Characteristics [fungal strain]
+NCYC-597	SNP calls on WGS of Candida albicans collected from old oaks			Candida albicans	Candida albicans NCYC-597
+NCYC-4144	SNP calls on WGS of Candida albicans collected from old oaks			Candida albicans	Candida albicans NCYC-4144
+NCYC-4145	SNP calls on WGS of Candida albicans collected from old oaks			Candida albicans	Candida albicans NCYC-4145
+NCYC-4146	SNP calls on WGS of Candida albicans collected from old oaks			Candida albicans	Candida albicans NCYC-4146
