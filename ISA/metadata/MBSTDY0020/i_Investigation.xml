@@ -1,5 +1,5 @@
 <investigation identifierRegex="^(MBSTDY)\d+$" identifierIsDirectoryName="true">
-  <study fileName="DIABIMMUNE_WGS.txt" identifierSuffix="-15" sampleRegex="MBSMPL">
+  <study fileName="DIABIMMUNE_WGS.txt" identifierSuffix="-26" sampleRegex="MBSMPL">
     <dataset>otuDADA2_DIABIMMUNE_WGS_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>
