@@ -978,6 +978,10 @@
   <ontologyTerm source_id="NCBITaxon_121769" type="characteristicValue" parent="characteristicQualifier">
     <name>Digitaria sanguinalis</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_4564" type="characteristicValue" parent="characteristicQualifier">
+    <name>wheat</name>
+  </ontologyTerm>
+
 
 <!-- GAZ country values  -->
   <ontologyTerm source_id="GAZ_00002945" type="characteristicValue" parent="characteristicQualifier">
