@@ -3,6 +3,7 @@
   <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
     <dataset>hcapG217B_chipChipExper_GSE47341_RSRC</dataset>
 
+    <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
     <node isaObject="Extract" name="Extract1" type="DNA extract" suffix="DNA Extract"/>
     <node isaObject="Extract" name="Extract2" type="DNA extract" suffix="IP Extract"/>
