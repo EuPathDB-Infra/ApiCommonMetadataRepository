@@ -12,6 +12,9 @@
     <node isaObject="DataTransformation" name="Smoothed" suffix="_smoothed (ChIP-chip)" useExactSuffix="true"/>
     <node isaObject="DataTransformation" name="Peaks" suffix="_peaks (ChIP-chip)" useExactSuffix="true"/>
 
+    <edge input="Source" output="Sample">
+      <protocol>specimen collection</protocol>
+    </edge>
     <edge input="Sample" output="Extract1">
       <protocol>DNA extraction</protocol>
     </edge>
