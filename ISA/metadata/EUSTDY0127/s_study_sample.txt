@@ -2,30 +2,30 @@ Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Char
 BJ-R3	SNP calls on WGS of 30 clinical isolates of C. auris			2019-11	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ-R3
 BJ-R2	SNP calls on WGS of 30 clinical isolates of C. auris			2019-11	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ-R2
 BJ-R1	SNP calls on WGS of 30 clinical isolates of C. auris			2019-11	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ-R1
-BJ_B7	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B7
-BJ_B8	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B8
-BJ_B5	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B5
-BJ_B6	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B6
-BJ_B3	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B3
-BJ_B4	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B4
-BJ_A10	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A10
-BJ_A9	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A9
-BJ_A6	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A6
-BJ_A5	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A5
-BJ_A8	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A8
-BJ_A7	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A7
-BJ_A2	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A2
-BJ_A1	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A1
-BJ_A4	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A4
-BJ_A3	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A3
-BJ_B2	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B2
-BJ_B1	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B1
-BJ_A18	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A18
-BJ_A17	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A17
-BJ_A16	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A16
-BJ_A15	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A15
-BJ_A14	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A14
-BJ_A13	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A13
-BJ_A12	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A12
-BJ_A11	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A11
-WT-BJCA001	SNP calls on WGS of 30 clinical isolates of C. auris			n/a	China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris WT-BJCA001
+BJ_B7	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B7
+BJ_B8	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B8
+BJ_B5	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B5
+BJ_B6	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B6
+BJ_B3	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B3
+BJ_B4	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B4
+BJ_A10	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A10
+BJ_A9	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A9
+BJ_A6	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A6
+BJ_A5	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A5
+BJ_A8	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A8
+BJ_A7	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A7
+BJ_A2	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A2
+BJ_A1	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A1
+BJ_A4	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A4
+BJ_A3	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A3
+BJ_B2	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B2
+BJ_B1	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_B1
+BJ_A18	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A18
+BJ_A17	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A17
+BJ_A16	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A16
+BJ_A15	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A15
+BJ_A14	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A14
+BJ_A13	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A13
+BJ_A12	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A12
+BJ_A11	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris BJ_A11
+WT-BJCA001	SNP calls on WGS of 30 clinical isolates of C. auris				China	Asia	Beijing	Homo sapiens	Candida auris	Candida auris WT-BJCA001

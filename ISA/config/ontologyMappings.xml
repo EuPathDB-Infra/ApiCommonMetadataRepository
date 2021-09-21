@@ -1299,6 +1299,12 @@
     <name>Democratic Republic of the Congo</name>
     <name>Zaire</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001095" type="characteristicValue" parent="characteristicQualifier">
+    <name>Angola</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000585" type="characteristicValue" parent="characteristicQualifier">
+    <name>Niger</name>
+  </ontologyTerm>
 <!-- continent -->
   <ontologyTerm source_id="GAZ_00000464" type="characteristicValue" parent="characteristicQualifier">
     <name>Europe</name>

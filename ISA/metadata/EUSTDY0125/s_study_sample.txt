@@ -38,14 +38,14 @@ CEC3626				cell culture	Belgium	Europe	n/a	Mouth	Homo sapiens	Candida albicans	C
 CEC3623				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3623
 CEC4855				cell culture	Italy	Europe	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4855
 CEC4856				cell culture	Angola	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4856
-CEC4499				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4499
-CEC4500				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4500
+CEC4499				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4499
+CEC4500				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4500
 CEC4525				cell culture	France	Europe	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC4525
 CEC4854				cell culture	Italy	Europe	Messina	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4854
-CEC4495				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4495
-CEC4496				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4496
-CEC4497				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4497
-CEC4498				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4498
+CEC4495				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4495
+CEC4496				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4496
+CEC4497				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4497
+CEC4498				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4498
 CEC3661				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3661
 CEC3662				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3662
 CEC3663				cell culture	France	Europe	Paris	blood	Homo sapiens	Candida albicans	Candida albicans CEC3663
@@ -56,16 +56,16 @@ CEC3659				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	
 CEC3660				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3660
 CEC3665				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3665
 CEC3668				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3668
-CEC4494				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4494
-CEC4493				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4493
-CEC4486				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4486
-CEC4485				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4485
-CEC4484				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4484
-CEC4482				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4482
-CEC4492				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4492
-CEC4489				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4489
-CEC4488				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4488
-CEC4487				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4487
+CEC4494				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4494
+CEC4493				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4493
+CEC4486				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4486
+CEC4485				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4485
+CEC4484				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4484
+CEC4482				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4482
+CEC4492				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4492
+CEC4489				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4489
+CEC4488				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4488
+CEC4487				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4487
 CEC3561				cell culture	Belgium	Europe	n/a	feces	Homo sapiens	Candida albicans	Candida albicans CEC3561
 CEC3560				cell culture	Niger	Africa	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC3560
 CEC3596				cell culture	France	Europe	Lyon	blood	Homo sapiens	Candida albicans	Candida albicans CEC3596
@@ -78,15 +78,15 @@ CEC3605				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	
 CEC3603				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3603
 CEC3707				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC3707
 CEC4261				cell culture	France	Europe	Grenoble	bile	Homo sapiens	Candida albicans	Candida albicans CEC4261
-CEC4479				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4479
+CEC4479				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4479
 CEC4256				cell culture	France	Europe	Grenoble	urine	Homo sapiens	Candida albicans	Candida albicans CEC4256
 CEC4259				cell culture	France	Europe	Grenoble	skin	Homo sapiens	Candida albicans	Candida albicans CEC4259
 CEC4108				cell culture	Senegal	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4108
 CEC4254				cell culture	France	Europe	Grenoble	blood	Homo sapiens	Candida albicans	Candida albicans CEC4254
 CEC4106				cell culture	Senegal	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4106
 CEC4107				cell culture	Senegal	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC4107
-CEC4480				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4480
-CEC4481				cell culture	France	Europe	n/a	Food spoilage	n/a	Candida albicans	Candida albicans CEC4481
+CEC4480				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4480
+CEC4481				cell culture	France	Europe	n/a	Food spoilage		Candida albicans	Candida albicans CEC4481
 CEC3610				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3610
 CEC3611				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3611
 CEC3607				cell culture	Morocco	Africa	n/a	Vagina	Homo sapiens	Candida albicans	Candida albicans CEC3607
@@ -158,7 +158,7 @@ CEC4945				cell culture	India	Asia	n/a	Vagina	Homo sapiens	Candida albicans	Cand
 CEC2018				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC2018
 CEC2019				cell culture	Niger	Africa	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC2019
 CEC1427				cell culture	France	Europe	Lyon	blood	Homo sapiens	Candida albicans	Candida albicans CEC1427
-CEC1492				cell culture	n/a	n/a	n/a		Homo sapiens	Candida albicans	Candida albicans CEC1492
+CEC1492				cell culture			n/a		Homo sapiens	Candida albicans	Candida albicans CEC1492
 CEC1424				cell culture	Niger	Africa	n/a	Mouth	Homo sapiens	Candida albicans	Candida albicans CEC1424
 CEC1426				cell culture	France	Europe	Paris	urine	Homo sapiens	Candida albicans	Candida albicans CEC1426
 SC5314				cell culture	USA	North America	n/a	Disseminated candidiasis	Homo sapiens	Candida albicans	Candida albicans SC5314
