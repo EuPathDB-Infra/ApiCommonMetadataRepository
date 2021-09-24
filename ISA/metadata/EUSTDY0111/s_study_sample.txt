@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [city]	Characteristics [host_common_name]	Characteristics [specimen]	Characteristics [health_status]	Characteristics [fungus organism]	Characteristics [fungal strain]
+Name	Description	SourceMTOverride	SampleMTOverride	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [city]	Characteristics [organism]	Characteristics [specimen]	Characteristics [health_status]	Characteristics [fungus organism]	Characteristics [fungal strain]
 CNRMA17-624	Aligned genome sequence reads - Candida auris clinical isolates			2017	France	Europe	n/a	Homo sapiens			Candida auris	Candida auris CNRMA17-624
 CNRMA15-337	Aligned genome sequence reads - Candida auris clinical isolates			2015	France	Europe	n/a	Homo sapiens			Candida auris	Candida auris CNRMA15-337
 B12169	Aligned genome sequence reads - Candida auris clinical isolates			21-May-15	Venezuela	South America	 Maracaibo	Homo sapiens	CSF	Candida infection or colonization	Candida auris	Candida auris B12169
