@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [parasite lifecycle stage]	Antibody	characteristics [fungal genotype]	Characteristics [Replicate]	Characteristics[treatment]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [fungal life stage]	Antibody	characteristics [fungal genotype]	Characteristics [Replicate]	Characteristics[treatment]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
 Ryp1-in-ryp1-37-ChIP-sample-B				mutant	Ryp1	ryp1	B	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
 Ryp3-in-ryp3-37-ChIP-sample-B				mutant	Ryp3	ryp3	B	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
 Ryp3-in-G217B-37-ChIP-sample-A				WT	Ryp3	G217B	A	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
