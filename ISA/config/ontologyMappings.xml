@@ -538,6 +538,9 @@
   <ontologyTerm source_id="OPL_0000181" type="characteristicQualifier" parent="Sample">
     <name>parasite lifecycle stage</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005036" type="characteristicQualifier" parent="Sample">
+    <name>fungal life stage</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000752" type="characteristicQualifier" parent="Sample">
     <name>GP60 genotype</name>
   </ontologyTerm>
