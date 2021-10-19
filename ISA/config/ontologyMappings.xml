@@ -139,13 +139,7 @@
 
   <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
     <name>age</name>
-    <function>splitUnitFromValue</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000113" type="characteristicQualifier" parent="Source">
     <name>age at visit</name>
-    <function>splitUnitFromValue</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0005032" type="characteristicQualifier" parent="Source">
     <name>age at collection</name>
     <function>splitUnitFromValue</function>
   </ontologyTerm>
@@ -163,6 +157,7 @@
   <ontologyTerm source_id="EUPATH_0000110" type="characteristicQualifier" parent="Source">
     <name>body_temperature</name>    
     <name>temperature</name>
+    <function>splitUnitFromValue</function>
   </ontologyTerm>
 
   <ontologyTerm source_id="FLU_0001025" type="characteristicQualifier" parent="Source">
@@ -208,9 +203,6 @@
   <ontologyTerm source_id="EUPATH_0000048" type="characteristicQualifier" parent="Source">
     <name>microscopy_result</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000537" type="characteristicQualifier" parent="Source">
-    <name>parasite_density_by_microscope</name>    
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000754" type="characteristicQualifier" parent="Source">
     <name>blood_smear_summary</name>    
   </ontologyTerm>
@@ -231,15 +223,14 @@
   <ontologyTerm source_id="OBI_0001620" type="characteristicQualifier" parent="Source">
     <name>latitude coordinate measurement datum</name>
     <name>latitude</name>
-    <name>gps_latitude</name> 
+    <name>gps_latitude</name>
+    <function>splitUnitFromValue</function> 
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001621" type="characteristicQualifier" parent="Source">
     <name>longitude coordinate measurement datum</name>
     <name>longitude</name>
     <name>gps_longitude</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="ENVO_00000176" type="characteristicQualifier" parent="Source">
-    <name>elevation</name>
+    <function>splitUnitFromValue</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000639" type="characteristicQualifier" parent="Source">
     <name>PNAS_paper</name>
@@ -371,7 +362,8 @@
     <name>fever</name>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000414" type="characteristicQualifier" parent="Source">
-    <name>fever_duration</name>    
+    <name>fever_duration</name>
+    <function>splitUnitFromValue</function>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000525" type="characteristicQualifier" parent="Source">
     <name>follow_up_day</name>    
@@ -379,11 +371,13 @@
   <ontologyTerm source_id="EUPATH_0000553" type="characteristicQualifier" parent="Source">
     <name>future_use_consent</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000526" type="characteristicQualifier" parent="Source">
-    <name>gametocyte_density_by_microscope</name>    
+  <ontologyTerm source_id="EUPATH_0023018" type="characteristicQualifier" parent="Source">
+    <name>gametocyte_density_by_microscope</name> 
+    <function>splitUnitFromValue</function>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000527" type="characteristicQualifier" parent="Source">
     <name>gametocyte_density_by_rt_pcr</name>    
+    <function>splitUnitFromValue</function>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000519" type="characteristicQualifier" parent="Source">
     <name>gametocytes</name>    
@@ -393,12 +387,11 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000530" type="characteristicQualifier" parent="Source">
     <name>gps_location</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000530" type="characteristicQualifier" parent="Source">
     <name>gps_other</name>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000047" type="characteristicQualifier" parent="Source">
-    <name>hemoglobin_level</name>    
+    <name>hemoglobin_level</name> 
+    <function>splitUnitFromValue</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000308" type="characteristicQualifier" parent="Source">
     <name>hospitalized</name>    
@@ -412,9 +405,6 @@
   <ontologyTerm source_id="EUPATH_0000532" type="characteristicQualifier" parent="Source">
     <name>immune_responses</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000535" type="characteristicQualifier" parent="Source">
-    <name>irb_number</name>    
-  </ontologyTerm>
   <ontologyTerm source_id="HP_0000952" type="characteristicQualifier" parent="Source">
     <name>jaundice</name>    
   </ontologyTerm>
@@ -427,20 +417,25 @@
   <ontologyTerm source_id="EUPATH_0000529" type="characteristicQualifier" parent="Source">
     <name>other_method</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000534" type="characteristicQualifier" parent="Source">
-    <name>other_molecular</name>    
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000522" type="characteristicQualifier" parent="Source">
     <name>ovale</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000551" type="characteristicQualifier" parent="Source">
-    <name>P_vivax_parasite_density_by_microscope</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000536" type="characteristicQualifier" parent="Source">
-    <name>parasite_density_by_pcr</name>    
-  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000533" type="characteristicQualifier" parent="Source">
     <name>parasite_genetics</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000534" type="characteristicQualifier" parent="Source">
+    <name>other_molecular</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000535" type="characteristicQualifier" parent="Source">
+    <name>irb_number</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000536" type="characteristicQualifier" parent="Source">
+    <name>parasite_density_by_pcr</name>
+    <function>splitUnitFromValue</function>   
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000537" type="characteristicQualifier" parent="Source">
+    <name>parasite_density_by_microscope</name> 
+    <function>splitUnitFromValue</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000539" type="characteristicQualifier" parent="Source">
     <name>pcr_method</name>    
@@ -450,27 +445,35 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000546" type="characteristicQualifier" parent="Source">
     <name>P_falciparum_gametocyte_density_by_microscope</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000550" type="characteristicQualifier" parent="Source">
-    <name>P_falciparum_parasite_density_by_microscope</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000552" type="characteristicQualifier" parent="Source">
-    <name>p_falciparum_parasite_density_by_pcr</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000552" type="characteristicQualifier" parent="Source">
-    <name>p_falciparum_parasite_density_by_rt_pcr</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="UBERON_0009097" type="characteristicQualifier" parent="Source">
-    <name>pregnancy_status</name>    
+    <function>splitUnitFromValue</function>   
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000547" type="characteristicQualifier" parent="Source">
     <name>P_vivax_gametocyte_density_by_microscope</name>    
+    <function>splitUnitFromValue</function>   
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000548" type="characteristicQualifier" parent="Source">
     <name>p_vivax_gametocyte_density_by_rt_pcr</name>    
+    <function>splitUnitFromValue</function>   
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000549" type="characteristicQualifier" parent="Source">
     <name>p_vivax_parasite_density_by_pcr</name>    
+    <function>splitUnitFromValue</function>   
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000550" type="characteristicQualifier" parent="Source">
+    <name>P_falciparum_parasite_density_by_microscope</name>    
+    <function>splitUnitFromValue</function>   
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000551" type="characteristicQualifier" parent="Source">
+    <name>P_vivax_parasite_density_by_microscope</name>    
+    <function>splitUnitFromValue</function>   
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000552" type="characteristicQualifier" parent="Source">
+    <name>p_falciparum_parasite_density_by_pcr</name>    
+    <name>p_falciparum_parasite_density_by_rt_pcr</name>    
+    <function>splitUnitFromValue</function>   
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0009097" type="characteristicQualifier" parent="Source">
+    <name>pregnancy_status</name>    
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000541" type="characteristicQualifier" parent="Source">
     <name>rdt_result</name>    
@@ -1453,6 +1456,18 @@
   <ontologyTerm source_id="UO_0000034" type="unit">
     <name>week</name>
     <name>weeks</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UO_0000027" type="unit">
+    <name>C</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UO_0000185" type="unit">
+    <name>degrees</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UO_0000208" type="unit">
+    <name>g/dL</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UO_0000316" type="unit">
+    <name>/uL</name>
   </ontologyTerm>
 
 
