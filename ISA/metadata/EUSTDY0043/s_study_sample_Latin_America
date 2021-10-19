@@ -1,56 +1,56 @@
 Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [sample_origin]	Characteristics [irb_number]	Characteristics [subject]	Characteristics [age at visit]	Characteristics [sex]	Characteristics [date_sample_collected]	Characteristics [country]	Characteristics [city]	Characteristics [study_type]	Characteristics [study_other]	Characteristics [collection_type]	Characteristics [follow_up_day]	Characteristics [health_status]	Characteristics [pregnancy_status]	Characteristics [hospitalized]	Characteristics [fever]	Characteristics [fever_duration]	Characteristics [Temperature]	Characteristics [temperature_measurement_method]	Characteristics [severe_anemia]	Characteristics [cerebral]	Characteristics [respiratory_distress]	Characteristics [ards]	Characteristics [jaundice]	Characteristics [convulsions]	Characteristics [hypoglycemia]	Characteristics [renal_failure]	Characteristics [abnormal_bleeding]	Characteristics [shock]	Characteristics [coma]	Characteristics [electrolyte_disturbances]	Characteristics [rdt_result]	Characteristics [type_of_rdt]	Characteristics [microscopy_result]	Characteristics [parasite_density_by_microscope]	Characteristics [pcr_result]	Characteristics [parasite_density_by_pcr]	Characteristics [pcr_method]	Characteristics [gametocytes]	Characteristics [gametocyte_density_by_microscope]	Characteristics [gametocyte_density_by_rt_pcr]	Characteristics [gametocytes_detection_method]	Characteristics [other_method]	Characteristics [falciparum]	Characteristics [malariae]	Characteristics [ovale]	Characteristics [vivax]	Characteristics [knowlesi]	Characteristics [hemoglobin_level]	Characteristics [comments]	Characteristics [host_genetics]	Characteristics [parasite_genetics]	Characteristics [immune_responses]	Characteristics [other_molecular]	Characteristics [data_consent]	Characteristics [future_use_consent]	Characteristics [Organism]
-Latin_America_10102008022B_				Latin America	P1.1	10102008022B	10 years	female	20130925	Colombia	Tuis Tuis, Tierralta - Cordoba	cohort		original		uninfected with malaria		No	No		37	axillary	No		No										Not done		Negative		Negative		primer plasmo1-plasmo2	Not done					Negative	Negative		Negative				No	No	Yes	Yes	yes, signed consent	yes, signed consent	Homo sapiens
-Latin_America_30102100260_				Latin America	P3.1	30102100260	12 years	male	20120817	Colombia	Tierralta - Cordoba	cross-sectional		original		symptomatic	Not applicable	No	No		37	axillary	No		No		No	No	No				No		Not done		Positive	5400	Positive	12024	primer plasmo1-plasmo2	Negative					Negative	Negative		Positive		13		No	No	Yes	No	yes, signed consent	yes, signed consent	Homo sapiens
-Latin_America_30102100061_				Latin America	P3.1	30102100061	22 years	male	20120312	Colombia	Tierralta - Cordoba	cross-sectional		original		symptomatic	Not applicable	No	No		37	axillary	No		No		No	No	No				No		Not done		Positive	14600	Positive	48000	primer plasmo1-plasmo2	Negative					Negative	Negative		Positive		12		No	No	Yes	No	yes, signed consent	yes, signed consent	Homo sapiens
-Latin_America_30102100411_				Latin America	P3.1	30102100411	64 years	male	20121119	Colombia	Tierralta - Cordoba	cross-sectional		original		symptomatic	Not applicable	No	Yes	2	38	axillary	No		No		No	No	No				No		Not done		Positive	14800	Positive	19487	primer plasmo1-plasmo2	Positive	4800				Negative	Negative		Positive		15		No	No	Yes	No	yes, signed consent	yes, signed consent	Homo sapiens
-Latin_America_30102100109_				Latin America	P3.1	30102100109	4 years	male	20120507	Colombia	Tierralta - Cordoba	cross-sectional		original		symptomatic	Not applicable	No	No		37	axillary	No		No		No	No	No				No		Not done		Positive	19800	Positive	1156	primer plasmo1-plasmo2	Negative					Negative	Negative		Positive		9		No	No	Yes	No	yes, signed consent	yes, signed consent	Homo sapiens
-Latin_America_10101048061B_				Latin America	P1.1	10101048061B	21 years	male	20130815	Colombia	Zaragoza, Buenaventura - Valle del Cauca	cohort		original		symptomatic		No	No		36	axillary	No		No										Not done		Negative		Positive	24	primer plasmo1-plasmo2	Not done					Negative	Negative		Positive				No	No	Yes	Yes	yes, signed consent	yes, signed consent	Homo sapiens
-Latin_America_101010110207_				Latin America	P1.1	1.01E+11	32 years	female	20120927	Colombia	Punta Soldado, Buenaventura - Valle del Cauca	cohort		original		symptomatic		No	No		37	axillary	No		No										Not done		Negative		Positive	2	primer plasmo1-plasmo2	Not done					Negative	Negative		Positive				No	No	Yes	No	yes, signed consent	yes, signed consent	Homo sapiens
-Latin_America_101010110151_				Latin America	P1.1	1.01E+11	46 years	male	20120927	Colombia	Punta Soldado, Buenaventura - Valle del Cauca	cohort		original		asymptomatic		No	No		36	axillary	No		No										Not done		Negative		Negative		primer plasmo1-plasmo2	Not done					Negative	Negative		Positive				No	No	Yes	No	yes, signed consent	yes, signed consent	Homo sapiens
-Latin_America_30102100212_				Latin America	P3.1	30102100212	17 years	male	20120727	Colombia	Tierralta - Cordoba	cross-sectional		original		symptomatic	Not applicable	No	Yes	8	40	axillary	No		No		No	No	No				No		Not done		Positive	13600	Positive	17701	primer plasmo1-plasmo2	Negative					Negative	Negative		Positive		12		No	No	Yes	No	yes, signed consent	yes, signed consent	Homo sapiens
-Latin_America_10102009038B_				Latin America	P1.1	10102009038B	6 years	
-Latin_America_10102009022B_				Latin America	P1.1	10102009022B	16 years	
-Latin_America_10102069026B_				Latin America	P1.1	10102069026B	16 years	
-Latin_America_10102008029B_				Latin America	P1.1	10102008029B	11 years	
-Latin_America_30102100402_				Latin America	P3.1	30102100402	6 years	
-Latin_America_10102008007B_				Latin America	P1.1	10102008007B	4 years	
-Latin_America_30102100062_				Latin America	P3.1	30102100062	33 years	
-Latin_America_30102100360_				Latin America	P3.1	30102100360	10 years	
-Latin_America_10102008039B_				Latin America	P1.1	10102008039B	19 years	
-Latin_America_10102069042B_				Latin America	P1.1	10102069042B	11 years	
-Latin_America_10102009030B_				Latin America	P1.1	10102009030B	19 years	
-Latin_America_30102100249_				Latin America	P3.1	30102100249	10 years	
-Latin_America_30102100290_				Latin America	P3.1	30102100290	15 years	
-Latin_America_30102100441_				Latin America	P3.1	30102100441	19 years	
-Latin_America_30102100295_				Latin America	P3.1	30102100295	53 years	
-Latin_America_30102100268_				Latin America	P3.1	30102100268	20 years	
-Latin_America_30102100088_				Latin America	P3.1	30102100088	3 years	
-Latin_America_10102069007B_				Latin America	P1.1	10102069007B	33 years	
-Latin_America_30102100363_				Latin America	P3.1	30102100363	19 years	
-Latin_America_30102100342_				Latin America	P3.1	30102100342	4 years	
-Latin_America_10102008008B_				Latin America	P1.1	10102008008B	4 years	
-Latin_America_10102008033B_				Latin America	P1.1	10102008033B	13 years	
-Latin_America_10102009025B_				Latin America	P1.1	10102009025B	65 years	
-Latin_America_101010130177_				Latin America	P1.1	1.01E+11	16 years	
-Latin_America_10102069005B_				Latin America	P1.1	10102069005B	10 years	
-Latin_America_30102100373_				Latin America	P3.1	30102100373	12 years	
-Latin_America_30102100138_				Latin America	P3.1	30102100138	12 years	
-Latin_America_30103103076_				Latin America	P3.1	30103103076	46 years	
-Latin_America_10102008024B_				Latin America	P1.1	10102008024B	19 years	
-Latin_America_30102100280_				Latin America	P3.1	30102100280	7 years	
-Latin_America_30102100352_				Latin America	P3.1	30102100352	16 years	
-Latin_America_30102100256_				Latin America	P3.1	30102100256	16 years	
-Latin_America_10101013055B_				Latin America	P1.1	10101013055B	16 years	
-Latin_America_10102009021B_				Latin America	P1.1	10102009021B	4 years	
-Latin_America_10102008006B_				Latin America	P1.1	10102008006B	53 years	
-Latin_America_101010110191_				Latin America	P1.1	1.01E+11	54 years	
-Latin_America_30102100204_				Latin America	P3.1	30102100204	9 years	
-Latin_America_101010110177_				Latin America	P1.1	1.01E+11	5 years	
-Latin_America_10102069039B_				Latin America	P1.1	10102069039B	22 years	
-Latin_America_30102100064_				Latin America	P3.1	30102100064	20 years	
-Latin_America_30102100242_				Latin America	P3.1	30102100242	13 years	
-Latin_America_10102069035B_				Latin America	P1.1	10102069035B	13 years	
-Latin_America_10102009010B_				Latin America	P1.1	10102009010B	9 years	
-Latin_America_10102008015B_				Latin America	P1.1	10102008015B	46 years	
-Latin_America_101010110158_				Latin America	P1.1	1.01E+11	7 years	
-Latin_America_10102008028B_				Latin America	P1.1	10102008028B	7 years	
+Latin_America_10102008022B_				Latin America	P1.1	10102008022B	10 years	female	20130925	Colombia	"Tuis Tuis, Tierralta - Cordoba"	cohort		original		uninfected with malaria		No	No		37 C	axillary	No		No										Not done		Negative		Negative		primer plasmo1-plasmo2	Not done					Negative	Negative		Negative				No	No	Yes	Yes	"yes, signed consent"	"yes, signed consent"	Homo sapiens
+Latin_America_30102100260_				Latin America	P3.1	30102100260	12 years	male	20120817	Colombia	Tierralta - Cordoba	cross-sectional		original		symptomatic	Not applicable	No	No		37 C	axillary	No		No		No	No	No				No		Not done		Positive	5400 /uL	Positive	12024 /uL	primer plasmo1-plasmo2	Negative					Negative	Negative		Positive		13 g/dL		No	No	Yes	No	"yes, signed consent"	"yes, signed consent"	Homo sapiens
+Latin_America_30102100061_				Latin America	P3.1	30102100061	22 years	male	20120312	Colombia	Tierralta - Cordoba	cross-sectional		original		symptomatic	Not applicable	No	No		37 C	axillary	No		No		No	No	No				No		Not done		Positive	14600 /uL	Positive	48000 /uL	primer plasmo1-plasmo2	Negative					Negative	Negative		Positive		12 g/dL		No	No	Yes	No	"yes, signed consent"	"yes, signed consent"	Homo sapiens
+Latin_America_30102100411_				Latin America	P3.1	30102100411	64 years	male	20121119	Colombia	Tierralta - Cordoba	cross-sectional		original		symptomatic	Not applicable	No	Yes	2 days	38 C	axillary	No		No		No	No	No				No		Not done		Positive	14800 /uL	Positive	19487 /uL	primer plasmo1-plasmo2	Positive	4800 /uL				Negative	Negative		Positive		15 g/dL		No	No	Yes	No	"yes, signed consent"	"yes, signed consent"	Homo sapiens
+Latin_America_30102100109_				Latin America	P3.1	30102100109	4 years	male	20120507	Colombia	Tierralta - Cordoba	cross-sectional		original		symptomatic	Not applicable	No	No		37 C	axillary	No		No		No	No	No				No		Not done		Positive	19800 /uL	Positive	1156 /uL	primer plasmo1-plasmo2	Negative					Negative	Negative		Positive		9 g/dL		No	No	Yes	No	"yes, signed consent"	"yes, signed consent"	Homo sapiens
+Latin_America_10101048061B_				Latin America	P1.1	10101048061B	21 years	male	20130815	Colombia	"Zaragoza, Buenaventura - Valle del Cauca"	cohort		original		symptomatic		No	No		36 C	axillary	No		No										Not done		Negative		Positive	24 /uL	primer plasmo1-plasmo2	Not done					Negative	Negative		Positive				No	No	Yes	Yes	"yes, signed consent"	"yes, signed consent"	Homo sapiens
+Latin_America_101010110207_				Latin America	P1.1	1.01E+11	32 years	female	20120927	Colombia	"Punta Soldado, Buenaventura - Valle del Cauca"	cohort		original		symptomatic		No	No		37 C	axillary	No		No										Not done		Negative		Positive	2 /uL	primer plasmo1-plasmo2	Not done					Negative	Negative		Positive				No	No	Yes	No	"yes, signed consent"	"yes, signed consent"	Homo sapiens
+Latin_America_101010110151_				Latin America	P1.1	1.01E+11	46 years	male	20120927	Colombia	"Punta Soldado, Buenaventura - Valle del Cauca"	cohort		original		asymptomatic		No	No		36 C	axillary	No		No										Not done		Negative		Negative		primer plasmo1-plasmo2	Not done					Negative	Negative		Positive				No	No	Yes	No	"yes, signed consent"	"yes, signed consent"	Homo sapiens
+Latin_America_30102100212_				Latin America	P3.1	30102100212	17 years	male	20120727	Colombia	Tierralta - Cordoba	cross-sectional		original		symptomatic	Not applicable	No	Yes	8 days	40 C	axillary	No		No		No	No	No				No		Not done		Positive	13600 /uL	Positive	17701 /uL	primer plasmo1-plasmo2	Negative					Negative	Negative		Positive		12 g/dL		No	No	Yes	No	"yes, signed consent"	"yes, signed consent"	Homo sapiens
+Latin_America_10102009038B_				Latin America	P1.1	10102009038B	6 years																																																					
+Latin_America_10102009022B_				Latin America	P1.1	10102009022B	16 years																																																					
+Latin_America_10102069026B_				Latin America	P1.1	10102069026B	16 years																																																					
+Latin_America_10102008029B_				Latin America	P1.1	10102008029B	11 years																																																					
+Latin_America_30102100402_				Latin America	P3.1	30102100402	6 years																																																					
+Latin_America_10102008007B_				Latin America	P1.1	10102008007B	4 years																																																					
+Latin_America_30102100062_				Latin America	P3.1	30102100062	33 years																																																					
+Latin_America_30102100360_				Latin America	P3.1	30102100360	10 years																																																					
+Latin_America_10102008039B_				Latin America	P1.1	10102008039B	19 years																																																					
+Latin_America_10102069042B_				Latin America	P1.1	10102069042B	11 years																																																					
+Latin_America_10102009030B_				Latin America	P1.1	10102009030B	19 years																																																					
+Latin_America_30102100249_				Latin America	P3.1	30102100249	10 years																																																					
+Latin_America_30102100290_				Latin America	P3.1	30102100290	15 years																																																					
+Latin_America_30102100441_				Latin America	P3.1	30102100441	19 years																																																					
+Latin_America_30102100295_				Latin America	P3.1	30102100295	53 years																																																					
+Latin_America_30102100268_				Latin America	P3.1	30102100268	20 years																																																					
+Latin_America_30102100088_				Latin America	P3.1	30102100088	3 years																																																					
+Latin_America_10102069007B_				Latin America	P1.1	10102069007B	33 years																																																					
+Latin_America_30102100363_				Latin America	P3.1	30102100363	19 years																																																					
+Latin_America_30102100342_				Latin America	P3.1	30102100342	4 years																																																					
+Latin_America_10102008008B_				Latin America	P1.1	10102008008B	4 years																																																					
+Latin_America_10102008033B_				Latin America	P1.1	10102008033B	13 years																																																					
+Latin_America_10102009025B_				Latin America	P1.1	10102009025B	65 years																																																					
+Latin_America_101010130177_				Latin America	P1.1	1.01E+11	16 years																																																					
+Latin_America_10102069005B_				Latin America	P1.1	10102069005B	10 years																																																					
+Latin_America_30102100373_				Latin America	P3.1	30102100373	12 years																																																					
+Latin_America_30102100138_				Latin America	P3.1	30102100138	12 years																																																					
+Latin_America_30103103076_				Latin America	P3.1	30103103076	46 years																																																					
+Latin_America_10102008024B_				Latin America	P1.1	10102008024B	19 years																																																					
+Latin_America_30102100280_				Latin America	P3.1	30102100280	7 years																																																					
+Latin_America_30102100352_				Latin America	P3.1	30102100352	16 years																																																					
+Latin_America_30102100256_				Latin America	P3.1	30102100256	16 years																																																					
+Latin_America_10101013055B_				Latin America	P1.1	10101013055B	16 years																																																					
+Latin_America_10102009021B_				Latin America	P1.1	10102009021B	4 years																																																					
+Latin_America_10102008006B_				Latin America	P1.1	10102008006B	53 years																																																					
+Latin_America_101010110191_				Latin America	P1.1	1.01E+11	54 years																																																					
+Latin_America_30102100204_				Latin America	P3.1	30102100204	9 years																																																					
+Latin_America_101010110177_				Latin America	P1.1	1.01E+11	5 years																																																					
+Latin_America_10102069039B_				Latin America	P1.1	10102069039B	22 years																																																					
+Latin_America_30102100064_				Latin America	P3.1	30102100064	20 years																																																					
+Latin_America_30102100242_				Latin America	P3.1	30102100242	13 years																																																					
+Latin_America_10102069035B_				Latin America	P1.1	10102069035B	13 years																																																					
+Latin_America_10102009010B_				Latin America	P1.1	10102009010B	9 years																																																					
+Latin_America_10102008015B_				Latin America	P1.1	10102008015B	46 years																																																					
+Latin_America_101010110158_				Latin America	P1.1	1.01E+11	7 years																																																					
+Latin_America_10102008028B_				Latin America	P1.1	10102008028B	7 years																																																					
