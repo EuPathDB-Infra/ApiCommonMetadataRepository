@@ -1,21 +1,21 @@
 Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [fungal life stage]	Antibody	characteristics [fungal genotype]	Characteristics [Replicate]	Characteristics[treatment]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
-Ryp1-in-ryp1-37-ChIP-sample-B				mutant	Ryp1	ryp1	B	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp3-in-ryp3-37-ChIP-sample-B				mutant	Ryp3	ryp3	B	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp3-in-G217B-37-ChIP-sample-A				WT	Ryp3	G217B	A	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp2-in-G217B-37-ChIP-sample-A				WT	Ryp2	G217B	A	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp1-in-G217B-37-ChIP-sample-A				WT	Ryp1	G217B	A	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp2-in-ryp2-37-ChIP-sample-B				mutant	Ryp2	ryp2	B	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp2-in-G217B-37-ChIP-sample-B				WT	Ryp2	G217B	B	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp2-in-ryp2-37-ChIP-sample-A				mutant	Ryp2	ryp2	A	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp4-in-G217B-37-ChIP-sample-B				WT	Ryp4	G217B	B	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp1-in-G217B-37-ChIP-sample-B				WT	Ryp1	G217B	B	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp3-in-ryp3-37-ChIP-sample-A				mutant	Ryp3	ryp3	A	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp1-in-ryp1-37-ChIP-sample-A				mutant	Ryp1	ryp1	A	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp4-in-ryp4-37-ChIP-sample-A				mutant	Ryp4	ryp4	A	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp2-in-G217B-37-ChIP-sample-C				WT	Ryp2	G217B	C	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp3-in-G217B-37-ChIP-sample-B				WT	Ryp3	G217B	B	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp4-in-G217B-37-ChIP-sample-C				WT	Ryp4	G217B	C	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp4-in-G217B-37-ChIP-sample-A				WT	Ryp4	G217B	A	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp4-in-ryp4-37-ChIP-sample-B				mutant	Ryp4	ryp4	B	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp3-in-G217B-37-ChIP-sample-C				WT	Ryp3	G217B	C	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
-Ryp1-in-G217B-37-ChIP-sample-C				WT	Ryp1	G217B	C	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp1-in-ryp1-37-ChIP-sample-B	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			mutant	Ryp1	ryp1	Ryp1 in ryp1 B	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp3-in-ryp3-37-ChIP-sample-B	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			mutant	Ryp3	ryp3	Ryp3 in ryp3 B	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp3-in-G217B-37-ChIP-sample-A	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			WT	Ryp3	G217B	Ryp3 in G217B A	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp2-in-G217B-37-ChIP-sample-A	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			WT	Ryp2	G217B	Ryp2 in G217B A	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp1-in-G217B-37-ChIP-sample-A	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			WT	Ryp1	G217B	Ryp1 in G217B A	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp2-in-ryp2-37-ChIP-sample-B	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			mutant	Ryp2	ryp2	Ryp2 in ryp2-37 B	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp2-in-G217B-37-ChIP-sample-B	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			WT	Ryp2	G217B	Ryp2 in G217B B	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp2-in-ryp2-37-ChIP-sample-A	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			mutant	Ryp2	ryp2	Ryp2 in ryp2-37 A	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp4-in-G217B-37-ChIP-sample-B	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			WT	Ryp4	G217B	Ryp4 in G217B B	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp1-in-G217B-37-ChIP-sample-B	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			WT	Ryp1	G217B	Ryp1 in G217B B	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp3-in-ryp3-37-ChIP-sample-A	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			mutant	Ryp3	ryp3	Ryp3 in ryp3 A	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp1-in-ryp1-37-ChIP-sample-A	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			mutant	Ryp1	ryp1	Ryp1 in ryp1 A	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp4-in-ryp4-37-ChIP-sample-A	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			mutant	Ryp4	ryp4	Ryp4 in ryp4-37 A	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp2-in-G217B-37-ChIP-sample-C	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			WT	Ryp2	G217B	Ryp2 in G217B C	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp3-in-G217B-37-ChIP-sample-B	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			WT	Ryp3	G217B	Ryp3 in G217B B	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp4-in-G217B-37-ChIP-sample-C	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			WT	Ryp4	G217B	Ryp4 in G217B C	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp4-in-G217B-37-ChIP-sample-A	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			WT	Ryp4	G217B	Ryp4 in G217B A	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp4-in-ryp4-37-ChIP-sample-B	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			mutant	Ryp4	ryp4	Ryp4 in ryp4-37 B	37C	filamentous	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp3-in-G217B-37-ChIP-sample-C	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			WT	Ryp3	G217B	Ryp3 in G217B C	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
+Ryp1-in-G217B-37-ChIP-sample-C	ChiP-chip investigation of loci bound by Ryp1, Ryp2, and Ryp3.			WT	Ryp1	G217B	Ryp1 in G217B C	37C	yeast	Histoplasma capsulatum	Histoplasma capsulatum G217B
