@@ -56,4 +56,4 @@ CDC_B11247	Aligned genome sequence reads - Candida auris isolates			Venezuela	20
 CDC_B11102	Aligned genome sequence reads - Candida auris isolates			Pakistan	2014	Blood	Candida auris	CDC_B11102
 CDC_B11118	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Urine	Candida auris	CDC_B11118
 CDC_B11119	Aligned genome sequence reads - Candida auris isolates			Pakistan	2015	Urine	Candida auris	CDC_B11119
-CDC_B11219	Aligned genome sequence reads - Candida auris isolates			India	not applicable	not collected	Candida auris	CDC_B11219
+CDC_B11219	Aligned genome sequence reads - Candida auris isolates			India		not collected	Candida auris	CDC_B11219

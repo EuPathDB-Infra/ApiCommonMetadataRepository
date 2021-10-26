@@ -224,13 +224,13 @@
     <name>latitude coordinate measurement datum</name>
     <name>latitude</name>
     <name>gps_latitude</name>
-    <function>splitUnitFromValue</function> 
+    <function>splitLatitudeLongitudeUnitFromValue</function> 
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001621" type="characteristicQualifier" parent="Source">
     <name>longitude coordinate measurement datum</name>
     <name>longitude</name>
     <name>gps_longitude</name>
-    <function>splitUnitFromValue</function>
+    <function>splitLatitudeLongitudeUnitFromValue</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000639" type="characteristicQualifier" parent="Source">
     <name>PNAS_paper</name>
