@@ -169,6 +169,7 @@
     <name>village</name>
     <name>Location</name>
     <name>location</name>
+    <name>city</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
     <name>age</name>
@@ -291,9 +292,13 @@
     <name>course_num</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000581" type="characteristicQualifier" parent="Source">
-      <name>csection</name>
+    <name>csection</name>
     <name>delivery</name>
     <name>baby_delivery_mode</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0038078" type="characteristicQualifier" parent="Source">
+    <name>Labor duration</name>
+    <function>splitUnitFromValue</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000585" type="characteristicQualifier" parent="Source">
     <name>diet_2_month</name>
@@ -471,6 +476,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009036" type="characteristicQualifier" parent="Source">
     <name>abx_while_pregnant</name>
+    <name>Antibiotic use</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009042" type="characteristicQualifier" parent="Source">
     <name>age_at_t1d_onset</name>
@@ -916,7 +922,21 @@
     <name>Received protein pump inhibitor</name>
     <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
-
+  <ontologyTerm source_id="EUPATH_0033193" type="characteristicQualifier" parent="Source">
+    <name>HIV status</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GSSO_004872" type="characteristicQualifier" parent="Source">
+    <name>Vaginal infection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009107" type="characteristicQualifier" parent="Source">
+    <name>Cytomegalovirus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009109" type="characteristicQualifier" parent="Source">
+    <name>Fever during labor</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0049205" type="characteristicQualifier" parent="Source">
+    <name>Number of previous pregnancies</name>
+  </ontologyTerm>
 
   <!-- Characteristics associated with Sample -->
 
@@ -994,6 +1014,7 @@
   <ontologyTerm source_id="OBI_0100051" type="characteristicQualifier" parent="Sample">
     <name>sample_type</name>
     <name>sampletype</name>
+    <name>sample type</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001891" type="characteristicQualifier" parent="Sample">
     <name>sequencecenter</name>
@@ -1022,6 +1043,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="SO_0001000" type="characteristicQualifier" parent="Sample">
     <name>region</name>
+    <name>Region of 16S rRNA sequenced</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009027" type="characteristicQualifier" parent="Sample">
     <name>Experiment</name>
@@ -1229,6 +1251,9 @@
   <ontologyTerm source_id="NCIT_C105971" type="characteristicQualifier" parent="Sample">
     <name>calprotectin</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EFO_0000683" type="characteristicQualifier" parent="Sample">
+    <name>replicate</name>
+  </ontologyTerm>
   
 <!-- characteristicValues -->
   <!-- PATO terms -->
@@ -1431,6 +1456,10 @@
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000996" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:vagina</name>
+    <name>Vagina</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0012317" type="characteristicValue" parent="characteristicQualifier">
+    <name>Vaginal orifice</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0001003" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:skin</name>
@@ -1647,7 +1676,10 @@ r">
     <name>month</name>
     <name>months</name>
   </ontologyTerm>
-
+   <ontologyTerm source_id="UO_0000032" type="unit">
+    <name>hours</name>
+    <name>hour</name>
+  </ontologyTerm>
 
 
 
