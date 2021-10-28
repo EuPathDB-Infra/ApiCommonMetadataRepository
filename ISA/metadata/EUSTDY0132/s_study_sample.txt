@@ -1,0 +1,7 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [Anti-fungal agent resistance]	Characteristics[country]	Characteristics [continent]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
+CF16	C. auris B11220 mono- and multidrug resistance evolution experiment			caspofungin and fluconazole	Belgium	Europe	Laboratory culture	[Candida] auris	[Candida] auris CF16
+FC17	C. auris B11220 mono- and multidrug resistance evolution experiment			fluconazole and caspofungin	Belgium	Europe	Laboratory culture	[Candida] auris	[Candida] auris FC17
+A29	C. auris B11220 mono- and multidrug resistance evolution experiment			amphotericin B	Belgium	Europe	Laboratory culture	[Candida] auris	[Candida] auris A29
+C20	C. auris B11220 mono- and multidrug resistance evolution experiment			caspofungin	Belgium	Europe	Laboratory culture	[Candida] auris	[Candida] auris C20
+F30	C. auris B11220 mono- and multidrug resistance evolution experiment			fluconazole	Belgium	Europe	Laboratory culture	[Candida] auris	[Candida] auris F30
+wt	C. auris B11220 mono- and multidrug resistance evolution experiment			none	Japan	Asia	Homo Sapiens culture	[Candida] auris	[Candida] auris wt
