@@ -1,0 +1,11 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [fungus organism]	Characteristics [fungal strain]	Characteristics [specimen]	Characteristics[country]	Characteristics [continent]
+AMS4397	Candida albicans adaptation to azole antifungal drugs			Candida albicans	Candida albicans AMS4397	in vitro	USA	North America
+AMS4702	Candida albicans adaptation to azole antifungal drugs			Candida albicans	Candida albicans AMS4702	in vitro	USA	North America
+AMS3051	Candida albicans adaptation to azole antifungal drugs			Candida albicans	Candida albicans AMS3051	in vitro	USA	North America
+AMS4107	Candida albicans adaptation to azole antifungal drugs			Candida albicans	Candida albicans AMS4107	in vitro	USA	North America
+AMS4106	Candida albicans adaptation to azole antifungal drugs			Candida albicans	Candida albicans AMS4106	in vitro	USA	North America
+AMS4105	Candida albicans adaptation to azole antifungal drugs			Candida albicans	Candida albicans AMS4105	in vitro	USA	North America
+AMS4104	Candida albicans adaptation to azole antifungal drugs			Candida albicans	Candida albicans AMS4104	in vitro	USA	North America
+AMS3093	Candida albicans adaptation to azole antifungal drugs			Candida albicans	Candida albicans AMS3093	in vitro	USA	North America
+AMS3092	Candida albicans adaptation to azole antifungal drugs			Candida albicans	Candida albicans AMS3092	in vitro	USA	North America
+AMS4444	Candida albicans adaptation to azole antifungal drugs			Candida albicans	Candida albicans AMS4444	in vitro	USA	North America
