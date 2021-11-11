@@ -207,7 +207,7 @@
     <name>blood_smear_summary</name>    
   </ontologyTerm>
 
-  <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ENVO_00000009" type="characteristicQualifier" parent="Source">
     <name>country</name>
     <name>geographic location</name>
     <name>GeographicLocation</name>    
