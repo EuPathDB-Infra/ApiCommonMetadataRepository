@@ -940,6 +940,11 @@
   <ontologyTerm source_id="SYMP_0019174" type="characteristicQualifier" parent="Source">
     <name>Chills reported</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000048" type="characteristicQualifier" parent="Source">
+    <name>Malaria results</name>
+  </ontologyTerm>
+
+
   <!-- Characteristics associated with Sample -->
 
 
