@@ -185,6 +185,10 @@
     <name>day_of_life</name>
     <name>Age (days)</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009190" type="characteristicQualifier" parent="Source">
+    <name>Age at discharge</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000512" type="characteristicQualifier" parent="Source">
     <name>host_common_name</name>
     <name>species common name</name>
@@ -206,7 +210,7 @@
     <name>Weight_to_use</name>
   </ontologyTerm>
   <ontologyTerm source_id="PATO_0000047" type="characteristicQualifier" parent="Source">
-      <name>gender</name>
+    <name>gender</name>
     <name>sex</name>
     <name>host_sex</name>
     <function>valueIsOntologyTerm</function>
@@ -659,6 +663,13 @@
   <ontologyTerm source_id="EUPATH_0009095" type="characteristicQualifier" parent="Source">
     <name>gestational_age</name>
     <name>Gestational age at birth (days)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EFO_0004344" type="characteristicQualifier" parent="Source">
+    <name>Birthweight</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009102" type="characteristicQualifier" parent="Source">
+    <name>Percentage of life on antibiotics</name>
   </ontologyTerm>
   <ontologyTerm source_id="HP_0032319" type="characteristicQualifier" parent="Source">
     <name>Clinical Status</name>
@@ -1247,7 +1258,8 @@
     <name>Age at sample collection (days)</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009097" type="characteristicQualifier" parent="Sample">
-    <name>Postmenstrual age at sample collection (days)</name>
+    <name>Postmenstrual age at sample collection</name>
+    <function>splitUnitFromValue</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009101" type="characteristicQualifier" parent="Sample">
     <name>Blood culture results</name>
