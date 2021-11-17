@@ -595,6 +595,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009034" type="characteristicQualifier" parent="Source">
     <name>mom_age_at_birth</name>
+    <function>splitUnitFromValue</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009043" type="characteristicQualifier" parent="Source">
     <name>t1d_diagnosed</name>
@@ -820,6 +821,13 @@
     <name>necrotizing_enterocolitis_status</name>
     <name>Nectrotizing Enterocolitis (NEC)</name>
     <name>NEC</name>
+    <name>NecrotizingEnterocolitis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009272" type="characteristicQualifier" parent="Source">
+    <name>MaternalAntimicrobials</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009273" type="characteristicQualifier" parent="Source">
+    <name>EnteralFeeds_2mo</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009180" type="characteristicQualifier" parent="Source">
     <name>urine</name>
@@ -955,6 +963,18 @@
     <name>Malaria results</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="EUPATH_0009242" type="characteristicQualifier" parent="Source">
+    <name>BloodInfection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009243" type="characteristicQualifier" parent="Source">
+    <name>UrineInfection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009270" type="characteristicQualifier" parent="Source">
+    <name>TrachealInfection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009271" type="characteristicQualifier" parent="Source">
+    <name>OtherInfection</name>
+  </ontologyTerm>
 
   <!-- Characteristics associated with Sample -->
 
