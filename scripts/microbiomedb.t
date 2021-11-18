@@ -20,7 +20,7 @@ my $ontologyMappings = OntologyMappings->new("$FindBin::Bin/../ISA/config/ontolo
 # my $valueMappingFile = "$FindBin::Bin/../../ISA/config/valueMappingsMicrobiome.txt";
 
 # just the word age, meaning age in years: OBI_0001169
-my @requiredSourceIds = qw/OBI_0100051 EUPATH_0000512 UBERON_0000466 UBERON_0000061 UBERON_0000463 SO_0001000 ENVO_01000739 ENVO_00000004/;
+my @requiredSourceIds = qw/OBI_0100051 EUPATH_0000512 UBERON_0000466 UBERON_0000061 UBERON_0000463 SO_0001000 ENVO_01000739 ENVO_00000009/;
 
 my $mbioDir = "$FindBin::Bin/../ISA/metadata/MBSTDY0020";
 # my $ontologyMappingOverrideFile = "$mbioDir/ontologyMappingOverride.xml";
@@ -51,7 +51,7 @@ for my $isaName (@isaNames){
   });
 }
 my %exceptions = (
-  ENVO_00000004 => {
+  ENVO_00000009 => {
     "Ciara_V4.txt" => "Lab setting, no need for country",
   },
   SO_0001000 => {
@@ -59,6 +59,10 @@ my %exceptions = (
     'HMPWgs.txt' => "WGS, no specific region",
     'ResistomeWgs.txt' => "WGS, no specific region",
     'NICUNEC.txt' => "WGS, no specific region",
+    'BONUS.txt' => "WGS",
+    'DIABIMMUNE_WGS.txt' => "WGS",
+    'NICUDischarge.txt' => "WGS",   
+
   }
 );
 for my $requiredTermId (@requiredSourceIds){

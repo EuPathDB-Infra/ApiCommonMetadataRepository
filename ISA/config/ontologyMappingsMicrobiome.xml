@@ -159,7 +159,7 @@
   <ontologyTerm source_id="EUPATH_0010375" type="characteristicQualifier" parent="Source">
     <name>case_control</name>
   </ontologyTerm>
-  <ontologyTerm source_id="ENVO_00000004" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ENVO_00000009" type="characteristicQualifier" parent="Source">
     <name>country name</name>
     <name>country</name>
     <name>geo_loc_name</name>
@@ -1289,7 +1289,7 @@
   <ontologyTerm source_id="NCBITaxon_10508" type="characteristicQualifier" parent="Sample">
     <name>Adenovirus</name>
   </ontologyTerm>
-  <ontologyTerm source_id="NCBITaxon_11118" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="NCBITaxon_2501931" type="characteristicQualifier" parent="Sample">
     <name>Coronavirus</name>
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_11137" type="characteristicQualifier" parent="Sample">
@@ -1408,7 +1408,7 @@
   <ontologyTerm source_id="NCBITaxon_85698" type="characteristicQualifier" parent="Sample">
     <name>Achromobacter xyloxidans</name>
   </ontologyTerm>
-  <ontologyTerm source_id="SNOMEDCT_83088009" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="NCBITaxon_28090" type="characteristicQualifier" parent="Sample">
     <name>Acinetobacter lwoffi</name>
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_95486" type="characteristicQualifier" parent="Sample">
@@ -1460,6 +1460,7 @@
     <name>Age at sample collection (days)</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009097" type="characteristicQualifier" parent="Sample">
+    <name>Postmenstrual age at sample collection (days)</name>
     <name>Postmenstrual age at sample collection</name>
     <function>splitUnitFromValue</function>
   </ontologyTerm>
