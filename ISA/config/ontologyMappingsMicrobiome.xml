@@ -299,6 +299,7 @@
     <name>csection</name>
     <name>delivery</name>
     <name>baby_delivery_mode</name>
+    <name>Delivery Mode</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0038078" type="characteristicQualifier" parent="Source">
     <name>Labor duration</name>

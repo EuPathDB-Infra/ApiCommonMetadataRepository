@@ -1,0 +1,125 @@
+name	description	country	host_common_name	body_habitat	body_site	body_product	Age (years)	Sex	Sample type	replicate	Region of 16S rRNA sequenced	City	HIV status	Delivery duration	Delivery Mode	Malaria results	Vaginal infection	Antibiotic use	Chills reported	Cytomegalovirus	Fever during labor	Number of previous pregnancies
+5010.SRR12919494	Sample 5010, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab		V3-V4	Mbarara	Negative	52 hours	Yes	Negative	No	No	Yes	Negative	Afebrile	1
+5012.SRR12919614	Sample 5012, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	21	female	Vaginal Swab		V3-V4	Mbarara	Negative	12 hours	Yes	Negative	No	No	No	Negative	Febrile	1
+5013.SRR12919613	Sample 5013, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	22	female	Vaginal Swab		V3-V4	Mbarara	Negative	5 hours	No	Negative	Yes	No	No	Negative	Afebrile	3
+5016.SRR12919570	Sample 5016, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	32	female	Vaginal Swab		V3-V4	Mbarara	Negative	24 hours	No	Negative	No	No	No	Negative	Afebrile	5
+5020.SRR12919559	Sample 5020, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	25	female	Vaginal Swab		V3-V4	Mbarara	Negative	24 hours	No	Negative	Yes	No	No	Negative	Afebrile	4
+5022.SRR12919612	Sample 5022, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	27	female	Vaginal Swab		V3-V4	Mbarara	Positive	85 hours	Yes	Negative	No	NA	Yes	Negative	Febrile	1
+5023.SRR12919611	Sample 5023, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab		V3-V4	Mbarara	Negative	48 hours	Yes	Negative	Yes	NA	Yes	Negative	Febrile	1
+5024.SRR12919526	Sample 5024, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	25	female	Vaginal Swab		V3-V4	Mbarara	Negative	48 hours	No	Negative	No	No	No	Negative	Afebrile	3
+5032.SRR12919515	Sample 5032, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	23	female	Vaginal Swab		V3-V4	Mbarara	Negative	7 hours	No	Negative	No	No	No	Positive	Afebrile	1
+5034.SRR12919504	Sample 5034, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab		V3-V4	Mbarara	Negative	48 hours	No	Negative	No	No	No	Negative	Afebrile	1
+5038.SRR12919610	Sample 5038, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab		V3-V4	Mbarara	Negative	48 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
+5039.SRR12919604	Sample 5039, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab		V3-V4	Mbarara	Negative	48 hours	No	Negative	No	Yes	Yes	Negative	Febrile	1
+5042.SRR12919593	Sample 5042, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	25	female	Vaginal Swab		V3-V4	Mbarara	Negative	72 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
+5043.SRR12919609	Sample 5043, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	20	female	Vaginal Swab		V3-V4	Mbarara	Positive	65 hours	No	Positive	No	No	Yes	Negative	Febrile	1
+5044.SRR12919608	Sample 5044, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	21	female	Vaginal Swab		V3-V4	Mbarara	Negative	48 hours	Yes	Negative	No	No	No	Positive	Febrile	1
+5046.SRR12919586	Sample 5046, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab		V3-V4	Mbarara	Negative	72 hours	Yes	Negative	No	No	Yes	Positive	Febrile	2
+5047.SRR12919585	Sample 5047, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	23	female	Vaginal Swab		V3-V4	Mbarara	Positive	24 hours	No	Negative	Yes	No	Yes	Negative	Febrile	2
+5048.SRR12919584	Sample 5048, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab		V3-V4	Mbarara	Negative	48 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
+5050.SRR12919583	Sample 5050, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	24	female	Vaginal Swab		V3-V4	Mbarara	Negative	48 hours	No	Negative	No	No	Yes	Negative	Febrile	2
+6001.SRR12919582	Sample 6001, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	36	female	Vaginal Swab		V3-V4	Mbale	Negative	13 hours	No	Negative	No	No	No	Positive	Afebrile	7
+6004.SRR12919580	Sample 6004, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	18	female	Vaginal Swab		V3-V4	Mbale	Negative	16 hours	Yes	Negative	No	No	No	Negative	Afebrile	1
+6005.SRR12919579	Sample 6005, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab		V3-V4	Mbale	Negative	58 hours	Yes	NA	No	Yes	No	Positive	Afebrile	1
+6006.SRR12919578	Sample 6006, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	30	female	Vaginal Swab		V3-V4	Mbale	Negative	10 hours	Yes	Positive	No	No	No	Positive	Afebrile	1
+6010.SRR12919577	Sample 6010, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab		V3-V4	Mbale	Negative	12 hours	No	Positive	No	No	No	Positive	Afebrile	4
+6011.SRR12919576	Sample 6011, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	34	female	Vaginal Swab		V3-V4	Mbale	Negative	24 hours	No	Positive	No	No	No	Positive	Afebrile	3
+6013.SRR12919575	Sample 6013, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	22	female	Vaginal Swab		V3-V4	Mbale	Negative	48 hours	Yes	Negative	No	No	No	Positive	Afebrile	1
+6015.SRR12919574	Sample 6015, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	28	female	Vaginal Swab		V3-V4	Mbale	Negative	4 hours	No	Negative	No	No	No	Negative	Afebrile	3
+6016.SRR12919573	Sample 6016, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	30	female	Vaginal Swab		V3-V4	Mbale	Negative	3 hours	No	Negative	NA	No	NA	Negative	Afebrile	6
+6018.SRR12919572	Sample 6018, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	28	female	Vaginal Swab		V3-V4	Mbale	Positive	23 hours	No	Negative	No	No	No	Negative	Febrile	3
+6019.SRR12919571	Sample 6019, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	30	female	Vaginal Swab		V3-V4	Mbale	Negative	18 hours	Yes	Negative	No	No	No	Positive	Febrile	10
+6020.SRR12919569	Sample 6020, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	27	female	Vaginal Swab		V3-V4	Mbale	Negative	48 hours	No	Negative	No	No	No	Negative	Afebrile	3
+6022.SRR12919568	Sample 6022, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	32	female	Vaginal Swab		V3-V4	Mbale	Negative	12 hours	No	Positive	No	No	No	Positive	Febrile	4
+6025.SRR12919567	Sample 6025, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	23	female	Vaginal Swab		V3-V4	Mbale	Negative	36 hours	No	Negative	No	No	No	Positive	Febrile	2
+6036.SRR12919566	Sample 6036, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	18	female	Vaginal Swab		V3-V4	Mbale	Negative	18 hours	No	Positive	No	No	No	Negative	Febrile	1
+6037.SRR12919565	Sample 6037, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	27	female	Vaginal Swab		V3-V4	Mbale	Positive	18 hours	Yes	Negative	No	No	Yes	Positive	Febrile	6
+6038.SRR12919564	Sample 6038, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	25	female	Vaginal Swab		V3-V4	Mbale	Negative	24 hours	No	Positive	No	No	No	Positive	Febrile	1
+6039.SRR12919563	Sample 6039, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	21	female	Vaginal Swab		V3-V4	Mbale	Negative	96 hours	Yes	Negative	No	No	No	Negative	Afebrile	1
+6045.SRR12919562	Sample 6045, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	34	female	Vaginal Swab		V3-V4	Mbale	Negative	6 hours	No	Negative	No	No	No	Negative	Afebrile	6
+6046.SRR12919561	Sample 6046, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	23	female	Vaginal Swab		V3-V4	Mbale	Negative	9 hours	No	Negative	No	No	No	Negative	Afebrile	2
+6047.SRR12919560	Sample 6047, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	22	female	Vaginal Swab		V3-V4	Mbale	Negative	46 hours	No	Negative	No	No	No	Negative	Febrile	3
+6049.SRR12919558	Sample 6049, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	18	female	Vaginal Swab		V3-V4	Mbale	Negative	48 hours	No	Negative	No	No	No	Negative	Febrile	1
+6050.SRR12919557	Sample 6050, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	22	female	Vaginal Swab		V3-V4	Mbale	Unknown	28 hours	Yes	Negative	No	No	No	Negative	Febrile	2
+6052.SRR12919556	Sample 6052, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	NA	female	Vaginal Swab		V3-V4	Mbale	Negative	8 hours	Yes	Negative	NA	Yes	NA	Negative	Febrile	3
+5008.SRR12919555	Sample 5008, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	35	female	Vaginal Swab		V3-V4	Mbarara	Negative	24 hours	Yes	Positive	No	No	No	Negative	Febrile	6
+5009.SRR12919554	Sample 5009, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	25	female	Vaginal Swab		V3-V4	Mbarara	Negative	48 hours	Yes	Negative	No	NA	Yes	Negative	Febrile	1
+5011.SRR12919607	Sample 5011, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	27	female	Vaginal Swab		V3-V4	Mbarara	Negative	12 hours	No	Negative	No	No	No	Positive	Afebrile	3
+5014.SRR12919552	Sample 5014, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	37	female	Vaginal Swab		V3-V4	Mbarara	Negative	17 hours	No	Negative	No	No	No	Negative	Afebrile	7
+5015.SRR12919551	Sample 5015, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab		V3-V4	Mbarara	Negative	4 hours	Yes	Negative	No	No	No	Negative	Afebrile	2
+5017.SRR12919550	Sample 5017, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	25	female	Vaginal Swab		V3-V4	Mbarara	Negative	72 hours	No	Positive	No	No	Yes	Negative	Afebrile	2
+5018.SRR12919549	Sample 5018, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	24	female	Vaginal Swab		V3-V4	Mbarara	Positive	48 hours	Yes	Negative	No	No	No	Negative	Afebrile	3
+5019.SRR12919547	Sample 5019, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	25	female	Vaginal Swab		V3-V4	Mbarara	Negative	48 hours	No	Negative	No	No	No	Negative	Afebrile	1
+5021.SRR12919606	Sample 5021, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab		V3-V4	Mbarara	Negative	20 hours	No	Negative	No	NA	No	Positive	Afebrile	1
+5029.SRR12919605	Sample 5029, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	18	female	Vaginal Swab		V3-V4	Mbarara	Negative	48 hours	Yes	Negative	No	NA	No	Positive	Febrile	1
+5030.SRR12919544	Sample 5030, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	33	female	Vaginal Swab		V3-V4	Mbarara	Negative	48 hours	No	Negative	No	No	No	Positive	Afebrile	4
+5031.SRR12919543	Sample 5031, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	23	female	Vaginal Swab		V3-V4	Mbarara	Positive	12 hours	No	Negative	No	No	No	Negative	Afebrile	2
+5035.SRR12919603	Sample 5035, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	22	female	Vaginal Swab		V3-V4	Mbarara	Negative	52 hours	Yes	Negative	No	NA	No	Negative	Febrile	1
+5036.SRR12919602	Sample 5036, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	39	female	Vaginal Swab		V3-V4	Mbarara	Positive	24 hours	No	NA	No	No	No	Negative	Afebrile	9
+5037.SRR12919601	Sample 5037, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	23	female	Vaginal Swab		V3-V4	Mbarara	Negative	24 hours	Yes	Negative	No	NA	No	Positive	Afebrile	1
+5040.SRR12919539	Sample 5040, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	20	female	Vaginal Swab		V3-V4	Mbarara	Negative	49 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
+5041.SRR12919538	Sample 5041, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab		V3-V4	Mbarara	Negative	49 hours	Yes	Positive	No	No	Yes	Negative	Febrile	1
+5049.SRR12919536	Sample 5049, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	21	female	Vaginal Swab		V3-V4	Mbarara	Negative	12 hours	No	Negative	No	No	Yes	Positive	Febrile	1
+5051.SRR12919535	Sample 5051, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	38	female	Vaginal Swab		V3-V4	Mbarara	Negative	49 hours	Yes	Negative	No	No	Yes	Negative	Febrile	6
+5052.SRR12919534	Sample 5052, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	20	female	Vaginal Swab		V3-V4	Mbarara	Negative	49 hours	No	Positive	No	No	Yes	Positive	Febrile	1
+6002.SRR12919533	Sample 6002, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	29	female	Vaginal Swab		V3-V4	Mbale	Negative	120 hours	No	Negative	No	No	No	Negative	Afebrile	1
+6003.SRR12919532	Sample 6003, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	20	female	Vaginal Swab		V3-V4	Mbale	Negative	23 hours	No	Negative	No	No	No	Negative	Afebrile	1
+6008.SRR12919531	Sample 6008, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	25	female	Vaginal Swab		V3-V4	Mbale	Negative	13 hours	No	Negative	No	No	No	Positive	Afebrile	1
+6012.SRR12919530	Sample 6012, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	27	female	Vaginal Swab		V3-V4	Mbale	Negative	8 hours	No	Negative	No	No	No	Negative	Afebrile	3
+6014.SRR12919529	Sample 6014, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	20	female	Vaginal Swab		V3-V4	Mbale	Negative	0.5 hours	No	Negative	No	No	No	Negative	Afebrile	1
+6021.SRR12919528	Sample 6021, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	24	female	Vaginal Swab		V3-V4	Mbale	Negative	96 hours	No	Negative	Yes	Yes	No	Negative	Febrile	3
+6023.SRR12919527	Sample 6023, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab		V3-V4	Mbale	Negative	48 hours	No	Positive	No	No	No	Positive	Febrile	2
+6024.SRR12919525	Sample 6024, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	36	female	Vaginal Swab		V3-V4	Mbale	Negative	48 hours	No	Negative	No	No	Yes	Positive	Afebrile	5
+6026.SRR12919524	Sample 6026, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab		V3-V4	Mbale	Negative	17 hours	No	Negative	No	Yes	No	Positive	Afebrile	3
+6027.SRR12919523	Sample 6027, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab		V3-V4	Mbale	Negative	18 hours	No	Positive	No	No	No	Positive	Febrile	1
+6028.SRR12919522	Sample 6028, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	23	female	Vaginal Swab		V3-V4	Mbale	Negative	13 hours	No	Positive	No	No	Yes	Positive	Febrile	4
+6029.SRR12919521	Sample 6029, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	20	female	Vaginal Swab		V3-V4	Mbale	Negative	72 hours	No	Positive	No	No	No	Negative	Febrile	1
+6030.SRR12919520	Sample 6030, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	23	female	Vaginal Swab		V3-V4	Mbale	Negative	30 hours	Yes	Negative	No	No	No	Positive	Febrile	4
+6031.SRR12919519	Sample 6031, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	32	female	Vaginal Swab		V3-V4	Mbale	Negative	0 hours	Yes	Negative	Yes	Yes	No	Negative	Febrile	6
+6032.SRR12919518	Sample 6032, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	33	female	Vaginal Swab		V3-V4	Mbale	Negative	13 hours	No	Negative	No	No	No	Positive	Afebrile	5
+6033.SRR12919517	Sample 6033, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab		V3-V4	Mbale	Negative	1 hours	No	Positive	No	No	No	Positive	Febrile	1
+6034.SRR12919516	Sample 6034, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	20	female	Vaginal Swab		V3-V4	Mbale	Negative	24 hours	No	Positive	No	No	Yes	Negative	Febrile	2
+6035.SRR12919514	Sample 6035, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	20	female	Vaginal Swab		V3-V4	Mbale	Negative	16 hours	No	Negative	No	No	Yes	Positive	Febrile	1
+6040.SRR12919513	Sample 6040, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	27	female	Vaginal Swab		V3-V4	Mbale	Negative	20 hours	No	Negative	No	No	No	Negative	Afebrile	2
+6041.SRR12919512	Sample 6041, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	30	female	Vaginal Swab		V3-V4	Mbale	Negative	24 hours	No	Negative	No	No	No	Negative	Febrile	7
+6042.SRR12919511	Sample 6042, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	22	female	Vaginal Swab		V3-V4	Mbale	Positive	9 hours	No	Negative	No	No	No	Negative	Afebrile	1
+6043.SRR12919510	Sample 6043, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	33	female	Vaginal Swab		V3-V4	Mbale	Negative	32 hours	Yes	Negative	No	No	No	Negative	Afebrile	4
+6044.SRR12919509	Sample 6044, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	20	female	Vaginal Swab		V3-V4	Mbale	Negative	13 hours	No	Positive	No	No	No	Negative	Febrile	1
+6048.SRR12919508	Sample 6048, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab		V3-V4	Mbale	Negative	12 hours	Yes	Negative	No	No	No	Positive	Febrile	1
+6051.SRR12919507	Sample 6051, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	18	female	Vaginal Swab		V3-V4	Mbale	Negative	24 hours	No	Negative	No	Yes	No	Negative	Febrile	1
+5001.SRR12919600	Sample 5001, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	22	female	Vaginal Swab		V3-V4	Mbarara	Negative	8 hours	No	Positive	Yes	No	Yes	Negative	Febrile	2
+5002.SRR12919599	Sample 5002, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	22	female	Vaginal Swab		V3-V4	Mbarara	Negative	22 hours	No	Negative	No	No	Yes	Negative	Afebrile	1
+5003.SRR12919598	Sample 5003, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab		V3-V4	Mbarara	Negative	18 hours	No	Negative	No	No	No	Negative	Afebrile	1
+5004.SRR12919597	Sample 5004, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	33	female	Vaginal Swab		V3-V4	Mbarara	Negative	14 hours	No	Negative	No	No	No	Negative	Afebrile	4
+5005.SRR12919596	Sample 5005, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	29	female	Vaginal Swab		V3-V4	Mbarara	Negative	24 hours	No	Negative	Yes	No	No	Negative	Afebrile	4
+5006.SRR12919595	Sample 5006, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab		V3-V4	Mbarara	Positive	2 hours	No	Negative	No	No	No	Positive	Afebrile	3
+5007.SRR12919594	Sample 5007, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	20	female	Vaginal Swab		V3-V4	Mbarara	Negative	24 hours	Yes	Positive	No	No	Yes	Negative	Febrile	2
+5025.SRR12919592	Sample 5025, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	28	female	Vaginal Swab		V3-V4	Mbarara	Negative	10 hours	No	Negative	No	NA	No	Negative	Afebrile	3
+5026.SRR12919591	Sample 5026, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	29	female	Vaginal Swab		V3-V4	Mbarara	Negative	85 hours	Yes	Negative	No	No	Yes	Negative	Febrile	2
+5028.SRR12919590	Sample 5028, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab		V3-V4	Mbarara	Negative	6 hours	No	Negative	No	No	No	Negative	Afebrile	3
+5033.SRR12919589	Sample 5033, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	33	female	Vaginal Swab		V3-V4	Mbarara	Negative	36 hours	No	Negative	No	NA	Yes	Negative	Febrile	5
+5010.SRR12919494	Sample 5010, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	52 hours	Yes	Negative	No	No	Yes	Negative	Afebrile	1
+5012.SRR12919614	Sample 5012, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	21	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	12 hours	Yes	Negative	No	No	No	Negative	Febrile	1
+5013.SRR12919613	Sample 5013, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	22	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	5 hours	No	Negative	Yes	No	No	Negative	Afebrile	3
+5022.SRR12919612	Sample 5022, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	27	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Positive	85 hours	Yes	Negative	No	NA	Yes	Negative	Febrile	1
+5023.SRR12919611	Sample 5023, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	48 hours	Yes	Negative	Yes	NA	Yes	Negative	Febrile	1
+5038.SRR12919610	Sample 5038, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	48 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
+5043.SRR12919609	Sample 5043, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	20	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Positive	65 hours	No	Positive	No	No	Yes	Negative	Febrile	1
+5044.SRR12919608	Sample 5044, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	21	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	48 hours	Yes	Negative	No	No	No	Positive	Febrile	1
+5011.SRR12919607	Sample 5011, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	27	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	12 hours	No	Negative	No	No	No	Positive	Afebrile	3
+5021.SRR12919606	Sample 5021, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	20 hours	No	Negative	No	NA	No	Positive	Afebrile	1
+5029.SRR12919605	Sample 5029, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	18	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	48 hours	Yes	Negative	No	NA	No	Positive	Febrile	1
+5035.SRR12919603	Sample 5035, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	22	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	52 hours	Yes	Negative	No	NA	No	Negative	Febrile	1
+5036.SRR12919602	Sample 5036, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	39	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Positive	24 hours	No	NA	No	No	No	Negative	Afebrile	9
+5037.SRR12919601	Sample 5037, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	23	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	24 hours	Yes	Negative	No	NA	No	Positive	Afebrile	1
+5001.SRR12919600	Sample 5001, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	22	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	8 hours	No	Positive	Yes	No	Yes	Negative	Febrile	2
+5002.SRR12919599	Sample 5002, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	22	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	22 hours	No	Negative	No	No	Yes	Negative	Afebrile	1
+5003.SRR12919598	Sample 5003, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	19	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	18 hours	No	Negative	No	No	No	Negative	Afebrile	1
+5004.SRR12919597	Sample 5004, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	33	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	14 hours	No	Negative	No	No	No	Negative	Afebrile	4
+5005.SRR12919596	Sample 5005, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	29	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	24 hours	No	Negative	Yes	No	No	Negative	Afebrile	4
+5006.SRR12919595	Sample 5006, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Positive	2 hours	No	Negative	No	No	No	Positive	Afebrile	3
+5007.SRR12919594	Sample 5007, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	20	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	24 hours	Yes	Positive	No	No	Yes	Negative	Febrile	2
+5025.SRR12919592	Sample 5025, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	28	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	10 hours	No	Negative	No	NA	No	Negative	Afebrile	3
+5026.SRR12919591	Sample 5026, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	29	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	85 hours	Yes	Negative	No	No	Yes	Negative	Febrile	2
+5028.SRR12919590	Sample 5028, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	26	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	6 hours	No	Negative	No	No	No	Negative	Afebrile	3
+5033.SRR12919589	Sample 5033, V3-V4	Uganda	human	Vagina	Vaginal orifice	Mucus	33	female	Vaginal Swab	biological replicate	V3-V4	Mbarara	Negative	36 hours	No	Negative	No	NA	Yes	Negative	Febrile	5
