@@ -1,0 +1,38 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [fungus organism]	phenotype: resistance to azole	phenotype: resistance to posaconazole	phenotype: resistance to voraconazole	Characteristics [specimen]	Characteristics[country]	Characteristics [continent]	Characteristics [city]	Characteristics [Health status]	Characteristics [organism]	Characteristics [specimen]	Characteristics [fungal strain]
+AF293_VKBR1				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	pathogenic							Aspergillus fumigatus AF293_VKBR1
+AF293_VKBR3				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	pathogenic							Aspergillus fumigatus AF293_VKBR3
+AF293_VKWH2				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	pathogenic							Aspergillus fumigatus AF293_VKWH2
+AF300				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	pathogenic							Aspergillus fumigatus AF300
+AP65				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	environmental							Aspergillus fumigatus AP65
+CEA10				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	pathogenic							Aspergillus fumigatus CEA10
+CEA10-2				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	pathogenic							Aspergillus fumigatus CEA10-2
+CF098				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	pathogenic							Aspergillus fumigatus CF098
+CF337				Aspergillus fumigatus	resistant	resistant	resistant	environmental							Aspergillus fumigatus CF337
+D17				Aspergillus fumigatus	resistant	sensitive 	resistant	environmental							Aspergillus fumigatus D17
+F17999				Aspergillus fumigatus	resistant	sensitive 	resistant	pathogenic							Aspergillus fumigatus F17999
+F18149				Aspergillus fumigatus	resistant	sensitive 	resistant	pathogenic							Aspergillus fumigatus F18149
+F18304				Aspergillus fumigatus	resistant	sensitive 	intermediate	pathogenic							Aspergillus fumigatus F18304
+F18329				Aspergillus fumigatus	resistant	sensitive 	resistant	pathogenic							Aspergillus fumigatus F18329
+F18454				Aspergillus fumigatus	resistant	sensitive 	resistant	pathogenic							Aspergillus fumigatus F18454
+F20063				Aspergillus fumigatus	resistant	sensitive 	sensitive 	pathogenic							Aspergillus fumigatus F20063
+F20140				Aspergillus fumigatus	resistant	sensitive 	resistant	pathogenic							Aspergillus fumigatus F20140
+F20451				Aspergillus fumigatus	resistant	sensitive 	sensitive 	pathogenic							Aspergillus fumigatus F20451
+F21572				Aspergillus fumigatus	resistant	sensitive 	sensitive 	pathogenic							Aspergillus fumigatus F21572
+F21732				Aspergillus fumigatus	resistant	sensitive 	intermediate	pathogenic							Aspergillus fumigatus F21732
+F21857				Aspergillus fumigatus	resistant	resistant	sensitive 	pathogenic							Aspergillus fumigatus F21857
+F4S1B				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	environmental							Aspergillus fumigatus F4S1B
+F4S9A				Aspergillus fischeri	unknown 	unknown 	unknown	unknown							Aspergillus fischeri F4S9A
+F8226				Aspergillus nidulans	unknown 	unknown 	unknown	unknown							Aspergillus nidulans F8226
+F8226-2				Aspergillus nidulans	unknown 	unknown 	unknown	unknown							Aspergillus nidulans F8226-2
+JN10				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	environmental							Aspergillus fumigatus JN10
+M128				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	environmental							Aspergillus fumigatus M128
+RSF2S8				Aspergillus fumigatus	resistant	resistant	resistant	pathogenic							Aspergillus fumigatus RSF2S8
+SF1S5				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	environmental							Aspergillus fumigatus SF1S5
+SF1S6				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	environmental							Aspergillus fumigatus SF1S6
+SF2S6				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	environmental							Aspergillus fumigatus SF2S6
+SF2S9				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	environmental							Aspergillus fumigatus SF2S9
+SF3S1				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	environmental							Aspergillus fumigatus SF3S1
+SF3S10				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	environmental							Aspergillus fumigatus SF3S10
+SF4S10				Aspergillus fumigatus	sensitive 	sensitive 	sensitive 	environmental							Aspergillus fumigatus SF4S10
+W72310_S237				Aspergillus fumigatus	n/a	n/a	n/a	clinical	USA	North America	 New York	Allergic Broncho-pulmonary Aspergillosis	Homo sapiens	expectorated sputum of an ABPA patient	Aspergillus fumigatus W72310_S237
+W72310_S92				Aspergillus fumigatus	n/a	n/a	n/a	clinical	USA	North America	 New York	Allergic Broncho-pulmonary Aspergillosis	Homo sapiens	expectorated sputum of an ABPA patient	Aspergillus fumigatus W72310_S92
