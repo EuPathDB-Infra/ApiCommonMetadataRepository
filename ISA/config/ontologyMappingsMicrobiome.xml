@@ -1903,6 +1903,10 @@ r">
     <name>hours</name>
     <name>hour</name>
   </ontologyTerm>
+   <ontologyTerm source_id="UO_0000021" type="unit">
+    <name>grams</name>
+    <name>gram</name>
+  </ontologyTerm>
 
 
 
