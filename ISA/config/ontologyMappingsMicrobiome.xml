@@ -976,6 +976,188 @@
     <name>OtherInfection</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="EUPATH_0009277" type="characteristicQualifier" parent="Source">
+    <name>w_Gentamicin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009280" type="characteristicQualifier" parent="Source">
+    <name>w_Vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009283" type="characteristicQualifier" parent="Source">
+    <name>w_Clindamycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009286" type="characteristicQualifier" parent="Source">
+    <name>w_Meropenem</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009289" type="characteristicQualifier" parent="Source">
+    <name>w_Fluconazole</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009292" type="characteristicQualifier" parent="Source">
+    <name>w_Cefepime</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009295" type="characteristicQualifier" parent="Source">
+    <name>w_Cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009298" type="characteristicQualifier" parent="Source">
+    <name>w_SulfamethoxazoleTrimethoprim</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009301" type="characteristicQualifier" parent="Source">
+    <name>w_TicarcillinClavulanate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009304" type="characteristicQualifier" parent="Source">
+    <name>w_Ampicillin</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009307" type="characteristicQualifier" parent="Source">
+    <name>w_Oxacillin</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009310" type="characteristicQualifier" parent="Source">
+    <name>w_Cefazolin</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009313" type="characteristicQualifier" parent="Source">
+    <name>w_Cefoxitin</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009316" type="characteristicQualifier" parent="Source">
+    <name>w_Amoxacillin</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009319" type="characteristicQualifier" parent="Source">
+    <name>w_PenicillinG</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009322" type="characteristicQualifier" parent="Source">
+    <name>w_Metronidazole</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009325" type="characteristicQualifier" parent="Source">
+    <name>w_AmpicillinSulbactam</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009328" type="characteristicQualifier" parent="Source">
+    <name>w_AllAbx</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009278" type="characteristicQualifier" parent="Source">
+    <name>m_Gentamicin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009281" type="characteristicQualifier" parent="Source">
+    <name>m_Vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009284" type="characteristicQualifier" parent="Source">
+    <name>m_Clindamycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009287" type="characteristicQualifier" parent="Source">
+    <name>m_Meropenem</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009290" type="characteristicQualifier" parent="Source">
+    <name>m_Fluconazole</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009293" type="characteristicQualifier" parent="Source">
+    <name>m_Cefepime</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009296" type="characteristicQualifier" parent="Source">
+    <name>m_Cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009299" type="characteristicQualifier" parent="Source">
+    <name>m_SulfamethoxazoleTrimethoprim</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009302" type="characteristicQualifier" parent="Source">
+    <name>m_TicarcillinClavulanate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009305" type="characteristicQualifier" parent="Source">
+    <name>m_Ampicillin</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009308" type="characteristicQualifier" parent="Source">
+    <name>m_Oxacillin</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009311" type="characteristicQualifier" parent="Source">
+    <name>m_Cefazolin</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009314" type="characteristicQualifier" parent="Source">
+    <name>m_Cefoxitin</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009317" type="characteristicQualifier" parent="Source">
+    <name>m_Amoxacillin</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009320" type="characteristicQualifier" parent="Source">
+    <name>m_PenicillinG</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009323" type="characteristicQualifier" parent="Source">
+    <name>m_Metronidazole</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009326" type="characteristicQualifier" parent="Source">
+    <name>m_AmpicillinSulbactam</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009329" type="characteristicQualifier" parent="Source">
+    <name>m_AllAbx</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009279" type="characteristicQualifier" parent="Source">
+    <name>c_Gentamicin</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009282" type="characteristicQualifier" parent="Source">
+    <name>c_Vancomycin</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009285" type="characteristicQualifier" parent="Source">
+    <name>c_Clindamycin</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009288" type="characteristicQualifier" parent="Source">
+    <name>c_Meropenem</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009291" type="characteristicQualifier" parent="Source">
+    <name>c_Fluconazole</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009294" type="characteristicQualifier" parent="Source">
+    <name>c_Cefepime</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009297" type="characteristicQualifier" parent="Source">
+    <name>c_Cefotaxime</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009300" type="characteristicQualifier" parent="Source">
+    <name>c_SulfamethoxazoleTrimethoprim</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009303" type="characteristicQualifier" parent="Source">
+    <name>c_TicarcillinClavulanate</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009306" type="characteristicQualifier" parent="Source">
+    <name>c_Ampicillin</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009309" type="characteristicQualifier" parent="Source">
+    <name>c_Oxacillin</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009312" type="characteristicQualifier" parent="Source">
+    <name>c_Cefazolin</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009315" type="characteristicQualifier" parent="Source">
+    <name>c_Cefoxitin</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009318" type="characteristicQualifier" parent="Source">
+    <name>c_Amoxacillin</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>	
+  <ontologyTerm source_id="EUPATH_0009321" type="characteristicQualifier" parent="Source">
+    <name>c_PenicillinG</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009324" type="characteristicQualifier" parent="Source">
+    <name>c_Metronidazole</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009327" type="characteristicQualifier" parent="Source">
+    <name>c_AmpicillinSulbactam</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009330" type="characteristicQualifier" parent="Source">
+    <name>c_AllAbx</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>	
+	
+
   <!-- Characteristics associated with Sample -->
 
 
