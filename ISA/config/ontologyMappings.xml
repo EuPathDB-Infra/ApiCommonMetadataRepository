@@ -621,7 +621,18 @@
     <name>LDOPA Ave+Std Dev</name>
     <name>LDOPA</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="OMP_0000274" type="characteristicQualifier" parent="Sample">
+    <name>Anti-fungal agent resistance</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OMP_0006055" type="characteristicQualifier" parent="Sample">
+    <name>phenotype: resistance to azole</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="PHIPO_0000625" type="characteristicQualifier" parent="Sample">
+    <name>phenotype: resistance to posaconazole</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="PHIPO_0000590" type="characteristicQualifier" parent="Sample">
+    <name>phenotype: resistance to voraconazole</name>
+  </ontologyTerm>
 
   <ontologyTerm source_id="OBI_0000198" type="characteristicQualifier" parent="Sample">
     <name>biological replicate</name>
