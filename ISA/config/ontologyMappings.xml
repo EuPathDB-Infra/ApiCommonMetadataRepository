@@ -1336,6 +1336,9 @@
   <ontologyTerm source_id="GAZ_00000465" type="characteristicValue" parent="characteristicQualifier">
     <name>Asia</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000468" type="characteristicValue" parent="characteristicQualifier">
+    <name>Oceania</name>
+  </ontologyTerm>
 <!--State-->
   <ontologyTerm source_id="NCIT_C43468" type="characteristicValue" parent="characteristicQualifier">
     <name>New York</name>
@@ -1498,5 +1501,8 @@
   <ontologyTerm source_id="EUPATH_0000282" type="characteristicValue" parent="characteristicQualifier">
     <name>Pyrimethamine, Mefloquine and Cloroquine resistant</name>
   </ontologyTerm>
-
+<!-- organisms -->
+  <ontologyTerm source_id="GAZ_00069823" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cow</name>
+  </ontologyTerm>
 </ontologymappings>
