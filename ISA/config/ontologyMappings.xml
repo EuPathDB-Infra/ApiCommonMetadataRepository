@@ -1502,7 +1502,7 @@
     <name>Pyrimethamine, Mefloquine and Cloroquine resistant</name>
   </ontologyTerm>
 <!-- organisms -->
-  <ontologyTerm source_id="GAZ_00069823" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="NCIT_C14192" type="characteristicValue" parent="characteristicQualifier">
     <name>Cow</name>
   </ontologyTerm>
 </ontologymappings>
