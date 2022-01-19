@@ -1,0 +1,20 @@
+<investigation identifierRegex="^MBSTDY0021$" identifierIsDirectoryName="true">
+
+  <study fileName="HMPWgs.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+    <dataset>MicrobiomeStudyEDA_HMPWgs_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source" idColumn="subject_id" /> 
+    <node name="Sample" type="sample from organism"/>
+    <node isaObject="Assay" name="WGS" type="DNA sequencing assay" suffix="WGS"/>
+
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    
+    <edge input="Sample" output="WGS">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+
+  </study>
+</investigation>

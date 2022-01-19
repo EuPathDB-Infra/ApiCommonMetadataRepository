@@ -1,0 +1,25 @@
+<investigation identifierRegex="^MBSTDY0021$" identifierIsDirectoryName="true">
+
+  <study fileName="DiabImmune.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+    <dataset>MicrobiomeStudyEDA_DiabImmune_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"  /> 
+    <node name="Sample" type="sample from organism"/>
+    <node isaObject="Assay" name="16s" type="DNA sequencing assay" suffix="16s"/>
+<node isaObject="Assay" name="WGS" type="DNA sequencing assay" suffix="WGS"/>
+
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    
+    <edge input="Sample" output="16s">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+
+    <edge input="Sample" output="WGS">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+
+  </study>
+</investigation>
