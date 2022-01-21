@@ -1,100 +1,100 @@
-name	description	country	host_common_name	body_habitat	body_site	body_product	Age (years)	Sex	Sample type	env_feature	City	HIV status	Delivery duration	Delivery Mode	Malaria results	Vaginal infection	Antibiotic use	Chills reported	Cytomegalovirus	Fever during labor	Number of previous pregnancies
-6052	Sample 6052	Uganda	human	Vagina	Vaginal orifice	Mucus		female	Vaginal Swab	Human	Mbale, Uganda	Negative	8 hours	Yes	Negative	NA	Yes	NA	Negative	Febrile	3
-6051	Sample 6051	Uganda	human	Vagina	Vaginal orifice	Mucus	18 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	24 hours	No	Negative	No	Yes	No	Negative	Febrile	1
-6050	Sample 6050	Uganda	human	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbale, Uganda	Unknown	28 hours	Yes	Negative	No	No	No	Negative	Febrile	2
-6049	Sample 6049	Uganda	human	Vagina	Vaginal orifice	Mucus	18 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	48 hours	No	Negative	No	No	No	Negative	Febrile	1
-6048	Sample 6048	Uganda	human	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	12 hours	Yes	Negative	No	No	No	Positive	Febrile	1
-6047	Sample 6047	Uganda	human	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	46 hours	No	Negative	No	No	No	Negative	Febrile	3
-6046	Sample 6046	Uganda	human	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	9 hours	No	Negative	No	No	No	Negative	Afebrile	2
-6045	Sample 6045	Uganda	human	Vagina	Vaginal orifice	Mucus	34 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	6 hours	No	Negative	No	No	No	Negative	Afebrile	6
-6044	Sample 6044	Uganda	human	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	13 hours	No	Positive	No	No	No	Negative	Febrile	1
-6043	Sample 6043	Uganda	human	Vagina	Vaginal orifice	Mucus	33 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	32 hours	Yes	Negative	No	No	No	Negative	Afebrile	4
-6042	Sample 6042	Uganda	human	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbale, Uganda	Positive	9 hours	No	Negative	No	No	No	Negative	Afebrile	1
-6041	Sample 6041	Uganda	human	Vagina	Vaginal orifice	Mucus	30 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	24 hours	No	Negative	No	No	No	Negative	Febrile	7
-6040	Sample 6040	Uganda	human	Vagina	Vaginal orifice	Mucus	27 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	20 hours	No	Negative	No	No	No	Negative	Afebrile	2
-6039	Sample 6039	Uganda	human	Vagina	Vaginal orifice	Mucus	21 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	96 hours	Yes	Negative	No	No	No	Negative	Afebrile	1
-6038	Sample 6038	Uganda	human	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	24 hours	No	Positive	No	No	No	Positive	Febrile	1
-6037	Sample 6037	Uganda	human	Vagina	Vaginal orifice	Mucus	27 years	female	Vaginal Swab	Human	Mbale, Uganda	Positive	18 hours	Yes	Negative	No	No	Yes	Positive	Febrile	6
-6036	Sample 6036	Uganda	human	Vagina	Vaginal orifice	Mucus	18 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	18 hours	No	Positive	No	No	No	Negative	Febrile	1
-6035	Sample 6035	Uganda	human	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	16 hours	No	Negative	No	No	Yes	Positive	Febrile	1
-6034	Sample 6034	Uganda	human	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	24 hours	No	Positive	No	No	Yes	Negative	Febrile	2
-6033	Sample 6033	Uganda	human	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	1 hours	No	Positive	No	No	No	Positive	Febrile	1
-6032	Sample 6032	Uganda	human	Vagina	Vaginal orifice	Mucus	33 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	13 hours	No	Negative	No	No	No	Positive	Afebrile	5
-6031	Sample 6031	Uganda	human	Vagina	Vaginal orifice	Mucus	32 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	0 hours	Yes	Negative	Yes	Yes	No	Negative	Febrile	6
-6030	Sample 6030	Uganda	human	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	30 hours	Yes	Negative	No	No	No	Positive	Febrile	4
-6029	Sample 6029	Uganda	human	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	72 hours	No	Positive	No	No	No	Negative	Febrile	1
-6028	Sample 6028	Uganda	human	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	13 hours	No	Positive	No	No	Yes	Positive	Febrile	4
-6027	Sample 6027	Uganda	human	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	18 hours	No	Positive	No	No	No	Positive	Febrile	1
-6026	Sample 6026	Uganda	human	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	17 hours	No	Negative	No	Yes	No	Positive	Afebrile	3
-6025	Sample 6025	Uganda	human	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	36 hours	No	Negative	No	No	No	Positive	Febrile	2
-6024	Sample 6024	Uganda	human	Vagina	Vaginal orifice	Mucus	36 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	48 hours	No	Negative	No	No	Yes	Positive	Afebrile	5
-6023	Sample 6023	Uganda	human	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	48 hours	No	Positive	No	No	No	Positive	Febrile	2
-6022	Sample 6022	Uganda	human	Vagina	Vaginal orifice	Mucus	32 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	12 hours	No	Positive	No	No	No	Positive	Febrile	4
-6021	Sample 6021	Uganda	human	Vagina	Vaginal orifice	Mucus	24 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	96 hours	No	Negative	Yes	Yes	No	Negative	Febrile	3
-6020	Sample 6020	Uganda	human	Vagina	Vaginal orifice	Mucus	27 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	48 hours	No	Negative	No	No	No	Negative	Afebrile	3
-6019	Sample 6019	Uganda	human	Vagina	Vaginal orifice	Mucus	30 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	18 hours	Yes	Negative	No	No	No	Positive	Febrile	10
-6018	Sample 6018	Uganda	human	Vagina	Vaginal orifice	Mucus	28 years	female	Vaginal Swab	Human	Mbale, Uganda	Positive	23 hours	No	Negative	No	No	No	Negative	Febrile	3
-6016	Sample 6016	Uganda	human	Vagina	Vaginal orifice	Mucus	30 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	3 hours	No	Negative	NA	No	NA	Negative	Afebrile	6
-6015	Sample 6015	Uganda	human	Vagina	Vaginal orifice	Mucus	28 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	4 hours	No	Negative	No	No	No	Negative	Afebrile	3
-6014	Sample 6014	Uganda	human	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	0.5 hours	No	Negative	No	No	No	Negative	Afebrile	1
-6013	Sample 6013	Uganda	human	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	48 hours	Yes	Negative	No	No	No	Positive	Afebrile	1
-6012	Sample 6012	Uganda	human	Vagina	Vaginal orifice	Mucus	27 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	8 hours	No	Negative	No	No	No	Negative	Afebrile	3
-6011	Sample 6011	Uganda	human	Vagina	Vaginal orifice	Mucus	34 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	24 hours	No	Positive	No	No	No	Positive	Afebrile	3
-6010	Sample 6010	Uganda	human	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	12 hours	No	Positive	No	No	No	Positive	Afebrile	4
-6008	Sample 6008	Uganda	human	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	13 hours	No	Negative	No	No	No	Positive	Afebrile	1
-6006	Sample 6006	Uganda	human	Vagina	Vaginal orifice	Mucus	30 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	10 hours	Yes	Positive	No	No	No	Positive	Afebrile	1
-6005	Sample 6005	Uganda	human	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	58 hours	Yes	NA	No	Yes	No	Positive	Afebrile	1
-6004	Sample 6004	Uganda	human	Vagina	Vaginal orifice	Mucus	18 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	16 hours	Yes	Negative	No	No	No	Negative	Afebrile	1
-6003	Sample 6003	Uganda	human	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	23 hours	No	Negative	No	No	No	Negative	Afebrile	1
-6002	Sample 6002	Uganda	human	Vagina	Vaginal orifice	Mucus	29 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	120 hours	No	Negative	No	No	No	Negative	Afebrile	1
-6001	Sample 6001	Uganda	human	Vagina	Vaginal orifice	Mucus	36 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	13 hours	No	Negative	No	No	No	Positive	Afebrile	7
-5052	Sample 5052	Uganda	human	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	49 hours	No	Positive	No	No	Yes	Positive	Febrile	1
-5051	Sample 5051	Uganda	human	Vagina	Vaginal orifice	Mucus	38 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	49 hours	Yes	Negative	No	No	Yes	Negative	Febrile	6
-5050	Sample 5050	Uganda	human	Vagina	Vaginal orifice	Mucus	24 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	No	Negative	No	No	Yes	Negative	Febrile	2
-5049	Sample 5049	Uganda	human	Vagina	Vaginal orifice	Mucus	21 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	12 hours	No	Negative	No	No	Yes	Positive	Febrile	1
-5048	Sample 5048	Uganda	human	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
-5047	Sample 5047	Uganda	human	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	24 hours	No	Negative	Yes	No	Yes	Negative	Febrile	2
-5046	Sample 5046	Uganda	human	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	72 hours	Yes	Negative	No	No	Yes	Positive	Febrile	2
-5044	Sample 5044	Uganda	human	Vagina	Vaginal orifice	Mucus	21 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	Yes	Negative	No	No	No	Positive	Febrile	1
-5043	Sample 5043	Uganda	human	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	65 hours	No	Positive	No	No	Yes	Negative	Febrile	1
-5042	Sample 5042	Uganda	human	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	72 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
-5041	Sample 5041	Uganda	human	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	49 hours	Yes	Positive	No	No	Yes	Negative	Febrile	1
-5040	Sample 5040	Uganda	human	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	49 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
-5039	Sample 5039	Uganda	human	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	No	Negative	No	Yes	Yes	Negative	Febrile	1
-5038	Sample 5038	Uganda	human	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
-5037	Sample 5037	Uganda	human	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	24 hours	Yes	Negative	No	NA	No	Positive	Afebrile	1
-5036	Sample 5036	Uganda	human	Vagina	Vaginal orifice	Mucus	39 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	24 hours	No	NA	No	No	No	Negative	Afebrile	9
-5035	Sample 5035	Uganda	human	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	52 hours	Yes	Negative	No	NA	No	Negative	Febrile	1
-5034	Sample 5034	Uganda	human	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	No	Negative	No	No	No	Negative	Afebrile	1
-5033	Sample 5033	Uganda	human	Vagina	Vaginal orifice	Mucus	33 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	36 hours	No	Negative	No	NA	Yes	Negative	Febrile	5
-5032	Sample 5032	Uganda	human	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	7 hours	No	Negative	No	No	No	Positive	Afebrile	1
-5031	Sample 5031	Uganda	human	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	12 hours	No	Negative	No	No	No	Negative	Afebrile	2
-5030	Sample 5030	Uganda	human	Vagina	Vaginal orifice	Mucus	33 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	No	Negative	No	No	No	Positive	Afebrile	4
-5029	Sample 5029	Uganda	human	Vagina	Vaginal orifice	Mucus	18 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	Yes	Negative	No	NA	No	Positive	Febrile	1
-5028	Sample 5028	Uganda	human	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	6 hours	No	Negative	No	No	No	Negative	Afebrile	3
-5026	Sample 5026	Uganda	human	Vagina	Vaginal orifice	Mucus	29 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	85 hours	Yes	Negative	No	No	Yes	Negative	Febrile	2
-5025	Sample 5025	Uganda	human	Vagina	Vaginal orifice	Mucus	28 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	10 hours	No	Negative	No	NA	No	Negative	Afebrile	3
-5024	Sample 5024	Uganda	human	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	No	Negative	No	No	No	Negative	Afebrile	3
-5023	Sample 5023	Uganda	human	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	Yes	Negative	Yes	NA	Yes	Negative	Febrile	1
-5022	Sample 5022	Uganda	human	Vagina	Vaginal orifice	Mucus	27 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	85 hours	Yes	Negative	No	NA	Yes	Negative	Febrile	1
-5021	Sample 5021	Uganda	human	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	20 hours	No	Negative	No	NA	No	Positive	Afebrile	1
-5020	Sample 5020	Uganda	human	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	24 hours	No	Negative	Yes	No	No	Negative	Afebrile	4
-5019	Sample 5019	Uganda	human	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	No	Negative	No	No	No	Negative	Afebrile	1
-5018	Sample 5018	Uganda	human	Vagina	Vaginal orifice	Mucus	24 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	48 hours	Yes	Negative	No	No	No	Negative	Afebrile	3
-5017	Sample 5017	Uganda	human	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	72 hours	No	Positive	No	No	Yes	Negative	Afebrile	2
-5016	Sample 5016	Uganda	human	Vagina	Vaginal orifice	Mucus	32 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	24 hours	No	Negative	No	No	No	Negative	Afebrile	5
-5015	Sample 5015	Uganda	human	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	4 hours	Yes	Negative	No	No	No	Negative	Afebrile	2
-5014	Sample 5014	Uganda	human	Vagina	Vaginal orifice	Mucus	37 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	17 hours	No	Negative	No	No	No	Negative	Afebrile	7
-5013	Sample 5013	Uganda	human	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	5 hours	No	Negative	Yes	No	No	Negative	Afebrile	3
-5012	Sample 5012	Uganda	human	Vagina	Vaginal orifice	Mucus	21 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	12 hours	Yes	Negative	No	No	No	Negative	Febrile	1
-5011	Sample 5011	Uganda	human	Vagina	Vaginal orifice	Mucus	27 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	12 hours	No	Negative	No	No	No	Positive	Afebrile	3
-5010	Sample 5010	Uganda	human	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	52 hours	Yes	Negative	No	No	Yes	Negative	Afebrile	1
-5009	Sample 5009	Uganda	human	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	Yes	Negative	No	NA	Yes	Negative	Febrile	1
-5008	Sample 5008	Uganda	human	Vagina	Vaginal orifice	Mucus	35 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	24 hours	Yes	Positive	No	No	No	Negative	Febrile	6
-5007	Sample 5007	Uganda	human	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	24 hours	Yes	Positive	No	No	Yes	Negative	Febrile	2
-5006	Sample 5006	Uganda	human	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	2 hours	No	Negative	No	No	No	Positive	Afebrile	3
-5005	Sample 5005	Uganda	human	Vagina	Vaginal orifice	Mucus	29 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	24 hours	No	Negative	Yes	No	No	Negative	Afebrile	4
-5004	Sample 5004	Uganda	human	Vagina	Vaginal orifice	Mucus	33 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	14 hours	No	Negative	No	No	No	Negative	Afebrile	4
-5003	Sample 5003	Uganda	human	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	18 hours	No	Negative	No	No	No	Negative	Afebrile	1
-5002	Sample 5002	Uganda	human	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	22 hours	No	Negative	No	No	Yes	Negative	Afebrile	1
-5001	Sample 5001	Uganda	human	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	8 hours	No	Positive	Yes	No	Yes	Negative	Febrile	2
+name	description	country	body_habitat	body_site	body_product	Age (years)	Sex	Sample type	env_feature	City	HIV status	Delivery duration	Delivery Mode	Malaria results	Vaginal infection	Antibiotic use	Chills reported	Cytomegalovirus	Fever during labor	Number of previous pregnancies
+6052	Sample 6052	Uganda	Vagina	Vaginal orifice	Mucus		female	Vaginal Swab	Human	Mbale, Uganda	Negative	8 hours	Yes	Negative	NA	Yes	NA	Negative	Febrile	3
+6051	Sample 6051	Uganda	Vagina	Vaginal orifice	Mucus	18 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	24 hours	No	Negative	No	Yes	No	Negative	Febrile	1
+6050	Sample 6050	Uganda	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbale, Uganda	Unknown	28 hours	Yes	Negative	No	No	No	Negative	Febrile	2
+6049	Sample 6049	Uganda	Vagina	Vaginal orifice	Mucus	18 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	48 hours	No	Negative	No	No	No	Negative	Febrile	1
+6048	Sample 6048	Uganda	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	12 hours	Yes	Negative	No	No	No	Positive	Febrile	1
+6047	Sample 6047	Uganda	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	46 hours	No	Negative	No	No	No	Negative	Febrile	3
+6046	Sample 6046	Uganda	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	9 hours	No	Negative	No	No	No	Negative	Afebrile	2
+6045	Sample 6045	Uganda	Vagina	Vaginal orifice	Mucus	34 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	6 hours	No	Negative	No	No	No	Negative	Afebrile	6
+6044	Sample 6044	Uganda	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	13 hours	No	Positive	No	No	No	Negative	Febrile	1
+6043	Sample 6043	Uganda	Vagina	Vaginal orifice	Mucus	33 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	32 hours	Yes	Negative	No	No	No	Negative	Afebrile	4
+6042	Sample 6042	Uganda	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbale, Uganda	Positive	9 hours	No	Negative	No	No	No	Negative	Afebrile	1
+6041	Sample 6041	Uganda	Vagina	Vaginal orifice	Mucus	30 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	24 hours	No	Negative	No	No	No	Negative	Febrile	7
+6040	Sample 6040	Uganda	Vagina	Vaginal orifice	Mucus	27 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	20 hours	No	Negative	No	No	No	Negative	Afebrile	2
+6039	Sample 6039	Uganda	Vagina	Vaginal orifice	Mucus	21 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	96 hours	Yes	Negative	No	No	No	Negative	Afebrile	1
+6038	Sample 6038	Uganda	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	24 hours	No	Positive	No	No	No	Positive	Febrile	1
+6037	Sample 6037	Uganda	Vagina	Vaginal orifice	Mucus	27 years	female	Vaginal Swab	Human	Mbale, Uganda	Positive	18 hours	Yes	Negative	No	No	Yes	Positive	Febrile	6
+6036	Sample 6036	Uganda	Vagina	Vaginal orifice	Mucus	18 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	18 hours	No	Positive	No	No	No	Negative	Febrile	1
+6035	Sample 6035	Uganda	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	16 hours	No	Negative	No	No	Yes	Positive	Febrile	1
+6034	Sample 6034	Uganda	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	24 hours	No	Positive	No	No	Yes	Negative	Febrile	2
+6033	Sample 6033	Uganda	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	1 hours	No	Positive	No	No	No	Positive	Febrile	1
+6032	Sample 6032	Uganda	Vagina	Vaginal orifice	Mucus	33 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	13 hours	No	Negative	No	No	No	Positive	Afebrile	5
+6031	Sample 6031	Uganda	Vagina	Vaginal orifice	Mucus	32 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	0 hours	Yes	Negative	Yes	Yes	No	Negative	Febrile	6
+6030	Sample 6030	Uganda	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	30 hours	Yes	Negative	No	No	No	Positive	Febrile	4
+6029	Sample 6029	Uganda	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	72 hours	No	Positive	No	No	No	Negative	Febrile	1
+6028	Sample 6028	Uganda	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	13 hours	No	Positive	No	No	Yes	Positive	Febrile	4
+6027	Sample 6027	Uganda	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	18 hours	No	Positive	No	No	No	Positive	Febrile	1
+6026	Sample 6026	Uganda	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	17 hours	No	Negative	No	Yes	No	Positive	Afebrile	3
+6025	Sample 6025	Uganda	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	36 hours	No	Negative	No	No	No	Positive	Febrile	2
+6024	Sample 6024	Uganda	Vagina	Vaginal orifice	Mucus	36 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	48 hours	No	Negative	No	No	Yes	Positive	Afebrile	5
+6023	Sample 6023	Uganda	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	48 hours	No	Positive	No	No	No	Positive	Febrile	2
+6022	Sample 6022	Uganda	Vagina	Vaginal orifice	Mucus	32 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	12 hours	No	Positive	No	No	No	Positive	Febrile	4
+6021	Sample 6021	Uganda	Vagina	Vaginal orifice	Mucus	24 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	96 hours	No	Negative	Yes	Yes	No	Negative	Febrile	3
+6020	Sample 6020	Uganda	Vagina	Vaginal orifice	Mucus	27 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	48 hours	No	Negative	No	No	No	Negative	Afebrile	3
+6019	Sample 6019	Uganda	Vagina	Vaginal orifice	Mucus	30 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	18 hours	Yes	Negative	No	No	No	Positive	Febrile	10
+6018	Sample 6018	Uganda	Vagina	Vaginal orifice	Mucus	28 years	female	Vaginal Swab	Human	Mbale, Uganda	Positive	23 hours	No	Negative	No	No	No	Negative	Febrile	3
+6016	Sample 6016	Uganda	Vagina	Vaginal orifice	Mucus	30 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	3 hours	No	Negative	NA	No	NA	Negative	Afebrile	6
+6015	Sample 6015	Uganda	Vagina	Vaginal orifice	Mucus	28 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	4 hours	No	Negative	No	No	No	Negative	Afebrile	3
+6014	Sample 6014	Uganda	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	0.5 hours	No	Negative	No	No	No	Negative	Afebrile	1
+6013	Sample 6013	Uganda	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	48 hours	Yes	Negative	No	No	No	Positive	Afebrile	1
+6012	Sample 6012	Uganda	Vagina	Vaginal orifice	Mucus	27 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	8 hours	No	Negative	No	No	No	Negative	Afebrile	3
+6011	Sample 6011	Uganda	Vagina	Vaginal orifice	Mucus	34 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	24 hours	No	Positive	No	No	No	Positive	Afebrile	3
+6010	Sample 6010	Uganda	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	12 hours	No	Positive	No	No	No	Positive	Afebrile	4
+6008	Sample 6008	Uganda	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	13 hours	No	Negative	No	No	No	Positive	Afebrile	1
+6006	Sample 6006	Uganda	Vagina	Vaginal orifice	Mucus	30 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	10 hours	Yes	Positive	No	No	No	Positive	Afebrile	1
+6005	Sample 6005	Uganda	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	58 hours	Yes	NA	No	Yes	No	Positive	Afebrile	1
+6004	Sample 6004	Uganda	Vagina	Vaginal orifice	Mucus	18 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	16 hours	Yes	Negative	No	No	No	Negative	Afebrile	1
+6003	Sample 6003	Uganda	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	23 hours	No	Negative	No	No	No	Negative	Afebrile	1
+6002	Sample 6002	Uganda	Vagina	Vaginal orifice	Mucus	29 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	120 hours	No	Negative	No	No	No	Negative	Afebrile	1
+6001	Sample 6001	Uganda	Vagina	Vaginal orifice	Mucus	36 years	female	Vaginal Swab	Human	Mbale, Uganda	Negative	13 hours	No	Negative	No	No	No	Positive	Afebrile	7
+5052	Sample 5052	Uganda	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	49 hours	No	Positive	No	No	Yes	Positive	Febrile	1
+5051	Sample 5051	Uganda	Vagina	Vaginal orifice	Mucus	38 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	49 hours	Yes	Negative	No	No	Yes	Negative	Febrile	6
+5050	Sample 5050	Uganda	Vagina	Vaginal orifice	Mucus	24 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	No	Negative	No	No	Yes	Negative	Febrile	2
+5049	Sample 5049	Uganda	Vagina	Vaginal orifice	Mucus	21 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	12 hours	No	Negative	No	No	Yes	Positive	Febrile	1
+5048	Sample 5048	Uganda	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
+5047	Sample 5047	Uganda	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	24 hours	No	Negative	Yes	No	Yes	Negative	Febrile	2
+5046	Sample 5046	Uganda	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	72 hours	Yes	Negative	No	No	Yes	Positive	Febrile	2
+5044	Sample 5044	Uganda	Vagina	Vaginal orifice	Mucus	21 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	Yes	Negative	No	No	No	Positive	Febrile	1
+5043	Sample 5043	Uganda	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	65 hours	No	Positive	No	No	Yes	Negative	Febrile	1
+5042	Sample 5042	Uganda	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	72 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
+5041	Sample 5041	Uganda	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	49 hours	Yes	Positive	No	No	Yes	Negative	Febrile	1
+5040	Sample 5040	Uganda	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	49 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
+5039	Sample 5039	Uganda	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	No	Negative	No	Yes	Yes	Negative	Febrile	1
+5038	Sample 5038	Uganda	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	Yes	Negative	No	No	Yes	Negative	Febrile	1
+5037	Sample 5037	Uganda	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	24 hours	Yes	Negative	No	NA	No	Positive	Afebrile	1
+5036	Sample 5036	Uganda	Vagina	Vaginal orifice	Mucus	39 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	24 hours	No	NA	No	No	No	Negative	Afebrile	9
+5035	Sample 5035	Uganda	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	52 hours	Yes	Negative	No	NA	No	Negative	Febrile	1
+5034	Sample 5034	Uganda	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	No	Negative	No	No	No	Negative	Afebrile	1
+5033	Sample 5033	Uganda	Vagina	Vaginal orifice	Mucus	33 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	36 hours	No	Negative	No	NA	Yes	Negative	Febrile	5
+5032	Sample 5032	Uganda	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	7 hours	No	Negative	No	No	No	Positive	Afebrile	1
+5031	Sample 5031	Uganda	Vagina	Vaginal orifice	Mucus	23 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	12 hours	No	Negative	No	No	No	Negative	Afebrile	2
+5030	Sample 5030	Uganda	Vagina	Vaginal orifice	Mucus	33 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	No	Negative	No	No	No	Positive	Afebrile	4
+5029	Sample 5029	Uganda	Vagina	Vaginal orifice	Mucus	18 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	Yes	Negative	No	NA	No	Positive	Febrile	1
+5028	Sample 5028	Uganda	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	6 hours	No	Negative	No	No	No	Negative	Afebrile	3
+5026	Sample 5026	Uganda	Vagina	Vaginal orifice	Mucus	29 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	85 hours	Yes	Negative	No	No	Yes	Negative	Febrile	2
+5025	Sample 5025	Uganda	Vagina	Vaginal orifice	Mucus	28 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	10 hours	No	Negative	No	NA	No	Negative	Afebrile	3
+5024	Sample 5024	Uganda	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	No	Negative	No	No	No	Negative	Afebrile	3
+5023	Sample 5023	Uganda	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	Yes	Negative	Yes	NA	Yes	Negative	Febrile	1
+5022	Sample 5022	Uganda	Vagina	Vaginal orifice	Mucus	27 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	85 hours	Yes	Negative	No	NA	Yes	Negative	Febrile	1
+5021	Sample 5021	Uganda	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	20 hours	No	Negative	No	NA	No	Positive	Afebrile	1
+5020	Sample 5020	Uganda	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	24 hours	No	Negative	Yes	No	No	Negative	Afebrile	4
+5019	Sample 5019	Uganda	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	No	Negative	No	No	No	Negative	Afebrile	1
+5018	Sample 5018	Uganda	Vagina	Vaginal orifice	Mucus	24 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	48 hours	Yes	Negative	No	No	No	Negative	Afebrile	3
+5017	Sample 5017	Uganda	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	72 hours	No	Positive	No	No	Yes	Negative	Afebrile	2
+5016	Sample 5016	Uganda	Vagina	Vaginal orifice	Mucus	32 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	24 hours	No	Negative	No	No	No	Negative	Afebrile	5
+5015	Sample 5015	Uganda	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	4 hours	Yes	Negative	No	No	No	Negative	Afebrile	2
+5014	Sample 5014	Uganda	Vagina	Vaginal orifice	Mucus	37 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	17 hours	No	Negative	No	No	No	Negative	Afebrile	7
+5013	Sample 5013	Uganda	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	5 hours	No	Negative	Yes	No	No	Negative	Afebrile	3
+5012	Sample 5012	Uganda	Vagina	Vaginal orifice	Mucus	21 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	12 hours	Yes	Negative	No	No	No	Negative	Febrile	1
+5011	Sample 5011	Uganda	Vagina	Vaginal orifice	Mucus	27 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	12 hours	No	Negative	No	No	No	Positive	Afebrile	3
+5010	Sample 5010	Uganda	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	52 hours	Yes	Negative	No	No	Yes	Negative	Afebrile	1
+5009	Sample 5009	Uganda	Vagina	Vaginal orifice	Mucus	25 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	48 hours	Yes	Negative	No	NA	Yes	Negative	Febrile	1
+5008	Sample 5008	Uganda	Vagina	Vaginal orifice	Mucus	35 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	24 hours	Yes	Positive	No	No	No	Negative	Febrile	6
+5007	Sample 5007	Uganda	Vagina	Vaginal orifice	Mucus	20 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	24 hours	Yes	Positive	No	No	Yes	Negative	Febrile	2
+5006	Sample 5006	Uganda	Vagina	Vaginal orifice	Mucus	26 years	female	Vaginal Swab	Human	Mbarara, Uganda	Positive	2 hours	No	Negative	No	No	No	Positive	Afebrile	3
+5005	Sample 5005	Uganda	Vagina	Vaginal orifice	Mucus	29 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	24 hours	No	Negative	Yes	No	No	Negative	Afebrile	4
+5004	Sample 5004	Uganda	Vagina	Vaginal orifice	Mucus	33 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	14 hours	No	Negative	No	No	No	Negative	Afebrile	4
+5003	Sample 5003	Uganda	Vagina	Vaginal orifice	Mucus	19 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	18 hours	No	Negative	No	No	No	Negative	Afebrile	1
+5002	Sample 5002	Uganda	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	22 hours	No	Negative	No	No	Yes	Negative	Afebrile	1
+5001	Sample 5001	Uganda	Vagina	Vaginal orifice	Mucus	22 years	female	Vaginal Swab	Human	Mbarara, Uganda	Negative	8 hours	No	Positive	Yes	No	Yes	Negative	Febrile	2
