@@ -1,0 +1,20 @@
+<investigation identifierRegex="^MBSTDY0021$" identifierIsDirectoryName="true">
+
+  <study fileName="Ciara_V1V3.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+    <dataset>MicrobiomeStudyEDA_Ciara_V1V3_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source" idColumn="host_subject_id" /> 
+    <node name="Sample" type="sample from organism"/>
+    <node isaObject="Assay" name="16s" type="DNA sequencing assay" suffix="16s"/>
+
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    
+    <edge input="Sample" output="16s">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+
+  </study>
+</investigation>
