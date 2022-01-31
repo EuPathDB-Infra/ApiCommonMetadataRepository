@@ -3,9 +3,9 @@
   <study fileName="BONUS.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
     <dataset>MicrobiomeStudyEDA_BONUS_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source" idColumn="subject_id" /> 
-    <node name="Sample" type="sample from organism"/>
-    <node isaObject="Assay" name="WGS" type="DNA sequencing assay" suffix="WGS"/>
+    <node name="Source" type="Participant" suffix="Source" idColumn="subject_id" /> 
+    <node name="Sample" type="Sample"/>
+    <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS"/>
 
 
     <edge input="Source" output="Sample">

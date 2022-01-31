@@ -3,17 +3,17 @@
   <study fileName="DiabImmune.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
     <dataset>MicrobiomeStudyEDA_DiabImmune_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"  /> 
-    <node name="Sample" type="sample from organism"/>
-    <node isaObject="Assay" name="16s" type="DNA sequencing assay" suffix="16s"/>
-<node isaObject="Assay" name="WGS" type="DNA sequencing assay" suffix="WGS"/>
+    <node name="Source" type="Participant" suffix="Source"  /> 
+    <node name="Sample" type="Sample"/>
+    <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V4 region" suffix="16S"/>
+<node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS"/>
 
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
     </edge>
     
-    <edge input="Sample" output="16s">
+    <edge input="Sample" output="16S">
         <protocol>DNA sequencing</protocol>
     </edge>
 

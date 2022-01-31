@@ -3,16 +3,16 @@
   <study fileName="EMP_1928_HMP_V35.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
     <dataset>MicrobiomeStudyEDA_EMP_1928_HMP_V35_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source" idColumn="host_subject_id" /> 
-    <node name="Sample" type="sample from organism"/>
-    <node isaObject="Assay" name="16s" type="DNA sequencing assay" suffix="16s"/>
+    <node name="Source" type="Participant" suffix="Source" idColumn="host_subject_id" /> 
+    <node name="Sample" type="Sample"/>
+    <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V3-V5 region" suffix="16S"/>
 
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
     </edge>
     
-    <edge input="Sample" output="16s">
+    <edge input="Sample" output="16S">
         <protocol>DNA sequencing</protocol>
     </edge>
 

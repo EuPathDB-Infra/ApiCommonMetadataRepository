@@ -29,8 +29,8 @@ sub idc {
   return $h ? sprintf('idColumn="%s"', $h) : ""; 
 }
 sub a1 {
-  my ($suffix) = @_;
-  my $type = "DNA sequencing assay"; # TODO
+  my ($suffix, $type) = @_;
+  die unless $suffix and $type;
   return sprintf('<node isaObject="Assay" name="%s" type="%s" suffix="%s"/>', $suffix, $type, $suffix);
 }
 sub a2 {
@@ -47,8 +47,8 @@ my $stanza = <<'EOF';
   <study fileName="DATASET.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
     <dataset>MicrobiomeStudyEDA_DATASET_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source" ID_COLUMN /> 
-    <node name="Sample" type="sample from organism"/>
+    <node name="Source" type="Participant" suffix="Source" ID_COLUMN /> 
+    <node name="Sample" type="Sample"/>
     ASSAYS_1
 
 
@@ -69,40 +69,58 @@ my %suffixes = (
   NICUNEC => "WGS",
   Pig_pregnancy => "WGS",
   Resistome => "WGS",
-  Bangladesh_healthy_5yr => "16s",
-  Ciara_V1V3 => "16s",
-  DIABIMMUNE => "16s",
-  DailyBaby => "16s",
-  EMP_10249_ECAM => "16s",
-  EMP_1927_HMP_V13 => "16s",
-  EMP_1928_HMP_V35 => "16s",
-  EcoCF => "16s",
-  GEMS => "16s",
-  MALED_diarrhea => "16s",
-  MALED_healthy => "16s",
-  PIH_Uganda => "16s",
-  ResistomeAmplicon => "16s",
-  StLouisNICU => "16s",
+  Bangladesh_healthy_5yr => "16S",
+  Ciara_V1V3 => "16S",
+  DIABIMMUNE => "16S",
+  DailyBaby => "16S",
+  EMP_10249_ECAM => "16S",
+  EMP_1927_HMP_V13 => "16S",
+  EMP_1928_HMP_V35 => "16S",
+  EcoCF => "16S",
+  GEMS => "16S",
+  MALED_diarrhea => "16S",
+  MALED_healthy => "16S",
+  PIH_Uganda => "16S",
+  ResistomeAmplicon => "16S",
+  StLouisNICU => "16S",
   UgandaMaternal => "TODO",
   DiabImmune => "TODO",
 );
 
+my %types16S = (
+  Bangladesh_healthy_5yr => "16S rRNA sequencing assay targeting V4 region",
+  Ciara_V1V3 => "16S rRNA sequencing assay targeting V1-V3 region",
+  DailyBaby => "16S rRNA sequencing assay targeting V4 region",
+  EMP_10249_ECAM => "16S rRNA sequencing assay targeting V4 region",
+  EMP_1927_HMP_V13 => "16S rRNA sequencing assay targeting V1-V3 region",
+  EMP_1928_HMP_V35 => "16S rRNA sequencing assay targeting V3-V5 region",
+  EcoCF => "16S rRNA sequencing assay targeting V4 region",
+  GEMS => "16S rRNA sequencing assay targeting V1-V2 region",
+  MALED_diarrhea => "16S rRNA sequencing assay targeting V4 region",
+  MALED_healthy => "16S rRNA sequencing assay targeting V4 region",
+  PIH_Uganda => "16S rRNA sequencing assay targeting V1-V2 region",
+  StLouisNICU => "16S rRNA sequencing assay targeting V3-V5 region",
+  UgandaMaternal => "TODO",
+  DiabImmune => "TODO",
+);
 sub xml {
   my ($dataset) = @_;
   my $suffix = $suffixes{$dataset};
   die $dataset unless $suffix;
+  my $type = $suffix eq 'WGS' ? 'whole metagenome sequencing assay' : $types16S{$dataset};
   my $body = $stanza;
   my $idc = idc($dataset);
   my $a1;
   my $a2;
   if($dataset eq "UgandaMaternal"){
-     $a1 = a1("16s V1-V2")."\n".a1("16s V3-V4");
-     $a2 = a2("16s V1-V2").a2("16s V3-V4");
+     $a1 = a1("16S_V1_V2", "16S rRNA sequencing assay targeting V1-V2 region")."\n".a1("16S_V3_V4", "16S rRNA sequencing assay targeting V3-V4 region");
+     $a2 = a2("16S_V1_V2").a2("16S_V3_V4");
   } elsif ($dataset eq "DiabImmune"){
-     $a1 = a1("16s")."\n".a1("WGS");
-     $a2 = a2("16s").a2("WGS");
+     $a1 = a1("16S", "16S rRNA sequencing assay targeting V4 region")."\n".a1("WGS", 'whole metagenome sequencing assay');
+     $a2 = a2("16S").a2("WGS");
   } else {
-     $a1 = a1($suffix);
+     die $dataset unless $type;
+     $a1 = a1($suffix, $type);
      $a2 = a2($suffix);
   }
   
