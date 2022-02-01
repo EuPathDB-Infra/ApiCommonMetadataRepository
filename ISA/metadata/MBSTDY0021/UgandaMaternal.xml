@@ -5,6 +5,7 @@
 
     <node name="Source" type="Participant" suffix="Source"  /> 
     <node name="Sample" type="Sample"/>
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
     <node isaObject="Assay" name="16S_V1_V2" type="16S rRNA sequencing assay targeting V1-V2 region" suffix="16S_V1_V2"/>
 <node isaObject="Assay" name="16S_V3_V4" type="16S rRNA sequencing assay targeting V3-V4 region" suffix="16S_V3_V4"/>
 
@@ -12,12 +13,16 @@
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
     </edge>
+
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
     
-    <edge input="Sample" output="16S_V1_V2">
+    <edge input="Extract" output="16S_V1_V2">
         <protocol>DNA sequencing</protocol>
     </edge>
 
-    <edge input="Sample" output="16S_V3_V4">
+    <edge input="Extract" output="16S_V3_V4">
         <protocol>DNA sequencing</protocol>
     </edge>
 
