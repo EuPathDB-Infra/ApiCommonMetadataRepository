@@ -3,7 +3,7 @@
   <study fileName="MALED_healthy.txt" identifierSuffix="-1" sampleRegex="MALED_healthy">
     <dataset>MicrobiomeStudyEDA_MALED_healthy_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source" idColumn="Child ID" /> 
+    <node name="Source" type="Participant" suffix="Source" /> 
     <node name="Sample" type="Sample"/>
     <node name="Extract" type="DNA extract" suffix="Extract"/>
     <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V4 region" suffix="16S"/>

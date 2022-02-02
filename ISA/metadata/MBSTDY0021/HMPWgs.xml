@@ -3,7 +3,7 @@
   <study fileName="HMPWgs.txt" identifierSuffix="-1" sampleRegex="HMPWgs">
     <dataset>MicrobiomeStudyEDA_HMPWgs_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source" idColumn="subject_id" /> 
+    <node name="Source" type="Participant" suffix="Source" /> 
     <node name="Sample" type="Sample"/>
     <node name="Extract" type="DNA extract" suffix="Extract"/>
     <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS"/>

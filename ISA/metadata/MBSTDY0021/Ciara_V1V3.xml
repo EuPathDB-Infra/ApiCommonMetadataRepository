@@ -3,7 +3,7 @@
   <study fileName="Ciara_V1V3.txt" identifierSuffix="-1" sampleRegex="Ciara_V1V3">
     <dataset>MicrobiomeStudyEDA_Ciara_V1V3_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source" idColumn="host_subject_id" /> 
+    <node name="Source" type="Participant" suffix="Source" /> 
     <node name="Sample" type="Sample"/>
     <node name="Extract" type="DNA extract" suffix="Extract"/>
     <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V1-V3 region" suffix="16S"/>

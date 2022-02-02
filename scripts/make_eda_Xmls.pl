@@ -42,12 +42,12 @@ sub a2 {
 ', $suffix);
 }
 my $stanza = <<'EOF';
-<investigation identifier="IDENTIFIER" >
+<investigation identifier="IDENTIFIER">
 
-  <study fileName="IDENTIFIER.txt" identifierSuffix="-1" sampleRegex="(IDENTIFIER)">
+  <study fileName="IDENTIFIER.txt" identifierSuffix="-1" sampleRegex="IDENTIFIER">
     <dataset>MicrobiomeStudyEDA_IDENTIFIER_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source" ID_COLUMN /> 
+    <node name="Source" type="Participant" suffix="Source" /> 
     <node name="Sample" type="Sample"/>
     <node name="Extract" type="DNA extract" suffix="Extract"/>
     ASSAYS_1

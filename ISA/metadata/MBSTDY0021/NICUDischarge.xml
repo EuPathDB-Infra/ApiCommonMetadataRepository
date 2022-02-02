@@ -3,7 +3,7 @@
   <study fileName="NICUDischarge.txt" identifierSuffix="-1" sampleRegex="NICUDischarge">
     <dataset>MicrobiomeStudyEDA_NICUDischarge_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source"  /> 
+    <node name="Source" type="Participant" suffix="Source" /> 
     <node name="Sample" type="Sample"/>
     <node name="Extract" type="DNA extract" suffix="Extract"/>
     <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS"/>
