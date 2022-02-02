@@ -1,6 +1,6 @@
-<investigation identifierRegex="^MBSTDY0021$" identifierIsDirectoryName="true">
+<investigation identifier="NICUNEC">
 
-  <study fileName="NICUNEC.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+  <study fileName="NICUNEC.txt" identifierSuffix="-1" sampleRegex="NICUNEC">
     <dataset>MicrobiomeStudyEDA_NICUNEC_RSRC</dataset>
 
     <node name="Source" type="Participant" suffix="Source" idColumn="subject_id" /> 

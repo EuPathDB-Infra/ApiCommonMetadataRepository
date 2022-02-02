@@ -1,6 +1,6 @@
-<investigation identifierRegex="^MBSTDY0021$" identifierIsDirectoryName="true">
+<investigation identifier="StLouisNICU">
 
-  <study fileName="StLouisNICU.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+  <study fileName="StLouisNICU.txt" identifierSuffix="-1" sampleRegex="StLouisNICU">
     <dataset>MicrobiomeStudyEDA_StLouisNICU_RSRC</dataset>
 
     <node name="Source" type="Participant" suffix="Source" idColumn="subject_id" /> 

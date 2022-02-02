@@ -1,6 +1,6 @@
-<investigation identifierRegex="^MBSTDY0021$" identifierIsDirectoryName="true">
+<investigation identifier="EcoCF">
 
-  <study fileName="EcoCF.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+  <study fileName="EcoCF.txt" identifierSuffix="-1" sampleRegex="EcoCF">
     <dataset>MicrobiomeStudyEDA_EcoCF_RSRC</dataset>
 
     <node name="Source" type="Participant" suffix="Source" idColumn="host_subject_id" /> 

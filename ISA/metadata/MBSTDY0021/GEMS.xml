@@ -1,6 +1,6 @@
-<investigation identifierRegex="^MBSTDY0021$" identifierIsDirectoryName="true">
+<investigation identifier="GEMS">
 
-  <study fileName="GEMS.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+  <study fileName="GEMS.txt" identifierSuffix="-1" sampleRegex="GEMS">
     <dataset>MicrobiomeStudyEDA_GEMS_RSRC</dataset>
 
     <node name="Source" type="Participant" suffix="Source"  /> 

@@ -1,6 +1,6 @@
-<investigation identifierRegex="^MBSTDY0021$" identifierIsDirectoryName="true">
+<investigation identifier="Ciara_V1V3">
 
-  <study fileName="Ciara_V1V3.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+  <study fileName="Ciara_V1V3.txt" identifierSuffix="-1" sampleRegex="Ciara_V1V3">
     <dataset>MicrobiomeStudyEDA_Ciara_V1V3_RSRC</dataset>
 
     <node name="Source" type="Participant" suffix="Source" idColumn="host_subject_id" /> 

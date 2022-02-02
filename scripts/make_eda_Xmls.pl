@@ -42,10 +42,10 @@ sub a2 {
 ', $suffix);
 }
 my $stanza = <<'EOF';
-<investigation identifierRegex="^MBSTDY0021$" identifierIsDirectoryName="true">
+<investigation identifier="IDENTIFIER" >
 
-  <study fileName="DATASET.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
-    <dataset>MicrobiomeStudyEDA_DATASET_RSRC</dataset>
+  <study fileName="IDENTIFIER.txt" identifierSuffix="-1" sampleRegex="(IDENTIFIER)">
+    <dataset>MicrobiomeStudyEDA_IDENTIFIER_RSRC</dataset>
 
     <node name="Source" type="Participant" suffix="Source" ID_COLUMN /> 
     <node name="Sample" type="Sample"/>
@@ -129,7 +129,7 @@ sub xml {
      $a2 = a2($suffix);
   }
   
-  $body =~ s/DATASET/$dataset/g;
+  $body =~ s/IDENTIFIER/$dataset/g;
   $body =~ s/ASSAYS_1/$a1/g;
   $body =~ s/ASSAYS_2/$a2/g;
   $body =~ s/ID_COLUMN/$idc/g;

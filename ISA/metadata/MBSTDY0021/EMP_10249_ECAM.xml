@@ -1,6 +1,6 @@
-<investigation identifierRegex="^MBSTDY0021$" identifierIsDirectoryName="true">
+<investigation identifier="EMP_10249_ECAM">
 
-  <study fileName="EMP_10249_ECAM.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+  <study fileName="EMP_10249_ECAM.txt" identifierSuffix="-1" sampleRegex="EMP_10249_ECAM">
     <dataset>MicrobiomeStudyEDA_EMP_10249_ECAM_RSRC</dataset>
 
     <node name="Source" type="Participant" suffix="Source" idColumn="host_subject_id" /> 

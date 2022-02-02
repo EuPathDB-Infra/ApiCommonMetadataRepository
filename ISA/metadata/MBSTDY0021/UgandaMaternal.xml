@@ -1,6 +1,6 @@
-<investigation identifierRegex="^MBSTDY0021$" identifierIsDirectoryName="true">
+<investigation identifier="UgandaMaternal">
 
-  <study fileName="UgandaMaternal.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+  <study fileName="UgandaMaternal.txt" identifierSuffix="-1" sampleRegex="UgandaMaternal">
     <dataset>MicrobiomeStudyEDA_UgandaMaternal_RSRC</dataset>
 
     <node name="Source" type="Participant" suffix="Source"  /> 

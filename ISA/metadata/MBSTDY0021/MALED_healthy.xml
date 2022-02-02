@@ -1,6 +1,6 @@
-<investigation identifierRegex="^MBSTDY0021$" identifierIsDirectoryName="true">
+<investigation identifier="MALED_healthy">
 
-  <study fileName="MALED_healthy.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
+  <study fileName="MALED_healthy.txt" identifierSuffix="-1" sampleRegex="MALED_healthy">
     <dataset>MicrobiomeStudyEDA_MALED_healthy_RSRC</dataset>
 
     <node name="Source" type="Participant" suffix="Source" idColumn="Child ID" /> 
