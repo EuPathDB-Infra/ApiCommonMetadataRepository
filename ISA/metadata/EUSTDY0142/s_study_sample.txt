@@ -1,0 +1,5 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics[fungal phenotype]	Characteristics[mating type]	Characteristics[country]	Characteristics [continent]	Characteristics [fungus organism]	Characteristics [specimen]	Characteristics [specimen]	Characteristics [fungal strain]
+Fv999	SNP calls on WGS of Fusarium verticillioides strains			1990	Spore killer	 MAT-2	USA	North America	Fusarium verticillioides	mycelia	maize	Fusarium verticillioides Fv999
+RJP98.75	SNP calls on WGS of Fusarium verticillioides strains			2015	Spore killer	 MAT-2	USA	North America	Fusarium verticillioides	mycelia	laboratory cross	Fusarium verticillioides RJP98.75
+RJP98.111	SNP calls on WGS of Fusarium verticillioides strains			2015	Spore killer	 MAT-2	USA	North America	Fusarium verticillioides	mycelia	laboratory cross	Fusarium verticillioides RJP98.111
+RJP98.118	SNP calls on WGS of Fusarium verticillioides strains			2015	Spore killer	 MAT-2	USA	North America	Fusarium verticillioides	mycelia	laboratory cross	Fusarium verticillioides RJP98.118
