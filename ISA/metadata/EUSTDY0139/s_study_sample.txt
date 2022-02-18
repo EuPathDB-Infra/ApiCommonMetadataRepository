@@ -11,7 +11,7 @@ CM2495	SNP calls of WGSf of Aspergillus fumigatus strains collected in Spain			S
 AF293	SNP calls of WGSf of Aspergillus fumigatus strains collected in Spain			Spain	Europe	Aspergillosis	Homo sapiens	40.25 N	3.41 W	Aspergillus fumigatus	Aspergillus fumigatus AF293
 akuBKU80	SNP calls of WGSf of Aspergillus fumigatus strains collected in Spain			Spain	Europe	Aspergillosis	Homo sapiens	40.25 N	3.41 W	Aspergillus fumigatus	Aspergillus fumigatus akuBKU80
 CM7570	SNP calls of WGSf of Aspergillus fumigatus strains collected in Spain			Spain	Europe	Aspergillosis	Homo sapiens	40.25 N	3.41 W	Aspergillus fumigatus	Aspergillus fumigatus CM7570
-CEA10	SNP calls of WGSf of Aspergillus fumigatus strains collected in Spain			Spain	Europe	Aspergillosis	Homo sapiens	40.25 N	3.41 W	Aspergillus fumigatus	Aspergillus fumigatus CEA10
+CEA10_resequence1	SNP calls of WGSf of Aspergillus fumigatus strains collected in Spain			Spain	Europe	Aspergillosis	Homo sapiens	40.25 N	3.41 W	Aspergillus fumigatus	Aspergillus fumigatus CEA10_resequence1
 ATCC46645	SNP calls of WGSf of Aspergillus fumigatus strains collected in Spain			Spain	Europe	Aspergillosis	Homo sapiens	40.25 N	3.41 W	Aspergillus fumigatus	Aspergillus fumigatus ATCC46645
 CM6458	SNP calls of WGSf of Aspergillus fumigatus strains collected in Spain			Spain	Europe	Aspergillosis	Homo sapiens	40.25 N	3.41 W	Aspergillus fumigatus	Aspergillus fumigatus CM6458
 CM6126	SNP calls of WGSf of Aspergillus fumigatus strains collected in Spain			Spain	Europe	Aspergillosis	Homo sapiens	40.25 N	3.41 W	Aspergillus fumigatus	Aspergillus fumigatus CM6126
