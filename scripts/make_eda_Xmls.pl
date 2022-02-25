@@ -36,7 +36,8 @@ sub a1 {
 sub a2 {
   my ($suffix) = @_;
   return sprintf('
-    <edge input="Extract" output="%s">
+    <edge input="Sample" output="%s">
+        <protocol>DNA extraction</protocol>
         <protocol>DNA sequencing</protocol>
     </edge>
 ', $suffix);
@@ -49,7 +50,6 @@ my $stanza = <<'EOF';
 
     <node name="Source" type="Participant" suffix="Source" /> 
     <node name="Sample" type="Sample"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
     ASSAYS_1
 
 
@@ -57,9 +57,6 @@ my $stanza = <<'EOF';
         <protocol>specimen collection</protocol>
     </edge>
 
-    <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
-    </edge>
     ASSAYS_2
   </study>
 </investigation>

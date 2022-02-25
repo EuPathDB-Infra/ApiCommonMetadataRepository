@@ -5,7 +5,6 @@
 
     <node name="Source" type="Participant" suffix="Source" /> 
     <node name="Sample" type="Sample"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
     <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS"/>
 
 
@@ -13,11 +12,9 @@
         <protocol>specimen collection</protocol>
     </edge>
 
-    <edge input="Sample" output="Extract">
-      <protocol>DNA extraction</protocol>
-    </edge>
     
-    <edge input="Extract" output="WGS">
+    <edge input="Sample" output="WGS">
+        <protocol>DNA extraction</protocol>
         <protocol>DNA sequencing</protocol>
     </edge>
 
