@@ -70,7 +70,6 @@ my %suffixes = (
   NICUDischarge => "WGS",
   NICUNEC => "WGS",
   Pig_pregnancy => "WGS",
-  Resistome => "WGS",
   Bangladesh_healthy_5yr => "16S",
   Ciara_V1V3 => "16S",
   DIABIMMUNE => "16S",
@@ -83,10 +82,10 @@ my %suffixes = (
   MALED_diarrhea => "16S",
   MALED_healthy => "16S",
   PIH_Uganda => "16S",
-  ResistomeAmplicon => "16S",
   StLouisNICU => "16S",
   UgandaMaternal => "TODO",
   DiabImmune => "TODO",
+  Resistome => "TODO",
 );
 
 my %types16S = (
@@ -118,6 +117,9 @@ sub xml {
      $a1 = a1("16S_V1_V2", "16S rRNA sequencing assay targeting V1-V2 region")."\n".a1("16S_V3_V4", "16S rRNA sequencing assay targeting V3-V4 region");
      $a2 = a2("16S_V1_V2").a2("16S_V3_V4");
   } elsif ($dataset eq "DiabImmune"){
+     $a1 = a1("16S", "16S rRNA sequencing assay targeting V4 region")."\n".a1("WGS", 'whole metagenome sequencing assay');
+     $a2 = a2("16S").a2("WGS");
+  } elsif ($dataset eq "Resistome"){
      $a1 = a1("16S", "16S rRNA sequencing assay targeting V4 region")."\n".a1("WGS", 'whole metagenome sequencing assay');
      $a2 = a2("16S").a2("WGS");
   } else {

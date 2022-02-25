@@ -5,7 +5,8 @@
 
     <node name="Source" type="Participant" suffix="Source" /> 
     <node name="Sample" type="Sample"/>
-    <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS"/>
+    <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V4 region" suffix="16S"/>
+<node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS"/>
 
 
     <edge input="Source" output="Sample">
@@ -13,6 +14,11 @@
     </edge>
 
     
+    <edge input="Sample" output="16S">
+        <protocol>DNA extraction</protocol>
+        <protocol>DNA sequencing</protocol>
+    </edge>
+
     <edge input="Sample" output="WGS">
         <protocol>DNA extraction</protocol>
         <protocol>DNA sequencing</protocol>
