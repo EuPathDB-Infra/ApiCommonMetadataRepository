@@ -1,0 +1,5 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [parasite organism]	Characteristics [parasite strain]	Characteristics [country]	Characteristics [study_type]	Characteristics [continent]	Characteristics [city]
+CpBunchgrass	WGS of 4 laboratory strains.			Cryptosporidium hominis	Cryptosporidium hominis CpBunchgrass	USA	Bunchgrass Farms	North America	Deary ID
+CpSterling	WGS of 4 laboratory strains.			Cryptosporidium hominis	Cryptosporidium hominis CpSterling	USA	Sterling Farms	North America	Tucson AZ
+CpWA5DBov99	WGS of 4 laboratory strains.			Cryptosporidium hominis	Cryptosporidium hominis CpWA5DBov99	USA	Farm 5D	North America	Pullman WA
+CpINRAE	WGS of 4 laboratory strains.			Cryptosporidium hominis	Cryptosporidium hominis CpINRAE	France	INRAE Facility	Europe	Tours

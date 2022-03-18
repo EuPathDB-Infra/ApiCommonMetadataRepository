@@ -1,0 +1,3 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [organism]	Characteristics [GeographicLocation]	Characteristics [city]	Characteristics [health_status]	Characteristics [age]	Characteristics [parasite organism]	Characteristics [GP60 genotype]	specimen collection year	Characteristics [parasite strain]
+35090	Comparative genomic analysis of the IId subtype family of Cryptosporidium hominis			Bos taurus	Egypt	El Beheira	diarrhea	5 weeks	Cryptosporidium hominis	IIaA15G1R1	2011	Cryptosporidium hominis 35090
+34902	Comparative genomic analysis of the IId subtype family of Cryptosporidium hominis			Bubalus bubalis	Egypt	Kafr El Sheikh	diarrhea	3 weeks	Cryptosporidium hominis	IIdA20G1	2011	Cryptosporidium hominis 34902
