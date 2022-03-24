@@ -1371,6 +1371,10 @@
     <name>Oklahoma</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="NCIT_C43460" type="characteristicValue" parent="characteristicQualifier">
+    <name>New Hampshire</name>
+  </ontologyTerm>
+
 <!-- parasite lifecycle stage -->
   <ontologyTerm source_id="OPL_0000057" type="characteristicValue" parent="characteristicQualifier">
     <name>trophozoite</name>
@@ -1505,4 +1509,9 @@
   <ontologyTerm source_id="NCIT_C14192" type="characteristicValue" parent="characteristicQualifier">
     <name>Cow</name>
   </ontologyTerm>
+
+  <ontologyTerm source_id="NCBITaxon_9544" type="characteristicValue" parent="characteristicQualifier">
+    <name>Macaca mulatta</name>
+  </ontologyTerm>
+Macaca mulatta
 </ontologymappings>
