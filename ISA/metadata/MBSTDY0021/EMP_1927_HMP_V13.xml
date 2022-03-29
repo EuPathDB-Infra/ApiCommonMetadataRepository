@@ -3,7 +3,7 @@
   <study fileName="EMP_1927_HMP_V13.txt" identifierSuffix="-1" sampleRegex="EMP_1927_HMP_V13">
     <dataset>MicrobiomeStudyEDA_EMP_1927_HMP_V13_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source" /> 
+    <node name="Source" type="Participant" suffix="Source" idColumn="host_subject_id" /> 
     <node name="Sample" type="Sample"/>
     <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V1-V3 region" suffix="16S"/>
 

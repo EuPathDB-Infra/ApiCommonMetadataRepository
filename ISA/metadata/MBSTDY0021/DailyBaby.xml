@@ -3,7 +3,7 @@
   <study fileName="DailyBaby.txt" identifierSuffix="-1" sampleRegex="DailyBaby">
     <dataset>MicrobiomeStudyEDA_DailyBaby_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source" /> 
+    <node name="Source" type="Participant" suffix="Source" idColumn="subject_id" /> 
     <node name="Sample" type="Sample"/>
     <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V4 region" suffix="16S"/>
 

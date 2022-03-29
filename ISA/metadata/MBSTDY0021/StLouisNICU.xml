@@ -3,7 +3,7 @@
   <study fileName="StLouisNICU.txt" identifierSuffix="-1" sampleRegex="StLouisNICU">
     <dataset>MicrobiomeStudyEDA_StLouisNICU_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source" /> 
+    <node name="Source" type="Participant" suffix="Source" idColumn="subject_id" /> 
     <node name="Sample" type="Sample"/>
     <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V3-V5 region" suffix="16S"/>
 

@@ -48,7 +48,7 @@ my $stanza = <<'EOF';
   <study fileName="IDENTIFIER.txt" identifierSuffix="-1" sampleRegex="IDENTIFIER">
     <dataset>MicrobiomeStudyEDA_IDENTIFIER_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source" /> 
+    <node name="Source" type="Participant" suffix="Source" ID_COLUMN /> 
     <node name="Sample" type="Sample"/>
     ASSAYS_1
 

@@ -3,7 +3,7 @@
   <study fileName="EMP_10249_ECAM.txt" identifierSuffix="-1" sampleRegex="EMP_10249_ECAM">
     <dataset>MicrobiomeStudyEDA_EMP_10249_ECAM_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source" /> 
+    <node name="Source" type="Participant" suffix="Source" idColumn="host_subject_id" /> 
     <node name="Sample" type="Sample"/>
     <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V4 region" suffix="16S"/>
 
