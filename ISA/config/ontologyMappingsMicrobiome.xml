@@ -1157,10 +1157,82 @@
     <name>c_AllAbx</name>
     <function>splitUnitFromValue</function>
   </ontologyTerm>	
-	
+  <ontologyTerm source_id="EUPATH_0009343" type="characteristicQualifier" parent="Source">
+    <name>Antibiotics_past_3months</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009342" type="characteristicQualifier" parent="Source">
+    <name>Boiled_water</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009345" type="characteristicQualifier" parent="Source">
+    <name>Diarrhea_past_3months</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OMRSE_00002045" type="characteristicQualifier" parent="Source">
+    <name>Level_of_education</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_00000856" type="characteristicQualifier" parent="Source">
+    <name>Location</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009344" type="characteristicQualifier" parent="Source">
+    <name>Probiotic_food_past_3months</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009349" type="characteristicQualifier" parent="Source">
+    <name>Response to anthelminthic</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009341" type="characteristicQualifier" parent="Source">
+    <name>Undercooked_meat</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OMRSE_00000205" type="characteristicQualifier" parent="Source">
+    <name>Cultural group</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C161322" type="characteristicQualifier" parent="Source">
+    <name>treatment_group</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0030004" type="characteristicQualifier" parent="Source">
+    <name>village_code</name>
+  </ontologyTerm>
+
 
   <!-- Characteristics associated with Sample -->
 
+  <ontologyTerm source_id="EUPATH_0009332" type="characteristicQualifier" parent="Sample">
+    <name>phase</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009339" type="characteristicQualifier" parent="Sample">
+    <name>Ascaris_infection_intensity</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009336" type="characteristicQualifier" parent="Sample">
+    <name>Ascaris_infection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009347" type="characteristicQualifier" parent="Sample">
+    <name>Ascaris lumbricoides burden</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009334" type="characteristicQualifier" parent="Sample">
+    <name>Helminth_infection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009348" type="characteristicQualifier" parent="Sample">
+    <name>Hookworm burden</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009340" type="characteristicQualifier" parent="Sample">
+    <name>Hookworm_infection_intensity</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009337" type="characteristicQualifier" parent="Sample">
+    <name>Hookworm_infection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000711" type="characteristicQualifier" parent="Sample">
+    <name>Library protocol</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009333" type="characteristicQualifier" parent="Sample">
+    <name>Sample_collection_timepoint</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009338" type="characteristicQualifier" parent="Sample">
+    <name>Trichuris_infection_intensity</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009335" type="characteristicQualifier" parent="Sample">
+    <name>Trichuris_infection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009346" type="characteristicQualifier" parent="Sample">
+    <name>Trichuris trichuria burden</name>
+  </ontologyTerm>
 
   <ontologyTerm source_id="EUPATH_0009194" type="characteristicQualifier" parent="Sample">
     <name>sample_acyclovir</name>
