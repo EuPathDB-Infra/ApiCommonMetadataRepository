@@ -1,7 +1,7 @@
 <investigation identifierRegex="^(MBSTDY)\d+$" identifierIsDirectoryName="true">
 
-  <study fileName="Mordor_metatranscriptome.txt" identifierSuffix="-31" sampleRegex="MBSMPL">
-    <dataset>otuDADA2_Mordor_metatranscriptome_RSRC</dataset>
+  <study fileName="MORDOR_metatranscriptome.txt" identifierSuffix="-31" sampleRegex="MBSMPL">
+    <dataset>otuDADA2_MORDOR_metatranscriptome_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>
     <node name="Sample" type="sample from organism"/>
