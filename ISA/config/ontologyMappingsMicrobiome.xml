@@ -303,6 +303,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0038078" type="characteristicQualifier" parent="Source">
     <name>Labor duration</name>
+    <name>Delivery duration</name>
     <function>splitUnitFromValue</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000585" type="characteristicQualifier" parent="Source">
