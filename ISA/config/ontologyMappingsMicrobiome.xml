@@ -1989,4 +1989,1526 @@ r">
 
 
 
+  <ontologyTerm source_id="TMP_EUKDETECT_M_1" type="characteristicQualifier" parent="Source">
+    <name>Cryptosporidium hominis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_2" type="characteristicQualifier" parent="Source">
+    <name>Matches for Cryptosporidium hominis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_2" type="characteristicQualifier" parent="Source">
+    <name>Cryptosporidium meleagridis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_3" type="characteristicQualifier" parent="Source">
+    <name>Matches for Cryptosporidium meleagridis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_3" type="characteristicQualifier" parent="Source">
+    <name>Blastocystis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_4" type="characteristicQualifier" parent="Source">
+    <name>Matches for Blastocystis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_4" type="characteristicQualifier" parent="Source">
+    <name>Blastocystis hominis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_5" type="characteristicQualifier" parent="Source">
+    <name>Matches for Blastocystis hominis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_5" type="characteristicQualifier" parent="Source">
+    <name>Blastocystis sp. subtype 1 detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_6" type="characteristicQualifier" parent="Source">
+    <name>Matches for Blastocystis sp. subtype 1 (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_6" type="characteristicQualifier" parent="Source">
+    <name>Blastocystis sp. subtype 2 detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_7" type="characteristicQualifier" parent="Source">
+    <name>Matches for Blastocystis sp. subtype 2 (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_7" type="characteristicQualifier" parent="Source">
+    <name>Blastocystis sp. subtype 3 detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_8" type="characteristicQualifier" parent="Source">
+    <name>Matches for Blastocystis sp. subtype 3 (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_8" type="characteristicQualifier" parent="Source">
+    <name>Blastocystis sp. subtype 4 detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_9" type="characteristicQualifier" parent="Source">
+    <name>Matches for Blastocystis sp. subtype 4 (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_9" type="characteristicQualifier" parent="Source">
+    <name>Blastocystis sp. subtype 6 detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_10" type="characteristicQualifier" parent="Source">
+    <name>Matches for Blastocystis sp. subtype 6 (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_10" type="characteristicQualifier" parent="Source">
+    <name>Salpingoeca detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_11" type="characteristicQualifier" parent="Source">
+    <name>Matches for Salpingoeca (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_11" type="characteristicQualifier" parent="Source">
+    <name>Salpingoeca rosetta detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_12" type="characteristicQualifier" parent="Source">
+    <name>Matches for Salpingoeca rosetta (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_12" type="characteristicQualifier" parent="Source">
+    <name>Entamoeba detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_13" type="characteristicQualifier" parent="Source">
+    <name>Matches for Entamoeba (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_13" type="characteristicQualifier" parent="Source">
+    <name>Entamoeba dispar detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_14" type="characteristicQualifier" parent="Source">
+    <name>Matches for Entamoeba dispar (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_14" type="characteristicQualifier" parent="Source">
+    <name>Entamoeba histolytica detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_15" type="characteristicQualifier" parent="Source">
+    <name>Matches for Entamoeba histolytica (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_15" type="characteristicQualifier" parent="Source">
+    <name>Giardia detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_16" type="characteristicQualifier" parent="Source">
+    <name>Matches for Giardia (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_16" type="characteristicQualifier" parent="Source">
+    <name>Giardia intestinalis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_17" type="characteristicQualifier" parent="Source">
+    <name>Matches for Giardia intestinalis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_17" type="characteristicQualifier" parent="Source">
+    <name>Trichomonas tenax detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_18" type="characteristicQualifier" parent="Source">
+    <name>Matches for Trichomonas tenax (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_18" type="characteristicQualifier" parent="Source">
+    <name>Cladosporium phlei detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_19" type="characteristicQualifier" parent="Source">
+    <name>Matches for Cladosporium phlei (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_19" type="characteristicQualifier" parent="Source">
+    <name>Cladosporium sphaerospermum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_20" type="characteristicQualifier" parent="Source">
+    <name>Matches for Cladosporium sphaerospermum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_20" type="characteristicQualifier" parent="Source">
+    <name>Cercospora beticola detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_21" type="characteristicQualifier" parent="Source">
+    <name>Matches for Cercospora beticola (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_21" type="characteristicQualifier" parent="Source">
+    <name>Cercospora cf. flagellaris detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_22" type="characteristicQualifier" parent="Source">
+    <name>Matches for Cercospora cf. flagellaris (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_22" type="characteristicQualifier" parent="Source">
+    <name>Mycosphaerella populi detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_23" type="characteristicQualifier" parent="Source">
+    <name>Matches for Mycosphaerella populi (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_23" type="characteristicQualifier" parent="Source">
+    <name>Aureobasidium detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_24" type="characteristicQualifier" parent="Source">
+    <name>Matches for Aureobasidium (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_24" type="characteristicQualifier" parent="Source">
+    <name>Epicoccum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_25" type="characteristicQualifier" parent="Source">
+    <name>Matches for Epicoccum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_25" type="characteristicQualifier" parent="Source">
+    <name>Epicoccum nigrum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_26" type="characteristicQualifier" parent="Source">
+    <name>Matches for Epicoccum nigrum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_26" type="characteristicQualifier" parent="Source">
+    <name>Pleosporaceae detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_27" type="characteristicQualifier" parent="Source">
+    <name>Matches for Pleosporaceae (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_27" type="characteristicQualifier" parent="Source">
+    <name>Alternaria detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_28" type="characteristicQualifier" parent="Source">
+    <name>Matches for Alternaria (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_28" type="characteristicQualifier" parent="Source">
+    <name>Alternaria alternata detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_29" type="characteristicQualifier" parent="Source">
+    <name>Matches for Alternaria alternata (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_29" type="characteristicQualifier" parent="Source">
+    <name>Alternaria arborescens detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_30" type="characteristicQualifier" parent="Source">
+    <name>Matches for Alternaria arborescens (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_30" type="characteristicQualifier" parent="Source">
+    <name>Alternaria gaisen detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_31" type="characteristicQualifier" parent="Source">
+    <name>Matches for Alternaria gaisen (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_31" type="characteristicQualifier" parent="Source">
+    <name>Alternaria tenuissima detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_32" type="characteristicQualifier" parent="Source">
+    <name>Matches for Alternaria tenuissima (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_32" type="characteristicQualifier" parent="Source">
+    <name>Bipolaris detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_33" type="characteristicQualifier" parent="Source">
+    <name>Matches for Bipolaris (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_33" type="characteristicQualifier" parent="Source">
+    <name>Bipolaris maydis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_34" type="characteristicQualifier" parent="Source">
+    <name>Matches for Bipolaris maydis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_34" type="characteristicQualifier" parent="Source">
+    <name>Bipolaris oryzae detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_35" type="characteristicQualifier" parent="Source">
+    <name>Matches for Bipolaris oryzae (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_35" type="characteristicQualifier" parent="Source">
+    <name>Curvularia detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_36" type="characteristicQualifier" parent="Source">
+    <name>Matches for Curvularia (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_36" type="characteristicQualifier" parent="Source">
+    <name>Preussia sp. BSL10 detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_37" type="characteristicQualifier" parent="Source">
+    <name>Matches for Preussia sp. BSL10 (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_37" type="characteristicQualifier" parent="Source">
+    <name>Eurotiomycetes detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_38" type="characteristicQualifier" parent="Source">
+    <name>Matches for Eurotiomycetes (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_38" type="characteristicQualifier" parent="Source">
+    <name>Herpotrichiellaceae sp. UM238 detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_39" type="characteristicQualifier" parent="Source">
+    <name>Matches for Herpotrichiellaceae sp. UM238 (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_39" type="characteristicQualifier" parent="Source">
+    <name>Aspergillus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_40" type="characteristicQualifier" parent="Source">
+    <name>Matches for Aspergillus (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_40" type="characteristicQualifier" parent="Source">
+    <name>Aspergillus chevalieri detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_41" type="characteristicQualifier" parent="Source">
+    <name>Matches for Aspergillus chevalieri (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_41" type="characteristicQualifier" parent="Source">
+    <name>Aspergillus fumigatus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_42" type="characteristicQualifier" parent="Source">
+    <name>Matches for Aspergillus fumigatus (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_42" type="characteristicQualifier" parent="Source">
+    <name>Aspergillus glaucus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_43" type="characteristicQualifier" parent="Source">
+    <name>Matches for Aspergillus glaucus (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_43" type="characteristicQualifier" parent="Source">
+    <name>Aspergillus minisclerotigenes detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_44" type="characteristicQualifier" parent="Source">
+    <name>Matches for Aspergillus minisclerotigenes (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_44" type="characteristicQualifier" parent="Source">
+    <name>Aspergillus novoparasiticus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_45" type="characteristicQualifier" parent="Source">
+    <name>Matches for Aspergillus novoparasiticus (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_45" type="characteristicQualifier" parent="Source">
+    <name>Aspergillus oryzae detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_46" type="characteristicQualifier" parent="Source">
+    <name>Matches for Aspergillus oryzae (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_46" type="characteristicQualifier" parent="Source">
+    <name>Aspergillus sp. MA 6041 detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_47" type="characteristicQualifier" parent="Source">
+    <name>Matches for Aspergillus sp. MA 6041 (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_47" type="characteristicQualifier" parent="Source">
+    <name>Aspergillus sydowii detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_48" type="characteristicQualifier" parent="Source">
+    <name>Matches for Aspergillus sydowii (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_48" type="characteristicQualifier" parent="Source">
+    <name>Penicillium detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_49" type="characteristicQualifier" parent="Source">
+    <name>Matches for Penicillium (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_49" type="characteristicQualifier" parent="Source">
+    <name>Penicillium chrysogenum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_50" type="characteristicQualifier" parent="Source">
+    <name>Matches for Penicillium chrysogenum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_50" type="characteristicQualifier" parent="Source">
+    <name>Penicillium freii detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_51" type="characteristicQualifier" parent="Source">
+    <name>Matches for Penicillium freii (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_51" type="characteristicQualifier" parent="Source">
+    <name>Penicillium roqueforti detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_52" type="characteristicQualifier" parent="Source">
+    <name>Matches for Penicillium roqueforti (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_52" type="characteristicQualifier" parent="Source">
+    <name>Penicillium solitum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_53" type="characteristicQualifier" parent="Source">
+    <name>Matches for Penicillium solitum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_53" type="characteristicQualifier" parent="Source">
+    <name>Penicillium sp. BW_MB detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_54" type="characteristicQualifier" parent="Source">
+    <name>Matches for Penicillium sp. BW_MB (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_54" type="characteristicQualifier" parent="Source">
+    <name>Penicillium sp. MA 6036 detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_55" type="characteristicQualifier" parent="Source">
+    <name>Matches for Penicillium sp. MA 6036 (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_55" type="characteristicQualifier" parent="Source">
+    <name>Byssochlamys sp. AF001 detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_56" type="characteristicQualifier" parent="Source">
+    <name>Matches for Byssochlamys sp. AF001 (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_56" type="characteristicQualifier" parent="Source">
+    <name>Talaromyces amestolkiae detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_57" type="characteristicQualifier" parent="Source">
+    <name>Matches for Talaromyces amestolkiae (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_57" type="characteristicQualifier" parent="Source">
+    <name>Talaromyces islandicus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_58" type="characteristicQualifier" parent="Source">
+    <name>Matches for Talaromyces islandicus (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_58" type="characteristicQualifier" parent="Source">
+    <name>Talaromyces wortmannii detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_59" type="characteristicQualifier" parent="Source">
+    <name>Matches for Talaromyces wortmannii (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_59" type="characteristicQualifier" parent="Source">
+    <name>Thermomyces lanuginosus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_60" type="characteristicQualifier" parent="Source">
+    <name>Matches for Thermomyces lanuginosus (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_60" type="characteristicQualifier" parent="Source">
+    <name>Botryotinia calthae detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_61" type="characteristicQualifier" parent="Source">
+    <name>Matches for Botryotinia calthae (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_61" type="characteristicQualifier" parent="Source">
+    <name>Botryotinia convoluta detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_62" type="characteristicQualifier" parent="Source">
+    <name>Matches for Botryotinia convoluta (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_62" type="characteristicQualifier" parent="Source">
+    <name>Botrytis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_63" type="characteristicQualifier" parent="Source">
+    <name>Matches for Botrytis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_63" type="characteristicQualifier" parent="Source">
+    <name>Botrytis cinerea detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_64" type="characteristicQualifier" parent="Source">
+    <name>Matches for Botrytis cinerea (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_64" type="characteristicQualifier" parent="Source">
+    <name>Pneumocystis jirovecii detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_65" type="characteristicQualifier" parent="Source">
+    <name>Matches for Pneumocystis jirovecii (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_65" type="characteristicQualifier" parent="Source">
+    <name>Saccharomycetales detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_66" type="characteristicQualifier" parent="Source">
+    <name>Matches for Saccharomycetales (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_66" type="characteristicQualifier" parent="Source">
+    <name>Ambrosiozyma detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_67" type="characteristicQualifier" parent="Source">
+    <name>Matches for Ambrosiozyma (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_67" type="characteristicQualifier" parent="Source">
+    <name>Candida sake detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_68" type="characteristicQualifier" parent="Source">
+    <name>Matches for Candida sake (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_68" type="characteristicQualifier" parent="Source">
+    <name>Debaryomycetaceae detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_69" type="characteristicQualifier" parent="Source">
+    <name>Matches for Debaryomycetaceae (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_69" type="characteristicQualifier" parent="Source">
+    <name>Candida detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_70" type="characteristicQualifier" parent="Source">
+    <name>Matches for Candida (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_70" type="characteristicQualifier" parent="Source">
+    <name>Candida albicans detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_71" type="characteristicQualifier" parent="Source">
+    <name>Matches for Candida albicans (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_71" type="characteristicQualifier" parent="Source">
+    <name>Candida dubliniensis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_72" type="characteristicQualifier" parent="Source">
+    <name>Matches for Candida dubliniensis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_72" type="characteristicQualifier" parent="Source">
+    <name>Candida metapsilosis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_73" type="characteristicQualifier" parent="Source">
+    <name>Matches for Candida metapsilosis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_73" type="characteristicQualifier" parent="Source">
+    <name>Candida orthopsilosis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_74" type="characteristicQualifier" parent="Source">
+    <name>Matches for Candida orthopsilosis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_74" type="characteristicQualifier" parent="Source">
+    <name>Candida parapsilosis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_75" type="characteristicQualifier" parent="Source">
+    <name>Matches for Candida parapsilosis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_75" type="characteristicQualifier" parent="Source">
+    <name>Candida tropicalis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_76" type="characteristicQualifier" parent="Source">
+    <name>Matches for Candida tropicalis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_76" type="characteristicQualifier" parent="Source">
+    <name>Debaryomyces detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_77" type="characteristicQualifier" parent="Source">
+    <name>Matches for Debaryomyces (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_77" type="characteristicQualifier" parent="Source">
+    <name>Debaryomyces hansenii detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_78" type="characteristicQualifier" parent="Source">
+    <name>Matches for Debaryomyces hansenii (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_78" type="characteristicQualifier" parent="Source">
+    <name>Hyphopichia detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_79" type="characteristicQualifier" parent="Source">
+    <name>Matches for Hyphopichia (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_79" type="characteristicQualifier" parent="Source">
+    <name>Lodderomyces detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_80" type="characteristicQualifier" parent="Source">
+    <name>Matches for Lodderomyces (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_80" type="characteristicQualifier" parent="Source">
+    <name>Lodderomyces elongisporus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_81" type="characteristicQualifier" parent="Source">
+    <name>Matches for Lodderomyces elongisporus (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_81" type="characteristicQualifier" parent="Source">
+    <name>Meyerozyma detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_82" type="characteristicQualifier" parent="Source">
+    <name>Matches for Meyerozyma (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_82" type="characteristicQualifier" parent="Source">
+    <name>Meyerozyma caribbica detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_83" type="characteristicQualifier" parent="Source">
+    <name>Matches for Meyerozyma caribbica (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_83" type="characteristicQualifier" parent="Source">
+    <name>Meyerozyma carpophila detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_84" type="characteristicQualifier" parent="Source">
+    <name>Matches for Meyerozyma carpophila (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_84" type="characteristicQualifier" parent="Source">
+    <name>Meyerozyma guilliermondii detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_85" type="characteristicQualifier" parent="Source">
+    <name>Matches for Meyerozyma guilliermondii (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_85" type="characteristicQualifier" parent="Source">
+    <name>Meyerozyma sp. JA9 detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_86" type="characteristicQualifier" parent="Source">
+    <name>Matches for Meyerozyma sp. JA9 (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_86" type="characteristicQualifier" parent="Source">
+    <name>Scheffersomyces detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_87" type="characteristicQualifier" parent="Source">
+    <name>Matches for Scheffersomyces (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_87" type="characteristicQualifier" parent="Source">
+    <name>Spathaspora detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_88" type="characteristicQualifier" parent="Source">
+    <name>Matches for Spathaspora (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_88" type="characteristicQualifier" parent="Source">
+    <name>Suhomyces detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_89" type="characteristicQualifier" parent="Source">
+    <name>Matches for Suhomyces (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_89" type="characteristicQualifier" parent="Source">
+    <name>Teunomyces detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_90" type="characteristicQualifier" parent="Source">
+    <name>Matches for Teunomyces (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_90" type="characteristicQualifier" parent="Source">
+    <name>Teunomyces cretensis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_91" type="characteristicQualifier" parent="Source">
+    <name>Matches for Teunomyces cretensis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_91" type="characteristicQualifier" parent="Source">
+    <name>Yamadazyma detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_92" type="characteristicQualifier" parent="Source">
+    <name>Matches for Yamadazyma (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_92" type="characteristicQualifier" parent="Source">
+    <name>Yarrowia alimentaria detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_93" type="characteristicQualifier" parent="Source">
+    <name>Matches for Yarrowia alimentaria (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_93" type="characteristicQualifier" parent="Source">
+    <name>Yarrowia galli detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_94" type="characteristicQualifier" parent="Source">
+    <name>Matches for Yarrowia galli (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_94" type="characteristicQualifier" parent="Source">
+    <name>Yarrowia lipolytica detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_95" type="characteristicQualifier" parent="Source">
+    <name>Matches for Yarrowia lipolytica (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_95" type="characteristicQualifier" parent="Source">
+    <name>Diutina detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_96" type="characteristicQualifier" parent="Source">
+    <name>Matches for Diutina (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_96" type="characteristicQualifier" parent="Source">
+    <name>Metschnikowiaceae detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_97" type="characteristicQualifier" parent="Source">
+    <name>Matches for Metschnikowiaceae (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_97" type="characteristicQualifier" parent="Source">
+    <name>[Candida] intermedia detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_98" type="characteristicQualifier" parent="Source">
+    <name>Matches for [Candida] intermedia (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_98" type="characteristicQualifier" parent="Source">
+    <name>Clavispora lusitaniae detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_99" type="characteristicQualifier" parent="Source">
+    <name>Matches for Clavispora lusitaniae (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_99" type="characteristicQualifier" parent="Source">
+    <name>Metschnikowia fructicola detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_100" type="characteristicQualifier" parent="Source">
+    <name>Matches for Metschnikowia fructicola (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_100" type="characteristicQualifier" parent="Source">
+    <name>Cyberlindnera detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_101" type="characteristicQualifier" parent="Source">
+    <name>Matches for Cyberlindnera (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_101" type="characteristicQualifier" parent="Source">
+    <name>Cyberlindnera jadinii detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_102" type="characteristicQualifier" parent="Source">
+    <name>Matches for Cyberlindnera jadinii (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_102" type="characteristicQualifier" parent="Source">
+    <name>Komagataella detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_103" type="characteristicQualifier" parent="Source">
+    <name>Matches for Komagataella (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_103" type="characteristicQualifier" parent="Source">
+    <name>Starmera detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_104" type="characteristicQualifier" parent="Source">
+    <name>Matches for Starmera (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_104" type="characteristicQualifier" parent="Source">
+    <name>Wickerhamomyces detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_105" type="characteristicQualifier" parent="Source">
+    <name>Matches for Wickerhamomyces (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_105" type="characteristicQualifier" parent="Source">
+    <name>Wickerhamomyces anomalus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_106" type="characteristicQualifier" parent="Source">
+    <name>Matches for Wickerhamomyces anomalus (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_106" type="characteristicQualifier" parent="Source">
+    <name>Nakazawaea holstii detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_107" type="characteristicQualifier" parent="Source">
+    <name>Matches for Nakazawaea holstii (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_107" type="characteristicQualifier" parent="Source">
+    <name>Pichia detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_108" type="characteristicQualifier" parent="Source">
+    <name>Matches for Pichia (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_108" type="characteristicQualifier" parent="Source">
+    <name>[Candida] inconspicua detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_109" type="characteristicQualifier" parent="Source">
+    <name>Matches for [Candida] inconspicua (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_109" type="characteristicQualifier" parent="Source">
+    <name>Pichia kluyveri detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_110" type="characteristicQualifier" parent="Source">
+    <name>Matches for Pichia kluyveri (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_110" type="characteristicQualifier" parent="Source">
+    <name>Pichia kudriavzevii detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_111" type="characteristicQualifier" parent="Source">
+    <name>Matches for Pichia kudriavzevii (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_111" type="characteristicQualifier" parent="Source">
+    <name>Pichia membranifaciens detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_112" type="characteristicQualifier" parent="Source">
+    <name>Matches for Pichia membranifaciens (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_112" type="characteristicQualifier" parent="Source">
+    <name>Pichia occidentalis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_113" type="characteristicQualifier" parent="Source">
+    <name>Matches for Pichia occidentalis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_113" type="characteristicQualifier" parent="Source">
+    <name>Kazachstania unispora detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_114" type="characteristicQualifier" parent="Source">
+    <name>Matches for Kazachstania unispora (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_114" type="characteristicQualifier" parent="Source">
+    <name>Kluyveromyces marxianus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_115" type="characteristicQualifier" parent="Source">
+    <name>Matches for Kluyveromyces marxianus (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_115" type="characteristicQualifier" parent="Source">
+    <name>Lachancea fermentati detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_116" type="characteristicQualifier" parent="Source">
+    <name>Matches for Lachancea fermentati (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_116" type="characteristicQualifier" parent="Source">
+    <name>Nakaseomyces detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_117" type="characteristicQualifier" parent="Source">
+    <name>Matches for Nakaseomyces (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_117" type="characteristicQualifier" parent="Source">
+    <name>[Candida] glabrata detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_118" type="characteristicQualifier" parent="Source">
+    <name>Matches for [Candida] glabrata (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_118" type="characteristicQualifier" parent="Source">
+    <name>[Candida] nivariensis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_119" type="characteristicQualifier" parent="Source">
+    <name>Matches for [Candida] nivariensis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_119" type="characteristicQualifier" parent="Source">
+    <name>Saccharomyces detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_120" type="characteristicQualifier" parent="Source">
+    <name>Matches for Saccharomyces (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_120" type="characteristicQualifier" parent="Source">
+    <name>Saccharomyces cerevisiae detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_121" type="characteristicQualifier" parent="Source">
+    <name>Matches for Saccharomyces cerevisiae (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_121" type="characteristicQualifier" parent="Source">
+    <name>Torulaspora delbrueckii detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_122" type="characteristicQualifier" parent="Source">
+    <name>Matches for Torulaspora delbrueckii (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_122" type="characteristicQualifier" parent="Source">
+    <name>Zygosaccharomyces detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_123" type="characteristicQualifier" parent="Source">
+    <name>Matches for Zygosaccharomyces (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_123" type="characteristicQualifier" parent="Source">
+    <name>Zygosaccharomyces pseudobailii detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_124" type="characteristicQualifier" parent="Source">
+    <name>Matches for Zygosaccharomyces pseudobailii (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_124" type="characteristicQualifier" parent="Source">
+    <name>Hanseniaspora uvarum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_125" type="characteristicQualifier" parent="Source">
+    <name>Matches for Hanseniaspora uvarum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_125" type="characteristicQualifier" parent="Source">
+    <name>Wickerhamiella pararugosa detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_126" type="characteristicQualifier" parent="Source">
+    <name>Matches for Wickerhamiella pararugosa (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_126" type="characteristicQualifier" parent="Source">
+    <name>Wickerhamiella versatilis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_127" type="characteristicQualifier" parent="Source">
+    <name>Matches for Wickerhamiella versatilis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_127" type="characteristicQualifier" parent="Source">
+    <name>Schizosaccharomyces pombe detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_128" type="characteristicQualifier" parent="Source">
+    <name>Matches for Schizosaccharomyces pombe (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_128" type="characteristicQualifier" parent="Source">
+    <name>Colletotrichum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_129" type="characteristicQualifier" parent="Source">
+    <name>Matches for Colletotrichum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_129" type="characteristicQualifier" parent="Source">
+    <name>Lecanicillium sp. LEC01 detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_130" type="characteristicQualifier" parent="Source">
+    <name>Matches for Lecanicillium sp. LEC01 (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_130" type="characteristicQualifier" parent="Source">
+    <name>Fusarium detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_131" type="characteristicQualifier" parent="Source">
+    <name>Matches for Fusarium (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_131" type="characteristicQualifier" parent="Source">
+    <name>Fusarium clavum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_132" type="characteristicQualifier" parent="Source">
+    <name>Matches for Fusarium clavum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_132" type="characteristicQualifier" parent="Source">
+    <name>Fusarium equiseti detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_133" type="characteristicQualifier" parent="Source">
+    <name>Matches for Fusarium equiseti (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_133" type="characteristicQualifier" parent="Source">
+    <name>Fusarium fasciculatum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_134" type="characteristicQualifier" parent="Source">
+    <name>Matches for Fusarium fasciculatum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_134" type="characteristicQualifier" parent="Source">
+    <name>Fusarium humuli detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_135" type="characteristicQualifier" parent="Source">
+    <name>Matches for Fusarium humuli (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_135" type="characteristicQualifier" parent="Source">
+    <name>Fusarium nanum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_136" type="characteristicQualifier" parent="Source">
+    <name>Matches for Fusarium nanum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_136" type="characteristicQualifier" parent="Source">
+    <name>Purpureocillium lilacinum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_137" type="characteristicQualifier" parent="Source">
+    <name>Matches for Purpureocillium lilacinum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_137" type="characteristicQualifier" parent="Source">
+    <name>Chaetomium globosum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_138" type="characteristicQualifier" parent="Source">
+    <name>Matches for Chaetomium globosum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_138" type="characteristicQualifier" parent="Source">
+    <name>Neurospora detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_139" type="characteristicQualifier" parent="Source">
+    <name>Matches for Neurospora (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_139" type="characteristicQualifier" parent="Source">
+    <name>Basidiomycota detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_140" type="characteristicQualifier" parent="Source">
+    <name>Matches for Basidiomycota (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_140" type="characteristicQualifier" parent="Source">
+    <name>Pleurotus tuoliensis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_141" type="characteristicQualifier" parent="Source">
+    <name>Matches for Pleurotus tuoliensis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_141" type="characteristicQualifier" parent="Source">
+    <name>Schizopora paradoxa detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_142" type="characteristicQualifier" parent="Source">
+    <name>Matches for Schizopora paradoxa (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_142" type="characteristicQualifier" parent="Source">
+    <name>Irpex lacteus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_143" type="characteristicQualifier" parent="Source">
+    <name>Matches for Irpex lacteus (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_143" type="characteristicQualifier" parent="Source">
+    <name>Trametes versicolor detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_144" type="characteristicQualifier" parent="Source">
+    <name>Matches for Trametes versicolor (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_144" type="characteristicQualifier" parent="Source">
+    <name>Peniophora sp. CONT detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_145" type="characteristicQualifier" parent="Source">
+    <name>Matches for Peniophora sp. CONT (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_145" type="characteristicQualifier" parent="Source">
+    <name>Stereum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_146" type="characteristicQualifier" parent="Source">
+    <name>Matches for Stereum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_146" type="characteristicQualifier" parent="Source">
+    <name>Pseudomicrostroma glucosiphilum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_147" type="characteristicQualifier" parent="Source">
+    <name>Matches for Pseudomicrostroma glucosiphilum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_147" type="characteristicQualifier" parent="Source">
+    <name>Tilletia detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_148" type="characteristicQualifier" parent="Source">
+    <name>Matches for Tilletia (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_148" type="characteristicQualifier" parent="Source">
+    <name>Malassezia detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_149" type="characteristicQualifier" parent="Source">
+    <name>Matches for Malassezia (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_149" type="characteristicQualifier" parent="Source">
+    <name>Malassezia dermatis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_150" type="characteristicQualifier" parent="Source">
+    <name>Matches for Malassezia dermatis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_150" type="characteristicQualifier" parent="Source">
+    <name>Malassezia furfur detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_151" type="characteristicQualifier" parent="Source">
+    <name>Matches for Malassezia furfur (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_151" type="characteristicQualifier" parent="Source">
+    <name>Malassezia globosa detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_152" type="characteristicQualifier" parent="Source">
+    <name>Matches for Malassezia globosa (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_152" type="characteristicQualifier" parent="Source">
+    <name>Malassezia japonica detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_153" type="characteristicQualifier" parent="Source">
+    <name>Matches for Malassezia japonica (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_153" type="characteristicQualifier" parent="Source">
+    <name>Malassezia obtusa detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_154" type="characteristicQualifier" parent="Source">
+    <name>Matches for Malassezia obtusa (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_154" type="characteristicQualifier" parent="Source">
+    <name>Malassezia pachydermatis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_155" type="characteristicQualifier" parent="Source">
+    <name>Matches for Malassezia pachydermatis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_155" type="characteristicQualifier" parent="Source">
+    <name>Malassezia restricta detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_156" type="characteristicQualifier" parent="Source">
+    <name>Matches for Malassezia restricta (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_156" type="characteristicQualifier" parent="Source">
+    <name>Malassezia sympodialis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_157" type="characteristicQualifier" parent="Source">
+    <name>Matches for Malassezia sympodialis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_157" type="characteristicQualifier" parent="Source">
+    <name>Rhodotorula detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_158" type="characteristicQualifier" parent="Source">
+    <name>Matches for Rhodotorula (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_158" type="characteristicQualifier" parent="Source">
+    <name>Rhodotorula sp. JG-1b detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_159" type="characteristicQualifier" parent="Source">
+    <name>Matches for Rhodotorula sp. JG-1b (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_159" type="characteristicQualifier" parent="Source">
+    <name>Tremellomycetes detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_160" type="characteristicQualifier" parent="Source">
+    <name>Matches for Tremellomycetes (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_160" type="characteristicQualifier" parent="Source">
+    <name>Trichosporonaceae detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_161" type="characteristicQualifier" parent="Source">
+    <name>Matches for Trichosporonaceae (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_161" type="characteristicQualifier" parent="Source">
+    <name>Apiotrichum detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_162" type="characteristicQualifier" parent="Source">
+    <name>Matches for Apiotrichum (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_162" type="characteristicQualifier" parent="Source">
+    <name>Cutaneotrichosporon detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_163" type="characteristicQualifier" parent="Source">
+    <name>Matches for Cutaneotrichosporon (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_163" type="characteristicQualifier" parent="Source">
+    <name>Trichosporon detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_164" type="characteristicQualifier" parent="Source">
+    <name>Matches for Trichosporon (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_164" type="characteristicQualifier" parent="Source">
+    <name>Trichosporon asahii detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_165" type="characteristicQualifier" parent="Source">
+    <name>Matches for Trichosporon asahii (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_165" type="characteristicQualifier" parent="Source">
+    <name>Ustilaginomycetes detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_166" type="characteristicQualifier" parent="Source">
+    <name>Matches for Ustilaginomycetes (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_166" type="characteristicQualifier" parent="Source">
+    <name>Thecaphora detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_167" type="characteristicQualifier" parent="Source">
+    <name>Matches for Thecaphora (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_167" type="characteristicQualifier" parent="Source">
+    <name>Anthracocystis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_168" type="characteristicQualifier" parent="Source">
+    <name>Matches for Anthracocystis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_168" type="characteristicQualifier" parent="Source">
+    <name>Sporisorium detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_169" type="characteristicQualifier" parent="Source">
+    <name>Matches for Sporisorium (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_169" type="characteristicQualifier" parent="Source">
+    <name>Ustilago bromivora detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_170" type="characteristicQualifier" parent="Source">
+    <name>Matches for Ustilago bromivora (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_170" type="characteristicQualifier" parent="Source">
+    <name>Ustilago cynodontis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_171" type="characteristicQualifier" parent="Source">
+    <name>Matches for Ustilago cynodontis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_171" type="characteristicQualifier" parent="Source">
+    <name>Wallemia mellicola detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_172" type="characteristicQualifier" parent="Source">
+    <name>Matches for Wallemia mellicola (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_172" type="characteristicQualifier" parent="Source">
+    <name>Mucorales detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_173" type="characteristicQualifier" parent="Source">
+    <name>Matches for Mucorales (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_173" type="characteristicQualifier" parent="Source">
+    <name>Lichtheimia ramosa detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_174" type="characteristicQualifier" parent="Source">
+    <name>Matches for Lichtheimia ramosa (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_174" type="characteristicQualifier" parent="Source">
+    <name>Mucor detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_175" type="characteristicQualifier" parent="Source">
+    <name>Matches for Mucor (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_175" type="characteristicQualifier" parent="Source">
+    <name>Rhizopus stolonifer detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_176" type="characteristicQualifier" parent="Source">
+    <name>Matches for Rhizopus stolonifer (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_176" type="characteristicQualifier" parent="Source">
+    <name>Arthropoda detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_177" type="characteristicQualifier" parent="Source">
+    <name>Matches for Arthropoda (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_177" type="characteristicQualifier" parent="Source">
+    <name>Dermatophagoides pteronyssinus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_178" type="characteristicQualifier" parent="Source">
+    <name>Matches for Dermatophagoides pteronyssinus (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_178" type="characteristicQualifier" parent="Source">
+    <name>Drosophila melanogaster detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_179" type="characteristicQualifier" parent="Source">
+    <name>Matches for Drosophila melanogaster (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_179" type="characteristicQualifier" parent="Source">
+    <name>Megaselia scalaris detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_180" type="characteristicQualifier" parent="Source">
+    <name>Matches for Megaselia scalaris (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_180" type="characteristicQualifier" parent="Source">
+    <name>Clogmia albipunctata detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_181" type="characteristicQualifier" parent="Source">
+    <name>Matches for Clogmia albipunctata (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_181" type="characteristicQualifier" parent="Source">
+    <name>Polistes detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_182" type="characteristicQualifier" parent="Source">
+    <name>Matches for Polistes (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_182" type="characteristicQualifier" parent="Source">
+    <name>Enterobius detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_183" type="characteristicQualifier" parent="Source">
+    <name>Matches for Enterobius (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_183" type="characteristicQualifier" parent="Source">
+    <name>Enterobius vermicularis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_184" type="characteristicQualifier" parent="Source">
+    <name>Matches for Enterobius vermicularis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_184" type="characteristicQualifier" parent="Source">
+    <name>Strongyloides stercoralis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_185" type="characteristicQualifier" parent="Source">
+    <name>Matches for Strongyloides stercoralis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_185" type="characteristicQualifier" parent="Source">
+    <name>Haemonchus contortus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_186" type="characteristicQualifier" parent="Source">
+    <name>Matches for Haemonchus contortus (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_186" type="characteristicQualifier" parent="Source">
+    <name>Schistosoma detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_187" type="characteristicQualifier" parent="Source">
+    <name>Matches for Schistosoma (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_187" type="characteristicQualifier" parent="Source">
+    <name>Schistosoma bovis detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_188" type="characteristicQualifier" parent="Source">
+    <name>Matches for Schistosoma bovis (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_188" type="characteristicQualifier" parent="Source">
+    <name>Schistosoma curassoni detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_189" type="characteristicQualifier" parent="Source">
+    <name>Matches for Schistosoma curassoni (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_189" type="characteristicQualifier" parent="Source">
+    <name>Sphaeropleales detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_190" type="characteristicQualifier" parent="Source">
+    <name>Matches for Sphaeropleales (CPM)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_M_190" type="characteristicQualifier" parent="Source">
+    <name>Scenedesmus detected</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="TMP_EUKDETECT_C_191" type="characteristicQualifier" parent="Source">
+    <name>Matches for Scenedesmus (CPM)</name>
+  </ontologyTerm>
+
+
+
 </ontologyMappings>
