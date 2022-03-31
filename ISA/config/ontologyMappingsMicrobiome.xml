@@ -1617,6 +1617,9 @@
   <ontologyTerm source_id="GAZ_00001101" type="characteristicValue" parent="characteristicQualifier">
     <name>Kenya</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00000585" type="characteristicValue" parent="characteristicQualifier">
+    <name>Niger</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00003750" type="characteristicValue" parent="characteristicQualifier">
     <name>Bangladesh</name>
   </ontologyTerm>
