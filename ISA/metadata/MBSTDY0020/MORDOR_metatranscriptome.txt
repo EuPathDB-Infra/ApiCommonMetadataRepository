@@ -7,7 +7,7 @@ SRR9843844	44 year female, village 17, placebo, phase 24	Human	colon	colon	feces
 SRR9843845	5 year female, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	5 years	female	3	placebo	0
 SRR9843850	18 year male, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 years	male	17	placebo	24
 SRR9844187	48 year male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 years	male	22	placebo	0
-SRR9843961	48 year Age, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 years	Age	6	azithromycin	0
+SRR9843961	48 year participant, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 years		6	azithromycin	0
 SRR9844188	48 year male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 years	male	1	azithromycin	0
 SRR9844186	42 year male, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	42 years	male	9	azithromycin	24
 SRR9844189	48 year female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 years	female	24	azithromycin	0
