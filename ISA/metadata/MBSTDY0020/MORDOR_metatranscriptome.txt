@@ -1,601 +1,601 @@
-name	description	host_common_name	host_body_site	body_habitat	host_body_product	sample_type	country	Age	Sex	village_code	treatment_group	phase	env_feature
-SRR9843650	52 month male, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	52 months	male	22	placebo	24	Human
-SRR9843651	9 month female, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	9 months	female	8	placebo	24	Human
-SRR9843652	48 month male, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	11	azithromycin	0	Human
-SRR9843653	54 month female, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	9	azithromycin	0	Human
-SRR9843654	36 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	24	azithromycin	0	Human
-SRR9843655	52 month male, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	male	4	azithromycin	24	Human
-SRR9843656	59 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	59 months	male	25	placebo	0	Human
-SRR9843657	44 month male, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	8	placebo	24	Human
-SRR9843658	55 month male, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	55 months	male	1	azithromycin	24	Human
-SRR9843659	38 month male, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	6	azithromycin	24	Human
-SRR9843660	12 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	24	azithromycin	0	Human
-SRR9843661	31 month male, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	31 months	male	25	placebo	24	Human
-SRR9843662	24 month female, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	12	azithromycin	0	Human
-SRR9843663	36 month male, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	24	azithromycin	0	Human
-SRR9843664	11 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	11 months	male	24	azithromycin	24	Human
-SRR9843665	30 month male, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	30 months	male	20	azithromycin	0	Human
-SRR9843666	18 month female, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	18 months	female	4	azithromycin	0	Human
-SRR9843667	12 month male, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	25	placebo	24	Human
-SRR9843668	54 month female, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	54 months	female	26	placebo	24	Human
-SRR9843669	38 month male, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	29	azithromycin	24	Human
-SRR9843670	24 month male, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	17	placebo	0	Human
-SRR9843671	48 month female, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	20	azithromycin	0	Human
-SRR9843672	14 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	14 months	male	30	azithromycin	24	Human
-SRR9843673	24 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	19	placebo	0	Human
-SRR9843674	3 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	3 months	male	18	azithromycin	0	Human
-SRR9843675	55 month male, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	55 months	male	16	placebo	24	Human
-SRR9843676	36 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	36 months	male	7	azithromycin	24	Human
-SRR9843677	18 month male, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	18 months	male	23	placebo	0	Human
-SRR9843678	43 month male, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	43 months	male	1	azithromycin	24	Human
-SRR9843679	54 month female, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	22	placebo	0	Human
-SRR9843680	38 month male, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	11	azithromycin	24	Human
-SRR9843681	54 month male, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	54 months	male	18	azithromycin	24	Human
-SRR9843682	18 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	18 months	male	10	placebo	0	Human
-SRR9843683	48 month female, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	12	azithromycin	0	Human
-SRR9843684	59 month female, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	59 months	female	16	placebo	0	Human
-SRR9843685	36 month female, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	15	placebo	0	Human
-SRR9843686	36 month female, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	6	azithromycin	0	Human
-SRR9843687	17 month female, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	17 months	female	6	azithromycin	24	Human
-SRR9843688	12 month female, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	2	azithromycin	24	Human
-SRR9843689	31 month female, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	31 months	female	26	placebo	24	Human
-SRR9843690	12 month male, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	27	placebo	24	Human
-SRR9843691	44 month female, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	23	placebo	24	Human
-SRR9843692	48 month male, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	16	placebo	0	Human
-SRR9843693	18 month female, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	18 months	female	29	azithromycin	24	Human
-SRR9843694	18 month male, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	18 months	male	28	placebo	0	Human
-SRR9843695	18 month male, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	17	placebo	24	Human
-SRR9843696	24 month female, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	8	placebo	0	Human
-SRR9843697	24 month male, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	4	azithromycin	0	Human
-SRR9843698	12 month male, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	11	azithromycin	24	Human
-SRR9843699	12 month male, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	29	azithromycin	24	Human
-SRR9843700	36 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	10	placebo	0	Human
-SRR9843701	58 month female, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	58 months	female	22	placebo	24	Human
-SRR9843702	10 month male, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	10 months	male	1	azithromycin	24	Human
-SRR9843703	6 month female, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	6 months	female	29	azithromycin	0	Human
-SRR9843704	12 month male, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	20	azithromycin	24	Human
-SRR9843705	12 month female, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	28	placebo	24	Human
-SRR9843706	48 month female, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	23	placebo	0	Human
-SRR9843707	48 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	22	placebo	0	Human
-SRR9843708	54 month male, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	9	azithromycin	0	Human
-SRR9843709	48 month female, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	8	placebo	0	Human
-SRR9843710	48 month male, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	12	azithromycin	0	Human
-SRR9843711	48 month male, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	13	azithromycin	0	Human
-SRR9843712	51 month female, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	51 months	female	8	placebo	24	Human
-SRR9843713	3 month female, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	3 months	female	14	placebo	0	Human
-SRR9843714	51 month male, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	51 months	male	1	azithromycin	24	Human
-SRR9843715	36 month female, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	23	placebo	0	Human
-SRR9843716	48 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	11	azithromycin	0	Human
-SRR9843717	48 month male, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	14	placebo	0	Human
-SRR9843718	24 month female, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	5	azithromycin	0	Human
-SRR9843719	12 month female, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	9	azithromycin	0	Human
-SRR9843720	36 month female, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	7	azithromycin	0	Human
-SRR9843721	54 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	25	placebo	0	Human
-SRR9843722	7 month male, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	7 months	male	6	azithromycin	0	Human
-SRR9843723	24 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	2	azithromycin	0	Human
-SRR9843724	18 month female, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	18 months	female	9	azithromycin	24	Human
-SRR9843725	24 month male, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	11	azithromycin	0	Human
-SRR9843726	7 month female, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	7 months	female	10	placebo	0	Human
-SRR9843727	12 month male, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	8	placebo	0	Human
-SRR9843728	48 month male, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	29	azithromycin	0	Human
-SRR9843729	49 month female, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	49 months	female	18	azithromycin	24	Human
-SRR9843730	53 month female, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	10	placebo	24	Human
-SRR9843731	4 month female, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	4 months	female	10	placebo	0	Human
-SRR9843732	4 month male, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	4 months	male	1	azithromycin	24	Human
-SRR9843733	43 month male, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	43 months	male	20	azithromycin	24	Human
-SRR9843734	56 month male, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	13	azithromycin	24	Human
-SRR9843735	52 month female, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	6	azithromycin	24	Human
-SRR9843736	36 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	19	placebo	0	Human
-SRR9843737	5 month female, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	5 months	female	21	placebo	0	Human
-SRR9843738	56 month male, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	3	placebo	24	Human
-SRR9843739	39 month male, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	39 months	male	16	placebo	24	Human
-SRR9843740	41 month male, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	41 months	male	28	placebo	24	Human
-SRR9843741	18 month female, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	18 months	female	29	azithromycin	0	Human
-SRR9843742	9 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	9 months	male	7	azithromycin	24	Human
-SRR9843743	54 month female, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	54 months	female	1	azithromycin	24	Human
-SRR9843744	54 month male, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	54 months	male	20	azithromycin	24	Human
-SRR9843745	36 month female, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	28	placebo	0	Human
-SRR9843746	36 month female, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	14	placebo	0	Human
-SRR9843747	12 month male, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	10	placebo	24	Human
-SRR9843748	18 month female, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	18 months	female	30	azithromycin	0	Human
-SRR9843749	55 month female, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	55 months	female	20	azithromycin	24	Human
-SRR9843750	30 month female, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	25	placebo	0	Human
-SRR9843751	48 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	30	azithromycin	0	Human
-SRR9843752	36 month male, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	8	placebo	0	Human
-SRR9843753	4 month female, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	4 months	female	12	azithromycin	24	Human
-SRR9843754	53 month female, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	7	azithromycin	24	Human
-SRR9843755	24 month female, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	26	placebo	0	Human
-SRR9843756	48 month male, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	7	azithromycin	0	Human
-SRR9843757	24 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	11	azithromycin	0	Human
-SRR9843758	28 month male, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	28 months	male	14	placebo	24	Human
-SRR9843759	36 month female, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	25	placebo	0	Human
-SRR9843760	55 month female, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	55 months	female	4	azithromycin	24	Human
-SRR9843761	4 month male, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	4 months	male	13	azithromycin	24	Human
-SRR9843762	4 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	4 months	female	17	placebo	24	Human
-SRR9843763	56 month male, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	21	placebo	24	Human
-SRR9843764	38 month female, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	38 months	female	3	placebo	24	Human
-SRR9843765	18 month male, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	14	placebo	24	Human
-SRR9843766	36 month female, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	23	placebo	0	Human
-SRR9843767	36 month female, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	36 months	female	27	placebo	24	Human
-SRR9843768	26 month male, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	26 months	male	10	placebo	24	Human
-SRR9843769	18 month female, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	18 months	female	16	placebo	0	Human
-SRR9843770	12 month female, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	16	placebo	24	Human
-SRR9843771	25 month female, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	25 months	female	27	placebo	0	Human
-SRR9843772	1 month male, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	1 months	male	26	placebo	24	Human
-SRR9843773	29 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	29 months	female	15	placebo	24	Human
-SRR9843774	30 month male, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	30 months	male	12	azithromycin	24	Human
-SRR9843775	56 month male, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	23	placebo	24	Human
-SRR9843776	52 month male, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	male	12	azithromycin	24	Human
-SRR9843777	12 month male, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	11	azithromycin	24	Human
+name	description	host_common_name	host_body_site	body_habitat	host_body_product	sample_type	country	Age	Sex	village_code	treatment_group	phase	env_feature	Blastocystis detected	Blastocystis sp. subtype 1 detected	Blastocystis sp. subtype 2 detected	Blastocystis sp. subtype 3 detected	Entamoeba detected	Entamoeba dispar detected	Giardia detected	Giardia intestinalis detected	Alternaria detected	Pichia kudriavzevii detected	[Candida] glabrata detected	Saccharomyces detected	Saccharomyces cerevisiae detected	Malassezia restricta detected	Enterobius detected	Enterobius vermicularis detected	Schistosoma detected	Schistosoma bovis detected	Schistosoma curassoni detected	Matches for Blastocystis (CPM)	Matches for Blastocystis sp. subtype 1 (CPM)	Matches for Blastocystis sp. subtype 2 (CPM)	Matches for Blastocystis sp. subtype 3 (CPM)	Matches for Entamoeba (CPM)	Matches for Entamoeba dispar (CPM)	Matches for Giardia (CPM)	Matches for Giardia intestinalis (CPM)	Matches for Alternaria (CPM)	Matches for Pichia kudriavzevii (CPM)	Matches for [Candida] glabrata (CPM)	Matches for Saccharomyces (CPM)	Matches for Saccharomyces cerevisiae (CPM)	Matches for Malassezia restricta (CPM)	Matches for Enterobius (CPM)	Matches for Enterobius vermicularis (CPM)	Matches for Schistosoma (CPM)	Matches for Schistosoma bovis (CPM)	Matches for Schistosoma curassoni (CPM)
+SRR9843650	52 month male, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	52 months	male	22	placebo	24	Human	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N										0.014801									
+SRR9843651	9 month female, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	9 months	female	8	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843652	48 month male, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	11	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843653	54 month female, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	9	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843654	36 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	24	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843655	52 month male, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	male	4	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843656	59 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	59 months	male	25	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843657	44 month male, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	8	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843658	55 month male, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	55 months	male	1	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843659	38 month male, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	6	azithromycin	24	Human	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N		0.014951																	
+SRR9843660	12 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	24	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843661	31 month male, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	31 months	male	25	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843662	24 month female, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	12	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843663	36 month male, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	24	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843664	11 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	11 months	male	24	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843665	30 month male, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	30 months	male	20	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843666	18 month female, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	18 months	female	4	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843667	12 month male, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	25	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843668	54 month female, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	54 months	female	26	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843669	38 month male, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	29	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843670	24 month male, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	17	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843671	48 month female, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	20	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843672	14 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	14 months	male	30	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843673	24 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	19	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843674	3 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	3 months	male	18	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843675	55 month male, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	55 months	male	16	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843676	36 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	36 months	male	7	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843677	18 month male, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	18 months	male	23	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843678	43 month male, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	43 months	male	1	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843679	54 month female, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	22	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843680	38 month male, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	11	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843681	54 month male, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	54 months	male	18	azithromycin	24	Human	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N		0.012183																	
+SRR9843682	18 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	18 months	male	10	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843683	48 month female, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	12	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843684	59 month female, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	59 months	female	16	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843685	36 month female, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	15	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843686	36 month female, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	6	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843687	17 month female, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	17 months	female	6	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843688	12 month female, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	2	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843689	31 month female, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	31 months	female	26	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843690	12 month male, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	27	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843691	44 month female, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	23	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843692	48 month male, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	16	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843693	18 month female, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	18 months	female	29	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N													0.083557						
+SRR9843694	18 month male, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	18 months	male	28	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843695	18 month male, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	17	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N											0.022076								
+SRR9843696	24 month female, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	8	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843697	24 month male, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	4	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843698	12 month male, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	11	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843699	12 month male, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	29	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N												0.019041							
+SRR9843700	36 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	10	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843701	58 month female, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	58 months	female	22	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843702	10 month male, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	10 months	male	1	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843703	6 month female, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	6 months	female	29	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843704	12 month male, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	20	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843705	12 month female, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	28	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843706	48 month female, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	23	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843707	48 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	22	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843708	54 month male, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	9	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843709	48 month female, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	8	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843710	48 month male, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	12	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843711	48 month male, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	13	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843712	51 month female, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	51 months	female	8	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843713	3 month female, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	3 months	female	14	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843714	51 month male, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	51 months	male	1	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843715	36 month female, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	23	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843716	48 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	11	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843717	48 month male, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	14	placebo	0	Human	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N			0.038195																
+SRR9843718	24 month female, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	5	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843719	12 month female, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	9	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843720	36 month female, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	7	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843721	54 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	25	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843722	7 month male, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	7 months	male	6	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843723	24 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	2	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843724	18 month female, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	18 months	female	9	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843725	24 month male, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	11	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843726	7 month female, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	7 months	female	10	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N														0.101789					
+SRR9843727	12 month male, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	8	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843728	48 month male, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	29	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843729	49 month female, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	49 months	female	18	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843730	53 month female, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	10	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843731	4 month female, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	4 months	female	10	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843732	4 month male, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	4 months	male	1	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843733	43 month male, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	43 months	male	20	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843734	56 month male, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	13	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843735	52 month female, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	6	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843736	36 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	19	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843737	5 month female, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	5 months	female	21	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843738	56 month male, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	3	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843739	39 month male, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	39 months	male	16	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843740	41 month male, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	41 months	male	28	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843741	18 month female, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	18 months	female	29	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843742	9 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	9 months	male	7	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843743	54 month female, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	54 months	female	1	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843744	54 month male, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	54 months	male	20	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843745	36 month female, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	28	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843746	36 month female, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	14	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843747	12 month male, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	10	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843748	18 month female, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	18 months	female	30	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843749	55 month female, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	55 months	female	20	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843750	30 month female, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	25	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843751	48 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	30	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843752	36 month male, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	8	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843753	4 month female, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	4 months	female	12	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843754	53 month female, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	7	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843755	24 month female, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	26	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843756	48 month male, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	7	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843757	24 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	11	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843758	28 month male, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	28 months	male	14	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843759	36 month female, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	25	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843760	55 month female, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	55 months	female	4	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843761	4 month male, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	4 months	male	13	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843762	4 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	4 months	female	17	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843763	56 month male, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	21	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843764	38 month female, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	38 months	female	3	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843765	18 month male, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	14	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843766	36 month female, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	23	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843767	36 month female, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	36 months	female	27	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843768	26 month male, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	26 months	male	10	placebo	24	Human	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N				0.012501															
+SRR9843769	18 month female, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	18 months	female	16	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843770	12 month female, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	16	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843771	25 month female, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	25 months	female	27	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843772	1 month male, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	1 months	male	26	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843773	29 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	29 months	female	15	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843774	30 month male, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	30 months	male	12	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843775	56 month male, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	23	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843776	52 month male, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	male	12	azithromycin	24	Human	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N				0.003457															
+SRR9843777	12 month male, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	11	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
 SRR9843778	24 month male, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	24 months	male	8	placebo	24	Human
-SRR9843779	37 month female, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	37 months	female	2	azithromycin	24	Human
-SRR9843780	39 month female, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	39 months	female	25	placebo	24	Human
-SRR9843781	49 month female, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	49 months	female	8	placebo	24	Human
-SRR9843782	53 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	17	placebo	24	Human
-SRR9843783	54 month female, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	15	placebo	0	Human
-SRR9843784	52 month male, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	male	1	azithromycin	24	Human
-SRR9843785	36 month female, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	16	placebo	0	Human
-SRR9843786	12 month female, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	28	placebo	0	Human
-SRR9843787	48 month male, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	23	placebo	0	Human
-SRR9843788	54 month female, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	54 months	female	3	placebo	24	Human
-SRR9843789	41 month female, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	41 months	female	7	azithromycin	0	Human
-SRR9843790	24 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	2	azithromycin	0	Human
-SRR9843791	12 month male, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	16	placebo	24	Human
-SRR9843792	24 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	24	azithromycin	0	Human
-SRR9843793	7 month female, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	7 months	female	4	azithromycin	0	Human
-SRR9843794	36 month male, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	7	azithromycin	0	Human
-SRR9843795	36 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	19	placebo	0	Human
-SRR9843796	36 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	11	azithromycin	0	Human
-SRR9843797	56 month female, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	13	azithromycin	24	Human
-SRR9843798	5 month male, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	5 months	male	3	placebo	24	Human
-SRR9843799	44 month male, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	10	placebo	24	Human
-SRR9843800	3 month male, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	3 months	male	4	azithromycin	24	Human
-SRR9843801	12 month female, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	20	azithromycin	24	Human
-SRR9843802	48 month female, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	15	placebo	0	Human
-SRR9843803	30 month male, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	30 months	male	3	placebo	24	Human
-SRR9843804	54 month female, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	54 months	female	11	azithromycin	24	Human
-SRR9843805	36 month female, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	16	placebo	0	Human
-SRR9843806	3 month male, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	3 months	male	14	placebo	24	Human
-SRR9843807	12 month male, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	5	azithromycin	24	Human
-SRR9843808	3 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	3 months	female	17	placebo	24	Human
-SRR9843809	48 month male, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	48 months	male	14	placebo	24	Human
+SRR9843779	37 month female, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	37 months	female	2	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843780	39 month female, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	39 months	female	25	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843781	49 month female, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	49 months	female	8	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843782	53 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	17	placebo	24	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.014533																		
+SRR9843783	54 month female, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	15	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843784	52 month male, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	male	1	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843785	36 month female, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	16	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843786	12 month female, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	28	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843787	48 month male, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	23	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843788	54 month female, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	54 months	female	3	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843789	41 month female, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	41 months	female	7	azithromycin	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.015129																		
+SRR9843790	24 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	2	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843791	12 month male, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	16	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843792	24 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	24	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843793	7 month female, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	7 months	female	4	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843794	36 month male, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	7	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843795	36 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	19	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843796	36 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	11	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N														0.016382					
+SRR9843797	56 month female, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	13	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843798	5 month male, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	5 months	male	3	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843799	44 month male, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	10	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843800	3 month male, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	3 months	male	4	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843801	12 month female, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	20	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843802	48 month female, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	15	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843803	30 month male, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	30 months	male	3	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843804	54 month female, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	54 months	female	11	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N																	0.028582		
+SRR9843805	36 month female, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	16	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843806	3 month male, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	3 months	male	14	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843807	12 month male, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	5	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843808	3 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	3 months	female	17	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843809	48 month male, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	48 months	male	14	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N															0.044880				
 SRR9843810	52 month female, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	5	azithromycin	24	Human
-SRR9843811	53 month female, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	2	azithromycin	24	Human
-SRR9843812	55 month male, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	55 months	male	22	placebo	24	Human
-SRR9843813	38 month male, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	11	azithromycin	24	Human
-SRR9843814	43 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	43 months	male	30	azithromycin	24	Human
-SRR9843815	12 month male, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	4	azithromycin	0	Human
-SRR9843816	36 month male, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	36 months	male	9	azithromycin	24	Human
-SRR9843817	55 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	55 months	male	1	azithromycin	0	Human
-SRR9843818	24 month male, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	20	azithromycin	0	Human
-SRR9843819	36 month male, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	36 months	male	11	azithromycin	24	Human
-SRR9843820	24 month male, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	23	placebo	0	Human
-SRR9843821	43 month female, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	43 months	female	16	placebo	24	Human
-SRR9843822	43 month female, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	43 months	female	25	placebo	24	Human
-SRR9843823	54 month male, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	54 months	male	18	azithromycin	24	Human
-SRR9843824	24 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	18	azithromycin	0	Human
-SRR9843825	12 month male, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	23	placebo	0	Human
-SRR9843826	55 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	55 months	male	1	azithromycin	0	Human
-SRR9843827	12 month female, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	5	azithromycin	0	Human
-SRR9843828	52 month female, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	5	azithromycin	24	Human
-SRR9843829	9 month female, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	9 months	female	27	placebo	24	Human
-SRR9843830	8 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	8 months	male	7	azithromycin	24	Human
-SRR9843831	36 month male, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	14	placebo	0	Human
-SRR9843832	48 month male, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	2	azithromycin	0	Human
-SRR9843833	16 month female, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	16 months	female	24	azithromycin	24	Human
-SRR9843834	6 month male, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	6 months	male	20	azithromycin	0	Human
-SRR9843835	10 month male, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	10 months	male	16	placebo	0	Human
-SRR9843836	59 month male, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	59 months	male	29	azithromycin	24	Human
-SRR9843837	54 month male, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	9	azithromycin	0	Human
-SRR9843838	24 month male, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	23	placebo	0	Human
-SRR9843839	7 month male, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	7 months	male	9	azithromycin	0	Human
-SRR9843840	34 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	34 months	male	7	azithromycin	24	Human
-SRR9843841	48 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	18	azithromycin	0	Human
-SRR9843842	6 month male, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	6 months	male	20	azithromycin	24	Human
-SRR9843843	18 month male, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	23	placebo	24	Human
-SRR9843844	44 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	17	placebo	24	Human
-SRR9843845	5 month female, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	5 months	female	3	placebo	0	Human
-SRR9843846	12 month female, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	9	azithromycin	24	Human
-SRR9843847	12 month male, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	4	azithromycin	0	Human
-SRR9843848	13 month female, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	13 months	female	1	azithromycin	24	Human
-SRR9843849	24 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	25	placebo	0	Human
-SRR9843850	18 month male, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	17	placebo	24	Human
-SRR9843851	59 month female, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	59 months	female	21	placebo	24	Human
-SRR9843852	36 month male, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	12	azithromycin	0	Human
-SRR9843853	48 month male, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	27	placebo	0	Human
-SRR9843854	24 month male, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	24 months	male	23	placebo	24	Human
-SRR9843855	54 month male, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	9	azithromycin	0	Human
-SRR9843856	44 month female, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	14	placebo	24	Human
-SRR9843857	54 month male, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	8	placebo	0	Human
-SRR9843858	24 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	25	placebo	0	Human
-SRR9843859	46 month female, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	46 months	female	14	placebo	24	Human
-SRR9843860	18 month male, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	15	placebo	24	Human
-SRR9843861	30 month female, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	27	placebo	0	Human
-SRR9843862	10 month male, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	10 months	male	14	placebo	24	Human
-SRR9843863	48 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	24	azithromycin	0	Human
-SRR9843864	55 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	55 months	male	1	azithromycin	0	Human
-SRR9843865	32 month male, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	32 months	male	13	azithromycin	24	Human
-SRR9843866	2 month male, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	2 months	male	27	placebo	24	Human
-SRR9843867	12 month male, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	2	azithromycin	24	Human
-SRR9843868	51 month female, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	51 months	female	25	placebo	24	Human
-SRR9843869	12 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	11	azithromycin	0	Human
-SRR9843870	12 month male, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	17	placebo	0	Human
-SRR9843871	54 month male, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	21	placebo	0	Human
-SRR9843872	48 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	48 months	female	15	placebo	24	Human
-SRR9843873	31 month female, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	31 months	female	16	placebo	24	Human
-SRR9843874	36 month female, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	22	placebo	0	Human
-SRR9843875	36 month female, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	19	placebo	0	Human
-SRR9843876	48 month female, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	20	azithromycin	0	Human
-SRR9843877	48 month female, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	6	azithromycin	0	Human
-SRR9843878	24 month male, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	24 months	male	28	placebo	24	Human
-SRR9843879	48 month female, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	18	azithromycin	0	Human
-SRR9843880	24 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	17	placebo	0	Human
-SRR9843881	43 month male, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	43 months	male	26	placebo	24	Human
-SRR9843882	12 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	24	azithromycin	24	Human
-SRR9843883	43 month female, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	43 months	female	1	azithromycin	0	Human
-SRR9843884	24 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	30	azithromycin	0	Human
-SRR9843885	55 month male, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	55 months	male	25	placebo	24	Human
-SRR9843886	32 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	32 months	female	17	placebo	24	Human
-SRR9843887	36 month male, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	6	azithromycin	0	Human
-SRR9843888	12 month male, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	20	azithromycin	0	Human
-SRR9843889	29 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	29 months	female	15	placebo	24	Human
-SRR9843890	8 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	8 months	male	19	placebo	0	Human
-SRR9843891	52 month female, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	8	placebo	24	Human
-SRR9843892	12 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	30	azithromycin	24	Human
-SRR9843893	18 month male, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	2	azithromycin	24	Human
-SRR9843894	11 month female, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	11 months	female	7	azithromycin	0	Human
-SRR9843895	36 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	13	azithromycin	0	Human
-SRR9843896	52 month female, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	12	azithromycin	24	Human
-SRR9843897	55 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	55 months	male	1	azithromycin	0	Human
-SRR9843898	16 month female, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	16 months	female	29	azithromycin	24	Human
-SRR9843899	48 month female, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	20	azithromycin	0	Human
-SRR9843900	44 month male, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	23	placebo	24	Human
-SRR9843901	24 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	30	azithromycin	0	Human
-SRR9843902	53 month male, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	17	placebo	24	Human
+SRR9843811	53 month female, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	2	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843812	55 month male, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	55 months	male	22	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843813	38 month male, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	11	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843814	43 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	43 months	male	30	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843815	12 month male, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	4	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843816	36 month male, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	36 months	male	9	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843817	55 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	55 months	male	1	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843818	24 month male, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	20	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843819	36 month male, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	36 months	male	11	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N															0.042064				
+SRR9843820	24 month male, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	23	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843821	43 month female, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	43 months	female	16	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843822	43 month female, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	43 months	female	25	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843823	54 month male, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	54 months	male	18	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843824	24 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	18	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843825	12 month male, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	23	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843826	55 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	55 months	male	1	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843827	12 month female, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	5	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843828	52 month female, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	5	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843829	9 month female, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	9 months	female	27	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843830	8 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	8 months	male	7	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843831	36 month male, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	14	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843832	48 month male, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	2	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843833	16 month female, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	16 months	female	24	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843834	6 month male, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	6 months	male	20	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843835	10 month male, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	10 months	male	16	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843836	59 month male, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	59 months	male	29	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843837	54 month male, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	9	azithromycin	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.037651																		
+SRR9843838	24 month male, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	23	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843839	7 month male, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	7 months	male	9	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843840	34 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	34 months	male	7	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N													0.026525						
+SRR9843841	48 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	18	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843842	6 month male, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	6 months	male	20	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843843	18 month male, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	23	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843844	44 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	17	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843845	5 month female, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	5 months	female	3	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843846	12 month female, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	9	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843847	12 month male, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	4	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843848	13 month female, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	13 months	female	1	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843849	24 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	25	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843850	18 month male, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	17	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N													0.005106						
+SRR9843851	59 month female, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	59 months	female	21	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843852	36 month male, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	12	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843853	48 month male, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	27	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843854	24 month male, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	24 months	male	23	placebo	24	Human	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N				0.018265															
+SRR9843855	54 month male, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	9	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843856	44 month female, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	14	placebo	24	Human	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N				0.013532															
+SRR9843857	54 month male, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	8	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843858	24 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	25	placebo	0	Human	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N		0.036740																	
+SRR9843859	46 month female, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	46 months	female	14	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843860	18 month male, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	15	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843861	30 month female, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	27	placebo	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.029387																		
+SRR9843862	10 month male, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	10 months	male	14	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843863	48 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	24	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843864	55 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	55 months	male	1	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843865	32 month male, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	32 months	male	13	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843866	2 month male, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	2 months	male	27	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843867	12 month male, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	2	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843868	51 month female, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	51 months	female	25	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843869	12 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	11	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843870	12 month male, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	17	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843871	54 month male, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	21	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843872	48 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	48 months	female	15	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843873	31 month female, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	31 months	female	16	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843874	36 month female, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	22	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843875	36 month female, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	19	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843876	48 month female, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	20	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843877	48 month female, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	6	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843878	24 month male, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	24 months	male	28	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843879	48 month female, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	18	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843880	24 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	17	placebo	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.023942																		
+SRR9843881	43 month male, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	43 months	male	26	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843882	12 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	24	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843883	43 month female, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	43 months	female	1	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843884	24 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	30	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843885	55 month male, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	55 months	male	25	placebo	24	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.014846																		
+SRR9843886	32 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	32 months	female	17	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843887	36 month male, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	6	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843888	12 month male, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	20	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843889	29 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	29 months	female	15	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843890	8 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	8 months	male	19	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843891	52 month female, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	8	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843892	12 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	30	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843893	18 month male, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	2	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843894	11 month female, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	11 months	female	7	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843895	36 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	13	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843896	52 month female, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	12	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843897	55 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	55 months	male	1	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843898	16 month female, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	16 months	female	29	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843899	48 month female, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	20	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843900	44 month male, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	23	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843901	24 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	30	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843902	53 month male, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	17	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
 SRR9843903	36 month male, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	15	placebo	0	Human
-SRR9843904	53 month male, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	29	azithromycin	24	Human
-SRR9843905	30 month female, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	30 months	female	10	placebo	24	Human
-SRR9843906	25 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	25 months	male	30	azithromycin	24	Human
-SRR9843907	36 month male, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	3	placebo	0	Human
-SRR9843908	5 month male, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	5 months	male	9	azithromycin	0	Human
-SRR9843909	12 month male, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	3	placebo	24	Human
-SRR9843910	36 month male, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	28	placebo	0	Human
-SRR9843911	48 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	13	azithromycin	0	Human
-SRR9843912	4 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	4 months	male	30	azithromycin	24	Human
-SRR9843913	53 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	30	azithromycin	24	Human
-SRR9843914	48 month male, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	48 months	male	6	azithromycin	24	Human
-SRR9843915	48 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	22	placebo	0	Human
-SRR9843916	14 month male, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	14 months	male	3	placebo	24	Human
-SRR9843917	53 month female, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	30	azithromycin	24	Human
-SRR9843918	48 month female, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	21	placebo	0	Human
-SRR9843919	24 month male, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	28	placebo	0	Human
-SRR9843920	12 month female, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	13	azithromycin	24	Human
-SRR9843921	12 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	15	placebo	24	Human
-SRR9843922	24 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	2	azithromycin	0	Human
-SRR9843923	56 month male, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	13	azithromycin	24	Human
-SRR9843924	12 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	17	placebo	24	Human
-SRR9843925	44 month male, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	22	placebo	24	Human
-SRR9843926	54 month male, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	15	placebo	0	Human
-SRR9843927	12 month male, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	13	azithromycin	0	Human
-SRR9843928	18 month female, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	18 months	female	18	azithromycin	24	Human
-SRR9843929	12 month female, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	14	placebo	0	Human
-SRR9843930	52 month female, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	4	azithromycin	24	Human
-SRR9843931	48 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	17	placebo	0	Human
-SRR9843932	2 month female, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	2 months	female	16	placebo	0	Human
-SRR9843933	44 month female, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	21	placebo	24	Human
-SRR9843934	24 month female, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	12	azithromycin	0	Human
-SRR9843935	2 month female, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	2 months	female	24	azithromycin	24	Human
-SRR9843936	4 month female, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	4 months	female	28	placebo	24	Human
-SRR9843937	12 month female, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	6	azithromycin	0	Human
-SRR9843938	48 month male, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	26	placebo	0	Human
-SRR9843939	32 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	32 months	male	19	placebo	24	Human
-SRR9843940	6 month female, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	6 months	female	16	placebo	24	Human
-SRR9843941	47 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	47 months	male	19	placebo	24	Human
-SRR9843942	36 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	25	placebo	0	Human
-SRR9843943	48 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	48 months	male	7	azithromycin	24	Human
-SRR9843944	52 month male, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	male	6	azithromycin	24	Human
-SRR9843945	48 month male, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	48 months	male	16	placebo	24	Human
-SRR9843946	4 month male, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	4 months	male	21	placebo	24	Human
-SRR9843947	1 month male, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	1 months	male	3	placebo	0	Human
-SRR9843948	47 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	47 months	male	19	placebo	24	Human
-SRR9843949	48 month female, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	26	placebo	0	Human
-SRR9843950	45 month male, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	45 months	male	13	azithromycin	24	Human
-SRR9843951	36 month male, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	26	placebo	0	Human
-SRR9843952	9 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	9 months	female	17	placebo	0	Human
-SRR9843953	6 month female, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	6 months	female	19	placebo	24	Human
-SRR9843954	24 month female, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	7	azithromycin	0	Human
-SRR9843955	3 month female, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	3 months	female	7	azithromycin	24	Human
-SRR9843956	31 month female, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	31 months	female	1	azithromycin	24	Human
-SRR9843957	28 month female, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	28 months	female	12	azithromycin	24	Human
-SRR9843958	3 month female, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	3 months	female	28	placebo	24	Human
-SRR9843959	12 month male, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	11	azithromycin	0	Human
-SRR9843960	36 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	1	azithromycin	0	Human
-SRR9843961	48 month participant, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months		6	azithromycin	0	Human
-SRR9843962	18 month female, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	18 months	female	28	placebo	0	Human
-SRR9843963	36 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	18	azithromycin	0	Human
-SRR9843964	48 month male, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	20	azithromycin	0	Human
-SRR9843965	48 month female, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	21	placebo	0	Human
-SRR9843966	1 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	1 months	male	19	placebo	24	Human
-SRR9843967	8 month female, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	8 months	female	10	placebo	24	Human
-SRR9843968	30 month female, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	7	azithromycin	0	Human
-SRR9843969	30 month female, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	3	placebo	0	Human
-SRR9843970	1 month female, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	1 months	female	20	azithromycin	24	Human
-SRR9843971	6 month male, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	6 months	male	5	azithromycin	24	Human
-SRR9843972	48 month male, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	15	placebo	0	Human
-SRR9843973	12 month female, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	5	azithromycin	0	Human
-SRR9843974	9 month male, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	9 months	male	28	placebo	0	Human
-SRR9843975	43 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	43 months	female	15	placebo	24	Human
-SRR9843976	12 month female, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	11	azithromycin	24	Human
-SRR9843977	5 month female, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	5 months	female	20	azithromycin	0	Human
-SRR9843978	33 month female, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	33 months	female	18	azithromycin	24	Human
-SRR9843979	36 month male, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	3	placebo	0	Human
-SRR9843980	12 month female, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	22	placebo	24	Human
-SRR9843981	12 month female, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	14	placebo	24	Human
-SRR9843982	48 month female, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	28	placebo	0	Human
-SRR9843983	1 month male, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	1 months	male	12	azithromycin	0	Human
-SRR9843984	36 month female, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	19	placebo	0	Human
-SRR9843985	41 month female, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	41 months	female	26	placebo	24	Human
-SRR9843986	36 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	22	placebo	0	Human
-SRR9843987	24 month male, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	6	azithromycin	0	Human
-SRR9843988	12 month female, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	3	placebo	0	Human
-SRR9843989	12 month female, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	23	placebo	24	Human
-SRR9843990	12 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	11	azithromycin	0	Human
-SRR9843991	4 month female, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	4 months	female	15	placebo	0	Human
-SRR9843992	36 month male, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	5	azithromycin	0	Human
-SRR9843993	10 month female, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	10 months	female	25	placebo	24	Human
-SRR9843994	44 month male, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	9	azithromycin	24	Human
-SRR9843995	34 month male, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	34 months	male	12	azithromycin	24	Human
-SRR9843996	36 month female, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	4	azithromycin	0	Human
-SRR9843997	56 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	19	placebo	24	Human
-SRR9843998	4 month male, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	4 months	male	26	placebo	0	Human
-SRR9843999	12 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	17	placebo	0	Human
-SRR9844000	6 month female, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	6 months	female	11	azithromycin	24	Human
-SRR9844001	48 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	10	placebo	0	Human
-SRR9844002	12 month male, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	28	placebo	24	Human
-SRR9844003	41 month female, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	41 months	female	2	azithromycin	24	Human
-SRR9844004	48 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	19	placebo	0	Human
-SRR9844005	12 month female, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	16	placebo	0	Human
-SRR9844006	12 month female, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	22	placebo	24	Human
-SRR9844007	18 month male, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	20	azithromycin	24	Human
-SRR9844008	36 month female, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	5	azithromycin	0	Human
-SRR9844009	24 month male, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	24 months	male	5	azithromycin	24	Human
-SRR9844010	24 month male, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	24 months	male	11	azithromycin	24	Human
-SRR9844011	6 month female, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	6 months	female	28	placebo	24	Human
-SRR9844012	54 month female, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	9	azithromycin	0	Human
-SRR9844013	48 month male, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	27	placebo	0	Human
-SRR9844014	36 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	2	azithromycin	0	Human
-SRR9844015	44 month male, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	23	placebo	24	Human
-SRR9844016	18 month male, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	21	placebo	24	Human
-SRR9844017	52 month female, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	12	azithromycin	24	Human
-SRR9844018	18 month male, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	27	placebo	24	Human
-SRR9844019	24 month female, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	24 months	female	27	placebo	24	Human
-SRR9844020	48 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	17	placebo	0	Human
-SRR9844021	54 month male, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	24	azithromycin	0	Human
-SRR9844022	55 month female, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	55 months	female	4	azithromycin	24	Human
-SRR9844023	36 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	22	placebo	0	Human
-SRR9844024	25 month female, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	25 months	female	20	azithromycin	0	Human
-SRR9844025	48 month male, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	48 months	male	27	placebo	24	Human
-SRR9844026	24 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	25	placebo	0	Human
-SRR9844027	44 month male, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	5	azithromycin	24	Human
-SRR9844028	58 month female, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	58 months	female	4	azithromycin	24	Human
-SRR9844029	36 month male, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	4	azithromycin	0	Human
-SRR9844030	9 month female, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	9 months	female	23	placebo	24	Human
-SRR9844031	48 month male, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	15	placebo	0	Human
-SRR9844032	53 month male, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	26	placebo	24	Human
-SRR9844033	36 month female, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	8	placebo	0	Human
-SRR9844034	48 month female, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	8	placebo	0	Human
-SRR9844035	4 month male, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	4 months	male	29	azithromycin	24	Human
-SRR9844036	3 month female, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	3 months	female	7	azithromycin	0	Human
-SRR9844037	31 month male, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	31 months	male	26	placebo	24	Human
-SRR9844038	36 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	22	placebo	0	Human
-SRR9844039	36 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	13	azithromycin	0	Human
-SRR9844040	54 month female, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	14	placebo	0	Human
-SRR9844041	6 month female, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	6 months	female	9	azithromycin	0	Human
-SRR9844042	18 month male, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	8	placebo	24	Human
-SRR9844043	31 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	31 months	male	30	azithromycin	24	Human
-SRR9844044	2 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	2 months	male	24	azithromycin	24	Human
-SRR9844045	35 month male, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	35 months	male	7	azithromycin	0	Human
-SRR9844046	54 month female, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	26	placebo	0	Human
-SRR9844047	38 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	24	azithromycin	24	Human
-SRR9844048	36 month female, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	4	azithromycin	0	Human
-SRR9844049	39 month female, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	39 months	female	25	placebo	24	Human
-SRR9844050	42 month female, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	42 months	female	29	azithromycin	0	Human
-SRR9844051	42 month male, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	42 months	male	3	placebo	0	Human
-SRR9844052	44 month male, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	28	placebo	24	Human
-SRR9844053	1 month female, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	1 months	female	5	azithromycin	24	Human
-SRR9844054	36 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	19	placebo	0	Human
-SRR9844055	18 month male, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	6	azithromycin	24	Human
-SRR9844056	56 month female, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	3	placebo	24	Human
-SRR9844057	35 month female, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	35 months	female	20	azithromycin	24	Human
-SRR9844058	54 month female, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	6	azithromycin	0	Human
-SRR9844059	32 month male, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	32 months	male	21	placebo	24	Human
-SRR9844060	3 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	3 months	female	13	azithromycin	0	Human
-SRR9844061	56 month female, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	13	azithromycin	24	Human
-SRR9844062	53 month female, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	2	azithromycin	24	Human
-SRR9844063	58 month male, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	58 months	male	4	azithromycin	24	Human
-SRR9844064	24 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	30	azithromycin	0	Human
-SRR9844065	0 month male, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	0 months	male	5	azithromycin	0	Human
-SRR9844066	34 month female, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	34 months	female	18	azithromycin	24	Human
-SRR9844067	3 month male, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	3 months	male	13	azithromycin	24	Human
-SRR9844068	48 month male, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	21	placebo	0	Human
-SRR9844069	14 month male, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	14 months	male	22	placebo	24	Human
-SRR9844070	12 month male, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	9	azithromycin	24	Human
-SRR9844071	48 month female, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	48 months	female	27	placebo	24	Human
-SRR9844072	12 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	19	placebo	24	Human
-SRR9844073	12 month male, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	6	azithromycin	0	Human
-SRR9844074	51 month male, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	51 months	male	22	placebo	24	Human
-SRR9844075	36 month female, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	12	azithromycin	0	Human
-SRR9844076	55 month female, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	55 months	female	16	placebo	24	Human
-SRR9844077	48 month male, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	9	azithromycin	0	Human
-SRR9844078	31 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	31 months	female	15	placebo	24	Human
-SRR9844079	58 month male, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	58 months	male	4	azithromycin	24	Human
-SRR9844080	12 month male, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	12	azithromycin	24	Human
-SRR9844081	53 month male, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	2	azithromycin	24	Human
-SRR9844082	36 month female, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	23	placebo	0	Human
-SRR9844083	29 month male, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	29 months	male	10	placebo	24	Human
-SRR9844084	10 month female, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	10 months	female	1	azithromycin	0	Human
-SRR9844085	54 month male, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	8	placebo	0	Human
-SRR9844086	54 month female, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	54 months	female	3	placebo	24	Human
-SRR9844087	54 month female, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	25	placebo	0	Human
-SRR9844088	54 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	24	azithromycin	0	Human
-SRR9844089	48 month male, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	17	placebo	0	Human
-SRR9844090	32 month male, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	32 months	male	23	placebo	24	Human
-SRR9844091	12 month female, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	15	placebo	0	Human
-SRR9844092	24 month male, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	4	azithromycin	0	Human
-SRR9844093	30 month female, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	5	azithromycin	0	Human
-SRR9844094	27 month female, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	27 months	female	11	azithromycin	24	Human
-SRR9844095	30 month female, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	30 months	female	3	placebo	24	Human
-SRR9844096	12 month female, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	9	azithromycin	24	Human
-SRR9844097	18 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	female	17	placebo	24	Human
-SRR9844098	41 month male, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	41 months	male	7	azithromycin	0	Human
-SRR9844099	30 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	2	azithromycin	0	Human
-SRR9844100	21 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	21 months	male	24	azithromycin	24	Human
-SRR9844101	56 month male, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	21	placebo	24	Human
-SRR9844102	48 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	13	azithromycin	0	Human
-SRR9844103	34 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	34 months	male	7	azithromycin	24	Human
-SRR9844104	48 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	13	azithromycin	0	Human
-SRR9844105	36 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	22	placebo	0	Human
-SRR9844106	48 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	30	azithromycin	0	Human
-SRR9844107	16 month male, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	16 months	male	29	azithromycin	24	Human
-SRR9844108	56 month female, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	9	azithromycin	24	Human
-SRR9844109	36 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	10	placebo	0	Human
-SRR9844110	48 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	17	placebo	0	Human
-SRR9844111	51 month female, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	51 months	female	14	placebo	24	Human
-SRR9844112	36 month male, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	29	azithromycin	0	Human
-SRR9844113	24 month male, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	24 months	male	27	placebo	24	Human
-SRR9844114	25 month female, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	25 months	female	30	azithromycin	24	Human
-SRR9844115	7 month male, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	7 months	male	18	azithromycin	24	Human
-SRR9844116	18 month male, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	28	placebo	24	Human
-SRR9844117	41 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	41 months	female	15	placebo	24	Human
-SRR9844118	14 month female, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	14 months	female	25	placebo	24	Human
-SRR9844119	56 month female, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	5	azithromycin	24	Human
-SRR9844120	18 month female, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	18 months	female	8	placebo	0	Human
-SRR9844121	30 month male, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	male	21	placebo	0	Human
-SRR9844122	36 month male, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	21	placebo	0	Human
-SRR9844123	54 month male, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	28	placebo	0	Human
-SRR9844124	24 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	18	azithromycin	0	Human
-SRR9844125	52 month female, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	23	placebo	24	Human
-SRR9844126	50 month male, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	50 months	male	28	placebo	24	Human
-SRR9844127	31 month female, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	31 months	female	30	azithromycin	24	Human
-SRR9844128	26 month male, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	26 months	male	2	azithromycin	24	Human
-SRR9844129	12 month female, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	19	placebo	24	Human
-SRR9844130	38 month male, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	6	azithromycin	24	Human
-SRR9844131	12 month female, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	21	placebo	24	Human
-SRR9844132	8 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	8 months	male	18	azithromycin	0	Human
-SRR9844133	24 month male, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	3	placebo	0	Human
-SRR9844134	12 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	24	azithromycin	24	Human
-SRR9844135	31 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	31 months	male	1	azithromycin	0	Human
-SRR9844136	44 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	19	placebo	24	Human
-SRR9844137	59 month male, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	59 months	male	16	placebo	0	Human
-SRR9844138	35 month female, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	35 months	female	29	azithromycin	0	Human
-SRR9844139	32 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	32 months	male	30	azithromycin	0	Human
-SRR9844140	48 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	18	azithromycin	0	Human
-SRR9844141	53 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	7	azithromycin	24	Human
-SRR9844142	53 month female, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	26	placebo	24	Human
-SRR9844143	56 month female, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	18	azithromycin	24	Human
-SRR9844144	12 month male, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	6	azithromycin	24	Human
-SRR9844145	36 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	11	azithromycin	0	Human
-SRR9844146	12 month male, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	12	azithromycin	0	Human
-SRR9844147	36 month male, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	36 months	male	5	azithromycin	24	Human
-SRR9844148	48 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	19	placebo	0	Human
-SRR9844149	8 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	8 months	male	10	placebo	0	Human
-SRR9844150	43 month female, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	43 months	female	1	azithromycin	24	Human
-SRR9844151	48 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	11	azithromycin	0	Human
-SRR9844152	44 month female, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	6	azithromycin	24	Human
-SRR9844153	48 month male, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	5	azithromycin	0	Human
-SRR9844154	48 month male, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	5	azithromycin	0	Human
-SRR9844155	52 month female, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	4	azithromycin	24	Human
-SRR9844156	54 month female, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	26	placebo	0	Human
-SRR9844157	5 month female, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	5 months	female	18	azithromycin	0	Human
-SRR9844158	36 month female, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	8	placebo	0	Human
-SRR9844159	58 month male, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	58 months	male	4	azithromycin	24	Human
-SRR9844160	12 month male, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	18	azithromycin	24	Human
-SRR9844161	24 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	24	azithromycin	0	Human
-SRR9844162	53 month male, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	10	placebo	24	Human
-SRR9844163	5 month female, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	5 months	female	8	placebo	24	Human
-SRR9844164	12 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	19	placebo	24	Human
-SRR9844165	24 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	17	placebo	0	Human
+SRR9843904	53 month male, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	29	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N													0.023361						
+SRR9843905	30 month female, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	30 months	female	10	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843906	25 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	25 months	male	30	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843907	36 month male, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	3	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843908	5 month male, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	5 months	male	9	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843909	12 month male, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	3	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843910	36 month male, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	28	placebo	0	Human	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N				0.007643															
+SRR9843911	48 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	13	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843912	4 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	4 months	male	30	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N											0.023972								
+SRR9843913	53 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	30	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843914	48 month male, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	48 months	male	6	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843915	48 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	22	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843916	14 month male, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	14 months	male	3	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843917	53 month female, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	30	azithromycin	24	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.015102																		
+SRR9843918	48 month female, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	21	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843919	24 month male, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	28	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843920	12 month female, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	13	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843921	12 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	15	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843922	24 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	2	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843923	56 month male, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	13	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843924	12 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	17	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843925	44 month male, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	22	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843926	54 month male, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	15	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843927	12 month male, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	13	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843928	18 month female, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	18 months	female	18	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843929	12 month female, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	14	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843930	52 month female, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	4	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843931	48 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	17	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843932	2 month female, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	2 months	female	16	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843933	44 month female, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	21	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843934	24 month female, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	12	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843935	2 month female, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	2 months	female	24	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843936	4 month female, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	4 months	female	28	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843937	12 month female, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	6	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843938	48 month male, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	26	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843939	32 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	32 months	male	19	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843940	6 month female, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	6 months	female	16	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843941	47 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	47 months	male	19	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843942	36 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	25	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843943	48 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	48 months	male	7	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843944	52 month male, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	male	6	azithromycin	24	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.033862																		
+SRR9843945	48 month male, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	48 months	male	16	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843946	4 month male, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	4 months	male	21	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843947	1 month male, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	1 months	male	3	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843948	47 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	47 months	male	19	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843949	48 month female, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	26	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y																		0.011872	0.027711
+SRR9843950	45 month male, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	45 months	male	13	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843951	36 month male, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	26	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843952	9 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	9 months	female	17	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843953	6 month female, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	6 months	female	19	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843954	24 month female, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	7	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843955	3 month female, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	3 months	female	7	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843956	31 month female, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	31 months	female	1	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843957	28 month female, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	28 months	female	12	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843958	3 month female, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	3 months	female	28	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843959	12 month male, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	11	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843960	36 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	1	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843961	48 month participant, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months		6	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843962	18 month female, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	18 months	female	28	placebo	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.023368																		
+SRR9843963	36 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	18	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843964	48 month male, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	20	azithromycin	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.02138																		
+SRR9843965	48 month female, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	21	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843966	1 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	1 months	male	19	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843967	8 month female, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	8 months	female	10	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843968	30 month female, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	7	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843969	30 month female, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	3	placebo	0	Human	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.039429				0.043755														
+SRR9843970	1 month female, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	1 months	female	20	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843971	6 month male, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	6 months	male	5	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843972	48 month male, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	15	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843973	12 month female, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	5	azithromycin	0	Human	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N							0.203638												
+SRR9843974	9 month male, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	9 months	male	28	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843975	43 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	43 months	female	15	placebo	24	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.023929																		
+SRR9843976	12 month female, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	11	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843977	5 month female, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	5 months	female	20	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843978	33 month female, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	33 months	female	18	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843979	36 month male, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	3	placebo	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.014643																		
+SRR9843980	12 month female, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	22	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843981	12 month female, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	14	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843982	48 month female, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	28	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843983	1 month male, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	1 months	male	12	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843984	36 month female, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	19	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843985	41 month female, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	41 months	female	26	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843986	36 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	22	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843987	24 month male, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	6	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843988	12 month female, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	3	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843989	12 month female, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	23	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843990	12 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	11	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843991	4 month female, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	4 months	female	15	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843992	36 month male, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	5	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843993	10 month female, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	10 months	female	25	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843994	44 month male, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	9	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843995	34 month male, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	34 months	male	12	azithromycin	24	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.020564																		
+SRR9843996	36 month female, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	4	azithromycin	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.038094																		
+SRR9843997	56 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	19	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843998	4 month male, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	4 months	male	26	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9843999	12 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	17	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844000	6 month female, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	6 months	female	11	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844001	48 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	10	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844002	12 month male, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	28	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844003	41 month female, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	41 months	female	2	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844004	48 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	19	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844005	12 month female, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	16	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844006	12 month female, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	22	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844007	18 month male, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	20	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844008	36 month female, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	5	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844009	24 month male, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	24 months	male	5	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844010	24 month male, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	24 months	male	11	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844011	6 month female, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	6 months	female	28	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844012	54 month female, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	9	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844013	48 month male, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	27	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844014	36 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	2	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844015	44 month male, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	23	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844016	18 month male, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	21	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844017	52 month female, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	12	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844018	18 month male, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	27	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844019	24 month female, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	24 months	female	27	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N													0.007999						
+SRR9844020	48 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	17	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844021	54 month male, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	24	azithromycin	0	Human	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N				0.017233															
+SRR9844022	55 month female, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	55 months	female	4	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844023	36 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	22	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844024	25 month female, village 20, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	25 months	female	20	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844025	48 month male, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	48 months	male	27	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844026	24 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	25	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844027	44 month male, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	5	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844028	58 month female, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	58 months	female	4	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844029	36 month male, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	4	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844030	9 month female, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	9 months	female	23	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844031	48 month male, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	15	placebo	0	Human	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N		0.012049																	
+SRR9844032	53 month male, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	26	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844033	36 month female, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	8	placebo	0	Human	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N				0.012829															
+SRR9844034	48 month female, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	8	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844035	4 month male, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	4 months	male	29	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844036	3 month female, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	3 months	female	7	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844037	31 month male, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	31 months	male	26	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844038	36 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	22	placebo	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.05461																		
+SRR9844039	36 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	13	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844040	54 month female, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	14	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844041	6 month female, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	6 months	female	9	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844042	18 month male, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	8	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844043	31 month male, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	31 months	male	30	azithromycin	24	Human	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N				0.026008															
+SRR9844044	2 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	2 months	male	24	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844045	35 month male, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	35 months	male	7	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844046	54 month female, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	26	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844047	38 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	24	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844048	36 month female, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	4	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844049	39 month female, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	39 months	female	25	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844050	42 month female, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	42 months	female	29	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844051	42 month male, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	42 months	male	3	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844052	44 month male, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	28	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844053	1 month female, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	1 months	female	5	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844054	36 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	19	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844055	18 month male, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	6	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844056	56 month female, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	3	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844057	35 month female, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	35 months	female	20	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844058	54 month female, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	6	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844059	32 month male, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	32 months	male	21	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844060	3 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	3 months	female	13	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844061	56 month female, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	13	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844062	53 month female, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	2	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844063	58 month male, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	58 months	male	4	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844064	24 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	30	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844065	0 month male, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	0 months	male	5	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844066	34 month female, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	34 months	female	18	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844067	3 month male, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	3 months	male	13	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844068	48 month male, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	21	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844069	14 month male, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	14 months	male	22	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844070	12 month male, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	9	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844071	48 month female, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	48 months	female	27	placebo	24	Human	Y	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	0.011122					0.013051													
+SRR9844072	12 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	19	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844073	12 month male, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	6	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844074	51 month male, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	51 months	male	22	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844075	36 month female, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	12	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N																0.022851			
+SRR9844076	55 month female, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	55 months	female	16	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844077	48 month male, village 9, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	9	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844078	31 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	31 months	female	15	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844079	58 month male, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	58 months	male	4	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844080	12 month male, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	12	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844081	53 month male, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	2	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844082	36 month female, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	23	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844083	29 month male, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	29 months	male	10	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844084	10 month female, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	10 months	female	1	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844085	54 month male, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	8	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844086	54 month female, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	54 months	female	3	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844087	54 month female, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	25	placebo	0	Human	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N				0.018633															
+SRR9844088	54 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	24	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844089	48 month male, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	17	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844090	32 month male, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	32 months	male	23	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844091	12 month female, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	15	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844092	24 month male, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	4	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844093	30 month female, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	5	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844094	27 month female, village 11, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	27 months	female	11	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844095	30 month female, village 3, placebo, phase 24	Human	colon	colon	feces	stool	Niger	30 months	female	3	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844096	12 month female, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	9	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844097	18 month female, village 17, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	female	17	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844098	41 month male, village 7, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	41 months	male	7	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844099	30 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	2	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844100	21 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	21 months	male	24	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844101	56 month male, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	male	21	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844102	48 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	13	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844103	34 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	34 months	male	7	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844104	48 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	13	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844105	36 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	22	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844106	48 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	30	azithromycin	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.022435																		
+SRR9844107	16 month male, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	16 months	male	29	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844108	56 month female, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	9	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844109	36 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	10	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844110	48 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	17	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844111	51 month female, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	51 months	female	14	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844112	36 month male, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	29	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844113	24 month male, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	24 months	male	27	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844114	25 month female, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	25 months	female	30	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844115	7 month male, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	7 months	male	18	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844116	18 month male, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	18 months	male	28	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844117	41 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	41 months	female	15	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844118	14 month female, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	14 months	female	25	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844119	56 month female, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	5	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844120	18 month female, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	18 months	female	8	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844121	30 month male, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	male	21	placebo	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.037787																		
+SRR9844122	36 month male, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	21	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844123	54 month male, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	male	28	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844124	24 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	18	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844125	52 month female, village 23, placebo, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	23	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844126	50 month male, village 28, placebo, phase 24	Human	colon	colon	feces	stool	Niger	50 months	male	28	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844127	31 month female, village 30, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	31 months	female	30	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844128	26 month male, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	26 months	male	2	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844129	12 month female, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	19	placebo	24	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.036177																		
+SRR9844130	38 month male, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	6	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844131	12 month female, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	21	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844132	8 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	8 months	male	18	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844133	24 month male, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	male	3	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844134	12 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	24	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844135	31 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	31 months	male	1	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844136	44 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	male	19	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844137	59 month male, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	59 months	male	16	placebo	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.017323																		
+SRR9844138	35 month female, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	35 months	female	29	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844139	32 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	32 months	male	30	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844140	48 month male, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	18	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844141	53 month male, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	7	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844142	53 month female, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	26	placebo	24	Human	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N		0.018878																	
+SRR9844143	56 month female, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	18	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844144	12 month male, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	6	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844145	36 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	11	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844146	12 month male, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	12	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844147	36 month male, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	36 months	male	5	azithromycin	24	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.018057																		
+SRR9844148	48 month male, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	19	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844149	8 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	8 months	male	10	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844150	43 month female, village 1, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	43 months	female	1	azithromycin	24	Human	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N				0.025309															
+SRR9844151	48 month female, village 11, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	11	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844152	44 month female, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	6	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844153	48 month male, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	5	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844154	48 month male, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	5	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844155	52 month female, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	4	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844156	54 month female, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	26	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844157	5 month female, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	5 months	female	18	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844158	36 month female, village 8, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	8	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844159	58 month male, village 4, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	58 months	male	4	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844160	12 month male, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	18	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844161	24 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	24	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844162	53 month male, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	53 months	male	10	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844163	5 month female, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	5 months	female	8	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844164	12 month male, village 19, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	19	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844165	24 month female, village 17, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	17	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
 SRR9844166	60 month female, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	60 months	female	3	placebo	0	Human
-SRR9844167	2 month female, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	2 months	female	29	azithromycin	24	Human
-SRR9844168	36 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	10	placebo	0	Human
-SRR9844169	34 month female, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	34 months	female	27	placebo	0	Human
-SRR9844170	36 month male, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	12	azithromycin	0	Human
-SRR9844171	54 month male, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	54 months	male	15	placebo	24	Human
-SRR9844172	36 month male, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	26	placebo	0	Human
-SRR9844173	30 month female, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	22	placebo	0	Human
-SRR9844174	36 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	30	azithromycin	0	Human
-SRR9844175	38 month male, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	8	placebo	24	Human
-SRR9844176	39 month male, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	39 months	male	26	placebo	24	Human
-SRR9844177	31 month male, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	31 months	male	26	placebo	24	Human
-SRR9844178	24 month female, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	19	placebo	0	Human
-SRR9844179	8 month female, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	8 months	female	24	azithromycin	24	Human
-SRR9844180	52 month female, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	5	azithromycin	24	Human
-SRR9844181	7 month female, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	7 months	female	29	azithromycin	0	Human
-SRR9844182	6 month female, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	6 months	female	10	placebo	24	Human
-SRR9844183	30 month male, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	30 months	male	13	azithromycin	0	Human
-SRR9844184	31 month male, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	31 months	male	12	azithromycin	24	Human
-SRR9844185	51 month female, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	51 months	female	7	azithromycin	24	Human
-SRR9844186	42 month male, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	42 months	male	9	azithromycin	24	Human
-SRR9844187	48 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	22	placebo	0	Human
-SRR9844188	48 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	1	azithromycin	0	Human
-SRR9844189	48 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	24	azithromycin	0	Human
-SRR9844190	24 month female, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	3	placebo	0	Human
-SRR9844191	42 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	42 months	male	1	azithromycin	0	Human
-SRR9844192	12 month male, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	21	placebo	24	Human
-SRR9844193	9 month female, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	9 months	female	27	placebo	24	Human
-SRR9844194	47 month male, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	47 months	male	29	azithromycin	0	Human
-SRR9844195	12 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	13	azithromycin	0	Human
-SRR9844196	8 month female, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	8 months	female	26	placebo	0	Human
-SRR9844197	40 month female, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	40 months	female	14	placebo	0	Human
-SRR9844198	0 month male, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	0 months	male	14	placebo	0	Human
-SRR9844199	44 month female, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	13	azithromycin	24	Human
-SRR9844200	7 month male, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	7 months	male	21	placebo	0	Human
-SRR9844201	53 month female, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	29	azithromycin	24	Human
-SRR9844202	48 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	2	azithromycin	0	Human
-SRR9844203	48 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	2	azithromycin	0	Human
-SRR9844204	12 month male, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	15	placebo	0	Human
-SRR9844205	12 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	15	placebo	24	Human
-SRR9844206	12 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	10	placebo	0	Human
-SRR9844207	56 month female, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	8	placebo	24	Human
-SRR9844208	24 month female, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	14	placebo	0	Human
-SRR9844209	58 month male, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	58 months	male	14	placebo	24	Human
-SRR9844210	2 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	2 months	female	24	azithromycin	0	Human
-SRR9844211	10 month male, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	10 months	male	25	placebo	24	Human
-SRR9844212	6 month female, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	6 months	female	30	azithromycin	0	Human
-SRR9844213	48 month male, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	21	placebo	0	Human
-SRR9844214	2 month female, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	2 months	female	22	placebo	24	Human
-SRR9844215	44 month female, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	21	placebo	24	Human
-SRR9844216	36 month female, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	18	azithromycin	0	Human
-SRR9844217	3 month female, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	3 months	female	20	azithromycin	24	Human
-SRR9844218	12 month female, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	12	azithromycin	24	Human
-SRR9844219	36 month male, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	4	azithromycin	0	Human
-SRR9844220	32 month male, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	32 months	male	9	azithromycin	24	Human
-SRR9844221	39 month male, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	39 months	male	22	placebo	24	Human
-SRR9844222	36 month male, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	2	azithromycin	0	Human
-SRR9844223	0 month male, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	0 months	male	14	placebo	0	Human
-SRR9844224	48 month female, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	48 months	female	2	azithromycin	24	Human
-SRR9844225	54 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	54 months	male	24	azithromycin	24	Human
-SRR9844226	52 month female, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	52 months	female	27	placebo	0	Human
-SRR9844227	8 month female, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	8 months	female	27	placebo	0	Human
-SRR9844228	48 month female, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	48 months	female	10	placebo	24	Human
-SRR9844229	12 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	30	azithromycin	0	Human
-SRR9844230	5 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	5 months	female	2	azithromycin	0	Human
-SRR9844231	43 month male, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	43 months	male	18	azithromycin	24	Human
-SRR9844232	8 month male, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	8 months	male	26	placebo	0	Human
-SRR9844233	24 month female, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	10	placebo	0	Human
-SRR9844234	5 month female, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	5 months	female	9	azithromycin	24	Human
-SRR9844235	48 month female, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	12	azithromycin	0	Human
-SRR9844236	36 month male, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	29	azithromycin	0	Human
-SRR9844237	12 month male, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	28	placebo	0	Human
-SRR9844238	12 month male, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	16	placebo	0	Human
+SRR9844167	2 month female, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	2 months	female	29	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844168	36 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	10	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844169	34 month female, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	34 months	female	27	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844170	36 month male, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	12	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844171	54 month male, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	54 months	male	15	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844172	36 month male, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	26	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844173	30 month female, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	female	22	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844174	36 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	30	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844175	38 month male, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	38 months	male	8	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844176	39 month male, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	39 months	male	26	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844177	31 month male, village 26, placebo, phase 24	Human	colon	colon	feces	stool	Niger	31 months	male	26	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N														0.015812					
+SRR9844178	24 month female, village 19, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	19	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844179	8 month female, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	8 months	female	24	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844180	52 month female, village 5, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	52 months	female	5	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844181	7 month female, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	7 months	female	29	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844182	6 month female, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	6 months	female	10	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844183	30 month male, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	30 months	male	13	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844184	31 month male, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	31 months	male	12	azithromycin	24	Human	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N								0.105056											
+SRR9844185	51 month female, village 7, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	51 months	female	7	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844186	42 month male, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	42 months	male	9	azithromycin	24	Human	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N									0.017874										
+SRR9844187	48 month male, village 22, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	22	placebo	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.00975																		
+SRR9844188	48 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	1	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844189	48 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	24	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844190	24 month female, village 3, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	3	placebo	0	Human	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	0.036749																		
+SRR9844191	42 month male, village 1, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	42 months	male	1	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844192	12 month male, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	male	21	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844193	9 month female, village 27, placebo, phase 24	Human	colon	colon	feces	stool	Niger	9 months	female	27	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844194	47 month male, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	47 months	male	29	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844195	12 month female, village 13, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	female	13	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844196	8 month female, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	8 months	female	26	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844197	40 month female, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	40 months	female	14	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844198	0 month male, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	0 months	male	14	placebo	0	Human	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	Y	N	N	N								0.163258								0.013902			
+SRR9844199	44 month female, village 13, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	13	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844200	7 month male, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	7 months	male	21	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844201	53 month female, village 29, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	53 months	female	29	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844202	48 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	2	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844203	48 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	2	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N														0.019620					
+SRR9844204	12 month male, village 15, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	15	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844205	12 month female, village 15, placebo, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	15	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844206	12 month male, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	10	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844207	56 month female, village 8, placebo, phase 24	Human	colon	colon	feces	stool	Niger	56 months	female	8	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844208	24 month female, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	14	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844209	58 month male, village 14, placebo, phase 24	Human	colon	colon	feces	stool	Niger	58 months	male	14	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844210	2 month female, village 24, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	2 months	female	24	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844211	10 month male, village 25, placebo, phase 24	Human	colon	colon	feces	stool	Niger	10 months	male	25	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844212	6 month female, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	6 months	female	30	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844213	48 month male, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	male	21	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844214	2 month female, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	2 months	female	22	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844215	44 month female, village 21, placebo, phase 24	Human	colon	colon	feces	stool	Niger	44 months	female	21	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844216	36 month female, village 18, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	18	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844217	3 month female, village 20, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	3 months	female	20	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844218	12 month female, village 12, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	12 months	female	12	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844219	36 month male, village 4, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	4	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844220	32 month male, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	32 months	male	9	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844221	39 month male, village 22, placebo, phase 24	Human	colon	colon	feces	stool	Niger	39 months	male	22	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844222	36 month male, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	2	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844223	0 month male, village 14, placebo, phase 0	Human	colon	colon	feces	stool	Niger	0 months	male	14	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N															0.049223				
+SRR9844224	48 month female, village 2, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	48 months	female	2	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844225	54 month male, village 24, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	54 months	male	24	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844226	52 month female, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	52 months	female	27	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844227	8 month female, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	8 months	female	27	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844228	48 month female, village 10, placebo, phase 24	Human	colon	colon	feces	stool	Niger	48 months	female	10	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844229	12 month male, village 30, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	30	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844230	5 month female, village 2, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	5 months	female	2	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844231	43 month male, village 18, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	43 months	male	18	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844232	8 month male, village 26, placebo, phase 0	Human	colon	colon	feces	stool	Niger	8 months	male	26	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844233	24 month female, village 10, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	10	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844234	5 month female, village 9, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	5 months	female	9	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844235	48 month female, village 12, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	12	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844236	36 month male, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	male	29	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844237	12 month male, village 28, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	28	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844238	12 month male, village 16, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	16	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
 SRR9844239	48 month female, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	48 months	female	27	placebo	0	Human
-SRR9844240	12 month male, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	23	placebo	0	Human
-SRR9844241	0 month female, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	0 months	female	5	azithromycin	0	Human
-SRR9844242	24 month female, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	21	placebo	0	Human
-SRR9844243	30 month male, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	male	27	placebo	0	Human
-SRR9844244	55 month female, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	55 months	female	16	placebo	24	Human
-SRR9844245	36 month female, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	36 months	female	6	azithromycin	24	Human
-SRR9844246	30 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	male	25	placebo	0	Human
-SRR9844247	54 month female, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	29	azithromycin	0	Human
-SRR9844248	35 month male, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	35 months	male	27	placebo	0	Human
-SRR9844249	36 month female, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	6	azithromycin	0	Human
+SRR9844240	12 month male, village 23, placebo, phase 0	Human	colon	colon	feces	stool	Niger	12 months	male	23	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844241	0 month female, village 5, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	0 months	female	5	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844242	24 month female, village 21, placebo, phase 0	Human	colon	colon	feces	stool	Niger	24 months	female	21	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844243	30 month male, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	male	27	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844244	55 month female, village 16, placebo, phase 24	Human	colon	colon	feces	stool	Niger	55 months	female	16	placebo	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844245	36 month female, village 6, azithromycin, phase 24	Human	colon	colon	feces	stool	Niger	36 months	female	6	azithromycin	24	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844246	30 month male, village 25, placebo, phase 0	Human	colon	colon	feces	stool	Niger	30 months	male	25	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844247	54 month female, village 29, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	54 months	female	29	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844248	35 month male, village 27, placebo, phase 0	Human	colon	colon	feces	stool	Niger	35 months	male	27	placebo	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
+SRR9844249	36 month female, village 6, azithromycin, phase 0	Human	colon	colon	feces	stool	Niger	36 months	female	6	azithromycin	0	Human	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N																			
