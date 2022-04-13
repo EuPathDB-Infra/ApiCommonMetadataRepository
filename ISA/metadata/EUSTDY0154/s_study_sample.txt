@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SourceMTOverride	Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics [GeographicLocation]	Characteristics [specimen]	Lineage	Characteristics [fungus organism]	Characteristics [fungal strain]
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics [GeographicLocation]	Characteristics [specimen]	Lineage	Characteristics [fungus organism]	Characteristics [fungal strain]
 MF_43	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/17/13	Zambia	Africa	Miombo Woodlands	Tree bol	VGI	Cryptoccocus gattii	Cryptoccocus gattii MF_43
 MF_19	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Cave/animal droppings	VGI	Cryptoccocus gattii	Cryptoccocus gattii MF_19
 MF_7	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Soil	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_7
