@@ -1,0 +1,53 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [specimen]	Characteristics [organism]	specimen collection year	Characteristics [parasite genotype]	Characteristics [country]	Characteristics [continent]	Characteristics [GeographicLocation]	Characteristics[parasite organism]	specimen collector	Characteristics[parasite strain]
+V594	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2007	I	USA	North America	TX	Naegleria fowleri		Naegleria fowleri V594
+V597	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2007	I	USA	North America	FL	Naegleria fowleri		Naegleria fowleri V597
+V596	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2007	III	USA	North America	NV	Naegleria fowleri		Naegleria fowleri V596
+V615	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2009	I	USA	North America	FL	Naegleria fowleri		Naegleria fowleri V615
+TY	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1969	III	USA	North America	VA	Naegleria fowleri	VA	Naegleria fowleri TY
+V088	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1987	I	USA	North America	GA	Naegleria fowleri		Naegleria fowleri V088
+V068	N fowleri clinical and environmental WGS			environmental		1987	III	USA	North America	AZ	Naegleria fowleri		Naegleria fowleri V068
+V455	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2000	III	USA	North America	CA	Naegleria fowleri		Naegleria fowleri V455
+V629	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2010	I	USA	North America	TX	Naegleria fowleri		Naegleria fowleri V629
+Wade	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2000	I	USA	North America	TX	Naegleria fowleri		Naegleria fowleri Wade
+HB1	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1967	III	USA	North America	FL	Naegleria fowleri		Naegleria fowleri HB1
+V518	N fowleri clinical and environmental WGS			environmental		2002	III	USA	North America	AZ	Naegleria fowleri		Naegleria fowleri V518
+V414	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1998	I	USA	North America	FL	Naegleria fowleri		Naegleria fowleri V414
+V626	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2010	III	USA	North America	MN	Naegleria fowleri		Naegleria fowleri V626
+Camp	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1978	II	USA	North America	CA	Naegleria fowleri		Naegleria fowleri Camp
+Davis	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1998	I	USA	North America	FL	Naegleria fowleri		Naegleria fowleri Davis
+V625	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2010	I	USA	North America	AR	Naegleria fowleri		Naegleria fowleri V625
+SFHS-3	N fowleri clinical and environmental WGS			environmental		1980	III	USA	North America	AZ	Naegleria fowleri		Naegleria fowleri SFHS-3
+V019	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1984	I	USA	North America	TX	Naegleria fowleri		Naegleria fowleri V019
+V067	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1987	III	USA	North America	AZ	Naegleria fowleri		Naegleria fowleri V067
+V072	N fowleri clinical and environmental WGS			environmental		1987	I	USA	North America	NM	Naegleria fowleri		Naegleria fowleri V072
+V1005	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2017	IV	Australia	Oceania		Naegleria fowleri		Naegleria fowleri V1005
+V204	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1990	I	Mexico	North America		Naegleria fowleri		Naegleria fowleri V204
+V413	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1998	I	USA	North America	TX	Naegleria fowleri		Naegleria fowleri V413
+V513	N fowleri clinical and environmental WGS			environmental		2002	I	USA	North America	GA	Naegleria fowleri		Naegleria fowleri V513
+V516	N fowleri clinical and environmental WGS			environmental		2002	III	USA	North America	AZ	Naegleria fowleri		Naegleria fowleri V516
+V523	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1987	III	USA	North America	AZ	Naegleria fowleri		Naegleria fowleri V523
+V557	N fowleri clinical and environmental WGS			environmental	Homo sapiens	2005	I	USA	North America	OK	Naegleria fowleri		Naegleria fowleri V557
+V641	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2013	I	USA	North America	AR	Naegleria fowleri		Naegleria fowleri V641
+V566	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2006	I	USA	North America	AZ	Naegleria fowleri		Naegleria fowleri V566
+V604	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2008	not determined	USA	North America	AR	Naegleria fowleri		Naegleria fowleri V604
+V511	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2002	I	USA	North America	GA	Naegleria fowleri		Naegleria fowleri V511
+V1001	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2015	I	USA	North America	TX	Naegleria fowleri		Naegleria fowleri V1001
+V631	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2011	I	USA	North America	LA	Naegleria fowleri		Naegleria fowleri V631
+V020	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1984	I	USA	North America	TX	Naegleria fowleri		Naegleria fowleri V020
+V212	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1990	I	USA	North America	AL	Naegleria fowleri		Naegleria fowleri V212
+FWHS	N fowleri clinical and environmental WGS			environmental		1980	III	USA	North America	AZ	Naegleria fowleri		Naegleria fowleri FWHS
+V616	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2009	I	USA	North America	FL	Naegleria fowleri		Naegleria fowleri V616
+V1002	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2015	I	USA	North America	TX	Naegleria fowleri		Naegleria fowleri V1002
+V632	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2011	I	USA	North America	FL	Naegleria fowleri		Naegleria fowleri V632
+V444	N fowleri clinical and environmental WGS			clinical	Cow	2004	I	USA	North America	CA	Naegleria fowleri		Naegleria fowleri V444
+DIGERNES	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1980	II	USA	North America	CA/AZ	Naegleria fowleri		Naegleria fowleri DIGERNES
+HB4	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1982	III	USA	North America	NC	Naegleria fowleri		Naegleria fowleri HB4
+V069	N fowleri clinical and environmental WGS			environmental		1987	III	USA	North America	AZ	Naegleria fowleri		Naegleria fowleri V069
+V070	N fowleri clinical and environmental WGS			environmental		1987	III	USA	North America	AZ	Naegleria fowleri		Naegleria fowleri V070
+V640	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2012	III	USA	North America	MN	Naegleria fowleri		Naegleria fowleri V640
+V206	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1990	I	Mexico	North America		Naegleria fowleri		Naegleria fowleri V206
+V457	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2000	I	USA	North America	TX	Naegleria fowleri		Naegleria fowleri V457
+V515	N fowleri clinical and environmental WGS			environmental		2002	III	USA	North America	AZ	Naegleria fowleri		Naegleria fowleri V515
+V551	N fowleri clinical and environmental WGS			environmental		2005	I	Colombia	South America		Naegleria fowleri		Naegleria fowleri V551
+V556	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2005	I	USA	North America	OK	Naegleria fowleri		Naegleria fowleri V556
+V387	N fowleri clinical and environmental WGS			clinical	Homo sapiens	1996	I	USA	North America	CA	Naegleria fowleri		Naegleria fowleri V387
