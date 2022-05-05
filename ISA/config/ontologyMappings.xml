@@ -1326,6 +1326,10 @@
   <ontologyTerm source_id="GAZ_00000585" type="characteristicValue" parent="characteristicQualifier">
     <name>Niger</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00004025" type="characteristicValue" parent="characteristicQualifier">
+    <name>Aruba</name>
+  </ontologyTerm>
+
 <!-- continent -->
   <ontologyTerm source_id="GAZ_00000464" type="characteristicValue" parent="characteristicQualifier">
     <name>Europe</name>
@@ -1370,11 +1374,15 @@
   <ontologyTerm source_id="NCIT_C43497" type="characteristicValue" parent="characteristicQualifier">
     <name>Oklahoma</name>
   </ontologyTerm>
-
   <ontologyTerm source_id="NCIT_C43460" type="characteristicValue" parent="characteristicQualifier">
     <name>New Hampshire</name>
   </ontologyTerm>
 
+<!--GeographicLocation-->
+  <ontologyTerm source_id="ENVO_00002990" type="characteristicValue" parent="characteristicQualifier">
+    <name>Miombo Woodlands</name>
+    <name>Southern Miombo Woodlands</name>
+  </ontologyTerm>
 <!-- parasite lifecycle stage -->
   <ontologyTerm source_id="OPL_0000057" type="characteristicValue" parent="characteristicQualifier">
     <name>trophozoite</name>
