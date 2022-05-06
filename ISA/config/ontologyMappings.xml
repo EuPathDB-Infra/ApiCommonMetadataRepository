@@ -1517,9 +1517,22 @@
   <ontologyTerm source_id="NCIT_C14192" type="characteristicValue" parent="characteristicQualifier">
     <name>Cow</name>
   </ontologyTerm>
-
   <ontologyTerm source_id="NCBITaxon_9544" type="characteristicValue" parent="characteristicQualifier">
     <name>Macaca mulatta</name>
   </ontologyTerm>
-Macaca mulatta
+  <ontologyTerm source_id="NCBITaxon_1574408" type="characteristicValue" parent="characteristicQualifier">
+    <name>elk</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9850" type="characteristicValue" parent="characteristicQualifier">
+    <name>deer</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9669" type="characteristicValue" parent="characteristicQualifier">
+    <name>ferret</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_8782" type="characteristicValue" parent="characteristicQualifier">
+    <name>bird</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C14191" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cat</name>
+  </ontologyTerm>
 </ontologymappings>
