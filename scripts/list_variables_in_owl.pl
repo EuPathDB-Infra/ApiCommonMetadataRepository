@@ -15,7 +15,7 @@ my $om = ApiCommonData::Load::OntologyMapping->fromOwl(shift @ARGV);
 my ($ontologySources, $ontologyMapping) = $om->asSourcesAndMapping();
 
 my @a = map {$ontologyMapping->{$_}} sort keys %{$ontologyMapping};
-say for uniq(sort grep {/::/} map {@{$_->{characteristicQualifier}{name}//[]}} @a);
+say for uniq(sort grep {/::/} map {@{$_->{characteristicQualifier}{name}//$_->{protocolParameter}{name}//[]}} @a);
 #say Dump @a;
 
 
