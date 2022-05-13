@@ -1,7 +1,7 @@
-Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics [GeographicLocation]	Characteristics [specimen]	Characteristics [fungus organism]	Lineage	Characteristics [fungal strain]
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics [city]	Characteristics [specimen]	Characteristics [fungus organism]	Lineage	Characteristics [fungal strain]
 MF34	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands 			9/20/13	Zambia	Africa	Miombo Woodlands	Tree bark	Cryptococcus gattii	VGV	Cryptococcus gattii MF34
 MF13	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands 			9/17/13	Zambia	Africa	Miombo Woodlands	Soil	Cryptococcus gattii	VGV	Cryptococcus gattii MF13
 MF56	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands 			9/20/13	Zambia	Africa	Miombo Woodlands	Tree bark	Cryptococcus gattii	VGV	Cryptococcus gattii MF56
-MF54	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands 			9/17/13	Zambia	Africa	Miombo Woodlands	soilSoil	Cryptococcus gattii	VGV	Cryptococcus gattii MF54
+MF54	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands 			9/17/13	Zambia	Africa	Miombo Woodlands	Soil	Cryptococcus gattii	VGV	Cryptococcus gattii MF54
 MF51	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands 			9/18/13	Zambia	Africa	Miombo Woodlands	Tree bark	Cryptococcus gattii	VGV	Cryptococcus gattii MF51
-MF5	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands 			9/17/13	Zambia	Africa	Miombo Woodlands	soilSoil	Cryptococcus gattii	VGV	Cryptococcus gattii MF5
+MF5	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands 			9/17/13	Zambia	Africa	Miombo Woodlands	Soil	Cryptococcus gattii	VGV	Cryptococcus gattii MF5

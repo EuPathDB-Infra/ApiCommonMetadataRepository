@@ -1383,6 +1383,51 @@
     <name>Miombo Woodlands</name>
     <name>Southern Miombo Woodlands</name>
   </ontologyTerm>
+<!--State-->
+
+<ontologyTerm source_id="NCIT_C43498" type="characteristicValue" parent="characteristicQualifier">
+    <name>TX</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C43478" type="characteristicValue" parent="characteristicQualifier">
+    <name>FL</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C43503" type="characteristicValue" parent="characteristicQualifier">
+    <name>NV</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C43472" type="characteristicValue" parent="characteristicQualifier">
+    <name>VA</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C43477" type="characteristicValue" parent="characteristicQualifier">
+    <name>GA</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C43505" type="characteristicValue" parent="characteristicQualifier">
+    <name>AZ</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C43509" type="characteristicValue" parent="characteristicQualifier">
+    <name>CA</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C43486" type="characteristicValue" parent="characteristicQualifier">
+    <name>MN</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C43495" type="characteristicValue" parent="characteristicQualifier">
+    <name>AR</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C43504" type="characteristicValue" parent="characteristicQualifier">
+    <name>NM</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C43497" type="characteristicValue" parent="characteristicQualifier">
+    <name>OK</name>
+  </ontologyTerm>
+<ontologyTerm source_id="Louisiana" type="characteristicValue" parent="characteristicQualifier">
+    <name>LA</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C43479" type="characteristicValue" parent="characteristicQualifier">
+    <name>AL</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C43474" type="characteristicValue" parent="characteristicQualifier">
+    <name>NC</name>
+  </ontologyTerm>
+
 <!-- parasite lifecycle stage -->
   <ontologyTerm source_id="OPL_0000057" type="characteristicValue" parent="characteristicQualifier">
     <name>trophozoite</name>

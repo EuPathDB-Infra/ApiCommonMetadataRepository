@@ -1,29 +1,29 @@
-Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics [GeographicLocation]	Characteristics [specimen]	Lineage	Characteristics [fungus organism]	Characteristics [fungal strain]
-MF_43	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/17/13	Zambia	Africa	Miombo Woodlands	Tree bol	VGI	Cryptoccocus gattii	Cryptoccocus gattii MF_43
-MF_19	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Cave/animal droppings	VGI	Cryptoccocus gattii	Cryptoccocus gattii MF_19
-MF_7	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Soil	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_7
-MF_23	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/17/13	Zambia	Africa	Miombo Woodlands	Soil	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_23
-MF_35	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Soil/droppings	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_35
-MF_42	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Soil/droppings	VGI	Cryptoccocus gattii	Cryptoccocus gattii MF_42
-MF_36	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Rock cave	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_36
-MF_4	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Soil/droppings	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_4
-MF_38	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Cave/animal droppings	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_38
-MF_31	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Soil from Cave	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_31
-MF_53	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			9/17/13	Zambia	Africa	Miombo Woodlands	Tree bark	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_53
-MF_60	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			9/17/13	Zambia	Africa	Miombo Woodlands	Soil	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_60
-MF_6	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			9/20/13	Zambia	Africa	Miombo Woodlands	Tree bark	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_6
-MF_29	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			9/20/13	Zambia	Africa	Miombo Woodlands	Tree bark	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_29
-MF_57	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			9/20/13	Zambia	Africa	Miombo Woodlands	Tree bark	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_57
-MF_26	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			11/25/12	Zambia	Africa	Miombo Woodlands	Acacia Bole	VGI	Cryptoccocus gattii	Cryptoccocus gattii MF_26
-CBS11687	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands								VGIV/VGIIIc	Cryptoccocus gattii	Cryptoccocus gattii CBS11687
-SA03	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands				South Africa	Africa			VGII	Cryptoccocus gattii	Cryptoccocus gattii SA03
-MF_1	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Cave with hyrax droppings	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_1
-MF_27	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Tree	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_27
-MF_3	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Rock cracks	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_3
-MF_20	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Rock cracks	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_20
-MF_10	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Rock cracks	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_10
-MF_11	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Rock cracks	VGII	Cryptoccocus gattii	Cryptoccocus gattii MF_11
-MF_21	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/15/13	Zambia	Africa	Miombo Woodlands	Tree Bol	VGI	Cryptoccocus gattii	Cryptoccocus gattii MF_21
-MF_46	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			9/18/13	Zambia	Africa	Miombo Woodlands	Tree bark	VGIV	Cryptoccocus gattii	Cryptoccocus gattii MF_46
-MF_18	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/19/13	Zambia	Africa	Southern Miombo Woodlands	Soil	VGI	Cryptoccocus gattii	Cryptoccocus gattii MF_18
-MF_2	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/19/13	Zambia	Africa	Southern Miombo Woodlands	Soil	VGI	Cryptoccocus gattii	Cryptoccocus gattii MF_2
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics [city]	Characteristics [specimen]	Lineage	Characteristics [fungus organism]	Characteristics [fungal strain]
+MF_43	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/17/13	Zambia	Africa	Miombo Woodlands	Tree bol	VGI	Cryptococcus gattii	Cryptococcus gattii MF_43
+MF_19	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Cave/animal droppings	VGI	Cryptococcus gattii	Cryptococcus gattii MF_19
+MF_7	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Soil	VGII	Cryptococcus gattii	Cryptococcus gattii MF_7
+MF_23	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/17/13	Zambia	Africa	Miombo Woodlands	Soil	VGII	Cryptococcus gattii	Cryptococcus gattii MF_23
+MF_35	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Soil/droppings	VGII	Cryptococcus gattii	Cryptococcus gattii MF_35
+MF_42	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Soil/droppings	VGI	Cryptococcus gattii	Cryptococcus gattii MF_42
+MF_36	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Rock cave	VGII	Cryptococcus gattii	Cryptococcus gattii MF_36
+MF_4	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Soil/droppings	VGII	Cryptococcus gattii	Cryptococcus gattii MF_4
+MF_38	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Cave/animal droppings	VGII	Cryptococcus gattii	Cryptococcus gattii MF_38
+MF_31	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Soil from Cave	VGII	Cryptococcus gattii	Cryptococcus gattii MF_31
+MF_53	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			9/17/13	Zambia	Africa	Miombo Woodlands	Tree bark	VGII	Cryptococcus gattii	Cryptococcus gattii MF_53
+MF_60	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			9/17/13	Zambia	Africa	Miombo Woodlands	Soil	VGII	Cryptococcus gattii	Cryptococcus gattii MF_60
+MF_6	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			9/20/13	Zambia	Africa	Miombo Woodlands	Tree bark	VGII	Cryptococcus gattii	Cryptococcus gattii MF_6
+MF_29	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			9/20/13	Zambia	Africa	Miombo Woodlands	Tree bark	VGII	Cryptococcus gattii	Cryptococcus gattii MF_29
+MF_57	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			9/20/13	Zambia	Africa	Miombo Woodlands	Tree bark	VGII	Cryptococcus gattii	Cryptococcus gattii MF_57
+MF_26	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			11/25/12	Zambia	Africa	Miombo Woodlands	Acacia Bole	VGI	Cryptococcus gattii	Cryptococcus gattii MF_26
+CBS11687	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands								VGIV/VGIIIc	Cryptococcus gattii	Cryptococcus gattii CBS11687
+SA03	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands				South Africa	Africa			VGII	Cryptococcus gattii	Cryptococcus gattii SA03
+MF_1	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Cave with hyrax droppings	VGII	Cryptococcus gattii	Cryptococcus gattii MF_1
+MF_27	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Tree	VGII	Cryptococcus gattii	Cryptococcus gattii MF_27
+MF_3	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Rock cracks	VGII	Cryptococcus gattii	Cryptococcus gattii MF_3
+MF_20	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Rock cracks	VGII	Cryptococcus gattii	Cryptococcus gattii MF_20
+MF_10	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Rock cracks	VGII	Cryptococcus gattii	Cryptococcus gattii MF_10
+MF_11	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/16/13	Zambia	Africa	Miombo Woodlands	Rock cracks	VGII	Cryptococcus gattii	Cryptococcus gattii MF_11
+MF_21	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/15/13	Zambia	Africa	Miombo Woodlands	Tree Bol	VGI	Cryptococcus gattii	Cryptococcus gattii MF_21
+MF_46	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			9/18/13	Zambia	Africa	Miombo Woodlands	Tree bark	VGIV	Cryptococcus gattii	Cryptococcus gattii MF_46
+MF_18	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/19/13	Zambia	Africa	Southern Miombo Woodlands	Soil	VGI	Cryptococcus gattii	Cryptococcus gattii MF_18
+MF_2	SNP calls of WGS of Cryptoccocus from Central Zambezian miombo woodlands			1/19/13	Zambia	Africa	Southern Miombo Woodlands	Soil	VGI	Cryptococcus gattii	Cryptococcus gattii MF_2
