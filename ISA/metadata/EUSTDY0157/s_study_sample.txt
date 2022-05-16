@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [specimen]	Characteristics [organism]	specimen collection year	Characteristics [parasite genotype]	Characteristics [country]	Characteristics [continent]	Characteristics [GeographicLocation]	Characteristics[parasite organism]	specimen collector	Characteristics[parasite strain]
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [specimen]	Characteristics [organism]	specimen collection year	Characteristics [parasite genotype]	Characteristics [country]	Characteristics [continent]	Characteristics [city]	Characteristics[parasite organism]	specimen collector	Characteristics[parasite strain]
 V594	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2007	I	USA	North America	TX	Naegleria fowleri		Naegleria fowleri V594
 V597	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2007	I	USA	North America	FL	Naegleria fowleri		Naegleria fowleri V597
 V596	N fowleri clinical and environmental WGS			clinical	Homo sapiens	2007	III	USA	North America	NV	Naegleria fowleri		Naegleria fowleri V596
