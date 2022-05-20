@@ -1,0 +1,175 @@
+Name	Description	SourceMTOverride	SourceMTOverride	host_common_name	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [parasite organism]	Characteristics [parasite strain]
+BF17	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Burkina Faso		Pyricularia oryzae	Pyricularia oryzae BF17
+BF32	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Burkina Faso	Banfora	Pyricularia oryzae	Pyricularia oryzae BF32
+BF48	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Burkina Faso	Banfora	Pyricularia oryzae	Pyricularia oryzae BF48
+BF5	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Burkina Faso	Sinkoura	Pyricularia oryzae	Pyricularia oryzae BF5
+BN0293	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2011	Benin	Lokossa	Pyricularia oryzae	Pyricularia oryzae BN0293
+EG308	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	1999	Egypt		Pyricularia oryzae	Pyricularia oryzae EG308
+JUM1	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa		USA		Pyricularia oryzae	Pyricularia oryzae JUM1
+KE002	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Kenya	Mwea	Pyricularia oryzae	Pyricularia oryzae KE002
+KE016	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Kenya	Mwea	Pyricularia oryzae	Pyricularia oryzae KE016
+KE017	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Kenya	Mwea	Pyricularia oryzae	Pyricularia oryzae KE017
+KE019	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Kenya	Mwea	Pyricularia oryzae	Pyricularia oryzae KE019
+KE021	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Kenya	Mwea	Pyricularia oryzae	Pyricularia oryzae KE021
+KE029	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Kenya	Mwea	Pyricularia oryzae	Pyricularia oryzae KE029
+KE041	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Central Kenya	Wanguru	Pyricularia oryzae	Pyricularia oryzae KE041
+KE210	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2014	Kenya	Ahero	Pyricularia oryzae	Pyricularia oryzae KE210
+KE255	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2014	Kenya	Ahero	Pyricularia oryzae	Pyricularia oryzae KE255
+KE332	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2014	Kenya	Homabay	Pyricularia oryzae	Pyricularia oryzae KE332
+KE415	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2014	Kenya	Lungalunga	Pyricularia oryzae	Pyricularia oryzae KE415
+KE443	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2014	Kenya	Kikoneni	Pyricularia oryzae	Pyricularia oryzae KE443
+KE473	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2014	Kenya	Lungalunga	Pyricularia oryzae	Pyricularia oryzae KE473
+KE491	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2014	Kenya	Lungalunga	Pyricularia oryzae	Pyricularia oryzae KE491
+NG0110	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2010	Nigeria	Ibadan	Pyricularia oryzae	Pyricularia oryzae NG0110
+NG0135	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2009	Nigeria	Ibadan	Pyricularia oryzae	Pyricularia oryzae NG0135
+NG0153	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2009	Nigeria	Ibadan	Pyricularia oryzae	Pyricularia oryzae NG0153
+NGO104	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2010	Nigeria	Ibadan	Pyricularia oryzae	Pyricularia oryzae NGO104
+TG004	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2012	Togo	Elavayo	Pyricularia oryzae	Pyricularia oryzae TG004
+TZ090	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Tanzania	Ifakara	Pyricularia oryzae	Pyricularia oryzae TZ090
+UG08	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Uganda	Namulonge	Pyricularia oryzae	Pyricularia oryzae UG08
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+Oryzasativa									
+"Elavayo,Togo"									
+2012									
+Paired									
+bcl2fastq									
+21348265									
+C7T2RACXX									
+ERS2573624(SAMEA4753525)									
