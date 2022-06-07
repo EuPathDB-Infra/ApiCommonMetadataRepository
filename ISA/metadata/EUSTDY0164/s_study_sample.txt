@@ -1,0 +1,291 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [continent]	Characteristics [country]	Characteristics [city]	Characteristics [organism]	Characteristics [fungus organism]	specimen collection year	Characteristics [specimen]	Characteristics[parasite strain]
+a12_3B_10	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	1990	spore	Zymoseptoria tritici a12_3B_10
+a12_3B_20	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	1990	spore	Zymoseptoria tritici a12_3B_20
+a12_3B_4	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	1990	spore	Zymoseptoria tritici a12_3B_4
+a12_3B_9	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	1990	spore	Zymoseptoria tritici a12_3B_9
+a15_2A_8	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	1990	spore	Zymoseptoria tritici a15_2A_8
+a15_3B_1	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	1990	spore	Zymoseptoria tritici a15_3B_1
+ISY_Ar_15c	Population sequencing of Zymoseptoria tritici from infected wheat fields			Asia	Israel	n/a	Triticum aestivum	Zymoseptoria tritici	1992	spore	Zymoseptoria tritici ISY_Ar_15c
+ISY_Ar_17d	Population sequencing of Zymoseptoria tritici from infected wheat fields			Asia	Israel	n/a	Triticum aestivum	Zymoseptoria tritici	1992	spore	Zymoseptoria tritici ISY_Ar_17d
+ISY_Ar_1c	Population sequencing of Zymoseptoria tritici from infected wheat fields			Asia	Israel	n/a	Triticum aestivum	Zymoseptoria tritici	1992	spore	Zymoseptoria tritici ISY_Ar_1c
+ISY_Ar_2c	Population sequencing of Zymoseptoria tritici from infected wheat fields			Asia	Israel	n/a	Triticum aestivum	Zymoseptoria tritici	1992	spore	Zymoseptoria tritici ISY_Ar_2c
+ISY_Ar_4e	Population sequencing of Zymoseptoria tritici from infected wheat fields			Asia	Israel	n/a	Triticum aestivum	Zymoseptoria tritici	1992	spore	Zymoseptoria tritici ISY_Ar_4e
+ORE15_Mad_A1	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_A1
+ORE15_Mad_A2	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_A2
+ORE15_Mad_A3	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_A3
+ORE15_Mad_A4	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_A4
+ORE15_Mad_A5	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_A5
+ORE15_Mad_A6	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_A6
+ORE15_Mad_A7	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_A7
+ORE15_Mad_B1	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_B1
+ORE15_Mad_B3	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_B3
+ORE15_Mad_B4	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_B4
+ORE15_Mad_B5	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_B5
+ORE15_Mad_C1	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_C1
+ORE15_Mad_C2	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_C2
+ORE15_Mad_C3	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_C3
+ORE15_Mad_C4	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_C4
+ORE15_Mad_C5	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_C5
+ORE15_Mad_C6	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_C6
+ORE15_Mad_C7	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_C7
+ORE15_Mad_D1	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_D1
+ORE15_Mad_D2	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_D2
+ORE15_Mad_D3	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_D3
+ORE15_Mad_D4	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_D4
+ORE15_Mad_D5	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_D5
+ORE15_Mad_D6	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_D6
+ORE15_Mad_E1	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_E1
+ORE15_Mad_E2	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_E2
+ORE15_Mad_E3	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_E3
+ORE15_Mad_E4	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_E4
+ORE15_Mad_E5	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_E5
+ORE15_Mad_E6	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_E6
+ORE15_Mad_E7	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_E7
+ORE15_Mad_F1	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_F1
+ORE15_Mad_F2	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_F2
+ORE15_Mad_F3	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_F3
+ORE15_Mad_F4	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_F4
+ORE15_Mad_F5	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_F5
+ORE15_Mad_F6	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_F6
+ORE15_Mad_G1	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_G1
+ORE15_Mad_G2	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_G2
+ORE15_Mad_G3	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_G3
+ORE15_Mad_G4	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_G4
+ORE15_Mad_G5	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_G5
+ORE15_Mad_H1	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_H1
+ORE15_Mad_H2	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_H2
+ORE15_Mad_H3	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_H3
+ORE15_Mad_H4	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_H4
+ORE15_Mad_H7	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Mad_H7
+ORE15_Ste_A1	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A1
+ORE15_Ste_A10	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A10
+ORE15_Ste_A11	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A11
+ORE15_Ste_A12	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A12
+ORE15_Ste_A13	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A13
+ORE15_Ste_A14	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A14
+ORE15_Ste_A15	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A15
+ORE15_Ste_A16	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A16
+ORE15_Ste_A17	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A17
+ORE15_Ste_A18	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A18
+ORE15_Ste_A19	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A19
+ORE15_Ste_A2	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A2
+ORE15_Ste_A20	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A20
+ORE15_Ste_A21	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A21
+ORE15_Ste_A22	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A22
+ORE15_Ste_A23	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A23
+ORE15_Ste_A24	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A24
+ORE15_Ste_A25	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A25
+ORE15_Ste_A26	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A26
+ORE15_Ste_A27	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A27
+ORE15_Ste_A3	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A3
+ORE15_Ste_A4	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A4
+ORE15_Ste_A5	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A5
+ORE15_Ste_A6	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A6
+ORE15_Ste_A7	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A7
+ORE15_Ste_A8	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A8
+ORE15_Ste_A9	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_A9
+ORE15_Ste_B1	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B1
+ORE15_Ste_B10	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B10
+ORE15_Ste_B11	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B11
+ORE15_Ste_B12	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B12
+ORE15_Ste_B14	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B14
+ORE15_Ste_B15	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B15
+ORE15_Ste_B16	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B16
+ORE15_Ste_B17	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B17
+ORE15_Ste_B18	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B18
+ORE15_Ste_B19	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B19
+ORE15_Ste_B2	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B2
+ORE15_Ste_B20	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B20
+ORE15_Ste_B21	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B21
+ORE15_Ste_B22	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B22
+ORE15_Ste_B23	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B23
+ORE15_Ste_B24	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B24
+ORE15_Ste_B3	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B3
+ORE15_Ste_B4	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B4
+ORE15_Ste_B5	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B5
+ORE15_Ste_B6	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B6
+ORE15_Ste_B7	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B7
+ORE15_Ste_B8	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B8
+ORE15_Ste_B9	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	2015	spore	Zymoseptoria tritici ORE15_Ste_B9
+ST16CH_1A1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1A1
+ST16CH_1A11	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1A11
+ST16CH_1A27	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1A27
+ST16CH_1A57	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1A57
+ST16CH_1B31	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1B31
+ST16CH_1B73	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1B73
+ST16CH_1B8	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1B8
+ST16CH_1C12	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1C12
+ST16CH_1C31	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1C31
+ST16CH_1C52	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1C52
+ST16CH_1C65	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1C65
+ST16CH_1D1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1D1
+ST16CH_1D15	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1D15
+ST16CH_1D23	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1D23
+ST16CH_1D8	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1D8
+ST16CH_1E21	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1E21
+ST16CH_1E43	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1E43
+ST16CH_1E52	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1E52
+ST16CH_1E70	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1E70
+ST16CH_1F1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1F1
+ST16CH_1F11	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1F11
+ST16CH_1F19	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1F19
+ST16CH_1F4	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1F4
+ST16CH_1G30	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1G30
+ST16CH_1G47	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1G47
+ST16CH_1G8	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1G8
+ST16CH_1H12	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1H12
+ST16CH_1H32	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1H32
+ST16CH_1H34	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1H34
+ST16CH_1I10	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1I10
+ST16CH_1I3	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1I3
+ST16CH_1K16	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1K16
+ST16CH_1K29	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1K29
+ST16CH_1K42	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1K42
+ST16CH_1L32	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1L32
+ST16CH_1L46	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1L46
+ST16CH_1M21	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1M21
+ST16CH_1M28	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1M28
+ST16CH_1M33	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1M33
+ST16CH_1M59	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1M59
+ST16CH_1N1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1N1
+ST16CH_1N25	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1N25
+ST16CH_1N6	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1N6
+ST16CH_1O25	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1O25
+ST16CH_1O3	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1O3
+ST16CH_1O40	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1O40
+ST16CH_1O65	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1O65
+ST16CH_1P22	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1P22
+ST16CH_1P35	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1P35
+ST16CH_1P56	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1P56
+ST16CH_1P7	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1P7
+ST16CH_1Q10	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1Q10
+ST16CH_1Q24	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1Q24
+ST16CH_1Q48	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1Q48
+ST16CH_1R15	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1R15
+ST16CH_1R24	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1R24
+ST16CH_1R36	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1R36
+ST16CH_1R5	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1R5
+ST16CH_1S10	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1S10
+ST16CH_1S33	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1S33
+ST16CH_1S7	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1S7
+ST16CH_1S9	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1S9
+ST16CH_1T2	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1T2
+ST16CH_1T25	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1T25
+ST16CH_1T52	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1T52
+ST16CH_1U1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1U1
+ST16CH_1U30	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1U30
+ST16CH_1U6	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1U6
+ST16CH_1U9	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1U9
+ST16CH_1V12	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1V12
+ST16CH_1V20	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1V20
+ST16CH_1V4	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1V4
+ST16CH_1V50	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1V50
+ST16CH_1W18	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1W18
+ST16CH_1W32	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1W32
+ST16CH_1W9	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1W9
+ST16CH_1X1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1X1
+ST16CH_1X14	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1X14
+ST16CH_1X23	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1X23
+ST16CH_1X7	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_1X7
+ST16CH_2C1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2C1
+ST16CH_2C2	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2C2
+ST16CH_2C5	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2C5
+ST16CH_2C7	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2C7
+ST16CH_2G10	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2G10
+ST16CH_2G18	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2G18
+ST16CH_2G34	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2G34
+ST16CH_2G4	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2G4
+ST16CH_2gamma1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2gamma1
+ST16CH_2N5	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2N5
+ST16CH_2O1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2O1
+ST16CH_2O4	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2O4
+ST16CH_2O5	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2O5
+ST16CH_2P1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2P1
+ST16CH_2P3	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2P3
+ST16CH_2P5	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2P5
+ST16CH_2P7	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2P7
+ST16CH_2U14	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2U14
+ST16CH_2U2	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2U2
+ST16CH_2U24	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2U24
+ST16CH_2U7	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2U7
+ST16CH_2X1xx	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2X1xx
+ST16CH_2X2	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2X2
+ST16CH_2Z1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_2Z1
+ST16CH_3A16	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3A16
+ST16CH_3A31	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3A31
+ST16CH_3A36	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3A36
+ST16CH_3A51	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3A51
+ST16CH_3B1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3B1
+ST16CH_3B36	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3B36
+ST16CH_3B8	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3B8
+ST16CH_3C19	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3C19
+ST16CH_3C23	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3C23
+ST16CH_3C6	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3C6
+ST16CH_3C81	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3C81
+ST16CH_3D1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3D1
+ST16CH_3D10	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3D10
+ST16CH_3D6	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3D6
+ST16CH_3D7	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3D7
+ST16CH_3E23	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3E23
+ST16CH_3E34	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3E34
+ST16CH_3E45	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3E45
+ST16CH_3E9	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3E9
+ST16CH_3F2	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3F2
+ST16CH_3F4	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3F4
+ST16CH_3F7	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3F7
+ST16CH_3F9	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3F9
+ST16CH_3G26	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3G26
+ST16CH_3G34	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3G34
+ST16CH_3G46	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3G46
+ST16CH_3G6	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3G6
+ST16CH_3H26	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3H26
+ST16CH_3H33	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3H33
+ST16CH_3H43	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3H43
+ST16CH_3H49	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3H49
+ST16CH_3I14	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3I14
+ST16CH_3I23	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3I23
+ST16CH_3I5	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3I5
+ST16CH_3K1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3K1
+ST16CH_3K32	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3K32
+ST16CH_3K8	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3K8
+ST16CH_3L2	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3L2
+ST16CH_3L27	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3L27
+ST16CH_3M19	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3M19
+ST16CH_3M24	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3M24
+ST16CH_3M3	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3M3
+ST16CH_3M36	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3M36
+ST16CH_3N27	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3N27
+ST16CH_3N35	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3N35
+ST16CH_3N48	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3N48
+ST16CH_3N8	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3N8
+ST16CH_3O21	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3O21
+ST16CH_3O24	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3O24
+ST16CH_3O9	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3O9
+ST16CH_3P15	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3P15
+ST16CH_3P2	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3P2
+ST16CH_3P39	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3P39
+ST16CH_3Q24	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3Q24
+ST16CH_3Q36	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3Q36
+ST16CH_3Q9	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3Q9
+ST16CH_3R1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3R1
+ST16CH_3R26	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3R26
+ST16CH_3R32	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3R32
+ST16CH_3R39	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3R39
+ST16CH_3S1	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3S1
+ST16CH_3S9	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3S9
+ST16CH_3T31	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3T31
+ST16CH_3T39	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3T39
+ST16CH_3T5	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3T5
+ST16CH_3U42	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3U42
+ST16CH_3U55	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3U55
+ST16CH_3V10	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3V10
+ST16CH_3V27	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3V27
+ST16CH_3V30	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3V30
+ST16CH_3V43	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3V43
+ST16CH_3W21	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3W21
+ST16CH_3W3	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3W3
+ST16CH_3W9	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Eschikon	Triticum aestivum	Zymoseptoria tritici	2016	spore	Zymoseptoria tritici ST16CH_3W9
+ST99CH_15	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Berg am Irchel	Triticum aestivum	Zymoseptoria tritici	1999	spore	Zymoseptoria tritici ST99CH_15
+ST99CH_28	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Berg am Irchel	Triticum aestivum	Zymoseptoria tritici	1999	spore	Zymoseptoria tritici ST99CH_28
+ST99CH_SW39	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Berg am Irchel	Triticum aestivum	Zymoseptoria tritici	1999	spore	Zymoseptoria tritici ST99CH_SW39
+ST99CH_SW5	Population sequencing of Zymoseptoria tritici from infected wheat fields			Europe	Switzerland	 Berg am Irchel	Triticum aestivum	Zymoseptoria tritici	1999	spore	Zymoseptoria tritici ST99CH_SW5
