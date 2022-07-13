@@ -1,0 +1,12 @@
+Name	Description 	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [city]	Characteristics [Health status]	Characteristics [organism]	Characteristics [fungus organism]	Characteristics [fungal strain]
+S12	"SNPs on WGS of Histoplasma isolates from Alberta, Canada"			2018	Canada	North America	Alberta	Histoplasmosis	Homo sapiens	Histoplasma sp. 	Histoplasma sp. S12
+S11	"SNPs on WGS of Histoplasma isolates from Alberta, Canada"			2018	Canada	North America	Alberta	Histoplasmosis	Homo sapiens	Histoplasma sp. 	Histoplasma sp. S11
+S8	"SNPs on WGS of Histoplasma isolates from Alberta, Canada"			2018	Canada	North America	Alberta	Histoplasmosis	Homo sapiens	Histoplasma sp. 	Histoplasma sp. S8
+S7	"SNPs on WGS of Histoplasma isolates from Alberta, Canada"			2018	Canada	North America	Alberta	Histoplasmosis	Homo sapiens	Histoplasma sp. 	Histoplasma sp. S7
+S6	"SNPs on WGS of Histoplasma isolates from Alberta, Canada"			2018	Canada	North America	Alberta	Histoplasmosis	Homo sapiens	Histoplasma sp. 	Histoplasma sp. S6
+S5	"SNPs on WGS of Histoplasma isolates from Alberta, Canada"			2018	Canada	North America	Alberta	Histoplasmosis	Homo sapiens	Histoplasma sp. 	Histoplasma sp. S5
+S4	"SNPs on WGS of Histoplasma isolates from Alberta, Canada"			2018	Canada	North America	Alberta	Histoplasmosis	Homo sapiens	Histoplasma sp. 	Histoplasma sp. S4
+S3	"SNPs on WGS of Histoplasma isolates from Alberta, Canada"			2018	Canada	North America	Alberta	Histoplasmosis	Homo sapiens	Histoplasma sp. 	Histoplasma sp. S3
+S13	"SNPs on WGS of Histoplasma isolates from Alberta, Canada"			2018	Canada	North America	Alberta	Histoplasmosis	Homo sapiens	Histoplasma sp. 	Histoplasma sp. S13
+S2	"SNPs on WGS of Histoplasma isolates from Alberta, Canada"			2018	Canada	North America	Alberta	Histoplasmosis	Homo sapiens	Histoplasma sp. 	Histoplasma sp. S2
+S1	"SNPs on WGS of Histoplasma isolates from Alberta, Canada"			2018	Canada	North America	Alberta	Histoplasmosis	Homo sapiens	Histoplasma sp. 	Histoplasma sp. S1
