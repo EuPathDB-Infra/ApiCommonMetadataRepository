@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [continent]	Characteristics [country]	Characteristics [city]	Characteristics [organism]	Characteristics [fungus organism]	specimen collection year	Characteristics [specimen]	Characteristics[parasite strain]
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [continent]	Characteristics [country]	Characteristics [city]	Characteristics [organism]	Characteristics [fungus organism]	specimen collection year	Characteristics [specimen]	Characteristics[fungal strain]
 a12_3B_10	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	1990	spore	Zymoseptoria tritici a12_3B_10
 a12_3B_20	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	1990	spore	Zymoseptoria tritici a12_3B_20
 a12_3B_4	Population sequencing of Zymoseptoria tritici from infected wheat fields			North America	USA	 Oregon	Triticum aestivum	Zymoseptoria tritici	1990	spore	Zymoseptoria tritici a12_3B_4
