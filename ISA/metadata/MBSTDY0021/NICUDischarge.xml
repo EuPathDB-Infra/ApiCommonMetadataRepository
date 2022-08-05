@@ -5,7 +5,7 @@
 
     <node name="Source" type="Participant" suffix="Source"  /> 
     <node name="Sample" type="Sample"/>
-    <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS"/>
+    <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS" idColumn="name" />
 
 
     <edge input="Source" output="Sample">
