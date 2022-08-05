@@ -32,7 +32,7 @@ sub idc {
 sub a1 {
   my ($suffix, $type) = @_;
   die unless $suffix and $type;
-  return sprintf('<node isaObject="Assay" name="%s" type="%s" suffix="%s"/>', $suffix, $type, $suffix);
+  return sprintf('<node isaObject="Assay" name="%s" type="%s" suffix="%s" idColumn="name"/>', $suffix, $type, $suffix);
 }
 sub a2 {
   my ($suffix) = @_;

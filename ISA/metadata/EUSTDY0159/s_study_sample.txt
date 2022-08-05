@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SourceMTOverride	host_common_name	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [parasite organism]	Characteristics [parasite strain]
+Name	Description	SourceMTOverride	SourceMTOverride	host_common_name	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [fungus organism]	Characteristics [fungal strain]
 BF17	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Burkina Faso		Pyricularia oryzae	Pyricularia oryzae BF17
 BF32	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Burkina Faso	Banfora	Pyricularia oryzae	Pyricularia oryzae BF32
 BF48	SNPs calls on WGS data of sixty Pyricularia oryzae isolates			Oryza sativa	2013	Burkina Faso	Banfora	Pyricularia oryzae	Pyricularia oryzae BF48

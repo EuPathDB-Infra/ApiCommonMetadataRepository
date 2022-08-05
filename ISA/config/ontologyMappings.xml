@@ -998,7 +998,9 @@
   <ontologyTerm source_id="NCBITaxon_4564" type="characteristicValue" parent="characteristicQualifier">
     <name>wheat</name>
   </ontologyTerm>
-
+ <ontologyTerm source_id="NCBITaxon_4565" type="characteristicValue" parent="characteristicQualifier">
+    <name>Triticum aestivum</name>
+  </ontologyTerm>
 
 <!-- GAZ country values  -->
   <ontologyTerm source_id="GAZ_00002945" type="characteristicValue" parent="characteristicQualifier">
@@ -1414,7 +1416,16 @@
 <ontologyTerm source_id="NCIT_C43474" type="characteristicValue" parent="characteristicQualifier">
     <name>NC</name>
   </ontologyTerm>
-
+<ontologyTerm source_id="NCIT_C17006" type="characteristicValue" parent="characteristicQualifier">
+    <name>Portugal</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C16333" type="characteristicValue" parent="characteristicQualifier">
+    <name>Benin</name>
+  </ontologyTerm>
+<ontologyTerm source_id="NCIT_C16769" type="characteristicValue" parent="characteristicQualifier">
+    <name>Kenya</name>
+    <name>Central Kenya</name>
+  </ontologyTerm>
 <!--GeographicLocation-->
   <ontologyTerm source_id="ENVO_00002990" type="characteristicValue" parent="characteristicQualifier">
     <name>Miombo Woodlands</name>

@@ -5,7 +5,7 @@
 
     <node name="Source" type="Participant" suffix="Source" idColumn="host_subject_id" /> 
     <node name="Sample" type="Sample"/>
-    <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V4 region" suffix="16S"/>
+    <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V4 region" suffix="16S" idColumn="name" />
 
 
     <edge input="Source" output="Sample">
