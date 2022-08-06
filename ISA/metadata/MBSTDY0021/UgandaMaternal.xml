@@ -5,8 +5,8 @@
 
     <node name="Source" type="Participant" suffix="Source"  /> 
     <node name="Sample" type="Sample"/>
-    <node isaObject="Assay" name="16S_V1_V2" type="16S rRNA sequencing assay targeting V1-V2 region" suffix="16S_V1_V2" idColumn="name"  idColumn="name" />
-<node isaObject="Assay" name="16S_V3_V4" type="16S rRNA sequencing assay targeting V3-V4 region" suffix="16S_V3_V4" idColumn="name"  idColumn="name" />
+    <node isaObject="Assay" name="16S_V1_V2" type="16S rRNA sequencing assay targeting V1-V2 region" suffix="16S_V1_V2" idColumn="name" />
+<node isaObject="Assay" name="16S_V3_V4" type="16S rRNA sequencing assay targeting V3-V4 region" suffix="16S_V3_V4" idColumn="name" />
 
 
     <edge input="Source" output="Sample">

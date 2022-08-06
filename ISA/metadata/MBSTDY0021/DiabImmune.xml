@@ -5,8 +5,8 @@
 
     <node name="Source" type="Participant" suffix="Source"  /> 
     <node name="Sample" type="Sample"/>
-    <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V4 region" suffix="16S" idColumn="name"  idColumn="name" />
-<node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS" idColumn="name"  idColumn="name" />
+    <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V4 region" suffix="16S" idColumn="name" />
+    <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS" idColumn="name"  idColumn="name" />
 
 
     <edge input="Source" output="Sample">
