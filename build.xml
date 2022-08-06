@@ -1,4 +1,4 @@
-<project name="ApiCommonMetadataRepository" default="Installation" basedir=".">
+<project name="ApiCommonMetadataRepository" basedir=".">
 
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
   <!-- oooooooooooooooooooooooooo  Installation  oooooooooooooooooooooooooo -->
@@ -11,58 +11,13 @@
     </ant>
   </target>
 
-
-  <!-- oooooooooooooooooo  Installation Postprocess  ooooooooooooooooooooo -->
-
-  <target name="ApiCommonMetadataRepository-Installation-postprocess">
-    <echo
-      message="Postprocessing the ApiCommonMetadataRepository installation" />
-
-    <replace dir="${targetDir}/bin"
-             propertyFile="${targetDir}/config/replacements.prop">
-      <include name="**/*" />
-      <replacefilter token="@perl@" property="perl" />
-    </replace>
-
-  </target>
-
-
   <!-- ooooooooooooooooooooooo  Install Components  ooooooooooooooooooooooo -->
 
-  <target name="ApiCommonMetadataRepository/ISA-Installation"
-          depends="ProjectTree">
+  <target name="ApiCommonMetadataRepository/ISA-Installation">
     <ant target="defaultComponentInstall">
       <property name="project" value="ApiCommonMetadataRepository" />
       <property name="component" value="ISA" />
     </ant>
-
-
-  </target>
-
-
-  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
-  <!-- oooooooooooooooooooooooooo  Distributable  ooooooooooooooooooooooooo -->
-  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
-
-  <target name="ApiCommonMetadataRepository-Distributable"
-          depends="ProjectTree">
-
-    <copy todir="${targetDir}">
-      <fileset dir="${projectsDir}">
-        <exclude name="**/CVS/*" />
-      </fileset>
-    </copy>
-  </target>
-
-
-  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
-  <!-- oooooooooooooooooooooooooo  ProjectTree  ooooooooooooooooooooooooooo -->
-  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
-
-  <target name="ProjectTree" if="${checkout}">
-    <ant target="projectCheckOut" />
   </target>
 
 </project>
-
-
