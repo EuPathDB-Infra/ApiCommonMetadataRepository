@@ -1,0 +1,7 @@
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [Health status]	Characteristics [organism]	Characteristics [specimen]	latitude	longitude	Characteristics [fungus organism]	Characteristics [fungal strain]
+CNISP-0002	SNP calls on WGS of Candida auris isolated in Canada			PUBLIC HEALTH AGENCY OF CANADA	2018	Canada	North America	Colonization	Homo sapiens	Healthcare	49.91 N	97.16 W	Candida auris	Candida auris CNISP-0002
+CNISP-0001	SNP calls on WGS of Candida auris isolated in Canada			PUBLIC HEALTH AGENCY OF CANADA	2018	Canada	North America	Colonization	Homo sapiens	Healthcare	49.91 N	97.16 W	Candida auris	Candida auris CNISP-0001
+N18-01914	SNP calls on WGS of Candida auris isolated in Canada			NML	2018	Canada	North America	Fungal colonization	Homo sapiens	Axilla	49.26 N	123.16 W	Candida auris	Candida auris N18-01914
+N18-01800	SNP calls on WGS of Candida auris isolated in Canada			NML	2018	Canada	North America	Candidemia	Homo sapiens	blood	49.26 N	123.16 W	Candida auris	Candida auris N18-01800
+N18-01798	SNP calls on WGS of Candida auris isolated in Canada			NML	2018	Canada	North America	Fungal colonization	Homo sapiens	Axilla	49.26 N	123.16 W	Candida auris	Candida auris N18-01798
+N18-01799	SNP calls on WGS of Candida auris isolated in Canada			NML	2018	Canada	North America	Wound	Homo sapiens	Toe Surgical Site	49.26 N	123.16 W	Candida auris	Candida auris N18-01799
