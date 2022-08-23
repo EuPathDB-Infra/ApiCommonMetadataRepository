@@ -2,7 +2,7 @@
 
 <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
 
-  <dataset>caur6684_HTS_SNP_Vogelzang_Caur_2019_PRJNA560710_RSRC</dataset>
+  <dataset>caurB8441_HTS_SNP_Vogelzang_Caur_2019_PRJNA560710_RSRC</dataset>
 
   <node name="Source" type="host" suffix="Source"/>  
   <node name="Sample" type="sample from organism"/>  
