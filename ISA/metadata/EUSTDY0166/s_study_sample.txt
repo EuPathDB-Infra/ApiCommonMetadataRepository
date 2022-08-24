@@ -1,0 +1,17 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [specimen]	latitude	longitude	Characteristics [fungus organism]	Characteristics [fungal strain]
+VPCI-F38-B-2021				7/26/21	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F38-B-2021
+VPCI-F38-A-2021				7/26/21	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F38-A-2021
+VPCI-F36-A-2021				7/26/21	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F36-A-2021
+VPCI-F35-A-2021				4/6/21	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F35-A-2021
+VPCI-F6-B-2020				4/15/20	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F6-B-2020
+VPCI-F1-B-2020				3/16/20	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F1-B-2020
+VPCI-F39-A-2021				7/26/21	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F39-A-2021
+VPCI-F37-B-2021				7/26/21	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F37-B-2021
+VPCI-F35-B-2021				4/6/21	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F35-B-2021
+VPCI-F6-E-2020				4/15/20	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F6-E-2020
+VPCI-F6-C-2020				4/15/20	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F6-C-2020
+VPCI-F6-A-2020				4/15/20	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F6-A-2020
+VPCI-F5-A-2020				3/16/20	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F5-A-2020
+VPCI-F37-A-2021				7/26/21	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F37-A-2021
+VPCI-F6-D-2020				4/15/20	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F6-D-2020
+VPCI-F1-A-2020				3/16/20	India	Asia	fruit	28.4020 N	76.8260 E	[Candida] auris	[Candida] auris VPCI-F1-A-2020
