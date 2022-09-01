@@ -1,0 +1,54 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics [continent]	Characteristics [country]	Characteristics[city]	Characteristics[city]	Characteristics [Health status]	Characteristics [specimen]	latitude	longitude	Characteristics [fungus organism]	Characteristics [organism]	Characteristics [fungal strain]
+AF100-12_37				10/1/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-12_37
+AF100-12_24				10/1/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-12_24
+AF100-12_21				10/1/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-12_21
+AF100-12_2				10/1/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-12_2
+204NB-8					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus 204NB-8
+84_NIH					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus 84_NIH
+Oryx_1				3/13/15	North America	USA	New Mexico	SevLTER	Allergic Broncho-pulmonary Aspergillosis	Oryx droppings	34.368611 N	106.535 W	Aspergillus fumigatus	Oryx	Aspergillus fumigatus Oryx_1
+AF100-12_10				10/1/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-12_10
+Moose_3_1_2				3/30/15	North America	USA	Colorado	State	Forest	Park	40.504722 N	105.99 W	Aspergillus fumigatus	Moose	Aspergillus fumigatus Moose_3_1_2
+Mg18-1					North America	USA			Allergic Broncho-pulmonary Aspergillosis	plate contaminant	40.504722 N	105.99 W	Aspergillus fumigatus		Aspergillus fumigatus Mg18-1
+DMC2_AF1001_15				2/11/14	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF1001_15
+DMC2_AF100-9B				10/13/17	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-9B
+DMC2_AF100-8B				4/19/17	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-8B
+DMC2_AF100-7B				1/20/17	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-7B
+DMC2_AF100-6B				5/10/16	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-6B
+DMC2_AF100-5B				12/9/15	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-5B
+DMC2_AF100-4B				5/1/15	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-4B
+DMC2_AF100-3B				1/7/15	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-3B
+AF100-11B				5/2/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-11B
+DMC2_AF100-2B				8/25/14	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-2B
+DMC2_AF100-12_9				10/1/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-12_9
+DMC2_AF100-1_8				2/11/14	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-1_8
+DMC2_AF100-1_3				2/11/14	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-1_3
+DMC2_AF100-1_24				2/11/14	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-1_24
+DMC2_AF100-1_20_C				2/11/14	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-1_20_C
+DMC2_AF100-1_14				2/11/14	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus DMC2_AF100-1_14
+B8783_CDC-17					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus B8783_CDC-17
+B5960CDC_29					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus B5960CDC_29
+B5461_CDC-2					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus B5461_CDC-2
+AF100-11A				5/2/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-11A
+B5460_CDC-13					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus B5460_CDC-13
+B5289_CDC-25					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus B5289_CDC-25
+B5288_CDC-16					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus B5288_CDC-16
+B5269_CDC-24					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus B5269_CDC-24
+B5259_CDC-23					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus B5259_CDC-23
+B5258CDC_22					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus B5258CDC_22
+B5224_CDC-21					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus B5224_CDC-21
+B1821_CDC-8					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus B1821_CDC-8
+B10540_CDC-20					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus B10540_CDC-20
+AFUG_100413-0667				10/4/13	North America	USA			Allergic Broncho-pulmonary Aspergillosis		43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AFUG_100413-0667
+AF100-11_3				5/2/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-11_3
+AFUG_082015-1200				8/20/15	North America	USA			Allergic Broncho-pulmonary Aspergillosis		43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AFUG_082015-1200
+AFUG_031815-1869				3/18/15	North America	USA			Allergic Broncho-pulmonary Aspergillosis		43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AFUG_031815-1869
+AFIS1435CDC_6					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AFIS1435CDC_6
+AFIS_23107_CDC-12					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AFIS_23107_CDC-12
+AFIS_2302_CDC-18					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AFIS_2302_CDC-18
+AFIS_13708_CDC-14					North America	USA			Allergic Broncho-pulmonary Aspergillosis			 	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AFIS_13708_CDC-14
+AF100-12_7G				10/1/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-12_7G
+AF100-12_7				10/1/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-12_7
+AF100-12_5				10/1/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-12_5
+AF100-12_3G				10/1/18	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-12_3G
+AF100-10B				12/28/17	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-10B
+AF100-10_5				12/28/17	North America	USA	New Hampshire	Lebanon	Allergic Broncho-pulmonary Aspergillosis	sputum	43.6423 N	72.2518 W	Aspergillus fumigatus	Homo sapiens	Aspergillus fumigatus AF100-10_5
