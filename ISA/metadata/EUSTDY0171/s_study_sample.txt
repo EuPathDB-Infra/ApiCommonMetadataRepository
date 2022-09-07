@@ -1,0 +1,9 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
+BTJP4-1_resequenced				wheat	Pyricularia oryzae	Pyricularia oryzae BTJP4-1_resequenced
+FR13_resequenced				Oryza sativa	Pyricularia oryzae	Pyricularia oryzae FR13_resequenced
+US71_resequenced				Setaria italica	Pyricularia oryzae	Pyricularia oryzae US71_resequenced
+BR32_resequenced				Digitaria horizontalis	Pyricularia oryzae	Pyricularia oryzae BR32_resequenced
+CD156_resequenced				Eleusine indica	Pyricularia oryzae	Pyricularia oryzae CD156_resequenced
+BTMP13_1				Eleusine indica	Pyricularia oryzae	Pyricularia oryzae BTMP13_1
+BTGP1-b_resequenced				Oryza sativa	Pyricularia oryzae	Pyricularia oryzae BTGP1-b_resequenced
+BTGP6-f_resequenced				wheat	Pyricularia oryzae	Pyricularia oryzae BTGP6-f_resequenced

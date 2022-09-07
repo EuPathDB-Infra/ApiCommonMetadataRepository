@@ -1,0 +1,4 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
+FR13				Oryza sativa	Pyricularia oryzae	Pyricularia oryzae FR13
+US71				Setaria italica	Pyricularia oryzae	Pyricularia oryzae US71
+CD156				Eleusine indica	Pyricularia oryzae	Pyricularia oryzae CD156
