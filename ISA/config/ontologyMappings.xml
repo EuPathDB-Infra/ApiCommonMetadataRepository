@@ -127,7 +127,7 @@
   <ontologyTerm source_id="EUPATH_0000499" type="characteristicQualifier" parent="Source">
     <name>lab host</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000512" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="OBI_0003074" type="characteristicQualifier" parent="Source">
     <name>host_common_name</name>
   </ontologyTerm>
 
@@ -150,11 +150,11 @@
   <ontologyTerm source_id="PATO_0001415" type="characteristicQualifier" parent="Source">
     <name>morbidity</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OGMS_0000073" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="OGMS_0000123" type="characteristicQualifier" parent="Source">
     <name>health_status</name>
     <name>health status</name>    
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000110" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="OBI_0003073" type="characteristicQualifier" parent="Source">
     <name>body_temperature</name>    
     <name>temperature</name>
     <function>splitUnitFromValue</function>
@@ -523,7 +523,7 @@
     <name>alternative sample ID</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="NCIT_C14209" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="NCBITaxon_4751" type="characteristicQualifier" parent="Sample">
     <name>fungus organism</name>
   </ontologyTerm>
   <ontologyTerm source_id="OPL_0000232" type="characteristicQualifier" parent="Sample">
@@ -675,7 +675,7 @@
   <ontologyTerm source_id="EUPATH_0005005" type="characteristicQualifier" parent="Sample">
     <name>Lineage</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0005006" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="NCBITaxon_2665964" type="characteristicQualifier" parent="Sample">
     <name>VNI subdivision</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001616" type="characteristicQualifier" parent="Sample">
