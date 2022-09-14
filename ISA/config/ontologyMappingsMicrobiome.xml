@@ -65,6 +65,39 @@
     <name>data transformation</name>
   </ontologyTerm> 
 
+
+  <ontologyTerm source_id="OBI_0000438" type="protocol">
+    <name>DNA Sequence variation detection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0600055" type="protocol">
+    <name>RFLP assay</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0302884" type="protocol">
+    <name>extraction</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000661" type="protocol">
+    <name>enzyme-linked immunosorbent assay</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000743" type="protocol">
+    <name>immune response assay</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_1110021" type="protocol">
+    <name>infection process</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000073" type="protocol">
+    <name>sample preparation for assay</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000995" type="protocol">
+    <name>administration of material to specimen</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0600038" type="protocol">
+    <name>labeling</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0302903" type="protocol">
+    <name>nucleic acid hybridization</name>
+  </ontologyTerm>
+
+
   <!-- Characteristics associated with Source -->
 
   <ontologyTerm source_id="EUPATH_0009216" type="characteristicQualifier" parent="Source">
