@@ -411,7 +411,7 @@
   <ontologyTerm source_id="EUPATH_0009002" type="characteristicQualifier" parent="Source">
     <name>source</name>
   </ontologyTerm>
-  <ontologyTerm source_id="EUPATH_0000606" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="OBI_0003071" type="characteristicQualifier" parent="Source">
     <name>subject</name>
     <name>child ID</name>
     <name>host_subject_id</name>
@@ -715,6 +715,13 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009125" type="characteristicQualifier" parent="Source">
     <name>Antibiotic_Treatment</name>
+    <name>antibiotics</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CMO_0000105" type="characteristicQualifier" parent="Source">
+    <name>host_body_mass_index</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0010075" type="characteristicQualifier" parent="Source">
+    <name>host_height</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009126" type="characteristicQualifier" parent="Source">
     <name>Indication</name>
