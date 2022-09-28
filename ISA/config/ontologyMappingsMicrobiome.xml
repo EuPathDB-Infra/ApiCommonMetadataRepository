@@ -1231,7 +1231,10 @@
   <ontologyTerm source_id="EUPATH_0030004" type="characteristicQualifier" parent="Source">
     <name>village_code</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="OBI_0001508" type="characteristicQualifier" parent="Source">
+    <name>Study timepoint</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
 
   <!-- Characteristics associated with Sample -->
 
