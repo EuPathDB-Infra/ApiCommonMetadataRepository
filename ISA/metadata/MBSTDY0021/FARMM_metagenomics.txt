@@ -1,0 +1,475 @@
+name	description	sourcemtoverride	sourcemtoverride	subject_id	Study timepoint	sample_type	diet	antibiotics	country	City	env_feature	latitude	longitude	host_height	Host weight (kg)	host_body_mass_index	host_age	case_control	host_common_name	body_habitat	host_body_site	host_body_product
+SRR13004524	S.150116.00011			9002	1 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004523	S.150116.00035			9002	2 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004934	S.150116.00048			9002	3 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004823	S.150116.00061			9002	4 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004712	S.150116.00082			9002	5 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004627	S.150116.00111			9002	6 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004616	S.150116.00124			9002	7 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004581	S.150116.00159			9002	9 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004570	S.150116.00188			9002	10 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004535	S.150116.00200			9002	11 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004522	S.150116.00217			9002	12 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004601	S.150116.00242			9002	13 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004590	S.150116.00255			9002	14 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004555	S.150116.00275			9002	15 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	168	60.1	21.3	20 years	FALSE	Human	Colon	colon	feces
+SRR13004544	S.150116.00311			9003	0 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004515	S.150116.00320			9003	1 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004504	S.150116.00356			9003	2 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004967	S.150116.00370			9003	3 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004956	S.150116.00389			9003	4 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004945	S.150116.00437			9003	6 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004933	S.150116.00451			9003	7 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004922	S.150116.00465			9003	8 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004911	S.150116.00488			9003	9 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004900	S.150116.00518			9003	10 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004889	S.150116.00532			9003	11 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004878	S.150116.00551			9003	12 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004867	S.150116.00577			9003	13 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004856	S.150116.00591			9003	14 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004845	S.150116.00613			9003	15 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	61.7	20.3	21 years	FALSE	Human	Colon	colon	feces
+SRR13004834	S.150116.00649			9004	1 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004822	S.150120.00001			9004	2 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004811	S.150120.00014			9004	3 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004800	S.150120.00027			9004	4 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004789	S.150120.00047			9004	5 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004778	S.150120.00077_2			9004	6 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004767	S.150120.00090			9004	7 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004756	S.150120.00124			9004	9 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004745	S.150120.00154			9004	10 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004734	S.150120.00166			9004	11 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004723	S.150120.00183			9004	12 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004711	S.150120.00208			9004	13 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004700	S.150120.00221			9004	14 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004689	S.150120.00241			9004	15 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176.2	67.3	21.7	25 years	FALSE	Human	Colon	colon	feces
+SRR13004678	S.150127.00007			9005	0 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004667	S.150127.00052			9005	2 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004656	S.150127.00066			9005	3 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004645	S.150127.00085			9005	4 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004634	S.150127.00133			9005	6 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004629	S.150127.00147			9005	7 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004628	S.150127.00161			9005	8 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004626	S.150127.00183			9005	9 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004625	S.150127.00214			9005	10 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004624	S.150127.00228			9005	11 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004623	S.150127.00247			9005	12 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004622	S.150127.00273			9005	13 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004621	S.150127.00287			9005	14 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004620	S.150127.00309			9005	15 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180	70	21.6	24 years	FALSE	Human	Colon	colon	feces
+SRR13004619	S.150211.00007			9006	0 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004618	S.150211.00016			9006	1 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004617	S.150211.00052			9006	2 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004615	S.150211.00066			9006	3 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004614	S.150211.00080			9006	4 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004613	S.150211.00102			9006	5 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004612	S.150211.00133			9006	6 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004587	S.150211.00147			9006	7 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004586	S.150211.00161			9006	8 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004585	S.150211.00183			9006	9 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004584	S.150211.00214			9006	10 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004583	S.150211.00228			9006	11 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004582	S.150211.00247			9006	12 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004580	S.150211.00273			9006	13 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004579	S.150211.00287			9006	14 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004578	S.150211.00309			9006	15 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	87.3	28.2	25 years	FALSE	Human	Colon	colon	feces
+SRR13004577	S.150303.00011			9008	1 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004576	S.150306.00001			9008	2 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004575	S.150306.00014			9008	3 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004574	S.150306.00027			9008	4 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004573	S.150306.00047			9008	5 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004572	S.150306.00077			9008	6 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004571	S.150306.00090			9008	7 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004569	S.150306.00124			9008	9 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004568	S.150306.00154			9008	10 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004567	S.150306.00166			9008	11 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004566	S.150306.00183			9008	12 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004565	S.150306.00208			9008	13 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004564	S.150306.00221			9008	14 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004539	S.150306.00241			9008	15 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178.3	63.5	20	24 years	FALSE	Human	Colon	colon	feces
+SRR13004538	S.150326.00007			9009	0 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004537	S.150323.00054			9009	3 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004536	S.150323.00068			9009	4 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004534	S.150323.00090			9009	5 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004533	S.150323.00121			9009	6 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004532	S.150323.00135			9009	7 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004531	S.150323.00149			9009	8 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004530	S.150323.00171			9009	9 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004529	S.150323.00202			9009	10 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004528	S.150323.00216			9009	11 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004527	S.150323.00235			9009	12 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004526	S.150323.00261			9009	13 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004525	S.150323.00297			9009	15 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174	67.8	22.4	24 years	FALSE	Human	Colon	colon	feces
+SRR13004611	S.150331.00007			9010	0 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004610	S.150331.00016			9010	1 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004609	S.150331.00052			9010	2 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004608	S.150331.00066			9010	3 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004607	S.150331.00080			9010	4 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004606	S.150331.00102			9010	5 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004605	S.150331.00133			9010	6 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004604	S.150331.00161			9010	8 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004603	S.150331.00183			9010	9 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004602	S.150331.00214			9010	10 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004600	S.150331.00228			9010	11 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004599	S.150331.00247			9010	12 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004598	S.150331.00273			9010	13 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004597	S.150331.00309			9010	15 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.7	63.4	21.8	24 years	FALSE	Human	Colon	colon	feces
+SRR13004596	S.150514.00652			9013	0 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004595	S.150514.00697			9013	2 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004594	S.150514.00711			9013	3 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004593	S.150514.00725			9013	4 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004592	S.150514.00748			9013	5 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004591	S.150514.00778			9013	6 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004589	S.150514.00806			9013	8 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004588	S.150514.00829			9013	9 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004563	S.150514.00859			9013	10 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004562	S.150514.00873			9013	11 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004561	S.150514.00892			9013	12 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004560	S.150514.00918			9013	13 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004559	S.150514.00954			9013	15 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	184	81.6	24.1	36 years	FALSE	Human	Colon	colon	feces
+SRR13004558	S.150518.00032			9014	1 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004557	S.150518.00056			9014	2 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004556	S.150518.00069			9014	3 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004554	S.150518.00082			9014	4 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004553	S.150518.00102			9014	5 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004552	S.150518.00132			9014	6 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004551	S.150518.00145			9014	7 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004550	S.150518.00179			9014	9 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004549	S.150518.00209			9014	10 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004548	S.150518.00221			9014	11 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004547	S.150518.00238			9014	12 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004546	S.150518.00263			9014	13 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004545	S.150518.00276			9014	14 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004543	S.150518.00296			9014	15 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	167	58.4	20.9	24 years	FALSE	Human	Colon	colon	feces
+SRR13004542	S.150707.00086			9015	0 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004541	S.150701.01629			9015	1 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004540	S.150701.01665			9015	2 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004521	S.150701.01679			9015	3 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004520	S.150701.01693			9015	4 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004519	S.150701.01800			9015	5 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004518	S.150701.01767			9015	6 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004517	S.150701.01830			9015	7 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004516	S.150701.01867			9015	9 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004514	S.150701.01897			9015	10 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004513	S.150702.00031			9015	12 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004512	S.150702.00057			9015	13 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004511	S.150702.00071			9015	14 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004510	S.150702.00093			9015	15 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	61.3	20.5	23 years	FALSE	Human	Colon	colon	feces
+SRR13004509	S.150714.00007			9016	0 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004508	S.150710.00086			9016	2 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004507	S.150710.00100			9016	3 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004506	S.150710.00137			9016	5 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004505	S.150710.00167			9016	6 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004503	S.150710.00181			9016	7 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004502	S.150710.00195			9016	8 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004501	S.150710.00218			9016	9 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004500	S.150710.00248			9016	10 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004499	S.150710.00262			9016	11 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004498	S.150710.00281			9016	12 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004971	S.150710.00307			9016	13 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004970	S.150710.00321			9016	14 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004969	S.150710.00343			9016	15 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	165.7	70.2	25.6	38 years	FALSE	Human	Colon	colon	feces
+SRR13004968	S.150720.00007			9017	1 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004966	S.150720.00031			9017	2 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004965	S.150720.00044			9017	3 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004964	S.150720.00057			9017	4 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004963	S.150720.00077			9017	5 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004962	S.150720.00107			9017	6 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004961	S.150720.00120			9017	7 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004960	S.150720.00154			9017	9 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004959	S.150720.00184			9017	10 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004958	S.150720.00196			9017	11 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004957	S.150720.00213			9017	12 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004955	S.150720.00238			9017	13 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004954	S.150720.00251			9017	14 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004953	S.150720.00271			9017	15 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	183.3	69.3	20.6	25 years	FALSE	Human	Colon	colon	feces
+SRR13004952	S.150813.00007			9019	0 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004951	S.150811.00039			9019	1 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004950	S.150811.00075			9019	2 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004949	S.150811.00089			9019	3 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004948	S.150811.00103			9019	4 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004947	S.150811.00126			9019	5 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004946	S.150811.00156			9019	6 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004944	S.150811.00170			9019	7 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004943	S.150811.00184			9019	8 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004942	S.150811.00207			9019	9 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004941	S.150811.00237			9019	10 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004940	S.150811.00251			9019	11 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004939	S.150811.00270			9019	12 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004938	S.150811.00296			9019	13 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004937	S.150811.00310			9019	14 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004936	S.150811.00332			9019	15 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	174.3	66.3	21.8	37 years	FALSE	Human	Colon	colon	feces
+SRR13004935	S.150826.00049			9022	1 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004932	S.150826.00073			9022	2 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004931	S.150826.00086			9022	3 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004930	S.150826.00099			9022	4 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004929	S.150826.00119			9022	5 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004928	S.150826.00149			9022	6 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004927	S.150826.00162			9022	7 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004926	S.150826.00196			9022	9 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004925	S.150826.00226			9022	10 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004924	S.150826.00238			9022	11 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004923	S.150826.00255			9022	12 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004921	S.150826.00293			9022	14 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004920	S.150826.00313			9022	15 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187	76.2	21.8	25 years	FALSE	Human	Colon	colon	feces
+SRR13004919	S.150911.00105			9024	0 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004918	S.150911.00114			9024	1 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004917	S.150911.00150			9024	2 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004916	S.150911.00164			9024	3 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004915	S.150911.00178			9024	4 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004914	S.150911.00200			9024	5 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004913	S.150911.00231			9024	6 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004912	S.150911.00245			9024	7 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004910	S.150911.00326			9024	11 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004909	S.150911.00345			9024	12 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004908	S.150911.00371			9024	13 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004907	S.150911.00385			9024	14 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004906	S.150911.00407			9024	15 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	159.7	88.3	34.6	28 years	FALSE	Human	Colon	colon	feces
+SRR13004905	S.150928.00040			9025	0 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	95.5	30.8	28 years	FALSE	Human	Colon	colon	feces
+SRR13004904	S.150923.00139			9025	1 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	95.5	30.8	28 years	FALSE	Human	Colon	colon	feces
+SRR13004903	S.150923.00208			9025	4 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	95.5	30.8	28 years	FALSE	Human	Colon	colon	feces
+SRR13004902	S.150923.00270			9025	7 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	95.5	30.8	28 years	FALSE	Human	Colon	colon	feces
+SRR13004901	S.150923.00284			9025	8 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	95.5	30.8	28 years	FALSE	Human	Colon	colon	feces
+SRR13004899	S.150923.00306			9025	9 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	95.5	30.8	28 years	FALSE	Human	Colon	colon	feces
+SRR13004898	S.150923.00337			9025	10 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	95.5	30.8	28 years	FALSE	Human	Colon	colon	feces
+SRR13004897	S.150923.00370			9025	13 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	95.5	30.8	28 years	FALSE	Human	Colon	colon	feces
+SRR13004896	S.150923.00401			9025	15 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	95.5	30.8	28 years	FALSE	Human	Colon	colon	feces
+SRR13004895	S.151015.00007			9026	1 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004894	S.151015.00031			9026	2 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004893	S.151015.00057			9026	4 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004892	S.151015.00077			9026	5 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004891	S.151015.00107			9026	6 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004890	S.151015.00120			9026	7 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004888	S.151015.00133			9026	8 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004887	S.151015.00154			9026	9 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004886	S.151015.00184			9026	10 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004885	S.151015.00196			9026	11 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004884	S.151015.00243			9026	13 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004883	S.151015.00251			9026	14 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004882	S.151015.00271			9026	15 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	164	57.2	21.3	24 years	FALSE	Human	Colon	colon	feces
+SRR13004881	S.151030.00007			9027	1 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	66.8	25.1	22 years	FALSE	Human	Colon	colon	feces
+SRR13004880	S.151030.00057			9027	4 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	66.8	25.1	22 years	FALSE	Human	Colon	colon	feces
+SRR13004879	S.151030.00077			9027	5 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	66.8	25.1	22 years	FALSE	Human	Colon	colon	feces
+SRR13004877	S.151030.00107			9027	6 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	66.8	25.1	22 years	FALSE	Human	Colon	colon	feces
+SRR13004876	S.151030.00120			9027	7 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	66.8	25.1	22 years	FALSE	Human	Colon	colon	feces
+SRR13004875	S.151030.00154			9027	9 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	66.8	25.1	22 years	FALSE	Human	Colon	colon	feces
+SRR13004874	S.151030.00184			9027	10 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	66.8	25.1	22 years	FALSE	Human	Colon	colon	feces
+SRR13004873	S.151030.00243			9027	13 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	66.8	25.1	22 years	FALSE	Human	Colon	colon	feces
+SRR13004872	S.151120.00071			9029	0 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004871	S.151105.00015			9029	1 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004870	S.151105.00051			9029	2 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004869	S.151105.00065			9029	3 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004868	S.151105.00079			9029	4 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004866	S.151105.00102			9029	5 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004865	S.151105.00132			9029	6 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004864	S.151105.00146			9029	7 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004863	S.151105.00160			9029	8 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004862	S.151105.00183			9029	9 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004861	S.151105.00213			9029	10 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004860	S.151105.00227			9029	11 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004859	S.151105.00246			9029	12 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004858	S.151105.00272			9029	13 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004857	S.151105.00286			9029	14 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004855	S.151105.00308			9029	15 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170	102.4	35.4	26 years	FALSE	Human	Colon	colon	feces
+SRR13004854	S.151202.00010			9030	0 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180.3	90	27.7	46 years	FALSE	Human	Colon	colon	feces
+SRR13004853	S.151202.00040			9030	2 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180.3	90	27.7	46 years	FALSE	Human	Colon	colon	feces
+SRR13004852	S.151202.00054			9030	3 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180.3	90	27.7	46 years	FALSE	Human	Colon	colon	feces
+SRR13004851	S.151202.00068			9030	4 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180.3	90	27.7	46 years	FALSE	Human	Colon	colon	feces
+SRR13004850	S.151202.00090			9030	5 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180.3	90	27.7	46 years	FALSE	Human	Colon	colon	feces
+SRR13004849	S.151202.00121			9030	6 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180.3	90	27.7	46 years	FALSE	Human	Colon	colon	feces
+SRR13004848	S.151202.00135			9030	7 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180.3	90	27.7	46 years	FALSE	Human	Colon	colon	feces
+SRR13004847	S.151202.00171			9030	9 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180.3	90	27.7	46 years	FALSE	Human	Colon	colon	feces
+SRR13004846	S.151202.00216			9030	11 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180.3	90	27.7	46 years	FALSE	Human	Colon	colon	feces
+SRR13004844	S.151202.00235			9030	12 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180.3	90	27.7	46 years	FALSE	Human	Colon	colon	feces
+SRR13004843	S.151202.00297			9030	15 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	180.3	90	27.7	46 years	FALSE	Human	Colon	colon	feces
+SRR13004842	S.151218.00007			9031	1 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004841	S.151218.00031			9031	2 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004840	S.151218.00044			9031	3 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004839	S.151218.00057			9031	4 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004838	S.151218.00077			9031	5 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004837	S.151218.00107			9031	6 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004836	S.151218.00120			9031	7 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004835	S.151218.00133			9031	8 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004833	S.151218.00154			9031	9 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004832	S.151218.00184			9031	10 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004831	S.151218.00196			9031	11 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004830	S.151218.00213			9031	12 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004829	S.151218.00238			9031	13 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004828	S.151218.00251			9031	14 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004827	S.151218.00271			9031	15 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	163	60.6	22.8	32 years	FALSE	Human	Colon	colon	feces
+SRR13004826	S.160113.00013			9032	0 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	96	31	54 years	FALSE	Human	Colon	colon	feces
+SRR13004825	S.160112.00054			9032	3 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	96	31	54 years	FALSE	Human	Colon	colon	feces
+SRR13004824	S.160112.00068			9032	4 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	96	31	54 years	FALSE	Human	Colon	colon	feces
+SRR13004821	S.160112.00090			9032	5 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	96	31	54 years	FALSE	Human	Colon	colon	feces
+SRR13004820	S.160112.00121			9032	6 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	96	31	54 years	FALSE	Human	Colon	colon	feces
+SRR13004819	S.160112.00207			9032	10 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	96	31	54 years	FALSE	Human	Colon	colon	feces
+SRR13004818	S.160112.00216			9032	11 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	96	31	54 years	FALSE	Human	Colon	colon	feces
+SRR13004817	S.160112.00235			9032	12 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	96	31	54 years	FALSE	Human	Colon	colon	feces
+SRR13004816	S.160112.00261			9032	13 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	96	31	54 years	FALSE	Human	Colon	colon	feces
+SRR13004815	S.160112.00275			9032	14 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	96	31	54 years	FALSE	Human	Colon	colon	feces
+SRR13004814	S.160112.00297			9032	15 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	96	31	54 years	FALSE	Human	Colon	colon	feces
+SRR13004813	S.160111.00036			9033	0 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004812	S.160112.00330			9033	1 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004810	S.160112.00366			9033	2 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004809	S.160112.00380			9033	3 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004808	S.160112.00394			9033	4 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004807	S.160112.00416			9033	5 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004806	S.160112.00447			9033	6 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004805	S.160112.00461			9033	7 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004804	S.160112.00475			9033	8 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004803	S.160112.00497			9033	9 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004802	S.160112.00528			9033	10 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004801	S.160112.00542			9033	11 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004799	S.160112.00561			9033	12 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004798	S.160112.00587			9033	13 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004797	S.160112.00601			9033	14 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004796	S.160112.00623			9033	15 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	170.2	78.6	27.1	58 years	FALSE	Human	Colon	colon	feces
+SRR13004795	S.160208.00486			9034	0 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004794	S.160204.00031			9034	1 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004793	S.160204.00067			9034	2 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004792	S.160204.00081			9034	3 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004791	S.160204.00095			9034	4 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004790	S.160204.00117			9034	5 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004788	S.160204.00148			9034	6 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004787	S.160204.00162			9034	7 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004786	S.160204.00176			9034	8 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004785	S.160204.00198			9034	9 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004784	S.160204.00229			9034	10 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004783	S.160204.00243			9034	11 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004782	S.160204.00262			9034	12 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004781	S.160204.00288			9034	13 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004780	S.160204.00302			9034	14 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004779	S.160204.00324			9034	15 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	171	74	25.3	44 years	FALSE	Human	Colon	colon	feces
+SRR13004777	S.160218.00007			9035	1 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004776	S.160218.00031			9035	2 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004775	S.160218.00044			9035	3 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004774	S.160218.00057			9035	4 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004773	S.160218.00077			9035	5 days	Stool	Vegan	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004772	S.160218.00107			9035	6 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004771	S.160218.00120			9035	7 days	Stool	Vegan	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004770	S.160218.00154			9035	9 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004769	S.160218.00184			9035	10 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004768	S.160218.00196			9035	11 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004766	S.160218.00213			9035	12 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004765	S.160218.00238			9035	13 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004764	S.160218.00251			9035	14 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004763	S.160218.00271			9035	15 days	Stool	Vegan	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	187.3	69	19.7	26 years	FALSE	Human	Colon	colon	feces
+SRR13004762	S.160225.00936			9036	0 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
+SRR13004761	S.160225.01014			9036	4 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
+SRR13004760	S.160225.01062			9036	6 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
+SRR13004759	S.160225.01076			9036	7 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
+SRR13004758	S.160225.01090			9036	8 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
+SRR13004757	S.160225.01112			9036	9 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
+SRR13004755	S.160225.01143			9036	10 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
+SRR13004754	S.160225.01176			9036	12 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
+SRR13004753	S.160225.01202			9036	13 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
+SRR13004752	S.160225.01216			9036	14 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
+SRR13004751	S.160225.01238			9036	15 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
+SRR13004750	S.160310.00007			9037	0 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004749	S.160310.00016			9037	1 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004748	S.160310.00052			9037	2 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004747	S.160310.00080			9037	4 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004746	S.160310.00102			9037	5 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004744	S.160310.00133			9037	6 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004743	S.160310.00147			9037	7 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004742	S.160310.00161			9037	8 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004741	S.160310.00228			9037	11 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004740	S.160310.00247			9037	12 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004739	S.160310.00273			9037	13 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004738	S.160310.00287			9037	14 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004737	S.160310.00309			9037	15 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004736	S.160405.00052			9038	2 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004735	S.160405.00066			9038	3 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004733	S.160405.00080			9038	4 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004732	S.160405.00102			9038	5 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004731	S.160405.00133			9038	6 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004730	S.160405.00147			9038	7 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004729	S.160405.00161			9038	8 days	Stool	EEN	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004728	S.160405.00183			9038	9 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004727	S.160405.00214			9038	10 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004726	S.160405.00228			9038	11 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004725	S.160405.00247			9038	12 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004724	S.160405.00273			9038	13 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004722	S.160405.00287			9038	14 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004721	S.160525.00051			9040	1 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004720	S.160525.00087			9040	2 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004719	S.160525.00101			9040	3 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004718	S.160525.00115			9040	4 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004717	S.160525.00137			9040	5 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004716	S.160525.00168			9040	6 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004715	S.160525.00196			9040	8 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004714	S.160525.00218			9040	9 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004713	S.160525.00249			9040	10 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004710	S.160525.00263			9040	11 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004709	S.160525.00282			9040	12 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004708	S.160525.00308			9040	13 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004707	S.160525.00322			9040	14 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004706	S.160525.00344			9040	15 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004705	VibrioLambda4			NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004704	EBneg3			NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004703	Extractemptywell5			NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004702	VibrioLambda9			NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004701	Extractemptywell8			NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004699	VibrioLambda10			NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004698	Extractweighingpaper1			NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004697	Extractemptywell11			NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004696	Extractemptywell1			NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004695	VibrioLambda1			NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004694	Extractblankswab2			NA		Blank Swab	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004693	VibrioLambda2			NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004692	EBneg5			NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004691	VibrioLambda5			NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004690	Extractemptywell4			NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004688	VibrioLambda6			NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004687	Extractemptywell10			NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004686	EBneg8			NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004685	Extractemptywell7			NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004684	EBneg7			NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004683	Extractweighingpaper			NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004682	VibrioLambda3			NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004681	ExtractBlankswab1			NA		Blank Swab	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004680	Extractweighingpaper2			NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004679	VibrioLambda7			NA		NA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004677	Extractemptywell6			NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004676	EBneg1			NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004675	Extractemptywell3			NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004674	Extractweighingpaper4			NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004673	Extractblankswab4			NA		Blank Swab	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004672	VibrioLambda8			NA		NA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004671	Extractemptywell2			NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004670	EBneg2			NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004669	Extractblankswab3			NA		Blank Swab	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004668	EBneg6			NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004666	Extractblankswab5			NA		Blank swab	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004665	EBneg4			NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004664	Extractweighingpaper5			NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004663	S.160225.00981.redo			9036	2 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
+SRR13004662	S.160310.00066.redo			9037	3 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004661	S.160310.00183.redo			9037	9 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004660	S.160310.00214.redo			9037	10 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
+SRR13004659	S.160405.00007.redo			9038	0 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004658	S.160405.00016.redo			9038	1 days	Stool	EEN	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004657	S.160405.00309.redo			9038	15 days	Stool	EEN	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	160	87.9	34.3	60 years	FALSE	Human	Colon	colon	feces
+SRR13004655	S.160525.00042.redo			9040	0 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004654	S.160525.00182.redo			9040	7 days	Stool	Omnivore	Antibiotics Treatment	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
+SRR13004653	PS.Vegan.9002			9002		Stool	Vegan	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004652	PS.Modulen.9003			9003		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004651	PS.Vegan.9004			9004		Stool	Vegan	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004650	PS.Western.9005			9005		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004649	PS.Vegan.9008			9008		Stool	Vegan	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004648	PS.Modulen.9009			9009		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004647	PS.Western.9010			9010		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004646	PS.Vegan.9014			9014		Stool	Vegan	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004644	PS.Modulen.9016			9016		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004643	PS.Modulen.9024			9024		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004642	PS.Vegan.9027			9027		Stool	Vegan	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004641	PS.Modulen.9029			9029		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004640	PS.Modulen.9032			9032		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004639	PS.Western.9033			9033		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004638	PS.Modulen.9034			9034		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004637	PS.Vegan.9035			9035		Stool	Vegan	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004636	PS.Western.9036			9036		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004635	PS.Western.9037			9037		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004633	PS.Modulen.9038			9038		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004632	PS.Western.9040			9040		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004631	Vibriolambda1.PS			NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004630	DNAfreewater1.PS			NA		DNA-free water	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE				
