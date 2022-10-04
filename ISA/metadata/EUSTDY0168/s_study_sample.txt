@@ -6,9 +6,9 @@ ZMW18_11 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isola
 ZMW19_09 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			RNWYT-18	March 2019	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW19_09 
 ZMW19_13 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			COUCAL	March 2019	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW19_13 
 ZMW19_17 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			29TH HRSWN-8	March 2019	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW19_17 
-ZMW20_03 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			COUCAL 	March 2020	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_03 
+ZMW20_03 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			COUCAL	March 2020	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_03 
 ZMW20_04 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			RAWYT-1-26 	March 2020	Mpongwe	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_04 
 ZMW20_07 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			19TH ESBWYT-45	March 2020	Mpongwe	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_07 
-ZMW20_14	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			 20TH FHBSN-50	March 2020	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_14
+ZMW20_14	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			20TH FHBSN-50	March 2020	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_14
 ZMW20_15 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			19TH EBSWYT-18	March 2020	Mpongwe	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_15 
 ZMW20_16 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			19TH EBSWYT-82	March 2020	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_16 
