@@ -1,11 +1,11 @@
 <investigation identifier="FARMM_metagenomics">
 
   <study fileName="FARMM_metagenomics.txt" identifierSuffix="-1" sampleRegex="FARMM_metagenomics">
-    <dataset>MicrobiomeStudyEDA_MORDOR_metatranscriptome_RSRC</dataset>
+    <dataset>MicrobiomeStudyEDA_FARMM_metagenomics_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source"  /> 
+    <node name="Source" type="Participant" suffix="Source" idColumn="subject_id" /> 
     <node name="Sample" type="Sample"/>
-    <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS" idColumn="name" />
+    <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS" idColumn="name"/>
 
 
     <edge input="Source" output="Sample">
