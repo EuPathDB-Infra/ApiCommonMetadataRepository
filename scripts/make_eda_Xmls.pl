@@ -23,6 +23,7 @@ ResistomeWgs => "subject_id",
 Resistome => "subject_id",
 StLouisNICU => "subject_id",
 Malaysia_Helminth => "subject_id",
+FARMM_metagenomics => "subject_id",
 );
 sub idc {
   my ($ds) = @_;
@@ -72,6 +73,7 @@ my %suffixes = (
   NICUNEC => "WGS",
   Pig_pregnancy => "WGS",
   Malaysia_Helminth => "WGS",
+  FARMM_metagenomics => "WGS",
   MORDOR_metatranscriptome => "WGS",
   Bangladesh_healthy_5yr => "16S",
   Ciara_V1V3 => "16S",
