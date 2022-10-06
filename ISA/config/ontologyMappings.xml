@@ -105,7 +105,10 @@
   <ontologyTerm source_id="OBI_0001895" type="protocolParameter" parent="specimen collection">
     <name>specimen collector</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="EUPATH_0005006" type="protocolParameter" parent="specimen collection">
+    <name>Sample collection time post harvest (days)</name>
+    <name>Isolation_time</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EFO_0000264" type="protocolParameter" parent="sample preparation for assay">
     <name>Antibody</name>
   </ontologyTerm>
@@ -611,6 +614,18 @@
   </ontologyTerm>
   <ontologyTerm source_id="CHEBI_10023" type="characteristicQualifier" parent="Sample">
     <name>VCZ</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_61049" type="characteristicQualifier" parent="Sample">
+    <name>mic_of_fk506</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_7488" type="characteristicQualifier" parent="Sample">
+    <name>mic_of_tebuconazole</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_81781" type="characteristicQualifier" parent="Sample">
+    <name>mic_of_natamycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_9448" type="characteristicQualifier" parent="Sample">
+    <name>mic_of_terbinafine</name>
   </ontologyTerm>
   <ontologyTerm source_id="CHEBI_34905" type="characteristicQualifier" parent="Sample">
     <name>Paraquat Ave+Std Dev</name>
