@@ -5,11 +5,11 @@
   <study fileName="s_study_sample_Southern_Africa" identifierSuffix="-1" sampleRegex="EUSMPL">
  
    <dataset>pfal3D7_microarrayAntibody_Southern_Africa_ICEMR_RSRC</dataset>
-   <node name="Source" type="host" suffix="Source"/>  
-   <node name="Sample" type="sample from organism"/>  
-   <node name="Extract" type="protein extract" suffix="Extract"/>
-   <node name="Assay" suffix="Assay"/>
-   <node name="DataTransformation" suffix="protein_microarray"/>
+   <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+   <node name="Sample" type="sample from organism" idColumn="name"/>  
+   <node name="Extract" type="protein extract" suffix="Extract" idColumn="name"/>
+   <node name="Assay" suffix="Assay" idColumn="name"/>
+   <node name="DataTransformation" suffix="protein_microarray" idColumn="name"/>
     
    <edge input="Source" output="Sample">
      <protocol>specimen collection</protocol>
@@ -28,11 +28,11 @@
   <study fileName="s_study_sample_Amazonia" identifierSuffix="-2" sampleRegex="EUSMPL">
     <dataset>pfal3D7_microarrayAntibody_Amazonia_ICEMR_RSRC</dataset>
     
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="protein extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="protein_microarray"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="protein extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="protein_microarray" idColumn="name"/>
     
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -50,11 +50,11 @@
 
   <study fileName="s_study_sample_South_Pacific_PNG" identifierSuffix="-3" sampleRegex="EUSMPL">
     <dataset>pfal3D7_microarrayAntibody_South_Pacific_PNG_ICEMR_RSRC</dataset>
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="protein extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="protein_microarray"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="protein extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="protein_microarray" idColumn="name"/>
     
     <edge input="Source" output="Sample">
       <protocol>specimen collection</protocol>
@@ -72,11 +72,11 @@
 
   <study fileName="s_study_sample_Malawi" identifierSuffix="-4" sampleRegex="EUSMPL">
     <dataset>pfal3D7_microarrayAntibody_Malawi_ICEMR_RSRC</dataset>
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="protein extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="protein_microarray"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="protein extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="protein_microarray" idColumn="name"/>
     
     <edge input="Source" output="Sample">
       <protocol>specimen collection</protocol>
@@ -94,11 +94,11 @@
 
   <study fileName="s_study_sample_South_Africa_Zambia_Jun" identifierSuffix="-5" sampleRegex="EUSMPL">
     <dataset>pfal3D7_microarrayAntibody_South_Africa_Zambia_Jun_ICEMR_RSRC</dataset>
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="protein extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="protein_microarray"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="protein extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="protein_microarray" idColumn="name"/>
     
     <edge input="Source" output="Sample">
       <protocol>specimen collection</protocol>
@@ -116,11 +116,11 @@
 
   <study fileName="s_study_sample_Amazonia_Peru" identifierSuffix="-6" sampleRegex="EUSMPL">
     <dataset>pfal3D7_microarrayAntibody_Amazonia_Peru_ICEMR_RSRC</dataset>
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="protein extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="protein_microarray"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="protein extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="protein_microarray" idColumn="name"/>
 
     <edge input="Source" output="Sample">
       <protocol>specimen collection</protocol>
@@ -138,11 +138,11 @@
 
   <study fileName="s_study_sample_Southeast_Asia" identifierSuffix="-7" sampleRegex="EUSMPL">
     <dataset>pfal3D7_microarrayAntibody_Southeast_Asia_ICEMR_RSRC</dataset>
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="protein extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="protein_microarray"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="protein extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="protein_microarray" idColumn="name"/>
     
     <edge input="Source" output="Sample">
       <protocol>specimen collection</protocol>
@@ -160,11 +160,11 @@
 
   <study fileName="s_study_sample_South_Africa_Zambia_Dec" identifierSuffix="-8" sampleRegex="EUSMPL">
     <dataset>pfal3D7_microarrayAntibody_South_Africa_Zambia_Dec_ICEMR_RSRC</dataset>
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="protein extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="protein_microarray"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="protein extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="protein_microarray" idColumn="name"/>
 
     <edge input="Source" output="Sample">
       <protocol>specimen collection</protocol>
@@ -182,11 +182,11 @@
 
   <study fileName="s_study_sample_Amazonia_Brazil" identifierSuffix="-9" sampleRegex="EUSMPL">
 <dataset>pfal3D7_microarrayAntibody_Amazonia_Brazil_ICEMR_RSRC</dataset>
-  <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="protein extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="protein_microarray"/>
+  <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="protein extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="protein_microarray" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -205,11 +205,11 @@
 
   <study fileName="s_study_sample_Uganda_East_Africa" identifierSuffix="-10" sampleRegex="EUSMPL">
     <dataset>pfal3D7_microarrayAntibody_Uganda_East_Africa_ICEMR_RSRC</dataset>
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="protein extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="protein_microarray"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="protein extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="protein_microarray" idColumn="name"/>
 
     <edge input="Source" output="Sample">
       <protocol>specimen collection</protocol>
@@ -227,11 +227,11 @@
 
   <study fileName="s_study_sample_South_Pacific" identifierSuffix="-11" sampleRegex="EUSMPL"> 
     <dataset>pfal3D7_microarrayAntibody_South_Pacific_ICEMR_RSRC</dataset>
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="protein extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="protein_microarray"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="protein extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="protein_microarray" idColumn="name"/>
     
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -249,11 +249,11 @@
 
   <study fileName="s_study_sample_India_Rao" identifierSuffix="-12" sampleRegex="EUSMPL"> 
     <dataset>pfal3D7_microarrayAntibody_India_ICEMR_RSRC</dataset>
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="protein extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="protein_microarray"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="protein extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="protein_microarray" idColumn="name"/>
     
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
