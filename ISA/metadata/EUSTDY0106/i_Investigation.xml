@@ -5,10 +5,10 @@
   <dataset>bmicRI_HTS_SNP_Six_Bmic_isolates_RSRC</dataset>
   <dataset>bmicRI_copyNumberVariations_Six_Bmic_isolates_RSRC</dataset>
 
-  <node name="Source" type="host" suffix="Source"/>  
-  <node name="Sample" type="sample from organism"/>  
-  <node name="Extract" type="DNA extract" suffix="Extract"/>
-  <node name="Assay" suffix="DNA Sequencing"/>
+  <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+  <node name="Sample" type="sample from organism" idColumn="name"/>  
+  <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+  <node name="Assay" suffix="DNA Sequencing" idColumn="name"/>
 
   <edge input="Source" output="Sample">
     <protocol>specimen collection</protocol>

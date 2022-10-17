@@ -6,10 +6,10 @@
     <dataset>tgonME49_HTS_SNP_WhitePaper_HTS_SNP_RSRC</dataset>
     <dataset>tgonGT1_HTS_SNP_reference_genome_RSRC</dataset>
 
-<node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="cell culture"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="DNA Sequencing"/>
+<node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="cell culture" idColumn="name"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="DNA Sequencing" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>

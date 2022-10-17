@@ -105,7 +105,10 @@
   <ontologyTerm source_id="OBI_0001895" type="protocolParameter" parent="specimen collection">
     <name>specimen collector</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="EUPATH_0005006" type="protocolParameter" parent="specimen collection">
+    <name>Sample collection time post harvest (days)</name>
+    <name>Isolation_time</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EFO_0000264" type="protocolParameter" parent="sample preparation for assay">
     <name>Antibody</name>
   </ontologyTerm>
@@ -322,7 +325,9 @@
   <ontologyTerm source_id="EUPATH_0005030" type="characteristicQualifier" parent="Source">
     <name>incMal_log</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="OBI_0001185" type="characteristicQualifier" parent="Source">
+    <name>host variety</name>
+  </ontologyTerm>
 
 <!-- only used in ICEMR protein array -->
   <ontologyTerm source_id="HP_0001892" type="characteristicQualifier" parent="Source">
@@ -609,6 +614,18 @@
   </ontologyTerm>
   <ontologyTerm source_id="CHEBI_10023" type="characteristicQualifier" parent="Sample">
     <name>VCZ</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_61049" type="characteristicQualifier" parent="Sample">
+    <name>mic_of_fk506</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_7488" type="characteristicQualifier" parent="Sample">
+    <name>mic_of_tebuconazole</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_81781" type="characteristicQualifier" parent="Sample">
+    <name>mic_of_natamycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_9448" type="characteristicQualifier" parent="Sample">
+    <name>mic_of_terbinafine</name>
   </ontologyTerm>
   <ontologyTerm source_id="CHEBI_34905" type="characteristicQualifier" parent="Sample">
     <name>Paraquat Ave+Std Dev</name>
@@ -1000,6 +1017,35 @@
   </ontologyTerm>
  <ontologyTerm source_id="NCBITaxon_4565" type="characteristicValue" parent="characteristicQualifier">
     <name>Triticum aestivum</name>
+  </ontologyTerm>
+
+ <ontologyTerm source_id="NCBITaxon_57401" type="characteristicValue" parent="characteristicQualifier">
+    <name>Centropus</name>
+    <name>COUCAL</name>
+  </ontologyTerm>
+
+ <ontologyTerm source_id="NCBITaxon_3603" type="characteristicValue" parent="characteristicQualifier">
+    <name>Vitis</name>
+    <name>Grape</name>
+  </ontologyTerm>
+
+ <ontologyTerm source_id="NCBITaxon_9957" type="characteristicValue" parent="characteristicQualifier">
+    <name>Oryx</name>
+  </ontologyTerm>
+
+ <ontologyTerm source_id="NCBITaxon_9852" type="characteristicValue" parent="characteristicQualifier">
+    <name>Alces alces</name>
+    <name>Moose</name>
+  </ontologyTerm>
+
+ <ontologyTerm source_id="NCBITaxon_9018" type="characteristicValue" parent="characteristicQualifier">
+    <name>Francolinus</name>
+    <name>KWALE</name>
+  </ontologyTerm>
+
+ <ontologyTerm source_id="NCBITaxon_4565" type="characteristicValue" parent="characteristicQualifier">
+    <name>Triticum aestivum</name>
+    <name>wheat</name>
   </ontologyTerm>
 
 <!-- GAZ country values  -->

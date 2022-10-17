@@ -3,13 +3,13 @@
   <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
     <dataset>pfal3D7_chipChipExper_Winzeler_Westenberger_RSRC</dataset>
 
-    <node name="Sample" type="sample from organism"/>  
-    <node isaObject="Extract" name="Extract1" type="DNA extract" suffix="DNA Extract"/>
-    <node isaObject="Extract" name="Extract2" type="DNA extract" suffix="IP Extract"/>
-    <node name="Assay" suffix="Hybridization"/>
-    <node name="DataFile" suffix="Raw Data"/>
-    <node isaObject="DataTransformation" name="Smoothed" suffix="_smoothed (ChIP-chip)" useExactSuffix="true"/>
-    <!--<node isaObject="DataTransformation" name="Peaks" suffix="_peaks (ChIP-chip)" useExactSuffix="true"/>-->
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node isaObject="Extract" name="Extract1" type="DNA extract" suffix="DNA Extract" idColumn="name"/>
+    <node isaObject="Extract" name="Extract2" type="DNA extract" suffix="IP Extract" idColumn="name"/>
+    <node name="Assay" suffix="Hybridization" idColumn="name"/>
+    <node name="DataFile" suffix="Raw Data" idColumn="name"/>
+    <node isaObject="DataTransformation" name="Smoothed" suffix="_smoothed (ChIP-chip)" useExactSuffix="true" idColumn="name"/>
+    <!--<node isaObject="DataTransformation" name="Peaks" suffix="_peaks (ChIP-chip)" useExactSuffix="true" idColumn="name"/>-->
 
 
     <edge input="Sample" output="Extract1">

@@ -3,11 +3,11 @@
   <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
     <dataset>pfal3D7_SNPChip_BroadIsolateBarcode_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="DNA Sequencing"/>
-    <node name="DataTransformation" suffix="Sequence Variations"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="DNA Sequencing" idColumn="name"/>
+    <node name="DataTransformation" suffix="Sequence Variations" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>

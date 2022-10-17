@@ -3,11 +3,11 @@
   <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
     <dataset>StudyResult_Menezes_chicken_RFLP_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="RFLP assay"/>
-    <node name="DataTransformation" suffix="RFLPGenotype"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="RFLP assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="RFLPGenotype" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>infection process</protocol>
