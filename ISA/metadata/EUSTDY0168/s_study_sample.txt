@@ -1,14 +1,14 @@
 Name	Description	SourceMTOverride	SourceMTOverride	Characteristics [organism]	Characteristics [host variety]	Specimen Collection Date	Characteristics[city]	Characteristics [country]	Characteristics [fungus organism]	Characteristics [fungal strain]
-ZMW18_06	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	RPWYT-35	Mar-18	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW18_06
-ZMW18_08	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			COUCAL		Mar-18	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW18_08
-ZMW18_10 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	HON-9	Mar-18	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW18_10 
-ZMW18_11 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			KWALE		Mar-18	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW18_11 
-ZMW19_09 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	RNWYT-18	Mar-19	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW19_09 
-ZMW19_13 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			COUCAL		Mar-19	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW19_13 
-ZMW19_17 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	29TH HRSWN-8	Mar-19	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW19_17 
-ZMW20_03 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			COUCAL		Mar-20	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_03 
-ZMW20_04 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	RAWYT-1-26 	Mar-20	Mpongwe	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_04 
-ZMW20_07 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	19TH ESBWYT-45	Mar-20	Mpongwe	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_07 
-ZMW20_14	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	20TH FHBSN-50	Mar-20	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_14
-ZMW20_15 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	19TH EBSWYT-18	Mar-20	Mpongwe	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_15 
-ZMW20_16 	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	19TH EBSWYT-82	Mar-20	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_16 
+ZMW18_06	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	RPWYT-35	18-Mar	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW18_06
+ZMW18_08	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			COUCAL		18-Mar	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW18_08
+ZMW18_10	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	HON-9	18-Mar	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW18_10
+ZMW18_11	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			KWALE		18-Mar	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW18_11
+ZMW19_09	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	RNWYT-18	19-Mar	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW19_09
+ZMW19_13	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			COUCAL		19-Mar	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW19_13
+ZMW19_17	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	29TH HRSWN-8	19-Mar	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW19_17
+ZMW20_03	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			COUCAL		20-Mar	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_03
+ZMW20_04	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	RAWYT-1-26 	20-Mar	Mpongwe	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_04
+ZMW20_07	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	19TH ESBWYT-45	20-Mar	Mpongwe	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_07
+ZMW20_14	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	20TH FHBSN-50	20-Mar	Mt. Makulu	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_14
+ZMW20_15	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	19TH EBSWYT-18	20-Mar	Mpongwe	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_15
+ZMW20_16	Whole genome shotgun sequences of Magnaporthe oryzae wheat blast isolates from Zambia			wheat	19TH EBSWYT-82	20-Mar	Mpika	Zambia	Pyricularia oryzae	Pyricularia oryzae ZMW20_16
