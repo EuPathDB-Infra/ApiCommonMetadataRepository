@@ -1,0 +1,1464 @@
+<ontologymappings>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="OBI_0001169" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::age (months)</name>
+    <name>bonus.txt::age_at_collection_months</name>
+    <name>dailybaby.txt::day_of_life</name>
+    <name>diabimmune.txt::age_at_collection_months</name>
+    <name>ecocf.txt::age (days)</name>
+    <name>ecocf.txt::age (years)</name>
+    <name>emp_10249_ecam.txt::age</name>
+    <name>emp_10249_ecam.txt::age (months)</name>
+    <name>emp_10249_ecam.txt::day_of_life</name>
+    <name>farmm_metagenomics.txt::host_age</name>
+    <name>gems.txt::age (months)</name>
+    <name>hmpwgs.txt::age (years)</name>
+    <name>malaysia_helminth.txt::age</name>
+    <name>maled_diarrhea.txt::age in months</name>
+    <name>maled_healthy.txt::age (months)</name>
+    <name>mordor_metatranscriptome.txt::age</name>
+    <name>nicudischarge.txt::day_of_life</name>
+    <name>nicunec.txt::age at sample collection (days)</name>
+    <name>pih_uganda.txt::age_at_collection_months</name>
+    <name>resistome.txt::age at sample collection (days)</name>
+    <name>stlouisnicu.txt::age at sample collection (days)</name>
+    <name>ugandamaternal.txt::age (years)</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="UBERON_0000466" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::body_habitat</name>
+    <name>bonus.txt::body_habitat</name>
+    <name>ciara_v1v3.txt::body_habitat</name>
+    <name>dailybaby.txt::body_habitat</name>
+    <name>diabimmune.txt::body_habitat</name>
+    <name>ecocf.txt::body_habitat</name>
+    <name>emp_10249_ecam.txt::body_habitat</name>
+    <name>emp_1927_hmp_v13.txt::body_habitat</name>
+    <name>emp_1928_hmp_v35.txt::body_habitat</name>
+    <name>farmm_metagenomics.txt::body_habitat</name>
+    <name>gems.txt::body_habitat</name>
+    <name>hmpwgs.txt::body_habitat</name>
+    <name>malaysia_helminth.txt::body_habitat</name>
+    <name>maled_diarrhea.txt::body_habitat</name>
+    <name>maled_healthy.txt::body_habitat</name>
+    <name>nicudischarge.txt::body_habitat</name>
+    <name>nicunec.txt::body_habitat</name>
+    <name>pih_uganda.txt::body_habitat</name>
+    <name>resistome.txt::body_habitat</name>
+    <name>stlouisnicu.txt::body_habitat</name>
+    <name>ugandamaternal.txt::body_habitat</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="UBERON_0000463" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::body_product</name>
+    <name>bonus.txt::body_product</name>
+    <name>ciara_v1v3.txt::body_product</name>
+    <name>dailybaby.txt::body_product</name>
+    <name>diabimmune.txt::body_product</name>
+    <name>ecocf.txt::body_product</name>
+    <name>emp_10249_ecam.txt::body_product</name>
+    <name>emp_1927_hmp_v13.txt::body_product</name>
+    <name>emp_1928_hmp_v35.txt::body_product</name>
+    <name>farmm_metagenomics.txt::host_body_product</name>
+    <name>gems.txt::body_product</name>
+    <name>hmpwgs.txt::body_product</name>
+    <name>malaysia_helminth.txt::body_product</name>
+    <name>maled_diarrhea.txt::body_product</name>
+    <name>maled_healthy.txt::body_product</name>
+    <name>mordor_metatranscriptome.txt::host_body_product</name>
+    <name>nicudischarge.txt::body_product</name>
+    <name>nicunec.txt::body_product</name>
+    <name>pih_uganda.txt::body_product</name>
+    <name>resistome.txt::body_product</name>
+    <name>stlouisnicu.txt::body_product</name>
+    <name>ugandamaternal.txt::body_product</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="UBERON_0000061" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::body_site</name>
+    <name>bonus.txt::body_site</name>
+    <name>ciara_v1v3.txt::body_site</name>
+    <name>dailybaby.txt::body_site</name>
+    <name>diabimmune.txt::body_site</name>
+    <name>ecocf.txt::body_site</name>
+    <name>emp_10249_ecam.txt::body_site</name>
+    <name>emp_1927_hmp_v13.txt::body_site</name>
+    <name>emp_1928_hmp_v35.txt::body_site</name>
+    <name>farmm_metagenomics.txt::host_body_site</name>
+    <name>gems.txt::body_site</name>
+    <name>hmpwgs.txt::body_site</name>
+    <name>malaysia_helminth.txt::body_site</name>
+    <name>maled_diarrhea.txt::body_site</name>
+    <name>maled_healthy.txt::body_site</name>
+    <name>mordor_metatranscriptome.txt::host_body_site</name>
+    <name>nicudischarge.txt::body_site</name>
+    <name>nicunec.txt::body_site</name>
+    <name>pih_uganda.txt::body_site</name>
+    <name>resistome.txt::body_site</name>
+    <name>stlouisnicu.txt::body_site</name>
+    <name>ugandamaternal.txt::body_site</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="OBI_0003071" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::child id</name>
+    <name>bonus.txt::subject_id</name>
+    <name>ciara_v1v3.txt::host_subject_id</name>
+    <name>dailybaby.txt::subject_id</name>
+    <name>diabimmune.txt::subject</name>
+    <name>ecocf.txt::host_subject_id</name>
+    <name>emp_10249_ecam.txt::host_subject_id</name>
+    <name>emp_1927_hmp_v13.txt::host_subject_id</name>
+    <name>emp_1928_hmp_v35.txt::host_subject_id</name>
+    <name>farmm_metagenomics.txt::subject_id</name>
+    <name>hmpwgs.txt::subject_id</name>
+    <name>malaysia_helminth.txt::subject_id</name>
+    <name>maled_healthy.txt::child id</name>
+    <name>nicudischarge.txt::subject_id</name>
+    <name>nicunec.txt::subject_id</name>
+    <name>resistome.txt::subject_id</name>
+    <name>stlouisnicu.txt::subject_id</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="ENVO_00000009" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::country</name>
+    <name>ciara_v1v3.txt::country</name>
+    <name>dailybaby.txt::country</name>
+    <name>diabimmune.txt::country</name>
+    <name>ecocf.txt::country</name>
+    <name>emp_10249_ecam.txt::geo_loc_name</name>
+    <name>emp_1927_hmp_v13.txt::geo_loc_name</name>
+    <name>emp_1928_hmp_v35.txt::geo_loc_name</name>
+    <name>farmm_metagenomics.txt::country</name>
+    <name>gems.txt::country</name>
+    <name>hmpwgs.txt::country</name>
+    <name>malaysia_helminth.txt::country</name>
+    <name>maled_diarrhea.txt::country</name>
+    <name>maled_healthy.txt::country</name>
+    <name>mordor_metatranscriptome.txt::country</name>
+    <name>nicunec.txt::country</name>
+    <name>pih_uganda.txt::country</name>
+    <name>resistome.txt::country</name>
+    <name>stlouisnicu.txt::country</name>
+    <name>ugandamaternal.txt::country</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="ENVO_01000739" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::env_feature</name>
+    <name>bonus.txt::env_feature</name>
+    <name>ciara_v1v3.txt::env_feature</name>
+    <name>dailybaby.txt::env_feature</name>
+    <name>diabimmune.txt::env_feature</name>
+    <name>ecocf.txt::env_feature</name>
+    <name>emp_10249_ecam.txt::env_feature</name>
+    <name>emp_1927_hmp_v13.txt::env_feature</name>
+    <name>emp_1928_hmp_v35.txt::env_feature</name>
+    <name>farmm_metagenomics.txt::env_feature</name>
+    <name>gems.txt::env_feature</name>
+    <name>hmpwgs.txt::env_feature</name>
+    <name>maled_diarrhea.txt::env_feature</name>
+    <name>maled_healthy.txt::env_feature</name>
+    <name>mordor_metatranscriptome.txt::body_habitat</name>
+    <name>nicudischarge.txt::env_feature</name>
+    <name>nicunec.txt::env_feature</name>
+    <name>pih_uganda.txt::env_feature</name>
+    <name>resistome.txt::env_feature</name>
+    <name>stlouisnicu.txt::env_feature</name>
+    <name>ugandamaternal.txt::env_feature</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009027" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::experiment</name>
+    <name>maled_healthy.txt::experiment</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0011894" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::haz</name>
+    <name>diabimmune.txt::haz_last</name>
+    <name>maled_healthy.txt::haz</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009028" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::monthly sample</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="SO_0001000" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::region</name>
+    <name>ciara_v1v3.txt::region</name>
+    <name>dailybaby.txt::region</name>
+    <name>ecocf.txt::region</name>
+    <name>emp_10249_ecam.txt::region</name>
+    <name>emp_1927_hmp_v13.txt::region</name>
+    <name>emp_1928_hmp_v35.txt::region</name>
+    <name>gems.txt::region</name>
+    <name>maled_diarrhea.txt::region</name>
+    <name>maled_healthy.txt::region</name>
+    <name>pih_uganda.txt::region</name>
+    <name>stlouisnicu.txt::region</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009026" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::run</name>
+    <name>maled_healthy.txt::run</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="OBI_0100051" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::sample_type</name>
+    <name>bonus.txt::sample_type</name>
+    <name>ciara_v1v3.txt::sample_type</name>
+    <name>dailybaby.txt::sample_type</name>
+    <name>diabimmune.txt::sample_type</name>
+    <name>ecocf.txt::sample_type</name>
+    <name>emp_10249_ecam.txt::sample_type</name>
+    <name>emp_1927_hmp_v13.txt::sample_type</name>
+    <name>emp_1928_hmp_v35.txt::sample_type</name>
+    <name>farmm_metagenomics.txt::sample_type</name>
+    <name>gems.txt::sample_type</name>
+    <name>hmpwgs.txt::sample_type</name>
+    <name>malaysia_helminth.txt::sample_type</name>
+    <name>maled_diarrhea.txt::sample_type</name>
+    <name>maled_healthy.txt::sample_type</name>
+    <name>mordor_metatranscriptome.txt::sample_type</name>
+    <name>nicudischarge.txt::sample_type</name>
+    <name>nicunec.txt::sample_type</name>
+    <name>pih_uganda.txt::sample_type</name>
+    <name>resistome.txt::sample_type</name>
+    <name>stlouisnicu.txt::sample_type</name>
+    <name>ugandamaternal.txt::sample type</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="PATO_0000047" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::sex</name>
+    <name>bonus.txt::sex</name>
+    <name>dailybaby.txt::sex</name>
+    <name>diabimmune.txt::gender</name>
+    <name>ecocf.txt::sex</name>
+    <name>emp_10249_ecam.txt::sex</name>
+    <name>hmpwgs.txt::sex</name>
+    <name>malaysia_helminth.txt::sex</name>
+    <name>mordor_metatranscriptome.txt::sex</name>
+    <name>nicudischarge.txt::gender</name>
+    <name>nicunec.txt::sex</name>
+    <name>pih_uganda.txt::sex</name>
+    <name>resistome.txt::sex</name>
+    <name>stlouisnicu.txt::sex</name>
+    <name>ugandamaternal.txt::sex</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009030" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::sra study id</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000733" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::waz</name>
+    <name>maled_healthy.txt::waz</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0011895" type="characteristicQualifier">
+    <name>bangladesh_healthy_5yr.txt::whz</name>
+    <name>diabimmune.txt::waz_last</name>
+    <name>maled_healthy.txt::whz</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000580" type="characteristicQualifier">
+    <name>bonus.txt::antibiotic_exposure</name>
+    <name>dailybaby.txt::antibiotic_exposure</name>
+    <name>emp_10249_ecam.txt::antiexposedall</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0011918" type="characteristicQualifier">
+    <name>bonus.txt::body length (cm)</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0031068" type="characteristicQualifier">
+    <name>bonus.txt::breastmilk in diet</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCIT_C105971" type="characteristicQualifier">
+    <name>bonus.txt::calprotectin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000639" type="characteristicQualifier">
+    <name>bonus.txt::cohort</name>
+    <name>diabimmune.txt::cohort</name>
+    <name>nicudischarge.txt::group</name>
+    <name>nicunec.txt::study cohort</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009091" type="characteristicQualifier">
+    <name>bonus.txt::f508del-cftr genotype</name>
+    <name>ecocf.txt::f508del-cftr genotype</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009245" type="characteristicQualifier">
+    <name>bonus.txt::fecal fat percentage</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="FOODON_03303130" type="characteristicQualifier">
+    <name>bonus.txt::formula in diet</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="IAO_0000414" type="characteristicQualifier">
+    <name>bonus.txt::host weight (kg)</name>
+    <name>farmm_metagenomics.txt::host weight (kg)</name>
+    <name>nicunec.txt::birth_weight</name>
+    <name>resistome.txt::weight_to_use</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009261" type="characteristicQualifier">
+    <name>bonus.txt::is low length</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009241" type="characteristicQualifier">
+    <name>bonus.txt::is low weight</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="HP_0001738" type="characteristicQualifier">
+    <name>bonus.txt::pancreatic insufficiency</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009262" type="characteristicQualifier">
+    <name>bonus.txt::received acid blocker</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009263" type="characteristicQualifier">
+    <name>bonus.txt::received protein pump inhibitor</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009244" type="characteristicQualifier">
+    <name>bonus.txt::table food in diet</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009012" type="characteristicQualifier">
+    <name>ciara_v1v3.txt::bodytype</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009013" type="characteristicQualifier">
+    <name>ciara_v1v3.txt::cured</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009014" type="characteristicQualifier">
+    <name>ciara_v1v3.txt::dth</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000747" type="characteristicQualifier">
+    <name>ciara_v1v3.txt::extractiondate</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000632" type="characteristicQualifier">
+    <name>ciara_v1v3.txt::lesion duration</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000621" type="characteristicQualifier">
+    <name>ciara_v1v3.txt::lesion size</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000619" type="characteristicQualifier">
+    <name>ciara_v1v3.txt::no. treatment</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000604" type="characteristicQualifier">
+    <name>ciara_v1v3.txt::run_prefix_prep</name>
+    <name>emp_10249_ecam.txt::run_prefix_prep</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000617" type="characteristicQualifier">
+    <name>ciara_v1v3.txt::site</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="OBI_0001622" type="characteristicQualifier">
+    <name>ciara_v1v3.txt::title</name>
+    <name>emp_10249_ecam.txt::title</name>
+    <name>emp_1927_hmp_v13.txt::title</name>
+    <name>emp_1928_hmp_v35.txt::title</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0011036" type="characteristicQualifier">
+    <name>dailybaby.txt::age_first_solid_food_given_days</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009123" type="characteristicQualifier">
+    <name>dailybaby.txt::antifungal_exposure</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000581" type="characteristicQualifier">
+    <name>dailybaby.txt::baby_delivery_mode</name>
+    <name>diabimmune.txt::csection</name>
+    <name>emp_10249_ecam.txt::delivery</name>
+    <name>nicudischarge.txt::baby_delivery_mode</name>
+    <name>nicunec.txt::baby_delivery_mode</name>
+    <name>resistome.txt::baby_delivery_mode</name>
+    <name>stlouisnicu.txt::baby_delivery_mode</name>
+    <name>ugandamaternal.txt::delivery mode</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="EUPATH_0011732" type="characteristicQualifier">
+    <name>dailybaby.txt::child_diet</name>
+    <name>emp_10249_ecam.txt::diet_3</name>
+    <name>farmm_metagenomics.txt::diet</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000343" type="characteristicQualifier">
+    <name>dailybaby.txt::presence_of_pets</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="OBI_0003070" type="characteristicQualifier">
+    <name>dailybaby.txt::sample_collection_method</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009036" type="characteristicQualifier">
+    <name>diabimmune.txt::abx_while_pregnant</name>
+    <name>ugandamaternal.txt::antibiotic use</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009042" type="characteristicQualifier">
+    <name>diabimmune.txt::age_at_t1d_onset</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009041" type="characteristicQualifier">
+    <name>diabimmune.txt::age_second_pos</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009053" type="characteristicQualifier">
+    <name>diabimmune.txt::agedays_haz_last</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009054" type="characteristicQualifier">
+    <name>diabimmune.txt::agedays_waz_last</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009055" type="characteristicQualifier">
+    <name>diabimmune.txt::agedays_zbmi_last</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009038" type="characteristicQualifier">
+    <name>diabimmune.txt::bf_length</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009039" type="characteristicQualifier">
+    <name>diabimmune.txt::bf_length_exclusive</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0011928" type="characteristicQualifier">
+    <name>diabimmune.txt::birth_location</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009057" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_apple</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009058" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_banana</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009059" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_barley</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009060" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_beef</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009062" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_berries</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009063" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_cabbs</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009064" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_carrot</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009065" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_corn</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009066" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_cowsmilk</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009067" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_egg</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009068" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_fish</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009071" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_milkprod</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009072" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_oat</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009073" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_pear</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009074" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_peas</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009075" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_plum</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009076" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_pork</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009077" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_potato</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009078" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_poultry</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009079" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_rice</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009080" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_rye</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009056" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_solid_start_approx</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009083" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_sweetpota</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009084" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_tomato</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009086" type="characteristicQualifier">
+    <name>diabimmune.txt::compound_wheat</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009045" type="characteristicQualifier">
+    <name>diabimmune.txt::gada</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009035" type="characteristicQualifier">
+    <name>diabimmune.txt::gestational_diabetes</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009037" type="characteristicQualifier">
+    <name>diabimmune.txt::hla_risk_class</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009046" type="characteristicQualifier">
+    <name>diabimmune.txt::ia2a</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009044" type="characteristicQualifier">
+    <name>diabimmune.txt::iaa</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009048" type="characteristicQualifier">
+    <name>diabimmune.txt::ica</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009050" type="characteristicQualifier">
+    <name>diabimmune.txt::length_growth_pace_during_three_years</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009052" type="characteristicQualifier">
+    <name>diabimmune.txt::length_growth_pace_during_year_one</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009040" type="characteristicQualifier">
+    <name>diabimmune.txt::milk_first_three_days</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009034" type="characteristicQualifier">
+    <name>diabimmune.txt::mom_age_at_birth</name>
+    <name>nicudischarge.txt::mom_age_at_birth</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009043" type="characteristicQualifier">
+    <name>diabimmune.txt::t1d_diagnosed</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009049" type="characteristicQualifier">
+    <name>diabimmune.txt::weight_growth_pace_during_three_years</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009051" type="characteristicQualifier">
+    <name>diabimmune.txt::weight_growth_pace_during_year_one</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000662" type="characteristicQualifier">
+    <name>diabimmune.txt::zbmi_last</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009047" type="characteristicQualifier">
+    <name>diabimmune.txt::znt8a</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_222" type="characteristicQualifier">
+    <name>ecocf.txt::achromobacter</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_85698" type="characteristicQualifier">
+    <name>ecocf.txt::achromobacter xyloxidans</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_469" type="characteristicQualifier">
+    <name>ecocf.txt::acinetobacter</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_28090" type="characteristicQualifier">
+    <name>ecocf.txt::acinetobacter lwoffi</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_10508" type="characteristicQualifier">
+    <name>ecocf.txt::adenovirus</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_5067" type="characteristicQualifier">
+    <name>ecocf.txt::aspergillus</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="CHEBI_2955" type="characteristicQualifier">
+    <name>ecocf.txt::azithromycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="CHEBI_161680" type="characteristicQualifier">
+    <name>ecocf.txt::aztreonam</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_95486" type="characteristicQualifier">
+    <name>ecocf.txt::burkholderia cenocepacia</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_87883" type="characteristicQualifier">
+    <name>ecocf.txt::burkholderia multivorans</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_5476" type="characteristicQualifier">
+    <name>ecocf.txt::candida albicans</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_59732" type="characteristicQualifier">
+    <name>ecocf.txt::chryseobacterium</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_253" type="characteristicQualifier">
+    <name>ecocf.txt::chryseobacterium indologenes</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_544" type="characteristicQualifier">
+    <name>ecocf.txt::citrobacter</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_546" type="characteristicQualifier">
+    <name>ecocf.txt::citrobacter freundii</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="HP_0032319" type="characteristicQualifier">
+    <name>ecocf.txt::clinical status</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="CHEBI_37943" type="characteristicQualifier">
+    <name>ecocf.txt::colistin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="OBI_0001619" type="characteristicQualifier">
+    <name>ecocf.txt::collection date</name>
+    <name>emp_10249_ecam.txt::collection_timestamp</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_2501931" type="characteristicQualifier">
+    <name>ecocf.txt::coronavirus</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_11137" type="characteristicQualifier">
+    <name>ecocf.txt::coronavirus 229e</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_290028" type="characteristicQualifier">
+    <name>ecocf.txt::coronavirus hku1</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_277944" type="characteristicQualifier">
+    <name>ecocf.txt::coronavirus nl63</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_31631" type="characteristicQualifier">
+    <name>ecocf.txt::coronavirus oc43</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="DRON_00018567" type="characteristicQualifier">
+    <name>ecocf.txt::dornase</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_547" type="characteristicQualifier">
+    <name>ecocf.txt::enterobacter</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_12059" type="characteristicQualifier">
+    <name>ecocf.txt::enterovirus</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_562" type="characteristicQualifier">
+    <name>ecocf.txt::escherichia coli</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009088" type="characteristicQualifier">
+    <name>ecocf.txt::forced expiratory volume (fev1) liter</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009087" type="characteristicQualifier">
+    <name>ecocf.txt::forced expiratory volume (fev1) percentage</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_724" type="characteristicQualifier">
+    <name>ecocf.txt::haemophilus</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_727" type="characteristicQualifier">
+    <name>ecocf.txt::haemophilus influenza</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_162145" type="characteristicQualifier">
+    <name>ecocf.txt::human metapneumovirus</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009103" type="characteristicQualifier">
+    <name>ecocf.txt::influenza</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_36420" type="characteristicQualifier">
+    <name>ecocf.txt::influenza a 2009</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_570" type="characteristicQualifier">
+    <name>ecocf.txt::klebsiella</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_571" type="characteristicQualifier">
+    <name>ecocf.txt::klebsiella oxytoca</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_573" type="characteristicQualifier">
+    <name>ecocf.txt::klebsiella pneumoniae</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009117" type="characteristicQualifier">
+    <name>ecocf.txt::mcf (prelim)</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="ARO_3004306" type="characteristicQualifier">
+    <name>ecocf.txt::methicillin resistant staphylococcus aureus (mrsa)</name>
+    <name>nicunec.txt::methicillin-resistant staphylococcus aureus (mrsa) screen</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009096" type="characteristicQualifier">
+    <name>ecocf.txt::methicillin sensitive staphylococcus aureus (mssa)</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCIT_C120707" type="characteristicQualifier">
+    <name>ecocf.txt::mixed commensal flora (mcf)</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009119" type="characteristicQualifier">
+    <name>ecocf.txt::mssa (prelim)</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009092" type="characteristicQualifier">
+    <name>ecocf.txt::mutation 1</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009032" type="characteristicQualifier">
+    <name>ecocf.txt::mutation 2</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_36809" type="characteristicQualifier">
+    <name>ecocf.txt::mycobacterium abcessus</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_487" type="characteristicQualifier">
+    <name>ecocf.txt::neisseria meningitidis</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_1817" type="characteristicQualifier">
+    <name>ecocf.txt::nocardia</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_11216" type="characteristicQualifier">
+    <name>ecocf.txt::parainfluenza 3</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_286" type="characteristicQualifier">
+    <name>ecocf.txt::pseudomonas</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009105" type="characteristicQualifier">
+    <name>ecocf.txt::pseudomonas (mucoid)</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009106" type="characteristicQualifier">
+    <name>ecocf.txt::pseudomonas (nonmucoid)</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009120" type="characteristicQualifier">
+    <name>ecocf.txt::pseudomonas (prelim)</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_47886" type="characteristicQualifier">
+    <name>ecocf.txt::pseudomonas luteola</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_303" type="characteristicQualifier">
+    <name>ecocf.txt::pseudomonas putida</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_12814" type="characteristicQualifier">
+    <name>ecocf.txt::respiratory syncytial virus</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009111" type="characteristicQualifier">
+    <name>ecocf.txt::rhinovirus</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_613" type="characteristicQualifier">
+    <name>ecocf.txt::serratia</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_614" type="characteristicQualifier">
+    <name>ecocf.txt::serratia liquifaciens</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_615" type="characteristicQualifier">
+    <name>ecocf.txt::serratia marcescens</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_24" type="characteristicQualifier">
+    <name>ecocf.txt::shewanella putrifaciens</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_1279" type="characteristicQualifier">
+    <name>ecocf.txt::staphylococcus</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_40323" type="characteristicQualifier">
+    <name>ecocf.txt::stenotrophomonas</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_1313" type="characteristicQualifier">
+    <name>ecocf.txt::streptococcus pneumoniae</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCBITaxon_1314" type="characteristicQualifier">
+    <name>ecocf.txt::streptococcus pyogenes</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="CHEBI_28864" type="characteristicQualifier">
+    <name>ecocf.txt::tobramycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009089" type="characteristicQualifier">
+    <name>ecocf.txt::virology result</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCIT_C83101" type="characteristicQualifier">
+    <name>ecocf.txt::visit number</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000582" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::abx_name</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009121" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::abx_pmp_all</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000492" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::course_num</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000590" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::diet</name>
+    <name>nicunec.txt::diet</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000585" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::diet_2_month</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="ENVO_00000176" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::elevation</name>
+    <name>emp_1927_hmp_v13.txt::elevation</name>
+    <name>emp_1928_hmp_v35.txt::elevation</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="ENVO_00000428" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::env_biome</name>
+    <name>emp_1927_hmp_v13.txt::env_biome</name>
+    <name>emp_1928_hmp_v35.txt::env_biome</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="OBI_0001620" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::latitude</name>
+    <name>emp_1927_hmp_v13.txt::latitude</name>
+    <name>emp_1928_hmp_v35.txt::latitude</name>
+    <name>farmm_metagenomics.txt::latitude</name>
+    <name>malaysia_helminth.txt::latitude</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="OBI_0001621" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::longitude</name>
+    <name>emp_1927_hmp_v13.txt::longitude</name>
+    <name>emp_1928_hmp_v35.txt::longitude</name>
+    <name>farmm_metagenomics.txt::longitude</name>
+    <name>malaysia_helminth.txt::longitude</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000594" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::mom_child</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000497" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::mom_courses_ofdeliveryabx</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000599" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::mom_prenatal_abx</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000600" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::mom_prenatal_abx_class</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000601" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::mom_prenatal_abx_trimester</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="ENVO_00000856" type="characteristicQualifier">
+    <name>emp_10249_ecam.txt::village</name>
+    <name>farmm_metagenomics.txt::city</name>
+    <name>malaysia_helminth.txt::location</name>
+    <name>pih_uganda.txt::location</name>
+    <name>ugandamaternal.txt::city</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="ENVO_00010483" type="characteristicQualifier">
+    <name>emp_1927_hmp_v13.txt::env_matter</name>
+    <name>emp_1928_hmp_v35.txt::env_matter</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="OBI_0001891" type="characteristicQualifier">
+    <name>emp_1927_hmp_v13.txt::sequencecenter</name>
+    <name>emp_1928_hmp_v35.txt::sequencecenter</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="EUPATH_0009125" type="characteristicQualifier">
+    <name>farmm_metagenomics.txt::antibiotics</name>
+    <name>resistome.txt::antibiotic_treatment</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="EUPATH_0010375" type="characteristicQualifier">
+    <name>farmm_metagenomics.txt::case_control</name>
+    <name>gems.txt::case_control</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="CMO_0000105" type="characteristicQualifier">
+    <name>farmm_metagenomics.txt::host_body_mass_index</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="OBI_0003074" type="characteristicQualifier">
+    <name>farmm_metagenomics.txt::host_common_name</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="EUPATH_0010075" type="characteristicQualifier">
+    <name>farmm_metagenomics.txt::host_height</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="OBI_0001508" type="characteristicQualifier">
+    <name>farmm_metagenomics.txt::study timepoint</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0010367" type="characteristicQualifier">
+    <name>gems.txt::age_factor</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009017" type="characteristicQualifier">
+    <name>gems.txt::gems_sample_id</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="EUPATH_0043203" type="characteristicQualifier">
+    <name>geohash1</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="EUPATH_0043204" type="characteristicQualifier">
+    <name>geohash2</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="EUPATH_0043205" type="characteristicQualifier">
+    <name>geohash3</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="EUPATH_0043206" type="characteristicQualifier">
+    <name>geohash4</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="EUPATH_0043207" type="characteristicQualifier">
+    <name>geohash5</name>
+  </ontologyTerm>
+  <ontologyTerm category="human, env" parent="ENTITY" source_id="EUPATH_0043208" type="characteristicQualifier">
+    <name>geohash6</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009343" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::antibiotics_past_3months</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009347" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::ascaris lumbricoides burden</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009336" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::ascaris_infection</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009339" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::ascaris_infection_intensity</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009342" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::boiled_water</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="OMRSE_00000205" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::cultural group</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009345" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::diarrhea_past_3months</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009334" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::helminth_infection</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009348" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::hookworm burden</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009337" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::hookworm_infection</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009340" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::hookworm_infection_intensity</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="OMRSE_00002045" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::level_of_education</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="OBI_0000711" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::library protocol</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009344" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::probiotic_food_past_3months</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009349" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::response to anthelminthic</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009333" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::sample_collection_timepoint</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009346" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::trichuris trichuria burden</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009335" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::trichuris_infection</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009338" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::trichuris_infection_intensity</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009341" type="characteristicQualifier">
+    <name>malaysia_helminth.txt::undercooked_meat</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009216" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::born stunted</name>
+    <name>nicunec.txt::intrauterine growth restriction (iugr)</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="OBI_0001616" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::clinepi_sample</name>
+    <name>stlouisnicu.txt::submitted_sample_id</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009238" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::days on antibiotics</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009239" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::days since last diarrheal episode</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000493" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::family id</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009220" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::laz 1 month after sampling</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009221" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::laz 3 months after sampling</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009222" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::laz at enrollment</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009223" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::laz at sampling</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009224" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::mean daily feeds at breast</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009225" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::mean duration of campylobacter-negative diarrheal episodes in days</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009226" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::mean duration of campylobacter-positive diarrheal episodes in days</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009227" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::mean duration of diarrheal episodes in days</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009228" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::mean severity of campylobacter-negative diarrheal episodes</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009229" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::mean severity of campylobacter-positive diarrheal episodes</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009230" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::mean severity of diarrheal episodes</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009231" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::number of campylobacter-negative diarrheal episodes</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009232" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::number of campylobacter-positive diarrheal episodes</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009233" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::number of diarrheal episodes</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0011678" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::number of who food groups</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000138" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::observation period</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009234" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::pathogens per month</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009240" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::pathogens per month excluding campylobacter</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009235" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::percentage of diarrheal samples positive for campylobacter</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009236" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::percentage of surveillance samples positive for pathogens excluding campylobacter</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009237" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::percentage of surveillance stools positive for campylobacter</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009217" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::severely stunted at sampling</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009218" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::stunted 3 months after sampling</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009219" type="characteristicQualifier">
+    <name>maled_diarrhea.txt::stunted at sampling</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009025" type="characteristicQualifier">
+    <name>maled_healthy.txt::sra_sample</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009332" type="characteristicQualifier">
+    <name>mordor_metatranscriptome.txt::phase</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="NCIT_C161322" type="characteristicQualifier">
+    <name>mordor_metatranscriptome.txt::treatment_group</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0030004" type="characteristicQualifier">
+    <name>mordor_metatranscriptome.txt::village_code</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009190" type="characteristicQualifier">
+    <name>nicudischarge.txt::age at discharge</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EFO_0004344" type="characteristicQualifier">
+    <name>nicudischarge.txt::birthweight</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009242" type="characteristicQualifier">
+    <name>nicudischarge.txt::bloodinfection</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009330" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_allabx</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009318" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_amoxacillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009306" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_ampicillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009327" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_ampicillinsulbactam</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009312" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_cefazolin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009294" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_cefepime</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009297" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009315" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_cefoxitin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009285" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_clindamycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009291" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_fluconazole</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009279" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_gentamicin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009288" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_meropenem</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009324" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_metronidazole</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009309" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_oxacillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009321" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_penicilling</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009300" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_sulfamethoxazoletrimethoprim</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009303" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_ticarcillinclavulanate</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009282" type="characteristicQualifier">
+    <name>nicudischarge.txt::c_vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009175" type="characteristicQualifier">
+    <name>nicudischarge.txt::chorioamnionitis</name>
+    <name>nicunec.txt::chorioamnionitis</name>
+    <name>resistome.txt::chorioamnionitis</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009273" type="characteristicQualifier">
+    <name>nicudischarge.txt::enteralfeeds_2mo</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009172" type="characteristicQualifier">
+    <name>nicudischarge.txt::gbs</name>
+    <name>nicunec.txt::mother_group_b_streptococcus</name>
+    <name>resistome.txt::gbs</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009095" type="characteristicQualifier">
+    <name>nicudischarge.txt::gestational_age</name>
+    <name>nicunec.txt::gestational_age</name>
+    <name>resistome.txt::gestational age at birth (days)</name>
+    <name>stlouisnicu.txt::gestational age at birth (days)</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009329" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_allabx</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009317" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_amoxacillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009305" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_ampicillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009326" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_ampicillinsulbactam</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009311" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_cefazolin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009293" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_cefepime</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009296" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009314" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_cefoxitin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009284" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_clindamycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009290" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_fluconazole</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009278" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_gentamicin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009287" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_meropenem</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009323" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_metronidazole</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009308" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_oxacillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009320" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_penicilling</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009299" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_sulfamethoxazoletrimethoprim</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009302" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_ticarcillinclavulanate</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009281" type="characteristicQualifier">
+    <name>nicudischarge.txt::m_vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009272" type="characteristicQualifier">
+    <name>nicudischarge.txt::maternalantimicrobials</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009177" type="characteristicQualifier">
+    <name>nicudischarge.txt::necrotizingenterocolitis</name>
+    <name>nicunec.txt::nectrotizing enterocolitis (nec)</name>
+    <name>resistome.txt::necrotizing_enterocolitis_status</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009271" type="characteristicQualifier">
+    <name>nicudischarge.txt::otherinfection</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009097" type="characteristicQualifier">
+    <name>nicudischarge.txt::postmenstrual age at sample collection</name>
+    <name>resistome.txt::postmenstrual age at sample collection</name>
+    <name>stlouisnicu.txt::postmenstrual age at sample collection</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009137" type="characteristicQualifier">
+    <name>nicudischarge.txt::total_abx</name>
+    <name>resistome.txt::total_abx</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009270" type="characteristicQualifier">
+    <name>nicudischarge.txt::trachealinfection</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009243" type="characteristicQualifier">
+    <name>nicudischarge.txt::urineinfection</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009328" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_allabx</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009316" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_amoxacillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009304" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_ampicillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009325" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_ampicillinsulbactam</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009310" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_cefazolin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009292" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_cefepime</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009295" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009313" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_cefoxitin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009283" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_clindamycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009289" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_fluconazole</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009277" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_gentamicin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009286" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_meropenem</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009322" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_metronidazole</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009307" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_oxacillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009319" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_penicilling</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009298" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_sulfamethoxazoletrimethoprim</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009301" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_ticarcillinclavulanate</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009280" type="characteristicQualifier">
+    <name>nicudischarge.txt::w_vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009187" type="characteristicQualifier">
+    <name>nicunec.txt::amnionicity</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009186" type="characteristicQualifier">
+    <name>nicunec.txt::birth_plurality</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009212" type="characteristicQualifier">
+    <name>nicunec.txt::birth_study_day</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009188" type="characteristicQualifier">
+    <name>nicunec.txt::chorionicity</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009213" type="characteristicQualifier">
+    <name>nicunec.txt::day_of_nec</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009189" type="characteristicQualifier">
+    <name>nicunec.txt::fraternal_or_identical_twins</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009191" type="characteristicQualifier">
+    <name>nicunec.txt::maternal_antepartum_antibiotics</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009192" type="characteristicQualifier">
+    <name>nicunec.txt::maternal_antepartum_antibiotics_timing_prior_to_delivery</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009194" type="characteristicQualifier">
+    <name>nicunec.txt::sample_acyclovir</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009195" type="characteristicQualifier">
+    <name>nicunec.txt::sample_amoxicillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009196" type="characteristicQualifier">
+    <name>nicunec.txt::sample_ampicillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009197" type="characteristicQualifier">
+    <name>nicunec.txt::sample_cefazolin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009198" type="characteristicQualifier">
+    <name>nicunec.txt::sample_cefepime</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009199" type="characteristicQualifier">
+    <name>nicunec.txt::sample_cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009200" type="characteristicQualifier">
+    <name>nicunec.txt::sample_claforan</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009201" type="characteristicQualifier">
+    <name>nicunec.txt::sample_clindamycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009202" type="characteristicQualifier">
+    <name>nicunec.txt::sample_fluconazole</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009203" type="characteristicQualifier">
+    <name>nicunec.txt::sample_gentamycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009204" type="characteristicQualifier">
+    <name>nicunec.txt::sample_nafcillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009205" type="characteristicQualifier">
+    <name>nicunec.txt::sample_nystatin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009206" type="characteristicQualifier">
+    <name>nicunec.txt::sample_ofloxacin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009207" type="characteristicQualifier">
+    <name>nicunec.txt::sample_vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009208" type="characteristicQualifier">
+    <name>nicunec.txt::sample_zosyn</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009209" type="characteristicQualifier">
+    <name>nicunec.txt::season_of_birth</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009210" type="characteristicQualifier">
+    <name>nicunec.txt::sepsis</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009215" type="characteristicQualifier">
+    <name>nicunec.txt::sibling_set_id</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009211" type="characteristicQualifier">
+    <name>nicunec.txt::survived</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="HP_0000238" type="characteristicQualifier">
+    <name>pih_uganda.txt::hydrocephalus</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009130" type="characteristicQualifier">
+    <name>resistome.txt::ampicillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009176" type="characteristicQualifier">
+    <name>resistome.txt::antenatal_steroids</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009147" type="characteristicQualifier">
+    <name>resistome.txt::bed_number</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009156" type="characteristicQualifier">
+    <name>resistome.txt::caffeine</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009129" type="characteristicQualifier">
+    <name>resistome.txt::cefazolin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009136" type="characteristicQualifier">
+    <name>resistome.txt::cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009135" type="characteristicQualifier">
+    <name>resistome.txt::clindamycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009174" type="characteristicQualifier">
+    <name>resistome.txt::dur_membrane_rupture</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009153" type="characteristicQualifier">
+    <name>resistome.txt::formula with cows-milk-based fortifications</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009152" type="characteristicQualifier">
+    <name>resistome.txt::formula without cows-milk-based fortifications</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009158" type="characteristicQualifier">
+    <name>resistome.txt::furosemide_lasix</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009128" type="characteristicQualifier">
+    <name>resistome.txt::gentamicin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009149" type="characteristicQualifier">
+    <name>resistome.txt::human milk</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009126" type="characteristicQualifier">
+    <name>resistome.txt::indication</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009157" type="characteristicQualifier">
+    <name>resistome.txt::iron</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009183" type="characteristicQualifier">
+    <name>resistome.txt::klebsiella_species</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009163" type="characteristicQualifier">
+    <name>resistome.txt::m_amoxicillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009160" type="characteristicQualifier">
+    <name>resistome.txt::m_ampicillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009162" type="characteristicQualifier">
+    <name>resistome.txt::m_azithromycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009164" type="characteristicQualifier">
+    <name>resistome.txt::m_cefazolin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009170" type="characteristicQualifier">
+    <name>resistome.txt::m_cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009161" type="characteristicQualifier">
+    <name>resistome.txt::m_ceftriaxone</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009169" type="characteristicQualifier">
+    <name>resistome.txt::m_clindamycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009165" type="characteristicQualifier">
+    <name>resistome.txt::m_erythromycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009166" type="characteristicQualifier">
+    <name>resistome.txt::m_gentamicin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009167" type="characteristicQualifier">
+    <name>resistome.txt::m_penicillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009168" type="characteristicQualifier">
+    <name>resistome.txt::m_vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009150" type="characteristicQualifier">
+    <name>resistome.txt::maternal milk</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009132" type="characteristicQualifier">
+    <name>resistome.txt::meropenem</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009151" type="characteristicQualifier">
+    <name>resistome.txt::pasteurized donor milk</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009173" type="characteristicQualifier">
+    <name>resistome.txt::pre-eclampsia</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009143" type="characteristicQualifier">
+    <name>resistome.txt::r_ampicillin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009144" type="characteristicQualifier">
+    <name>resistome.txt::r_cefotaxime</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009139" type="characteristicQualifier">
+    <name>resistome.txt::r_gentamicin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009140" type="characteristicQualifier">
+    <name>resistome.txt::r_meropenem</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009141" type="characteristicQualifier">
+    <name>resistome.txt::r_ticarcillin-clavulanate</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009145" type="characteristicQualifier">
+    <name>resistome.txt::r_total</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009142" type="characteristicQualifier">
+    <name>resistome.txt::r_vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009146" type="characteristicQualifier">
+    <name>resistome.txt::room</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009099" type="characteristicQualifier">
+    <name>resistome.txt::room_type</name>
+    <name>stlouisnicu.txt::hospital room type</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009184" type="characteristicQualifier">
+    <name>resistome.txt::stenotrophomonas_maltophilia</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009134" type="characteristicQualifier">
+    <name>resistome.txt::ticarcillin-clavulanate</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009181" type="characteristicQualifier">
+    <name>resistome.txt::tracheal</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009131" type="characteristicQualifier">
+    <name>resistome.txt::trimethoprim-sulfamathoxazole</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009180" type="characteristicQualifier">
+    <name>resistome.txt::urine</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009133" type="characteristicQualifier">
+    <name>resistome.txt::vancomycin</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009155" type="characteristicQualifier">
+    <name>resistome.txt::vitamin_a</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009101" type="characteristicQualifier">
+    <name>stlouisnicu.txt::blood culture results</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009100" type="characteristicQualifier">
+    <name>stlouisnicu.txt::breast milk by percent volume</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009102" type="characteristicQualifier">
+    <name>stlouisnicu.txt::percentage of life on antibiotics</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009098" type="characteristicQualifier">
+    <name>stlouisnicu.txt::period of study</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="SYMP_0019174" type="characteristicQualifier">
+    <name>ugandamaternal.txt::chills reported</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009107" type="characteristicQualifier">
+    <name>ugandamaternal.txt::cytomegalovirus</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0038078" type="characteristicQualifier">
+    <name>ugandamaternal.txt::delivery duration</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009109" type="characteristicQualifier">
+    <name>ugandamaternal.txt::fever during labor</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0033193" type="characteristicQualifier">
+    <name>ugandamaternal.txt::hiv status</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0000048" type="characteristicQualifier">
+    <name>ugandamaternal.txt::malaria results</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="EUPATH_0009110" type="characteristicQualifier">
+    <name>ugandamaternal.txt::number of previous pregnancies</name>
+  </ontologyTerm>
+  <ontologyTerm category="human" parent="ENTITY" source_id="GSSO_004872" type="characteristicQualifier">
+    <name>ugandamaternal.txt::vaginal infection</name>
+  </ontologyTerm>
+</ontologymappings>
