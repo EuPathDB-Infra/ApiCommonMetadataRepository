@@ -618,10 +618,10 @@
   <ontologyTerm source_id="CHEBI_61049" type="characteristicQualifier" parent="Sample">
     <name>mic_of_fk506</name>
   </ontologyTerm>
-  <ontologyTerm source_id="CHEBI_7488" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="CHEBI_81781" type="characteristicQualifier" parent="Sample">
     <name>mic_of_tebuconazole</name>
   </ontologyTerm>
-  <ontologyTerm source_id="CHEBI_81781" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="CHEBI_7488" type="characteristicQualifier" parent="Sample">
     <name>mic_of_natamycin</name>
   </ontologyTerm>
   <ontologyTerm source_id="CHEBI_9448" type="characteristicQualifier" parent="Sample">
