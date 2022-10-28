@@ -3,8 +3,8 @@
   <study fileName="PIH_Uganda.txt" identifierSuffix="-1" sampleRegex="PIH_Uganda">
     <dataset>MicrobiomeStudyEDA_PIH_Uganda_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source"  /> 
-    <node name="Sample" type="Sample"/>
+    <node name="Source" type="Participant" suffix="Source" idColumn="name" /> 
+    <node name="Sample" type="Sample" idColumn="name" />
     <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V1-V2 region" suffix="16S" idColumn="name" />
 
 
