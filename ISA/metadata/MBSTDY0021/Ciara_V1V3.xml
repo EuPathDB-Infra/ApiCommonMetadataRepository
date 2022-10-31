@@ -4,7 +4,7 @@
     <dataset>MicrobiomeStudyEDA_Ciara_V1V3_RSRC</dataset>
 
     <node name="Source" type="Participant" suffix="Source" idColumn="host_subject_id" /> 
-    <node name="Sample" type="Sample"/>
+    <node name="Sample" type="Sample" idColumn="name"/>
     <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V1-V3 region" suffix="16S" idColumn="name" />
 
 

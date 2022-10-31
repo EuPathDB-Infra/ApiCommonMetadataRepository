@@ -3,8 +3,8 @@
   <study fileName="GEMS.txt" identifierSuffix="-1" sampleRegex="GEMS">
     <dataset>MicrobiomeStudyEDA_GEMS_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source"  /> 
-    <node name="Sample" type="Sample"/>
+    <node name="Source" type="Participant" suffix="Source" idColumn="gems_sample_id" /> 
+    <node name="Sample" type="Sample" idColumn="name" />
     <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V1-V2 region" suffix="16S" idColumn="name" />
 
 

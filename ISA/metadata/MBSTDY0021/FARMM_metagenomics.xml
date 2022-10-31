@@ -4,8 +4,8 @@
     <dataset>MicrobiomeStudyEDA_FARMM_metagenomics_RSRC</dataset>
 
     <node name="Source" type="Participant" suffix="Source" idColumn="subject_id" /> 
-    <node name="Sample" type="Sample"/>
-    <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS" idColumn="name"/>
+    <node name="Sample" type="Sample" idColumn="name"/>
+    <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS" idColumn="name" />
 
 
     <edge input="Source" output="Sample">

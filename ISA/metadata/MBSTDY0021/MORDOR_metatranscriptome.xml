@@ -3,8 +3,8 @@
   <study fileName="MORDOR_metatranscriptome.txt" identifierSuffix="-1" sampleRegex="MORDOR_metatranscriptome">
     <dataset>MicrobiomeStudyEDA_MORDOR_metatranscriptome_RSRC</dataset>
 
-    <node name="Source" type="Participant" suffix="Source"  /> 
-    <node name="Sample" type="Sample"/>
+    <node name="Source" type="Participant" suffix="Source" idColumn="name" /> 
+    <node name="Sample" type="Sample" idColumn="name" />
     <node isaObject="Assay" name="WGS" type="whole metagenome sequencing assay" suffix="WGS" idColumn="name" />
 
 

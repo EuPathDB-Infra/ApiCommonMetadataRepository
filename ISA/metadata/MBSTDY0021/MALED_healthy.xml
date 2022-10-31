@@ -4,7 +4,7 @@
     <dataset>MicrobiomeStudyEDA_MALED_healthy_RSRC</dataset>
 
     <node name="Source" type="Participant" suffix="Source" idColumn="Child ID" /> 
-    <node name="Sample" type="Sample"/>
+    <node name="Sample" type="Sample" idColumn="name"/>
     <node isaObject="Assay" name="16S" type="16S rRNA sequencing assay targeting V4 region" suffix="16S" idColumn="name" />
 
 
