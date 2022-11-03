@@ -2,11 +2,11 @@
   <study fileName="FARMM_metagenomics.txt" identifierSuffix="-32" sampleRegex="MBSMPL">
     <dataset>otuDADA2_FARMM_metagenomics_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU and functional profiles from WGS"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU and functional profiles from WGS" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -25,11 +25,11 @@
   <study fileName="MORDOR_metatranscriptome.txt" identifierSuffix="-31" sampleRegex="MBSMPL">
     <dataset>otuDADA2_MORDOR_metatranscriptome_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU and functional profiles from WGS"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU and functional profiles from WGS" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -47,11 +47,11 @@
   <study fileName="Malaysia_Helminth.txt" identifierSuffix="-30" sampleRegex="MBSMPL">
     <dataset>otuDADA2_Malaysia_Helminth_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU and functional profiles from WGS"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU and functional profiles from WGS" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -69,11 +69,11 @@
   <study fileName="NICUDischarge.txt" identifierSuffix="-29" sampleRegex="MBSMPL">
     <dataset>otuDADA2_NICUDischarge_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU and functional profiles from WGS"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU and functional profiles from WGS" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -91,11 +91,11 @@
   <study fileName="UgandaMaternalV3V4.txt" identifierSuffix="-28" sampleRegex="MBSMPL">
     <dataset>otuDADA2_UgandaMaternalV3V4_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -113,11 +113,11 @@
   <study fileName="UgandaMaternalV1V2.txt" identifierSuffix="-27" sampleRegex="MBSMPL">
     <dataset>otuDADA2_UgandaMaternalV1V2_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -136,11 +136,11 @@
   <study fileName="DIABIMMUNE_WGS.txt" identifierSuffix="-26" sampleRegex="MBSMPL">
     <dataset>otuDADA2_DIABIMMUNE_WGS_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU and functional profiles from WGS"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU and functional profiles from WGS" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -159,11 +159,11 @@
   <study fileName="AnophelesAlbimanus.txt" identifierSuffix="-25" sampleRegex="MBSMPL">
     <dataset>otuDADA2_AnophelesAlbimanus_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -181,11 +181,11 @@
   <study fileName="BONUS.txt" identifierSuffix="-24" sampleRegex="MBSMPL">
     <dataset>otuDADA2_BONUS_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU and functional profiles from WGS"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU and functional profiles from WGS" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -203,11 +203,11 @@
   <study fileName="NICUNEC.txt" identifierSuffix="-23" sampleRegex="MBSMPL">
     <dataset>otuDADA2_NICUNEC_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU and functional profiles from WGS"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU and functional profiles from WGS" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -226,11 +226,11 @@
   <study fileName="HMPWgs.txt" identifierSuffix="-22" sampleRegex="MBSMPL">
     <dataset>otuDADA2_HMPWgs_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU and functional profiles from WGS"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU and functional profiles from WGS" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -249,11 +249,11 @@
   <study fileName="ResistomeWgs.txt" identifierSuffix="-21" sampleRegex="MBSMPL">
     <dataset>otuDADA2_ResistomeWgs_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU and functional profiles from WGS"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU and functional profiles from WGS" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -271,11 +271,11 @@
   <study fileName="ResistomeAmplicon.txt" identifierSuffix="-20" sampleRegex="MBSMPL">
     <dataset>otuDADA2_ResistomeAmplicon_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -294,11 +294,11 @@
   <study fileName="EcoCF.txt" identifierSuffix="-19" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EcoCF_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -317,11 +317,11 @@
   <study fileName="DailyBaby.txt" identifierSuffix="-18" sampleRegex="MBSMPL">
     <dataset>otuDADA2_DailyBaby_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -340,11 +340,11 @@
   <study fileName="StLouisNICU.txt" identifierSuffix="-17" sampleRegex="MBSMPL">
     <dataset>otuDADA2_StLouisNICU_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -364,11 +364,11 @@
   <study fileName="PIH_Uganda.txt" identifierSuffix="-16" sampleRegex="MBSMPL">
     <dataset>otuDADA2_PIH_Uganda_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -387,11 +387,11 @@
   <study fileName="DIABIMMUNE.txt" identifierSuffix="-15" sampleRegex="MBSMPL">
     <dataset>otuDADA2_DIABIMMUNE_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -410,11 +410,11 @@
   <study fileName="MALED_diarrhea.txt" identifierSuffix="-14" sampleRegex="MBSMPL">
     <dataset>otuDADA2_MALED_diarrhea_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -433,11 +433,11 @@
   <study fileName="Bangladesh_healthy_5yr.txt" identifierSuffix="-13" sampleRegex="MBSMPL">
     <dataset>otuDADA2_Bangladesh_healthy_5yr_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -458,11 +458,11 @@
   <study fileName="MALED_healthy.txt" identifierSuffix="-12" sampleRegex="MBSMPL">
     <dataset>otuDADA2_MALED_healthy_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -482,11 +482,11 @@
   <study fileName="Ciara_V4.txt" identifierSuffix="-11" sampleRegex="MBSMPL">
     <dataset>otuDADA2_Ciara_V4_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -506,11 +506,11 @@
   <study fileName="Ciara_V1V3.txt" identifierSuffix="-10" sampleRegex="MBSMPL">
     <dataset>otuDADA2_Ciara_V1V3_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -530,11 +530,11 @@
   <study fileName="CAMP.txt" identifierSuffix="-9" sampleRegex="MBSMPL">
     <dataset>otuDADA2_CAMP_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -554,11 +554,11 @@
   <study fileName="ENTiCE.txt" identifierSuffix="-8" sampleRegex="MBSMPL">
     <dataset>otuDADA2_ENTiCE_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -577,11 +577,11 @@
   <study fileName="GEMS.txt" identifierSuffix="-7" sampleRegex="MBSMPL">
     <dataset>otuDADA2_GEMS_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>
-    <node name="Sample" type="sample from organism"/>
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>
+    <node name="Sample" type="sample from organism" idColumn="name"/>
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -600,11 +600,11 @@
   <study fileName="EMP_1064_Bee_Microbiome.txt" identifierSuffix="-1" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EMP_1064_Bee_Microbiome_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -623,11 +623,11 @@
   <study fileName="EMP_797_Song_Family.txt" identifierSuffix="-2" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EMP_797_Song_Family_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -646,11 +646,11 @@
   <study fileName="EMP_1927_HMP_V13.txt" identifierSuffix="-3" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EMP_1927_HMP_V13_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -669,11 +669,11 @@
   <study fileName="EMP_1928_HMP_V35.txt" identifierSuffix="-4" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EMP_1928_HMP_V35_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -692,11 +692,11 @@
   <study fileName="EMP_2192_Gilbert_House.txt" identifierSuffix="-5" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EMP_2192_Gilbert_House_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
@@ -715,11 +715,11 @@
   <study fileName="EMP_10249_ECAM.txt" identifierSuffix="-6" sampleRegex="MBSMPL">
     <dataset>otuDADA2_EMP_10249_ECAM_RSRC</dataset>
 
-    <node name="Source" type="host" suffix="Source"/>  
-    <node name="Sample" type="sample from organism"/>  
-    <node name="Extract" type="DNA extract" suffix="Extract"/>
-    <node name="Assay" suffix="Assay"/>
-    <node name="DataTransformation" suffix="OTU"/>
+    <node name="Source" type="host" suffix="Source" idColumn="name"/>  
+    <node name="Sample" type="sample from organism" idColumn="name"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract" idColumn="name"/>
+    <node name="Assay" suffix="Assay" idColumn="name"/>
+    <node name="DataTransformation" suffix="OTU" idColumn="name"/>
 
     <edge input="Source" output="Sample">
         <protocol>specimen collection</protocol>
