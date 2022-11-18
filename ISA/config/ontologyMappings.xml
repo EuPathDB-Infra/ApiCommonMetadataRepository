@@ -144,6 +144,7 @@
     <name>age</name>
     <name>age at visit</name>
     <name>age at collection</name>
+    <name>Age (years)</name>
     <function>splitUnitFromValue</function>
   </ontologyTerm>
   <ontologyTerm source_id="EFO_0005056" type="characteristicQualifier" parent="Source">
@@ -329,74 +330,85 @@
     <name>host variety</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="OMRSE_00000205" type="characteristicQualifier" parent="source">
-    <name>ethnicity</name>
+  <ontologyTerm source_id="OMRSE_00000205" type="characteristicQualifier" parent="Source">
+    <name>Ethnicity</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="CMO_0000026" type="characteristicQualifier" parent="source">
-    <name>hemoglobin concentration (g/dl)</name>
+  <ontologyTerm source_id="CMO_0000026" type="characteristicQualifier" parent="Source">
+    <name>Hemoglobin concentration (g/dL)</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="CMO_0001303" type="characteristicQualifier" parent="source">
-    <name>lactate (mmol/l)</name>
+  <ontologyTerm source_id="CMO_0001303" type="characteristicQualifier" parent="Source">
+    <name>Lactate (mmol/L)</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="CMO_0000031" type="characteristicQualifier" parent="source">
-    <name>lymphocyte count  (x109/l)</name>
+  <ontologyTerm source_id="CMO_0000031" type="characteristicQualifier" parent="Source">
+    <name>Lymphocyte count (x109/L)</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="CMO_0000038" type="characteristicQualifier" parent="source">
-    <name>mean cell volume (fl)</name>
+  <ontologyTerm source_id="CMO_0000038" type="characteristicQualifier" parent="Source">
+    <name>Mean cell volume (fL)</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="CMO_0000032" type="characteristicQualifier" parent="source">
-    <name>monocyte count  (x109/l)</name>
+  <ontologyTerm source_id="CMO_0000032" type="characteristicQualifier" parent="Source">
+    <name>Monocyte count (x109/L)</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="CMO_0000030" type="characteristicQualifier" parent="source">
-    <name>neutrophil count  (x109/l)</name>
+  <ontologyTerm source_id="CMO_0000030" type="characteristicQualifier" parent="Source">
+    <name>Neutrophil count (x109/L)</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="EUPATH_0005039" type="characteristicQualifier" parent="source">
-    <name>parasite density (/ul)</name>
+  <ontologyTerm source_id="EUPATH_0005039" type="characteristicQualifier" parent="Source">
+    <name>Parasite density by RNA sequencing (/ul)</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="CMO_0000371" type="characteristicQualifier" parent="source">
-    <name>percentage lymphocytes</name>
+  <ontologyTerm source_id="CMO_0000371" type="characteristicQualifier" parent="Source">
+    <name>Percentage lymphocytes</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="CMO_0000374" type="characteristicQualifier" parent="source">
-    <name>percentage monocytes</name>
+  <ontologyTerm source_id="CMO_0000374" type="characteristicQualifier" parent="Source">
+    <name>Percentage monocytes</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="CMO_0000370" type="characteristicQualifier" parent="source">
-    <name>percentage neutrophils</name>
+  <ontologyTerm source_id="CMO_0000370" type="characteristicQualifier" parent="Source">
+    <name>Percentage neutrophils</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="EUPATH_0005032" type="characteristicQualifier" parent="source">
-    <name>percentage parasitemia</name>
+  <ontologyTerm source_id="EUPATH_0005032" type="characteristicQualifier" parent="Source">
+    <name>Percentage parasitemia</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="EUPATH_0005038" type="characteristicQualifier" parent="source">
-    <name>pfhrp2 (ng/ml)</name>
+  <ontologyTerm source_id="EUPATH_0005038" type="characteristicQualifier" parent="Source">
+    <name>P. falciparum HRP2 (ng/mL)</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="CMO_0000029" type="characteristicQualifier" parent="source">
-    <name>platelet count (x109/l)</name>
+  <ontologyTerm source_id="CMO_0000029" type="characteristicQualifier" parent="Source">
+    <name>Platelet count (x109/L)</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="CMO_0000025" type="characteristicQualifier" parent="source">
-    <name>red blood cell count (x1012/l)</name>
+  <ontologyTerm source_id="CMO_0000025" type="characteristicQualifier" parent="Source">
+    <name>Red blood cell count (x1012/L)</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="EUPATH_0005037" type="characteristicQualifier" parent="source">
-    <name>sickle cell screen</name>
+  <ontologyTerm source_id="EUPATH_0005037" type="characteristicQualifier" parent="Source">
+    <name>Presence of sickling hemoglobin</name>
   </ontologyTerm>
 
-  <ontologyTerm source_id="CMO_0000027" type="characteristicQualifier" parent="source">
-    <name>total white cell count (x109/l)</name>
+  <ontologyTerm source_id="CMO_0000027" type="characteristicQualifier" parent="Source">
+    <name>Total White Cell Count (x109/L)</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="EUPATH_0005037" type="characteristicQualifier" parent="Source">
+    <name>Sickle cell screen</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="EUPATH_0005039" type="characteristicQualifier" parent="Source">
+    <name>Parasite density (/ul)</name>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="EUPATH_0005038" type="characteristicQualifier" parent="Source">
+    <name>PfHRP2 (ng/mL)</name>
+  </ontologyTerm>
 <!-- only used in ICEMR protein array -->
   <ontologyTerm source_id="HP_0001892" type="characteristicQualifier" parent="Source">
     <name>abnormal_bleeding</name>
