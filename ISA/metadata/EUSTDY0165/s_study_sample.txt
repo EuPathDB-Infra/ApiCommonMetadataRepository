@@ -1,7 +1,25 @@
-Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [Health status]	Characteristics [organism]	Characteristics [specimen]	latitude	longitude	Characteristics [fungus organism]	Characteristics [fungal strain]
-CNISP-0002	SNP calls on WGS of Candida auris isolated in Canada			PUBLIC HEALTH AGENCY OF CANADA	2018	Canada	North America	Colonization	Homo sapiens	Healthcare	49.91 N	97.16 W	Candida auris	Candida auris CNISP-0002
-CNISP-0001	SNP calls on WGS of Candida auris isolated in Canada			PUBLIC HEALTH AGENCY OF CANADA	2018	Canada	North America	Colonization	Homo sapiens	Healthcare	49.91 N	97.16 W	Candida auris	Candida auris CNISP-0001
-N18-01914	SNP calls on WGS of Candida auris isolated in Canada			NML	2018	Canada	North America	Fungal colonization	Homo sapiens	Axilla	49.26 N	123.16 W	Candida auris	Candida auris N18-01914
-N18-01800	SNP calls on WGS of Candida auris isolated in Canada			NML	2018	Canada	North America	Candidemia	Homo sapiens	blood	49.26 N	123.16 W	Candida auris	Candida auris N18-01800
-N18-01798	SNP calls on WGS of Candida auris isolated in Canada			NML	2018	Canada	North America	Fungal colonization	Homo sapiens	Axilla	49.26 N	123.16 W	Candida auris	Candida auris N18-01798
-N18-01799	SNP calls on WGS of Candida auris isolated in Canada			NML	2018	Canada	North America	Wound	Homo sapiens	Toe Surgical Site	49.26 N	123.16 W	Candida auris	Candida auris N18-01799
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	specimen collector	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [Health status]	Characteristics [organism]	Characteristics [specimen]	latitude	longitude	Characteristics [fungus organism]	Characteristics [fungal strain]
+CNISP-0002				PUBLIC HEALTH AGENCY OF CANADA	CNISP	2018	Canada	North America	Colonization	Homo sapiens	Healthcare	49.91 N	97.16 W	[Candida] auris	[Candida] auris CNISP-0002
+CNISP-0001				PUBLIC HEALTH AGENCY OF CANADA	CNISP	2018	Canada	North America	Colonization	Homo sapiens	Healthcare	49.91 N	97.16 W	[Candida] auris	[Candida] auris CNISP-0001
+N19-00216				NML	PHAC	2019	Canada	North America	Colonization	Homo sapiens	Axilla	49.26 N	123.16 W	[Candida] auris	[Candida] auris N19-00216
+N19-00135				NML	PHAC	2015	Canada	North America	Candidiasis or Colonization	Homo sapiens	Peritoneum	49.26 N	123.16 W	[Candida] auris	[Candida] auris N19-00135
+N19-00171				NML	PHAC	2019	Canada	North America	Candidiasis or Colonization	Homo sapiens	sputum	49.26 N	123.16 W	[Candida] auris	[Candida] auris N19-00171
+N18-02509				NML	PHAC	2014	Canada	North America	Candidiasis or Colonization	Homo sapiens	blood	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-02509
+N19-01047				NML	PHAC	2018	Canada	North America	Candidiasis or Colonization	Homo sapiens	Bronchial wash	49.26 N	123.16 W	[Candida] auris	[Candida] auris N19-01047
+N18-02511				NML	PHAC	2014	Canada	North America	Candidiasis or Colonization	Homo sapiens	blood	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-02511
+N18-02510				NML	PHAC	2017	Canada	North America	Candidiasis or Colonization	Homo sapiens	Leg	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-02510
+N19-02669				NML	PHAC	2019	Canada	North America	Colonization	Homo sapiens	nares	49.26 N	123.16 W	[Candida] auris	[Candida] auris N19-02669
+N19-02739				NML	PHAC	2019	Canada	North America	Candidiasis or Colonization	Homo sapiens	ear	49.26 N	123.16 W	[Candida] auris	[Candida] auris N19-02739
+N19-03592				NML	PHAC	2019	Canada	North America	Candidiasis or Colonization	Homo sapiens	ear	49.26 N	123.16 W	[Candida] auris	[Candida] auris N19-03592
+N18-02513				NML	PHAC	2014	Canada	North America	Candidiasis or Colonization	Homo sapiens	blood	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-02513
+N18-01801				NML	PHAC	2018	Canada	North America	Candidiasis or Colonization	Homo sapiens	trachea	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-01801
+N18-02487				NML	PHAC	2017	Canada	North America	Candidiasis or Colonization	Homo sapiens	ear	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-02487
+N19-03893				NML	PHAC	2019	Canada	North America	Candidiasis or Colonization	Homo sapiens	Toe	49.26 N	123.16 W	[Candida] auris	[Candida] auris N19-03893
+N18-02486				NML	PHAC	2012	Canada	North America	Candidiasis or Colonization	Homo sapiens	ear	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-02486
+N18-01797				NML	PHAC	2018	Canada	North America	Colonization	Homo sapiens	Groin	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-01797
+N18-01802				NML	PHAC	2018	Canada	North America	Candidiasis or Colonization	Homo sapiens	Drainage	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-01802
+N18-02485				NML	PHAC	2014	Canada	North America	Candidiasis or Colonization	Homo sapiens	ear	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-02485
+N18-01798				NML	BCCDC	2018	Canada	North America	Fungal colonization	Homo sapiens	Axilla	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-01798
+N18-01914				NML	BCCDC	2018	Canada	North America	Fungal colonization	Homo sapiens	Axilla	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-01914
+N18-01799				NML	BCCDC	2018	Canada	North America	Wound	Homo sapiens	Toe Surgical Site	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-01799
+N18-01800				NML	BCCDC	2018	Canada	North America	Candidemia	Homo sapiens	blood	49.26 N	123.16 W	[Candida] auris	[Candida] auris N18-01800
