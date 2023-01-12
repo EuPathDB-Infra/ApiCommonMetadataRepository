@@ -1,0 +1,51 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics[city]	Characteristics [Health status]	Characteristics [organism]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
+USGS_26090_7_WA				12/16/14	USA	North America	 WA	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_7_WA
+USGS_25404_1_HI				10/28/16	USA	North America	 HI	Aspergillosis	Puffinus newelli	heart	Aspergillus fumigatus	Aspergillus fumigatus USGS_25404_1_HI
+USGS_25297_1_HI				2/2/16	USA	North America	 HI	Aspergillosis	Branta sandvicensis	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_25297_1_HI
+USGS_26090_5_WA				12/16/14	USA	North America	 WA	Aspergillosis	Mareca americana	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_5_WA
+USGS_26090_4_WA				12/16/14	USA	North America	 WA	Aspergillosis	Mareca americana	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_4_WA
+USGS_26090_3_WA				12/16/14	USA	North America	 WA	Aspergillosis	Anas acuta	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_3_WA
+USGS_26090_2_WA				12/16/14	USA	North America	 WA	Aspergillosis	Cygnus buccinator	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_2_WA
+USGS_26090_1_WA				12/16/14	USA	North America	 WA	Aspergillosis	Cygnus columbianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_1_WA
+USGS_29436_2_MA				10/7/19	USA	North America	 MA	Aspergillosis	Larus smithsonianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_29436_2_MA
+USGS_29436_1_MA				10/7/19	USA	North America	 MA	Aspergillosis	Larus smithsonianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_29436_1_MA
+USGS_29376_1_WI				8/27/19	USA	North America	 WI	Aspergillosis	Haliaeetus leucocephalus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_29376_1_WI
+USGS_28913_2_MS				8/29/18	USA	North America	 MS	Aspergillosis	Leucophaeus atricilla	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_28913_2_MS
+USGS_28913_1_MS				8/29/18	USA	North America	 MS	Aspergillosis	Leucophaeus atricilla	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28913_1_MS
+USGS_28858_1_WI				7/18/18	USA	North America	 WI	Aspergillosis	Larus smithsonianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28858_1_WI
+USGS_28834_1_NV				7/24/18	USA	North America	 NV	Aspergillosis	Larus sp.	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28834_1_NV
+USGS_28429_3_MN				1/9/18	USA	North America	 MN	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_28429_3_MN
+USGS_28426_1_NE				1/7/18	USA	North America	 NE	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_28426_1_NE
+USGS_28267_1_CA				7/7/17	USA	North America	 CA	Aspergillosis	Brachyramphus marmoratus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28267_1_CA
+USGS_26080_6_WA				12/8/14	USA	North America	 WA	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26080_6_WA
+USGS_28253_1_SC				5/3/17	USA	North America	 SC	Aspergillosis	Melanitta americana	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28253_1_SC
+USGS_28113_1_MA				5/22/17	USA	North America	 MA	Aspergillosis	Sterna hirundo	lung/air sac pooled	Aspergillus fumigatus	Aspergillus fumigatus USGS_28113_1_MA
+USGS_27784_1_SC				2/18/17	USA	North America	 SC	Aspergillosis	Haliaeetus leucocephalus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_27784_1_SC
+USGS_27721_1_KS				1/21/17	USA	North America	 KS	Aspergillosis	Haliaeetus leucocephalus	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_27721_1_KS
+USGS_27717_1_WA				1/23/17	USA	North America	 WA	Aspergillosis	Circus hudsonius	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_27717_1_WA
+USGS_27562_1_MD				9/27/16	USA	North America	 MD	Aspergillosis	Leucophaeus atricilla	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_27562_1_MD
+USGS_27540_1_ME				9/14/16	USA	North America	 ME	Aspergillosis	Larus marinus	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_27540_1_ME
+USGS_27539_1_ME				9/12/16	USA	North America	 ME	Aspergillosis	Larus smithsonianus	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_27539_1_ME
+USGS_27510_1_FL				8/23/16	USA	North America	 FL	Aspergillosis	Leucophaeus atricilla	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_27510_1_FL
+USGS_26879_1_WI				10/25/15	USA	North America	 WI	Aspergillosis	Bubo scandiacus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26879_1_WI
+USGS_26080_3_WA				12/8/14	USA	North America	 WA	Aspergillosis	Mareca americana	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26080_3_WA
+USGS_26835_1_MI				8/17/15	USA	North America	 MI	Aspergillosis	Larus smithsonianus	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26835_1_MI
+USGS_26829_2_WI				10/8/15	USA	North America	 WI	Aspergillosis	Branta canadensis	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26829_2_WI
+USGS_26829_1_WI				10/8/15	USA	North America	 WI	Aspergillosis	Branta canadensis	lung/air sac pooled	Aspergillus fumigatus	Aspergillus fumigatus USGS_26829_1_WI
+USGS_26707_2_ND				8/11/15	USA	North America	 ND	Aspergillosis	Leucophaeus pipixcan	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26707_2_ND
+USGS_26696_2_WI				8/6/15	USA	North America	 WI	Aspergillosis	Branta canadensis	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26696_2_WI
+USGS_26696_1_WI				8/6/15	USA	North America	 WI	Aspergillosis	Branta canadensis	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26696_1_WI
+USGS_26655_4_WI				12/20/14	USA	North America	 WI	Aspergillosis	Larus delawarensis	neck muscle	Aspergillus fumigatus	Aspergillus fumigatus USGS_26655_4_WI
+USGS_26624_4_OH				7/9/15	USA	North America	 OH	Aspergillosis	Branta canadensis	heart	Aspergillus fumigatus	Aspergillus fumigatus USGS_26624_4_OH
+USGS_26624_1_OH				7/5/15	USA	North America	 OH	Aspergillosis	Branta canadensis	heart	Aspergillus fumigatus	Aspergillus fumigatus USGS_26624_1_OH
+USGS_26528_1_WI				5/20/15	USA	North America	 WI	Aspergillosis	Haliaeetus leucocephalus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26528_1_WI
+USGS_26080_10_WA				12/8/14	USA	North America	 WA	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26080_10_WA
+USGS_26516_1_IL				5/27/15	USA	North America	 IL	Aspergillosis	Cygnus olor	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26516_1_IL
+USGS_26501_1_MN				5/26/15	USA	North America	 MN	Aspergillosis	Larus smithsonianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26501_1_MN
+USGS_26222_1_NV				2/3/15	USA	North America	 NV	Aspergillosis	Buteo jamaicensis	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26222_1_NV
+USGS_26218_3_MT				2/6/15	USA	North America	 MT	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26218_3_MT
+USGS_26218_2_MT				2/6/15	USA	North America	 MT	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26218_2_MT
+USGS_26218_1_MT				2/6/15	USA	North America	 MT	Aspergillosis	Anas platyrhynchos	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26218_1_MT
+USGS_26201_1_WA				1/11/15	USA	North America	 WA	Aspergillosis	Cygnus buccinator	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26201_1_WA
+USGS_26113_1_WA				1/6/15	USA	North America	 WA	Aspergillosis	Phalacrocorax auritus	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26113_1_WA
+USGS_26090_8_WA				12/16/14	USA	North America	 WA	Aspergillosis	Anas platyrhynchos	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_8_WA
