@@ -1,0 +1,118 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	characteristics [fungal genotype]	Characteristics[country]	Characteristics [continent]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
+WM_179				1993	VGI	Australia	Oceania	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_179
+B6864				2004	VGIIa	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B6864
+B7395				2008	VGIIa	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7395
+B7422				2009	VGIIa	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7422
+B7436				2009	VGIIa	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7436
+B7467				2009	VGIIa	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7467
+B8555				2006	VGIIa	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8555
+B8577				2009	VGIIa	Canada	North America	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8577
+B8793				2010	VGIIa	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8793
+B8849				2010	VGIIa	USA	North America	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8849
+B9457				2011	VGIIa	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B9457
+B9458				2011	VGIIa	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B9458
+B9757				2002	VGIIa	USA	North America	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B9757
+B9759				2003	VGIIa	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B9759
+CA-1014					VGIIa	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII CA-1014
+CBS_7750				1990	VGIIa	USA	North America	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII CBS_7750
+R265_resequence1				2001	VGIIa	Canada	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII R265_resequence1
+HL_A1				2002	VGIIa	Canada	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_A1
+HL_A3				2002	VGIIa	Canada	North America	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_A3
+HL_A11				2001	VGIIa	Canada	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_A11
+HL_B5				2002	VGIIa	Canada	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_B5
+HL_B6				2006	VGIIa	Denmark	Europe	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_B6
+NIH_444				1975	VGIIa	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII NIH_444
+WM_03.697				2001	VGIIa	Canada	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_03.697
+WM_05.432				2000	VGIIa	uncalculated	uncalculated	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.432
+WM_05.554				2002	VGIIa	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.554
+WM_06.10				2000	VGIIa	Argentina	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_06.10
+ICB-107				1981	VGIIa	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII ICB-107
+B7394				2008	VGIIb	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7394
+B7735				2009	VGIIb	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7735
+B8554				2008	VGIIb	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8554
+B8828				2010	VGIIb	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8828
+B9157				2011	VGIIb	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B9157
+B9552				2011	VGIIb	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B9552
+B9563				2011	VGIIb	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B9563
+B9588				2012	VGIIb	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B9588
+B9758				2002	VGIIb	USA	North America	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B9758
+CDC_R272				2001	VGIIb	Canada	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII CDC_R272
+WM_2552				1997	VGIIb	Malaysia	Asia	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_2552
+WM_03.27				1992	VGIIb	Australia	Oceania	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_03.27
+WM_04.71				1991	VGIIb	Australia	Oceania	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_04.71
+WM_05.465				1997	VGIIb	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.465
+WM_06.634				1994	VGIIb	Thailand	Asia	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_06.634
+WM_06.636				1995	VGIIb	Thailand	Asia	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_06.636
+WM_04.75				1993	VGIIb	Thailand	Asia	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_04.75
+B6863				2005	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B6863
+B7432				2009	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7432
+B7434				2008	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7434
+B7466				2008	VGIIc	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7466
+B7491				2009	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7491
+B7493				2009	VGIIc	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7493
+B7641				2008	VGIIc	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7641
+B7737				2009	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7737
+B7765				2009	VGIIc	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7765
+B8210				2008	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8210
+B8214				2009	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8214
+B8510				2009	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8510
+B8571				2009	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8571
+B8788				2010	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8788
+B8798				2005	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8798
+B8825				2010	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8825
+B8833				2010	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8833
+B8838				2010	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8838
+B8843				2010	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8843
+B9816				2012	VGIIc	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B9816
+B9933				2012	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B9933
+GT-11-7650					VGIIc	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII GT-11-7650
+HL_B3				2005	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_B3
+HL_B4				2008	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_B4
+B7390				2008	VGIIc	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B7390
+B8973				2010	VGII	USA	North America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B8973
+B9764				2012	VGII	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII B9764
+CDC-3225				1994	VGII	Brazil	South America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII CDC-3225
+CDC-3234				1998	VGII	Brazil	South America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII CDC-3234
+CDC-3243				2000	VGII	Brazil	South America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII CDC-3243
+HL_A2				2008	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_A2
+HL_A4				1996	VGII	Uruguay	South America	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_A4
+HL_A5				2008	VGII	Brazil	South America	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_A5
+HL_A6				1953	VGII	Aruba	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_A6
+HL_A8				2008	VGII	Brazil	South America	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_A8
+HL_B2				2000	VGII	Brazil	South America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_B2
+HL_B11				1996	VGII	Greece	Europe	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_B11
+HL_B12				1998	VGII	Greece	Europe	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII HL_B12
+WM_178				1991	VGII	Australia	Oceania	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_178
+WM_1850				1999	VGII	Venezuela	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_1850
+WM_1851				1999	VGII	Venezuela	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_1851
+WM_3032				1983	VGII	Australia	Oceania	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_3032
+WM_04.78				1998	VGII	Colombia	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_04.78
+WM_04.84				1986	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_04.84
+WM_05.274				2002	VGII	Colombia	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.274
+WM_05.275				2001	VGII	Colombia	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.275
+WM_05.339				2005	VGII	Colombia	South America	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.339
+WM_05.342				2005	VGII	Colombia	South America	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.342
+WM_05.419				1988	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.419
+WM_05.452				1995	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.452
+WM_05.456				1994	VGII	Brazil	South America	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.456
+WM_05.457				1995	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.457
+WM_05.461				1997	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.461
+WM_05.462				1997	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.462
+WM_05.525				1997	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.525
+WM_05.527				1997	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.527
+WM_05.528				2001	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.528
+WM_05.529				1997	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.529
+WM_05.530				1999	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.530
+WM_05.533				1997	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.533
+WM_05.536				1997	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.536
+WM_05.545				2001	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.545
+WM_05.546				2001	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.546
+WM_05.547				2001	VGII	Brazil	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_05.547
+WM_06.12				1996	VGII	Venezuela	South America	clinical	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_06.12
+WM_08.309				1997	VGII	Australia	Oceania	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_08.309
+WM_08.311				1996	VGII	Australia	Oceania	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_08.311
+WM_09.94				2001	VGII	Australia	Oceania	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_09.94
+WM_09.152				2009	VGII	Australia	Oceania	environmental	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_09.152
+WM_11.65				2011	VGII	Australia	Oceania	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_11.65
+WM_11.139				2011	VGIII	USA	North America	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_11.139
+WM_779				1994	VGIV	South Africa	Africa	Veterinary	Cryptococcus gattii VGIII	Cryptococcus gattii VGIII WM_779
