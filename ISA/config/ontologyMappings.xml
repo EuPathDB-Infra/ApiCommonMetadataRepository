@@ -964,6 +964,89 @@
   <ontologyTerm source_id="NCBITaxon_9312" type="characteristicValue" parent="characteristicQualifier">
     <name>Macropus</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_8839" type="characteristicValue" parent="characteristicQualifier">
+    <name>Anas platyrhynchos</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_232374" type="characteristicValue" parent="characteristicQualifier">
+    <name>Puffinus newelli</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_56282" type="characteristicValue" parent="characteristicQualifier">
+    <name>Branta sandvicensis</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_75832" type="characteristicValue" parent="characteristicQualifier">
+    <name>Mareca americana</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_28680" type="characteristicValue" parent="characteristicQualifier">
+    <name>Anas acuta</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_48397" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cygnus buccinator</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_110926" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cygnus columbianus</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_243888" type="characteristicValue" parent="characteristicQualifier">
+    <name>Larus smithsonianus</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_126679" type="characteristicValue" parent="characteristicQualifier">
+    <name>Leucophaeus atricilla</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_8911" type="characteristicValue" parent="characteristicQualifier">
+    <name>Larus sp.</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_28694" type="characteristicValue" parent="characteristicQualifier">
+    <name>Brachyramphus marmoratus</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_1581554" type="characteristicValue" parent="characteristicQualifier">
+    <name>Melanitta americana</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_108405" type="characteristicValue" parent="characteristicQualifier">
+    <name>Sterna hirundo</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_2709557" type="characteristicValue" parent="characteristicQualifier">
+    <name>Circus hudsonius</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_8912" type="characteristicValue" parent="characteristicQualifier">
+    <name>Larus marinus</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_371907" type="characteristicValue" parent="characteristicQualifier">
+    <name>Bubo scandiacus</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_8853" type="characteristicValue" parent="characteristicQualifier">
+    <name>Branta canadensis</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_690715" type="characteristicValue" parent="characteristicQualifier">
+    <name>Leucophaeus pipixcan</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_126683" type="characteristicValue" parent="characteristicQualifier">
+    <name>Larus delawarensis</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_8869" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cygnus olor</name>
+  </ontologyTerm>
+	
+  <ontologyTerm source_id="NCBITaxon_56069" type="characteristicValue" parent="characteristicQualifier">
+    <name>Phalacrocorax auritus</name>
+  </ontologyTerm>
+
   <ontologyTerm source_id="NCBITaxon_9479" type="characteristicValue" parent="characteristicQualifier">
     <name>Platyrrhini</name>
   </ontologyTerm>

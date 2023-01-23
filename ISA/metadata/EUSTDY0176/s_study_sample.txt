@@ -1,8 +1,8 @@
 Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics[city]	Characteristics [Health status]	Characteristics [organism]	Characteristics [specimen]	latitude	longitude	alternative sample ID	Age (years)	Characteristics [Health status]	Characteristics [sex]	Characteristics [fungus organism]	Characteristics [fungal strain]
-19-04				Wadsworth Center	2/7/19	USA	North America	 New York	candidiasis	Homo sapiens	urine	40.66 N	74.04 W	19-4_S1		missing	missing	Candida auris	Candida auris 19-04
-19-61				Wadsworth Center	12/4/19	USA	North America	 New York	candidiasis	Homo sapiens	urine	40.66 N	74.04 W	19-61_S4		missing	missing	Candida auris	Candida auris 19-61
-19-43				Wadsworth Center	1/25/19	USA	North America	 New York	candidiasis	Homo sapiens	blood	40.66 N	74.04 W	19-43_S3		missing	missing	Candida auris	Candida auris 19-43
-19-42				Wadsworth Center	1/25/19	USA	North America	 New York	candidiasis	Homo sapiens	blood	40.66 N	74.04 W	19-42_S2		missing	missing	Candida auris	Candida auris 19-42
+19-04				Wadsworth Center	2/7/19	USA	North America	 New York	candidiasis	Homo sapiens	urine	40.66 N	74.04 W	19-4_S1				Candida auris	Candida auris 19-04
+19-61				Wadsworth Center	12/4/19	USA	North America	 New York	candidiasis	Homo sapiens	urine	40.66 N	74.04 W	19-61_S4				Candida auris	Candida auris 19-61
+19-43				Wadsworth Center	1/25/19	USA	North America	 New York	candidiasis	Homo sapiens	blood	40.66 N	74.04 W	19-43_S3				Candida auris	Candida auris 19-43
+19-42				Wadsworth Center	1/25/19	USA	North America	 New York	candidiasis	Homo sapiens	blood	40.66 N	74.04 W	19-42_S2				Candida auris	Candida auris 19-42
 20-23				Icahn School of Medicine at Mount Sinai	9/7/20	USA	North America	 New York	refractory fungal peritonitis	Homo sapiens	Abdominal Tissue Exudate	40.8 N	73.9 W	20-23_7188_S19_Day33	29 years	death	female	Candida auris	Candida auris 20-23
 20-22				Icahn School of Medicine at Mount Sinai	9/7/20	USA	North America	 New York	refractory fungal peritonitis	Homo sapiens	blood	40.8 N	73.9 W	20-22_7187_S18_Day33	29 years	death	female	Candida auris	Candida auris 20-22
 20-21				Icahn School of Medicine at Mount Sinai	8/29/20	USA	North America	 New York	refractory fungal peritonitis	Homo sapiens	Aorta tissue	40.8 N	73.9 W	20-21_7186_S17_Day24	29 years	death	female	Candida auris	Candida auris 20-21
