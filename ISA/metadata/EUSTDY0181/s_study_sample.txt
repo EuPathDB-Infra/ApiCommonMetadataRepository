@@ -1,0 +1,3 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics[city]	Characteristics [organism]	Characteristics [fungus organism]	Characteristics [specimen]	Characteristics [Health status]	Characteristics [sex]	latitude	longitude	Characteristics [fungal strain]
+SsEM7				2012	Colombia	South America	 Medellin	Homo sapiens	Sporothrix schenckii	Skin scraping, purulent material	sporotrichosis	male	6.26 N	75.57 W	
+SsMS1				2012	Colombia	South America	 Medellin	Homo sapiens	Sporothrix schenckii	Skin scraping, purulent material	sporotrichosis	female	6.26 N	75.57 W	
