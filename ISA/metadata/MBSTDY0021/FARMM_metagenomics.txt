@@ -404,44 +404,44 @@ SRR13004709	9040	12 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	H
 SRR13004708	9040	13 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
 SRR13004707	9040	14 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
 SRR13004706	9040	15 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	173	71	23.7	22 years	FALSE	Human	Colon	colon	feces
-SRR13004705	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004704	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004703	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004702	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004701	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004699	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004698	NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004697	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004696	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004695	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004694	NA		Blank Swab	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004693	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004692	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004691	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004690	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004688	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004687	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004686	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004685	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004684	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004683	NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004682	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004681	NA		Blank Swab	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004680	NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004679	NA		NA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004677	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004676	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004675	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004674	NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004673	NA		Blank Swab	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004672	NA		NA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004671	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004670	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004669	NA		Blank Swab	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004668	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004666	NA		Blank swab	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004665	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004664	NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004705	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	Environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004704	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004703	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004702	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	Environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004701	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004699	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	Environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004698	NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004697	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004696	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004695	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	Environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004694	NA		Blank Swab	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004693	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	Environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004692	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004691	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	Environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004690	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004688	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	Environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004687	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004686	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004685	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004684	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004683	NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004682	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	Environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004681	NA		Blank Swab	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004680	NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004679	NA		NA	NA	NA	USA	"Philadelphia,PA"	Environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004677	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004676	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004675	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004674	NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004673	NA		Blank Swab	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004672	NA		NA	NA	NA	USA	"Philadelphia,PA"	Environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004671	NA		Empty well	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004670	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004669	NA		Blank Swab	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004668	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004666	NA		Blank swab	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004665	NA		Elution buffer	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004664	NA		Weighing Paper	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
 SRR13004663	9036	2 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	178	75.8	23.9	61 years	FALSE	Human	Colon	colon	feces
 SRR13004662	9037	3 days	Stool	Omnivore	Pre Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
 SRR13004661	9037	9 days	Stool	Omnivore	Post Antibiotics	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	176	71.3	23	30 years	FALSE	Human	Colon	colon	feces
@@ -471,5 +471,5 @@ SRR13004636	9036		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	
 SRR13004635	9037		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
 SRR13004633	9038		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
 SRR13004632	9040		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
-SRR13004631	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004630	NA		DNA-free water	NA	NA	USA	"Philadelphia,PA"	environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE				
+SRR13004631	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	Environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004630	NA		DNA-free water	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
