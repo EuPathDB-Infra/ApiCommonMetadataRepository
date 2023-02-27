@@ -2,7 +2,7 @@
 
 <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
 
-  <dataset>afumAf293_HTS_SNP_Afum_Lofgren_2022_PRJNA773725_RSRC</dataset>
+  <dataset>afumAf293_HTS_SNP_AfumUK_PRJEB27135_RSRC</dataset>
 
   <node name="Source" type="host" suffix="Source" idColumn="name"/>
   <node name="Sample" type="sample from organism" idColumn="name"/>

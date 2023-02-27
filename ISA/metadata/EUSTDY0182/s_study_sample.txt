@@ -1,51 +1,213 @@
-Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [city]	Characteristics [Health status]	Characteristics [organism]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
-USGS_26090_7_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_7_WA
-USGS_25404_1_HI				Jeffrey Lorch	10/28/16	USA	North America	 HI	Aspergillosis	Puffinus newelli	heart	Aspergillus fumigatus	Aspergillus fumigatus USGS_25404_1_HI
-USGS_25297_1_HI				Jeffrey Lorch	2/2/16	USA	North America	 HI	Aspergillosis	Branta sandvicensis	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_25297_1_HI
-USGS_26090_5_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Mareca americana	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_5_WA
-USGS_26090_4_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Mareca americana	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_4_WA
-USGS_26090_3_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Anas acuta	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_3_WA
-USGS_26090_2_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Cygnus buccinator	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_2_WA
-USGS_26090_1_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Cygnus columbianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_1_WA
-USGS_29436_2_MA				Jeffrey Lorch	10/7/19	USA	North America	 MA	Aspergillosis	Larus smithsonianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_29436_2_MA
-USGS_29436_1_MA				Jeffrey Lorch	10/7/19	USA	North America	 MA	Aspergillosis	Larus smithsonianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_29436_1_MA
-USGS_29376_1_WI				Jeffrey Lorch	8/27/19	USA	North America	 WI	Aspergillosis	Haliaeetus leucocephalus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_29376_1_WI
-USGS_28913_2_MS				Jeffrey Lorch	8/29/18	USA	North America	 MS	Aspergillosis	Leucophaeus atricilla	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_28913_2_MS
-USGS_28913_1_MS				Jeffrey Lorch	8/29/18	USA	North America	 MS	Aspergillosis	Leucophaeus atricilla	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28913_1_MS
-USGS_28858_1_WI				Jeffrey Lorch	7/18/18	USA	North America	 WI	Aspergillosis	Larus smithsonianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28858_1_WI
-USGS_28834_1_NV				Jeffrey Lorch	7/24/18	USA	North America	 NV	Aspergillosis	Larus sp.	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28834_1_NV
-USGS_28429_3_MN				Jeffrey Lorch	1/9/18	USA	North America	 MN	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_28429_3_MN
-USGS_28426_1_NE				Jeffrey Lorch	1/7/18	USA	North America	 NE	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_28426_1_NE
-USGS_28267_1_CA				Jeffrey Lorch	7/7/17	USA	North America	 CA	Aspergillosis	Brachyramphus marmoratus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28267_1_CA
-USGS_26080_6_WA				Jeffrey Lorch	12/8/14	USA	North America	 WA	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26080_6_WA
-USGS_28253_1_SC				Jeffrey Lorch	5/3/17	USA	North America	 SC	Aspergillosis	Melanitta americana	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28253_1_SC
-USGS_28113_1_MA				Jeffrey Lorch	5/22/17	USA	North America	 MA	Aspergillosis	Sterna hirundo	lung/air sac pooled	Aspergillus fumigatus	Aspergillus fumigatus USGS_28113_1_MA
-USGS_27784_1_SC				Jeffrey Lorch	2/18/17	USA	North America	 SC	Aspergillosis	Haliaeetus leucocephalus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_27784_1_SC
-USGS_27721_1_KS				Jeffrey Lorch	1/21/17	USA	North America	 KS	Aspergillosis	Haliaeetus leucocephalus	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_27721_1_KS
-USGS_27717_1_WA				Jeffrey Lorch	1/23/17	USA	North America	 WA	Aspergillosis	Circus hudsonius	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_27717_1_WA
-USGS_27562_1_MD				Jeffrey Lorch	9/27/16	USA	North America	 MD	Aspergillosis	Leucophaeus atricilla	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_27562_1_MD
-USGS_27540_1_ME				Jeffrey Lorch	9/14/16	USA	North America	 ME	Aspergillosis	Larus marinus	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_27540_1_ME
-USGS_27539_1_ME				Jeffrey Lorch	9/12/16	USA	North America	 ME	Aspergillosis	Larus smithsonianus	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_27539_1_ME
-USGS_27510_1_FL				Jeffrey Lorch	8/23/16	USA	North America	 FL	Aspergillosis	Leucophaeus atricilla	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_27510_1_FL
-USGS_26879_1_WI				Jeffrey Lorch	10/25/15	USA	North America	 WI	Aspergillosis	Bubo scandiacus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26879_1_WI
-USGS_26080_3_WA				Jeffrey Lorch	12/8/14	USA	North America	 WA	Aspergillosis	Mareca americana	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26080_3_WA
-USGS_26835_1_MI				Jeffrey Lorch	8/17/15	USA	North America	 MI	Aspergillosis	Larus smithsonianus	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26835_1_MI
-USGS_26829_2_WI				Jeffrey Lorch	10/8/15	USA	North America	 WI	Aspergillosis	Branta canadensis	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26829_2_WI
-USGS_26829_1_WI				Jeffrey Lorch	10/8/15	USA	North America	 WI	Aspergillosis	Branta canadensis	lung/air sac pooled	Aspergillus fumigatus	Aspergillus fumigatus USGS_26829_1_WI
-USGS_26707_2_ND				Jeffrey Lorch	8/11/15	USA	North America	 ND	Aspergillosis	Leucophaeus pipixcan	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26707_2_ND
-USGS_26696_2_WI				Jeffrey Lorch	8/6/15	USA	North America	 WI	Aspergillosis	Branta canadensis	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26696_2_WI
-USGS_26696_1_WI				Jeffrey Lorch	8/6/15	USA	North America	 WI	Aspergillosis	Branta canadensis	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26696_1_WI
-USGS_26655_4_WI				Jeffrey Lorch	12/20/14	USA	North America	 WI	Aspergillosis	Larus delawarensis	neck muscle	Aspergillus fumigatus	Aspergillus fumigatus USGS_26655_4_WI
-USGS_26624_4_OH				Jeffrey Lorch	7/9/15	USA	North America	 OH	Aspergillosis	Branta canadensis	heart	Aspergillus fumigatus	Aspergillus fumigatus USGS_26624_4_OH
-USGS_26624_1_OH				Jeffrey Lorch	7/5/15	USA	North America	 OH	Aspergillosis	Branta canadensis	heart	Aspergillus fumigatus	Aspergillus fumigatus USGS_26624_1_OH
-USGS_26528_1_WI				Jeffrey Lorch	5/20/15	USA	North America	 WI	Aspergillosis	Haliaeetus leucocephalus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26528_1_WI
-USGS_26080_10_WA				Jeffrey Lorch	12/8/14	USA	North America	 WA	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26080_10_WA
-USGS_26516_1_IL				Jeffrey Lorch	5/27/15	USA	North America	 IL	Aspergillosis	Cygnus olor	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26516_1_IL
-USGS_26501_1_MN				Jeffrey Lorch	5/26/15	USA	North America	 MN	Aspergillosis	Larus smithsonianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26501_1_MN
-USGS_26222_1_NV				Jeffrey Lorch	2/3/15	USA	North America	 NV	Aspergillosis	Buteo jamaicensis	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26222_1_NV
-USGS_26218_3_MT				Jeffrey Lorch	2/6/15	USA	North America	 MT	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26218_3_MT
-USGS_26218_2_MT				Jeffrey Lorch	2/6/15	USA	North America	 MT	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26218_2_MT
-USGS_26218_1_MT				Jeffrey Lorch	2/6/15	USA	North America	 MT	Aspergillosis	Anas platyrhynchos	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26218_1_MT
-USGS_26201_1_WA				Jeffrey Lorch	1/11/15	USA	North America	 WA	Aspergillosis	Cygnus buccinator	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26201_1_WA
-USGS_26113_1_WA				Jeffrey Lorch	1/6/15	USA	North America	 WA	Aspergillosis	Phalacrocorax auritus	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26113_1_WA
-USGS_26090_8_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Anas platyrhynchos	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_8_WA
+Name	Description	SourceMTOverride	SourceMTOverride	latitude	longitude	Specimen Collection Date	Characteristics [country]	alternative sample ID	Characteristics [specimen]	resistance to ireaxonazole	Characteristics [fungus organism]	Characteristics [fungal strain]
+C1				51.484577	-3.185252	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C1
+C10				51.839927	-4.151486	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C10
+C100				50.82253	-0.137163	2014	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C100
+C103				51.507351	-0.127758	2015	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C103
+C104				55.953252	-3.188267	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C104
+C105				55.953252	-3.188267	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C105
+C106				51.507351	-0.127758	2014	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C106
+C107				51.507351	-0.127758	2015	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C107
+C108				52.205337	0.121817	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C108
+C109				53.408371	-2.991573	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C109
+C11				51.839927	-4.151486	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C11
+C110				51.481581	-3.17909	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C110
+C111				51.450179	-2.583294	2016	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C111
+C112				51.518222	-0.058518	2016	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C112
+C113				51.650746	-0.215259	2016	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C113
+C114				55.922125	-3.134835	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C114
+C115				51.486555	-0.219482	2017	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C115
+C117				51.481581	-3.17909	2016	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C117
+C118				52.486243	-1.890401	2016	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C118
+C119				52.205337	0.121817	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C119
+C12				51.839927	-4.151486	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C12
+C120				52.636878	-1.139759	2016	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C120
+C121				51.486555	-0.219482	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C121
+C122				51.525083	-0.136355	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C122
+C123				51.521879	-0.121042	2016	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C123
+C124				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C124
+C125				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C125
+C126				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C126
+C127				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C127
+C128				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C128
+C129				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C129
+C13				51.418406	-3.370837	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C13
+C130				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C130
+C131				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C131
+C132				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C132
+C133				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C133
+C134				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C134
+C135				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C135
+C136				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C136
+C137				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C137
+C138				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C138
+C139				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C139
+C14				51.418406	-3.370837	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C14
+C140				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C140
+C141				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C141
+C142				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C142
+C143				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C143
+C144				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C144
+C145				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C145
+C146				53.800755	-1.549077	2009	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C146
+C147				53.800755	-1.549077	2009	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C147
+C148				53.800755	-1.549077	2009	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C148
+C149				53.800755	-1.549077	2009	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C149
+C15				51.418406	-3.370837	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C15
+C150				53.800755	-1.549077	2009	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C150
+C151				53.800755	-1.549077	2009	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C151
+C152				53.800755	-1.549077	2009	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C152
+C153				53.800755	-1.549077	2009	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C153
+C154				53.800755	-1.549077	2009	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C154
+C155				51.486555	-0.219482	2016	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C155
+C156				51.486555	-0.219482	2016	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C156
+C157				51.486555	-0.219482	2016	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C157
+C158				51.486555	-0.219482	2016	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C158
+C159				51.486555	-0.219482	2016	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C159
+C16				51.474035	-3.479485	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C16
+C160				51.486555	-0.219482	2016	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C160
+C161				51.486555	-0.219482	2017	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C161
+C162				51.486555	-0.219482	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C162
+C163				51.486555	-0.219482	2015	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C163
+C164				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C164
+C165				51.488709	-0.170508	2014	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C165
+C166				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C166
+C167				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C167
+C168				51.488709	-0.170508	2016	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C168
+C169				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C169
+C17				51.474035	-3.479485	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C17
+C170				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C170
+C171				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C171
+C172				51.488709	-0.170508	2016	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C172
+C173				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C173
+C174				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C174
+C175				51.488709	-0.170508	2016	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C175
+C176				51.488709	-0.170508	2016	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C176
+C177				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C177
+C178				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C178
+C179				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C179
+C18				51.474035	-3.479485	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C18
+C180				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C180
+C181				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C181
+C182				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C182
+C183				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C183
+C184				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C184
+C185				51.488709	-0.170508	2015	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C185
+C186				51.488709	-0.170508	2016	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C186
+C187				51.488709	-0.170508	2014	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C187
+C188				51.488709	-0.170508	2014	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C188
+C189				51.488709	-0.170508	2014	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C189
+C19				51.474035	-3.479485	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C19
+C190				51.488709	-0.170508	2014	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C190
+C191				51.488709	-0.170508	2015	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C191
+C2				51.538694	-3.125695	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C2
+C20				51.421121	-3.178953	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C20
+C21				51.815258	-5.080186	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C21
+C22				51.578603	-3.002994	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C22
+C220				53.349805	-6.26031	2005	Republic of Ireland	MAT1-1	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C220
+C221				53.349805	-6.26031	2005	Republic of Ireland	MAT1-2	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C221
+C222				53.349805	-6.26031	2005	Republic of Ireland	MAT1-2	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C222
+C223				53.349805	-6.26031	2005	Republic of Ireland	MAT1-1	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C223
+C23				51.578603	-3.002994	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C23
+C24				51.578603	-3.002994	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C24
+C246				52.954783	-1.158109	2012	UK	MAT1-2	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C246
+C25				51.513482	-3.184956	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C25
+C26				51.505766	-3.173847	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C26
+C27				51.505766	-3.173847	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C27
+C272				52.954783	-1.158109	2012	UK	MAT1-2	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C272
+C275				53.70039	-0.80657	2010	UK	MAT1-2	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C275
+C28				51.505766	-3.173847	2015	UK	MAT1-1	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C28
+C29				51.505766	-3.173847	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C29
+C3				51.538694	-3.125695	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C3
+C30				51.505766	-3.173847	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C30
+C31				51.644322	-2.674872	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C31
+C32				51.481581	-3.17909	2013	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C32
+C33				51.481581	-3.17909	2015	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C33
+C34				51.481581	-3.17909	2015	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C34
+C341				51.60844	-1.24484	2017	UK	MAT1-1	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C341
+C342				51.51284	-0.16145	2017	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C342
+C343				51.51284	-0.16145	2017	UK	MAT1-2	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C343
+C344				51.51284	-0.16145	2017	UK	MAT1-1	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C344
+C345				51.51284	-0.16145	2017	UK	MAT1-2	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C345
+C346				51.51284	-0.16145	2017	UK	MAT1-2	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C346
+C35				51.481581	-3.17909	2013	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C35
+C354				53.349804	-6.26031		Republic of Ireland	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C354
+C355				53.349804	-6.26031		Republic of Ireland	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C355
+C356				53.349804	-6.26031		Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C356
+C357				53.349804	-6.26031		Republic of Ireland	MAT1-1	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C357
+C358				53.349804	-6.26031		Republic of Ireland	MAT1-2	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C358
+C359				53.349804	-6.26031		Republic of Ireland	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C359
+C36				51.481581	-3.17909	2013	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C36
+C360				53.349804	-6.26031		Republic of Ireland	MAT1-2	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C360
+C361				53.349804	-6.26031		Republic of Ireland	MAT1-2	Clinical	N/A	Aspergillus fumigatus	Aspergillus fumigatus C361
+C362				53.349804	-6.26031		Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C362
+C363				53.349804	-6.26031		Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C363
+C364				57.149715	-2.094278	2016	Scotland	MAT1-1	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C364
+C365				57.149715	-2.094278	2016	Scotland	MAT1-1	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C365
+C366				57.149715	-2.094278	2016	Scotland	MAT1-1	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C366
+C367				57.149715	-2.094278	2016	Scotland	MAT1-2	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C367
+C368				57.149715	-2.094278	2016	Scotland	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C368
+C369				57.149715	-2.094278	2016	Scotland	MAT1-1	Environmental	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C369
+C37				51.481581	-3.17909	2014	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C37
+C38				51.481581	-3.17909	2014	UK	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C38
+C39				51.481581	-3.17909	2014	UK	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C39
+C4				51.550026	-3.122601	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C4
+C40				53.349805	-6.26031	2013	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C40
+C41				53.349805	-6.26031	2011	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C41
+C42				53.349805	-6.26031	2011	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C42
+C43				53.349805	-6.26031	2011	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C43
+C44				53.349805	-6.26031	2011	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C44
+C45				53.349805	-6.26031	2011	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C45
+C46				53.349805	-6.26031	2011	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C46
+C47				53.349805	-6.26031	2011	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C47
+C48				53.349805	-6.26031	2011	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C48
+C49				53.349805	-6.26031	2012	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C49
+C5				51.441624	-3.276812	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C5
+C50				53.349805	-6.26031	2012	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C50
+C51				53.349805	-6.26031	2013	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C51
+C52				53.349805	-6.26031	2012	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C52
+C53				53.349805	-6.26031	2012	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C53
+C54				53.349805	-6.26031	2012	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C54
+C55				53.349805	-6.26031	2013	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C55
+C56				53.349805	-6.26031	2010	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C56
+C57				53.349805	-6.26031	2010	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C57
+C58				53.349805	-6.26031	2012	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C58
+C59				53.349805	-6.26031	2013	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C59
+C6				51.441624	-3.276812	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C6
+C60				53.349805	-6.26031	2013	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C60
+C61				53.349805	-6.26031	2013	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C61
+C62				53.349805	-6.26031	2013	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C62
+C63				53.349805	-6.26031	2013	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C63
+C64				53.349805	-6.26031	2013	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C64
+C65				53.349805	-6.26031	2010	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C65
+C66				53.349805	-6.26031	2010	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C66
+C67				53.349805	-6.26031	2010	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C67
+C68				53.349805	-6.26031	2013	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C68
+C69				53.349805	-6.26031		Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C69
+C7				51.443712	-3.302592	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C7
+C70				53.349805	-6.26031		Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C70
+C71				53.349805	-6.26031	2011	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C71
+C72				53.349805	-6.26031	2011	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C72
+C73				53.349805	-6.26031	2011	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C73
+C74				53.349805	-6.26031	2011	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C74
+C75				53.349805	-6.26031		Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C75
+C76				53.349805	-6.26031	2011	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C76
+C77				53.349805	-6.26031	2011	Republic of Ireland	MAT1-2	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C77
+C78				53.349805	-6.26031	2014	Republic of Ireland	MAT1-1	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C78
+C79				53.349805	-6.26031	2014	Republic of Ireland	MAT1-2	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C79
+C8				51.425458	-3.556041	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C8
+C80				53.349805	-6.26031	2014	Republic of Ireland	MAT1-2	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C80
+C81				53.349805	-6.26031	2015	Republic of Ireland	MAT1-1	Clinical	Susceptible	Aspergillus fumigatus	Aspergillus fumigatus C81
+C82				53.349805	-6.26031	2015	Republic of Ireland	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C82
+C83				53.349805	-6.26031	2015	Republic of Ireland	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C83
+C84				53.349805	-6.26031	2015	Republic of Ireland	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C84
+C85				53.349805	-6.26031	2016	Republic of Ireland	MAT1-2	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C85
+C86				53.349805	-6.26031	2016	Republic of Ireland	MAT1-1	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C86
+C87				53.349805	-6.26031	2015	Republic of Ireland	MAT1-1	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C87
+C88				53.349805	-6.26031	2015	Republic of Ireland	MAT1-2	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C88
+C89				53.349805	-6.26031	2015	Republic of Ireland	MAT1-2	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C89
+C91				53.349805	-6.26031	2015	Republic of Ireland	MAT1-1	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C91
+C92				53.349805	-6.26031	2015	Republic of Ireland	MAT1-2	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C92
+C93				53.349805	-6.26031	2015	Republic of Ireland	MAT1-2	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C93
+C95				53.349805	-6.26031	2015	Republic of Ireland	MAT1-1	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C95
+C96				53.349805	-6.26031	2015	Republic of Ireland	MAT1-2	Environmental	N/A	Aspergillus fumigatus	Aspergillus fumigatus C96
+C99				55.598676	-2.72191	2013	UK	MAT1-1	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C99
