@@ -1,51 +1,121 @@
-Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [city]	Characteristics [Health status]	Characteristics [organism]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
-USGS_26090_7_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_7_WA
-USGS_25404_1_HI				Jeffrey Lorch	10/28/16	USA	North America	 HI	Aspergillosis	Puffinus newelli	heart	Aspergillus fumigatus	Aspergillus fumigatus USGS_25404_1_HI
-USGS_25297_1_HI				Jeffrey Lorch	2/2/16	USA	North America	 HI	Aspergillosis	Branta sandvicensis	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_25297_1_HI
-USGS_26090_5_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Mareca americana	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_5_WA
-USGS_26090_4_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Mareca americana	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_4_WA
-USGS_26090_3_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Anas acuta	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_3_WA
-USGS_26090_2_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Cygnus buccinator	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_2_WA
-USGS_26090_1_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Cygnus columbianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_1_WA
-USGS_29436_2_MA				Jeffrey Lorch	10/7/19	USA	North America	 MA	Aspergillosis	Larus smithsonianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_29436_2_MA
-USGS_29436_1_MA				Jeffrey Lorch	10/7/19	USA	North America	 MA	Aspergillosis	Larus smithsonianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_29436_1_MA
-USGS_29376_1_WI				Jeffrey Lorch	8/27/19	USA	North America	 WI	Aspergillosis	Haliaeetus leucocephalus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_29376_1_WI
-USGS_28913_2_MS				Jeffrey Lorch	8/29/18	USA	North America	 MS	Aspergillosis	Leucophaeus atricilla	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_28913_2_MS
-USGS_28913_1_MS				Jeffrey Lorch	8/29/18	USA	North America	 MS	Aspergillosis	Leucophaeus atricilla	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28913_1_MS
-USGS_28858_1_WI				Jeffrey Lorch	7/18/18	USA	North America	 WI	Aspergillosis	Larus smithsonianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28858_1_WI
-USGS_28834_1_NV				Jeffrey Lorch	7/24/18	USA	North America	 NV	Aspergillosis	Larus sp.	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28834_1_NV
-USGS_28429_3_MN				Jeffrey Lorch	1/9/18	USA	North America	 MN	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_28429_3_MN
-USGS_28426_1_NE				Jeffrey Lorch	1/7/18	USA	North America	 NE	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_28426_1_NE
-USGS_28267_1_CA				Jeffrey Lorch	7/7/17	USA	North America	 CA	Aspergillosis	Brachyramphus marmoratus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28267_1_CA
-USGS_26080_6_WA				Jeffrey Lorch	12/8/14	USA	North America	 WA	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26080_6_WA
-USGS_28253_1_SC				Jeffrey Lorch	5/3/17	USA	North America	 SC	Aspergillosis	Melanitta americana	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_28253_1_SC
-USGS_28113_1_MA				Jeffrey Lorch	5/22/17	USA	North America	 MA	Aspergillosis	Sterna hirundo	lung/air sac pooled	Aspergillus fumigatus	Aspergillus fumigatus USGS_28113_1_MA
-USGS_27784_1_SC				Jeffrey Lorch	2/18/17	USA	North America	 SC	Aspergillosis	Haliaeetus leucocephalus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_27784_1_SC
-USGS_27721_1_KS				Jeffrey Lorch	1/21/17	USA	North America	 KS	Aspergillosis	Haliaeetus leucocephalus	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_27721_1_KS
-USGS_27717_1_WA				Jeffrey Lorch	1/23/17	USA	North America	 WA	Aspergillosis	Circus hudsonius	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_27717_1_WA
-USGS_27562_1_MD				Jeffrey Lorch	9/27/16	USA	North America	 MD	Aspergillosis	Leucophaeus atricilla	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_27562_1_MD
-USGS_27540_1_ME				Jeffrey Lorch	9/14/16	USA	North America	 ME	Aspergillosis	Larus marinus	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_27540_1_ME
-USGS_27539_1_ME				Jeffrey Lorch	9/12/16	USA	North America	 ME	Aspergillosis	Larus smithsonianus	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_27539_1_ME
-USGS_27510_1_FL				Jeffrey Lorch	8/23/16	USA	North America	 FL	Aspergillosis	Leucophaeus atricilla	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_27510_1_FL
-USGS_26879_1_WI				Jeffrey Lorch	10/25/15	USA	North America	 WI	Aspergillosis	Bubo scandiacus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26879_1_WI
-USGS_26080_3_WA				Jeffrey Lorch	12/8/14	USA	North America	 WA	Aspergillosis	Mareca americana	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26080_3_WA
-USGS_26835_1_MI				Jeffrey Lorch	8/17/15	USA	North America	 MI	Aspergillosis	Larus smithsonianus	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26835_1_MI
-USGS_26829_2_WI				Jeffrey Lorch	10/8/15	USA	North America	 WI	Aspergillosis	Branta canadensis	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26829_2_WI
-USGS_26829_1_WI				Jeffrey Lorch	10/8/15	USA	North America	 WI	Aspergillosis	Branta canadensis	lung/air sac pooled	Aspergillus fumigatus	Aspergillus fumigatus USGS_26829_1_WI
-USGS_26707_2_ND				Jeffrey Lorch	8/11/15	USA	North America	 ND	Aspergillosis	Leucophaeus pipixcan	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26707_2_ND
-USGS_26696_2_WI				Jeffrey Lorch	8/6/15	USA	North America	 WI	Aspergillosis	Branta canadensis	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26696_2_WI
-USGS_26696_1_WI				Jeffrey Lorch	8/6/15	USA	North America	 WI	Aspergillosis	Branta canadensis	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26696_1_WI
-USGS_26655_4_WI				Jeffrey Lorch	12/20/14	USA	North America	 WI	Aspergillosis	Larus delawarensis	neck muscle	Aspergillus fumigatus	Aspergillus fumigatus USGS_26655_4_WI
-USGS_26624_4_OH				Jeffrey Lorch	7/9/15	USA	North America	 OH	Aspergillosis	Branta canadensis	heart	Aspergillus fumigatus	Aspergillus fumigatus USGS_26624_4_OH
-USGS_26624_1_OH				Jeffrey Lorch	7/5/15	USA	North America	 OH	Aspergillosis	Branta canadensis	heart	Aspergillus fumigatus	Aspergillus fumigatus USGS_26624_1_OH
-USGS_26528_1_WI				Jeffrey Lorch	5/20/15	USA	North America	 WI	Aspergillosis	Haliaeetus leucocephalus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26528_1_WI
-USGS_26080_10_WA				Jeffrey Lorch	12/8/14	USA	North America	 WA	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26080_10_WA
-USGS_26516_1_IL				Jeffrey Lorch	5/27/15	USA	North America	 IL	Aspergillosis	Cygnus olor	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26516_1_IL
-USGS_26501_1_MN				Jeffrey Lorch	5/26/15	USA	North America	 MN	Aspergillosis	Larus smithsonianus	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26501_1_MN
-USGS_26222_1_NV				Jeffrey Lorch	2/3/15	USA	North America	 NV	Aspergillosis	Buteo jamaicensis	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26222_1_NV
-USGS_26218_3_MT				Jeffrey Lorch	2/6/15	USA	North America	 MT	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26218_3_MT
-USGS_26218_2_MT				Jeffrey Lorch	2/6/15	USA	North America	 MT	Aspergillosis	Anas platyrhynchos	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26218_2_MT
-USGS_26218_1_MT				Jeffrey Lorch	2/6/15	USA	North America	 MT	Aspergillosis	Anas platyrhynchos	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26218_1_MT
-USGS_26201_1_WA				Jeffrey Lorch	1/11/15	USA	North America	 WA	Aspergillosis	Cygnus buccinator	air sac	Aspergillus fumigatus	Aspergillus fumigatus USGS_26201_1_WA
-USGS_26113_1_WA				Jeffrey Lorch	1/6/15	USA	North America	 WA	Aspergillosis	Phalacrocorax auritus	lung	Aspergillus fumigatus	Aspergillus fumigatus USGS_26113_1_WA
-USGS_26090_8_WA				Jeffrey Lorch	12/16/14	USA	North America	 WA	Aspergillosis	Anas platyrhynchos	liver	Aspergillus fumigatus	Aspergillus fumigatus USGS_26090_8_WA
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [Health status]	Characteristics [organism]	Characteristics [fungus organism]	Characteristics [specimen]	Lineage	Characteristics [fungal strain]
+WM1434				missing	1997	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM1434
+WM14.321				missing	missing	uncalculated	uncalculated	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM14.321
+WM12.66				missing	2005	Australia	Oceania	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM12.66
+WM12.43				missing	2001	Australia	Oceania	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM12.43
+WM08.314				missing	missing	uncalculated	uncalculated	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM08.314
+WM05.378				missing	2003	Colombia	South America	not aplicable	not applicable	Cryptococcus gattii VGIV	Almond tree		Cryptococcus gattii VGIV WM05.378
+WM05.376				missing	2003	Colombia	South America	not aplicable	not applicable	Cryptococcus gattii VGIV	Almond tree		Cryptococcus gattii VGIV WM05.376
+WM05.374				missing	2003	Colombia	South America	not aplicable	not applicable	Cryptococcus gattii VGIV	Eucaliptus tree		Cryptococcus gattii VGIV WM05.374
+WM2876				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2876
+WM2670				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2670
+WM2604				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2604
+WM2579				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2579
+WM2570				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2570
+WM2568				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2568
+WM2567				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2567
+WM2364				missing	1997	India	Asia	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2364
+WM2363				missing	1997	India	Asia	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2363
+WM05.373				missing	2003	Colombia	South America	not aplicable	not applicable	Cryptococcus gattii VGIV	Eucaliptus tree		Cryptococcus gattii VGIV WM05.373
+WM04.20				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM04.20
+MRL_2153				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2153
+MRL_2854				NICD	2006	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2854
+MRL_3995				NICD	2005	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	Blood culture	VGIV	Cryptococcus gattii VGIV MRL_3995
+MRL_2530				NICD	2005	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2530
+MRL_1722				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1722
+MRL_2060				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2060
+MRL_772				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_772
+MRL_4009				NICD	2006	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_4009
+MRL_4145				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_4145
+MRL_1545				NICD	2010	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1545
+MRL_3882				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3882
+MRL_3470				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3470
+MRL_3096				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3096
+MRL_3058				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3058
+MRL_2612				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2612
+MRL_2414				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2414
+MRL_2569				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2569
+MRL_2217				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2217
+MRL_2173				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	Blood culture	VGIV	Cryptococcus gattii VGIV MRL_2173
+MRL_2172				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2172
+MRL_918				NICD	2010	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_918
+MRL_2133				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2133
+MRL_2026				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2026
+MRL_2025				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2025
+MRL_1385				NICD	2012	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1385
+MRL_1127				NICD	2012	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1127
+MRL_465				NICD	2012	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	Blood culture	VGIV	Cryptococcus gattii VGIV MRL_465
+MRL_386				NICD	2012	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_386
+MRL_348				NICD	2012	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_348
+MRL_339				NICD	2012	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_339
+MRL_1866				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1866
+MRL_236				NICD	2010	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_236
+MRL_153				NICD	2009	South Africa	Africa	Meningitis and pneumonia	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_153
+MRL_1687				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1687
+MRL_547				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_547
+MRL_499				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_499
+MRL_274				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_274
+MRL_4102				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_4102
+MRL_4052				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_4052
+MRL_3749				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3749
+MRL_3994				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3994
+MRL_3598				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3598
+MRL_3943				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3943
+MRL_1977				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1977
+MRL_3448				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3448
+MRL_1071				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1071
+MRL_1163				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1163
+MRL_88				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_88
+MRL_6516				NICD	2007	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_6516
+MRL_3917				NICD	2007	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3917
+MRL_1625				NICD	2007	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1625
+MRL_1124				NICD	2007	South Africa	Africa	Meningitis and pneumonia	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1124
+MRL_1005				NICD	2007	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1005
+MRL_805				NICD	2007	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_805
+MRL_2769				NICD	2007	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2769
+MRL_6487				NICD	2006	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_6487
+MRL_6044				NICD	2006	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_6044
+MRL_5454				NICD	2006	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_5454
+MRL_4387				NICD	2006	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_4387
+MRL_3876				NICD	2006	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3876
+MRL_2899				NICD	2006	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2899
+MRL_2736				NICD	2006	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2736
+MRL_1999				NICD	2006	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1999
+MRL_303				NICD	2006	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_303
+MRL_3061				NICD	2007	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3061
+MRL_1723				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1723
+MRL_1428				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1428
+MRL_1150				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1150
+MRL_1037				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1037
+MRL_976				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_976
+MRL_924				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_924
+MRL_940				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_940
+MRL_848				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_848
+MRL_841				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	Blood culture	VGIV	Cryptococcus gattii VGIV MRL_841
+MRL_252				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_252
+MRL_1261				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1261
+MRL_2085				NICD	2010	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2085
+MRL_1930				NICD	2010	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1930
+MRL_1698				NICD	2010	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV		VGIV	Cryptococcus gattii VGIV MRL_1698
+MRL_1788				NICD	2010	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1788
+MRL_1643				NICD	2010	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1643
+MRL_1742				NICD	2010	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1742
+MRL_376				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_376
+MRL_843				NICD	2010	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_843
+MRL_607				NICD	2010	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_607
+MRL_70				NICD	2010	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_70
+MRL_954				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_954
+MRL_786				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_786
+MRL_2544				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2544
+MRL_2476				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2476
+MRL_2390				NICD	2009	South Africa	Africa	Meningitis and pneumonia	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2390
+MRL_2428				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2428
+MRL_2174				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2174
+MRL_2028				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2028
+MRL_2000				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2000
+MRL_1846				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1846
+MRL_1764				NICD	2009	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_1764
+MRL_3234				NICD	2013	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_3234
+MRL_273				NICD	2011	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_273
+MRL_500				NICD	2007	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_500
+MRL_1252				NICD	2006	South Africa	Africa	Meningitis and pneumonia	Homo sapiens	Cryptococcus gattii VGIV	Blood culture	VGIV	Cryptococcus gattii VGIV MRL_1252
