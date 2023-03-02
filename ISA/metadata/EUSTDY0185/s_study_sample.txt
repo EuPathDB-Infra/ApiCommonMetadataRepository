@@ -1,0 +1,146 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Days in culture	Characteristics [specimen]	Characteristics [continent]	Characteristics [GeographicLocation]	Characteristics [organism]	Characteristics [parasite organism]	Characteristics [parasite strain]
+B082				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B082
+B083				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B083
+B084				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B084
+B085				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B085
+B088				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B088
+B101				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B101
+B102				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B102
+B124				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B124
+B126				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B126
+B137				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B137
+B144				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B144
+B146				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B146
+B156				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B156
+C006				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C006
+C025				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C025
+C028				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C028
+C041				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C041
+C044				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C044
+C060				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C060
+C064				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C064
+C065				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C065
+C066				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C066
+C067				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C067
+C079				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C079
+C085				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C085
+C089				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C089
+C098				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C098
+C101				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C101
+C109				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C109
+C114				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C114
+C147				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C147
+C216				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C216
+C223				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C223
+C225				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C225
+C229				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C229
+D003				2000	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D003
+D011				2000	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D011
+D016				2000	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D016
+D017				2000	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D017
+D019				2000	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D019
+D021				2000	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D021
+D030				2000	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D030
+D041				2000	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D041
+D047				2000	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D047
+D048				2000	19	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D048
+D050				2000	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D050
+D059				2000	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D059
+D061				2000	10	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D061
+D062				2000	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum D062
+G041				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G041
+G097				2003	NA	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G097
+G107				2003	NA	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G107
+G129				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G129
+G167				2003	NA	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G167
+G173				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G173
+G191				2003	NA	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G191
+G197				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G197
+G213				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G213
+G230				2003	NA	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G230
+G234				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G234
+G248				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G248
+G252				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G252
+G255				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G255
+G268				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G268
+G284				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G284
+G286				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G286
+G315				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G315
+G318				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G318
+G325				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G325
+G348				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G348
+G353				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G353
+G608				2003	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum G608
+H034				2004	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum H034
+H053				2004	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum H053
+H058				2004	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum H058
+H068				2004	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum H068
+H085				2004	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum H085
+H097				2004	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum H097
+H203				2004	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum H203
+H222				2004	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum H222
+H297				2004	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum H297
+H301				2004	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum H301
+I004				2005	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum I004
+I009				2005	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum I009
+I037				2005	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum I037
+I044				2005	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum I044
+I091				2005	76	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum I091
+I100				2005	43	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum I100
+I129				2005	39	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum I129
+I171				2005	35	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum I171
+L120				2008	26	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L120
+L177				2008	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L177
+L234				2008	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L234
+L259				2008	41	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L259
+L264				2008	20	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L264
+L265				2008	68	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L265
+L333				2008	10	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L333
+L340				2008	14	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L340
+L377				2008	59	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L377
+L391				2008	21	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L391
+L398				2008	38	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L398
+L418				2008	36	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L418
+L445				2008	11	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L445
+L470				2008	22	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum L470
+M166				2009	40	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum M166
+M196				2009	22	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum M196
+M204				2009	80	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum M204
+M212				2009	11	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum M212
+M213				2009	9	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum M213
+M236				2009	7	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum M236
+M238				2009	10	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum M238
+M283				2009	24	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum M283
+M319				2009	14	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum M319
+Q261				2010	52	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum Q261
+Q280_A				2013	39	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum Q280_A
+Q301				2013	58	culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum Q301
+Q314				2013		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum Q314
+Q322				2013		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum Q322
+Q335				2013		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum Q335
+R001				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R001
+R073				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R073
+R075J3				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R075J3
+R090				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R090
+R102				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R102
+R128				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R128
+R131				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R131
+R131J36				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R131J36
+R226				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R226
+R235				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R235
+R274				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R274
+R368				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R368
+R369J11				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R369J11
+R373				2014		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum R373
+S001				2015		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum S001
+S008				2015		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum S008
+S046				2015		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum S046
+S080				2015		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum S080
+S083				2015		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum S083
+S085				2015		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum S085
+S091				2015		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum S091
+S158				2015		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum S158
+S167				2015		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum S167
+S170				2015		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum S170
+S178J24				2015		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum S178J24
+S294				2015		culture	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum S294
