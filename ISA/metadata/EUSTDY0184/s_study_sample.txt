@@ -1,0 +1,4 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Days in culture	Characteristics [specimen]	Characteristics [continent]	Characteristics [GeographicLocation]	Characteristics [organism]	Characteristics [parasite organism]	Characteristics [parasite strain]
+C072				1999	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum C072
+H137				2004	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum H137
+I001				2005	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum I001
