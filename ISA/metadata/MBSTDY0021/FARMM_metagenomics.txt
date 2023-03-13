@@ -460,8 +460,8 @@ SRR13004648	9009		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.19
 SRR13004647	9010		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
 SRR13004646	9014		Stool	Vegan	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
 SRR13004644	9016		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
-SRR13004643	9024		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
-SRR13004642	9027		Stool	Vegan	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004643	9024	9 days	Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
+SRR13004642	9027	15 days	Stool	Vegan	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
 SRR13004641	9029		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
 SRR13004640	9032		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
 SRR13004639	9033		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
@@ -472,4 +472,154 @@ SRR13004635	9037		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	
 SRR13004633	9038		Stool	EEN	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
 SRR13004632	9040		Stool	Omnivore	NA	USA	"Philadelphia,PA"	Homo sapiens	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE	Human	Colon	colon	feces
 SRR13004631	NA		Mock DNA	NA	NA	USA	"Philadelphia,PA"	Environment positive control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
-SRR13004630	NA		DNA-free water	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	TRUE				
+SRR13004630	NA		DNA-free water	NA	NA	USA	"Philadelphia,PA"	Environment negative control	39.956 N	75.193 W	NA	NA	NA	NA years	FALSE				
+9002-3-PA Plasma	9002	15 days	Plasma
+9002-3-PB Plasma	9002	12 days	Plasma
+9002-3-PC Plasma	9002	9 days	Plasma
+9002-3-PD Plasma	9002	5 days	Plasma
+9002-3-PE Plasma	9002	0 days	Plasma
+9003-2-PA Plasma	9003	15 days	Plasma
+9003-2-PB Plasma	9003	12 days	Plasma
+9003-2-PC Plasma	9003	9 days	Plasma
+9003-2-PD Plasma	9003	5 days	Plasma
+9003-2-PE Plasma	9003	0 days	Plasma
+9004-3-PA Plasma	9004	15 days	Plasma
+9004-3-PB Plasma	9004	12 days	Plasma
+9004-3-PC Plasma	9004	9 days	Plasma
+9004-3-PD Plasma	9004	5 days	Plasma
+9004-3-PE Plasma	9004	0 days	Plasma
+9005-1-PA Plasma	9005	15 days	Plasma
+9005-1-PB Plasma	9005	12 days	Plasma
+9005-1-PC Plasma	9005	9 days	Plasma
+9005-1-PD Plasma	9005	5 days	Plasma
+9005-1-PE Plasma	9005	0 days	Plasma
+9006-1-PA Plasma	9006	15 days	Plasma
+9006-1-PB Plasma	9006	12 days	Plasma
+9006-1-PC Plasma	9006	9 days	Plasma
+9006-1-PD Plasma	9006	5 days	Plasma
+9006-1-PE Plasma	9006	0 days	Plasma
+9008-3-PA Plasma	9008	15 days	Plasma
+9008-3-PB Plasma	9008	12 days	Plasma
+9008-3-PC Plasma	9008	9 days	Plasma
+9008-3-PD Plasma	9008	5 days	Plasma
+9008-3-PE Plasma	9008	0 days	Plasma
+9009-2-PA Plasma	9009	15 days	Plasma
+9009-2-PB Plasma	9009	12 days	Plasma
+9009-2-PC Plasma	9009	9 days	Plasma
+9009-2-PD Plasma	9009	5 days	Plasma
+9009-2-PE Plasma	9009	0 days	Plasma
+9010-1-PA Plasma	9010	15 days	Plasma
+9010-1-PB Plasma	9010	12 days	Plasma
+9010-1-PC Plasma	9010	9 days	Plasma
+9010-1-PD Plasma	9010	5 days	Plasma
+9010-1-PE Plasma	9010	0 days	Plasma
+9013-2-PA Plasma	9013	15 days	Plasma
+9013-2-PB Plasma	9013	12 days	Plasma
+9013-2-PC Plasma	9013	9 days	Plasma
+9013-2-PD Plasma	9013	5 days	Plasma
+9013-2-PE Plasma	9013	0 days	Plasma
+9014-3-PA Plasma	9014	15 days	Plasma
+9014-3-PB Plasma	9014	12 days	Plasma
+9014-3-PC Plasma	9014	9 days	Plasma
+9014-3-PD Plasma	9014	5 days	Plasma
+9014-3-PE Plasma	9014	0 days	Plasma
+9015-1-PA Plasma	9015	15 days	Plasma
+9015-1-PB Plasma	9015	12 days	Plasma
+9015-1-PC Plasma	9015	9 days	Plasma
+9015-1-PD Plasma	9015	5 days	Plasma
+9015-1-PE Plasma	9015	0 days	Plasma
+9016-2-PA Plasma	9016	15 days	Plasma
+9016-2-PB Plasma	9016	12 days	Plasma
+9016-2-PC Plasma	9016	9 days	Plasma
+9016-2-PD Plasma	9016	5 days	Plasma
+9016-2-PE Plasma	9016	0 days	Plasma
+9017-3-PA Plasma	9017	15 days	Plasma
+9017-3-PB Plasma	9017	12 days	Plasma
+9017-3-PC Plasma	9017	9 days	Plasma
+9017-3-PD Plasma	9017	5 days	Plasma
+9017-3-PE Plasma	9017	0 days	Plasma
+9019-1-PA Plasma	9019	15 days	Plasma
+9019-1-PB Plasma	9019	12 days	Plasma
+9019-1-PC Plasma	9019	9 days	Plasma
+9019-1-PD Plasma	9019	5 days	Plasma
+9019-1-PE Plasma	9019	0 days	Plasma
+9022-3-PA Plasma	9022	15 days	Plasma
+9022-3-PB Plasma	9022	12 days	Plasma
+9022-3-PC Plasma	9022	9 days	Plasma
+9022-3-PD Plasma	9022	5 days	Plasma
+9022-3-PE Plasma	9022	0 days	Plasma
+9024-2-PA Plasma	9024	15 days	Plasma
+9024-2-PB Plasma	9024	12 days	Plasma
+9024-2-PC Plasma	9024	9 days	Plasma
+9024-2-PD Plasma	9024	5 days	Plasma
+9024-2-PE Plasma	9024	0 days	Plasma
+9025-2-PA Plasma	9025	15 days	Plasma
+9025-2-PB Plasma	9025	12 days	Plasma
+9025-2-PC Plasma	9025	9 days	Plasma
+9025-2-PD Plasma	9025	5 days	Plasma
+9025-2-PE Plasma	9025	0 days	Plasma
+9026-3-PA Plasma	9026	15 days	Plasma
+9026-3-PB Plasma	9026	12 days	Plasma
+9026-3-PC Plasma	9026	9 days	Plasma
+9026-3-PD Plasma	9026	5 days	Plasma
+9026-3-PE Plasma	9026	0 days	Plasma
+9027-3-PA Plasma	9027	15 days	Plasma
+9027-3-PB Plasma	9027	12 days	Plasma
+9027-3-PC Plasma	9027	9 days	Plasma
+9027-3-PD Plasma	9027	5 days	Plasma
+9027-3-PE Plasma	9027	0 days	Plasma
+9029-2-PA Plasma	9029	15 days	Plasma
+9029-2-PB Plasma	9029	12 days	Plasma
+9029-2-PC Plasma	9029	9 days	Plasma
+9029-2-PD Plasma	9029	5 days	Plasma
+9029-2-PE Plasma	9029	0 days	Plasma
+9030-1-PA Plasma	9030	15 days	Plasma
+9030-1-PB Plasma	9030	12 days	Plasma
+9030-1-PC Plasma	9030	9 days	Plasma
+9030-1-PD Plasma	9030	5 days	Plasma
+9030-1-PE Plasma	9030	0 days	Plasma
+9031-3-PA Plasma	9031	15 days	Plasma
+9031-3-PB Plasma	9031	12 days	Plasma
+9031-3-PC Plasma	9031	9 days	Plasma
+9031-3-PD Plasma	9031	5 days	Plasma
+9031-3-PE Plasma	9031	0 days	Plasma
+9032-2-PA Plasma	9032	15 days	Plasma
+9032-2-PB Plasma	9032	12 days	Plasma
+9032-2-PC Plasma	9032	9 days	Plasma
+9032-2-PD Plasma	9032	5 days	Plasma
+9032-2-PE Plasma	9032	0 days	Plasma
+9033-1-PA Plasma	9033	15 days	Plasma
+9033-1-PB Plasma	9033	12 days	Plasma
+9033-1-PC Plasma	9033	9 days	Plasma
+9033-1-PD Plasma	9033	5 days	Plasma
+9033-1-PE Plasma	9033	0 days	Plasma
+9034-2-PA Plasma	9034	15 days	Plasma
+9034-2-PB Plasma	9034	12 days	Plasma
+9034-2-PC Plasma	9034	9 days	Plasma
+9034-2-PD Plasma	9034	5 days	Plasma
+9034-2-PE Plasma	9034	0 days	Plasma
+9035-3-PA Plasma	9035	15 days	Plasma
+9035-3-PB Plasma	9035	12 days	Plasma
+9035-3-PC Plasma	9035	9 days	Plasma
+9035-3-PD Plasma	9035	5 days	Plasma
+9035-3-PE Plasma	9035	0 days	Plasma
+9036-1-PA Plasma	9036	15 days	Plasma
+9036-1-PB Plasma	9036	12 days	Plasma
+9036-1-PC Plasma	9036	9 days	Plasma
+9036-1-PD Plasma	9036	5 days	Plasma
+9036-1-PE Plasma	9036	0 days	Plasma
+9037-1-PA Plasma	9037	15 days	Plasma
+9037-1-PB Plasma	9037	12 days	Plasma
+9037-1-PC Plasma	9037	9 days	Plasma
+9037-1-PD Plasma	9037	5 days	Plasma
+9037-1-PE Plasma	9037	0 days	Plasma
+9038-2-PA Plasma	9038	15 days	Plasma
+9038-2-PB Plasma	9038	12 days	Plasma
+9038-2-PC Plasma	9038	9 days	Plasma
+9038-2-PD Plasma	9038	5 days	Plasma
+9038-2-PE Plasma	9038	0 days	Plasma
+9040-1-PA Plasma	9040	15 days	Plasma
+9040-1-PB Plasma	9040	12 days	Plasma
+9040-1-PC Plasma	9040	9 days	Plasma
+9040-1-PD Plasma	9040	5 days	Plasma
+9040-1-PE Plasma	9040	0 days	Plasma
