@@ -8,7 +8,6 @@ B101				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falcip
 B102				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B102
 B124				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B124
 B126				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B126
-B137				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B137
 B144				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B144
 B146				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B146
 B156				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B156
