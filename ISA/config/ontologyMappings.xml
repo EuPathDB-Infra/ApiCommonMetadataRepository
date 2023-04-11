@@ -778,7 +778,9 @@
   <ontologyTerm source_id="OBI_0001616" type="characteristicQualifier" parent="Sample">
     <name>sample ID</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="EUPATH_0005040" type="characteristicQualifier" parent="Sample">
+    <name>Days in culture</name>
+  </ontologyTerm>
 <!-- characteristicValues -->
 
 <!-- PATO sex values -->
@@ -1338,7 +1340,13 @@
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00006899" type="characteristicValue" parent="characteristicQualifier">
     <name>Myanmar</name>
-  </ontologyTerm> 
+  </ontologyTerm>
+  <ontologyTerm source_id="Republic_of_Ireland" type="characteristicValue" parent="characteristicQualifier">
+    <name>Republic of Ireland</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002639" type="characteristicValue" parent="characteristicQualifier">
+    <name>Scotland</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002637" type="characteristicValue" parent="characteristicQualifier">
     <name>United Kingdom</name>
     <name>UK</name>
