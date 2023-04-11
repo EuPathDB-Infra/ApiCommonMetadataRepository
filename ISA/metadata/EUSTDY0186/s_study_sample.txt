@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]	Characteristics [specimen]	alternative sample ID	Drug concentration	Clade	MIC (ug/mL)
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]	Characteristics [specimen]	alternative sample ID	Characteristics [Concentration]	characteristics [Fingerprint Clade]	MIC (ug/mL)
 P-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris P-1	Cell culture_population	AMS5024	1ug/ml FLC	IV	4
 O-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris O-1	Cell culture_population	AMS5023	1ug/ml FLC	IV	4
 N-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris N-1	Cell culture_population	AMS5022	1ug/ml FLC	IV	NA
