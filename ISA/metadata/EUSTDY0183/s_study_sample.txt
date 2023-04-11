@@ -1,12 +1,12 @@
 Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics [Health status]	Characteristics [organism]	Characteristics [fungus organism]	Characteristics [specimen]	Lineage	Characteristics [fungal strain]
 WM1434				missing	1997	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM1434
-WM14.321				missing	missing	uncalculated	uncalculated	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM14.321
+WM14.321				missing				Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM14.321
 WM12.66				missing	2005	Australia	Oceania	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM12.66
 WM12.43				missing	2001	Australia	Oceania	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM12.43
-WM08.314				missing	missing	uncalculated	uncalculated	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM08.314
-WM05.378				missing	2003	Colombia	South America	not aplicable	not applicable	Cryptococcus gattii VGIV	Almond tree		Cryptococcus gattii VGIV WM05.378
-WM05.376				missing	2003	Colombia	South America	not aplicable	not applicable	Cryptococcus gattii VGIV	Almond tree		Cryptococcus gattii VGIV WM05.376
-WM05.374				missing	2003	Colombia	South America	not aplicable	not applicable	Cryptococcus gattii VGIV	Eucaliptus tree		Cryptococcus gattii VGIV WM05.374
+WM08.314				missing				Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM08.314
+WM05.378				missing	2003	Colombia	South America			Cryptococcus gattii VGIV	Almond tree		Cryptococcus gattii VGIV WM05.378
+WM05.376				missing	2003	Colombia	South America			Cryptococcus gattii VGIV	Almond tree		Cryptococcus gattii VGIV WM05.376
+WM05.374				missing	2003	Colombia	South America			Cryptococcus gattii VGIV	Eucaliptus tree		Cryptococcus gattii VGIV WM05.374
 WM2876				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2876
 WM2670				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2670
 WM2604				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2604
@@ -16,7 +16,7 @@ WM2568				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococ
 WM2567				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2567
 WM2364				missing	1997	India	Asia	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2364
 WM2363				missing	1997	India	Asia	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM2363
-WM05.373				missing	2003	Colombia	South America	not aplicable	not applicable	Cryptococcus gattii VGIV	Eucaliptus tree		Cryptococcus gattii VGIV WM05.373
+WM05.373				missing	2003	Colombia	South America			Cryptococcus gattii VGIV	Eucaliptus tree		Cryptococcus gattii VGIV WM05.373
 WM04.20				missing	1996	South Africa	Africa	Cryptococcosis	Homo sapiens	Cryptococcus gattii VGIV	missing		Cryptococcus gattii VGIV WM04.20
 MRL_2153				NICD	2008	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2153
 MRL_2854				NICD	2006	South Africa	Africa	Meningitis	Homo sapiens	Cryptococcus gattii VGIV	CSF	VGIV	Cryptococcus gattii VGIV MRL_2854
