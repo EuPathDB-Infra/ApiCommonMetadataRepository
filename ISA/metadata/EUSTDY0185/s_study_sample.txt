@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Days in culture	Characteristics [specimen]	Characteristics [continent]	Characteristics [GeographicLocation]	Characteristics [organism]	Characteristics [parasite organism]	Characteristics [parasite strain]
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collection year	Days in culture	Characteristics [specimen]	Characteristics [continent]	Characteristics [GeographicLocation]	Characteristics [organism]	Characteristics [parasite organism]	Characteristics [parasite strain]
 B082				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B082
 B083				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B083
 B084				1998	NA	blood	South America	French Guiana	Homo sapiens	Plasmodium falciparum	Plasmodium falciparum B084

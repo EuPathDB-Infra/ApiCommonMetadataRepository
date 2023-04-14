@@ -781,6 +781,15 @@
   <ontologyTerm source_id="EUPATH_0005040" type="characteristicQualifier" parent="Sample">
     <name>Days in culture</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C41185" type="characteristicQualifier" parent="Sample">
+    <name>Concentration</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0005041" type="characteristicQualifier" parent="Sample">
+    <name>MIC (ug/mL)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="PHIPO_0000675" type="characteristicQualifier" parent="Sample">
+    <name>Resistance to itraconazole</name>
+  </ontologyTerm>
 <!-- characteristicValues -->
 
 <!-- PATO sex values -->

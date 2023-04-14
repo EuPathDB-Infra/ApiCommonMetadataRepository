@@ -2,51 +2,51 @@ Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Char
 P-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris P-1	Cell culture_population	AMS5024	1ug/ml FLC	IV	4
 O-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris O-1	Cell culture_population	AMS5023	1ug/ml FLC	IV	4
 N-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris N-1	Cell culture_population	AMS5022	1ug/ml FLC	IV	NA
-B-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris B-1	Cell culture_population	AMS5013	1ug/ml FLC	I	³256
-A-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris A-1	Cell culture_population	AMS5012	1ug/ml FLC	I	³256
+B-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris B-1	Cell culture_population	AMS5013	1ug/ml FLC	I	>=256
+A-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris A-1	Cell culture_population	AMS5012	1ug/ml FLC	I	>=256
 M-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris M-1	Cell culture_population	AMS5021	1ug/ml FLC	IV	4
 L-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris L-1	Cell culture_population	AMS5020	1ug/ml FLC	IV	4
 K-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris K-1	Cell culture_population	AMS5019	1ug/ml FLC	IV	64
-C-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris C-1	Cell culture_population	AMS5018	1ug/ml FLC	I	³256
+C-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris C-1	Cell culture_population	AMS5018	1ug/ml FLC	I	>=256
 J-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris J-1	Cell culture_population	AMS5017	1ug/ml FLC	IV	4
 I-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris I-1	Cell culture_population	AMS5016	1ug/ml FLC	IV	4
 H-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris H-1	Cell culture_population	AMS5015	1ug/ml FLC	IV	2
-D-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris D-256	Cell culture_population	AMS5042	256ug/ml FLC	I	³256
-A-256B				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris A-256B	Cell culture_population	AMS5041	256ug/ml FLC	I	³256
+D-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris D-256	Cell culture_population	AMS5042	256ug/ml FLC	I	>=256
+A-256B				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris A-256B	Cell culture_population	AMS5041	256ug/ml FLC	I	>=256
 O-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris O-256	Cell culture_population	AMS5040	256ug/ml FLC	IV	4
 M-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris M-256	Cell culture_population	AMS5038	256ug/ml FLC	IV	4
 L-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris L-256	Cell culture_population	AMS5037	256ug/ml FLC	IV	2
 K-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256	Cell culture_population	AMS5036	256ug/ml FLC	IV	128
-C-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris C-256	Cell culture_population	AMS5035	256ug/ml FLC	I	³256
+C-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris C-256	Cell culture_population	AMS5035	256ug/ml FLC	I	>=256
 G-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris G-1	Cell culture_population	AMS5014	1ug/ml FLC	IV	4
 J-356				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris J-356	Cell culture_population	AMS5034	256ug/ml FLC	IV	4
 I-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris I-256	Cell culture_population	AMS5033	256ug/ml FLC	IV	4
 H-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris H-256	Cell culture_population	AMS5032	256ug/ml FLC	IV	2
 G-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris G-256	Cell culture_population	AMS5031	256ug/ml FLC	IV	4
-B-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris B-256	Cell culture_population	AMS5030	256ug/ml FLC	I	³256
-A-256A				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris A-256A	Cell culture_population	AMS5029	256ug/ml FLC	I	³256
-D-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris D-1	Cell culture_population	AMS5025	1ug/ml FLC	I	³256
+B-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris B-256	Cell culture_population	AMS5030	256ug/ml FLC	I	>=256
+A-256A				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris A-256A	Cell culture_population	AMS5029	256ug/ml FLC	I	>=256
+D-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris D-1	Cell culture_population	AMS5025	1ug/ml FLC	I	>=256
 M-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris M-0	Cell culture_population	AMS5004	0ug/ml FLC	IV	4
 L-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris L-0	Cell culture_population	AMS5003	0ug/ml FLC	IV	2
 K-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris K-0	Cell culture_population	AMS5002	0ug/ml FLC	IV	64
-C-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris C-0	Cell culture_population	AMS5001	0ug/ml FLC	I	³256
+C-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris C-0	Cell culture_population	AMS5001	0ug/ml FLC	I	>=256
 J-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris J-0	Cell culture_population	AMS5000	0ug/ml FLC	IV	4
 I-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris I-0	Cell culture_population	AMS4999	0ug/ml FLC	IV	4
 H-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris H-0	Cell culture_population	AMS4998	0ug/ml FLC	IV	1
 G-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris G-0	Cell culture_population	AMS4997	0ug/ml FLC	IV	4
-D-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris D-0	Cell culture_population	AMS5008	0ug/ml FLC	I	³256
+D-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris D-0	Cell culture_population	AMS5008	0ug/ml FLC	I	>=256
 P-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris P-0	Cell culture_population	AMS5007	0ug/ml FLC	IV	4
 O-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris O-0	Cell culture_population	AMS5006	0ug/ml FLC	IV	2
 N-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris N-0	Cell culture_population	AMS5005	0ug/ml FLC	IV	NA
-B-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris B-0	Cell culture_population	AMS 4996	0ug/ml FLC	I	³256
-A-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris A-0	Cell culture_population	AMS 4995	0ug/ml FLC	I	³256
-F-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris F-256	Cell culture_population	AMS5045	256ug/ml FLC	I	³256
-E-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris E-256	Cell culture_population	AMS5044	256ug/ml FLC	I	³256
+B-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris B-0	Cell culture_population	AMS 4996	0ug/ml FLC	I	>=256
+A-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris A-0	Cell culture_population	AMS 4995	0ug/ml FLC	I	>=256
+F-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris F-256	Cell culture_population	AMS5045	256ug/ml FLC	I	>=256
+E-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris E-256	Cell culture_population	AMS5044	256ug/ml FLC	I	>=256
 Q-256				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris Q-256	Cell culture_population	AMS5043	256ug/ml FLC	IV	4
-F-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris F-1	Cell culture_population	AMS5028	1ug/ml FLC	I	³256
+F-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris F-1	Cell culture_population	AMS5028	1ug/ml FLC	I	>=256
 E-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris E-1	Cell culture_population	AMS5027	1ug/ml FLC	I	64
 Q-1				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris Q-1	Cell culture_population	AMS5026	1ug/ml FLC	IV	4
-F-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris F-0	Cell culture_population	AMS5011	0ug/ml FLC	I	³256
+F-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris F-0	Cell culture_population	AMS5011	0ug/ml FLC	I	>=256
 E-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris E-0	Cell culture_population	AMS5010	0ug/ml FLC	I	64
 Q-0				2019	USA	North America	in vitro	[Candida] auris	[Candida] auris Q-0	Cell culture_population	AMS5009	0ug/ml FLC	IV	4
 B-1-2				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris B-1-2	Cell culture single colony	AMS5551	1ug/ml FLC	I	NA
@@ -64,26 +64,26 @@ O-1-4				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris O-1-4	C
 O-1-5				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris O-1-5	Cell culture single colony	AMS5572	1ug/ml FLC	IV	NA
 O-1-6				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris O-1-6	Cell culture single colony	AMS5573	1ug/ml FLC	IV	NA
 K-256-1				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-1	Cell culture single colony	AMS5126	256ug/ml FLC	IV	128
-K-256-2				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-2	Cell culture single colony	AMS5127	256ug/ml FLC	IV	³256
-K-256-3				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-3	Cell culture single colony	AMS5128	256ug/ml FLC	IV	³256
-K-256-4				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-4	Cell culture single colony	AMS5129	256ug/ml FLC	IV	³256
-K-256-5				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-5	Cell culture single colony	AMS5130	256ug/ml FLC	IV	³256
+K-256-2				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-2	Cell culture single colony	AMS5127	256ug/ml FLC	IV	>=256
+K-256-3				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-3	Cell culture single colony	AMS5128	256ug/ml FLC	IV	>=256
+K-256-4				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-4	Cell culture single colony	AMS5129	256ug/ml FLC	IV	>=256
+K-256-5				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-5	Cell culture single colony	AMS5130	256ug/ml FLC	IV	>=256
 K-256-6				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-6	Cell culture single colony	AMS5131	256ug/ml FLC	IV	128
 B-1-4				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris B-1-4	Cell culture single colony	AMS5553	1ug/ml FLC	I	NA
 K-256-7				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-7	Cell culture single colony	AMS5132	256ug/ml FLC	IV	64
 K-256-8				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-8	Cell culture single colony	AMS5133	256ug/ml FLC	IV	64
-K-256-9				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-9	Cell culture single colony	AMS5134	256ug/ml FLC	IV	³256
-K-256-10				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-10	Cell culture single colony	AMS5135	256ug/ml FLC	IV	³256
-K-256-11				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-11	Cell culture single colony	AMS5136	256ug/ml FLC	IV	³256
-K-256-12				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-12	Cell culture single colony	AMS5137	256ug/ml FLC	IV	³256
-K-256-13				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-13	Cell culture single colony	AMS5138	256ug/ml FLC	IV	³256
+K-256-9				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-9	Cell culture single colony	AMS5134	256ug/ml FLC	IV	>=256
+K-256-10				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-10	Cell culture single colony	AMS5135	256ug/ml FLC	IV	>=256
+K-256-11				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-11	Cell culture single colony	AMS5136	256ug/ml FLC	IV	>=256
+K-256-12				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-12	Cell culture single colony	AMS5137	256ug/ml FLC	IV	>=256
+K-256-13				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-13	Cell culture single colony	AMS5138	256ug/ml FLC	IV	>=256
 K-256-14				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-14	Cell culture single colony	AMS5139	256ug/ml FLC	IV	64
-K-256-15				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-15	Cell culture single colony	AMS5140	256ug/ml FLC	IV	³256
-K-256-16				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-16	Cell culture single colony	AMS5141	256ug/ml FLC	IV	³256
+K-256-15				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-15	Cell culture single colony	AMS5140	256ug/ml FLC	IV	>=256
+K-256-16				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-16	Cell culture single colony	AMS5141	256ug/ml FLC	IV	>=256
 B-1-5				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris B-1-5	Cell culture single colony	AMS5554	1ug/ml FLC	I	NA
-K-256-17				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-17	Cell culture single colony	AMS5142	256ug/ml FLC	IV	³256
+K-256-17				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-17	Cell culture single colony	AMS5142	256ug/ml FLC	IV	>=256
 K-256-18				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-18	Cell culture single colony	AMS5143	256ug/ml FLC	IV	128
-K-256-19				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-19	Cell culture single colony	AMS5144	256ug/ml FLC	IV	³256
+K-256-19				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-19	Cell culture single colony	AMS5144	256ug/ml FLC	IV	>=256
 K-256-20				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-20	Cell culture single colony	AMS5145	256ug/ml FLC	IV	128
 K-256-21				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-21	Cell culture single colony	AMS5146	256ug/ml FLC	IV	32
 K-256-22				2021	USA	North America	in vitro	[Candida] auris	[Candida] auris K-256-22	Cell culture single colony	AMS5147	256ug/ml FLC	IV	64

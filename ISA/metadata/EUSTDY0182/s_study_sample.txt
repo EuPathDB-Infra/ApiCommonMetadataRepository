@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SourceMTOverride	latitude	longitude	Specimen Collection Date	Characteristics [country]	alternative sample ID	Characteristics [specimen]	resistance to ireaxonazole	Characteristics [fungus organism]	Characteristics [fungal strain]
+Name	Description	SourceMTOverride	SourceMTOverride	latitude	longitude	Specimen Collection Date	Characteristics [country]	alternative sample ID	Characteristics [specimen]	Resistance to itraconazole	Characteristics [fungus organism]	Characteristics [fungal strain]
 C1				51.484577	-3.185252	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C1
 C10				51.839927	-4.151486	2015	UK	MAT1-2	Environmental	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C10
 C100				50.82253	-0.137163	2014	UK	MAT1-2	Clinical	Resistant	Aspergillus fumigatus	Aspergillus fumigatus C100
