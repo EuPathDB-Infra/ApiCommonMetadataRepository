@@ -1,0 +1,18 @@
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	specimen collection year	Characteristics [fungus organism]	Characteristics [specimen]	Characteristics [country]	Characteristics [continent]	Characteristics[city]	Characteristics [fungal strain]
+AMS4779				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	blood	USA	North America	New York	[Candida] auris AMS4779
+AMS4780				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	missing	USA	North America	New York	[Candida] auris AMS4780
+AMS4781				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	blood	missing	missing	missing	[Candida] auris AMS4781
+AMS4782				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	blood	USA	North America	Illinois	[Candida] auris AMS4782
+AMS4783				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	blood	USA	North America	Illinois	[Candida] auris AMS4783
+AMS4784				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	blood	USA	North America	Illinois	[Candida] auris AMS4784
+AMS4785				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	blood	USA	North America	New York	[Candida] auris AMS4785
+AMS4786				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	urine	USA	North America	Illinois	[Candida] auris AMS4786
+AMS4787				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	Tissue	USA	North America	Illinois	[Candida] auris AMS4787
+AMS4788				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	urine	USA	North America	Illinois	[Candida] auris AMS4788
+AMS4789				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	blood	USA	North America	Florida	[Candida] auris AMS4789
+AMS4790				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	urine	USA	North America	Illinois	[Candida] auris AMS4790
+AMS4791				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	urine	USA	North America	Illinois	[Candida] auris AMS4791
+AMS4792				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	tracheal aspirate	USA	North America	New Jersey	[Candida] auris AMS4792
+AMS4793				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	blood	USA	North America	Illinois	[Candida] auris AMS4793
+AMS4794				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	urine	USA	North America	Massachusetts	[Candida] auris AMS4794
+AMS4795				UNIVERSITY OF MINNESOTA	2019	[Candida] auris	Pleural Fluid	missing	missing	missing	[Candida] auris AMS4795
