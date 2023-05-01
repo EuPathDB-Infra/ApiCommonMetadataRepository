@@ -1,0 +1,4 @@
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics[city]	Characteristics[city]	Characteristics [organism]	Characteristics [fungus organism]	Characteristics [specimen]	Characteristics [specimen]	Characteristics [fungal strain]
+BRIP53590				CSIRO	2/25/10	Australia	Oceania	New South Wales	 Casino	Zea mays	Fusarium verticillioides	pure culture	n/a	Fusarium verticillioides BRIP53590
+BRIP14953				CSIRO	3/14/77	Australia	Oceania	Queensland	 Rocky Creek	Zea mays	Fusarium verticillioides	pure culture	Infected plant	Fusarium verticillioides BRIP14953
+BRIP53263				CSIRO	3/18/09	Australia	Oceania	Queensland	 Capella	Sorghum bicolor	Fusarium verticillioides	pure culture	Infected plant	Fusarium verticillioides BRIP53263
