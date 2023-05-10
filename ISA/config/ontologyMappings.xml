@@ -790,6 +790,11 @@
   <ontologyTerm source_id="PHIPO_0000675" type="characteristicQualifier" parent="Sample">
     <name>Resistance to itraconazole</name>
   </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000079" type="characteristicQualifier" parent="Sample">
+    <name>culture medium</name>
+    <name>growth media</name>
+  </ontologyTerm>
+
 <!-- characteristicValues -->
 
 <!-- PATO sex values -->
