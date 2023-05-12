@@ -1,9 +1,9 @@
-Name	Description	SourceMTOverride	SourceMTOverride	specimen collection year	Characteristics [GeographicLocation]	Characteristics [parasite organism]	Characteristics [parasite strain]
-Pv004				2016	Peru:Loreto,Maynas,Iquitos,Moronacocha	Plasmodium vivax	Plasmodium vivax Pv004
-Pv020				2016	Peru:Loreto,Maynas,Belen,ProgresodeSanJuanBautista	Plasmodium vivax	Plasmodium vivax Pv020
-Pv021				2016	Peru:Loreto,Maynas,SanJuanBautista,Quistococha	Plasmodium vivax	Plasmodium vivax Pv021
-Pv022				2016	Peru:Loreto,Maynas,SanJuanBautista,Quistococha	Plasmodium vivax	Plasmodium vivax Pv022
-Pv024				2016	Peru:Loreto,Maynas,SanJuanBautista,Varillal	Plasmodium vivax	Plasmodium vivax Pv024
-Pv025				2016	Peru:Loreto,Maynas,SanJuanBautista,Varillal	Plasmodium vivax	Plasmodium vivax Pv025
-Pv032				2016	Peru:Loreto,Maynas,SanJuanBautista,Quistococha	Plasmodium vivax	Plasmodium vivax Pv032
-Pv041				2016	Peru:Loreto,Maynas,Belen,ProgresodeSanJuanBautista	Plasmodium vivax	Plasmodium vivax Pv041
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [GeographicLocation]	Characteristics [city]	Characteristics [GeographicLocation]	Characteristics [parasite organism]	Characteristics [parasite strain]
+Pv004				2016	Peru	Loreto	Maynas	Iquitos	Moronacocha	Plasmodium vivax	Plasmodium vivax Pv004
+Pv020				2016	Peru	Loreto	Maynas	Belen	ProgresodeSanJuanBautista	Plasmodium vivax	Plasmodium vivax Pv020
+Pv021				2016	Peru	Loreto	Maynas	SanJuanBautista	Quistococha	Plasmodium vivax	Plasmodium vivax Pv021
+Pv022				2016	Peru	Loreto	Maynas	SanJuanBautista	Quistococha	Plasmodium vivax	Plasmodium vivax Pv022
+Pv024				2016	Peru	Loreto	Maynas	SanJuanBautista	Varillal	Plasmodium vivax	Plasmodium vivax Pv024
+Pv025				2016	Peru	Loreto	Maynas	SanJuanBautista	Varillal	Plasmodium vivax	Plasmodium vivax Pv025
+Pv032				2016	Peru	Loreto	Maynas	SanJuanBautista	Quistococha	Plasmodium vivax	Plasmodium vivax Pv032
+Pv041				2016	Peru	Loreto	Maynas	Belen	ProgresodeSanJuanBautista	Plasmodium vivax	Plasmodium vivax Pv041
