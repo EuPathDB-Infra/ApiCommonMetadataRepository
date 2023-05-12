@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SourceMTOverride	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [GeographicLocation]	Characteristics [city]	Characteristics [GeographicLocation]	Characteristics [parasite organism]	Characteristics [parasite strain]
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [city]	Characteristics [city]	Characteristics [city]	Characteristics [parasite organism]	Characteristics [parasite strain]
 Pv004				2016	Peru	Loreto	Maynas	Iquitos	Moronacocha	Plasmodium vivax	Plasmodium vivax Pv004
 Pv020				2016	Peru	Loreto	Maynas	Belen	ProgresodeSanJuanBautista	Plasmodium vivax	Plasmodium vivax Pv020
 Pv021				2016	Peru	Loreto	Maynas	SanJuanBautista	Quistococha	Plasmodium vivax	Plasmodium vivax Pv021
