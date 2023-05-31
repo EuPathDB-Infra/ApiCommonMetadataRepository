@@ -1,5 +1,5 @@
 Name	Description	SourceMTOverride	SourceMTOverride	specimen collection year	Characteristics [country]	Characteristics [organism]	Characteristics [fungus organism]	Characteristics [fungal strain]
-B5233				1985	USA	n/a	Aspergillus fumigatus	Aspergillus fumigatus B5233
+B5233				1985	USA		Aspergillus fumigatus	Aspergillus fumigatus B5233
 P1MR				2016	The Netherlands	Homo sapiens	Aspergillus fumigatus	Aspergillus fumigatus P1MR
 P1MS				2016	The Netherlands	Homo sapiens	Aspergillus fumigatus	Aspergillus fumigatus P1MS
 P2CS				2018	The Netherlands	Homo sapiens	Aspergillus fumigatus	Aspergillus fumigatus P2CS

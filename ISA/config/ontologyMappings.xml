@@ -1562,6 +1562,10 @@
   <ontologyTerm source_id="GAZ_00004025" type="characteristicValue" parent="characteristicQualifier">
     <name>Aruba</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C16903" type="characteristicValue" parent="characteristicQualifier">
+    <name>Netherlands</name>
+    <name>The Netherlands</name>
+  </ontologyTerm>
 
 <!-- continent -->
   <ontologyTerm source_id="GAZ_00000464" type="characteristicValue" parent="characteristicQualifier">
@@ -1814,5 +1818,11 @@
   </ontologyTerm>
   <ontologyTerm source_id="NCIT_C14191" type="characteristicValue" parent="characteristicQualifier">
     <name>Cat</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_4577" type="characteristicValue" parent="characteristicQualifier">
+    <name>Zea mays</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_4558" type="characteristicValue" parent="characteristicQualifier">
+    <name>Sorghum bicolor</name>
   </ontologyTerm>
 </ontologymappings>
