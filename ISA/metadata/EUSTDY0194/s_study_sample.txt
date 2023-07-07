@@ -1,0 +1,61 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics[city]	Characteristics [organism]	Characteristics [specimen]	Characteristics [specimen]	specimen collector	Characteristics [Health status]	latitude	longitude	Characteristics [fungus organism]	Characteristics [fungal strain]
+FG_GE07				4/16/20	Italy	Europe	Genoa	Homo sapiens	bronchoalveolar lavage	n/a	gDiagnostic Microbiology Unit, S. Martino Hospital	Respiratory infection	44.409788	8.974471	Candida auris	Candida auris FG_GE07
+FG_GE10				5/18/20	Italy	Europe	Genoa	Homo sapiens	urine	n/a	gDiagnostic Microbiology Unit, S. Martino Hospital	Urinary infection	44.409788	8.974471	Candida auris	Candida auris FG_GE10
+FG_GE09				5/6/20	Italy	Europe	Genoa	Homo sapiens	bronchoalveolar lavage	n/a	gDiagnostic Microbiology Unit, S. Martino Hospital	Respiratory infection	44.409788	8.974471	Candida auris	Candida auris FG_GE09
+FG_GE08				4/23/20	Italy	Europe	Genoa	Homo sapiens	blood	n/a	gDiagnostic Microbiology Unit, S. Martino Hospital	Bloodstream infection	44.409788	8.974471	Candida auris	Candida auris FG_GE08
+FG_GE06				3/19/20	Italy	Europe	Genoa	Homo sapiens	bronchoalveolar lavage	n/a	gDiagnostic Microbiology Unit, S. Martino Hospital	Respiratory infection	44.409788	8.974471	Candida auris	Candida auris FG_GE06
+FG_GE05				2/23/20	Italy	Europe	Genoa	Homo sapiens	bronchoalveolar lavage	n/a	gDiagnostic Microbiology Unit, S. Martino Hospital	Respiratory infection	44.409788	8.974471	Candida auris	Candida auris FG_GE05
+FG_GE04				2/17/20	Italy	Europe	Genoa	Homo sapiens	blood	n/a	gDiagnostic Microbiology Unit, S. Martino Hospital	Bloodstream infection	44.409788	8.974471	Candida auris	Candida auris FG_GE04
+FG_GE03				1/28/20	Italy	Europe	Genoa	Homo sapiens	blood	n/a	gDiagnostic Microbiology Unit, S. Martino Hospital	Bloodstream infection	44.409788	8.974471	Candida auris	Candida auris FG_GE03
+FG_GE02				8/1/19	Italy	Europe	Genoa	Homo sapiens	blood	n/a	gDiagnostic Microbiology Unit, S. Martino Hospital	Bloodstream infection	44.409788	8.974471	Candida auris	Candida auris FG_GE02
+FG_GE01				7/20/19	Italy	Europe	Genoa	Homo sapiens	blood	n/a	gDiagnostic Microbiology Unit, S. Martino Hospital	Bloodstream infection	44.409788	8.974471	Candida auris	Candida auris FG_GE01
+GE12				12/1/20	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE12
+GE11				11/12/20	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE11
+GE10				11/4/20	Italy	Europe	Genoa	Homo sapiens	urine	cell culture			44.407059	8.93399	Candida auris	Candida auris GE10
+GE09				10/31/20	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE09
+GE08				8/15/20	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE08
+GE52				12/12/22	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE52
+GE51				9/27/22	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE51
+GE50				11/5/22	Italy	Europe	Perugia	Homo sapiens	blood	cell culture			43.11071	12.390828	Candida auris	Candida auris GE50
+GE49				11/12/22	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE49
+GE48				10/19/22	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE48
+GE47				9/2/22	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE47
+GE46				9/24/21	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE46
+GE45				12/11/20	Italy	Europe	Genoa	Homo sapiens	bronchoaspirate	cell culture			44.407059	8.93399	Candida auris	Candida auris GE45
+GE44				2/26/22	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE44
+GE43				2/7/22	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE43
+GE07				7/23/20	Italy	Europe	Genoa	Homo sapiens	bronchoalveolar lavage	cell culture			44.407059	8.93399	Candida auris	Candida auris GE07
+GE42				2/5/22	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE42
+GE41				2/4/22	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE41
+GE40				1/23/22	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE40
+GE39				1/13/22	Italy	Europe	Genoa	Homo sapiens	bronchoaspirate	cell culture			44.407059	8.93399	Candida auris	Candida auris GE39
+GE38				12/11/21	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE38
+GE37				12/7/21	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE37
+GE36				12/7/21	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE36
+GE35				12/6/21	Italy	Europe	Genoa	Homo sapiens	bronchoaspirate	cell culture			44.407059	8.93399	Candida auris	Candida auris GE35
+GE34				12/3/21	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE34
+GE33				12/1/21	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE33
+GE06				7/1/20	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE06
+GE32				11/11/21	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE32
+GE31				10/7/21	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE31
+GE30				10/4/21	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE30
+GE29				10/2/21	Italy	Europe	Genoa	Homo sapiens	bronchoalveolar lavage	cell culture			44.407059	8.93399	Candida auris	Candida auris GE29
+GE28				9/26/21	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE28
+GE27				9/29/21	Italy	Europe	Genoa	Homo sapiens	Biopsy	cell culture			44.407059	8.93399	Candida auris	Candida auris GE27
+GE26				8/24/21	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE26
+GE25				7/29/21	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE25
+GE24				7/29/21	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE24
+GE23				7/21/21	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE23
+GE05				6/16/20	Italy	Europe	Genoa	Homo sapiens	bronchoaspirate	cell culture			44.407059	8.93399	Candida auris	Candida auris GE05
+GE22				7/20/21	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE22
+GE21				7/11/21	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE21
+GE20				7/7/21	Italy	Europe	Genoa	Homo sapiens	urine	cell culture			44.407059	8.93399	Candida auris	Candida auris GE20
+GE19				3/29/21	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE19
+GE18				3/9/21	Italy	Europe	Genoa	Homo sapiens	urine	cell culture			44.407059	8.93399	Candida auris	Candida auris GE18
+GE17				1/11/21	Italy	Europe	Genoa	Homo sapiens	skin	cell culture			44.407059	8.93399	Candida auris	Candida auris GE17
+GE16				1/8/21	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE16
+GE15				12/30/20	Italy	Europe	Genoa	Homo sapiens	bronchoaspirate	cell culture			44.407059	8.93399	Candida auris	Candida auris GE15
+GE14				12/29/20	Italy	Europe	Genoa	Homo sapiens	wound	cell culture			44.407059	8.93399	Candida auris	Candida auris GE14
+GE13				12/14/20	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE13
+GE03				5/18/20	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE03
+GE02				4/22/20	Italy	Europe	Genoa	Homo sapiens	blood	cell culture			44.407059	8.93399	Candida auris	Candida auris GE02
