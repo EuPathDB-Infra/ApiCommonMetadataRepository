@@ -2,7 +2,7 @@
 
 <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
 
-  <dataset>pvivP01_HTS_SNP_8_Peruvian_isolates_RSRC</dataset>
+  <dataset>pvivP01_HTS_SNP_Peruvian_isolates_RSRC</dataset>
 
   <node name="Source" type="host" suffix="Source" idColumn="name"/>  
   <node name="Sample" type="sample from organism" idColumn="name"/>  

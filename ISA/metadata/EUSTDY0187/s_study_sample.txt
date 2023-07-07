@@ -1,9 +1,17 @@
 Name	Description	SourceMTOverride	SourceMTOverride	specimen collection year	Characteristics [country]	Characteristics [city]	Characteristics [city]	Characteristics [city]	Characteristics [city]	Characteristics [parasite organism]	Characteristics [parasite strain]
 Pv004				2016	Peru	Loreto	Maynas	Iquitos	Moronacocha	Plasmodium vivax	Plasmodium vivax Pv004
-Pv020				2016	Peru	Loreto	Maynas	Belen	ProgresodeSanJuanBautista	Plasmodium vivax	Plasmodium vivax Pv020
-Pv021				2016	Peru	Loreto	Maynas	SanJuanBautista	Quistococha	Plasmodium vivax	Plasmodium vivax Pv021
-Pv022				2016	Peru	Loreto	Maynas	SanJuanBautista	Quistococha	Plasmodium vivax	Plasmodium vivax Pv022
-Pv024				2016	Peru	Loreto	Maynas	SanJuanBautista	Varillal	Plasmodium vivax	Plasmodium vivax Pv024
-Pv025				2016	Peru	Loreto	Maynas	SanJuanBautista	Varillal	Plasmodium vivax	Plasmodium vivax Pv025
-Pv032				2016	Peru	Loreto	Maynas	SanJuanBautista	Quistococha	Plasmodium vivax	Plasmodium vivax Pv032
-Pv041				2016	Peru	Loreto	Maynas	Belen	ProgresodeSanJuanBautista	Plasmodium vivax	Plasmodium vivax Pv041
+Pv020				2016	Peru	Loreto	Maynas	Belen	Progreso de San Juan Bautista	Plasmodium vivax	Plasmodium vivax Pv020
+Pv021				2016	Peru	Loreto	Maynas	San Juan Bautista	Quistococha	Plasmodium vivax	Plasmodium vivax Pv021
+Pv022				2016	Peru	Loreto	Maynas	San Juan Bautista	Quistococha	Plasmodium vivax	Plasmodium vivax Pv022
+Pv024				2016	Peru	Loreto	Maynas	San Juan Bautista	Varillal	Plasmodium vivax	Plasmodium vivax Pv024
+Pv025				2016	Peru	Loreto	Maynas	San Juan Bautista	Varillal	Plasmodium vivax	Plasmodium vivax Pv025
+Pv032				2016	Peru	Loreto	Maynas	San Juan Bautista	Quistococha	Plasmodium vivax	Plasmodium vivax Pv032
+Pv041				2016	Peru	Loreto	Maynas	Belen	Progreso de San Juan Bautista	Plasmodium vivax	Plasmodium vivax Pv041
+Pv005				2016	Peru	Loreto	Maynas	Iquitos	Moronacocha	Plasmodium vivax	Plasmodium vivax Pv005
+Pv017				2016	Peru	Loreto	Maynas	Belen	Progreso de San Juan Bautista	Plasmodium vivax	Plasmodium vivax Pv017
+Pv019				2016	Peru	Loreto	Maynas	Belen	Progreso de San Juan Bautista	Plasmodium vivax	Plasmodium vivax Pv019
+Pv033				2016	Peru	Loreto	Maynas	San Juan Bautista	Quistococha	Plasmodium vivax	Plasmodium vivax Pv033
+Pv07-19				2019	Peru	Loreto	Maynas	Belen	Progreso de San Juan Bautista	Plasmodium vivax	Plasmodium vivax Pv07-19
+Pv12-19				2019	Peru	Loreto	Maynas	Belen	Progreso de San Juan Bautista	Plasmodium vivax	Plasmodium vivax Pv12-19
+Pv20-19				2019	Peru	Loreto	Maynas	Belen	Santa Clara	Plasmodium vivax	Plasmodium vivax Pv20-19
+Pv21-19				2019	Peru	Loreto	Maynas	Belen	Zungarococha	Plasmodium vivax	Plasmodium vivax Pv21-19

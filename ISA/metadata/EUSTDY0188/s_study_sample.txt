@@ -22,7 +22,7 @@ F17729				JCVI	Aspergillus fumigatus	Aspergillus fumigatus F17729
 F17729W				JCVI	Aspergillus fumigatus	Aspergillus fumigatus F17729W
 F5211G				JCVI	Aspergillus fumigatus	Aspergillus fumigatus F5211G
 F18085				JCVI	Aspergillus fumigatus	Aspergillus fumigatus F18085
-F18149				JCVI	Aspergillus fumigatus	Aspergillus fumigatus F18149
+F18149_resequence1				JCVI	Aspergillus fumigatus	Aspergillus fumigatus F18149_resequence1
 F7763				JCVI	Aspergillus fumigatus	Aspergillus fumigatus F7763
 F17764				JCVI	Aspergillus fumigatus	Aspergillus fumigatus F17764
 B5852_resequence1				JCVI	Aspergillus fumigatus	Aspergillus fumigatus B5852_resequence1
