@@ -1,0 +1,924 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics [organism]	Characteristics [specimen]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics[city]	Characteristics [country]	Characteristics [continent]	Characteristics[city]	Characteristics [fungal strain]
+2023CE-00001				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00001
+2023CE-00002				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00002
+2023CE-00003				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00003
+2023CE-00004				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00004
+2023CE-00005				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00005
+2023CE-00006				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00006
+2023CE-00007				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00007
+2023CE-00008				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00008
+2023CE-00009				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00009
+2023CE-00010				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00010
+2023CE-00011				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00011
+2023CE-00012				2022-12	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00012
+2023CE-00013				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00013
+2023CE-00014				2022-12	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00014
+2023CE-00015				2022-12	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00015
+2023CE-00016				2022-12	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00016
+2023CE-00017				2022-12	Homo sapiens	Aspirate	Clinical	[Candida] auris					[Candida] auris 2023CE-00017
+2023CE-00018				2022-12	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00018
+2023CE-00019				2022-12	Homo sapiens	Endotracheal	Clinical	[Candida] auris					[Candida] auris 2023CE-00019
+2023CE-00020				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00020
+2023CE-00021				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00021
+2023CE-00022				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00022
+2023CE-00023				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00023
+2023CE-00024				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00024
+2023CE-00025				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00025
+2023CE-00026				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00026
+2023CE-00027				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00027
+2023CE-00028				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00028
+2023CE-00029				2023-01	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00029
+2023CE-00030				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00030
+2023CE-00031				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00031
+2023CE-00032				2022-12	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00032
+2023CE-00033				2023-01	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00033
+2023CE-00034				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00034
+2023CE-00035				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00035
+2023CE-00036				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00036
+2023CE-00037				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00037
+2023CE-00038				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00038
+2023CE-00039				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00039
+2023CE-00040				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00040
+2023CE-00041				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00041
+2023CE-00042				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00042
+2023CE-00043				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00043
+2023CE-00044				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00044
+2023CE-00045				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00045
+2023CE-00046				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00046
+2023CE-00047				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00047
+2023CE-00048				2022-09	Homo sapiens		Screening	[Candida] auris					[Candida] auris 2023CE-00048
+2023CE-00049				2023-01	Homo sapiens	Catheter tip	Clinical	[Candida] auris					[Candida] auris 2023CE-00049
+2023CE-00050				2023-01	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00050
+2023CE-00051				2022-10	Homo sapiens	Endotrach	Clinical	[Candida] auris					[Candida] auris 2023CE-00051
+2023CE-00052				2023-01	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00052
+2023CE-00053				2023-01	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00053
+2023CE-00054				2023-01	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00054
+2023CE-00055				2023-01	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00055
+2023CE-00056				2023-01	Homo sapiens	Catheter	Clinical	[Candida] auris					[Candida] auris 2023CE-00056
+2023CE-00058				2022-10	Homo sapiens	Brocheal Lavage	Clinical	[Candida] auris					[Candida] auris 2023CE-00058
+2023CE-00059				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00059
+2023CE-00060				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00060
+2023CE-00061				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00061
+2023CE-00062				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00062
+2023CE-00063				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00063
+2023CE-00064				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00064
+2023CE-00065				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00065
+2023CE-00066				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00066
+2023CE-00067				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00067
+2023CE-00068				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00068
+2023CE-00069				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00069
+2023CE-00070				2022-04	Homo sapiens			[Candida] auris					[Candida] auris 2023CE-00070
+2023CE-00071				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00071
+2023CE-00072				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00072
+2023CE-00073				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00073
+2023CE-00074				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00074
+2023CE-00075				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00075
+2023CE-00076				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00076
+2023CE-00077				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00077
+2023CE-00078				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00078
+2023CE-00079				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00079
+2023CE-00080				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00080
+2023CE-00081				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00081
+2023CE-00082				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00082
+2023CE-00083				2023-01	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris 2023CE-00083
+2023CE-00084				2023-01	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris 2023CE-00084
+2023CE-00085				2023-01	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00085
+2023CE-00086				2023-01	Homo sapiens	Catheter tip	Screening	[Candida] auris					[Candida] auris 2023CE-00086
+2023CE-00087				2023-02	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00087
+2023CE-00088				2023-01	Homo sapiens			[Candida] auris					[Candida] auris 2023CE-00088
+2023CE-00089				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00089
+2023CE-00090				2023-01	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00090
+2023CE-00091				2023-01	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00091
+2023CE-00092				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00092
+2023CE-00093				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00093
+2023CE-00094				2022-11	Homo sapiens	Axilla / Groin		[Candida] auris					[Candida] auris 2023CE-00094
+2023CE-00095				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00095
+2023CE-00096				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00096
+2023CE-00097				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00097
+2023CE-00098				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00098
+2023CE-00099				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00099
+2023CE-00100				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00100
+2023CE-00101				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00101
+2023CE-00103				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00103
+2023CE-00104				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00104
+2023CE-00105				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00105
+2023CE-00106				2022-04	Homo sapiens			[Candida] auris					[Candida] auris 2023CE-00106
+2023CE-00107				2022-04	Homo sapiens			[Candida] auris					[Candida] auris 2023CE-00107
+2023CE-00108				2022-12	Homo sapiens			[Candida] auris					[Candida] auris 2023CE-00108
+2023CE-00109				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00109
+2023CE-00110				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00110
+2023CE-00111				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00111
+2023CE-00112				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00112
+2023CE-00113				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00113
+2023CE-00118				2022-04	Homo sapiens			[Candida] auris					[Candida] auris 2023CE-00118
+2023CE-00120				2022-07	Homo sapiens			[Candida] auris					[Candida] auris 2023CE-00120
+2023CE-00121				2022-07	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00121
+2023CE-00122				2022-09	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00122
+2023CE-00123				2023-01	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00123
+2023CE-00124				2023-01	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00124
+2023CE-00125				2023-01	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00125
+2023CE-00126				2023-01	Homo sapiens	Tracheal	Clinical	[Candida] auris					[Candida] auris 2023CE-00126
+2023CE-00127				2023-01	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00127
+2023CE-00128				2023-01	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00128
+2023CE-00129				2023-01	Homo sapiens	Tracheal	Clinical	[Candida] auris					[Candida] auris 2023CE-00129
+2023CE-00130				2023-01	Homo sapiens	Tracheal	Clinical	[Candida] auris					[Candida] auris 2023CE-00130
+2023CE-00131				2023-01	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00131
+2023CE-00132				2023-01	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00132
+2023CE-00133				2023-01	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00133
+2023CE-00134				2023-01	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00134
+2023CE-00135				2023-01	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00135
+2023CE-00136				2023-01	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00136
+2023CE-00137				2023-01	Homo sapiens	Foot	Clinical	[Candida] auris					[Candida] auris 2023CE-00137
+2023CE-00138				2023-01	Homo sapiens	Buttocks	Clinical	[Candida] auris					[Candida] auris 2023CE-00138
+2023CE-00139				2023-01	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00139
+2023CE-00140				2023-01	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00140
+2023CE-00141				2023-01	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00141
+2023CE-00142				2023-01	Homo sapiens	Bronchial	Clinical	[Candida] auris					[Candida] auris 2023CE-00142
+2023CE-00143				2023-01	Homo sapiens	Scrotum	Clinical	[Candida] auris					[Candida] auris 2023CE-00143
+2023CE-00144				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00144
+2023CE-00145				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00145
+2023CE-00146				2023-02	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00146
+2023CE-00147				2023-02	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00147
+2023CE-00148				2023-02	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00148
+2023CE-00149				2023-02	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00149
+2023CE-00150				2023-02	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00150
+2023CE-00151				2023-02	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00151
+2023CE-00152				2023-02	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00152
+2023CE-00153				2023-02	Homo sapiens	Chest	Clinical	[Candida] auris					[Candida] auris 2023CE-00153
+2023CE-00154				2023-02	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00154
+2023CE-00155				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00155
+2023CE-00156				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00156
+2023CE-00157				2023-01	Homo sapiens	Sacral	Clinical	[Candida] auris					[Candida] auris 2023CE-00157
+2023CE-00158				2023-01	Homo sapiens	Heart	Clinical	[Candida] auris					[Candida] auris 2023CE-00158
+2023CE-00159				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00159
+2023CE-00160				2023-02	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00160
+2023CE-00161				2023-02	Homo sapiens	Catheter tip	Screening	[Candida] auris					[Candida] auris 2023CE-00161
+2023CE-00162				2023-02	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00162
+2023CE-00163				2023-02	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00163
+2023CE-00164				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00164
+2023CE-00165				2023-02	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00165
+2023CE-00166				2023-02	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00166
+2023CE-00167				2023-02	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00167
+2023CE-00168				2023-02	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00168
+2023CE-00169				2023-02	Homo sapiens	Tissue	Clinical	[Candida] auris					[Candida] auris 2023CE-00169
+2023CE-00170				2023-02	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00170
+2023CE-00171				2023-02	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris 2023CE-00171
+2023CE-00172				2023-02	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00172
+2023CE-00173				2023-02	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00173
+2023CE-00174				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00174
+2023CE-00179				2022-12	Homo sapiens	Catheter	Screening	[Candida] auris					[Candida] auris 2023CE-00179
+2023CE-00180				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00180
+2023CE-00181				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00181
+2023CE-00182				2023-01	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00182
+2023CE-00183				2023-01	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00183
+2023CE-00184				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00184
+2023CE-00185				2023-01	Homo sapiens	Catheter	Screening	[Candida] auris					[Candida] auris 2023CE-00185
+2023CE-00186				2023-01	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00186
+2023CE-00187				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00187
+2023CE-00188				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00188
+2023CE-00189				2023-01	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00189
+2023CE-00190				2023-01	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00190
+2023CE-00191				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00191
+2023CE-00192				2023-01	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00192
+2023CE-00193				2023-01	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00193
+2023CE-00194				2023-01	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris 2023CE-00194
+2023CE-00195				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00195
+2023CE-00196				2023-02	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00196
+2023CE-00197				2023-02	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris 2023CE-00197
+2023CE-00198				2022-09	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00198
+2023CE-00199				2022-09	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00199
+2023CE-00200				2022-09	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00200
+2023CE-00201				2022-09	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00201
+2023CE-00202				2022-09	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00202
+2023CE-00203				2022-09	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00203
+2023CE-00204				2022-09	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris 2023CE-00204
+2023CE-00205				2022-10	Homo sapiens	Bronchoalveolar lavage	Clinical	Candida albicans					Candida albicans 2023CE-00205
+2023CE-00206				2022-10	Homo sapiens			[Candida] duobushaemulonis					[Candida] duobushaemulonis 2023CE-00206
+NV_NSPHL_0000001				2022-03	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000001
+NV_NSPHL_0000002				2022-04	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000002
+NV_NSPHL_0000003				2022-04	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000003
+NV_NSPHL_0000004				2022-04	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000004
+NV_NSPHL_0000005				2022-04	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000005
+NV_NSPHL_0000006				2022-04	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000006
+NV_NSPHL_0000007				2022-04	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000007
+NV_NSPHL_0000008				2022-04	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000008
+NV_NSPHL_0000009				2022-04	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000009
+NV_NSPHL_0000010				2022-04	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000010
+NV_NSPHL_0000011				2022-04	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000011
+NV_NSPHL_0000012				2022-04	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000012
+NV_NSPHL_0000013				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000013
+NV_NSPHL_0000014				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000014
+NV_NSPHL_0000015				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000015
+NV_NSPHL_0000016				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000016
+NV_NSPHL_0000017				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000017
+NV_NSPHL_0000018				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000018
+NV_NSPHL_0000019				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000019
+NV_NSPHL_0000020				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000020
+NV_NSPHL_0000021				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000021
+NV_NSPHL_0000022				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000022
+NV_NSPHL_0000023				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000023
+NV_NSPHL_0000024				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000024
+NV_NSPHL_0000025				2022-05	Homo sapiens	Human	Clinical	[Candida] auris	Las Vegas	USA	North America	Nevada	[Candida] auris NV_NSPHL_0000025
+NV_NSPHL_0000026				2022-05	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000026
+NV_NSPHL_0000027				2022-05	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000027
+NV_NSPHL_0000028				2022-05	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000028
+NV_NSPHL_0000030				2020-01	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000030
+NV_NSPHL_0000031				2021-08	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000031
+NV_NSPHL_0000032				2021-11	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000032
+NV_NSPHL_0000033				2021-11	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000033
+NV_NSPHL_0000034				2021-11	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000034
+NV_NSPHL_0000035				2021-11	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000035
+NV_NSPHL_0000036				2021-11	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000036
+NV_NSPHL_0000037				2021-11	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000037
+NV_NSPHL_0000038				2021-11	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000038
+NV_NSPHL_0000039				2021-11	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000039
+NV_NSPHL_0000040				2021-11	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000040
+NV_NSPHL_0000041				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000041
+NV_NSPHL_0000042				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000042
+NV_NSPHL_0000043				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000043
+NV_NSPHL_0000044				2021-11	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000044
+NV_NSPHL_0000045				2021-11	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000045
+NV_NSPHL_0000046				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000046
+NV_NSPHL_0000047				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000047
+NV_NSPHL_0000048				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000048
+NV_NSPHL_0000049				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000049
+NV_NSPHL_0000050				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000050
+NV_NSPHL_0000051				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000051
+NV_NSPHL_0000052				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000052
+NV_NSPHL_0000053				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000053
+NV_NSPHL_0000054				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000054
+NV_NSPHL_0000055				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000055
+NV_NSPHL_0000056				2021-12	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000056
+NV_NSPHL_0000057				2022-01	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000057
+NV_NSPHL_0000058				2022-01	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000058
+NV_NSPHL_0000059				2022-01	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000059
+NV_NSPHL_0000060				2022-01	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000060
+NV_NSPHL_0000061				2022-01	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000061
+NV_NSPHL_0000062				2022-01	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000062
+NV_NSPHL_0000063				2022-01	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000063
+NV_NSPHL_0000064				2022-01	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000064
+NV_NSPHL_0000065				2022-01	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000065
+NV_NSPHL_0000066				2022-01	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000066
+NV_NSPHL_0000067				2022-01	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000067
+NV_NSPHL_0000068				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000068
+NV_NSPHL_0000069				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000069
+NV_NSPHL_0000070				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000070
+NV_NSPHL_0000071				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000071
+NV_NSPHL_0000072				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000072
+NV_NSPHL_0000073				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000073
+NV_NSPHL_0000074				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000074
+NV_NSPHL_0000075				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000075
+NV_NSPHL_0000076				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000076
+NV_NSPHL_0000077				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000077
+NV_NSPHL_0000078				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000078
+NV_NSPHL_0000079				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000079
+NV_NSPHL_0000080				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000080
+NV_NSPHL_0000081				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000081
+NV_NSPHL_0000082				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000082
+NV_NSPHL_0000083				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000083
+NV_NSPHL_0000084				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000084
+NV_NSPHL_0000085				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000085
+NV_NSPHL_0000086				2022-02	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000086
+NV_NSPHL_0000087				2022-03	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000087
+NV_NSPHL_0000088				2022-03	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000088
+NV_NSPHL_0000089				2022-03	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000089
+NV_NSPHL_0000094				5/31/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000094
+NV_NSPHL_0000095				5/26/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000095
+NV_NSPHL_0000097				5/31/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000097
+NV_NSPHL_0000098				6/1/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000098
+NV_NSPHL_0000099				6/1/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000099
+NV_NSPHL_0000101				6/2/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000101
+NV_NSPHL_0000104				6/9/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000104
+NV_NSPHL_0000105				6/9/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000105
+NV_NSPHL_0000106				6/9/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000106
+NV_NSPHL_0000109				6/1/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000109
+NV_NSPHL_0000110				6/1/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000110
+NV_NSPHL_0000111				6/2/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000111
+NV_NSPHL_0000112				6/1/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000112
+NV_NSPHL_0000113				6/1/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000113
+NV_NSPHL_0000114				6/4/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000114
+NV_NSPHL_0000115				5/30/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000115
+NV_NSPHL_0000116				6/6/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000116
+NV_NSPHL_0000117				6/9/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000117
+NV_NSPHL_0000118				6/7/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000118
+NV_NSPHL_0000119				5/26/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000119
+NV_NSPHL_0000120				5/25/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000120
+NV_NSPHL_0000121				5/25/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000121
+NV_NSPHL_0000122				6/6/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000122
+NV_NSPHL_0000123				5/25/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000123
+NV_NSPHL_0000124				5/28/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000124
+NV_NSPHL_0000126				6/13/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000126
+NV_NSPHL_0000127				6/15/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000127
+NV_NSPHL_0000128				6/14/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000128
+NV_NSPHL_0000129				6/17/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000129
+NV_NSPHL_0000130				6/10/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000130
+NV_NSPHL_0000131				6/18/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000131
+NV_NSPHL_0000132				7/5/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000132
+NV_NSPHL_0000172				4/5/22	Homo sapiens	Human	Clinical	[Candida] auris		USA	North America	Nevada	[Candida] auris NV_NSPHL_0000172
+NV_NSPHL_0000680				2022-04	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000680
+NV_NSPHL_0000681				2022-06	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000681
+NV_NSPHL_0000682				2022-06	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000682
+NV_NSPHL_0000683				2022-06	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000683
+NV_NSPHL_0000684				2022-06	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000684
+NV_NSPHL_0000685				2022-06	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000685
+NV_NSPHL_0000686				2022-06	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000686
+NV_NSPHL_0000687				2022-07	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000687
+NV_NSPHL_0000688				2022-06	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000688
+NV_NSPHL_0000689				2022-06	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000689
+NV_NSPHL_0000690				2022-06	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000690
+NV_NSPHL_0000691				2022-06	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000691
+NV_NSPHL_0000692				2022-07	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000692
+NV_NSPHL_0000693				2022-06	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000693
+NV_NSPHL_0000694				2022-07	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000694
+NV_NSPHL_0000695				2022-04	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000695
+NV_NSPHL_0000696				2022-04	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000696
+NV_NSPHL_0000697				2022-04	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000697
+NV_NSPHL_0000698				2022-04	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000698
+NV_NSPHL_0000699				2022-07	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000699
+NV_NSPHL_0000700				2022-04	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000700
+NV_NSPHL_0000701				2022-04	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000701
+NV_NSPHL_0000702				2022-04	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000702
+NV_NSPHL_0000703				2022-04	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000703
+NV_NSPHL_0000704				2022-04	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000704
+NV_NSPHL_0000705				2022-04	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000705
+NV_NSPHL_0000706				2022-05	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000706
+NV_NSPHL_0000707				2022-05	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000707
+NV_NSPHL_0000708				2022-07	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000708
+NV_NSPHL_0000709				2022-07	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000709
+NV_NSPHL_0000710				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000710
+NV_NSPHL_0000711				2022-07	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000711
+NV_NSPHL_0000712				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000712
+NV_NSPHL_0000713				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000713
+NV_NSPHL_0000714				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000714
+NV_NSPHL_0000715				2022-07	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000715
+NV_NSPHL_0000716				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000716
+NV_NSPHL_0000717				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000717
+NV_NSPHL_0000718				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000718
+NV_NSPHL_0000719				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000719
+NV_NSPHL_0000720				2022-07	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000720
+NV_NSPHL_0000721				2022-06	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000721
+NV_NSPHL_0000722				2022-07	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000722
+NV_NSPHL_0000723				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000723
+NV_NSPHL_0000724				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000724
+NV_NSPHL_0000725				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000725
+NV_NSPHL_0000726				2022-06	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000726
+NV_NSPHL_0000727				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000727
+NV_NSPHL_0000728				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000728
+NV_NSPHL_0000729				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000729
+NV_NSPHL_0000730				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000730
+NV_NSPHL_0000731				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000731
+NV_NSPHL_0000732				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000732
+NV_NSPHL_0000733				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000733
+NV_NSPHL_0000734				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000734
+NV_NSPHL_0000735				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000735
+NV_NSPHL_0000736				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000736
+NV_NSPHL_0000737				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000737
+NV_NSPHL_0000738				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000738
+NV_NSPHL_0000739				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000739
+NV_NSPHL_0000740				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000740
+NV_NSPHL_0000741				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000741
+NV_NSPHL_0000742				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000742
+NV_NSPHL_0000743				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000743
+NV_NSPHL_0000744				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000744
+NV_NSPHL_0000745				2022-08	Homo sapiens	Surface	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000745
+NV_NSPHL_0000746				2022-08	Homo sapiens	Surface	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000746
+NV_NSPHL_0000747				2022-08	Homo sapiens	Surface	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000747
+NV_NSPHL_0000748				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000748
+NV_NSPHL_0000749				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000749
+NV_NSPHL_0000750				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000750
+NV_NSPHL_0000751				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000751
+NV_NSPHL_0000752				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000752
+NV_NSPHL_0000753				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000753
+NV_NSPHL_0000754				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000754
+NV_NSPHL_0000755				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000755
+NV_NSPHL_0000756				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000756
+NV_NSPHL_0000757				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000757
+NV_NSPHL_0000758				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000758
+NV_NSPHL_0000759				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000759
+NV_NSPHL_0000760				2022-08	Homo sapiens	"Bilat, Axilla/Groin"	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000760
+NV_NSPHL_0000761				2022-08	Homo sapiens	Axilla/Groin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000761
+NV_NSPHL_0000762				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000762
+NV_NSPHL_0000763				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000763
+NV_NSPHL_0000764				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000764
+NV_NSPHL_0000765				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000765
+NV_NSPHL_0000766				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000766
+NV_NSPHL_0000767				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000767
+NV_NSPHL_0000768				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000768
+NV_NSPHL_0000769				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000769
+NV_NSPHL_0000770				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000770
+NV_NSPHL_0000771				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000771
+NV_NSPHL_0000772				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000772
+NV_NSPHL_0000773				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000773
+NV_NSPHL_0000774				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000774
+NV_NSPHL_0000775				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000775
+NV_NSPHL_0000776				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000776
+NV_NSPHL_0000777				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000777
+NV_NSPHL_0000778				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000778
+NV_NSPHL_0000779				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000779
+NV_NSPHL_0000780				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000780
+NV_NSPHL_0000781				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000781
+NV_NSPHL_0000782				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000782
+NV_NSPHL_0000783				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000783
+NV_NSPHL_0000784				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000784
+NV_NSPHL_0000785				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000785
+NV_NSPHL_0000786				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000786
+NV_NSPHL_0000787				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000787
+NV_NSPHL_0000788				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000788
+NV_NSPHL_0000789				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000789
+NV_NSPHL_0000790				2022-07	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000790
+NV_NSPHL_0000791				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000791
+NV_NSPHL_0000792				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000792
+NV_NSPHL_0000793				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000793
+NV_NSPHL_0000794				2022-08	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000794
+NV_NSPHL_0000795				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000795
+NV_NSPHL_0000796				2022-08	Homo sapiens	Catheter tip	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000796
+NV_NSPHL_0000797				2022-08	Homo sapiens	Catheter tip	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000797
+NV_NSPHL_0000798				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000798
+NV_NSPHL_0000799				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000799
+NV_NSPHL_0000800				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000800
+NV_NSPHL_0000801				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000801
+NV_NSPHL_0000802				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000802
+NV_NSPHL_0000803				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000803
+NV_NSPHL_0000804				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000804
+NV_NSPHL_0000805				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000805
+NV_NSPHL_0000806				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000806
+NV_NSPHL_0000807				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000807
+NV_NSPHL_0000808				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000808
+NV_NSPHL_0000809				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000809
+NV_NSPHL_0000810				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000810
+NV_NSPHL_0000811				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000811
+NV_NSPHL_0000812				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000812
+NV_NSPHL_0000813				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000813
+NV_NSPHL_0000814				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000814
+NV_NSPHL_0000815				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000815
+NV_NSPHL_0000816				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000816
+NV_NSPHL_0000817				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000817
+NV_NSPHL_0000818				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000818
+NV_NSPHL_0000819				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000819
+NV_NSPHL_0000820				2022-08	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000820
+NV_NSPHL_0000821				2022-08	Homo sapiens	Axilla/Groin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000821
+NV_NSPHL_0000822				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000822
+NV_NSPHL_0000823				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000823
+NV_NSPHL_0000824				2022-09	Homo sapiens	Axilla/Groin Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000824
+NV_NSPHL_0000825				2022-09	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000825
+NV_NSPHL_0000826				2022-08	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000826
+NV_NSPHL_0000827				2022-09	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000827
+NV_NSPHL_0000828				2022-09	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000828
+NV_NSPHL_0000829				2022-09	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000829
+NV_NSPHL_0000830				2022-09	Homo sapiens	Abdomen	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000830
+NV_NSPHL_0000831				2022-08	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000831
+NV_NSPHL_0000832				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000832
+NV_NSPHL_0000833				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000833
+NV_NSPHL_0000834				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000834
+NV_NSPHL_0000835				2022-08	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000835
+NV_NSPHL_0000836				2022-09	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000836
+NV_NSPHL_0000837				2022-09	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000837
+NV_NSPHL_0000838				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000838
+NV_NSPHL_0000839				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000839
+NV_NSPHL_0000840				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000840
+NV_NSPHL_0000841				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000841
+NV_NSPHL_0000842				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000842
+NV_NSPHL_0000843				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000843
+NV_NSPHL_0000844				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000844
+NV_NSPHL_0000845				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000845
+NV_NSPHL_0000846				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000846
+NV_NSPHL_0000847				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000847
+NV_NSPHL_0000848				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000848
+NV_NSPHL_0000849				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000849
+NV_NSPHL_0000850				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000850
+NV_NSPHL_0000851				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000851
+NV_NSPHL_0000852				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000852
+NV_NSPHL_0000853				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000853
+NV_NSPHL_0000854				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000854
+NV_NSPHL_0000855				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000855
+NV_NSPHL_0000856				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000856
+NV_NSPHL_0000857				2022-08	Homo sapiens	Leg	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000857
+NV_NSPHL_0000858				2022-08	Homo sapiens	FOOT	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000858
+NV_NSPHL_0000859				2022-09	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000859
+NV_NSPHL_0000860				2022-09	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000860
+NV_NSPHL_0000861				2022-09	Homo sapiens	Axilla/Groin Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000861
+NV_NSPHL_0000862				2022-09	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000862
+NV_NSPHL_0000863				2022-09	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000863
+NV_NSPHL_0000864				2022-09	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000864
+NV_NSPHL_0000865				2022-09	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000865
+NV_NSPHL_0000866				2022-09	Homo sapiens	Synovial fluid	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000866
+NV_NSPHL_0000867				2022-09	Homo sapiens	Blood culture	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000867
+NV_NSPHL_0000868				2022-09	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000868
+NV_NSPHL_0000869				2022-09	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000869
+NV_NSPHL_0000870				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000870
+NV_NSPHL_0000871				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000871
+NV_NSPHL_0000872				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000872
+NV_NSPHL_0000873				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000873
+NV_NSPHL_0000874				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000874
+NV_NSPHL_0000875				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000875
+NV_NSPHL_0000876				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000876
+NV_NSPHL_0000877				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000877
+NV_NSPHL_0000878				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000878
+NV_NSPHL_0000879				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000879
+NV_NSPHL_0000880				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000880
+NV_NSPHL_0000881				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000881
+NV_NSPHL_0000882				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000882
+NV_NSPHL_0000883				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000883
+NV_NSPHL_0000884				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000884
+NV_NSPHL_0000885				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000885
+NV_NSPHL_0000886				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000886
+NV_NSPHL_0000887				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000887
+NV_NSPHL_0000888				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000888
+NV_NSPHL_0000889				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000889
+NV_NSPHL_0000890				2022-09	Homo sapiens	Exit site	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000890
+NV_NSPHL_0000891				2022-09	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000891
+NV_NSPHL_0000892				2022-09	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000892
+NV_NSPHL_0000893				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000893
+NV_NSPHL_0000894				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000894
+NV_NSPHL_0000895				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000895
+NV_NSPHL_0000896				2022-09	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000896
+NV_NSPHL_0000897				2022-09	Homo sapiens	Leg wound	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000897
+NV_NSPHL_0000898				2022-09	Homo sapiens	Axilla/Groin Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000898
+NV_NSPHL_0000899				2022-09	Homo sapiens	Groin	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000899
+NV_NSPHL_0000900				2022-09	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000900
+NV_NSPHL_0000901				2022-09	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000901
+NV_NSPHL_0000902				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000902
+NV_NSPHL_0000903				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000903
+NV_NSPHL_0000904				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000904
+NV_NSPHL_0000905				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000905
+NV_NSPHL_0000906				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000906
+NV_NSPHL_0000907				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000907
+NV_NSPHL_0000908				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000908
+NV_NSPHL_0000909				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000909
+NV_NSPHL_0000910				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000910
+NV_NSPHL_0000911				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000911
+NV_NSPHL_0000912				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000912
+NV_NSPHL_0000913				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000913
+NV_NSPHL_0000914				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000914
+NV_NSPHL_0000915				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000915
+NV_NSPHL_0000916				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000916
+NV_NSPHL_0000917				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000917
+NV_NSPHL_0000918				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000918
+NV_NSPHL_0000919				2022-09	Homo sapiens	Wound Cult	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000919
+NV_NSPHL_0000920				2022-09	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000920
+NV_NSPHL_0000921				2022-09	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000921
+NV_NSPHL_0000922				2022-09	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000922
+NV_NSPHL_0000923				2022-09	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000923
+NV_NSPHL_0000924				2022-09	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000924
+NV_NSPHL_0000925				2022-09	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000925
+NV_NSPHL_0000926				2022-09	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000926
+NV_NSPHL_0000927				2022-09	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000927
+NV_NSPHL_0000928				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000928
+NV_NSPHL_0000929				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000929
+NV_NSPHL_0000930				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000930
+NV_NSPHL_0000931				2022-09	Homo sapiens	Axilla/Groin Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000931
+NV_NSPHL_0000932				2022-09	Homo sapiens	Trach	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000932
+NV_NSPHL_0000933				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000933
+NV_NSPHL_0000934				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000934
+NV_NSPHL_0000935				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000935
+NV_NSPHL_0000936				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000936
+NV_NSPHL_0000937				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000937
+NV_NSPHL_0000938				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000938
+NV_NSPHL_0000939				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000939
+NV_NSPHL_0000940				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000940
+NV_NSPHL_0000941				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000941
+NV_NSPHL_0000942				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000942
+NV_NSPHL_0000943				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000943
+NV_NSPHL_0000944				2022-09	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000944
+NV_NSPHL_0000945				2022-09	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000945
+NV_NSPHL_0000946				2022-09	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000946
+NV_NSPHL_0000947				2022-09	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000947
+NV_NSPHL_0000948				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000948
+NV_NSPHL_0000949				2022-09	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000949
+NV_NSPHL_0000950				2022-09	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000950
+NV_NSPHL_0000951				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000951
+NV_NSPHL_0000952				2022-09	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000952
+NV_NSPHL_0000953				2022-09	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000953
+NV_NSPHL_0000954				2022-09	Homo sapiens	Surg cult	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000954
+NV_NSPHL_0000955				2022-10	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000955
+NV_NSPHL_0000956				2022-10	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000956
+NV_NSPHL_0000957				2022-09	Homo sapiens	Buttocks	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000957
+NV_NSPHL_0000958				2022-09	Homo sapiens	Coccyx	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000958
+NV_NSPHL_0000959				2022-09	Homo sapiens	Back	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000959
+NV_NSPHL_0000960				2022-09	Homo sapiens	Knee	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000960
+NV_NSPHL_0000961				2022-09	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000961
+NV_NSPHL_0000962				2022-09	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000962
+NV_NSPHL_0000963				2022-09	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000963
+NV_NSPHL_0000964				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000964
+NV_NSPHL_0000965				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000965
+NV_NSPHL_0000966				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000966
+NV_NSPHL_0000967				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000967
+NV_NSPHL_0000968				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000968
+NV_NSPHL_0000969				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000969
+NV_NSPHL_0000970				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000970
+NV_NSPHL_0000971				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000971
+NV_NSPHL_0000972				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000972
+NV_NSPHL_0000973				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000973
+NV_NSPHL_0000974				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000974
+NV_NSPHL_0000975				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000975
+NV_NSPHL_0000976				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000976
+NV_NSPHL_0000977				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000977
+NV_NSPHL_0000978				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000978
+NV_NSPHL_0000979				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000979
+NV_NSPHL_0000980				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000980
+NV_NSPHL_0000981				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000981
+NV_NSPHL_0000982				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000982
+NV_NSPHL_0000983				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000983
+NV_NSPHL_0000984				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000984
+NV_NSPHL_0000985				2022-09	Homo sapiens	L Knee	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000985
+NV_NSPHL_0000986				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000986
+NV_NSPHL_0000987				2022-09	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000987
+NV_NSPHL_0000988				2022-10	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000988
+NV_NSPHL_0000989				2022-10	Homo sapiens	Blood culture	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000989
+NV_NSPHL_0000990				2022-09	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000990
+NV_NSPHL_0000991				2022-10	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000991
+NV_NSPHL_0000992				2022-10	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000992
+NV_NSPHL_0000993				2022-10	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000993
+NV_NSPHL_0000994				2022-10	Homo sapiens	ABDOMINAL	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000994
+NV_NSPHL_0000995				2022-10	Homo sapiens	Coccyx	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000995
+NV_NSPHL_0000996				2022-10	Homo sapiens	Abdomen	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000996
+NV_NSPHL_0000997				2022-10	Homo sapiens	Coccyx	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000997
+NV_NSPHL_0000998				2022-10	Homo sapiens	Thigh	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0000998
+NV_NSPHL_0000999				2022-10	Homo sapiens	Axilla/Groin Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0000999
+NV_NSPHL_0001000				2022-10	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001000
+NV_NSPHL_0001001				2022-10	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001001
+NV_NSPHL_0001002				2022-10	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001002
+NV_NSPHL_0001003				2022-10	Homo sapiens	Catheter tip	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001003
+NV_NSPHL_0001004				2022-10	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001004
+NV_NSPHL_0001005				2022-10	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001005
+NV_NSPHL_0001006				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001006
+NV_NSPHL_0001007				2022-10	Homo sapiens	Drainage/Exudale (R ankle)	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001007
+NV_NSPHL_0001008				2022-10	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001008
+NV_NSPHL_0001009				2022-10	Homo sapiens	Wound R Leg	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001009
+NV_NSPHL_0001010				2022-10	Homo sapiens	Neck	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001010
+NV_NSPHL_0001011				2022-10	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001011
+NV_NSPHL_0001012				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001012
+NV_NSPHL_0001013				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001013
+NV_NSPHL_0001014				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001014
+NV_NSPHL_0001015				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001015
+NV_NSPHL_0001016				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001016
+NV_NSPHL_0001017				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001017
+NV_NSPHL_0001018				2022-10	Homo sapiens	Axilla/Groin Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001018
+NV_NSPHL_0001019				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001019
+NV_NSPHL_0001020				2022-10	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001020
+NV_NSPHL_0001021				2022-10	Homo sapiens	ARMPIT	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001021
+NV_NSPHL_0001022				2022-10	Homo sapiens	Epidural abscess	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001022
+NV_NSPHL_0001023				2022-10	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001023
+NV_NSPHL_0001024				2022-10	Homo sapiens	Catheter tip	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001024
+NV_NSPHL_0001025				2022-10	Homo sapiens	Axilla/Groin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001025
+NV_NSPHL_0001026				2022-10	Homo sapiens	R knee synovial fluid	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001026
+NV_NSPHL_0001027				2022-10	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001027
+NV_NSPHL_0001028				2022-10	Homo sapiens	Leg/RT lower	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001028
+NV_NSPHL_0001029				2022-10	Homo sapiens	Chest	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001029
+NV_NSPHL_0001030				2022-10	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001030
+NV_NSPHL_0001031				2022-10	Homo sapiens	Wound Sacral	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001031
+NV_NSPHL_0001032				2022-10	Homo sapiens	Wound L knee	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001032
+NV_NSPHL_0001033				2022-10	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001033
+NV_NSPHL_0001034				2022-10	Homo sapiens	Axilla/Groin Compsosite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001034
+NV_NSPHL_0001035				2022-10	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001035
+NV_NSPHL_0001036				2022-10	Homo sapiens	Axilla/Groin Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001036
+NV_NSPHL_0001037				2022-10	Homo sapiens	Indwelling cath urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001037
+NV_NSPHL_0001038				2022-10	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001038
+NV_NSPHL_0001039				2022-10	Homo sapiens	Axilla/Groin Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001039
+NV_NSPHL_0001040				2022-10	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001040
+NV_NSPHL_0001041				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001041
+NV_NSPHL_0001042				2022-10	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001042
+NV_NSPHL_0001043				2022-10	Homo sapiens	Wound R Hip	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001043
+NV_NSPHL_0001044				2022-10	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001044
+NV_NSPHL_0001045				2022-10	Homo sapiens	R butt	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001045
+NV_NSPHL_0001046				2022-10	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001046
+NV_NSPHL_0001047				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001047
+NV_NSPHL_0001048				2022-10	Homo sapiens	R hand	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001048
+NV_NSPHL_0001049				2022	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001049
+NV_NSPHL_0001050				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001050
+NV_NSPHL_0001051				2022-10	Homo sapiens	Axilla/Groin Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001051
+NV_NSPHL_0001052				2022	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001052
+NV_NSPHL_0001053				2022-10	Homo sapiens	Toe 2nd dig LT	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001053
+NV_NSPHL_0001054				2022-10	Homo sapiens	Bronch wash (RML)	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001054
+NV_NSPHL_0001055				2022-10	Homo sapiens	Endotrach	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001055
+NV_NSPHL_0001056				2022-10	Homo sapiens	Coccyx	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001056
+NV_NSPHL_0001057				2022-10	Homo sapiens	Scrotum	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001057
+NV_NSPHL_0001058				2022-10	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001058
+NV_NSPHL_0001059				2022-10	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001059
+NV_NSPHL_0001060				2022-10	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001060
+NV_NSPHL_0001061				2022-10	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001061
+NV_NSPHL_0001062				2022-10	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001062
+NV_NSPHL_0001063				2022-10	Homo sapiens	Heel	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001063
+NV_NSPHL_0001064				2022-10	Homo sapiens	Blood culture	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001064
+NV_NSPHL_0001065				2022-10	Homo sapiens	Catheter tip	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001065
+NV_NSPHL_0001066				2022-10	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001066
+NV_NSPHL_0001067				2022-10	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001067
+NV_NSPHL_0001068				2022-10	Homo sapiens	Blood culture	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001068
+NV_NSPHL_0001069				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001069
+NV_NSPHL_0001070				2022-10	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001070
+NV_NSPHL_0001071				2022-10	Homo sapiens	Exit site/Wound	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001071
+NV_NSPHL_0001072				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001072
+NV_NSPHL_0001073				2022-10	Homo sapiens	Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001073
+NV_NSPHL_0001074				2022-11	Homo sapiens	Not Indicated	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001074
+NV_NSPHL_0001075				2022-11	Homo sapiens	Not Indicated	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001075
+NV_NSPHL_0001076				2022-10	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001076
+NV_NSPHL_0001077				2022-10	Homo sapiens	Pleural fluid	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001077
+NV_NSPHL_0001078				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001078
+NV_NSPHL_0001079				2022-10	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001079
+NV_NSPHL_0001080				2022-11	Homo sapiens	Cath Tip Cult	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001080
+NV_NSPHL_0001081				2022-11	Homo sapiens	Catheter tip	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001081
+NV_NSPHL_0001082				2022-10	Homo sapiens	Endotrach	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001082
+NV_NSPHL_0001083				2022-10	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001083
+NV_NSPHL_0001084				2022-10	Homo sapiens	Catheter	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001084
+NV_NSPHL_0001085				2022-11	Homo sapiens	"Bilat, Axilla/Groin Composite Swab"	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001085
+NV_NSPHL_0001086				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001086
+NV_NSPHL_0001087				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001087
+NV_NSPHL_0001088				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001088
+NV_NSPHL_0001089				2022-11	Homo sapiens	Left shoulder	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001089
+NV_NSPHL_0001090				2022-11	Homo sapiens	Axilla/Groin Composite Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001090
+NV_NSPHL_0001091				2022-11	Homo sapiens	Axilla/Groin Skin Swab	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001091
+NV_NSPHL_0001092				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001092
+NV_NSPHL_0001093				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001093
+NV_NSPHL_0001094				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001094
+NV_NSPHL_0001095				2022-11	Homo sapiens	SPT	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001095
+NV_NSPHL_0001096				2022-11	Homo sapiens	Leg	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001096
+NV_NSPHL_0001097				2022-11	Homo sapiens	Tracheal Cult	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001097
+NV_NSPHL_0001098				2022-11	Homo sapiens	Back	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001098
+NV_NSPHL_0001099				2022-11	Homo sapiens	Catheter tip	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001099
+NV_NSPHL_0001100				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001100
+NV_NSPHL_0001101				2022-11	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001101
+NV_NSPHL_0001102				2022-11	Homo sapiens	Left foot wound	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001102
+NV_NSPHL_0001103				2022-11	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001103
+NV_NSPHL_0001104				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001104
+NV_NSPHL_0001105				2022-11	Homo sapiens	Catheter tip	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001105
+NV_NSPHL_0001106				2022-11	Homo sapiens		Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001106
+NV_NSPHL_0001107				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001107
+NV_NSPHL_0001108				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001108
+NV_NSPHL_0001109				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001109
+NV_NSPHL_0001110				2022-08	Homo sapiens	Knee	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001110
+NV_NSPHL_0001111				2022-09	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001111
+NV_NSPHL_0001112				2022-09	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001112
+NV_NSPHL_0001113				2022-09	Homo sapiens	Trach	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001113
+NV_NSPHL_0001114				2022-09	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001114
+NV_NSPHL_0001115				2022-09	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001115
+NV_NSPHL_0001116				2022-09	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001116
+NV_NSPHL_0001117				2022-08	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001117
+NV_NSPHL_0001118				2022-09	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001118
+NV_NSPHL_0001119				2022-10	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001119
+NV_NSPHL_0001120				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001120
+NV_NSPHL_0001121				2022-10	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001121
+NV_NSPHL_0001122				2022-10	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001122
+NV_NSPHL_0001123				2022-10	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001123
+NV_NSPHL_0001124				2022-10	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001124
+NV_NSPHL_0001125				2022-10	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001125
+NV_NSPHL_0001126				2022-10	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001126
+NV_NSPHL_0001127				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001127
+NV_NSPHL_0001128				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001128
+NV_NSPHL_0001129				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001129
+NV_NSPHL_0001130				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001130
+NV_NSPHL_0001131				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001131
+NV_NSPHL_0001132				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001132
+NV_NSPHL_0001133				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001133
+NV_NSPHL_0001134				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001134
+NV_NSPHL_0001135				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001135
+NV_NSPHL_0001136				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001136
+NV_NSPHL_0001137				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001137
+NV_NSPHL_0001138				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001138
+NV_NSPHL_0001139				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001139
+NV_NSPHL_0001140				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001140
+NV_NSPHL_0001141				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001141
+NV_NSPHL_0001142				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001142
+NV_NSPHL_0001143				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001143
+NV_NSPHL_0001144				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001144
+NV_NSPHL_0001145				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001145
+NV_NSPHL_0001146				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001146
+NV_NSPHL_0001147				2022-11	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001147
+NV_NSPHL_0001148				2022-11	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001148
+NV_NSPHL_0001149				2022-10	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001149
+NV_NSPHL_0001150				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001150
+NV_NSPHL_0001151				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001151
+NV_NSPHL_0001152				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001152
+NV_NSPHL_0001153				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001153
+NV_NSPHL_0001154				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001154
+NV_NSPHL_0001155				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001155
+NV_NSPHL_0001156				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001156
+NV_NSPHL_0001157				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001157
+NV_NSPHL_0001158				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001158
+NV_NSPHL_0001159				2022-10	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001159
+NV_NSPHL_0001160				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001160
+NV_NSPHL_0001161				2022-11	Homo sapiens	Wound	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001161
+NV_NSPHL_0001162				2022-11	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001162
+NV_NSPHL_0001163				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001163
+NV_NSPHL_0001164				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001164
+NV_NSPHL_0001165				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001165
+NV_NSPHL_0001166				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001166
+NV_NSPHL_0001167				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001167
+NV_NSPHL_0001168				2022-11	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001168
+NV_NSPHL_0001169				2022-11	Homo sapiens	Endotracheal	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001169
+NV_NSPHL_0001170				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001170
+NV_NSPHL_0001171				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001171
+NV_NSPHL_0001172				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001172
+NV_NSPHL_0001173				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001173
+NV_NSPHL_0001174				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001174
+NV_NSPHL_0001175				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001175
+NV_NSPHL_0001176				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001176
+NV_NSPHL_0001177				2022-11	Homo sapiens	Head wound	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001177
+NV_NSPHL_0001178				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001178
+NV_NSPHL_0001179				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001179
+NV_NSPHL_0001180				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001180
+NV_NSPHL_0001181				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001181
+NV_NSPHL_0001182				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001182
+NV_NSPHL_0001183				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001183
+NV_NSPHL_0001184				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001184
+NV_NSPHL_0001185				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001185
+NV_NSPHL_0001186				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001186
+NV_NSPHL_0001187				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001187
+NV_NSPHL_0001188				2022-11	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001188
+NV_NSPHL_0001189				2022-11	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001189
+NV_NSPHL_0001190				2022-11	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001190
+NV_NSPHL_0001191				2022-11	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001191
+NV_NSPHL_0001192				2022-11	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001192
+NV_NSPHL_0001193				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001193
+NV_NSPHL_0001194				2022-11	Homo sapiens	LT foot	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001194
+NV_NSPHL_0001195				2022-11	Homo sapiens	Trach Asp	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001195
+NV_NSPHL_0001196				2022-11	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001196
+NV_NSPHL_0001197				2022-11	Homo sapiens	Wound groin	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001197
+NV_NSPHL_0001198				2022-11	Homo sapiens	Trach	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001198
+NV_NSPHL_0001199				2022-11	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001199
+NV_NSPHL_0001200				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001200
+NV_NSPHL_0001201				2022-11	Homo sapiens	Buttocks	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001201
+NV_NSPHL_0001202				2022-11	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001202
+NV_NSPHL_0001203				2022-11	Homo sapiens	R ankle	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001203
+NV_NSPHL_0001204				2022-11	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001204
+NV_NSPHL_0001205				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001205
+NV_NSPHL_0001206				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001206
+NV_NSPHL_0001207				2022-11	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001207
+NV_NSPHL_0001208				2022-11	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001208
+NV_NSPHL_0001209				2022-11	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001209
+NV_NSPHL_0001210				2022-11	Homo sapiens	Central Tip	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001210
+NV_NSPHL_0001211				2022-11	Homo sapiens	Bronch wash	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001211
+NV_NSPHL_0001212				2022-11	Homo sapiens			[Candida] auris					[Candida] auris NV_NSPHL_0001212
+NV_NSPHL_0001213				2022-12	Homo sapiens	Perirectal	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001213
+NV_NSPHL_0001214				2022-11	Homo sapiens	Tracheal Cult	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001214
+NV_NSPHL_0001215				2022-12	Homo sapiens	Catheter tip	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001215
+NV_NSPHL_0001216				2022-11	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001216
+NV_NSPHL_0001217				2022-12	Homo sapiens	Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001217
+NV_NSPHL_0001218				2022-12	Homo sapiens	Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001218
+NV_NSPHL_0001219				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001219
+NV_NSPHL_0001220				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001220
+NV_NSPHL_0001221				2022-12	Homo sapiens	Trach Asp	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001221
+NV_NSPHL_0001222				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001222
+NV_NSPHL_0001223				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001223
+NV_NSPHL_0001224				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001224
+NV_NSPHL_0001225				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001225
+NV_NSPHL_0001226				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001226
+NV_NSPHL_0001227				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001227
+NV_NSPHL_0001228				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001228
+NV_NSPHL_0001229				2022-08	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001229
+NV_NSPHL_0001230				2022-12	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001230
+NV_NSPHL_0001231				2022-11	Homo sapiens	Bronch wash	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001231
+NV_NSPHL_0001232				2022-11	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001232
+NV_NSPHL_0001233				2022-12	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001233
+NV_NSPHL_0001234				2022-12	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001234
+NV_NSPHL_0001235				2022-12	Homo sapiens	Urine (cath)	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001235
+NV_NSPHL_0001236				2022-11	Homo sapiens	Shunt tissue	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001236
+NV_NSPHL_0001237				2022-11	Homo sapiens	Bronch wash	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001237
+NV_NSPHL_0001238				2022-12	Homo sapiens	Incision	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001238
+NV_NSPHL_0001239				2022-12	Homo sapiens	Heel	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001239
+NV_NSPHL_0001240				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001240
+NV_NSPHL_0001241				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001241
+NV_NSPHL_0001242				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001242
+NV_NSPHL_0001243				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001243
+NV_NSPHL_0001244				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001244
+NV_NSPHL_0001245				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001245
+NV_NSPHL_0001246				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001246
+NV_NSPHL_0001247				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001247
+NV_NSPHL_0001248				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001248
+NV_NSPHL_0001249				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001249
+NV_NSPHL_0001250				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001250
+NV_NSPHL_0001251				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001251
+NV_NSPHL_0001252				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001252
+NV_NSPHL_0001253				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001253
+NV_NSPHL_0001254				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001254
+NV_NSPHL_0001255				2022-11	Homo sapiens	Blood	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001255
+NV_NSPHL_0001256				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001256
+NV_NSPHL_0001257				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001257
+NV_NSPHL_0001258				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001258
+NV_NSPHL_0001259				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001259
+NV_NSPHL_0001260				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001260
+NV_NSPHL_0001261				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001261
+NV_NSPHL_0001262				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001262
+NV_NSPHL_0001263				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001263
+NV_NSPHL_0001264				2022-12	Homo sapiens	Urine	Clinical	[Candida] auris					[Candida] auris NV_NSPHL_0001264
+NV_NSPHL_0001265				2022-12	Homo sapiens	Axilla / Groin		[Candida] auris					[Candida] auris NV_NSPHL_0001265
+NV_NSPHL_0001266				2022-12	Homo sapiens	Wound		[Candida] auris					[Candida] auris NV_NSPHL_0001266
+NV_NSPHL_0001267				2022-12	Homo sapiens	Blood		[Candida] auris					[Candida] auris NV_NSPHL_0001267
+NV_NSPHL_0001268				2022-12	Homo sapiens	Urine		[Candida] auris					[Candida] auris NV_NSPHL_0001268
+NV_NSPHL_0001269				2022-12	Homo sapiens	Wound		[Candida] auris					[Candida] auris NV_NSPHL_0001269
+NV_NSPHL_0001270				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001270
+NV_NSPHL_0001271				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001271
+NV_NSPHL_0001272				2022-12	Homo sapiens	Blood		[Candida] auris					[Candida] auris NV_NSPHL_0001272
+NV_NSPHL_0001273				2022-12	Homo sapiens	Blood		[Candida] auris					[Candida] auris NV_NSPHL_0001273
+NV_NSPHL_0001274				2022-12	Homo sapiens	Blood		[Candida] auris					[Candida] auris NV_NSPHL_0001274
+NV_NSPHL_0001275				2022-12	Homo sapiens	Blood		[Candida] auris					[Candida] auris NV_NSPHL_0001275
+NV_NSPHL_0001276				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001276
+NV_NSPHL_0001277				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001277
+NV_NSPHL_0001278				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001278
+NV_NSPHL_0001279				2022-12	Homo sapiens	Axilla / Groin	Screening	[Candida] auris					[Candida] auris NV_NSPHL_0001279
+NV_NSPHL_0001280				2022-12	Homo sapiens	Axilla / Groin		[Candida] auris					[Candida] auris NV_NSPHL_0001280
+NV_NSPHL_0001281				2022-12	Homo sapiens	Blood		[Candida] auris					[Candida] auris NV_NSPHL_0001281
+NV_NSPHL_0001282				2022-12	Homo sapiens	Tracheal		[Candida] auris					[Candida] auris NV_NSPHL_0001282
+NV_NSPHL_0001283				2022-12	Homo sapiens	Blood		[Candida] auris					[Candida] auris NV_NSPHL_0001283
+NV_NSPHL_0001284				2022-12	Homo sapiens	Urine		[Candida] auris					[Candida] auris NV_NSPHL_0001284
+NV_NSPHL_0001285				2022-12	Homo sapiens	Wound		[Candida] auris					[Candida] auris NV_NSPHL_0001285
+NV_NSPHL_0001286				2022-12	Homo sapiens	Blood		[Candida] auris					[Candida] auris NV_NSPHL_0001286
