@@ -1,0 +1,118 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics [country]	Characteristics [continent]	Characteristics[city]	Characteristics [organism]	Characteristics [specimen]	Characteristics [specimen]	Characteristics [fungus organism]	Characteristics [fungal strain]
+USA-CDC-CAU-B20744				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Sputum	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B20744
+USA-CDC-CAU-B20737				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20737
+USA-CDC-CAU-B20729				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20729
+USA-CDC-CAU-B20727				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20727
+USA-CDC-CAU-B20741				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20741
+USA-CDC-CAU-B19808				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B19808
+USA-CDC-CAU-B20728				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20728
+USA-CDC-CAU-B20743				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20743
+USA-CDC-CAU-B20697				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20697
+USA-CDC-CAU-B20698				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20698
+USA-CDC-CAU-B20699				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20699
+USA-CDC-CAU-B20693				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20693
+USA-CDC-CAU-B20701				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20701
+USA-CDC-CAU-B20694				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20694
+USA-CDC-CAU-B20692				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20692
+USA-CDC-CAU-B20696				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20696
+USA-CDC-CAU-B19557				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Blood	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B19557
+USA-CDC-CAU-B20700				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20700
+USA-CDC-CAU-B20687				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20687
+USA-CDC-CAU-B20682				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20682
+USA-CDC-CAU-B20685				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20685
+USA-CDC-CAU-B20681				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20681
+USA-CDC-CAU-B20689				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20689
+USA-CDC-CAU-B20686				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20686
+USA-CDC-CAU-B20690				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20690
+USA-CDC-CAU-B20688				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20688
+USA-CDC-CAU-B20680				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20680
+USA-CDC-CAU-B19554				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19554
+USA-CDC-CAU-B20537				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Blood	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B20537
+USA-CDC-CAU-B20536				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Peritoneal Fluid	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B20536
+USA-CDC-CAU-B20483				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20483
+USA-CDC-CAU-B20462				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20462
+USA-CDC-CAU-B20467				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20467
+USA-CDC-CAU-B20463				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20463
+USA-CDC-CAU-B20465				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20465
+USA-CDC-CAU-B20469				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20469
+USA-CDC-CAU-B20461				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20461
+USA-CDC-CAU-B20460				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20460
+USA-CDC-CAU-B19550				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B19550
+USA-CDC-CAU-B20468				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20468
+USA-CDC-CAU-B20722				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20722
+USA-CDC-CAU-B20721				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20721
+USA-CDC-CAU-B20724				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20724
+USA-CDC-CAU-B20715				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20715
+USA-CDC-CAU-B20723				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20723
+USA-CDC-CAU-B20717				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20717
+USA-CDC-CAU-B20726				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20726
+USA-CDC-CAU-B20708				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20708
+USA-CDC-CAU-B20709				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20709
+USA-CDC-CAU-B19543				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19543
+USA-CDC-CAU-B20713				2021-02	USA	North America	Mid-Atlantic	Homo sapiens	Blood	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B20713
+USA-CDC-CAU-B20704				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20704
+USA-CDC-CAU-B20706				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20706
+USA-CDC-CAU-B20703				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20703
+USA-CDC-CAU-B20707				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20707
+USA-CDC-CAU-B20702				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20702
+USA-CDC-CAU-B20458				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20458
+USA-CDC-CAU-B20457				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20457
+USA-CDC-CAU-B20456				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20456
+USA-CDC-CAU-B20459				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20459
+USA-CDC-CAU-B19552				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B19552
+USA-CDC-CAU-B20455				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20455
+USA-CDC-CAU-B20452				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20452
+USA-CDC-CAU-B20454				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20454
+USA-CDC-CAU-B20783				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20783
+USA-CDC-CAU-B20781				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B20781
+USA-CDC-CAU-B20734				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20734
+USA-CDC-CAU-B20738				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20738
+USA-CDC-CAU-B20739				2021-04	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20739
+USA-CDC-CAU-B20453				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20453
+USA-CDC-CAU-B20450				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20450
+USA-CDC-CAU-B20451				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20451
+USA-CDC-CAU-B20293				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20293
+USA-CDC-CAU-B20292				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20292
+USA-CDC-CAU-B20279				2021-01	USA	North America	Mid-Atlantic	Homo sapiens	Blood	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B20279
+USA-CDC-CAU-B20283				2021-02	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20283
+USA-CDC-CAU-B19545				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19545
+USA-CDC-CAU-B20291				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20291
+USA-CDC-CAU-B20282				2021-02	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20282
+USA-CDC-CAU-B20280				2021-02	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B20280
+USA-CDC-CAU-B20090				2021-02	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20090
+USA-CDC-CAU-B20087				2021-01	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20087
+USA-CDC-CAU-B20075				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B20075
+USA-CDC-CAU-B19834				2020-12	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B19834
+USA-CDC-CAU-B19838				2020-12	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19838
+USA-CDC-CAU-B19833				2020-12	USA	North America	Mid-Atlantic	Homo sapiens	wound	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B19833
+USA-CDC-CAU-B19836				2020-12	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B19836
+USA-CDC-CAU-B19546				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19546
+USA-CDC-CAU-B19835				2020-12	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B19835
+USA-CDC-CAU-B19832				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B19832
+USA-CDC-CAU-B19845				2020-12	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19845
+USA-CDC-CAU-B19812				2020-11	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19812
+USA-CDC-CAU-B19811				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Pleural Fluid	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B19811
+USA-CDC-CAU-B19815				2020-11	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19815
+USA-CDC-CAU-B19829				2020-12	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19829
+USA-CDC-CAU-B19813				2020-11	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19813
+USA-CDC-CAU-B19817				2020-11	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19817
+USA-CDC-CAU-B21486				2021-06	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B21486
+USA-CDC-CAU-B20710				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20710
+USA-CDC-CAU-B21522				2021-08	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B21522
+USA-CDC-CAU-B20711				2021-03	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20711
+USA-CDC-CAU-B20782				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B20782
+USA-CDC-CAU-B19814				2020-11	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19814
+USA-CDC-CAU-B19474				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B19474
+USA-CDC-CAU-B19548				2020-10	USA	North America	Mid-Atlantic	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B19548
+USA-CDC-CAU-B21744				2021-09	USA	North America	Chicago	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B21744
+USA-CDC-CAU-B21743				2021-09	USA	North America	Chicago	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B21743
+USA-CDC-CAU-B21742				2021-08	USA	North America	Chicago	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B21742
+USA-CDC-CAU-B21741				2021-08	USA	North America	Chicago	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B21741
+USA-CDC-CAU-B21740				2021-08	USA	North America	Chicago	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B21740
+USA-CDC-CAU-B21739				2021-08	USA	North America	Chicago	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B21739
+USA-CDC-CAU-B21738				2021-06	USA	North America	Chicago	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B21738
+USA-CDC-CAU-B21737				2021-06	USA	North America	Chicago	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B21737
+USA-CDC-CAU-B21746				2021-09	USA	North America	Chicago	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B21746
+USA-CDC-CAU-B21745				2021-09	USA	North America	Chicago	Homo sapiens	Axilla and Groin	Screening	[Candida] auris	[Candida] auris USA-CDC-CAU-B21745
+USA-CDC-CAU-B20666				2021-03	USA	North America	Chicago	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B20666
+USA-CDC-CAU-B20665				2021-03	USA	North America	Chicago	Homo sapiens	Urine	Clinical	[Candida] auris	[Candida] auris USA-CDC-CAU-B20665
