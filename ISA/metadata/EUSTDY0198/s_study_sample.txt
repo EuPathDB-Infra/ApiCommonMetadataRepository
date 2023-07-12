@@ -1,0 +1,4 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics [organism]	Characteristics [host_common_name]	Characteristics [fungus organism]	Characteristics [fungal strain]
+GE10A2				2021-08	Germany	Europe	Setaria	Wild grasses	Pyricularia oryzae	Pyricularia oryzae GE10A2
+GE12B				2021-08	Germany	Europe	Setaria	Wild grasses	Pyricularia oryzae	Pyricularia oryzae GE12B
+										
