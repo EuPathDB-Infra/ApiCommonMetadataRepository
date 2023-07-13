@@ -1,0 +1,9 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics [specimen]	Characteristics [specimen]	Characteristics [specimen]	Characteristics [country]	Characteristics [continent]	Characteristics[city]	Characteristics [organism]	latitude	longitude	Characteristics [fungus organism]	Characteristics [fungal strain]
+IFM_59355-1				7/21/09	human-associated habitat	aerial habitat	air	Japan	Asia	Chiba	Homo sapiens	35.6072	140.1062	Aspergillus fumigatus	Aspergillus fumigatus IFM_59355-1
+IFM_59355-2				7/21/09	human-associated habitat	aerial habitat	air	Japan	Asia	Chiba	Homo sapiens	35.6072	140.1062	Aspergillus fumigatus	Aspergillus fumigatus IFM_59355-2
+IFM_59356-1				7/24/09	human-associated habitat	aerial habitat	air	Japan	Asia	Chiba	Homo sapiens	35.6072	140.1062	Aspergillus fumigatus	Aspergillus fumigatus IFM_59356-1
+IFM_59356-2				7/24/09	human-associated habitat	aerial habitat	air	Japan	Asia	Chiba	Homo sapiens	35.6072	140.1062	Aspergillus fumigatus	Aspergillus fumigatus IFM_59356-2
+IFM_59356-3				7/24/09	human-associated habitat	aerial habitat	air	Japan	Asia	Chiba	Homo sapiens	35.6072	140.1062	Aspergillus fumigatus	Aspergillus fumigatus IFM_59356-3
+IFM_59361-1				11/9/09	human-associated habitat	aerial habitat	air	Japan	Asia	Chiba	Homo sapiens	35.6072	140.1062	Aspergillus fumigatus	Aspergillus fumigatus IFM_59361-1
+IFM_59361-2				11/9/09	human-associated habitat	aerial habitat	air	Japan	Asia	Chiba	Homo sapiens	35.6072	140.1062	Aspergillus fumigatus	Aspergillus fumigatus IFM_59361-2
+IFM_60237				3/10/11	human-associated habitat	aerial habitat	air	Japan	Asia	Chiba	Homo sapiens	35.6072	140.1062	Aspergillus fumigatus	Aspergillus fumigatus IFM_60237
