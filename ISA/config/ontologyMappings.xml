@@ -1227,6 +1227,12 @@
     <name>wheat</name>
   </ontologyTerm>
 
+
+ <ontologyTerm source_id="NCBITaxon_4555" type="characteristicValue" parent="characteristicQualifier">
+    <name>Setaria italica</name>
+    <name>Setaria</name>
+  </ontologyTerm>
+
 <!-- GAZ country values  -->
   <ontologyTerm source_id="GAZ_00002945" type="characteristicValue" parent="characteristicQualifier">
     <name>Greece</name>
