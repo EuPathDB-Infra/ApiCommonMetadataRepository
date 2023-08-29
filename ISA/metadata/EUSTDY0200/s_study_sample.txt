@@ -1,0 +1,6 @@
+Name	Description	SourceMTOverride	SourceMTOverride	characteristics [Fingerprint Clade]	specimen collector	Specimen collection date	Characteristics [country]	Characteristics [continent]	Characteristics[city]	Characteristics [health_status]	Characteristics [organism]	Characteristics [sex]	Characteristics [specimen]	Characteristics [fungus organism]	alternative sample ID	Characteristics [age]	Characteristics [fungal strain]
+1669H				clade I	Medical University of Vienna	2022-04	Austria	Europe	 Vienna	Asymptomatic Infection	Homo sapiens	female	urinary tract	[Candida] auris	Cau5	66	[Candida] auris 1669H
+1502H				clade III	Medical University of Vienna	2021-10	Austria	Europe	 Linz	Asymptomatic Infection	Homo sapiens	female	throat	[Candida] auris	Cau4	60	[Candida] auris 1502H
+1062H				clade I	Medical University of Vienna	2020-05	Austria	Europe	 Vienna	Asymptomatic Infection	Homo sapiens	male	urinary tract	[Candida] auris	Cau3		[Candida] auris 1062H
+989H				clade I	Medical University of Vienna	2020-02	Austria	Europe	 Salzburg	Asymptomatic Infection	Homo sapiens	male	external auditory canal	[Candida] auris	Cau2	61	[Candida] auris 989H
+261H				clade I	Medical University of Vienna	2018-01	Austria	Europe	 Graz	Otitis Externa	Homo sapiens	male	external auditory canal	[Candida] auris	Cau1	22	[Candida] auris 261H
