@@ -1,2 +1,3 @@
 Name	Description	SourceMTOverride	SampleMTOverride	Host_common_name	Country	City
-Scherrer_Eurasian_lynx				Eurasian lynx		
+Scherrer_Eurasian_lynx						Lynx
+Scherrer_Eurasian_beaver						Beaver
