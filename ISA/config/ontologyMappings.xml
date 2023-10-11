@@ -1834,4 +1834,11 @@
   <ontologyTerm source_id="NCBITaxon_4558" type="characteristicValue" parent="characteristicQualifier">
     <name>Sorghum bicolor</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C14321" type="characteristicValue" parent="characteristicQualifier">
+    <name>Felidae</name>
+    <name>Lynx</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C44739" type="characteristicValue" parent="characteristicQualifier">
+    <name>Beaver</name>
+  </ontologyTerm>
 </ontologymappings>
