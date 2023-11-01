@@ -1,0 +1,24 @@
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics[city]	Characteristics [organism]	Characteristics [fungus organism]	Characteristics [specimen]	Characteristics [fungal strain]
+MEC234				10/9/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC234
+MEC233				10/8/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC233
+MEC232				10/9/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC232
+MEC231				10/8/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC231
+MEC230				10/7/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC230
+MEC229				10/7/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC229
+MEC228				10/6/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC228
+MEC286				12/16/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC286
+MEC285				12/19/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC285
+MEC245				10/16/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC245
+MEC227				10/6/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC227
+MEC244				10/16/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC244
+MEC243				10/14/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC243
+MEC242				10/13/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC242
+MEC241				10/13/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC241
+MEC240				10/12/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC240
+MEC239				10/12/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC239
+MEC238				10/11/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC238
+MEC237				10/11/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC237
+MEC236				10/10/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC236
+MEC235				10/10/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC235
+MEC226				10/6/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC226
+MEC225				10/6/20	USA	North America	Minnesota	Homo sapiens	Clavispora lusitaniae	single colony culture	Clavispora lusitaniae MEC225
