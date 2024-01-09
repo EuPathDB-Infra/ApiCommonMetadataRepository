@@ -1575,6 +1575,11 @@
     <name>Netherlands</name>
     <name>The Netherlands</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C45853" type="characteristicValue" parent="characteristicQualifier">
+    <name>Northeast</name>
+  </ontologyTerm>
+
+Northeast
 
 <!-- continent -->
   <ontologyTerm source_id="GAZ_00000464" type="characteristicValue" parent="characteristicQualifier">
