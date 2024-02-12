@@ -1,0 +1,193 @@
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Specimen Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics[city]	Characteristics[city]	Characteristics [organism]	Characteristics[environmental specimen]	Characteristics [fungus organism]	alternative sample ID	Characteristics [fungal strain]
+SA_112				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_112	Parastagonospora nodorum SA_112
+SA_109				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_109	Parastagonospora nodorum SA_109
+SA_61				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_61	Parastagonospora nodorum SA_61
+SA_35				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_35	Parastagonospora nodorum SA_35
+SA_27				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_27	Parastagonospora nodorum SA_27
+IR_B1.1B				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_B1.1b	Parastagonospora nodorum IR_B1.1B
+IR_D2.1B				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_D2.1b	Parastagonospora nodorum IR_D2.1B
+IR_10.11.2A				Mohammad Razavi	2010	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	IR10_11.2a	Parastagonospora nodorum IR_10.11.2A
+IR_B2.1B				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	infected glume	Parastagonospora nodorum	SNIR05_B2.1b	Parastagonospora nodorum IR_B2.1B
+IR_9.1A				Mohammad Razavi	2010	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	seeds	Parastagonospora nodorum	IR10_9.1a	Parastagonospora nodorum IR_9.1A
+IR_2_5.2				Mohammad Razavi	2011	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	Dactylis glomerata	leaf	Parastagonospora nodorum	SN11IR_2_5.2	Parastagonospora nodorum IR_2_5.2
+IR_7_2.3				Mohammad Razavi	2011	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	Dactylis glomerata	leaf	Parastagonospora nodorum	SN11IR_7_2.3	Parastagonospora nodorum IR_7_2.3
+IR_H6.2B				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_H6.2B	Parastagonospora nodorum IR_H6.2B
+IR_5.2B				Mohammad Razavi	2010	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	seeds	Parastagonospora nodorum	IR10_5.2b	Parastagonospora nodorum IR_5.2B
+AUS_1E4				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1E4	Parastagonospora nodorum AUS_1E4
+CHI_20A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_20a	Parastagonospora nodorum CHI_20A
+CHI_1A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_1a	Parastagonospora nodorum CHI_1A
+CHI_19A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_19a	Parastagonospora nodorum CHI_19A
+CHI_14A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_14a	Parastagonospora nodorum CHI_14A
+CHI_60A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_60a	Parastagonospora nodorum CHI_60A
+CHI_11A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_11a	Parastagonospora nodorum CHI_11A
+CHI_34A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_34a	Parastagonospora nodorum CHI_34A
+CHI_32A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_32a	Parastagonospora nodorum CHI_32A
+CHI_2A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_2a	Parastagonospora nodorum CHI_2A
+CHI_27A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_27a	Parastagonospora nodorum CHI_27A
+CHI_24A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_24a	Parastagonospora nodorum CHI_24A
+CHI_10A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_10a	Parastagonospora nodorum CHI_10A
+CASSILS				R. Clear	2005	Canada	North America	n/a	n/a	wheat	seeds	Parastagonospora nodorum	SN05Can_Cassils	Parastagonospora nodorum CASSILS
+AYLSHAM				R. Clear	2005	Canada	North America	n/a	n/a	wheat	seeds	Parastagonospora nodorum	SN05Can_Aylsham	Parastagonospora nodorum AYLSHAM
+AUS_1C7				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1C7	Parastagonospora nodorum AUS_1C7
+TX_XC1.1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XC1.1	Parastagonospora nodorum TX_XC1.1
+TX_XA5C2				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XA5c.2	Parastagonospora nodorum TX_XA5C2
+TX_XA3C1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XA3c.1	Parastagonospora nodorum TX_XA3C1
+TX_XA3B1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XA3b.1	Parastagonospora nodorum TX_XA3B1
+TX_XA3A1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XA3a.1	Parastagonospora nodorum TX_XA3A1
+TX_XH2.3				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XH2.3	Parastagonospora nodorum TX_XH2.3
+TX_XH2.1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XH2.1	Parastagonospora nodorum TX_XH2.1
+TX_XA2.4				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XA2.4	Parastagonospora nodorum TX_XA2.4
+AUS_1B6				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1B6	Parastagonospora nodorum AUS_1B6
+TX_XD3.1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XD3.1	Parastagonospora nodorum TX_XD3.1
+TX_XD1.1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XD1.1	Parastagonospora nodorum TX_XD1.1
+TX_XC6.3				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XC6.3	Parastagonospora nodorum TX_XC6.3
+TX_XC5.1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XC5.1	Parastagonospora nodorum TX_XC5.1
+AUS_1B4				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1B4	Parastagonospora nodorum AUS_1B4
+OR_HBH4B				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HBh4b	Parastagonospora nodorum OR_HBH4B
+OR_E3A				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HE3a	Parastagonospora nodorum OR_E3A
+OR_C8A				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HC8a	Parastagonospora nodorum OR_C8A
+OR_C5A				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HC5a	Parastagonospora nodorum OR_C5A
+OR_C4D				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HC4d	Parastagonospora nodorum OR_C4D
+OR_HFH3A				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HFh3a	Parastagonospora nodorum OR_HFH3A
+OR_HBH9B				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HBh9b	Parastagonospora nodorum OR_HBH9B
+OR_HBH4D				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HBh4d	Parastagonospora nodorum OR_HBH4D
+OR_HFH9B				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HFh9b	Parastagonospora nodorum OR_HFH9B
+OR_HFH2D				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HFh2d	Parastagonospora nodorum OR_HFH2D
+OR_HBH8C				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HBh8c	Parastagonospora nodorum OR_HBH8C
+OR_A1C				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HA1c	Parastagonospora nodorum OR_A1C
+AUS_1A9				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1A9	Parastagonospora nodorum AUS_1A9
+NY_345				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN345NY91	Parastagonospora nodorum NY_345
+NY_342				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN342NY91	Parastagonospora nodorum NY_342
+NY_334				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN334NY91	Parastagonospora nodorum NY_334
+NY_330				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN330NY91	Parastagonospora nodorum NY_330
+NY_430				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN430NY91	Parastagonospora nodorum NY_430
+NY_391				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN391NY91	Parastagonospora nodorum NY_391
+AUS_A7				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1A7	Parastagonospora nodorum AUS_A7
+NY_325				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN325NY91	Parastagonospora nodorum NY_325
+NY_373				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN373NY91	Parastagonospora nodorum NY_373
+NY_363				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN363NY91	Parastagonospora nodorum NY_363
+82_4841				Joseph Krupinsky	1982	USA	North America	 Fargo	 North Dakota	smoothe bromegrass	leaf	Parastagonospora nodorum	82-4841	Parastagonospora nodorum 82_4841
+CH_1B5A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B5A	Parastagonospora nodorum CH_1B5A
+CH_1B2A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B2A	Parastagonospora nodorum CH_1B2A
+CH_1A3A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1A3A	Parastagonospora nodorum CH_1A3A
+CH_1B10A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B10A	Parastagonospora nodorum CH_1B10A
+CH_1C5A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1C5A	Parastagonospora nodorum CH_1C5A
+CH_1C3A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1C3A	Parastagonospora nodorum CH_1C3A
+CH_1B9A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B9A	Parastagonospora nodorum CH_1B9A
+SA_14				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_14	Parastagonospora nodorum SA_14
+AUS_1F4				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1F4	Parastagonospora nodorum AUS_1F4
+SA_110				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_110	Parastagonospora nodorum SA_110
+SA_80				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_80	Parastagonospora nodorum SA_80
+SA_43				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_43	Parastagonospora nodorum SA_43
+SA_107				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_107	Parastagonospora nodorum SA_107
+SA_3				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_3	Parastagonospora nodorum SA_3
+AUS_1F3				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1F3	Parastagonospora nodorum AUS_1F3
+SA_25				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_25	Parastagonospora nodorum SA_25
+SA_22				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_22	Parastagonospora nodorum SA_22
+SA_20				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_20	Parastagonospora nodorum SA_20
+SA_2				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_2	Parastagonospora nodorum SA_2
+SA_15				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_15	Parastagonospora nodorum SA_15
+SA_134				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_134	Parastagonospora nodorum SA_134
+SA_125				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_125	Parastagonospora nodorum SA_125
+SA_10				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_10	Parastagonospora nodorum SA_10
+IR_C2.2B				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_C2.2b	Parastagonospora nodorum IR_C2.2B
+IR_C2.2A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	infected glume	Parastagonospora nodorum	SNIR05_C2.2a	Parastagonospora nodorum IR_C2.2A
+AUS_1F2				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1F2	Parastagonospora nodorum AUS_1F2
+IR_B3.1A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_B3.1a	Parastagonospora nodorum IR_B3.1A
+IR_B2.1A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_B2.1a	Parastagonospora nodorum IR_B2.1A
+IR_B1.2A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_B1.2a	Parastagonospora nodorum IR_B1.2A
+IR_9.3B				Mohammad Razavi	2010	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	IR10_9.3b	Parastagonospora nodorum IR_9.3B
+IR_H7.1A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_H7.1a	Parastagonospora nodorum IR_H7.1A
+IR_10.4A				Mohammad Razavi	2010	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	IR10_10.4a	Parastagonospora nodorum IR_10.4A
+IR_C5.2A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_C5.2a	Parastagonospora nodorum IR_C5.2A
+IR_H4.1A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_H4.1a	Parastagonospora nodorum IR_H4.1A
+IR_H2.1A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_H2.1a	Parastagonospora nodorum IR_H2.1A
+AUS_1E8				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1E8	Parastagonospora nodorum AUS_1E8
+IR_G2.1A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_G2.1a	Parastagonospora nodorum IR_G2.1A
+IR_E3.1D				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_E3.1d	Parastagonospora nodorum IR_E3.1D
+IR_E3.1B				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_E3.1b	Parastagonospora nodorum IR_E3.1B
+IR_D2.1BB				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_D2.1bB	Parastagonospora nodorum IR_D2.1BB
+IR_D2.1BA				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_D2.1bA	Parastagonospora nodorum IR_D2.1BA
+IR_C3.1A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_C3.1a	Parastagonospora nodorum IR_C3.1A
+IR_C1.2A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	leaf	Parastagonospora nodorum	SNIR05_C1.2a	Parastagonospora nodorum IR_C1.2A
+AUS_1E6				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1E6	Parastagonospora nodorum AUS_1E6
+IR_2.1A				Mohammad Razavi	2010	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	seeds	Parastagonospora nodorum	IR10_2.1a	Parastagonospora nodorum IR_2.1A
+IR_6_1.1				Mohammad Razavi	2011	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	Elymus tauri	leaf	Parastagonospora nodorum	SN11IR_6_1.1	Parastagonospora nodorum IR_6_1.1
+IR_A1_3.1A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	infected glume	Parastagonospora nodorum	SNIR05_A1_3.1a	Parastagonospora nodorum IR_A1_3.1A
+IR_B4.2A				Mohammad Razavi	2005	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	wheat	infected glume	Parastagonospora nodorum	SNIR05_B4.2a	Parastagonospora nodorum IR_B4.2A
+IR_2_1.1				Mohammad Razavi	2011	Iran	Asia	 Aliabad-e-Katul	 Golestan Province	Dactylus glomerata	leaf	Parastagonospora nodorum	SN11IR_2_1.1	Parastagonospora nodorum IR_2_1.1
+CHI_21A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_21a	Parastagonospora nodorum CHI_21A
+CHI_17A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_17a	Parastagonospora nodorum CHI_17A
+CHI_13A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_13a	Parastagonospora nodorum CHI_13A
+CHI_52A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_52a	Parastagonospora nodorum CHI_52A
+CHI_35A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_35a	Parastagonospora nodorum CHI_35A
+AUS_1E2				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1E2	Parastagonospora nodorum AUS_1E2
+CHI_33A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_33a	Parastagonospora nodorum CHI_33A
+CHI_31A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_31a	Parastagonospora nodorum CHI_31A
+CHI_28A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_28a	Parastagonospora nodorum CHI_28A
+CHI_25A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_25a	Parastagonospora nodorum CHI_25A
+AUS_1E10				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1E10	Parastagonospora nodorum AUS_1E10
+CHI_22A				R. Wu	2001	China	Asia	 Louyan	 Fujian province	wheat	leaf	Parastagonospora nodorum	SNChi01_22a	Parastagonospora nodorum CHI_22A
+HARTNEY				R. Clear	2005	Canada	North America	n/a	n/a	wheat	seeds	Parastagonospora nodorum	SN05Can_Hartney	Parastagonospora nodorum HARTNEY
+JASEN4				R. Clear	2005	Canada	North America	n/a	n/a	wheat	seeds	Parastagonospora nodorum	SN05Can_Jansen #4	Parastagonospora nodorum JASEN4
+BRIERCREST				R. Clear	2005	Canada	North America	n/a	n/a	wheat	seeds	Parastagonospora nodorum	SN05Can_Briercrest	Parastagonospora nodorum BRIERCREST
+BARKER				Kasia Clarke	2009	Australia	Oceania	 town of Mt Barker	n/a	oats	leaf	Parastagonospora nodorum	Mt.Baker	Parastagonospora nodorum BARKER
+AUS_1C3				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1C3	Parastagonospora nodorum AUS_1C3
+AUS_1D4				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1D4	Parastagonospora nodorum AUS_1D4
+TX_XC2.1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XC2.1	Parastagonospora nodorum TX_XC2.1
+AUS_1B8				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1B8	Parastagonospora nodorum AUS_1B8
+TX_XA5A.2				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XA5a.2	Parastagonospora nodorum TX_XA5A.2
+TX_XH1.4				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XH1.4	Parastagonospora nodorum TX_XH1.4
+TX_XH1.1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XH1.1	Parastagonospora nodorum TX_XH1.1
+TX_XG2.1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XG2.1	Parastagonospora nodorum TX_XG2.1
+TX_XG1.1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XG1.1	Parastagonospora nodorum TX_XG1.1
+TX_XD1.2				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XD1.2	Parastagonospora nodorum TX_XD1.2
+TX_XC7.2				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XC7.2	Parastagonospora nodorum TX_XC7.2
+TX_XC6.2				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XC6.2	Parastagonospora nodorum TX_XC6.2
+TX_XA2.1				Lloyd Nelson and Bruce A. McDonald	1992	USA	North America	 Overton	 Texas	wheat	leaf	Parastagonospora nodorum	SNOV92XA2.1	Parastagonospora nodorum TX_XA2.1
+OR_HBH7B				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HBh7b	Parastagonospora nodorum OR_HBH7B
+OR_C3A				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HC3a	Parastagonospora nodorum OR_C3A
+OR_HFH6C				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HFh6c	Parastagonospora nodorum OR_HFH6C
+OR_A2B				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HA2b	Parastagonospora nodorum OR_A2B
+AUS_1B3				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1B3	Parastagonospora nodorum AUS_1B3
+OR_HBH8D				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HBh8d	Parastagonospora nodorum OR_HBH8D
+OR_HBH5A				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HBh5a	Parastagonospora nodorum OR_HBH5A
+OR_HDH2B				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HDh2b	Parastagonospora nodorum OR_HDH2B
+OR_HBH7C				Molly Schmidt	1993	USA	North America	 Hyslop	 Oregon	wheat	leaf	Parastagonospora nodorum	SNOR93HBh7c	Parastagonospora nodorum OR_HBH7C
+NY_349				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN349NY91	Parastagonospora nodorum NY_349
+NY_335				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN335NY91	Parastagonospora nodorum NY_335
+NY_328				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN328NY91	Parastagonospora nodorum NY_328
+NY_387				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN387NY91	Parastagonospora nodorum NY_387
+NY_384				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN384NY91	Parastagonospora nodorum NY_384
+NY_377				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN377NY91	Parastagonospora nodorum NY_377
+NY_375				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN375NY91	Parastagonospora nodorum NY_375
+NY_369				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN369NY91	Parastagonospora nodorum NY_369
+NY_366				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN366NY91	Parastagonospora nodorum NY_366
+NY_358				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN358NY91	Parastagonospora nodorum NY_358
+NY_356				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN356NY91	Parastagonospora nodorum NY_356
+AUS_1G5				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1G5	Parastagonospora nodorum AUS_1G5
+NY_351				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN351NY91	Parastagonospora nodorum NY_351
+NY_322				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN322NY91	Parastagonospora nodorum NY_322
+83_6011_2				Joseph Krupinsky	1983	USA	North America	 Fargo	 North Dakota	smoothe bromegrass	leaf	Parastagonospora nodorum	83-6011-2	Parastagonospora nodorum 83_6011_2
+CH_1B8A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B8A	Parastagonospora nodorum CH_1B8A
+CH_1B7A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B7A	Parastagonospora nodorum CH_1B7A
+CH_1B4A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B4A	Parastagonospora nodorum CH_1B4A
+CH_1B3A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B3A	Parastagonospora nodorum CH_1B3A
+AUS_1G1				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1G1	Parastagonospora nodorum AUS_1G1
+CH_1B1A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B1A	Parastagonospora nodorum CH_1B1A
+CH_1D6A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1D6A	Parastagonospora nodorum CH_1D6A
+CH_1D4A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1D4A	Parastagonospora nodorum CH_1D4A
+CH_1D2A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1D2A	Parastagonospora nodorum CH_1D2A
+CH_1C9A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1C9A	Parastagonospora nodorum CH_1C9A
+CH_1C7A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1C7A	Parastagonospora nodorum CH_1C7A
+CH_1C6A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1C6A	Parastagonospora nodorum CH_1C6A
+AUS_1A5				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1A5	Parastagonospora nodorum AUS_1A5
+CH_1C4A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1C4A	Parastagonospora nodorum CH_1C4A
+CH_1C2A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1C2A	Parastagonospora nodorum CH_1C2A
+CH_1C1A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1C1A	Parastagonospora nodorum CH_1C1A
+CH_1A9A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1A9A	Parastagonospora nodorum CH_1A9A
+SA_123				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_123	Parastagonospora nodorum SA_123
+SA_12				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_12	Parastagonospora nodorum SA_12
+SA_116				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_116	Parastagonospora nodorum SA_116
+AUS_1D2				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1D2	Parastagonospora nodorum AUS_1D2
+AUS_1A3				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1A3	Parastagonospora nodorum AUS_1A3
