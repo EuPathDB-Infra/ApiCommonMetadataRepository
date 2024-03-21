@@ -1,4 +1,4 @@
-Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Specimen Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics[city]	Characteristics[city]	Characteristics [organism]	Characteristics[environmental specimen]	Characteristics [fungus organism]	alternative sample ID	Characteristics [fungal strain]
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Specimen Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics[city]	Characteristics[city]	Characteristics [organism]	Characteristics[specimen]	Characteristics [fungus organism]	alternative sample ID	Characteristics [fungal strain]
 SA_112				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_112	Parastagonospora nodorum SA_112
 SA_109				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_109	Parastagonospora nodorum SA_109
 SA_61				Pedro Crous	1995	South Africa	Africa	 Gouda area	 Southwestern Cape	wheat	leaf	Parastagonospora nodorum	SNSA95_61	Parastagonospora nodorum SA_61
@@ -66,7 +66,7 @@ AUS_A7				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of
 NY_325				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN325NY91	Parastagonospora nodorum NY_325
 NY_373				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN373NY91	Parastagonospora nodorum NY_373
 NY_363				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN363NY91	Parastagonospora nodorum NY_363
-82_4841				Joseph Krupinsky	1982	USA	North America	 Fargo	 North Dakota	smoothe bromegrass	leaf	Parastagonospora nodorum	82-4841	Parastagonospora nodorum 82_4841
+82_4841				Joseph Krupinsky	1982	USA	North America	 Fargo	 North Dakota	smooth bromegrass	leaf	Parastagonospora nodorum	82-4841	Parastagonospora nodorum 82_4841
 CH_1B5A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B5A	Parastagonospora nodorum CH_1B5A
 CH_1B2A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B2A	Parastagonospora nodorum CH_1B2A
 CH_1A3A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1A3A	Parastagonospora nodorum CH_1A3A
@@ -168,7 +168,7 @@ NY_356				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Par
 AUS_1G5				Bruce A. McDonald and Robert Loughman	2001	Australia	Oceania	 North of Narrogin	n/a	wheat	leaf	Parastagonospora nodorum	SNAus01_1G5	Parastagonospora nodorum AUS_1G5
 NY_351				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN351NY91	Parastagonospora nodorum NY_351
 NY_322				Gary Bergstrom	1991	USA	North America	 Ithaca	 New York	wheat	leaf	Parastagonospora nodorum	SN322NY91	Parastagonospora nodorum NY_322
-83_6011_2				Joseph Krupinsky	1983	USA	North America	 Fargo	 North Dakota	smoothe bromegrass	leaf	Parastagonospora nodorum	83-6011-2	Parastagonospora nodorum 83_6011_2
+83_6011_2				Joseph Krupinsky	1983	USA	North America	 Fargo	 North Dakota	smooth bromegrass	leaf	Parastagonospora nodorum	83-6011-2	Parastagonospora nodorum 83_6011_2
 CH_1B8A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B8A	Parastagonospora nodorum CH_1B8A
 CH_1B7A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B7A	Parastagonospora nodorum CH_1B7A
 CH_1B4A				Bruce A. McDonald and Vincent Michel	1999	Switzerland	Europe	 Winterthur	 Zurich Kanton	wheat	leaf	Parastagonospora nodorum	SN99CH_1B4A	Parastagonospora nodorum CH_1B4A

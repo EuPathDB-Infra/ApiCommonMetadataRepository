@@ -1,141 +1,141 @@
-Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics[city]	Characteristics [health_status]	Characteristics [organism]	Characteristics [sex]	latitude	longitude	Characteristics [fungus organism]	characteristics [fungal genotype]	Characteristics [age]	Characteristics [specimen]	Characteristics [fungal strain]
-MYCO-00930				6/5/01	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	41	skin	Blastomyces dermatitidis MYCO-00930
-LSPQ-00742				6/4/07	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	7	46	lung	Blastomyces dermatitidis LSPQ-00742
-MYCO-00935				9/17/01	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	5	16	lung	Blastomyces dermatitidis MYCO-00935
-MYCO-00941				1/30/02	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	72	upper respiratory	Blastomyces dermatitidis MYCO-00941
-MYCO-00942				3/12/02	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	40	skin	Blastomyces dermatitidis MYCO-00942
-MYCO-00943				3/18/02	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	69	skin	Blastomyces dermatitidis MYCO-00943
-MYCO-00945				5/2/02	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	5	66	skin	Blastomyces dermatitidis MYCO-00945
-MYCO-00947				4/9/02	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	23	lung	Blastomyces dermatitidis MYCO-00947
-MYCO-00962				1/14/03	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	24	lung	Blastomyces dermatitidis MYCO-00962
-MYCO-00974				3/24/03	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	41	lung	Blastomyces dermatitidis MYCO-00974
-MYCO-00985				4/15/03	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	42	bone biopsy	Blastomyces dermatitidis MYCO-00985
-MYCO-00993				6/11/03	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	2	74	lung	Blastomyces dermatitidis MYCO-00993
-LSPQ-00743				5/29/07	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	3	46	lung	Blastomyces dermatitidis LSPQ-00743
-MYCO-01404				1/17/04	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	3	71	lung	Blastomyces dermatitidis MYCO-01404
-MYCO-01405				2/9/04	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	62	lung	Blastomyces dermatitidis MYCO-01405
-MYCO-01420				7/22/04	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	7	66	bone biopsy	Blastomyces dermatitidis MYCO-01420
-MYCO-01435				2/18/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	34	thoracic biopsy	Blastomyces dermatitidis MYCO-01435
-MYCO-01441				2/7/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	2	53	skin	Blastomyces dermatitidis MYCO-01441
-MYCO-01443				5/11/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	54	lung	Blastomyces dermatitidis MYCO-01443
-MYCO-01444				5/30/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	52	lung	Blastomyces dermatitidis MYCO-01444
-MYCO-01450				10/13/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	78	skin	Blastomyces dermatitidis MYCO-01450
-MYCO-01451				10/25/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	2	62	lung	Blastomyces dermatitidis MYCO-01451
-MYCO-01452				10/28/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	3	34	lung	Blastomyces dermatitidis MYCO-01452
-LSPQ-00766				2/2/08	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	39	skin	Blastomyces dermatitidis LSPQ-00766
-LSPQ-00783				3/19/08	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	2	61	skin	Blastomyces dermatitidis LSPQ-00783
-LSPQ-00787				4/1/08	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	78	lung	Blastomyces dermatitidis LSPQ-00787
-LSPQ-00799				5/8/08	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	52	lung	Blastomyces dermatitidis LSPQ-00799
-LSPQ-00849				2/27/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	41	lung	Blastomyces dermatitidis LSPQ-00849
-LSPQ-00853				2/18/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	6	55	lung	Blastomyces dermatitidis LSPQ-00853
-LSPQ-00667				3/23/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	1	61	tissue	Blastomyces dermatitidis LSPQ-00667
-LSPQ-00854				3/5/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	29	lung	Blastomyces dermatitidis LSPQ-00854
-LSPQ-00858				4/19/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	62	lung	Blastomyces dermatitidis LSPQ-00858
-LSPQ-00867				6/18/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	3	43	skin	Blastomyces dermatitidis LSPQ-00867
-LSPQ-00868				7/7/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	1	45	skin	Blastomyces dermatitidis LSPQ-00868
-LSPQ-00898				2/9/10	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	62	skin	Blastomyces dermatitidis LSPQ-00898
-LSPQ-00917				3/16/10	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	77	skin	Blastomyces dermatitidis LSPQ-00917
-LSPQ-00918				6/5/10	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	40	lung	Blastomyces dermatitidis LSPQ-00918
-LSPQ-00941				10/12/10	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	7	58	lung	Blastomyces dermatitidis LSPQ-00941
-LSPQ-00958				2/3/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	58	lung	Blastomyces dermatitidis LSPQ-00958
-LSPQ-00973				5/25/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	73	lung	Blastomyces dermatitidis LSPQ-00973
-LSPQ-00986				8/6/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	81	skin	Blastomyces dermatitidis LSPQ-00986
-LSPQ-00995				9/23/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	79	lung	Blastomyces dermatitidis LSPQ-00995
-LSPQ-00996				8/31/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	73	lung	Blastomyces dermatitidis LSPQ-00996
-LSPQ-01010				3/9/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	7	69	lung	Blastomyces dermatitidis LSPQ-01010
-LSPQ-01013				3/26/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	45	urine	Blastomyces dermatitidis LSPQ-01013
-LSPQ-01014				3/30/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	72	skin	Blastomyces dermatitidis LSPQ-01014
-LSPQ-01059				9/16/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	61	lung	Blastomyces dermatitidis LSPQ-01059
-LSPQ-01071				2/21/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	42	skin	Blastomyces dermatitidis LSPQ-01071
-LSPQ-01077				4/24/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	85	skin	Blastomyces dermatitidis LSPQ-01077
-LSPQ-01092				5/6/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	81	lung	Blastomyces dermatitidis LSPQ-01092
-LSPQ-01099				8/29/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	63	skin	Blastomyces dermatitidis LSPQ-01099
-LSPQ-01102				9/6/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	75	lung	Blastomyces dermatitidis LSPQ-01102
-LSPQ-01104				10/8/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	7	47	missing	Blastomyces dermatitidis LSPQ-01104
-LSPQ-01123				12/3/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	5	59	skin	Blastomyces dermatitidis LSPQ-01123
-LSPQ-01130				1/6/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	5	66	skin	Blastomyces dermatitidis LSPQ-01130
-LSPQ-01142				4/9/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	54	lung	Blastomyces dermatitidis LSPQ-01142
-LSPQ-01154				7/28/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	54	lung	Blastomyces dermatitidis LSPQ-01154
-LSPQ-01158				9/1/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	59	skin	Blastomyces dermatitidis LSPQ-01158
-LSPQ-01165				9/13/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	5	54	lung	Blastomyces dermatitidis LSPQ-01165
-LSPQ-00682				5/1/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	55	thoracic biopsy	Blastomyces dermatitidis LSPQ-00682
-LSPQ-01183				11/11/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	2	84	lung	Blastomyces dermatitidis LSPQ-01183
-LSPQ-01184				11/26/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	41	skin	Blastomyces dermatitidis LSPQ-01184
-LSPQ-01204				4/7/15	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	74	tissue	Blastomyces dermatitidis LSPQ-01204
-LSPQ-01206				6/12/15	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	53	lung	Blastomyces dermatitidis LSPQ-01206
-LSPQ-01207				6/16/15	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	52	skin	Blastomyces dermatitidis LSPQ-01207
-LSPQ-01222				7/14/15	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	58	lung	Blastomyces dermatitidis LSPQ-01222
-LSPQ-01227				8/17/15	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	64	lung	Blastomyces dermatitidis LSPQ-01227
-LSPQ-01231				10/27/15	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	19	lung	Blastomyces dermatitidis LSPQ-01231
-LSPQ-01249				1/26/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	67	lung	Blastomyces dermatitidis LSPQ-01249
-LSPQ-01253				3/9/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	43	lung	Blastomyces dermatitidis LSPQ-01253
-LSPQ-00687				5/16/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	4	70	lung	Blastomyces dermatitidis LSPQ-00687
-LSPQ-01254				1/18/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	32	skin	Blastomyces dermatitidis LSPQ-01254
-LSPQ-01256				4/21/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	47	lung	Blastomyces dermatitidis LSPQ-01256
-LSPQ-01257				5/2/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	64	lung	Blastomyces dermatitidis LSPQ-01257
-LSPQ-01258				5/3/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	1	58	lung	Blastomyces dermatitidis LSPQ-01258
-LSPQ-01266				6/10/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	57	lung	Blastomyces dermatitidis LSPQ-01266
-LSPQ-01267				5/31/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	50	lung	Blastomyces dermatitidis LSPQ-01267
-LSPQ-01269				6/30/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	70	skin	Blastomyces dermatitidis LSPQ-01269
-LSPQ-01284				7/20/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	45	lung	Blastomyces dermatitidis LSPQ-01284
-LSPQ-01292				8/30/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	61	lung	Blastomyces dermatitidis LSPQ-01292
-LSPQ-01293				9/15/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	50	lung	Blastomyces dermatitidis LSPQ-01293
-LSPQ-00699				7/19/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	42	lung	Blastomyces dermatitidis LSPQ-00699
-LSPQ-01302				10/12/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	1	73	peau	Blastomyces dermatitidis LSPQ-01302
-LSPQ-01351				2/3/17	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	48	lung	Blastomyces dermatitidis LSPQ-01351
-MYCO-00511				8/18/88	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	3	53	lung	Blastomyces dermatitidis MYCO-00511
-MYCO-00743				5/4/92	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	35	lung	Blastomyces dermatitidis MYCO-00743
-MYCO-00756				6/18/93	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	44	skin	Blastomyces dermatitidis MYCO-00756
-MYCO-00759				7/6/93	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	2	33	skin	Blastomyces dermatitidis MYCO-00759
-MYCO-00809				1/9/95	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	44	lung	Blastomyces dermatitidis MYCO-00809
-MYCO-00813				3/9/95	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	56	lung	Blastomyces dermatitidis MYCO-00813
-MYCO-00814				4/21/95	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	43	tissue	Blastomyces dermatitidis MYCO-00814
-MYCO-00818				6/1/95	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	4	37	lung	Blastomyces dermatitidis MYCO-00818
-LSPQ-00713				10/14/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	23	skin	Blastomyces dermatitidis LSPQ-00713
-MYCO-00828				8/30/95	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	76	lung	Blastomyces dermatitidis MYCO-00828
-MYCO-00841				3/19/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	30	missing	Blastomyces dermatitidis MYCO-00841
-MYCO-00852				missing	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	missing	45.43	73.91	Blastomyces dermatitidis	missing	missing	missing	Blastomyces dermatitidis MYCO-00852
-LSPQ-00884				11/3/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	72	skin	Blastomyces dermatitidis LSPQ-00884
-LSPQ-00890				12/17/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	55	lung	Blastomyces dermatitidis LSPQ-00890
-LSPQ-00926				7/7/10	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	77	lung	Blastomyces dermatitidis LSPQ-00926
-LSPQ-00669				3/28/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	7	46	skin	Blastomyces dermatitidis LSPQ-00669
-LSPQ-00940				10/13/10	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	65	multi	Blastomyces dermatitidis LSPQ-00940
-LSPQ-00976				6/29/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	5	45	skin	Blastomyces dermatitidis LSPQ-00976
-LSPQ-00985				missing	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	missing	45.43	73.91	Blastomyces dermatitidis			missing	Blastomyces dermatitidis LSPQ-00985
-LSPQ-01003				10/1/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	6	35	lung	Blastomyces dermatitidis LSPQ-01003
-LSPQ-00672				4/20/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	55	respiratoire	Blastomyces dermatitidis LSPQ-00672
-LSPQ-01004				11/22/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	62	lung	Blastomyces dermatitidis LSPQ-01004
-LSPQ-01016				3/28/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	49	lung	Blastomyces dermatitidis LSPQ-01016
-LSPQ-01021				5/28/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	53	skin	Blastomyces dermatitidis LSPQ-01021
-LSPQ-00679				4/19/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	62	thoracic biopsy	Blastomyces dermatitidis LSPQ-00679
-LSPQ-01095				7/17/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	1	62	skin	Blastomyces dermatitidis LSPQ-01095
-MYCO-00860				10/7/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	72	lung	Blastomyces dermatitidis MYCO-00860
-MYCO-00862				10/20/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	61	skin	Blastomyces dermatitidis MYCO-00862
-MYCO-00863				11/27/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	34	skin	Blastomyces dermatitidis MYCO-00863
-LSPQ-00499				3/11/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	70	lung	Blastomyces dermatitidis LSPQ-00499
-LSPQ-00666				missing	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	missing	45.43	73.91	Blastomyces dermatitidis	missing	missing	missing	Blastomyces dermatitidis LSPQ-00666
-LSPQ-00728				3/26/07	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	54	lung	Blastomyces dermatitidis LSPQ-00728
-MYCO-00873				6/13/97	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	7	38	skin	Blastomyces dermatitidis MYCO-00873
-MYCO-00879				12/16/97	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	28	lung	Blastomyces dermatitidis MYCO-00879
-MYCO-00881				3/31/98	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	34	lung	Blastomyces dermatitidis MYCO-00881
-MYCO-00884				4/21/98	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	50	lung	Blastomyces dermatitidis MYCO-00884
-MYCO-00892				11/28/98	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	49	upper respiratory	Blastomyces dermatitidis MYCO-00892
-MYCO-00895				1/28/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	20	skin	Blastomyces dermatitidis MYCO-00895
-MYCO-00901				5/12/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	24	lung	Blastomyces dermatitidis MYCO-00901
-MYCO-00904				9/7/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	68	lung	Blastomyces dermatitidis MYCO-00904
-MYCO-00905				8/25/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	69	lung	Blastomyces dermatitidis MYCO-00905
-MYCO-00906				10/8/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	15	lung	Blastomyces dermatitidis MYCO-00906
-LSPQ-00737				5/14/07	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	70	upper respiratory	Blastomyces dermatitidis LSPQ-00737
-MYCO-00909				10/15/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	68	lung	Blastomyces dermatitidis MYCO-00909
-MYCO-00911				1/11/00	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	5	44	lung	Blastomyces dermatitidis MYCO-00911
-MYCO-00912				1/13/00	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	43	lung	Blastomyces dermatitidis MYCO-00912
-MYCO-00914				3/14/00	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	1	42	lung	Blastomyces dermatitidis MYCO-00914
-MYCO-00915				2/11/00	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	42	lung	Blastomyces dermatitidis MYCO-00915
-MYCO-00922				7/3/00	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	7	63	missing	Blastomyces dermatitidis MYCO-00922
-MYCO-00925				1/26/01	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	82	lung	Blastomyces dermatitidis MYCO-00925
-MYCO-00926				1/4/01	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	57	lung	Blastomyces dermatitidis MYCO-00926
-MYCO-00928				3/25/01	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	59	upper respiratory	Blastomyces dermatitidis MYCO-00928
-MYCO-00854				7/19/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	3	67	tissue	Blastomyces dermatitidis MYCO-00854
-MYCO-00857				9/19/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	52	lung	Blastomyces dermatitidis MYCO-00857
-MYCO-00859				9/7/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	72	lung	Blastomyces dermatitidis MYCO-00859
-MYCO-00869				4/17/97	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	43	skin and lung	Blastomyces dermatitidis MYCO-00869
+Name	Description	SourceMTOverride	SourceMTOverride	Specimen Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics[city]	Characteristics [health_status]	Characteristics [organism]	Characteristics [sex]	latitude	longitude	Characteristics [fungus organism]	characteristics [fungal genotype]	Characteristics [sampleSource]	Characteristics [fungal strain]	Characteristics [age]
+MYCO-00930				6/5/01	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	skin	Blastomyces dermatitidis MYCO-00930	41 years
+LSPQ-00742				6/4/07	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	7	lung	Blastomyces dermatitidis LSPQ-00742	46 years
+MYCO-00935				9/17/01	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	5	lung	Blastomyces dermatitidis MYCO-00935	16 years
+MYCO-00941				1/30/02	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	upper respiratory	Blastomyces dermatitidis MYCO-00941	72 years
+MYCO-00942				3/12/02	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	skin	Blastomyces dermatitidis MYCO-00942	40 years
+MYCO-00943				3/18/02	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	skin	Blastomyces dermatitidis MYCO-00943	69 years
+MYCO-00945				5/2/02	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	5	skin	Blastomyces dermatitidis MYCO-00945	66 years
+MYCO-00947				4/9/02	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis MYCO-00947	23 years
+MYCO-00962				1/14/03	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis MYCO-00962	24 years
+MYCO-00974				3/24/03	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis MYCO-00974	41 years
+MYCO-00985				4/15/03	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	bone biopsy	Blastomyces dermatitidis MYCO-00985	42 years
+MYCO-00993				6/11/03	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis MYCO-00993	74 years
+LSPQ-00743				5/29/07	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis LSPQ-00743	46 years
+MYCO-01404				1/17/04	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis MYCO-01404	71 years
+MYCO-01405				2/9/04	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis MYCO-01405	62 years
+MYCO-01420				7/22/04	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	7	bone biopsy	Blastomyces dermatitidis MYCO-01420	66 years
+MYCO-01435				2/18/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	thoracic biopsy	Blastomyces dermatitidis MYCO-01435	34 years
+MYCO-01441				2/7/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	2	skin	Blastomyces dermatitidis MYCO-01441	53 years
+MYCO-01443				5/11/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis MYCO-01443	54 years
+MYCO-01444				5/30/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	lung	Blastomyces dermatitidis MYCO-01444	52 years
+MYCO-01450				10/13/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	skin	Blastomyces dermatitidis MYCO-01450	78 years
+MYCO-01451				10/25/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis MYCO-01451	62 years
+MYCO-01452				10/28/05	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis MYCO-01452	34 years
+LSPQ-00766				2/2/08	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	skin	Blastomyces dermatitidis LSPQ-00766	39 years
+LSPQ-00783				3/19/08	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	2	skin	Blastomyces dermatitidis LSPQ-00783	61 years
+LSPQ-00787				4/1/08	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis LSPQ-00787	78 years
+LSPQ-00799				5/8/08	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis LSPQ-00799	52 years
+LSPQ-00849				2/27/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	lung	Blastomyces dermatitidis LSPQ-00849	41 years
+LSPQ-00853				2/18/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	6	lung	Blastomyces dermatitidis LSPQ-00853	55 years
+LSPQ-00667				3/23/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	1	tissue	Blastomyces dermatitidis LSPQ-00667	61 years
+LSPQ-00854				3/5/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis LSPQ-00854	29 years
+LSPQ-00858				4/19/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis LSPQ-00858	62 years
+LSPQ-00867				6/18/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	3	skin	Blastomyces dermatitidis LSPQ-00867	43 years
+LSPQ-00868				7/7/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	1	skin	Blastomyces dermatitidis LSPQ-00868	45 years
+LSPQ-00898				2/9/10	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	skin	Blastomyces dermatitidis LSPQ-00898	62 years
+LSPQ-00917				3/16/10	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	skin	Blastomyces dermatitidis LSPQ-00917	77 years
+LSPQ-00918				6/5/10	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis LSPQ-00918	40 years
+LSPQ-00941				10/12/10	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	7	lung	Blastomyces dermatitidis LSPQ-00941	58 years
+LSPQ-00958				2/3/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis LSPQ-00958	58 years
+LSPQ-00973				5/25/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis LSPQ-00973	73 years
+LSPQ-00986				8/6/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	skin	Blastomyces dermatitidis LSPQ-00986	81 years
+LSPQ-00995				9/23/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis LSPQ-00995	79 years
+LSPQ-00996				8/31/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis LSPQ-00996	73 years
+LSPQ-01010				3/9/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	7	lung	Blastomyces dermatitidis LSPQ-01010	69 years
+LSPQ-01013				3/26/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	urine	Blastomyces dermatitidis LSPQ-01013	45 years
+LSPQ-01014				3/30/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	skin	Blastomyces dermatitidis LSPQ-01014	72 years
+LSPQ-01059				9/16/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis LSPQ-01059	61 years
+LSPQ-01071				2/21/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	skin	Blastomyces dermatitidis LSPQ-01071	42 years
+LSPQ-01077				4/24/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	skin	Blastomyces dermatitidis LSPQ-01077	85 years
+LSPQ-01092				5/6/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis LSPQ-01092	81 years
+LSPQ-01099				8/29/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	skin	Blastomyces dermatitidis LSPQ-01099	63 years
+LSPQ-01102				9/6/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis LSPQ-01102	75 years
+LSPQ-01104				10/8/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	7		Blastomyces dermatitidis LSPQ-01104	47 years
+LSPQ-01123				12/3/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	5	skin	Blastomyces dermatitidis LSPQ-01123	59 years
+LSPQ-01130				1/6/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	5	skin	Blastomyces dermatitidis LSPQ-01130	66 years
+LSPQ-01142				4/9/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	lung	Blastomyces dermatitidis LSPQ-01142	54 years
+LSPQ-01154				7/28/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis LSPQ-01154	54 years
+LSPQ-01158				9/1/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	skin	Blastomyces dermatitidis LSPQ-01158	59 years
+LSPQ-01165				9/13/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	5	lung	Blastomyces dermatitidis LSPQ-01165	54 years
+LSPQ-00682				5/1/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	thoracic biopsy	Blastomyces dermatitidis LSPQ-00682	55 years
+LSPQ-01183				11/11/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis LSPQ-01183	84 years
+LSPQ-01184				11/26/14	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	skin	Blastomyces dermatitidis LSPQ-01184	41 years
+LSPQ-01204				4/7/15	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	tissue	Blastomyces dermatitidis LSPQ-01204	74 years
+LSPQ-01206				6/12/15	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis LSPQ-01206	53 years
+LSPQ-01207				6/16/15	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	skin	Blastomyces dermatitidis LSPQ-01207	52 years
+LSPQ-01222				7/14/15	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis LSPQ-01222	58 years
+LSPQ-01227				8/17/15	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis LSPQ-01227	64 years
+LSPQ-01231				10/27/15	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis LSPQ-01231	19 years
+LSPQ-01249				1/26/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis LSPQ-01249	67 years
+LSPQ-01253				3/9/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis LSPQ-01253	43 years
+LSPQ-00687				5/16/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	4	lung	Blastomyces dermatitidis LSPQ-00687	70 years
+LSPQ-01254				1/18/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	skin	Blastomyces dermatitidis LSPQ-01254	32 years
+LSPQ-01256				4/21/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis LSPQ-01256	47 years
+LSPQ-01257				5/2/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis LSPQ-01257	64 years
+LSPQ-01258				5/3/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis LSPQ-01258	58 years
+LSPQ-01266				6/10/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis LSPQ-01266	57 years
+LSPQ-01267				5/31/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis LSPQ-01267	50 years
+LSPQ-01269				6/30/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	skin	Blastomyces dermatitidis LSPQ-01269	70 years
+LSPQ-01284				7/20/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	lung	Blastomyces dermatitidis LSPQ-01284	45 years
+LSPQ-01292				8/30/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis LSPQ-01292	61 years
+LSPQ-01293				9/15/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis LSPQ-01293	50 years
+LSPQ-00699				7/19/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	lung	Blastomyces dermatitidis LSPQ-00699	42 years
+LSPQ-01302				10/12/16	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	1	peau	Blastomyces dermatitidis LSPQ-01302	73 years
+LSPQ-01351				2/3/17	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis LSPQ-01351	48 years
+MYCO-00511				8/18/88	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis MYCO-00511	53 years
+MYCO-00743				5/4/92	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis MYCO-00743	35 years
+MYCO-00756				6/18/93	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	skin	Blastomyces dermatitidis MYCO-00756	44 years
+MYCO-00759				7/6/93	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	2	skin	Blastomyces dermatitidis MYCO-00759	33 years
+MYCO-00809				1/9/95	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	lung	Blastomyces dermatitidis MYCO-00809	44 years
+MYCO-00813				3/9/95	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis MYCO-00813	56 years
+MYCO-00814				4/21/95	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	tissue	Blastomyces dermatitidis MYCO-00814	43 years
+MYCO-00818				6/1/95	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	4	lung	Blastomyces dermatitidis MYCO-00818	37 years
+LSPQ-00713				10/14/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	skin	Blastomyces dermatitidis LSPQ-00713	23 years
+MYCO-00828				8/30/95	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis MYCO-00828	76 years
+MYCO-00841				3/19/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6		Blastomyces dermatitidis MYCO-00841	30 years
+MYCO-00852					Canada	North America	 Quebec	Blastomycosis	Homo sapiens		45.43	73.91	Blastomyces dermatitidis			Blastomyces dermatitidis MYCO-00852	 years
+LSPQ-00884				11/3/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	skin	Blastomyces dermatitidis LSPQ-00884	72 years
+LSPQ-00890				12/17/09	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	lung	Blastomyces dermatitidis LSPQ-00890	55 years
+LSPQ-00926				7/7/10	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis LSPQ-00926	77 years
+LSPQ-00669				3/28/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	7	skin	Blastomyces dermatitidis LSPQ-00669	46 years
+LSPQ-00940				10/13/10	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	multi	Blastomyces dermatitidis LSPQ-00940	65 years
+LSPQ-00976				6/29/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	5	skin	Blastomyces dermatitidis LSPQ-00976	45 years
+LSPQ-00985					Canada	North America	 Quebec	Blastomycosis	Homo sapiens		45.43	73.91	Blastomyces dermatitidis			Blastomyces dermatitidis LSPQ-00985	 years
+LSPQ-01003				10/1/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	6	lung	Blastomyces dermatitidis LSPQ-01003	35 years
+LSPQ-00672				4/20/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	respiratoire	Blastomyces dermatitidis LSPQ-00672	55 years
+LSPQ-01004				11/22/11	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	lung	Blastomyces dermatitidis LSPQ-01004	62 years
+LSPQ-01016				3/28/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis LSPQ-01016	49 years
+LSPQ-01021				5/28/12	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	skin	Blastomyces dermatitidis LSPQ-01021	53 years
+LSPQ-00679				4/19/06	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	thoracic biopsy	Blastomyces dermatitidis LSPQ-00679	62 years
+LSPQ-01095				7/17/13	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	1	skin	Blastomyces dermatitidis LSPQ-01095	62 years
+MYCO-00860				10/7/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis MYCO-00860	72 years
+MYCO-00862				10/20/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	skin	Blastomyces dermatitidis MYCO-00862	61 years
+MYCO-00863				11/27/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	skin	Blastomyces dermatitidis MYCO-00863	34 years
+LSPQ-00499				3/11/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis LSPQ-00499	70 years
+LSPQ-00666					Canada	North America	 Quebec	Blastomycosis	Homo sapiens		45.43	73.91	Blastomyces dermatitidis			Blastomyces dermatitidis LSPQ-00666	 years
+LSPQ-00728				3/26/07	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis LSPQ-00728	54 years
+MYCO-00873				6/13/97	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	7	skin	Blastomyces dermatitidis MYCO-00873	38 years
+MYCO-00879				12/16/97	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis MYCO-00879	28 years
+MYCO-00881				3/31/98	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	lung	Blastomyces dermatitidis MYCO-00881	34 years
+MYCO-00884				4/21/98	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis MYCO-00884	50 years
+MYCO-00892				11/28/98	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	upper respiratory	Blastomyces dermatitidis MYCO-00892	49 years
+MYCO-00895				1/28/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	skin	Blastomyces dermatitidis MYCO-00895	20 years
+MYCO-00901				5/12/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	lung	Blastomyces dermatitidis MYCO-00901	24 years
+MYCO-00904				9/7/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis MYCO-00904	68 years
+MYCO-00905				8/25/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	4	lung	Blastomyces dermatitidis MYCO-00905	69 years
+MYCO-00906				10/8/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis MYCO-00906	15 years
+LSPQ-00737				5/14/07	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	upper respiratory	Blastomyces dermatitidis LSPQ-00737	70 years
+MYCO-00909				10/15/99	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	lung	Blastomyces dermatitidis MYCO-00909	68 years
+MYCO-00911				1/11/00	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	5	lung	Blastomyces dermatitidis MYCO-00911	44 years
+MYCO-00912				1/13/00	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis MYCO-00912	43 years
+MYCO-00914				3/14/00	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis MYCO-00914	42 years
+MYCO-00915				2/11/00	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis MYCO-00915	42 years
+MYCO-00922				7/3/00	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	7		Blastomyces dermatitidis MYCO-00922	63 years
+MYCO-00925				1/26/01	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis MYCO-00925	82 years
+MYCO-00926				1/4/01	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	lung	Blastomyces dermatitidis MYCO-00926	57 years
+MYCO-00928				3/25/01	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	3	upper respiratory	Blastomyces dermatitidis MYCO-00928	59 years
+MYCO-00854				7/19/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	female	45.43	73.91	Blastomyces dermatitidis	3	tissue	Blastomyces dermatitidis MYCO-00854	67 years
+MYCO-00857				9/19/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	6	lung	Blastomyces dermatitidis MYCO-00857	52 years
+MYCO-00859				9/7/96	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	1	lung	Blastomyces dermatitidis MYCO-00859	72 years
+MYCO-00869				4/17/97	Canada	North America	 Quebec	Blastomycosis	Homo sapiens	male	45.43	73.91	Blastomyces dermatitidis	2	skin and lung	Blastomyces dermatitidis MYCO-00869	43 years

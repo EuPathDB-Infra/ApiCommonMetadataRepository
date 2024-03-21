@@ -604,6 +604,10 @@
     <name>sampleType</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="EUPATH_0000611" type="characteristicQualifier" parent="Sample">
+    <name>sampleSource</name>
+  </ontologyTerm>
+
   <ontologyTerm source_id="OBI_0001901" type="characteristicQualifier" parent="Sample">
     <name>alternative sample ID</name>
   </ontologyTerm>
@@ -1234,6 +1238,9 @@
   </ontologyTerm>
 
 <!-- GAZ country values  -->
+  <ontologyTerm source_id="GAZ_00004474" type="characteristicValue" parent="characteristicQualifier">
+    <name>Iran</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002945" type="characteristicValue" parent="characteristicQualifier">
     <name>Greece</name>
   </ontologyTerm>
@@ -1248,6 +1255,9 @@
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002719" type="characteristicValue" parent="characteristicQualifier">
     <name>Croatia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002951" type="characteristicValue" parent="characteristicQualifier">
+    <name>Romania</name>
   </ontologyTerm>  
   <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier">
     <name>GAZ:Puerto Rico</name>
@@ -1812,6 +1822,21 @@ Northeast
     <name>Pyrimethamine, Mefloquine and Cloroquine resistant</name>
   </ontologyTerm>
 <!-- organisms -->
+  <ontologyTerm source_id="NCBITaxon_15371" type="characteristicValue" parent="characteristicQualifier">
+    <name>Bromus inermis</name>
+    <name>smooth bromegrass</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C72299" type="characteristicValue" parent="characteristicQualifier">
+    <name>Dactylis glomerata</name>
+    <name>Dactylus glomerata</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_417392" type="characteristicValue" parent="characteristicQualifier">
+    <name>Elymus tauri</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C101357" type="characteristicValue" parent="characteristicQualifier">
+    <name>Oat</name>
+    <name>oats</name>
+  </ontologyTerm>
   <ontologyTerm source_id="NCIT_C14192" type="characteristicValue" parent="characteristicQualifier">
     <name>Cow</name>
   </ontologyTerm>
