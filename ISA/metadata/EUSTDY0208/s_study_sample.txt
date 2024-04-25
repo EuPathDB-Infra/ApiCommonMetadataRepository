@@ -1,0 +1,29 @@
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics[city]	Characteristics [organism]	Characteristics [specimen]	Characteristics [specimen]	latitude	longitude	Characteristics [fungus organism]	Characteristics [fungal strain]
+B18288				CENTERS FOR DISEASE CONTROL AND PREVENTION	2019-09	USA	North America	 MD	Homo sapiens	blood	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B18288
+B18285				CENTERS FOR DISEASE CONTROL AND PREVENTION	2019-08	USA	North America	 MD	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B18285
+B18166				CENTERS FOR DISEASE CONTROL AND PREVENTION	2019-06	USA	North America	 MD	Homo sapiens	Right Foot Wound	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B18166
+B17841				CENTERS FOR DISEASE CONTROL AND PREVENTION	2019-04	USA	North America	 TX	Homo sapiens	not collected	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B17841
+B17840				CENTERS FOR DISEASE CONTROL AND PREVENTION	2019-04	USA	North America	 TX	Homo sapiens	not collected	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B17840
+B16400				CENTERS FOR DISEASE CONTROL AND PREVENTION	2018-09	USA	North America	 VA	Homo sapiens	Lip	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B16400
+B16328				CENTERS FOR DISEASE CONTROL AND PREVENTION	2018-09	USA	North America	 MD	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B16328
+B19310				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-09	USA	North America	 MD	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19310
+B19309				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-08	USA	North America	 PA	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19309
+B19308				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-08	USA	North America	 PA	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19308
+B19294				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-08	USA	North America	 PA	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19294
+B19267				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-08	USA	North America	 CA	Homo sapiens	"Respiratory\, Tracheal Aspirate"	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19267
+B19253				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-07	USA	North America	 CA	Homo sapiens	respiratory	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19253
+B19200				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-08	USA	North America	 CA	Homo sapiens	blood	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19200
+B19119				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-07	USA	North America	 CA	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19119
+B15357				CENTERS FOR DISEASE CONTROL AND PREVENTION	2018-07	USA	North America	 NJ	Homo sapiens	blood	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B15357
+B19118				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-07	USA	North America	 CA	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19118
+B19114				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-07	USA	North America	 CA	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19114
+B19108				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-07	USA	North America	 CA	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19108
+B19105				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-07	USA	North America	 CA	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19105
+B19101				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-07	USA	North America	 CA	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19101
+B19073				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-06	USA	North America	 CA	Homo sapiens	"Blood\, Right Hand"	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19073
+B19036				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-05	USA	North America	 CA	Homo sapiens	blood	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B19036
+B18999				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-05	USA	North America	 OH	Homo sapiens	Axilla and Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B18999
+B18869				CENTERS FOR DISEASE CONTROL AND PREVENTION	2020-03	USA	North America	 CA	Homo sapiens	Leg_Lower	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B18869
+B18560				CENTERS FOR DISEASE CONTROL AND PREVENTION	2019-09	USA	North America	 MD	Homo sapiens	blood	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B18560
+B15356				CENTERS FOR DISEASE CONTROL AND PREVENTION	2018-05	USA	North America	 MD	Homo sapiens	urine	Clinical	33.79 N	117.85 W	[Candida] auris	[Candida] auris B15356
+B15152				CENTERS FOR DISEASE CONTROL AND PREVENTION	2018-04	USA	North America	 NJ	Homo sapiens	Groin	Screening	33.79 N	117.85 W	[Candida] auris	[Candida] auris B15152
