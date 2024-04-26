@@ -1,0 +1,8 @@
+Name	Description	SourceMTOverride	SourceMTOverride	specimen collector	Collection Date	Characteristics[country]	Characteristics [continent]	Characteristics[city]	Characteristics [health_status]	Characteristics [organism]	Characteristics [specimen]	latitude	longitude	Characteristics [fungus organism]	Characteristics [fungal strain]
+645-V-22-2_S48				University of Delhi	10/25/22	India	Asia	Delhi	otitis externa and skin infection	Dog	ear	28.7041 N	77.1025 E	[Candida] auris	[Candida] auris 645-V-22-2_S48
+645_V_22_S35				University of Delhi	9/27/22	India	Asia	Delhi	otitis externa and skin infection	Dog	ear	28.7041 N	77.1025 E	[Candida] auris	[Candida] auris 645_V_22_S35
+D-953-5				University of Delhi		India	Asia	Delhi	only skin infection	dog	ear	28.7041 N	77.1025 E	[Candida] auris	[Candida] auris D-953-5
+D-953-4				University of Delhi		India	Asia	Delhi	only skin infection	dog	ear	28.7041 N	77.1025 E	[Candida] auris	[Candida] auris D-953-4
+D-953-3				University of Delhi		India	Asia	Delhi	only skin infection	dog	ear	28.7041 N	77.1025 E	[Candida] auris	[Candida] auris D-953-3
+D-953-2				University of Delhi		India	Asia	Delhi	only skin infection	dog	ear	28.7041 N	77.1025 E	[Candida] auris	[Candida] auris D-953-2
+D-953-1				University of Delhi		India	Asia	Delhi	only skin infection	dog	ear	28.7041 N	77.1025 E	[Candida] auris	[Candida] auris D-953-1
