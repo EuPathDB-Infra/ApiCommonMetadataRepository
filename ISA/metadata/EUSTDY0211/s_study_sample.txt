@@ -1,0 +1,6 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Host_common_name	Country	Specimen
+TgCatBr_CAT01	Molecular markers in cats RFLP			Brazil	Cat	tissue
+TgCatBr_CAT02	Molecular markers in cats RFLP			Brazil	Cat	tissue
+TgCatBr_CAT03	Molecular markers in cats RFLP			Brazil	Cat	tissue
+TgCatBr_CAT04	Molecular markers in cats RFLP			Brazil	Cat	tissue
+TgCatBr_CAT05	Molecular markers in cats RFLP			Brazil	Cat	tissue
